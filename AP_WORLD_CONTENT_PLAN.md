@@ -34,10 +34,11 @@ Total 3h15m. Rubrics: DBQ 7 / LEQ 6 / SAQ 3 each. No SAQ choice, no LEQ choice �
 ## Build pipeline (same gates as APUSH)
 
 1. **Reclaim** — extract questions from his 3 books into staged files, tagged by book/unit; duplicates skipped, never merged raw.
-2. **Re-conceive** — every item rewritten: new angles, fresh distractor sets, our explanations. No bank item may retain a book's question design. (Standing IP law: facts aren't copyrightable; selection/arrangement/wording must be ours. Zero copyright tolerance.)
-3. **Blind key audit** — separate agent pass, never folded into repair; keys balanced, length-tell 0%.
-4. **Test assembly** — blueprint quotas per test; visual stimuli ~40%, every image a verified PD/CC URL (the t4 lesson: never ship a described-but-unverified image).
-5. **Prod-readiness review** — clean-context reviewers read everything; ship with 0 blockers.
+2. **Re-conceive** — every item rewritten: new angles, fresh distractor sets, our explanations. No bank item may retain a book's question design. (Standing IP law: facts aren't copyrightable; selection/arrangement/wording must be ours. Zero copyright tolerance.) **Quality bar: every item must be exam-grade — CB-style stems, plausible distractors from real misconceptions, no giveaways.**
+3. **Fresh-writing wave** — after reclaim: original questions written from the CED framework to meet the quota, informed by internet research (non-CB sources only — open textbooks, PD primaries, educational sites) for topic coverage. Same re-conception quality bar applies.
+4. **Blind key audit** — separate agent pass, never folded into repair; keys balanced, length-tell 0%.
+5. **Test assembly** — blueprint quotas per test; visual stimuli ~40%, every image a verified PD/CC URL (the t4 lesson: never ship a described-but-unverified image).
+6. **Prod-readiness review** — clean-context reviewers read everything; ship with 0 blockers.
 
 ## Standing rules (inherited)
 
