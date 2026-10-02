@@ -1,295 +1,299 @@
 [
-  {
-    "difficulty": "medium",
-    "explanation": "The dates stretch from 1807 to 1888, with each state acting on its own timetable — Britain in the 1830s, France in 1848, the US in 1865, Brazil in 1888. There was no single moment when slavery ended worldwide.",
-    "id": "wh-fresh-u5-011",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The timeline spans eight decades; abolitions were national decisions, not coordinated.",
-      "B": "Wrong. Enslaved resistance — above all Haiti — was a major pressure for abolition.",
-      "C": "Correct. The staggered dates are the pattern: law by law, country by country.",
-      "D": "Wrong. Economics mattered, but moral campaigns, revolts, and wars all shaped different abolitions."
-    },
-    "options": [
-      "(A) Abolition happened everywhere in a single decade through coordinated international action led by a global abolition congress",
-      "(B) Enslaved people played no role in ending slavery",
-      "(C) Ending slavery was a staggered, state-by-state process spread across most of the 19th century",
-      "(D) Economic motives were the only cause of every abolition law"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Developments and Processes",
-    "stem": "The pattern shown on the timeline best supports which conclusion about abolition?",
-    "stimulus": "Timeline: 'The end of legal slavery and serfdom, 1807–1888.' A horizontal timeline marks: 1807 — Britain bans the Atlantic slave trade; 1833 — British Emancipation Act (full freedom in 1838 after 'apprenticeship'); 1848 — France abolishes slavery in its colonies; 1861 — Russia emancipates the serfs; 1865 — United States, 13th Amendment; 1888 — Brazil abolishes slavery, the last in the Americas. Caption: 'Abolition came law by law, country by country.'",
-    "stimulus_words": 71,
-    "themes": [
-      "SIO",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+ {
+  "difficulty": "medium",
+  "explanation": "The dates stretch from 1807 to 1888, with each state acting on its own timetable — Britain in the 1830s, France in 1848, the US in 1865, Brazil in 1888. There was no single moment when slavery ended worldwide.",
+  "id": "wh-fresh-u5-011",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The timeline spans eight decades; abolitions were national decisions, not coordinated.",
+   "B": "Wrong. Enslaved resistance — above all Haiti — was a major pressure for abolition.",
+   "C": "Correct. The staggered dates are the pattern: law by law, country by country.",
+   "D": "Wrong. Economics mattered, but moral campaigns, revolts, and wars all shaped different abolitions."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The claim is about enslaved people's agency. Large revolts raised the military and economic costs of slavery and terrified planters and governments, pushing Britain toward the 1833 act. The other options describe other actors or are irrelevant.",
-    "id": "wh-fresh-u5-012",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. This supports an economic argument about factory owners, not the agency of enslaved people.",
-      "B": "Correct. Revolts are direct evidence of enslaved people forcing the issue through resistance.",
-      "C": "Wrong. Napoleon's 1802 restoration of slavery is true but does not support the claim.",
-      "D": "Wrong. Abolition was fiercely debated in Parliament and the press for decades."
-    },
-    "options": [
-      "(A) British factory owners lobbied Parliament for decades because they calculated that free wage workers were cheaper and more productive than enslaved ones",
-      "(B) revolts such as the Haitian Revolution (1791–1804) and Jamaica's Baptist War (1831) made slavery more costly and frightening to sustain",
-      "(C) Napoleon restored slavery in the French colonies in 1802",
-      "(D) most abolition laws were passed without any public debate"
-    ],
-    "reasoning": "Causation",
-    "skill": "Claims and Evidence in Sources",
-    "stem": "A historian claims that enslaved people themselves helped force abolition. Which evidence best supports that claim?",
-    "stimulus": "Timeline: 'The end of legal slavery and serfdom, 1807–1888.' A horizontal timeline marks: 1807 — Britain bans the Atlantic slave trade; 1833 — British Emancipation Act (full freedom in 1838 after 'apprenticeship'); 1848 — France abolishes slavery in its colonies; 1861 — Russia emancipates the serfs; 1865 — United States, 13th Amendment; 1888 — Brazil abolishes slavery, the last in the Americas. Caption: 'Abolition came law by law, country by country.'",
-    "stimulus_words": 71,
-    "themes": [
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+  "options": [
+   "(A) Abolition happened everywhere in a single decade through coordinated international action led by a global abolition congress",
+   "(B) Enslaved people played no role in ending slavery",
+   "(C) Ending slavery was a staggered, state-by-state process spread across most of the 19th century",
+   "(D) Economic motives were the only cause of every abolition law"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "stem": "The pattern in these dates best supports which conclusion about abolition?",
+  "stimulus": "Abolition dates, 1807–1888: 1807 — Britain bans the Atlantic slave trade; 1833 — British Emancipation Act (full freedom in 1838 after 'apprenticeship'); 1848 — France abolishes slavery in its colonies; 1861 — Russia emancipates the serfs; 1865 — United States, 13th Amendment; 1888 — Brazil abolishes slavery, the last in the Americas.",
+  "stimulus_words": 52,
+  "themes": [
+   "SIO",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The claim is about enslaved people's agency. Large revolts raised the military and economic costs of slavery and terrified planters and governments, pushing Britain toward the 1833 act. The other options describe other actors or are irrelevant.",
+  "id": "wh-fresh-u5-012",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. This supports an economic argument about factory owners, not the agency of enslaved people.",
+   "B": "Correct. Revolts are direct evidence of enslaved people forcing the issue through resistance.",
+   "C": "Wrong. Napoleon's 1802 restoration of slavery is true but does not support the claim.",
+   "D": "Wrong. Abolition was fiercely debated in Parliament and the press for decades."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "By mirroring the 1789 Declaration point for point, de Gouges showed that its 'universal' rights had been written as if women did not exist. The parallel structure is the evidence that she saw the Revolution as contradicting itself.",
-    "id": "wh-fresh-u5-013",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. She was a revolutionary who supported the Revolution's principles; she was executed in 1793 during the Terror.",
-      "B": "Wrong. She demanded rights for all women, not a property qualification.",
-      "C": "Wrong. She published the declaration openly as a political pamphlet in 1791.",
-      "D": "Correct. The article-by-article rewriting demonstrates her charge: the Revolution proclaimed universality while excluding women."
-    },
-    "options": [
-      "(A) She opposed the Revolution and wanted the monarchy restored",
-      "(B) She demanded voting rights only for wealthy property owners",
-      "(C) She wrote her declaration in secret and never published it",
-      "(D) she rewrote the Declaration of the Rights of Man article by article, inserting women wherever it said 'men' and 'citizens'"
-    ],
-    "reasoning": "Comparison",
-    "skill": "Claims and Evidence in Sources",
-    "stem": "A historian claims that de Gouges believed the French Revolution betrayed its own principles where women were concerned. Which evidence best supports this claim?",
-    "stimulus": "Woman, wake up; the tocsin of reason is being heard throughout the whole universe; discover your rights. Woman is born free and remains equal to man in rights. The law must be the expression of the general will; all female and male citizens must contribute personally or through their representatives to its formation. — Olympe de Gouges, Declaration of the Rights of Woman and of the Female Citizen, 1791",
-    "stimulus_words": 69,
-    "themes": [
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) British factory owners lobbied Parliament for decades because they calculated that free wage workers were cheaper and more productive than enslaved ones",
+   "(B) revolts such as the Haitian Revolution (1791–1804) and Jamaica's Baptist War (1831) made slavery more costly and frightening to sustain",
+   "(C) Napoleon restored slavery in the French colonies in 1802",
+   "(D) most abolition laws were passed without any public debate"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "stem": "A historian claims that enslaved people themselves helped force abolition. Which evidence best supports that claim?",
+  "stimulus": "Abolition dates, 1807–1888: 1807 — Britain bans the Atlantic slave trade; 1833 — British Emancipation Act (full freedom in 1838 after 'apprenticeship'); 1848 — France abolishes slavery in its colonies; 1861 — Russia emancipates the serfs; 1865 — United States, 13th Amendment; 1888 — Brazil abolishes slavery, the last in the Americas.",
+  "stimulus_words": 52,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "By mirroring the 1789 Declaration point for point, de Gouges showed that its 'universal' rights had been written as if women did not exist. The parallel structure is the evidence that she saw the Revolution as contradicting itself.",
+  "id": "wh-fresh-u5-013",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. She was a revolutionary who supported the Revolution's principles; she was executed in 1793 during the Terror.",
+   "B": "Wrong. She demanded rights for all women, not a property qualification.",
+   "C": "Wrong. She published the declaration openly as a political pamphlet in 1791.",
+   "D": "Correct. The article-by-article rewriting demonstrates her charge: the Revolution proclaimed universality while excluding women."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Published in 1791 and addressed to the Assembly (and dedicated to the queen), the pamphlet entered the public revolutionary debate. Its purpose was political persuasion: to shame the revolutionaries into extending their own principles to women.",
-    "id": "wh-fresh-u5-014",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The dedication and publication context show she sought to influence lawmakers and public opinion.",
-      "B": "Wrong. Napoleon was an obscure officer in 1791; he seized power eight years later.",
-      "C": "Wrong. The declaration is French, addressed to French institutions, not the British Parliament.",
-      "D": "Wrong. It was printed and circulated as a pamphlet in the revolutionary press."
-    },
-    "options": [
-      "(A) the National Assembly and the French public — to demand that revolutionary rights apply to women",
-      "(B) Napoleon Bonaparte — to persuade him to appoint her as his chief political advisor on women's affairs",
-      "(C) the British Parliament — to lobby for English women's suffrage",
-      "(D) her private diary — she never intended it for public debate"
-    ],
-    "reasoning": "Causation",
-    "skill": "Sourcing and Situation",
-    "stem": "The intended audience and purpose of de Gouges's declaration were most likely:",
-    "stimulus": "Woman, wake up; the tocsin of reason is being heard throughout the whole universe; discover your rights. Woman is born free and remains equal to man in rights. The law must be the expression of the general will; all female and male citizens must contribute personally or through their representatives to its formation. — Olympe de Gouges, Declaration of the Rights of Woman and of the Female Citizen, 1791",
-    "stimulus_words": 69,
-    "themes": [
-      "SIO",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) She opposed the Revolution and wanted the monarchy restored",
+   "(B) She demanded voting rights only for wealthy property owners",
+   "(C) She wrote her declaration in secret and never published it",
+   "(D) she rewrote the Declaration of the Rights of Man article by article, inserting women wherever it said 'men' and 'citizens'"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "stem": "A historian claims that de Gouges believed the French Revolution betrayed its own principles where women were concerned. Which evidence best supports this claim?",
+  "stimulus": "Woman, wake up; the tocsin of reason is being heard throughout the whole universe; discover your rights. Woman is born free and remains equal to man in rights. The law must be the expression of the general will; all female and male citizens must contribute personally or through their representatives to its formation. — Olympe de Gouges, Declaration of the Rights of Woman and of the Female Citizen, 1791",
+  "stimulus_words": 69,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Published in 1791 and addressed to the Assembly (and dedicated to the queen), the pamphlet entered the public revolutionary debate. Its purpose was political persuasion: to shame the revolutionaries into extending their own principles to women.",
+  "id": "wh-fresh-u5-014",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The dedication and publication context show she sought to influence lawmakers and public opinion.",
+   "B": "Wrong. Napoleon was an obscure officer in 1791; he seized power eight years later.",
+   "C": "Wrong. The declaration is French, addressed to French institutions, not the British Parliament.",
+   "D": "Wrong. It was printed and circulated as a pamphlet in the revolutionary press."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The American text proclaims equality while its authors kept slavery. Haiti's constitution made equality concrete: no white master could ever own land, and all citizens were legally 'Black.' Haiti turned the Enlightenment's promises into anti-slavery law.",
-    "id": "wh-fresh-u5-015",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. Haitian leaders invoked French revolutionary language; the 1805 text echoes the Rights of Man.",
-      "B": "Wrong. The American revolutionaries kept slavery; the Haitian text goes further on equality.",
-      "C": "Correct. The excerpts show Haiti converting abstract rights into a racially egalitarian legal order.",
-      "D": "Wrong. The texts are from 1776 Philadelphia and 1805 Haiti, written decades apart by different people."
-    },
-    "options": [
-      "(A) Haitian leaders rejected Enlightenment ideas as irrelevant to their struggle",
-      "(B) American revolutionaries applied Enlightenment principles more radically and consistently than any other revolutionaries of the era, including on the question of slavery",
-      "(C) Haitian revolutionaries took the language of universal rights further than the Americans, extending it to race and abolishing slavery",
-      "(D) both documents were written by the same group of French philosophers"
-    ],
-    "reasoning": "Comparison",
-    "skill": "Making Connections",
-    "stem": "Taken together, the two excerpts best illustrate which broader historical development?",
-    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
-    "stimulus_words": 85,
-    "themes": [
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) the National Assembly and the French public — to demand that revolutionary rights apply to women",
+   "(B) Napoleon Bonaparte — to persuade him to appoint her as his chief political advisor on women's affairs",
+   "(C) the British Parliament — to lobby for English women's suffrage",
+   "(D) her private diary — she never intended it for public debate"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "stem": "The intended audience and purpose of de Gouges's declaration were most likely:",
+  "stimulus": "Woman, wake up; the tocsin of reason is being heard throughout the whole universe; discover your rights. Woman is born free and remains equal to man in rights. The law must be the expression of the general will; all female and male citizens must contribute personally or through their representatives to its formation. — Olympe de Gouges, Declaration of the Rights of Woman and of the Female Citizen, 1791",
+  "stimulus_words": 69,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The American text proclaims equality while its authors kept slavery. Haiti's constitution made equality concrete: no white master could ever own land, and all citizens were legally 'Black.' Haiti turned the Enlightenment's promises into anti-slavery law.",
+  "id": "wh-fresh-u5-015",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Haitian leaders invoked French revolutionary language; the 1805 text echoes the Rights of Man.",
+   "B": "Wrong. The American revolutionaries kept slavery; the Haitian text goes further on equality.",
+   "C": "Correct. The excerpts show Haiti converting abstract rights into a racially egalitarian legal order.",
+   "D": "Wrong. The texts are from 1776 Philadelphia and 1805 Haiti, written decades apart by different people."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The Declaration's 'all men are created equal' was written in a slave society, and slavery grew in the decades after independence. The ideals were genuine and influential, but their application was limited by race and gender.",
-    "id": "wh-fresh-u5-016",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Slavery continued and expanded after independence; abolition took until 1865.",
-      "B": "Correct. The founding ideals and the slave system grew up side by side.",
-      "C": "Wrong. Women did not gain political rights; New Jersey briefly allowed some propertied women to vote, then revoked it in 1807.",
-      "D": "Wrong. The Revolution's language inspired abolitionists, women's rights advocates, and revolutionaries worldwide."
-    },
-    "options": [
-      "(A) The Revolution immediately abolished slavery throughout the United States in 1776 as one of its first official acts",
-      "(B) its language of universal equality coexisted with the continuation — and expansion — of slavery",
-      "(C) its leaders granted full political rights to women in the 1780s",
-      "(D) the Revolution had no influence on later demands for equality"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Argumentation",
-    "stem": "Which of the following is the best-supported argument about the American Revolution's relationship to equality?",
-    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
-    "stimulus_words": 85,
-    "themes": [
-      "SIO",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Haitian leaders rejected Enlightenment ideas as irrelevant to their struggle",
+   "(B) American revolutionaries applied Enlightenment principles more radically and consistently than any other revolutionaries of the era, including on the question of slavery",
+   "(C) Haitian revolutionaries took the language of universal rights further than the Americans, extending it to race and abolishing slavery",
+   "(D) both documents were written by the same group of French philosophers"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "stem": "Taken together, the two excerpts best illustrate which broader historical development?",
+  "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
+  "stimulus_words": 85,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Declaration's 'all men are created equal' was written in a slave society, and slavery grew in the decades after independence. The ideals were genuine and influential, but their application was limited by race and gender.",
+  "id": "wh-fresh-u5-016",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Slavery continued and expanded after independence; abolition took until 1865.",
+   "B": "Correct. The founding ideals and the slave system grew up side by side.",
+   "C": "Wrong. Women did not gain political rights; New Jersey briefly allowed some propertied women to vote, then revoked it in 1807.",
+   "D": "Wrong. The Revolution's language inspired abolitionists, women's rights advocates, and revolutionaries worldwide."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The Code kept the Revolution's core legal reforms — equality before the law, careers open to talent, secure property — which is why it survived Napoleon. But it also rolled back the Revolution's more radical steps on women's rights, showing revolution's uneven results.",
-    "id": "wh-fresh-u5-017",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The Code is the classic case of revolutionary continuity and change in one document.",
-      "B": "Wrong. The Code abolished feudal privileges; it did not restore them.",
-      "C": "Wrong. Its restrictions on married women and workers show it was not purely liberal.",
-      "D": "Wrong. Napoleon imposed the Code across his empire — in Italy, Germany, Poland, and beyond."
-    },
-    "options": [
-      "(A) It preserved the Revolution's legal equality while reversing some of its gains, particularly for women",
-      "(B) It restored feudal privileges, seigneurial dues, and the full legal authority of the Catholic Church over French law",
-      "(C) It was a purely liberal document that extended every revolutionary reform",
-      "(D) It applied only within France and was never imposed elsewhere"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Developments and Processes",
-    "stem": "Which statement best describes the Napoleonic Code's relationship to the changes of the French Revolution?",
-    "stimulus": "The Napoleonic Code of 1804 declared all male citizens equal before the law, abolished feudal privileges, and protected private property. The same Code, however, placed married women under the legal authority of their husbands and made divorce more difficult to obtain.",
-    "stimulus_words": 41,
-    "themes": [
-      "GOV",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) The Revolution immediately abolished slavery throughout the United States in 1776 as one of its first official acts",
+   "(B) its language of universal equality coexisted with the continuation — and expansion — of slavery",
+   "(C) its leaders granted full political rights to women in the 1780s",
+   "(D) the Revolution had no influence on later demands for equality"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Argumentation",
+  "stem": "Which of the following is the best-supported argument about the American Revolution's relationship to equality?",
+  "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
+  "stimulus_words": 85,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Code kept the Revolution's core legal reforms — equality before the law, careers open to talent, secure property — which is why it survived Napoleon. But it also rolled back the Revolution's more radical steps on women's rights, showing revolution's uneven results.",
+  "id": "wh-fresh-u5-017",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The Code is the classic case of revolutionary continuity and change in one document.",
+   "B": "Wrong. The Code abolished feudal privileges; it did not restore them.",
+   "C": "Wrong. Its restrictions on married women and workers show it was not purely liberal.",
+   "D": "Wrong. Napoleon imposed the Code across his empire — in Italy, Germany, Poland, and beyond."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The rebellion grew from domestic distress: a population that had roughly doubled since 1700, corrupt tax collection, and famine. It exposed Qing weakness from within, decades before the Opium Wars made that weakness obvious to foreign powers.",
-    "id": "wh-fresh-u5-018",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. The Opium Wars came in 1839–42, more than thirty years after the rebellion began.",
-      "B": "Wrong. The White Lotus was a millenarian Buddhist movement, not a Christian one.",
-      "C": "Wrong. Japan's imperial expansion came a century later; it played no role here.",
-      "D": "Correct. The causes — taxation, corruption, famine, population pressure — were all internal to the Qing system."
-    },
-    "options": [
-      "(A) the Opium Wars, which had already weakened Qing military power",
-      "(B) a Christian missionary movement seeking to convert central China and overthrow the Qing in the name of a foreign God, organized by European priests",
-      "(C) Japanese imperial expansion into mainland Asia",
-      "(D) mounting internal Qing crises — population pressure, official corruption, and fiscal strain — before Western military pressure peaked"
-    ],
-    "reasoning": "Causation",
-    "skill": "Contextualization",
-    "stem": "The White Lotus Rebellion is best understood in the context of:",
-    "stimulus": "Between 1796 and 1804, followers of the White Lotus sect — a millenarian Buddhist movement — rose across the mountainous border region of Hubei, Sichuan, and Shaanxi provinces. Driven by heavy taxation, corrupt officials, and famine, the rebels promised the coming of a new Buddhist age. It took the Qing eight years and a ruined treasury to crush them.",
-    "stimulus_words": 59,
-    "themes": [
-      "GOV",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) It preserved the Revolution's legal equality while reversing some of its gains, particularly for women",
+   "(B) It restored feudal privileges, seigneurial dues, and the full legal authority of the Catholic Church over French law",
+   "(C) It was a purely liberal document that extended every revolutionary reform",
+   "(D) It applied only within France and was never imposed elsewhere"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "stem": "Which statement best describes the Napoleonic Code's relationship to the changes of the French Revolution?",
+  "stimulus": "The Napoleonic Code of 1804 declared all male citizens equal before the law, abolished feudal privileges, and protected private property. The same Code, however, placed married women under the legal authority of their husbands and made divorce more difficult to obtain.",
+  "stimulus_words": 41,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The rebellion grew from domestic distress: a population that had roughly doubled since 1700, corrupt tax collection, and famine. It exposed Qing weakness from within, decades before the Opium Wars made that weakness obvious to foreign powers.",
+  "id": "wh-fresh-u5-018",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The Opium Wars came in 1839–42, more than thirty years after the rebellion began.",
+   "B": "Wrong. The White Lotus was a millenarian Buddhist movement, not a Christian one.",
+   "C": "Wrong. Japan's imperial expansion came a century later; it played no role here.",
+   "D": "Correct. The causes — taxation, corruption, famine, population pressure — were all internal to the Qing system."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The 1794 decree aligned the Black leadership with the French Republic against Britain and Spain. When Napoleon sent an army in 1802 to reimpose slavery — capturing Toussaint — the rebels under Dessalines fought on to full independence in 1804. French policy reversals drove the revolution's radicalization.",
-    "id": "wh-fresh-u5-019",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. France fought the rebels for most of the revolution; support was tactical and temporary.",
-      "B": "Wrong. The United States refused to recognize Haiti and embargoed it; it sent no army to help.",
-      "C": "Correct. The 1794–1802 swing from abolition to restoration explains the revolution's two phases.",
-      "D": "Wrong. Toussaint died in a French prison in 1803; Dessalines completed the break."
-    },
-    "options": [
-      "(A) France supported the enslaved rebels from the very start of the 1791 uprising and then willingly granted Haiti full and unconditional independence in 1804 after negotiations in Paris",
-      "(B) The United States intervened militarily to secure Haitian independence from France",
-      "(C) The National Convention's 1794 abolition decree won Black support for France; Napoleon's 1802 expedition to restore slavery then reignited a full war for independence",
-      "(D) Toussaint Louverture remained loyal to France throughout and opposed Haitian independence"
-    ],
-    "reasoning": "Causation",
-    "skill": "Developments and Processes",
-    "stem": "Which sequence best explains how French government policies shaped the course of the Haitian Revolution?",
-    "stimulus": "A contemporary hand-coloured engraving (Paris: Chez Jean, 1802) shows Toussaint Louverture in full military dress, mounted on a rearing horse with his sword raised aloft. The caption reads 'Toussaint Louverture, Chef des Noirs Insurgés de Saint Domingue' (Chief of the Black Insurgents of Saint-Domingue). He had been born enslaved in Saint-Domingue and rose to command its armies.",
-    "stimulus_words": 57,
-    "themes": [
-      "GOV",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+  "options": [
+   "(A) the Opium Wars, which had already weakened Qing military power",
+   "(B) a Christian missionary movement seeking to convert central China and overthrow the Qing in the name of a foreign God, organized by European priests",
+   "(C) Japanese imperial expansion into mainland Asia",
+   "(D) mounting internal Qing crises — population pressure, official corruption, and fiscal strain — before Western military pressure peaked"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "stem": "The White Lotus Rebellion is best understood in the context of:",
+  "stimulus": "Between 1796 and 1804, followers of the White Lotus sect — a millenarian Buddhist movement — rose across the mountainous border region of Hubei, Sichuan, and Shaanxi provinces. Driven by heavy taxation, corrupt officials, and famine, the rebels promised the coming of a new Buddhist age. It took the Qing eight years and a ruined treasury to crush them.",
+  "stimulus_words": 59,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The 1794 decree aligned the Black leadership with the French Republic against Britain and Spain. When Napoleon sent an army in 1802 to reimpose slavery — capturing Toussaint — the rebels under Dessalines fought on to full independence in 1804. French policy reversals drove the revolution's radicalization.",
+  "id": "wh-fresh-u5-019",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. France fought the rebels for most of the revolution; support was tactical and temporary.",
+   "B": "Wrong. The United States refused to recognize Haiti and embargoed it; it sent no army to help.",
+   "C": "Correct. The 1794–1802 swing from abolition to restoration explains the revolution's two phases.",
+   "D": "Wrong. Toussaint died in a French prison in 1803; Dessalines completed the break."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Revolutionary France's decrees mattered, but the revolt began with enslaved people's own networks and succeeded through brilliant generalship and mass sacrifice. The engraving's image — an enslaved-born man as a French general — captures that fusion of African agency and revolutionary opportunity.",
-    "id": "wh-fresh-u5-020",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Both the ideas and the independent organization of the enslaved were necessary; neither alone suffices.",
-      "B": "Wrong. This erases the enslaved rebels' own networks, leadership, and military achievements.",
-      "C": "Wrong. Britain actually fought against the rebels, trying to seize the colony for itself.",
-      "D": "Wrong. The 1789 Declaration, the 1794 abolition decree, and Napoleon's 1802 reversal all shaped events."
-    },
-    "options": [
-      "(A) It combined Enlightenment language with the self-organization, military skill, and determination of enslaved Africans; French ideas alone cannot explain it",
-      "(B) It was simply the French Revolution exported wholesale to the Caribbean, with no independent local causes, leaders, or grievances of its own whatsoever",
-      "(C) It was caused mainly by British agents arming the enslaved population",
-      "(D) It had no connection to the ideas or events of the French Revolution"
-    ],
-    "reasoning": "Causation",
-    "skill": "Argumentation",
-    "stem": "Which of the following is the best-supported argument about the causes of the Haitian Revolution?",
-    "stimulus": "A contemporary hand-coloured engraving (Paris: Chez Jean, 1802) shows Toussaint Louverture in full military dress, mounted on a rearing horse with his sword raised aloft. The caption reads 'Toussaint Louverture, Chef des Noirs Insurgés de Saint Domingue' (Chief of the Black Insurgents of Saint-Domingue). He had been born enslaved in Saint-Domingue and rose to command its armies.",
-    "stimulus_words": 57,
-    "themes": [
-      "SIO",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
-  }
+  "options": [
+   "(A) France supported the enslaved rebels from the very start of the 1791 uprising and then willingly granted Haiti full and unconditional independence in 1804 after negotiations in Paris",
+   "(B) The United States intervened militarily to secure Haitian independence from France",
+   "(C) The National Convention's 1794 abolition decree won Black support for France; Napoleon's 1802 expedition to restore slavery then reignited a full war for independence",
+   "(D) Toussaint Louverture remained loyal to France throughout and opposed Haitian independence"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "stem": "Which sequence best explains how French government policies shaped the course of the Haitian Revolution?",
+  "stimulus": "Contemporary engraved portrait (c. 1802): Toussaint Louverture in the uniform of a French general, captioned 'Toussaint Louverture.' He had been born enslaved in Saint-Domingue and rose to command its armies.",
+  "stimulus_words": 30,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5,
+  "visual_needs_url": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+  "image_license": "CC0",
+  "image_verified": "2026-10-02"
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Revolutionary France's decrees mattered, but the revolt began with enslaved people's own networks and succeeded through brilliant generalship and mass sacrifice. The engraving's image — an enslaved-born man as a French general — captures that fusion of African agency and revolutionary opportunity.",
+  "id": "wh-fresh-u5-020",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Both the ideas and the independent organization of the enslaved were necessary; neither alone suffices.",
+   "B": "Wrong. This erases the enslaved rebels' own networks, leadership, and military achievements.",
+   "C": "Wrong. Britain actually fought against the rebels, trying to seize the colony for itself.",
+   "D": "Wrong. The 1789 Declaration, the 1794 abolition decree, and Napoleon's 1802 reversal all shaped events."
+  },
+  "options": [
+   "(A) It combined Enlightenment language with the self-organization, military skill, and determination of enslaved Africans; French ideas alone cannot explain it",
+   "(B) It was simply the French Revolution exported wholesale to the Caribbean, with no independent local causes, leaders, or grievances of its own whatsoever",
+   "(C) It was caused mainly by British agents arming the enslaved population",
+   "(D) It had no connection to the ideas or events of the French Revolution"
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "stem": "Which of the following is the best-supported argument about the causes of the Haitian Revolution?",
+  "stimulus": "Contemporary engraved portrait (c. 1802): Toussaint Louverture in the uniform of a French general, captioned 'Toussaint Louverture.' He had been born enslaved in Saint-Domingue and rose to command its armies.",
+  "stimulus_words": 30,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5,
+  "visual_needs_url": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+  "image_license": "CC0",
+  "image_verified": "2026-10-02"
+ }
 ]

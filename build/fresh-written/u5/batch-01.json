@@ -1,293 +1,294 @@
 [
-  {
-    "difficulty": "medium",
-    "explanation": "The Declaration was adopted by the National Assembly in 1789 to ground the new political order in popular sovereignty and natural rights. Articles 3 and 6 transfer authority from the king to the nation and its citizens, which justified the Assembly's defiance of Louis XVI.",
-    "id": "wh-fresh-u5-001",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The document legitimizes the Assembly by declaring that sovereignty resides in the nation, directly undercutting the king's authority.",
-      "B": "Wrong. Slavery was not addressed here and was not abolished until 1794 — then restored by Napoleon in 1802.",
-      "C": "Wrong. Napoleon rose to power a decade later, with his 1799 coup; he had nothing to do with this 1789 document.",
-      "D": "Wrong. The Declaration was addressed to the French nation and justified revolution; it did not invite foreign invasion."
-    },
-    "options": [
-      "(A) provide a philosophical justification for the National Assembly's authority, replacing the king's claim to rule by divine right",
-      "(B) announce the immediate abolition of slavery in all French colonies",
-      "(C) record the military victories of Napoleon Bonaparte across Europe",
-      "(D) persuade foreign monarchs to invade France and restore order"
-    ],
-    "reasoning": "Causation",
-    "skill": "Sourcing and Situation",
-    "stem": "The most likely purpose of this document was to:",
-    "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
-    "stimulus_words": 88,
-    "themes": [
-      "CDI",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 5
+ {
+  "difficulty": "medium",
+  "explanation": "The Declaration was adopted by the National Assembly in 1789 to ground the new political order in popular sovereignty and natural rights. Articles 3 and 6 transfer authority from the king to the nation and its citizens, which justified the Assembly's defiance of Louis XVI.",
+  "id": "wh-fresh-u5-001",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The document legitimizes the Assembly by declaring that sovereignty resides in the nation, directly undercutting the king's authority.",
+   "B": "Wrong. Slavery was not addressed here and was not abolished until 1794 — then restored by Napoleon in 1802.",
+   "C": "Wrong. Napoleon rose to power a decade later, with his 1799 coup; he had nothing to do with this 1789 document.",
+   "D": "Wrong. The Declaration was addressed to the French nation and justified revolution; it did not invite foreign invasion."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The Declaration speaks of 'men' and 'citizens' in universal terms, yet the Assembly denied women political rights and left colonial slavery untouched until 1794. Its universalism was real as an ideal but limited in application.",
-    "id": "wh-fresh-u5-002",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The Assembly adopted it in August 1789 and it became the preamble of the 1791 constitution.",
-      "B": "Wrong. Women were denied the vote; Olympe de Gouges was executed in 1793 partly for demanding it.",
-      "C": "Correct. The gap between universal language and actual exclusion is the document's central tension.",
-      "D": "Wrong. The Declaration attacked noble privilege by declaring careers open to talent and all men equal in rights."
-    },
-    "options": [
-      "(A) It was never adopted by the National Assembly and therefore had no legal effect on French law at any point",
-      "(B) It immediately gave the vote to all French adults, including women",
-      "(C) Its universal language coexisted with the continued exclusion of women and enslaved people",
-      "(D) It was written to defend the privileges of the nobility"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Argumentation",
-    "stem": "Which of the following is the best-supported argument about the limits of this Declaration?",
-    "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
-    "stimulus_words": 88,
-    "themes": [
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) provide a philosophical justification for the National Assembly's authority, replacing the king's claim to rule by divine right",
+   "(B) announce the immediate abolition of slavery in all French colonies",
+   "(C) record the military victories of Napoleon Bonaparte across Europe",
+   "(D) persuade foreign monarchs to invade France and restore order"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "stem": "The most likely purpose of this document was to:",
+  "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
+  "stimulus_words": 88,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Declaration speaks of 'men' and 'citizens' in universal terms, yet the Assembly denied women political rights and left colonial slavery untouched until 1794. Its universalism was real as an ideal but limited in application.",
+  "id": "wh-fresh-u5-002",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The Assembly adopted it in August 1789 and it became the preamble of the 1791 constitution.",
+   "B": "Wrong. Women were denied the vote; Olympe de Gouges was executed in 1793 partly for demanding it.",
+   "C": "Correct. The gap between universal language and actual exclusion is the document's central tension.",
+   "D": "Wrong. The Declaration attacked noble privilege by declaring careers open to talent and all men equal in rights."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Free people of color and enslaved rebels invoked the Declaration's promise of equality; when France hesitated, they made the revolution their own. Haiti's 1805 constitution then radicalized the document's principles — banning slavery forever and barring white landownership.",
-    "id": "wh-fresh-u5-003",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Haitian leaders quoted and invoked French revolutionary language; they did not reject it.",
-      "B": "Correct. They seized the Declaration's logic and pushed it past what its authors intended.",
-      "C": "Wrong. The Assembly debated colonial rights for years and did not abolish slavery until 1794, amid the revolt.",
-      "D": "Wrong. The 1805 constitution was an original document that went well beyond the French text."
-    },
-    "options": [
-      "(A) Haitian leaders rejected the Declaration entirely and based their revolution on African political traditions alone",
-      "(B) enslaved people in Saint-Domingue used the Declaration's language of rights to demand freedom, then went further by abolishing slavery outright",
-      "(C) the French Assembly applied the Declaration to the colonies immediately, preventing any revolt",
-      "(D) Haiti's 1805 constitution copied the Declaration word for word without changes"
-    ],
-    "reasoning": "Comparison",
-    "skill": "Making Connections",
-    "stem": "The Haitian Revolution (1791–1804) is best understood as connected to the ideas in this document in that:",
-    "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
-    "stimulus_words": 88,
-    "themes": [
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) It was never adopted by the National Assembly and therefore had no legal effect on French law at any point",
+   "(B) It immediately gave the vote to all French adults, including women",
+   "(C) Its universal language coexisted with the continued exclusion of women and enslaved people",
+   "(D) It was written to defend the privileges of the nobility"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Argumentation",
+  "stem": "Which of the following is the best-supported argument about the limits of this Declaration?",
+  "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
+  "stimulus_words": 88,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Free people of color and enslaved rebels invoked the Declaration's promise of equality; when France hesitated, they made the revolution their own. Haiti's 1805 constitution then radicalized the document's principles — banning slavery forever and barring white landownership.",
+  "id": "wh-fresh-u5-003",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Haitian leaders quoted and invoked French revolutionary language; they did not reject it.",
+   "B": "Correct. They seized the Declaration's logic and pushed it past what its authors intended.",
+   "C": "Wrong. The Assembly debated colonial rights for years and did not abolish slavery until 1794, amid the revolt.",
+   "D": "Wrong. The 1805 constitution was an original document that went well beyond the French text."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Bolívar's 'dual conflict' describes creoles squeezed between Spaniards above them and the lower orders below. The peninsular monopoly on high office is exactly the grievance that made creoles feel neither fully European nor fully American.",
-    "id": "wh-fresh-u5-004",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. Creoles fought for their own political power, not to restore Indigenous empires.",
-      "B": "Wrong. American representation in the Cortes was limited and unequal — a grievance, not evidence of equality.",
-      "C": "Wrong. Bolívar promised emancipation but largely failed to deliver it during the wars.",
-      "D": "Correct. Exclusion from top offices despite wealth and status is precisely the 'in-between' position Bolívar describes."
-    },
-    "options": [
-      "(A) Creoles led the independence armies because they wanted to restore the Indigenous empires and return all colonial land to Indigenous communities",
-      "(B) Spain granted American-born Spaniards equal representation in the Cortes of Cádiz",
-      "(C) Enslaved Africans in Spanish America were freed by Bolívar before the wars began",
-      "(D) the highest colonial offices were reserved for peninsulares born in Spain, while wealthy creoles were shut out of top power"
-    ],
-    "reasoning": "Causation",
-    "skill": "Claims and Evidence in Sources",
-    "stem": "Which of the following pieces of evidence would best support Bolívar's claim that American-born Spaniards occupied a distinct, in-between position?",
-    "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815 (paraphrased)",
-    "stimulus_words": 76,
-    "themes": [
-      "SIO",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Haitian leaders rejected the Declaration entirely and based their revolution on African political traditions alone",
+   "(B) enslaved people in Saint-Domingue used the Declaration's language of rights to demand freedom, then went further by abolishing slavery outright",
+   "(C) the French Assembly applied the Declaration to the colonies immediately, preventing any revolt",
+   "(D) Haiti's 1805 constitution copied the Declaration word for word without changes"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "stem": "The Haitian Revolution (1791–1804) is best understood as connected to the ideas in this document in that:",
+  "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
+  "stimulus_words": 88,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Bolívar's 'dual conflict' describes creoles squeezed between Spaniards above them and the lower orders below. The peninsular monopoly on high office is exactly the grievance that made creoles feel neither fully European nor fully American.",
+  "id": "wh-fresh-u5-004",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Creoles fought for their own political power, not to restore Indigenous empires.",
+   "B": "Wrong. American representation in the Cortes was limited and unequal — a grievance, not evidence of equality.",
+   "C": "Wrong. Bolívar promised emancipation but largely failed to deliver it during the wars.",
+   "D": "Correct. Exclusion from top offices despite wealth and status is precisely the 'in-between' position Bolívar describes."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "With Ferdinand VII deposed and then restored as an absolute monarch in 1814, creole juntas that had governed 'in the king's name' faced a choice between submission and independence. Bolívar wrote from exile in Jamaica after Spanish forces retook Venezuela.",
-    "id": "wh-fresh-u5-005",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The Peninsular War created the legitimacy crisis that made both the juntas and Bolívar's exile possible.",
-      "B": "Wrong. The Congress of Vienna (1814–15) aimed to restore monarchies, not grant colonial independence.",
-      "C": "Wrong. The Monroe Doctrine came in 1823, eight years after the Jamaica Letter.",
-      "D": "Wrong. Britain never conquered Spanish America; it traded with the new republics instead."
-    },
-    "options": [
-      "(A) Napoleon's 1808 invasion of Spain deposed Ferdinand VII, throwing the empire's legitimacy into crisis",
-      "(B) the Congress of Vienna had just granted independence to all Spanish colonies",
-      "(C) the United States had issued the Monroe Doctrine in 1823 and was directly funding and supplying Bolívar's armies in Venezuela",
-      "(D) Britain had conquered Spanish America and exiled its leaders"
-    ],
-    "reasoning": "Causation",
-    "skill": "Contextualization",
-    "stem": "Bolívar wrote the Jamaica Letter in 1815 while in exile. This situation is best explained by which broader development?",
-    "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815 (paraphrased)",
-    "stimulus_words": 76,
-    "themes": [
-      "GOV",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Creoles led the independence armies because they wanted to restore the Indigenous empires and return all colonial land to Indigenous communities",
+   "(B) Spain granted American-born Spaniards equal representation in the Cortes of Cádiz",
+   "(C) Enslaved Africans in Spanish America were freed by Bolívar before the wars began",
+   "(D) the highest colonial offices were reserved for peninsulares born in Spain, while wealthy creoles were shut out of top power"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "stem": "Which of the following pieces of evidence would best support Bolívar's claim that American-born Spaniards occupied a distinct, in-between position?",
+  "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815 (paraphrased)",
+  "stimulus_words": 76,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "With Ferdinand VII deposed and then restored as an absolute monarch in 1814, creole juntas that had governed 'in the king's name' faced a choice between submission and independence. Bolívar wrote from exile in Jamaica after Spanish forces retook Venezuela.",
+  "id": "wh-fresh-u5-005",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The Peninsular War created the legitimacy crisis that made both the juntas and Bolívar's exile possible.",
+   "B": "Wrong. The Congress of Vienna (1814–15) aimed to restore monarchies, not grant colonial independence.",
+   "C": "Wrong. The Monroe Doctrine came in 1823, eight years after the Jamaica Letter.",
+   "D": "Wrong. Britain never conquered Spanish America; it traded with the new republics instead."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The map dates American independence to 1776, the French Revolution to 1789, the Haitian Revolution to 1791–1804, and Spanish American independence to 1810–1825. The Atlantic revolutions unfolded in that order.",
-    "id": "wh-fresh-u5-006",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The American Revolution (1776) preceded the French (1789).",
-      "B": "Wrong. The Haitian Revolution began in 1791, after both the American and French revolutions.",
-      "C": "Correct. This matches the map's dates exactly.",
-      "D": "Wrong. This reverses the actual chronological order shown on the map."
-    },
-    "options": [
-      "(A) French, American, Haitian, Spanish American",
-      "(B) Haitian, American, French, Spanish American",
-      "(C) American, French, Haitian, Spanish American",
-      "(D) Spanish American, Haitian, French, American"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Developments and Processes",
-    "stem": "Based on the map, which sequence correctly orders these revolutions from earliest to latest?",
-    "stimulus": "Map: 'The Atlantic Revolutions, 1776–1825.' A world map centered on the Atlantic shows: British North America marked 'Independence, 1776'; France marked 'Revolution, 1789'; Saint-Domingue/Haiti marked 'Slave revolt and independence, 1791–1804'; Spanish America marked 'Independence movements, 1810–1825' with dates for Mexico (1821), Gran Colombia (1819), and Peru (1821); Brazil marked 'Independence, 1822.' Curved arrows between the regions are labeled 'circulation of revolutionary ideas.'",
-    "stimulus_words": 62,
-    "themes": [
-      "GOV",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+  "options": [
+   "(A) Napoleon's 1808 invasion of Spain deposed Ferdinand VII, throwing the empire's legitimacy into crisis",
+   "(B) the Congress of Vienna had just granted independence to all Spanish colonies",
+   "(C) the United States had issued the Monroe Doctrine in 1823 and was directly funding and supplying Bolívar's armies in Venezuela",
+   "(D) Britain had conquered Spanish America and exiled its leaders"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "stem": "Bolívar wrote the Jamaica Letter in 1815 while in exile. This situation is best explained by which broader development?",
+  "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815 (paraphrased)",
+  "stimulus_words": 76,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The dates place American independence at 1776, the French Revolution at 1789, the Haitian Revolution at 1791–1804, and Spanish American independence at 1810–1825. The Atlantic revolutions unfolded in that order.",
+  "id": "wh-fresh-u5-006",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The American Revolution (1776) preceded the French (1789).",
+   "B": "Wrong. The Haitian Revolution began in 1791, after both the American and French revolutions.",
+   "C": "Correct. This matches the dates exactly.",
+   "D": "Wrong. This reverses the actual chronological order shown in the dates above."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Haiti emerged from a slave revolt that permanently abolished slavery. In Spanish America, creole elites led the break from Spain precisely to secure their own power, so slavery and large estates survived independence in most new republics.",
-    "id": "wh-fresh-u5-007",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Haiti became independent in 1804; the map shows this clearly.",
-      "B": "Correct. The social outcomes were opposites: Haiti destroyed the plantation order, Spanish America transferred it to creole hands.",
-      "C": "Wrong. This reverses the facts — most Spanish American republics retained slavery for decades.",
-      "D": "Wrong. Both revolutions transformed their societies, just in very different directions."
-    },
-    "options": [
-      "(A) Haiti remained a colony while Spanish America became independent",
-      "(B) Haiti's revolution destroyed slavery and the planter class, while Spanish American independence largely preserved slavery and creole elite rule",
-      "(C) Spanish America abolished slavery immediately, while Haiti kept it",
-      "(D) neither revolution changed the social order in any way"
-    ],
-    "reasoning": "Comparison",
-    "skill": "Making Connections",
-    "stem": "Comparing the outcomes shown on the map, the Haitian Revolution differed most sharply from the Spanish American independence movements in that:",
-    "stimulus": "Map: 'The Atlantic Revolutions, 1776–1825.' A world map centered on the Atlantic shows: British North America marked 'Independence, 1776'; France marked 'Revolution, 1789'; Saint-Domingue/Haiti marked 'Slave revolt and independence, 1791–1804'; Spanish America marked 'Independence movements, 1810–1825' with dates for Mexico (1821), Gran Colombia (1819), and Peru (1821); Brazil marked 'Independence, 1822.' Curved arrows between the regions are labeled 'circulation of revolutionary ideas.'",
-    "stimulus_words": 62,
-    "themes": [
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+  "options": [
+   "(A) French, American, Haitian, Spanish American",
+   "(B) Haitian, American, French, Spanish American",
+   "(C) American, French, Haitian, Spanish American",
+   "(D) Spanish American, Haitian, French, American"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "stem": "Based on the dates above, which sequence correctly orders these revolutions from earliest to latest?",
+  "stimulus": "Key dates of the Atlantic revolutions: American independence, 1776; French Revolution, 1789; Haitian slave revolt and independence, 1791–1804; Spanish American independence movements, 1810–1825 (Mexico 1821, Gran Colombia 1819, Peru 1821); Brazilian independence, 1822. Revolutionary ideas circulated between these regions across the Atlantic.",
+  "stimulus_words": 42,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Haiti emerged from a slave revolt that permanently abolished slavery. In Spanish America, creole elites led the break from Spain precisely to secure their own power, so slavery and large estates survived independence in most new republics.",
+  "id": "wh-fresh-u5-007",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Haiti became independent in 1804, as the dates show.",
+   "B": "Correct. The social outcomes were opposites: Haiti destroyed the plantation order, Spanish America transferred it to creole hands.",
+   "C": "Wrong. This reverses the facts — most Spanish American republics retained slavery for decades.",
+   "D": "Wrong. Both revolutions transformed their societies, just in very different directions."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Wollstonecraft turns Enlightenment logic against its male authors: if rights come from reason and nature, as Locke and the revolutionaries claimed, then keeping women ignorant is inconsistent. Her audience was the educated public debating rights in the 1790s.",
-    "id": "wh-fresh-u5-008",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. She explicitly says educated women will become better wives and mothers, not abandon family life.",
-      "B": "Wrong. She demanded education and rational development, not employment bans.",
-      "C": "Wrong. This reverses her argument — she insists inferiority is produced by bad education, not nature.",
-      "D": "Correct. Her strategy is to expose the contradiction between universal natural-rights talk and women's exclusion."
-    },
-    "options": [
-      "(A) call on women to reject marriage and family life entirely",
-      "(B) persuade the British Parliament to ban all women's employment",
-      "(C) argue that women were naturally inferior to men and therefore needed permanent male guidance in all matters",
-      "(D) convince readers that denying women education contradicted the era's own claims about natural rights"
-    ],
-    "reasoning": "Causation",
-    "skill": "Sourcing and Situation",
-    "stem": "Wollstonecraft's primary purpose in this passage was to:",
-    "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792 (paraphrased from the Introduction)",
-    "stimulus_words": 68,
-    "themes": [
-      "SIO",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Haiti remained a colony while Spanish America became independent",
+   "(B) Haiti's revolution destroyed slavery and the planter class, while Spanish American independence largely preserved slavery and creole elite rule",
+   "(C) Spanish America abolished slavery immediately, while Haiti kept it",
+   "(D) neither revolution changed the social order in any way"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "stem": "Comparing the outcomes of these revolutions, the Haitian Revolution differed most sharply from the Spanish American independence movements in that:",
+  "stimulus": "Key dates of the Atlantic revolutions: American independence, 1776; French Revolution, 1789; Haitian slave revolt and independence, 1791–1804; Spanish American independence movements, 1810–1825 (Mexico 1821, Gran Colombia 1819, Peru 1821); Brazilian independence, 1822. Revolutionary ideas circulated between these regions across the Atlantic.",
+  "stimulus_words": 42,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Wollstonecraft turns Enlightenment logic against its male authors: if rights come from reason and nature, as Locke and the revolutionaries claimed, then keeping women ignorant is inconsistent. Her audience was the educated public debating rights in the 1790s.",
+  "id": "wh-fresh-u5-008",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. She explicitly says educated women will become better wives and mothers, not abandon family life.",
+   "B": "Wrong. She demanded education and rational development, not employment bans.",
+   "C": "Wrong. This reverses her argument — she insists inferiority is produced by bad education, not nature.",
+   "D": "Correct. Her strategy is to expose the contradiction between universal natural-rights talk and women's exclusion."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Writing in 1792 amid the French Revolution, Wollstonecraft extended the natural-rights reasoning of Locke and the Declaration of the Rights of Man to women. Her work later helped inspire the Seneca Falls convention of 1848.",
-    "id": "wh-fresh-u5-009",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Her book is a direct application of Enlightenment natural-rights logic to the exclusion of women.",
-      "B": "Wrong. Factory acts came decades later, in the 1830s–40s.",
-      "C": "Wrong. The Congress of Vienna met in 1814–15, more than twenty years after she wrote.",
-      "D": "Wrong. She supported abolition in principle but did not lead the campaign; that was Clarkson, Wilberforce, and others."
-    },
-    "options": [
-      "(A) Enlightenment debates over natural rights, which revolutionaries were applying to politics but not to gender",
-      "(B) British factory legislation that had already improved women's working conditions",
-      "(C) the Congress of Vienna's restoration of traditional monarchies",
-      "(D) the abolition of the British Atlantic slave trade, a campaign that she personally organized and led to victory in Parliament"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Contextualization",
-    "stem": "Wollstonecraft's argument is best understood in the context of:",
-    "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792 (paraphrased from the Introduction)",
-    "stimulus_words": 68,
-    "themes": [
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) call on women to reject marriage and family life entirely",
+   "(B) persuade the British Parliament to ban all women's employment",
+   "(C) argue that women were naturally inferior to men and therefore needed permanent male guidance in all matters",
+   "(D) convince readers that denying women education contradicted the era's own claims about natural rights"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "stem": "Wollstonecraft's primary purpose in this passage was to:",
+  "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792 (paraphrased from the Introduction)",
+  "stimulus_words": 68,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Writing in 1792 amid the French Revolution, Wollstonecraft extended the natural-rights reasoning of Locke and the Declaration of the Rights of Man to women. Her work later helped inspire the Seneca Falls convention of 1848.",
+  "id": "wh-fresh-u5-009",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Her book is a direct application of Enlightenment natural-rights logic to the exclusion of women.",
+   "B": "Wrong. Factory acts came decades later, in the 1830s–40s.",
+   "C": "Wrong. The Congress of Vienna met in 1814–15, more than twenty years after she wrote.",
+   "D": "Wrong. She supported abolition in principle but did not lead the campaign; that was Clarkson, Wilberforce, and others."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The congress's system — legitimate monarchs, a balance of power, and congresses to crush revolts — held until the 1848 wave of revolutions. Nationalism and liberalism survived underground and returned, showing the limits of the conservative restoration.",
-    "id": "wh-fresh-u5-010",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. Nationalism and liberalism erupted again in 1830 and 1848, and eventually united Italy and Germany.",
-      "B": "Wrong. The image shows only elite diplomats and monarchs; ordinary people had no seat at the table.",
-      "C": "Correct. The settlement bought roughly a generation of stability before the suppressed forces broke through.",
-      "D": "Wrong. The congress system shaped intervention in Latin America debates and the global balance of power."
-    },
-    "options": [
-      "(A) It permanently eliminated nationalism and liberalism from European politics",
-      "(B) It was a democratic gathering that gave ordinary Europeans a direct voice in redrawing the map and choosing the rulers of their own countries",
-      "(C) It restored conservative order for a generation, but could not prevent the nationalist and liberal revolutions of 1830 and 1848",
-      "(D) It had no influence outside Europe and was ignored by the rest of the world"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Argumentation",
-    "stem": "Which of the following is the best-supported argument about the Congress of Vienna's long-term significance?",
-    "stimulus": "Group portrait of the Congress of Vienna (engraving, 1819, after Jean-Baptiste Isabey): dozens of bewigged diplomats and monarchs — including Metternich of Austria, Talleyrand of France, and representatives of Britain, Prussia, and Russia — seated around a conference table in a grand hall, with papers and maps spread before them. No ordinary citizens, soldiers, or revolutionaries appear in the scene.",
-    "stimulus_words": 60,
-    "themes": [
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
-  }
+  "options": [
+   "(A) Enlightenment debates over natural rights, which revolutionaries were applying to politics but not to gender",
+   "(B) British factory legislation that had already improved women's working conditions",
+   "(C) the Congress of Vienna's restoration of traditional monarchies",
+   "(D) the abolition of the British Atlantic slave trade, a campaign that she personally organized and led to victory in Parliament"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "stem": "Wollstonecraft's argument is best understood in the context of:",
+  "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792 (paraphrased from the Introduction)",
+  "stimulus_words": 68,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The congress's system — legitimate monarchs, a balance of power, and congresses to crush revolts — held until the 1848 wave of revolutions. Nationalism and liberalism survived underground and returned, showing the limits of the conservative restoration.",
+  "id": "wh-fresh-u5-010",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Nationalism and liberalism erupted again in 1830 and 1848, and eventually united Italy and Germany.",
+   "B": "Wrong. The image shows only elite diplomats and monarchs; ordinary people had no seat at the table.",
+   "C": "Correct. The settlement bought roughly a generation of stability before the suppressed forces broke through.",
+   "D": "Wrong. The congress system shaped intervention in Latin America debates and the global balance of power."
+  },
+  "options": [
+   "(A) It permanently eliminated nationalism and liberalism from European politics",
+   "(B) It was a democratic gathering that gave ordinary Europeans a direct voice in redrawing the map and choosing the rulers of their own countries",
+   "(C) It restored conservative order for a generation, but could not prevent the nationalist and liberal revolutions of 1830 and 1848",
+   "(D) It had no influence outside Europe and was ignored by the rest of the world"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Argumentation",
+  "stem": "Which of the following is the best-supported argument about the Congress of Vienna's long-term significance?",
+  "stimulus": "Group portrait of the Congress of Vienna (engraving, 1819, after Jean-Baptiste Isabey): dozens of bewigged diplomats and monarchs — including Metternich of Austria, Talleyrand of France, and representatives of Britain, Prussia, and Russia — seated around a conference table in a grand hall, with papers and maps spread before them. No ordinary citizens, soldiers, or revolutionaries appear in the scene.",
+  "stimulus_words": 60,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5,
+  "visual_needs_url": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wiener_kongress.jpg",
+  "image_license": "Public domain",
+  "image_verified": "2026-10-02"
+ }
 ]

@@ -1,13 +1,13 @@
 [
  {
   "difficulty": "medium",
-  "explanation": "The Canton System looks like Chinese strength — foreigners confined to one port — but the opium arrows reveal the vulnerability: a growing trade imbalance and addiction crisis. The map captures the moment before the 1839–42 war, when pressure was building but the old order still stood.",
+  "explanation": "The Canton System looks like Chinese strength — foreigners confined to one port — but the opium shipments reveal the vulnerability: a growing trade imbalance and addiction crisis. This background captures the moment before the 1839–42 war, when pressure was building but the old order still stood.",
   "id": "wh-fresh-u5-051",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. China was not colonized; it still dictated trade terms at Canton in this period.",
-   "B": "Correct. Controlled trade plus mounting opium pressure is the map's story.",
-   "C": "Wrong. The map's own note says the Opium Wars come later (1839–1842).",
+   "B": "Correct. Controlled trade plus mounting opium pressure is the story of this background.",
+   "C": "Wrong. The background note says the Opium Wars come later (1839–1842).",
    "D": "Wrong. The opium arrows show exactly how commercially interested Britain was."
   },
   "options": [
@@ -18,27 +18,26 @@
   ],
   "reasoning": "Causation",
   "skill": "Contextualization",
-  "stem": "This map is most useful for understanding which broader context?",
-  "stimulus": "Map: 'Western pressure on Qing China, c. 1800–1840.' Canton (Guangzhou) is marked as the single legal port for foreign trade under the Canton System; arrows show British opium shipments flowing from India to Canton. The White Lotus rebellion zone (1796–1804) is shaded across Hubei, Sichuan, and Shaanxi. Note: 'The Opium Wars (1839–1842) come later — this map shows the background.'",
-  "stimulus_words": 60,
+  "stem": "This background is most useful for understanding which broader context?",
+  "stimulus": "Western pressure on Qing China, c. 1800–1840: Canton (Guangzhou) remained the single legal port for foreign trade under the Canton System; British opium shipments flowed from India to Canton. Inland, the White Lotus rebellion (1796–1804) spread across Hubei, Sichuan, and Shaanxi. The Opium Wars (1839–1842) came later — this is the background.",
+  "stimulus_words": 52,
   "themes": [
    "ECN",
    "GOV"
   ],
   "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": true
+  "unit": 5
  },
  {
   "difficulty": "medium",
-  "explanation": "The eight-year rebellion drained the Qing treasury and exposed military decay, all from domestic causes. It belongs on this map because Qing decline had deep internal roots — the dynasty was already fragile when the Opium Wars later struck from outside.",
+  "explanation": "The eight-year rebellion drained the Qing treasury and exposed military decay, all from domestic causes. It belongs in this background because Qing decline had deep internal roots — the dynasty was already fragile when the Opium Wars later struck from outside.",
   "id": "wh-fresh-u5-052",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The rebellion was a domestic Chinese movement; Britain did not fund it.",
    "B": "Wrong. The Qing crushed the rebellion; the Ming was not restored.",
    "C": "Wrong. It lasted eight years, killed around 100,000 rebels, and nearly bankrupted the dynasty.",
-   "D": "Correct. Internal crisis preceding external pressure is the development the shading illustrates."
+   "D": "Correct. Internal crisis preceding external pressure is the development illustrated here."
   },
   "options": [
    "(A) A British-funded and British-armed rebellion deliberately designed by London opium merchants in the 1790s to force China open to foreign trade",
@@ -48,16 +47,15 @@
   ],
   "reasoning": "Causation",
   "skill": "Developments and Processes",
-  "stem": "The shaded White Lotus zone on the map best illustrates which development?",
-  "stimulus": "Map: 'Western pressure on Qing China, c. 1800–1840.' Canton (Guangzhou) is marked as the single legal port for foreign trade under the Canton System; arrows show British opium shipments flowing from India to Canton. The White Lotus rebellion zone (1796–1804) is shaded across Hubei, Sichuan, and Shaanxi. Note: 'The Opium Wars (1839–1842) come later — this map shows the background.'",
-  "stimulus_words": 60,
+  "stem": "The White Lotus rebellion of 1796–1804 best illustrates which development?",
+  "stimulus": "Western pressure on Qing China, c. 1800–1840: Canton (Guangzhou) remained the single legal port for foreign trade under the Canton System; British opium shipments flowed from India to Canton. Inland, the White Lotus rebellion (1796–1804) spread across Hubei, Sichuan, and Shaanxi. The Opium Wars (1839–1842) came later — this is the background.",
+  "stimulus_words": 52,
   "themes": [
    "GOV",
    "SIO"
   ],
   "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": true
+  "unit": 5
  },
  {
   "difficulty": "medium",
@@ -289,14 +287,14 @@
  },
  {
   "difficulty": "hard",
-  "explanation": "The map's spread — from Philadelphia to Port-au-Prince to Canton — shows how widely the age of revolution reached, while the White Lotus marker warns against a single story. Everywhere, liberation was partial: American republics kept slavery, French universalism excluded women, Latin American independence preserved hierarchy. Expansion and exclusion advanced together.",
+  "explanation": "The spread — from Philadelphia to Port-au-Prince to Canton — shows how widely the age of revolution reached, while the White Lotus case warns against a single story. Everywhere, liberation was partial: American republics kept slavery, French universalism excluded women, Latin American independence preserved hierarchy. Expansion and exclusion advanced together.",
   "id": "wh-fresh-u5-061",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Uneven expansion of rights — with persistent exclusions — is the era's signature pattern.",
    "B": "Wrong. No revolution fully achieved its ideals; slavery, patriarchy, and hierarchy all survived.",
    "C": "Wrong. The map documents upheavals on four continents.",
-   "D": "Wrong. The map's non-European markers (Haiti, Spanish America, China) refute a Europe-only story."
+   "D": "Wrong. The non-European cases (Haiti, Spanish America, China) refute a Europe-only story."
   },
   "options": [
    "(A) Revolutions expanded political participation unevenly — empowering some groups while excluding others, such as women and enslaved people",
@@ -306,15 +304,14 @@
   ],
   "reasoning": "Continuity and Change",
   "skill": "Argumentation",
-  "stem": "Which of the following is the best-supported argument about the revolutions of 1750–1900, based on the map and the era as a whole?",
-  "stimulus": "World map: 'Revolutionary upheavals, 1776–1848.' Markers show: North America 1776, France 1789, Haiti 1804, Spanish America 1810–25, Greece 1821–30, Europe 1830 and 1848. A separate symbol marks the White Lotus Rebellion in China (1796–1804), labeled 'peasant revolt — not Enlightenment-inspired.' Legend: 'The revolutionary era was global, but not uniform.'",
-  "stimulus_words": 49,
+  "stem": "Which of the following is the best-supported argument about the revolutions of 1750–1900, based on this list and the era as a whole?",
+  "stimulus": "Revolutionary upheavals, 1776–1848, spread across the globe: North America (1776), France (1789), Haiti (1804), Spanish America (1810–25), Greece (1821–30), Europe (1830 and 1848). Separately, China saw the White Lotus peasant rebellion (1796–1804) — not Enlightenment-inspired. The revolutionary era was global, but not uniform.",
+  "stimulus_words": 43,
   "themes": [
    "SIO",
    "CDI"
   ],
   "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": true
+  "unit": 5
  }
 ]
