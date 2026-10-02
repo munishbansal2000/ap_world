@@ -13,7 +13,7 @@
   ],
   "target_reasoning_process": "comparison",
   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
-  "prompt": "In the twentieth century, movements for women's equality prompted varied responses from states around the world. Develop an argument that compares how two states responded to movements for women's equality in the period c. 1900-c. 2001.",
+  "prompt": "In the twentieth century, movements for women's equality prompted varied responses from states around the world. Develop an argument that compares how two states responded to movements for women's equality in the period c. 1900-c. 2001. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
   "rubric_map": {
     "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
     "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the global spread of feminist movements, the effects of the World Wars on women's employment, decolonization, or communist and nationalist ideologies.",

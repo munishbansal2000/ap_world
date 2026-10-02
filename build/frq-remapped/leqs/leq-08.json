@@ -11,7 +11,7 @@
   ],
   "target_reasoning_process": "comparison",
   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
-  "prompt": "In the period c. 1450-c. 1750, European overseas empires expanded and sought trade, territory, and converts in Asia. Several Asian states limited or resisted European influence. Develop an argument that compares the strategies that different Asian states used to resist or limit European influence in this period.",
+  "prompt": "In the period c. 1450-c. 1750, European overseas empires expanded and sought trade, territory, and converts in Asia. Several Asian states limited or resisted European influence. Develop an argument that compares the strategies that different Asian states used to resist or limit European influence in this period. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
   "rubric_map": {
     "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
     "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: European maritime expansion, the search for Asian markets, missionary activity, or the military and economic strength of Asian empires relative to early Europeans.",

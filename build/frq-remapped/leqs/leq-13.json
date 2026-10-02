@@ -11,7 +11,7 @@
   ],
   "target_reasoning_process": "continuity and change",
   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
-  "prompt": "In the nineteenth century, European empires pressed into China through trade, diplomacy, and military force. Develop an argument that evaluates the extent to which European imperialism transformed China's government and political order in the period c. 1750-c. 1900.",
+  "prompt": "In the nineteenth century, European empires pressed into China through trade, diplomacy, and military force. Develop an argument that evaluates the extent to which European imperialism transformed China's government and political order in the period c. 1750-c. 1900. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
   "rubric_map": {
     "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
     "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the Qing dynasty's eighteenth-century strength, the Canton system, European industrial and military advantages, or internal Qing crises (population pressure, rebellions).",

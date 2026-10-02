@@ -12,7 +12,7 @@
   ],
   "target_reasoning_process": "comparison",
   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
-  "prompt": "In the period c. 1750-c. 1900, Great Britain industrialized early while other states industrialized later, often more rapidly and under different conditions. Develop an argument that compares the processes and social consequences of industrialization in Great Britain and in one other industrializing state in this period.",
+  "prompt": "In the period c. 1750-c. 1900, Great Britain industrialized early while other states industrialized later, often more rapidly and under different conditions. Develop an argument that compares the processes and social consequences of industrialization in Great Britain and in one other industrializing state in this period. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
   "rubric_map": {
     "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
     "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the global spread of industrial technology, competition among states, different resource endowments, or the social disruptions of urbanization.",

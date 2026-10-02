@@ -11,7 +11,7 @@
   ],
   "target_reasoning_process": "continuity and change",
   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
-  "prompt": "In the period c. 1450-c. 1750, European states built overseas empires that reorganized commerce across the Atlantic and Indian Oceans. Develop an argument that evaluates the extent to which European empire-building transformed long-distance trade in this period.",
+  "prompt": "In the period c. 1450-c. 1750, European states built overseas empires that reorganized commerce across the Atlantic and Indian Oceans. Develop an argument that evaluates the extent to which European empire-building transformed long-distance trade in this period. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
   "rubric_map": {
     "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
     "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: pre-1450 Indian Ocean and Silk Road trade dominated by Asian and Muslim merchants, European maritime technology, mercantilist policies, or the silver trade.",

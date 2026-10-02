@@ -12,7 +12,7 @@
   ],
   "target_reasoning_process": "continuity and change",
   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
-  "prompt": "After 1492, the Columbian Exchange moved plants, animals, people, and diseases between the Americas, Europe, and Africa. Develop an argument that evaluates the extent to which the Columbian Exchange transformed the societies of the Americas in the period c. 1450-c. 1750.",
+  "prompt": "After 1492, the Columbian Exchange moved plants, animals, people, and diseases between the Americas, Europe, and Africa. Develop an argument that evaluates the extent to which the Columbian Exchange transformed the societies of the Americas in the period c. 1450-c. 1750. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
   "rubric_map": {
     "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
     "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: European colonization of the Americas, the transatlantic slave trade, the demographic collapse from epidemic disease, or pre-contact American societies.",
