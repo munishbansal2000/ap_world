@@ -59,6 +59,6 @@ Themes: ENV, CDI, GOV, ECN, SIO, TEC. Flag any unit dominated by a single theme.
 
 | Date | Phase | Result |
 |---|---|---|
-| | post-reclaim | |
-| | post-fresh-wave | |
+| 2026-10-02 | post-reclaim | 726 re-conceived MCQs; 9 thin skill cells in U1/U4/U6/U8 |
+| 2026-10-02 | post-fresh-wave | +220 fresh (196 targeted + 24 top-ups) = 946 bank; all 54 skill×unit cells ≥5; all unit quotas met; blind key audit 220/220; compliance done (12 honest UNVERIFIED-QUOTE flags) |
 | | prod-readiness | |
