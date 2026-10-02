@@ -96,7 +96,7 @@
       "D": "Wrong: the chart tracks merchandise exports, which grew; it provides no evidence of countries abandoning manufacturing."
     },
     "options": [
-      "(A) the share of national output traded across borders more than doubled between 1960 and 2020",
+      "(A) the share of national output traded across borders more than doubled between 1970 and 2020",
       "(B) international trade declined in every decade after 1960",
       "(C) the 2009 dip proves that globalization ended with the global financial crisis and never recovered afterward",
       "(D) exports grew mainly because most countries abandoned manufacturing for services"
@@ -104,15 +104,18 @@
     "reasoning": "Continuity and Change",
     "skill": "Claims and Evidence in Sources",
     "stem": "Which claim about economic globalization is best supported by the chart?",
-    "stimulus": "Line chart titled 'World trade (exports and imports of goods and services) as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
-    "stimulus_words": 47,
+    "stimulus": "Line chart titled 'Trade as a share of global GDP.' The line rises from about 25 percent around 1970 to about 60 percent in 2008, dips sharply in 2009, then recovers and climbs to about 62 percent by 2024. Subtitle: 'Sum of exports and imports of goods and services globally, divided by gross domestic product, expressed as a percentage.' Note below: 'Data source: World Bank (2024).'",
+    "stimulus_words": 66,
     "themes": [
       "ECN",
       "TEC"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "hard",
@@ -134,14 +137,17 @@
     "reasoning": "Causation",
     "skill": "Claims and Evidence in Sources",
     "stem": "A historian argues that institutions created after World War II laid the groundwork for the trend shown. Which evidence best supports that argument?",
-    "stimulus": "Line chart titled 'World trade (exports and imports of goods and services) as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
-    "stimulus_words": 47,
+    "stimulus": "Line chart titled 'Trade as a share of global GDP.' The line rises from about 25 percent around 1970 to about 60 percent in 2008, dips sharply in 2009, then recovers and climbs to about 62 percent by 2024. Subtitle: 'Sum of exports and imports of goods and services globally, divided by gross domestic product, expressed as a percentage.' Note below: 'Data source: World Bank (2024).'",
+    "stimulus_words": 66,
     "themes": [
       "ECN"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "medium",
@@ -220,15 +226,18 @@
     "reasoning": "Causation",
     "skill": "Making Connections",
     "stem": "The scene best illustrates the connection between:",
-    "stimulus": "Color photograph, Port of Singapore, 2019: a giant container ship docked beneath towering gantry cranes; its deck is stacked high with multicolored steel shipping containers.",
-    "stimulus_words": 25,
+    "stimulus": "Aerial color photograph, Keppel Container Terminal, Singapore, 2012: towering gantry cranes loom over acres of stacked multicolored steel shipping containers, with large container ships docked at the quays and dozens more vessels anchored offshore.",
+    "stimulus_words": 34,
     "themes": [
       "ECN",
       "TEC"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
+    "image_license": "CC BY 2.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "hard",
@@ -250,14 +259,17 @@
     "reasoning": "Causation",
     "skill": "Argumentation",
     "stem": "Which of the following is the best-supported argument about the development shown in the photograph?",
-    "stimulus": "Color photograph, Port of Singapore, 2019: a giant container ship docked beneath towering gantry cranes; its deck is stacked high with multicolored steel shipping containers.",
-    "stimulus_words": 25,
+    "stimulus": "Aerial color photograph, Keppel Container Terminal, Singapore, 2012: towering gantry cranes loom over acres of stacked multicolored steel shipping containers, with large container ships docked at the quays and dozens more vessels anchored offshore.",
+    "stimulus_words": 34,
     "themes": [
       "ECN",
       "TEC"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
+    "image_license": "CC BY 2.0",
+    "image_verified": "2026-10-02"
   }
 ]

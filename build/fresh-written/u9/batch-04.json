@@ -29,7 +29,7 @@
   },
   {
     "difficulty": "medium",
-    "explanation": "In 1980 Deng's government made Shenzhen one of China's first Special Economic Zones, offering tax breaks and relaxed rules to attract foreign capital. Investment poured in, factories multiplied, and migrants arrived by the millions, producing the megacity in the 2020 image.",
+    "explanation": "In 1980 Deng's government made Shenzhen one of China's first Special Economic Zones, offering tax breaks and relaxed rules to attract foreign capital. Investment poured in, factories multiplied, and migrants arrived by the millions, producing the megacity shown in the image.",
     "id": "wh-fresh-u9-027",
     "key": "A",
     "option_explanations": {
@@ -46,16 +46,19 @@
     ],
     "reasoning": "Causation",
     "skill": "Developments and Processes",
-    "stem": "The transformation shown resulted primarily from:",
-    "stimulus": "Two aerial views of Shenzhen, China, labeled '1980' and '2020.' The 1980 view shows farmland, fishing villages, and low buildings; the 2020 view shows a dense grid of skyscrapers, factories, and highways. Caption: 'Shenzhen: from market town to megacity.'",
-    "stimulus_words": 39,
+    "stem": "The growth of the city shown resulted primarily from:",
+    "stimulus": "Color photograph from a hilltop overlooking Shenzhen, China: a dense skyline of modern skyscrapers and residential towers stretches across the horizon, the built-up megacity filling the view. Caption: 'Shenzhen: from market town to megacity.'",
+    "stimulus_words": 34,
     "themes": [
       "ECN",
       "SIO"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "hard",
@@ -64,7 +67,7 @@
     "key": "D",
     "option_explanations": {
       "A": "Wrong: Shenzhen integrated deeply into world markets; isolation is the opposite of what the images show.",
-      "B": "Wrong: the factory-filled 2020 image shows manufacturing expanding, not declining.",
+      "B": "Wrong: the sprawling modern city shown grew through industrial and export-driven expansion, not a decline of manufacturing.",
       "C": "Wrong: the SEZ embraced market mechanisms and foreign capital within a communist state; it did not reject market reform.",
       "D": "Right: state-created incentives drew the foreign investment that made Shenzhen a hub of relocated global manufacturing."
     },
@@ -77,15 +80,18 @@
     "reasoning": "Causation",
     "skill": "Making Connections",
     "stem": "Shenzhen's growth illustrates the connection between:",
-    "stimulus": "Two aerial views of Shenzhen, China, labeled '1980' and '2020.' The 1980 view shows farmland, fishing villages, and low buildings; the 2020 view shows a dense grid of skyscrapers, factories, and highways. Caption: 'Shenzhen: from market town to megacity.'",
-    "stimulus_words": 39,
+    "stimulus": "Color photograph from a hilltop overlooking Shenzhen, China: a dense skyline of modern skyscrapers and residential towers stretches across the horizon, the built-up megacity filling the view. Caption: 'Shenzhen: from market town to megacity.'",
+    "stimulus_words": 34,
     "themes": [
       "ECN",
       "SIO"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "medium",
@@ -165,8 +171,8 @@
     "reasoning": "Comparison",
     "skill": "Argumentation",
     "stem": "Which statement best evaluates the two historians' interpretations?",
-    "stimulus": "Two historians on globalization and democracy. Historian A: 'Where markets opened, political opening followed. South Korea and Taiwan built prosperous export economies and then democratized.' Historian B: 'China and Vietnam integrated deeply into world trade while keeping one-party rule; Singapore grew rich without becoming a liberal democracy.'",
-    "stimulus_words": 47,
+    "stimulus": "Two historians on globalization and democracy (positions paraphrased). Historian A argues that where markets opened, political opening followed: South Korea and Taiwan built prosperous export economies and then democratized. Historian B counters that China and Vietnam integrated deeply into world trade while keeping one-party rule, and that Singapore grew rich without becoming a liberal democracy.",
+    "stimulus_words": 55,
     "themes": [
       "CDI"
     ],

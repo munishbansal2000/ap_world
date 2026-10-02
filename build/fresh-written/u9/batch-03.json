@@ -19,14 +19,13 @@
     "reasoning": "Comparison",
     "skill": "Claims and Evidence in Sources",
     "stem": "Which claim is best supported by the map?",
-    "stimulus": "World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
-    "stimulus_words": 39,
+    "stimulus": "Map description. World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
+    "stimulus_words": 41,
     "themes": [
       "ECN"
     ],
     "type": "mcq",
-    "unit": 9,
-    "visual_needs_url": true
+    "unit": 9
   },
   {
     "difficulty": "hard",
@@ -48,18 +47,17 @@
     "reasoning": "Comparison",
     "skill": "Making Connections",
     "stem": "Compared with the USMCA, the European Union represents:",
-    "stimulus": "World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
-    "stimulus_words": 39,
+    "stimulus": "Map description. World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
+    "stimulus_words": 41,
     "themes": [
       "ECN"
     ],
     "type": "mcq",
-    "unit": 9,
-    "visual_needs_url": true
+    "unit": 9
   },
   {
     "difficulty": "medium",
-    "explanation": "Kyoto (1997) and Paris (2015) were negotiated responses to the scientific consensus, visible in the graph, that human activity was raising greenhouse gases and temperatures. Their weak enforcement reflects the reality that sovereign states resist binding limits, which is the context a historian needs.",
+    "explanation": "Kyoto (1997) and Paris (2015) were negotiated responses to the scientific consensus, visible in the graph, that human activity was raising greenhouse-gas concentrations. Their weak enforcement reflects the reality that sovereign states resist binding limits, which is the context a historian needs.",
     "id": "wh-fresh-u9-020",
     "key": "D",
     "option_explanations": {
@@ -77,14 +75,17 @@
     "reasoning": "Causation",
     "skill": "Contextualization",
     "stem": "International agreements such as the Kyoto Protocol (1997) and the Paris Agreement (2015) are best understood in the context of:",
-    "stimulus": "Line graph titled 'Atmospheric carbon dioxide and global temperature, 1960-2024.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in 2024; a second line shows the global average temperature anomaly rising across the same period. Source note: 'NOAA data.'",
-    "stimulus_words": 51,
+    "stimulus": "Line graph titled 'Mauna Loa Observatory, Hawaii: Monthly Average Carbon Dioxide Concentration.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in late 2024. Source note: 'Data from Scripps CO2 Program.'",
+    "stimulus_words": 43,
     "themes": [
       "ENV"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Keeling_Curve_up-to-date_-_MLO_record.png",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "hard",
@@ -106,15 +107,18 @@
     "reasoning": "Causation",
     "skill": "Making Connections",
     "stem": "The trend in the graph connects environmental change to economic globalization because:",
-    "stimulus": "Line graph titled 'Atmospheric carbon dioxide and global temperature, 1960-2024.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in 2024; a second line shows the global average temperature anomaly rising across the same period. Source note: 'NOAA data.'",
-    "stimulus_words": 51,
+    "stimulus": "Line graph titled 'Mauna Loa Observatory, Hawaii: Monthly Average Carbon Dioxide Concentration.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in late 2024. Source note: 'Data from Scripps CO2 Program.'",
+    "stimulus_words": 43,
     "themes": [
       "ENV",
       "ECN"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Keeling_Curve_up-to-date_-_MLO_record.png",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "hard",
@@ -123,27 +127,30 @@
     "key": "C",
     "option_explanations": {
       "A": "Wrong: the CO2 line keeps rising after 1997, contradicting any claim of a quick reversal.",
-      "B": "Wrong: the steadily rising lines show the problem the agreements addressed was real and growing.",
+      "B": "Wrong: the steadily rising line shows the problem the agreements addressed was real and growing.",
       "C": "Right: the agreements were landmark cooperation, but their weak enforcement reflects states protecting sovereignty.",
-      "D": "Wrong: this reverses causation; emissions from fossil fuels drove the warming, not the agreements."
+      "D": "Wrong: this reverses causation; fossil-fuel emissions drove the rising carbon dioxide, not the agreements."
     },
     "options": [
       "(A) the agreements quickly reversed the rise in carbon dioxide after 1997",
       "(B) the graph proves the agreements were unnecessary",
       "(C) the agreements show environmental problems increasingly require international cooperation, though enforcement remains difficult because states protect their sovereignty",
-      "(D) the agreements caused the temperature increases shown in the graph"
+      "(D) the agreements caused the rise in carbon dioxide shown in the graph"
     ],
     "reasoning": "Continuity and Change",
     "skill": "Argumentation",
     "stem": "Which of the following is the best-supported argument about the climate agreements, given the data shown?",
-    "stimulus": "Line graph titled 'Atmospheric carbon dioxide and global temperature, 1960-2024.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in 2024; a second line shows the global average temperature anomaly rising across the same period. Source note: 'NOAA data.'",
-    "stimulus_words": 51,
+    "stimulus": "Line graph titled 'Mauna Loa Observatory, Hawaii: Monthly Average Carbon Dioxide Concentration.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in late 2024. Source note: 'Data from Scripps CO2 Program.'",
+    "stimulus_words": 43,
     "themes": [
       "ENV"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Keeling_Curve_up-to-date_-_MLO_record.png",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "medium",

@@ -19,15 +19,18 @@
     "reasoning": "Continuity and Change",
     "skill": "Argumentation",
     "stem": "A historian claims that the shipping revolution represents both continuity and change in world trade. Which statement best evaluates that claim?",
-    "stimulus": "Color photograph, Port of Singapore, 2019: a giant container ship docked beneath towering gantry cranes; its deck is stacked high with multicolored steel shipping containers.",
-    "stimulus_words": 25,
+    "stimulus": "Aerial color photograph, Keppel Container Terminal, Singapore, 2012: towering gantry cranes loom over acres of stacked multicolored steel shipping containers, with large container ships docked at the quays and dozens more vessels anchored offshore.",
+    "stimulus_words": 34,
     "themes": [
       "ECN",
       "TEC"
     ],
     "type": "mcq",
     "unit": 9,
-    "visual_needs_url": true
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
+    "image_license": "CC BY 2.0",
+    "image_verified": "2026-10-02"
   },
   {
     "difficulty": "medium",
@@ -223,13 +226,12 @@
     "reasoning": "Causation",
     "skill": "Developments and Processes",
     "stem": "The formation of the blocs shown on the map was driven primarily by:",
-    "stimulus": "World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
-    "stimulus_words": 39,
+    "stimulus": "Map description. World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
+    "stimulus_words": 41,
     "themes": [
       "ECN"
     ],
     "type": "mcq",
-    "unit": 9,
-    "visual_needs_url": true
+    "unit": 9
   }
 ]
