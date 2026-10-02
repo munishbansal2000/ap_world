@@ -1,0 +1,233 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "The report captures one euphoric night, but Eastern Europe's shift to market economies brought unemployment, inflation, and hardship through the 1990s. A historian must not let the celebration stand in for the whole longer, more painful transition.",
+    "id": "wh-fresh-u9-026",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the November 1989 date is well documented and not the main caution for this source.",
+      "B": "Wrong: the Wall's existence is an established fact; it is not what needs caution here.",
+      "C": "Right: a single celebratory moment cannot represent the difficult decade of economic transition that followed.",
+      "D": "Wrong: the report attributes nothing to West Germany; the Wall fell because East Germans acted after Moscow stepped back."
+    },
+    "options": [
+      "(A) the exact date the report was published, since without a precise date the events it describes cannot be placed in any known month or year at all",
+      "(B) whether the Berlin Wall actually existed",
+      "(C) treating a moment of celebration as representative of the difficult economic transitions that followed in Eastern Europe",
+      "(D) concluding that the report proves West Germany caused the Wall to fall"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "stem": "A historian using this report as evidence should be most cautious about:",
+    "stimulus": "News report, Berlin, November 1989 (paraphrased): Crowds of East and West Berliners climbed onto the Berlin Wall near the Brandenburg Gate, celebrating and chipping pieces from it with hammers as border guards stood by.",
+    "stimulus_words": 34,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "In 1980 Deng's government made Shenzhen one of China's first Special Economic Zones, offering tax breaks and relaxed rules to attract foreign capital. Investment poured in, factories multiplied, and migrants arrived by the millions, producing the megacity in the 2020 image.",
+    "id": "wh-fresh-u9-027",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the 1980 SEZ designation opened Shenzhen to foreign investment and export manufacturing, driving its explosive growth.",
+      "B": "Wrong: Shenzhen's growth came from embracing foreign trade and investment, not banning it.",
+      "C": "Wrong: Beijing remained China's capital; Shenzhen was never selected for that role.",
+      "D": "Wrong: no oil discovery explains Shenzhen's rise; policy and investment did."
+    },
+    "options": [
+      "(A) Deng Xiaoping's 1980 designation of Shenzhen as a Special Economic Zone open to foreign investment and export manufacturing",
+      "(B) the city's decision to ban all foreign trade",
+      "(C) Shenzhen's selection as China's capital in 1980",
+      "(D) the discovery of large oil reserves beneath the city"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The transformation shown resulted primarily from:",
+    "stimulus": "Two aerial views of Shenzhen, China, labeled '1980' and '2020.' The 1980 view shows farmland, fishing villages, and low buildings; the 2020 view shows a dense grid of skyscrapers, factories, and highways. Caption: 'Shenzhen: from market town to megacity.'",
+    "stimulus_words": 39,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Shenzhen was a deliberate state project: the government created the zone, set the incentives, and managed the opening. Foreign firms responded by moving production there for cheap labor, making the city a textbook case of state-directed reform meeting the global relocation of manufacturing.",
+    "id": "wh-fresh-u9-028",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: Shenzhen integrated deeply into world markets; isolation is the opposite of what the images show.",
+      "B": "Wrong: the factory-filled 2020 image shows manufacturing expanding, not declining.",
+      "C": "Wrong: the SEZ embraced market mechanisms and foreign capital within a communist state; it did not reject market reform.",
+      "D": "Right: state-created incentives drew the foreign investment that made Shenzhen a hub of relocated global manufacturing."
+    },
+    "options": [
+      "(A) isolation from world markets and rapid urbanization",
+      "(B) the decline of manufacturing worldwide",
+      "(C) communist ideology and the rejection of market reforms, since the government banned private enterprise and foreign investment in the zone",
+      "(D) state-directed market reforms and the shift of global manufacturing toward regions with lower labor costs"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "Shenzhen's growth illustrates the connection between:",
+    "stimulus": "Two aerial views of Shenzhen, China, labeled '1980' and '2020.' The 1980 view shows farmland, fishing villages, and low buildings; the 2020 view shows a dense grid of skyscrapers, factories, and highways. Caption: 'Shenzhen: from market town to megacity.'",
+    "stimulus_words": 39,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "West Germany recruited Turkish workers beginning with the 1961 agreement to fill factory jobs during its postwar boom. Recruitment was meant to be temporary, but many workers stayed, brought families, and built lasting Turkish communities in German cities.",
+    "id": "wh-fresh-u9-029",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: migration to Europe continued and grew after 1945; the record itself documents it.",
+      "B": "Right: the 1961 recruitment drive filled labor shortages, and temporary workers became permanent diaspora communities.",
+      "C": "Wrong: West German industry was booming, which is why it recruited foreign labor in the first place.",
+      "D": "Wrong: the bilingual welcome banner shows the program facilitating, not preventing, cultural contact."
+    },
+    "options": [
+      "(A) the end of all migration to Europe after 1945, when European governments permanently closed their borders to every foreign worker",
+      "(B) postwar labor shortages in Western Europe and the growth of lasting diaspora communities through guest-worker programs",
+      "(C) the decline of industrial production in West Germany",
+      "(D) European efforts to prevent cultural exchange"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "The record illustrates the connection between:",
+    "stimulus": "Labor ministry record, Cologne, West Germany, 1973 (paraphrased): Newly arrived Turkish guest workers, recruited under the 1961 labor agreement, registered at the central station. Officials noted that most expected to return home within a few years.",
+    "stimulus_words": 36,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The postwar boom created labor shortages in Western Europe just as decolonization and population growth left developing regions with surplus workers and lower wages. Guest-worker programs were the institutional link between that demand and supply.",
+    "id": "wh-fresh-u9-030",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the Atlantic slave trade was coerced labor centuries earlier, not the postwar wage-labor recruitment shown.",
+      "B": "Wrong: European borders did not close to all outsiders after 2000, and the record dates to 1973.",
+      "C": "Right: the boom's labor demand, decolonization's displaced populations, and the rich-poor income gap explain the program.",
+      "D": "Wrong: Western Europe did not turn communist; its economies remained capitalist."
+    },
+    "options": [
+      "(A) the Atlantic slave trade of the 17th and 18th centuries",
+      "(B) the closing of European borders to all outsiders after 2000, when every European state permanently ended all forms of legal immigration",
+      "(C) the post-1945 economic boom, decolonization, and the widening income gap between industrial and developing regions",
+      "(D) the spread of communism across Western Europe"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "stem": "Guest-worker programs like the one shown are best understood in the context of:",
+    "stimulus": "Labor ministry record, Cologne, West Germany, 1973 (paraphrased): Newly arrived Turkish guest workers, recruited under the 1961 labor agreement, registered at the central station. Officials noted that most expected to return home within a few years.",
+    "stimulus_words": 36,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "South Korea and Taiwan support Historian A's pattern, while China, Vietnam, and Singapore support Historian B's counterexample. Neither claim holds universally, so the strongest evaluation is that the evidence is mixed rather than fully vindicating either side.",
+    "id": "wh-fresh-u9-031",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the two historians' own examples contradict each other's universal claims, so the evidence is genuinely mixed.",
+      "B": "Wrong: Historian B's examples of China, Vietnam, and Singapore are real and cannot be dismissed as irrelevant.",
+      "C": "Wrong: the historians disagree with each other; they do not share this claim.",
+      "D": "Wrong: South Korea did democratize in the late 1980s; the disagreement is about why, not whether."
+    },
+    "options": [
+      "(A) the evidence is mixed: economic integration accompanied democratization in some states but not in others, so neither historian's claim holds universally",
+      "(B) Historian A is entirely correct and Historian B's examples are irrelevant",
+      "(C) both historians agree that trade always produces democracy",
+      "(D) the historians' disagreement proves that South Korea never democratized"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Argumentation",
+    "stem": "Which statement best evaluates the two historians' interpretations?",
+    "stimulus": "Two historians on globalization and democracy. Historian A: 'Where markets opened, political opening followed. South Korea and Taiwan built prosperous export economies and then democratized.' Historian B: 'China and Vietnam integrated deeply into world trade while keeping one-party rule; Singapore grew rich without becoming a liberal democracy.'",
+    "stimulus_words": 47,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The hijackers turned civilian airliners, products of global travel networks, into weapons, showing how non-state groups could exploit openness. The long wars in Afghanistan and Iraq then showed that overwhelming conventional force struggled against decentralized, asymmetric enemies.",
+    "id": "wh-fresh-u9-032",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the attacks depended on global aviation and communications, which had obvious military significance.",
+      "B": "Wrong: terrorism continued after 2001 in many regions; it was not ended.",
+      "C": "Wrong: al-Qaeda was a non-state network, which is precisely why the attacks challenged the idea that only states wage war.",
+      "D": "Right: the attacks exploited global travel and communications, and the resulting wars exposed the limits of conventional power against asymmetric threats."
+    },
+    "options": [
+      "(A) proved that global communications networks had no military significance",
+      "(B) ended international terrorism permanently",
+      "(C) showed that only powerful states can wage war in the modern world",
+      "(D) demonstrated how non-state actors could exploit global travel and communications, and how conventional military power struggled against asymmetric threats"
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "The best-supported argument about September 11 and globalization is that it:",
+    "stimulus": "On September 11, 2001, operatives of the al-Qaeda network hijacked four commercial airliners, crashing two into New York's World Trade Center and one into the Pentagon; nearly 3,000 people were killed. The United States responded by invading Afghanistan in 2001 and Iraq in 2003.",
+    "stimulus_words": 44,
+    "themes": [
+      "TEC",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "English, Hollywood, and fast food show the spread of dominant cultural forms, but Bollywood, Nollywood, and K-pop show local industries thriving by adapting global media formats to their own audiences. Both processes happened at once, which is hybridization alongside homogenization.",
+    "id": "wh-fresh-u9-033",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the success of Bollywood, Nollywood, and K-pop shows culture did not become uniform.",
+      "B": "Right: dominant forms spread while local industries adapted global formats for their own audiences, showing both processes.",
+      "C": "Wrong: English spread through commerce, media, and education, not through universal legal mandates.",
+      "D": "Wrong: the stimulus explicitly says these local industries built huge global audiences; they did not disappear."
+    },
+    "options": [
+      "(A) globalization has produced a single uniform world culture",
+      "(B) cultural globalization produced both homogenization and hybridization: dominant languages and media spread, while local industries adapted global forms for their own audiences",
+      "(C) English spread because every government in the world legally required its citizens to learn it, passing identical language laws in the 1990s that banned the use of other languages in public",
+      "(D) local film and music industries disappeared under global competition"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which is the best-supported argument about global culture in the stimulus?",
+    "stimulus": "By 2020 roughly 1.5 billion people spoke some English, and Hollywood films and American fast-food chains reached most of the world. At the same time, India's Bollywood, Nigeria's Nollywood, and South Korea's pop music industry built huge global audiences of their own.",
+    "stimulus_words": 42,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  }
+]

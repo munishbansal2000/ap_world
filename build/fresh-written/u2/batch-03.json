@@ -1,0 +1,265 @@
+[
+  {
+    "id": "wh-fresh-u2-021",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 021-022. Diagram titled 'Indian Ocean Monsoon Winds.' Summer arrows (June-September) show winds blowing from the southwest, carrying ships from East Africa and Arabia toward India. Winter arrows (November-February) show winds blowing from the northeast, carrying ships from India back toward Arabia and Africa. Labels read: 'Sailors timed voyages to the seasonal winds; a round trip took one year.'",
+    "stimulus_words": 62,
+    "visual_needs_url": true,
+    "stem": "The wind patterns shown best explain which of the following features of Indian Ocean trade?",
+    "options": [
+      "(A) Merchants sailed the same routes in both directions and completed round trips within a single month",
+      "(B) Voyages followed the seasons, so ports filled with merchants waiting for the winds to turn.",
+      "(C) Ships avoided the Indian Ocean and used only overland routes.",
+      "(D) Monsoon winds kept dhows from ever reaching East Africa."
+    ],
+    "key": "B",
+    "explanation": "Because the winds reverse with the seasons, a sailor could only go one way at a time and had to wait months for the return wind. That rhythm shaped the whole trading world: ports like Calicut and Aden swelled with merchants and goods each season as everyone waited for the winds to turn.",
+    "option_explanations": {
+      "A": "A round trip took a full year, not a month, because sailors had to wait for the seasonal reversal.",
+      "B": "Correct — seasonal winds forced seasonal sailing, filling ports between voyages.",
+      "C": "The diagram is about thriving sea trade, not its avoidance.",
+      "D": "The summer arrows show winds carrying ships toward India from Africa and Arabia — the winds enabled, not blocked, the voyage."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": ["ENV", "ECN"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-022",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 021-022. Diagram titled 'Indian Ocean Monsoon Winds.' Summer arrows (June-September) show winds blowing from the southwest, carrying ships from East Africa and Arabia toward India. Winter arrows (November-February) show winds blowing from the northeast, carrying ships from India back toward Arabia and Africa. Labels read: 'Sailors timed voyages to the seasonal winds; a round trip took one year.'",
+    "stimulus_words": 62,
+    "visual_needs_url": true,
+    "stem": "A historian claims that mastery of the monsoon system made the Indian Ocean the most reliable long-distance trade network of the period. Which evidence would best support that claim?",
+    "options": [
+      "(A) Monsoon winds blew so unpredictably from season to season that they sank most of the ships that ever attempted the crossing, making scheduled trade impossible.",
+      "(B) Indian Ocean merchants moved their goods entirely by camel caravan.",
+      "(C) No ship crossed the Indian Ocean before the year 1500.",
+      "(D) Sailors built large dhows with lateen sails to catch the seasonal winds, and entrepot ports grew busy on sailing-season schedules."
+    ],
+    "key": "D",
+    "explanation": "Reliability came from predictability: the monsoons reversed on schedule every year, so sailors could plan voyages around them. Purpose-built ships like lateen-rigged dhows and ports organized around the sailing calendar show a whole commercial system engineered around that dependable rhythm — exactly what would make the network the most reliable of its age.",
+    "option_explanations": {
+      "A": "The monsoons were famously regular — their predictability was the whole point.",
+      "B": "Camels served the trans-Saharan routes; the Indian Ocean was a maritime world.",
+      "C": "Ships had crossed the Indian Ocean for centuries before 1500.",
+      "D": "Correct — ships and ports designed around predictable winds show a reliable, systematized network."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": ["TEC", "ENV"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-023",
+    "unit": 2,
+    "stimulus": "From a Florentine merchant's handbook, c. 1340: 'The road from Tana to Cathay is perfectly safe, whether by day or by night. A merchant with proper papers will find organized relay stations with food and lodging every day's journey. You may travel with a woman and gold and fear nothing.'",
+    "stimulus_words": 50,
+    "stem": "The handbook entry most directly reflects which of the following about its author's historical situation?",
+    "options": [
+      "(A) He wrote practical guidance for European merchants traveling under Mongol protection.",
+      "(B) He was a Mongol official ordering merchants to pay higher taxes.",
+      "(C) He wrote a religious text urging Christians to shun Asia.",
+      "(D) He was a Chinese scholar-official writing to criticize the presence of foreign merchants in Yuan China."
+    ],
+    "key": "A",
+    "explanation": "The author gives nuts-and-bolts travel advice — papers, relay stations, safety — aimed at merchants like himself heading to 'Cathay' (China). The relay stations are the Mongol yam system, and the boasted safety is the Pax Mongolica; the passage is a European merchant's practical guide to a Mongol-secured route.",
+    "option_explanations": {
+      "A": "Correct — practical advice for merchants using the Mongol-protected, relay-station road to China.",
+      "B": "The author is Florentine and advises merchants; he issues no orders and mentions no taxes.",
+      "C": "He encourages the journey to Asia rather than warning Christians away from it.",
+      "D": "A Chinese critic would not write a how-to guide for European merchants in the first place."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Continuity and Change",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-024",
+    "unit": 2,
+    "stimulus": "A description of trans-Saharan trade, c. 1300: 'Salt from the desert mines is cut into slabs and carried south by camel caravan. In the Sahel markets, one slab buys gold dust weighed on small scales. The kings of Mali tax every load that enters and leaves their lands, and with this revenue they maintain armies, mosques, and the city of Timbuktu.'",
+    "stimulus_words": 61,
+    "stem": "Which of the following arguments about West African states is best supported by the excerpt?",
+    "options": [
+      "(A) Mali's rulers enriched themselves by marching north and conquering the desert salt mines outright.",
+      "(B) The gold-salt trade mattered little economically next to local farming.",
+      "(C) Taxing trade routes gave Sahelian rulers the revenue to build states, armies, and cities.",
+      "(D) Trans-Saharan trade enriched North Africa while impoverishing West Africa."
+    ],
+    "key": "C",
+    "explanation": "The passage connects the dots directly: Mali's kings taxed every caravan load, and that tax revenue paid for armies, mosques, and Timbuktu itself. The argument that trade taxation funded state-building is the one the evidence actually traces — revenue in, institutions out.",
+    "option_explanations": {
+      "A": "The kings tax the caravans; nothing says they conquered the distant desert mines.",
+      "B": "If the trade funded armies and a great city, it was hardly insignificant.",
+      "C": "Correct — taxed trade revenue is shown directly funding armies, mosques, and Timbuktu.",
+      "D": "Mali's mosques and cities show West Africa accumulating wealth from the trade, not being drained by it."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Causation",
+    "themes": ["ECN", "SIO"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-025",
+    "unit": 2,
+    "stimulus": "A Song dynasty account notes: 'Champa rice, brought from the southern kingdom of Champa, ripens early and resists drought. In the Yangzi valley, farmers now harvest two crops a year where one grew before. The registers record twice as many households as a century ago.'",
+    "stimulus_words": 45,
+    "stem": "A historian claims that the diffusion of champa rice transformed Chinese society. Which evidence from the account best supports that claim?",
+    "options": [
+      "(A) The rice originally came from the kingdom of Champa.",
+      "(B) Farmers could double-crop, and the registered population greatly increased.",
+      "(C) The account was written during the Song dynasty.",
+      "(D) Before champa rice arrived, Yangzi valley farmers had been limited to a single annual crop."
+    ],
+    "key": "B",
+    "explanation": "'Transformed society' needs evidence of deep change, and the account supplies it: two harvests a year meant far more food, and the doubled household registers show the population surge that followed. Origin, date, and the old single crop describe background — the double harvest and population growth are the transformation.",
+    "option_explanations": {
+      "A": "Where the rice came from does not show what it changed.",
+      "B": "Correct — double-cropping plus a doubled population is direct evidence of societal transformation.",
+      "C": "The account's date tells us when it was written, not what the rice did.",
+      "D": "The old single crop is the 'before' picture; it is not itself evidence of transformation."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": ["ENV", "TEC"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-026",
+    "unit": 2,
+    "stimulus": "A historian's summary of weapons technology: 'Gunpowder was invented in China, where Song armies used fire-lances and bombs. Mongol conquerors carried the knowledge westward; by the 1300s, metal-barreled cannon appeared in the Middle East and Europe, where rulers quickly adopted them for siege warfare.'",
+    "stimulus_words": 44,
+    "stem": "Which of the following best explains the process by which gunpowder technology spread across Eurasia?",
+    "options": [
+      "(A) European inventors created gunpowder on their own and exported it to China.",
+      "(B) Chinese merchants guarded the secret so well that it never left East Asia.",
+      "(C) The technology spread westward solely through peaceful scholarly exchanges at medieval universities, where professors shared formulas with visiting students.",
+      "(D) Mongol conquests carried Chinese military knowledge west, where other societies adapted it to their own siege warfare."
+    ],
+    "key": "D",
+    "explanation": "The summary traces a clear sequence: invention in Song China, westward transmission by the Mongols, then local adoption — Middle Eastern and European rulers casting their own cannon for their own sieges. Conquest moved the knowledge; receiving societies then adapted the technology rather than merely copying it.",
+    "option_explanations": {
+      "A": "The passage states gunpowder was invented in China, not Europe.",
+      "B": "Cannon in the Middle East and Europe by the 1300s prove the knowledge did leave East Asia.",
+      "C": "The words 'solely' and 'universities' are wrong — the carrier was Mongol conquest, and the adopters were rulers and armies.",
+      "D": "Correct — Mongol transmission followed by local adaptation explains the westward spread."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": ["TEC", "CDI"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-027",
+    "unit": 2,
+    "stimulus": "An account of Sumatra in the 1300s: 'In the port of Samudera, the ruler has embraced Islam. Sufi teachers from Arabia and India preach in the markets, and local chiefs who trade with them take Muslim names. No armies came; the faith arrived with the monsoon ships.'",
+    "stimulus_words": 47,
+    "stem": "The spread of Islam described here is best understood in which broader context?",
+    "options": [
+      "(A) Islam moved along Indian Ocean trade routes mainly through merchants and Sufi teachers, not armies.",
+      "(B) The Mongol Empire forcibly converted all of Southeast Asia to Islam.",
+      "(C) Southeast Asian rulers adopted Islam chiefly to win military aid from the distant Abbasid caliphate.",
+      "(D) Islam reached Southeast Asia only after Europeans arrived in the 1500s."
+    ],
+    "key": "A",
+    "explanation": "The account stresses that 'no armies came' — conversion followed commerce. Sufi preachers and traders carried the faith on the monsoon routes, and port rulers adopted it as they joined the Muslim trading world. That pattern — trade-borne, not conquest-borne, Islam — is the broader context for Southeast Asia.",
+    "option_explanations": {
+      "A": "Correct — merchants and Sufis on the monsoon routes, not armies, carried Islam to Southeast Asia.",
+      "B": "The Mongols never ruled or converted maritime Southeast Asia.",
+      "C": "The Abbasid caliphate had fallen in 1258 and sent no armies to Sumatra; the passage credits merchants and Sufis.",
+      "D": "Samudera's conversion in the 1300s predates European arrival by two centuries."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Continuity and Change",
+    "themes": ["CDI", "SIO"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-028",
+    "unit": 2,
+    "stimulus": "Two trading city-states, c. 1300: Venice, at the head of the Adriatic, grew rich carrying Eastern spices and silks into Europe in its galleys, and its merchants financed voyages with sea-loans. Kilwa, on the Swahili coast, grew rich carrying Arabian cloth and Indian porcelain into Africa in its dhows, exchanging them for interior gold.",
+    "stimulus_words": 54,
+    "stem": "Which of the following comparisons between Venice and Kilwa is best supported by the description?",
+    "options": [
+      "(A) Both cities depended chiefly on overland camel caravans crossing the deserts and steppes of the interior, rather than on any ships at all, for their prosperity.",
+      "(B) Venice used its navy to dominate and control Kilwa's commerce.",
+      "(C) Both thrived as middlemen linking producers and buyers across regions, with ships and credit fitted to their own seas.",
+      "(D) Kilwa grew rich by manufacturing goods while Venice lived by farming alone."
+    ],
+    "key": "C",
+    "explanation": "Neither city made what it sold: Venice moved Eastern goods into Europe, Kilwa moved Asian goods into Africa for gold — both profiting as go-betweens. Each used the tools of its own waters, galleys and sea-loans in the Mediterranean, dhows in the Indian Ocean, to do the same middleman work.",
+    "option_explanations": {
+      "A": "Both are described as maritime powers using galleys and dhows, not caravans.",
+      "B": "The two cities operated in different oceans and never encountered each other.",
+      "C": "Correct — both prospered as middlemen using ships and credit suited to their own seas.",
+      "D": "Neither manufactured nor farmed its way to wealth; both lived by carrying others' goods."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-029",
+    "unit": 2,
+    "stimulus": "Adapted from accounts of the plague's aftermath: 'In England, so many laborers died that surviving workers demanded triple wages, and lords who once bound peasants to the land now competed to hire them. In the Egyptian countryside, the loss of farmers shrank the harvests, and the Mamluk treasury, starved of taxes, debased its coinage.'",
+    "stimulus_words": 54,
+    "stem": "Which of the following arguments about the plague's consequences is best supported by the accounts?",
+    "options": [
+      "(A) The plague increased the power of landlords and governments in every region that it struck, since the survivors had no choice but to obey.",
+      "(B) Huge death tolls gave surviving workers more bargaining power in some places while draining state treasuries in others.",
+      "(C) The plague caused no serious economic harm anywhere outside England.",
+      "(D) Governments easily replaced lost taxes by minting more valuable coins."
+    ],
+    "key": "B",
+    "explanation": "The two cases point in different directions, and the best argument respects both: in England, scarcity of labor let workers demand higher wages from competing lords, while in Egypt the same mortality shrank harvests and tax revenue, forcing the Mamluks to debase their coins. One catastrophe, but its economic effects depended on local conditions.",
+    "option_explanations": {
+      "A": "The words 'every region' fail — English landlords lost leverage as workers gained it.",
+      "B": "Correct — the accounts show worker bargaining power rising in England and state finances straining in Egypt.",
+      "C": "Egypt's harvest and treasury troubles show serious harm far beyond England.",
+      "D": "Debasement made coins less valuable, and it signals fiscal desperation, not easy recovery."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Causation",
+    "themes": ["ECN", "SIO"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-030",
+    "unit": 2,
+    "stimulus": "Illuminated panel from the Catalan Atlas, made in Majorca in 1375: a dark-skinned crowned king sits on a throne holding a large gold nugget in one hand and a scepter in the other. A caption reads: 'This Black lord is called Musa Mali, lord of the Black people of Guinea. So abundant is the gold found in his country that he is the richest and most noble king in all the land.'",
+    "stimulus_words": 72,
+    "visual_needs_url": true,
+    "stem": "The panel best reflects which of the following about its makers' historical situation?",
+    "options": [
+      "(A) Majorcan mapmakers had sailed to Mali themselves and interviewed Mansa Musa.",
+      "(B) Europeans in the 1300s knew nothing of West Africa and pictured it as empty land.",
+      "(C) The Mali Empire itself commissioned the atlas in order to celebrate its own immense wealth.",
+      "(D) Europeans learned of West African wealth through trans-Saharan trade reports, which the mapmakers used to portray a famed African king."
+    ],
+    "key": "D",
+    "explanation": "The mapmakers never visited Mali — Mansa Musa had died decades before 1375 — yet they knew exactly what made him famous: gold. That knowledge traveled north with the trans-Saharan caravans and the tales of Musa's 1324 pilgrimage, reaching Mediterranean mapmakers who turned secondhand reports into this golden portrait.",
+    "option_explanations": {
+      "A": "No Majorcan is known to have reached Mali, and Musa died around 1337, decades before the atlas.",
+      "B": "The detailed, admiring portrait proves Europeans knew a great deal about Mali's wealth.",
+      "C": "The atlas was made in Majorca for European patrons, not commissioned by Mali.",
+      "D": "Correct — secondhand trade-network reports gave Europeans the knowledge to depict Mansa Musa."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": ["CDI", "ECN"],
+    "difficulty": "hard",
+    "type": "mcq"
+  }
+]

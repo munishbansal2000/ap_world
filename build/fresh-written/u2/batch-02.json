@@ -1,0 +1,268 @@
+[
+  {
+    "id": "wh-fresh-u2-011",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 011-013. Political map titled 'The Mongol Empire, c. 1279.' The empire is divided into four shaded khanates: the Yuan dynasty in China, the Il-Khanate in Persia, the Golden Horde in the western steppes and Russia, and the Chagatai Khanate in Central Asia. Arrows labeled 'tribute and trade' connect the khanates to the Yuan capital at Khanbaliq (Beijing). A caption notes: 'Travelers such as Marco Polo and Ibn Battuta crossed between khanates under Mongol protection.'",
+    "stimulus_words": 78,
+    "visual_needs_url": true,
+    "stem": "A historian claims that Mongol rule created conditions that encouraged long-distance exchange. Which evidence from the map and caption best supports that claim?",
+    "options": [
+      "(A) Travelers like Polo and Ibn Battuta could cross several khanates under one system of Mongol protection.",
+      "(B) Each khanate developed a wholly separate language and religion.",
+      "(C) The Yuan court refused to accept any tribute from the other khanates.",
+      "(D) The Golden Horde blocked all trade between Europe and Asia."
+    ],
+    "key": "A",
+    "explanation": "The caption explicitly says travelers crossed between khanates under Mongol protection, and the map shows the whole corridor linked by trade arrows. Safe passage across a unified empire is exactly the condition that let merchants, envoys, and missionaries travel farther than before.",
+    "option_explanations": {
+      "A": "Correct — protected travel across khanates is direct evidence of conditions encouraging exchange.",
+      "B": "The map shows political division, not linguistic or religious separation — and the Mongols were famously tolerant.",
+      "C": "The arrows show tribute flowing toward the Yuan capital, not being refused.",
+      "D": "The map shows trade links running through Golden Horde territory."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-012",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 011-013. Political map titled 'The Mongol Empire, c. 1279.' The empire is divided into four shaded khanates: the Yuan dynasty in China, the Il-Khanate in Persia, the Golden Horde in the western steppes and Russia, and the Chagatai Khanate in Central Asia. Arrows labeled 'tribute and trade' connect the khanates to the Yuan capital at Khanbaliq (Beijing). A caption notes: 'Travelers such as Marco Polo and Ibn Battuta crossed between khanates under Mongol protection.'",
+    "stimulus_words": 78,
+    "visual_needs_url": true,
+    "stem": "The position of Yuan China shown on the map is best understood in which broader context?",
+    "options": [
+      "(A) China was cut off from the rest of Eurasia under the Yuan.",
+      "(B) The Yuan rulers completely rejected every Chinese administrative tradition and governed China purely as steppe nomads with no bureaucracy at all.",
+      "(C) Yuan China was the richest khanate, drawing tribute and skilled artisans from across the Mongol world.",
+      "(D) The Yuan was a minor state overshadowed by the Golden Horde."
+    ],
+    "key": "C",
+    "explanation": "The trade-and-tribute arrows converge on Khanbaliq, marking Yuan China as the empire's economic and ceremonial center. Khubilai Khan's court drew Persian astronomers, Central Asian administrators, and European visitors — the map's pattern reflects a China plugged into, and at the heart of, a continent-wide Mongol system.",
+    "option_explanations": {
+      "A": "The arrows and traveling merchants show China connected, not cut off.",
+      "B": "The word 'completely' is wrong — the Yuan adopted Chinese-style bureaucracy and taxation alongside Mongol practices.",
+      "C": "Correct — converging tribute arrows mark Yuan China as the wealthiest, most central khanate.",
+      "D": "The Yuan ruled all of China, the richest prize; the Golden Horde never controlled China."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Comparison",
+    "themes": ["CDI", "SIO"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-013",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 011-013. Political map titled 'The Mongol Empire, c. 1279.' The empire is divided into four shaded khanates: the Yuan dynasty in China, the Il-Khanate in Persia, the Golden Horde in the western steppes and Russia, and the Chagatai Khanate in Central Asia. Arrows labeled 'tribute and trade' connect the khanates to the Yuan capital at Khanbaliq (Beijing). A caption notes: 'Travelers such as Marco Polo and Ibn Battuta crossed between khanates under Mongol protection.'",
+    "stimulus_words": 78,
+    "visual_needs_url": true,
+    "stem": "Which of the following best explains the political development shown on the map — the division of the Mongol Empire into four khanates?",
+    "options": [
+      "(A) The Mongols gave up their empire because nomadic life could not work with ruling cities.",
+      "(B) Succession disputes plus the empire's vast size led Chinggis Khan's heirs to rule separate, increasingly independent realms.",
+      "(C) European crusaders conquered the western empire and split it among themselves.",
+      "(D) The khanates divided because a single Mongol defeat in the attempted invasions of Japan destroyed all Mongol military power."
+    ],
+    "key": "B",
+    "explanation": "Chinggis Khan's empire was simply too large for one court to govern, and Mongol succession customs produced rival claimants after each khan's death. By 1279 the result was four khanates under his descendants — still linked by trade and tribute, as the arrows show, but ruling themselves.",
+    "option_explanations": {
+      "A": "The Mongols did not abandon ruling; they adapted, with the Yuan governing China for nearly a century.",
+      "B": "Correct — size and succession conflict explain the four autonomous khanates.",
+      "C": "No crusader army ever conquered Mongol territory.",
+      "D": "The failed Japan invasions were a setback, not the end of Mongol power, and they do not explain the four-way division."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": ["GOV", "CDI"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-014",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Bubonic Plague, 1331-1353.' Shaded regions with dates show the plague's advance: 1331 in Central Asia and China; 1346 at Kaffa on the Black Sea; 1347 in Constantinople and Alexandria; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1351 in Scandinavia and Russia; 1353 in Moscow. A note reads: 'The plague traveled with merchants, soldiers, and ships along established trade routes.'",
+    "stimulus_words": 73,
+    "visual_needs_url": true,
+    "stem": "The pattern shown on the map best supports which of the following connections between trade and disease?",
+    "options": [
+      "(A) Disease spread only where trade was absent, since isolated peoples lacked immunity.",
+      "(B) The plague traveled from Europe into Asia, moving in the opposite direction from the flow of Silk Road commerce and reaching China last of all.",
+      "(C) Land routes spread the plague, but the sea routes were left completely untouched.",
+      "(D) The same networks that moved silk, spices, and paper also moved pathogens, so commercial integration exposed all of Eurasia to pandemic."
+    ],
+    "key": "D",
+    "explanation": "The plague's dated advance follows the trade corridors exactly: from Central Asia to the Black Sea port of Kaffa, then by ship to Constantinople, Alexandria, and Italy, then inland. The map makes the connection visible — the commercial integration that enriched Eurasia also gave a pathogen a continent-wide highway.",
+    "option_explanations": {
+      "A": "The plague followed the busiest trade routes, not isolated regions.",
+      "B": "The dates run from Central Asia outward to Europe, the same direction as much Silk Road traffic.",
+      "C": "Alexandria and Constantinople were reached by sea, and the note mentions ships.",
+      "D": "Correct — the plague's path traces the trade networks, showing how integration spread disease."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": ["ENV", "ECN"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-015",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Bubonic Plague, 1331-1353.' Shaded regions with dates show the plague's advance: 1331 in Central Asia and China; 1346 at Kaffa on the Black Sea; 1347 in Constantinople and Alexandria; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1351 in Scandinavia and Russia; 1353 in Moscow. A note reads: 'The plague traveled with merchants, soldiers, and ships along established trade routes.'",
+    "stimulus_words": 73,
+    "visual_needs_url": true,
+    "stem": "A historian claims that the plague caused major economic disruption across Afro-Eurasia. Which of the following would be the best evidence to support that claim?",
+    "options": [
+      "(A) Records of steep population losses followed by rising wages and greater peasant mobility in many regions",
+      "(B) Proof that the trade routes were abandoned forever after 1353 and never used again",
+      "(C) Documents showing the plague struck only Europe and spared Asia and the Middle East",
+      "(D) Tax registers demonstrating that government revenues climbed steadily through the worst plague years because rulers taxed the survivors more heavily"
+    ],
+    "key": "A",
+    "explanation": "When a third or more of the population dies, workers become scarce and their labor becomes valuable — so wages rose and peasants could move or bargain for better terms in many regions. Population collapse followed by labor-market upheaval is exactly the economic fingerprint of the plague.",
+    "option_explanations": {
+      "A": "Correct — mortality followed by wage rises and mobility is the classic economic signature of the plague.",
+      "B": "Trade routes recovered and remained in use; disruption was severe but not permanent.",
+      "C": "The map shows the plague striking China, Central Asia, and the Middle East as well as Europe.",
+      "D": "Revenues fell as taxpayers died; rising revenue would argue against disruption."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": ["ECN", "ENV"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-016",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Bubonic Plague, 1331-1353.' Shaded regions with dates show the plague's advance: 1331 in Central Asia and China; 1346 at Kaffa on the Black Sea; 1347 in Constantinople and Alexandria; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1351 in Scandinavia and Russia; 1353 in Moscow. A note reads: 'The plague traveled with merchants, soldiers, and ships along established trade routes.'",
+    "stimulus_words": 73,
+    "visual_needs_url": true,
+    "stem": "Two historians debate the plague's significance. One calls it 'a European catastrophe'; the other calls it 'a Eurasian turning point.' Which argument is best supported by the map?",
+    "options": [
+      "(A) The first historian, because the map clearly shows the plague beginning inside Europe and spreading outward from there",
+      "(B) The first historian, because only European cities appear as labels on the map",
+      "(C) The second historian, because the map shows the plague striking China, Central Asia, the Middle East, and Russia as well as Europe",
+      "(D) The second historian, because the map proves the plague caused no economic harm anywhere"
+    ],
+    "key": "C",
+    "explanation": "The map's dated shading starts in Central Asia and China in 1331 and reaches the Middle East, Russia, and Scandinavia — far beyond Europe. A catastrophe that depopulated much of the Eastern as well as the Western world is better described as a Eurasian turning point.",
+    "option_explanations": {
+      "A": "The plague began in Central Asia, not Europe.",
+      "B": "The map labels Constantinople, Alexandria, Moscow, and Central Asia alongside European cities.",
+      "C": "Correct — the plague's reach across China, Central Asia, the Middle East, and Russia supports the Eurasian framing.",
+      "D": "The map tracks the disease's spread, not its economic effects — and it shows nothing of the kind."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Comparison",
+    "themes": ["ENV", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-017",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 017-018. Adapted from a Yuan dynasty edict on paper currency: 'The Great Khan has ordered that paper notes, stamped with the imperial seal, shall be the lawful money of the realm. Merchants must accept them in all markets from Khanbaliq to the ports. Whoever counterfeits the notes or refuses them shall be punished severely, for the notes carry the empire's guarantee.'",
+    "stimulus_words": 65,
+    "stem": "The purpose of the edict is best understood as which of the following?",
+    "options": [
+      "(A) To persuade merchants to give up long-distance trade and return to farming",
+      "(B) To assert state control over the money supply and force acceptance of imperial notes",
+      "(C) To invite foreign merchants to set up their own private mints and coinage inside China",
+      "(D) To preserve a folk tale about the invention of paper as entertainment"
+    ],
+    "key": "B",
+    "explanation": "The edict commands acceptance of the Khan's notes in every market and threatens severe punishment for refusal or counterfeiting. Its purpose is political and economic at once: to make the state's paper the realm's single currency and to back it with imperial authority.",
+    "option_explanations": {
+      "A": "The edict regulates merchants' money, not their occupation; it assumes trade continues.",
+      "B": "Correct — mandatory acceptance backed by punishment asserts state monopoly over currency.",
+      "C": "The edict establishes a state monopoly — private mints are the opposite of its intent.",
+      "D": "This is an official decree with penalties, not a story."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-018",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 017-018. Adapted from a Yuan dynasty edict on paper currency: 'The Great Khan has ordered that paper notes, stamped with the imperial seal, shall be the lawful money of the realm. Merchants must accept them in all markets from Khanbaliq to the ports. Whoever counterfeits the notes or refuses them shall be punished severely, for the notes carry the empire's guarantee.'",
+    "stimulus_words": 65,
+    "stem": "A historian claims that China had the world's most advanced credit and money economy in this period. Which of the following, combined with the edict, would best support that claim?",
+    "options": [
+      "(A) The fact that the great majority of Chinese peasants rarely traveled beyond their home villages",
+      "(B) The continued use of cowrie shells as the sole currency in Chinese markets",
+      "(C) The total absence of merchants from the cities of Yuan China",
+      "(D) Merchants' use of bills of exchange and deposit banking alongside state paper money"
+    ],
+    "key": "D",
+    "explanation": "The edict shows state paper money; bills of exchange and deposit banking show merchants moving large sums without carrying coin or notes — the credit side of a sophisticated money economy. Together they show both government currency and private financial instruments at work, which is what 'most advanced' requires.",
+    "option_explanations": {
+      "A": "Peasant immobility says nothing about the sophistication of the money system.",
+      "B": "Cowrie shells were an early currency, not evidence of an advanced credit economy.",
+      "C": "Yuan cities teemed with merchants; their absence would disprove, not prove, the claim.",
+      "D": "Correct — private credit instruments plus state paper money show a fully developed money economy."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Continuity and Change",
+    "themes": ["ECN"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-019",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 019-020. A description of Kilwa, on the Swahili coast, around 1330: 'The sultan mints copper coins stamped in Arabic. The Great Mosque, built of coral stone, overlooks the harbor where dhows unload cloth and porcelain from Cambay and Arabia. In exchange, merchants carry away gold brought from the interior, where great stone-walled towns command the trade.'",
+    "stimulus_words": 60,
+    "stem": "Which of the following best explains how Kilwa developed into a wealthy city-state?",
+    "options": [
+      "(A) It acted as a middleman, trading Indian Ocean cloth and porcelain for African interior gold.",
+      "(B) It seized the interior goldfields with a powerful standing army and forced miners to work for the sultan.",
+      "(C) It taxed European ships sailing through the Strait of Malacca.",
+      "(D) It quit trade after adopting Islam and lived by farming alone."
+    ],
+    "key": "A",
+    "explanation": "Kilwa produced neither the cloth nor the gold — its wealth came from sitting between them. Dhows brought Asian manufactures to its harbor, and caravans brought gold from interior towns like Great Zimbabwe; Kilwa's merchants profited on the exchange at both ends, the classic middleman position.",
+    "option_explanations": {
+      "A": "Correct — Kilwa grew rich as the go-between linking Indian Ocean goods with interior African gold.",
+      "B": "Kilwa traded with the interior gold towns; it did not conquer them.",
+      "C": "Europeans had not reached the Indian Ocean yet, and Kilwa is on Africa's east coast, not at Malacca.",
+      "D": "Kilwa's Islamization came through trade, and the passage shows commerce — not farming — as its lifeblood."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-020",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 019-020. A description of Kilwa, on the Swahili coast, around 1330: 'The sultan mints copper coins stamped in Arabic. The Great Mosque, built of coral stone, overlooks the harbor where dhows unload cloth and porcelain from Cambay and Arabia. In exchange, merchants carry away gold brought from the interior, where great stone-walled towns command the trade.'",
+    "stimulus_words": 60,
+    "stem": "Kilwa's Islamization and Arabic coinage are best understood in which broader context?",
+    "options": [
+      "(A) The violent conquest of East Africa by Arab armies in the 1200s, which forced whole populations to convert at swordpoint",
+      "(B) The complete isolation of sub-Saharan Africa from Indian Ocean commerce",
+      "(C) The spread of Islam along Indian Ocean trade routes through steady merchant contact rather than conquest",
+      "(D) The rejection of all foreign cultural influences by Swahili rulers"
+    ],
+    "key": "C",
+    "explanation": "On the Swahili coast no conquering army arrived; instead, generations of Arab and Persian merchants married locally, built mosques, and traded, and coastal rulers adopted Islam as they joined that commercial world. Arabic-script coins and a coral-stone mosque are the marks of a faith carried by commerce, not by invasion.",
+    "option_explanations": {
+      "A": "No Arab army conquered East Africa; the passage shows merchants and mosques, not soldiers.",
+      "B": "The harbor full of dhows proves deep commercial connection, not isolation.",
+      "C": "Correct — sustained merchant contact, not conquest, spread Islam along the Swahili coast.",
+      "D": "Arabic coinage and an Islamic mosque are adoptions of foreign influence, not rejections of it."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Continuity and Change",
+    "themes": ["CDI", "SIO"],
+    "difficulty": "hard",
+    "type": "mcq"
+  }
+]

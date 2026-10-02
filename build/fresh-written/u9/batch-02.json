@@ -1,0 +1,235 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "Ocean trade is ancient, so containerization continues a long pattern. What changed was the mechanics: standardized boxes, specialized cranes, and giant ships multiplied the speed and volume of freight while cutting costs. That is continuity of maritime trade combined with transformation of how it works.",
+    "id": "wh-fresh-u9-010",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: long-distance ocean trade existed for centuries before the 1950s container revolution.",
+      "B": "Wrong: container ports operate on every continent, as the Singapore photograph itself shows.",
+      "C": "Right: maritime trade continued, but containerization transformed its speed, scale, and organization.",
+      "D": "Wrong: containerization massively increased trade volumes by making shipping cheaper and more reliable."
+    },
+    "options": [
+      "(A) it is unsupported, because ocean trade did not exist before containers",
+      "(B) it is accurate only for Europe, where most container ports are located",
+      "(C) it is accurate: long-distance maritime trade continued, but its speed, scale, and organization changed dramatically",
+      "(D) it is inaccurate, because containerization reduced the total volume of world trade by making ocean shipping too expensive for most countries"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "A historian claims that the shipping revolution represents both continuity and change in world trade. Which statement best evaluates that claim?",
+    "stimulus": "Color photograph, Port of Singapore, 2019: a giant container ship docked beneath towering gantry cranes; its deck is stacked high with multicolored steel shipping containers.",
+    "stimulus_words": 25,
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The high-yield dwarf wheat, fertilizer, and irrigation pump are the classic Green Revolution package. In India these inputs sharply raised grain output in the late 1960s and 1970s, allowing the country to move toward feeding itself after decades of dependence on food imports.",
+    "id": "wh-fresh-u9-011",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the high-yield wheat and modern inputs shown drove the yield increases behind India's move toward food self-sufficiency.",
+      "B": "Wrong: the report describes chemical fertilizer and an irrigation pump, the opposite of traditional methods.",
+      "C": "Wrong: population growth is unrelated to the agricultural technology shown in the image.",
+      "D": "Wrong: many developing countries still imported food; the claim overstates a real but partial achievement."
+    },
+    "options": [
+      "(A) large increases in grain yields that helped India approach food self-sufficiency in the 1970s",
+      "(B) the return of Indian agriculture to purely traditional farming methods, as farmers rejected the new seeds and went back to older practices",
+      "(C) a decline in India's rate of population growth",
+      "(D) the end of all food imports by every developing country"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The agricultural changes described in the report contributed most directly to:",
+    "stimulus": "Agricultural extension report, Punjab, India, early 1970s (paraphrased): Farmers planting new dwarf wheat varieties with chemical fertilizer and tube-well irrigation report sharply higher yields. Officials note, however, that the full package of seeds, fertilizer, and irrigation is expensive, and many smallholders cannot afford it.",
+    "stimulus_words": 44,
+    "themes": [
+      "TEC",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The same report that describes rising yields also notes the costly inputs the new seeds required: fertilizer, pesticides, and irrigation. These degraded soils and drained groundwater, and only farmers wealthy enough to buy the package prospered, widening rural inequality.",
+    "id": "wh-fresh-u9-012",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: rural poverty persisted and in some regions deepened, since poorer farmers could not afford the new inputs.",
+      "B": "Wrong: the report describes fertilizer use increasing, not declining; the new seeds depended on synthetic inputs.",
+      "C": "Wrong: governments subsidized seeds, fertilizer, and irrigation and set support prices; state involvement grew.",
+      "D": "Right: the report's expensive input package points to environmental costs, and it favored wealthier farmers."
+    },
+    "options": [
+      "(A) the elimination of rural poverty across South Asia",
+      "(B) a worldwide decline in chemical fertilizer use, since the new high-yield seeds were bred to produce record harvests without any synthetic fertilizer or irrigation",
+      "(C) the end of government involvement in agriculture",
+      "(D) environmental costs from heavy fertilizer and groundwater use, and a growing gap between farmers who could afford the new inputs and those who could not"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "The report also illustrates an important connection between the Green Revolution and:",
+    "stimulus": "Agricultural extension report, Punjab, India, early 1970s (paraphrased): Farmers planting new dwarf wheat varieties with chemical fertilizer and tube-well irrigation report sharply higher yields. Officials note, however, that the full package of seeds, fertilizer, and irrigation is expensive, and many smallholders cannot afford it.",
+    "stimulus_words": 44,
+    "themes": [
+      "ENV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The report describes protesters holding mobile phones aloft to record the crowd and post videos themselves. This let movements coordinate rapidly and bypass state-controlled television and newspapers.",
+    "id": "wh-fresh-u9-013",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the crowded square shows protest flourishing, not declining.",
+      "B": "Right: the phones in the report show demonstrators recording and sharing events themselves, organizing quickly outside state media.",
+      "C": "Wrong: the report shows citizens communicating freely despite government efforts, not government success.",
+      "D": "Wrong: television remained important; the point is that phones added a new channel, not that TV ended."
+    },
+    "options": [
+      "(A) the decline of all political protest in the 21st century",
+      "(B) the ability of protest movements to organize quickly and share events beyond state-controlled media",
+      "(C) government success in preventing citizens from communicating",
+      "(D) the end of television as a source of news, since broadcasters stopped covering politics entirely once mobile phones appeared"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "The report best illustrates the connection between communications technology and:",
+    "stimulus": "News report, Cairo, January 2011 (paraphrased): Thousands of young demonstrators filled Tahrir Square. Many held mobile phones aloft, recording the crowd and posting videos to social media as the protest unfolded.",
+    "stimulus_words": 31,
+    "themes": [
+      "TEC",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Evidence of deeper, older grievances shows the uprising had causes independent of social media. Emergency rule, corruption, and joblessness motivated Egyptians long before 2011, which weakens the claim that the technology itself caused the revolt.",
+    "id": "wh-fresh-u9-014",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: widespread phone ownership is consistent with social media playing a role; it does not challenge the claim.",
+      "B": "Wrong: protesters sharing videos supports, rather than challenges, the claim about social media's importance.",
+      "C": "Right: decades of emergency rule, corruption, and unemployment show powerful causes that predate and stand apart from social media.",
+      "D": "Wrong: the shutdown shows the government feared online organizing, which tends to support the claim rather than weaken it."
+    },
+    "options": [
+      "(A) many Egyptians owned mobile phones in 2011",
+      "(B) protesters used social media to share videos of the demonstrations",
+      "(C) Egyptians had suffered decades of emergency rule, corruption, and high youth unemployment long before the protests began",
+      "(D) the Egyptian government tried to shut down the internet during the protests"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that social media caused the 2011 Egyptian uprising. Which evidence would best challenge that claim?",
+    "stimulus": "News report, Cairo, January 2011 (paraphrased): Thousands of young demonstrators filled Tahrir Square. Many held mobile phones aloft, recording the crowd and posting videos to social media as the protest unfolded.",
+    "stimulus_words": 31,
+    "themes": [
+      "TEC",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The TRC offered amnesty to perpetrators who fully confessed, choosing public truth-telling over mass trials. The testimony's emphasis on acknowledgment and a shared future reflects that purpose: building a public record to support reconciliation.",
+    "id": "wh-fresh-u9-015",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the commission traded amnesty for truth, using public testimony to acknowledge abuses and support reconciliation.",
+      "B": "Wrong: the hearings were public and widely broadcast, the opposite of concealment.",
+      "C": "Wrong: the commission's amnesty-for-truth model deliberately avoided mass imprisonment in favor of confession.",
+      "D": "Wrong: democratic elections had already taken place in 1994, two years before this testimony."
+    },
+    "options": [
+      "(A) create a public record of abuses that would support national reconciliation rather than mass criminal trials",
+      "(B) conceal the crimes of the apartheid government from the public by holding all hearings in secret and sealing the records",
+      "(C) punish every individual who supported apartheid with prison sentences",
+      "(D) prevent South Africa from holding democratic elections"
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "stem": "The commission's purpose in gathering testimony like this was primarily to:",
+    "stimulus": "Testimony before South Africa's Truth and Reconciliation Commission, 1996 (paraphrased): A former political prisoner describes years of detention under apartheid laws. He says he testifies not for revenge, but so the nation can acknowledge what happened and build a shared future.",
+    "stimulus_words": 41,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The commission emerged from the negotiated transition that ended apartheid and produced the 1994 elections, and it drew on international human rights ideas about truth-telling and restorative justice. Neither the 19th-century scramble for Africa nor Cold War rivalries explain a 1996 South African institution.",
+    "id": "wh-fresh-u9-016",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: Cold War rivalry does not explain a 1996 commission created after apartheid's negotiated end.",
+      "B": "Wrong: 19th-century imperialism is too distant and general to explain this specific post-apartheid institution.",
+      "C": "Wrong: the commission addressed apartheid's crimes, not the spread of communism.",
+      "D": "Right: the TRC grew out of the negotiated settlement ending apartheid and reflected global human rights norms."
+    },
+    "options": [
+      "(A) the Cold War rivalry between the United States and the Soviet Union, which directly established the commission to investigate communist influence in South Africa",
+      "(B) European imperialism in Africa during the 19th century",
+      "(C) the global spread of communism after 1945",
+      "(D) the worldwide human rights movement and the negotiated settlement that ended apartheid and brought democratic elections to South Africa in 1994"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "stem": "The creation of the commission is best understood in the context of:",
+    "stimulus": "Testimony before South Africa's Truth and Reconciliation Commission, 1996 (paraphrased): A former political prisoner describes years of detention under apartheid laws. He says he testifies not for revenge, but so the nation can acknowledge what happened and build a shared future.",
+    "stimulus_words": 41,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Blocs like the EU, USMCA, and ASEAN were created to expand commerce: member governments cut tariffs and coordinated rules so firms could sell and invest across a larger integrated market. They reduced barriers among members rather than ending outside trade.",
+    "id": "wh-fresh-u9-017",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: members continued trading with outsiders; blocs lowered internal barriers rather than ending external trade.",
+      "B": "Right: the map's blocs reflect governments expanding markets and investment by cutting tariffs among neighbors.",
+      "C": "Wrong: the UN did not order these blocs; sovereign governments negotiated them voluntarily.",
+      "D": "Wrong: the blocs promoted industrial trade and investment, not a rejection of industrialization."
+    },
+    "options": [
+      "(A) a desire to end all trade with countries outside each bloc",
+      "(B) governments seeking larger markets and investment by lowering trade barriers among neighboring states",
+      "(C) the United Nations ordering countries to merge their economies through binding resolutions that forced neighbors into trade blocs",
+      "(D) a worldwide rejection of industrialization"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The formation of the blocs shown on the map was driven primarily by:",
+    "stimulus": "World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
+    "stimulus_words": 39,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  }
+]

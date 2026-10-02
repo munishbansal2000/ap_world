@@ -1,0 +1,234 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The map shows three separate blocs spread across Europe, North America, and Southeast Asia. This directly supports the claim that regional integration was a multi-continent phenomenon, while the other options misread the map's scope or details.",
+    "id": "wh-fresh-u9-018",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: only 27 states are shaded blue for the EU, a small fraction of the world's countries.",
+      "B": "Wrong: the map clearly shows blocs in North America and Southeast Asia as well as Europe.",
+      "C": "Right: blocs appear on three continents, showing regional integration advanced in multiple regions.",
+      "D": "Wrong: neither ASEAN nor the USMCA has a common currency; only the EU does, and not for every member."
+    },
+    "options": [
+      "(A) most of the world's countries are members of the European Union, which admitted the majority of the globe's states by 2022",
+      "(B) trade blocs exist only in Europe",
+      "(C) regional economic integration had advanced on several continents by the early 21st century",
+      "(D) ASEAN and the USMCA share a common currency"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "Which claim is best supported by the map?",
+    "stimulus": "World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
+    "stimulus_words": 39,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The EU goes beyond a trade deal: it has a parliament, a court, and a commission, and most members use the euro. The USMCA is a free-trade agreement without shared political institutions or a common currency, making the EU the deeper integration.",
+    "id": "wh-fresh-u9-019",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the EU adds shared political institutions and (for most members) a common currency on top of free trade.",
+      "B": "Wrong: the EU's core purpose is economic and political integration, not military alliance.",
+      "C": "Wrong: the EU covers goods, services, labor, and capital across many sectors, far beyond agriculture.",
+      "D": "Wrong: EU members are democracies; the organization did not exclude them."
+    },
+    "options": [
+      "(A) a deeper form of integration, with shared political institutions and a common currency used by most members",
+      "(B) a purely military alliance with no economic purpose",
+      "(C) a looser arrangement that covers only agricultural trade",
+      "(D) an organization that excludes democratic states, since only authoritarian governments are permitted to join its institutions"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "Compared with the USMCA, the European Union represents:",
+    "stimulus": "World map titled 'Major regional trade agreements, 2022.' The 27 member states of the European Union are shaded blue; the United States, Mexico, and Canada (USMCA) are shaded green; the ten ASEAN members in Southeast Asia are shaded orange.",
+    "stimulus_words": 39,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Kyoto (1997) and Paris (2015) were negotiated responses to the scientific consensus, visible in the graph, that human activity was raising greenhouse gases and temperatures. Their weak enforcement reflects the reality that sovereign states resist binding limits, which is the context a historian needs.",
+    "id": "wh-fresh-u9-020",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: fossil fuel use continued to grow after 1997, as the rising CO2 line shows.",
+      "B": "Wrong: scientific and public attention to the environment grew across this period, not declined.",
+      "C": "Wrong: the UN sponsored both agreements; it did not collapse.",
+      "D": "Right: the agreements responded to mounting scientific evidence, and their limits reflect the difficulty of coordinating sovereign states."
+    },
+    "options": [
+      "(A) the end of all fossil fuel use by 1997",
+      "(B) a decline in scientific interest in the environment after 1960, as researchers abandoned climate studies and governments stopped funding environmental monitoring",
+      "(C) the collapse of the United Nations",
+      "(D) mounting scientific evidence linking human activity to climate change, combined with the difficulty of coordinating action among many sovereign states"
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "stem": "International agreements such as the Kyoto Protocol (1997) and the Paris Agreement (2015) are best understood in the context of:",
+    "stimulus": "Line graph titled 'Atmospheric carbon dioxide and global temperature, 1960-2024.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in 2024; a second line shows the global average temperature anomaly rising across the same period. Source note: 'NOAA data.'",
+    "stimulus_words": 51,
+    "themes": [
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Globalization's factories, power plants, cars, and cargo ships all burn fossil fuels. The prosperity spread by industrialization and trade therefore came with rising emissions, which is exactly the upward trend the graph documents.",
+    "id": "wh-fresh-u9-021",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the CO2 line rises steadily after 2000; it does not fall.",
+      "B": "Right: industrialization and trade raised living standards while expanding fossil-fuel burning, producing the graph's trend.",
+      "C": "Wrong: the graph shows emissions and temperature, not the effects of trade agreements, which cannot directly control the climate.",
+      "D": "Wrong: industrialized countries contributed heavily to the cumulative rise; the claim falsely blames only developing states."
+    },
+    "options": [
+      "(A) globalization caused carbon dioxide levels to fall after 2000",
+      "(B) the same industrialization and trade networks that raised living standards also expanded fossil-fuel consumption worldwide",
+      "(C) the graph proves that trade agreements directly control the climate",
+      "(D) developing countries were the only contributors to rising emissions, while industrialized countries produced no greenhouse gases at all"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "The trend in the graph connects environmental change to economic globalization because:",
+    "stimulus": "Line graph titled 'Atmospheric carbon dioxide and global temperature, 1960-2024.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in 2024; a second line shows the global average temperature anomaly rising across the same period. Source note: 'NOAA data.'",
+    "stimulus_words": 51,
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The graph shows CO2 still rising after 1997, so the agreements did not reverse emissions. But 190-plus states negotiating shared climate targets was unprecedented, and the voluntary, sovereignty-guarded design explains why enforcement stayed weak.",
+    "id": "wh-fresh-u9-022",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the CO2 line keeps rising after 1997, contradicting any claim of a quick reversal.",
+      "B": "Wrong: the steadily rising lines show the problem the agreements addressed was real and growing.",
+      "C": "Right: the agreements were landmark cooperation, but their weak enforcement reflects states protecting sovereignty.",
+      "D": "Wrong: this reverses causation; emissions from fossil fuels drove the warming, not the agreements."
+    },
+    "options": [
+      "(A) the agreements quickly reversed the rise in carbon dioxide after 1997",
+      "(B) the graph proves the agreements were unnecessary",
+      "(C) the agreements show environmental problems increasingly require international cooperation, though enforcement remains difficult because states protect their sovereignty",
+      "(D) the agreements caused the temperature increases shown in the graph"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following is the best-supported argument about the climate agreements, given the data shown?",
+    "stimulus": "Line graph titled 'Atmospheric carbon dioxide and global temperature, 1960-2024.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in 2024; a second line shows the global average temperature anomaly rising across the same period. Source note: 'NOAA data.'",
+    "stimulus_words": 51,
+    "themes": [
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Activists used rallies like this one to shame drug companies and rich governments over the price of antiretrovirals. The pressure helped produce generic production and global funding programs that brought treatment to millions in developing countries during the 2000s.",
+    "id": "wh-fresh-u9-023",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: activist pressure helped drive down prices and expand treatment access in developing countries in the 2000s.",
+      "B": "Wrong: no cure for AIDS was discovered; treatment improved, but the disease remained incurable.",
+      "C": "Wrong: no such travel ban resulted from these campaigns.",
+      "D": "Wrong: UN health programs expanded their AIDS work during this period rather than ending it."
+    },
+    "options": [
+      "(A) international pressure that helped expand access to lower-cost AIDS drugs in developing countries during the 2000s",
+      "(B) the immediate discovery of a cure for AIDS",
+      "(C) a ban on all international travel, as governments sealed their borders permanently to stop the movement of people and goods",
+      "(D) the end of the United Nations' health programs"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "Campaigns like the one described contributed most directly to:",
+    "stimulus": "News report, Durban, South Africa, 2001 (paraphrased): Thousands of marchers carried a giant red AIDS-awareness ribbon through the city, demanding that pharmaceutical companies and wealthy governments make antiretroviral drugs affordable in developing countries.",
+    "stimulus_words": 33,
+    "themes": [
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "AIDS traveled along the same routes as commerce and tourism, reaching every continent within years. But the report also shows the reverse flow: scientists shared research, donors funded treatment, and activists coordinated across borders, so globalization carried the response as well as the disease.",
+    "id": "wh-fresh-u9-024",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: AIDS and later COVID-19 show infectious disease persisted and even spread faster in a connected world.",
+      "B": "Wrong: the Durban rally shows the epidemic devastating developing countries, not only wealthy ones.",
+      "C": "Wrong: the UN, the WHO, and global funds became central to the AIDS response.",
+      "D": "Right: global networks accelerated the disease's spread but also circulated treatments, funding, and activist pressure."
+    },
+    "options": [
+      "(A) globalization has eliminated infectious disease",
+      "(B) only wealthy countries are affected by global epidemics, since diseases cannot spread in developing countries with younger populations",
+      "(C) international organizations have refused to address the AIDS crisis",
+      "(D) global networks spread diseases more quickly, but they also spread treatments, funding, and activist pressure across borders"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Based on the report, the best-supported argument about disease in an age of globalization is that:",
+    "stimulus": "News report, Durban, South Africa, 2001 (paraphrased): Thousands of marchers carried a giant red AIDS-awareness ribbon through the city, demanding that pharmaceutical companies and wealthy governments make antiretroviral drugs affordable in developing countries.",
+    "stimulus_words": 33,
+    "themes": [
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The celebration was possible because Gorbachev let Eastern Europe choose its own path instead of sending tanks as Soviet leaders had in 1956 and 1968. East Germans then forced open the Wall themselves in November 1989.",
+    "id": "wh-fresh-u9-025",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Wall's 1961 construction explains the division, not the 1989 celebration of its fall.",
+      "B": "Right: Gorbachev's refusal to use force let Eastern Europeans topple their regimes, making the scene possible.",
+      "C": "Wrong: Germany was divided, not reunified, after World War I.",
+      "D": "Wrong: the 1919 treaty ended World War I and has no direct connection to the 1989 events."
+    },
+    "options": [
+      "(A) the construction of the Berlin Wall in 1961",
+      "(B) Gorbachev's decision not to use Soviet military force to preserve communist governments in Eastern Europe",
+      "(C) the reunification of Germany after World War I, when the Treaty of Versailles merged East and West Germany into one country",
+      "(D) the signing of the Treaty of Versailles in 1919"
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "stem": "The scene is best understood in the context of:",
+    "stimulus": "News report, Berlin, November 1989 (paraphrased): Crowds of East and West Berliners climbed onto the Berlin Wall near the Brandenburg Gate, celebrating and chipping pieces from it with hammers as border guards stood by.",
+    "stimulus_words": 34,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  }
+]

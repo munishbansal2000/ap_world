@@ -1,0 +1,266 @@
+[
+  {
+    "id": "wh-fresh-u2-001",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 001-003. Ibn Battuta, a Moroccan scholar, wrote of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+    "stimulus_words": 71,
+    "stem": "Ibn Battuta's observations in the excerpt most directly reflect which of the following about his historical situation?",
+    "options": [
+      "(A) He traveled as a Moroccan envoy to convert West Africans to Islam.",
+      "(B) He judged the societies he visited by the standards of Islamic law and scholarship.",
+      "(C) He wrote to entertain European readers with exotic African tales.",
+      "(D) He traveled as a merchant chasing profits in the gold trade."
+    ],
+    "key": "B",
+    "explanation": "Ibn Battuta was a trained Muslim jurist, and the Rihla is his account of the wider Islamic world. His praise for Quranic learning and his shock at unveiled royal women show him measuring Mali against the legal and scholarly norms he carried from Morocco — what he notices and how he judges it are shaped by that identity.",
+    "option_explanations": {
+      "A": "He was not an envoy; he traveled independently as a scholar and judge, and he describes Mali's existing Islam rather than a conversion mission.",
+      "B": "Correct — his reactions (approval of Quranic study and Friday prayer, disapproval of unveiled women) apply Islamic legal norms to what he sees.",
+      "C": "His audience was Muslim and Moroccan, not European; nothing in the passage aims at European readers.",
+      "D": "He was a scholar-jurist, not a merchant, and the passage discusses religion and court life, not commercial profit."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Continuity and Change",
+    "themes": ["SIO", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-002",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 001-003. Ibn Battuta, a Moroccan scholar, wrote of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+    "stimulus_words": 71,
+    "stem": "Which of the following arguments about Islam in Mali is best supported by the excerpt?",
+    "options": [
+      "(A) Islam was imposed on Mali by foreign conquerors and resisted by its rulers.",
+      "(B) Malian rulers threw off every pre-Islamic custom in order to obey Islamic law strictly.",
+      "(C) Islam stayed confined to foreign merchants and never influenced Mali's government.",
+      "(D) Malian rulers blended Islamic practices with long-standing local customs."
+    ],
+    "key": "D",
+    "explanation": "The passage shows both sides at once: the sultan enforces Friday prayer and rewards Quranic learning, yet griots still sing the old royal praises at court and royal women appear unveiled despite Battuta's disapproval. That combination supports the argument that Mali's elite adopted Islam while keeping established customs, rather than replacing one with the other.",
+    "option_explanations": {
+      "A": "Nothing suggests conquest or resistance; the sultan himself enforces Islamic observance.",
+      "B": "The griots' court role and unveiled royal women show pre-Islamic customs continuing, so not every custom was discarded.",
+      "C": "The sultan punishes missed Friday prayer, so Islam clearly shaped government, not just merchant life.",
+      "D": "Correct — Islamic observance and local court customs appear side by side in the same court."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Continuity and Change",
+    "themes": ["CDI", "SIO"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-003",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 001-003. Ibn Battuta, a Moroccan scholar, wrote of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+    "stimulus_words": 71,
+    "stem": "The sultan's ability to reward courtiers with gold, as described in the excerpt, is best understood in which broader context?",
+    "options": [
+      "(A) West African gold crossed the Sahara to supply mints and treasuries as far as the Middle East.",
+      "(B) European ships had opened direct sea routes to Mali's goldfields by the 1300s.",
+      "(C) Mali monopolized the world's silver supply through its Saharan oases.",
+      "(D) Gold had lost nearly all its value in Afro-Eurasian trade because paper money replaced it."
+    ],
+    "key": "A",
+    "explanation": "Mali sat atop the West African goldfields, and camel caravans carried that gold north across the Sahara to North African and Middle Eastern markets — famously illustrated by Mansa Musa's lavish spending on his 1324 pilgrimage. The sultan's gold rewards were possible because Mali controlled one end of this lucrative trans-Saharan trade.",
+    "option_explanations": {
+      "A": "Correct — trans-Saharan caravans moved West African gold north to Mediterranean and Middle Eastern economies.",
+      "B": "Europeans did not reach West Africa by sea until the 1400s; in the 1300s the gold moved by caravan.",
+      "C": "The trade was in gold, not silver, and Mali taxed the trade rather than owning Saharan mines.",
+      "D": "Gold remained highly valued; paper money circulated mainly in China, not across Afro-Eurasia."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-004",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 004-006. Marco Polo, a Venetian merchant, described the city of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
+    "stimulus_words": 65,
+    "stem": "Polo's description most strongly suggests that he wrote for an audience that would be impressed by which of the following?",
+    "options": [
+      "(A) The battlefield tactics and siege weapons that let the Mongols conquer China",
+      "(B) The theological differences between Buddhism and Christianity",
+      "(C) The scale and sophistication of commercial life in Yuan China",
+      "(D) The hardships of traveling the overland Silk Roads"
+    ],
+    "key": "C",
+    "explanation": "Polo dwells on bridges, crowded markets, goods from every province, and universal paper money — the marvels of a commercial economy. As a Venetian merchant writing for Europeans, he highlights exactly what would astonish them: the size and organization of Chinese trade.",
+    "option_explanations": {
+      "A": "The passage says nothing about armies or conquest; its subject is the city's commerce.",
+      "B": "No religious comparison appears in the description.",
+      "C": "Correct — bridges, stocked markets, and paper money all showcase commercial scale and sophistication.",
+      "D": "He describes the destination's markets, not the journey's hardships."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-005",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 004-006. Marco Polo, a Venetian merchant, described the city of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
+    "stimulus_words": 65,
+    "stem": "Which of the following best explains the commercial development described in the excerpt?",
+    "options": [
+      "(A) The Ming dynasty closing China to foreign trade and promoting agriculture",
+      "(B) Song-era urbanization, market growth, and paper currency, continued under the Mongols",
+      "(C) European joint-stock companies financing Chinese manufacturing",
+      "(D) The supposed collapse of the Grand Canal, which would have forced merchants onto coastal shipping"
+    ],
+    "key": "B",
+    "explanation": "Hangzhou's commercial boom began under the Song dynasty, whose cities, market networks, and paper money made China the world's most commercialized economy. The Mongols preserved and extended that system — keeping paper currency and the Grand Canal — which is why Polo found such a thriving market city under the Yuan.",
+    "option_explanations": {
+      "A": "The Ming came later, and closing trade would shrink commerce, not explain its flourishing.",
+      "B": "Correct — Song commercialization created the market cities and paper money the Yuan inherited and maintained.",
+      "C": "Joint-stock companies appeared in Europe in the 1600s, centuries too late.",
+      "D": "The Grand Canal was maintained and extended, not collapsed; it fed Hangzhou's trade."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": ["ECN", "TEC"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-006",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 004-006. Marco Polo, a Venetian merchant, described the city of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
+    "stimulus_words": 65,
+    "stem": "A historian claims that Yuan China had the most monetized economy in the world at the time. Which evidence from the excerpt best supports that claim?",
+    "options": [
+      "(A) The city's twelve thousand bridges",
+      "(B) Pepper and ginger arriving from every province",
+      "(C) Hangzhou's large population living by trade and crafts in its many crowded market quarters",
+      "(D) Even small everyday purchases being paid for with the government's paper money"
+    ],
+    "key": "D",
+    "explanation": "A monetized economy is one where money is used widely in daily transactions. Polo's note that even small purchases were made with state paper money shows currency reaching ordinary buyers and sellers — direct evidence of deep monetization, which bridges, imports, or occupations alone do not prove.",
+    "option_explanations": {
+      "A": "Bridges show infrastructure, not the use of money.",
+      "B": "Imports show trade volume, not how transactions were paid for.",
+      "C": "Occupations show commercial life, but not necessarily money-based exchange.",
+      "D": "Correct — paper money in everyday small transactions is direct evidence of a deeply monetized economy."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": ["ECN"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-007",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
+    "stimulus_words": 81,
+    "visual_needs_url": true,
+    "stem": "Which of the following comparisons between the overland and maritime networks shown on the map is best supported?",
+    "options": [
+      "(A) Both spread religions and technologies, but land routes depended on Mongol unity while sea routes linked independent ports.",
+      "(B) The land routes carried only luxuries, while the sea routes carried only bulk foods.",
+      "(C) Chinese admirals commanded the entire Indian Ocean trade from Quanzhou to Kilwa, while Arab merchants alone controlled every mile of the overland Silk Roads.",
+      "(D) Both networks collapsed after 1200 because Mongol conquests destroyed all long-distance trade."
+    ],
+    "key": "A",
+    "explanation": "Both networks moved more than goods — Buddhism traveled the Silk Roads and Islam the sea lanes, and technologies like paper and the compass diffused along them. The difference is political: the overland roads flourished under a single Mongol peace, while the Indian Ocean had no one ruling power, only independent port cities trading with one another.",
+    "option_explanations": {
+      "A": "Correct — both networks diffused religions and technologies; the land routes rested on Mongol political unity, the sea routes on independent ports.",
+      "B": "The word 'only' is wrong on both sides — overland routes carried horses and other bulk goods too, and ships carried luxuries like porcelain.",
+      "C": "No single power controlled the Indian Ocean; Arabs, Persians, Indians, and Chinese all shared it, and many peoples used the land routes.",
+      "D": "The Mongol conquests first disrupted then revived trade; the map shows the networks thriving around 1300."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "hard",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-008",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
+    "stimulus_words": 81,
+    "visual_needs_url": true,
+    "stem": "The expansion of the exchange networks shown on the map is best understood in the broader context of which development?",
+    "options": [
+      "(A) The printing press spreading from Europe to Asia and advertising distant markets",
+      "(B) The total collapse of centralized states across Eurasia, forcing merchants to trade with no protection at all",
+      "(C) Mongol unification securing overland routes, and better ships and navigation expanding sea routes",
+      "(D) The crusades, which directly established the Indian Ocean spice trade"
+    ],
+    "key": "C",
+    "explanation": "Two things made the 1200s-1300s a peak of exchange: the Mongols united the Silk Road lands under one security system, and improved vessels like junks and dhows, plus better knowledge of monsoon winds, opened the seas. Together they explain why all three networks on the map were so active at once.",
+    "option_explanations": {
+      "A": "The printing press arose in Europe in the 1400s, and it spread no markets to Asia.",
+      "B": "The Mongol Empire was a huge centralized state, and its protection is exactly what made the land routes safe.",
+      "C": "Correct — Mongol security on land plus maritime improvements at sea explain the simultaneous expansion.",
+      "D": "The crusades touched the eastern Mediterranean, not the Indian Ocean, whose trade long predated them."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": ["ECN", "TEC"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-009",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
+    "stimulus_words": 81,
+    "visual_needs_url": true,
+    "stem": "The networks shown on the map most directly contributed to which of the following developments in the fourteenth century?",
+    "options": [
+      "(A) The complete isolation of sub-Saharan Africa from world trade",
+      "(B) The rapid spread of the bubonic plague from Central Asia to the Middle East and Europe",
+      "(C) The abandonment of paper money across Eurasia in favor of a return to simple barter",
+      "(D) The end of all religious exchange between Asia and Europe"
+    ],
+    "key": "B",
+    "explanation": "The plague traveled the same roads and sea lanes as the merchants — from Central Asia along caravan routes to Black Sea ports like Kaffa, then by ship into the Mediterranean. The map's connected networks explain how a disease could cross the continent in just a few years.",
+    "option_explanations": {
+      "A": "The map shows trans-Saharan routes linking West Africa to the wider world.",
+      "B": "Correct — the plague followed the caravan and shipping routes shown on the map.",
+      "C": "Paper money continued in China; the plague did not end its use.",
+      "D": "Religious exchange continued — the plague disrupted travel but did not end it."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": ["ENV", "ECN"],
+    "difficulty": "medium",
+    "type": "mcq"
+  },
+  {
+    "id": "wh-fresh-u2-010",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
+    "stimulus_words": 81,
+    "visual_needs_url": true,
+    "stem": "A historian argues that the Mongol Empire was primarily a destructive force with little positive historical significance. Which of the following best evaluates that interpretation using the map?",
+    "options": [
+      "(A) The interpretation is fully correct, because trade routes bypassed all Mongol lands.",
+      "(B) The interpretation is fully correct, because no cities at all existed anywhere within Mongol territory and the steppe produced nothing of value worth trading with anyone.",
+      "(C) The interpretation is partly right, because sea routes mattered more than land routes.",
+      "(D) The interpretation is limited, because major overland routes crossed Central Asia at the height of Mongol power, showing Mongol rule aided exchange."
+    ],
+    "key": "D",
+    "explanation": "The conquests were brutally destructive, but the map shows the Silk Roads running straight through Mongol-held Central Asia around 1300, busy with labeled goods. That pattern fits the Pax Mongolica: Mongol guards, relay stations, and merchant partnerships made the land routes safer than before, so calling the empire only destructive misses a major part of the story.",
+    "option_explanations": {
+      "A": "The routes cross Samarkand and Central Asia — the heart of Mongol territory, not around it.",
+      "B": "Samarkand and Baghdad are shown within Mongol lands.",
+      "C": "The map does not rank the networks, and this sidesteps the question of Mongol effects.",
+      "D": "Correct — busy overland routes through Central Asia under Mongol rule show the empire facilitating exchange."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Causation",
+    "themes": ["ECN", "CDI"],
+    "difficulty": "hard",
+    "type": "mcq"
+  }
+]

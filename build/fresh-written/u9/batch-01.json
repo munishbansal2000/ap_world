@@ -1,0 +1,263 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "Glasnost allowed the press and citizens to publicly expose economic failure and corruption, while the loosening of control gave nationalist movements in the republics room to demand independence. These forces overwhelmed a central government that had intended only limited reform.",
+    "id": "wh-fresh-u9-001",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: perestroika moved away from strict central planning by permitting limited private enterprise, not back toward it.",
+      "B": "Wrong: Eastern European communist governments fell in 1989 as Moscow declined to intervene, the opposite of remaining loyal.",
+      "C": "Right: the stimulus describes free media exposing failure and nationalist movements demanding independence, which the center could not contain.",
+      "D": "Wrong: the reforms were initially popular; the problem was that they raised expectations and exposed failures rather than being rejected."
+    },
+    "options": [
+      "(A) restored strict central planning and ended all private economic activity, returning the economy to its pre-1985 controls",
+      "(B) convinced Eastern European leaders to remain loyal to Moscow",
+      "(C) unleashed public criticism and nationalist movements the government could not contain",
+      "(D) were rejected by Soviet citizens, who preferred the earlier closed system"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "Gorbachev's reforms contributed to the dissolution of the Soviet Union primarily because they:",
+    "stimulus": "In 1985 Mikhail Gorbachev became leader of the Soviet Union. His glasnost (openness) allowed freer speech and a freer press; his perestroika (restructuring) introduced limited private enterprise to revive a stagnant economy. The reforms were meant to strengthen socialism. Instead, newly free media exposed decades of failure, and nationalist movements in the Baltic republics and Central Asia demanded independence. By 1991 the Soviet Union had dissolved into fifteen independent states.",
+    "stimulus_words": 70,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Perestroika was supposed to revive the stagnant economy. Evidence that shortages of everyday goods actually grew worse by 1991 directly shows the economic reforms did not deliver their promised results.",
+    "id": "wh-fresh-u9-002",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Nobel Prize recognized Gorbachev's foreign policy, not the domestic economic performance of perestroika.",
+      "B": "Right: worsening shortages of basic goods by 1991 are direct evidence that the economic reforms failed to revive the economy.",
+      "C": "Wrong: Sputnik dates to 1957, nearly thirty years before perestroika, and says nothing about the 1980s reforms.",
+      "D": "Wrong: the 1993 constitution is a post-collapse political development, not evidence about perestroika's economic record."
+    },
+    "options": [
+      "(A) Gorbachev won the Nobel Peace Prize in 1990 for easing Cold War tensions",
+      "(B) by 1991, shortages of basic consumer goods in Soviet cities were worse than when the reforms began",
+      "(C) the Soviet Union launched the Sputnik satellite in 1957, startling the United States",
+      "(D) Russia adopted a new constitution in 1993, after the Soviet collapse"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "Which of the following pieces of evidence would best support the claim that perestroika failed to achieve its economic goals?",
+    "stimulus": "In 1985 Mikhail Gorbachev became leader of the Soviet Union. His glasnost (openness) allowed freer speech and a freer press; his perestroika (restructuring) introduced limited private enterprise to revive a stagnant economy. The reforms were meant to strengthen socialism. Instead, newly free media exposed decades of failure, and nationalist movements in the Baltic republics and Central Asia demanded independence. By 1991 the Soviet Union had dissolved into fifteen independent states.",
+    "stimulus_words": 70,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The stimulus stresses that Gorbachev intended to strengthen socialism, yet glasnost's exposure of failure and the nationalist mobilization it enabled destroyed the system's legitimacy instead. This supports the broader argument that top-down reforms can unintentionally accelerate the collapse they were meant to prevent.",
+    "id": "wh-fresh-u9-003",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: one case cannot prove a universal rule about all centrally planned economies, and China reformed without collapsing.",
+      "B": "Wrong: the stimulus presents nationalism alongside economic stagnation and political opening, not as a sole cause.",
+      "C": "Wrong: the reforms led to state collapse, not to an orderly democratic transition, and many reformed economies did not democratize.",
+      "D": "Right: the stimulus shows reforms intended to save socialism instead delegitimizing it and hastening the 1991 dissolution."
+    },
+    "options": [
+      "(A) they prove that centrally planned economies always collapse within a decade of reform",
+      "(B) they show that nationalist movements were the sole cause of the Soviet collapse",
+      "(C) they demonstrate that economic reform inevitably produces democratic government",
+      "(D) they show that reforms meant to preserve a system can hasten its collapse by undermining its legitimacy"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following is the best-supported argument about the reforms described in the stimulus?",
+    "stimulus": "In 1985 Mikhail Gorbachev became leader of the Soviet Union. His glasnost (openness) allowed freer speech and a freer press; his perestroika (restructuring) introduced limited private enterprise to revive a stagnant economy. The reforms were meant to strengthen socialism. Instead, newly free media exposed decades of failure, and nationalist movements in the Baltic republics and Central Asia demanded independence. By 1991 the Soviet Union had dissolved into fifteen independent states.",
+    "stimulus_words": 70,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The chart shows exports rising from roughly 25 percent of world GDP to roughly 60 percent, which is more than a doubling. The dip in 2009 is followed by recovery, and the chart measures merchandise (goods) exports, not a shift to services.",
+    "id": "wh-fresh-u9-004",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the rise from about 25 percent to about 60 percent of GDP is more than a doubling of trade's share of output.",
+      "B": "Wrong: the overall trend is a rise across the decades, with only a temporary dip in 2009.",
+      "C": "Wrong: the dip is followed by a recovery to near the earlier peak, which contradicts the claim that globalization ended.",
+      "D": "Wrong: the chart tracks merchandise exports, which grew; it provides no evidence of countries abandoning manufacturing."
+    },
+    "options": [
+      "(A) the share of national output traded across borders more than doubled between 1960 and 2020",
+      "(B) international trade declined in every decade after 1960",
+      "(C) the 2009 dip proves that globalization ended with the global financial crisis and never recovered afterward",
+      "(D) exports grew mainly because most countries abandoned manufacturing for services"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "Which claim about economic globalization is best supported by the chart?",
+    "stimulus": "Line chart titled 'World merchandise exports as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
+    "stimulus_words": 47,
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The postwar GATT rounds and then the WTO (established 1995) systematically reduced tariffs and trade barriers worldwide, which directly enabled the decades-long rise in trade's share of global output shown in the chart.",
+    "id": "wh-fresh-u9-005",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the UN addressed peace and security, not the tariff reductions that drove the trade expansion.",
+      "B": "Wrong: the Soviet dissolution was a political event that does not explain the steady trade growth beginning in the 1960s.",
+      "C": "Right: GATT rounds and the 1995 WTO lowered the barriers whose removal made the chart's rising trade share possible.",
+      "D": "Wrong: the euro was a regional currency introduced in 1999, too late and too narrow to explain the global trend since 1960."
+    },
+    "options": [
+      "(A) the United Nations was founded in 1945 to prevent future wars",
+      "(B) the Soviet Union dissolved in 1991, an event that directly created the World Trade Organization and ended all tariffs worldwide",
+      "(C) successive GATT negotiating rounds and the creation of the WTO in 1995 steadily lowered tariff barriers",
+      "(D) the euro was introduced as a common European currency in 1999"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian argues that institutions created after World War II laid the groundwork for the trend shown. Which evidence best supports that argument?",
+    "stimulus": "Line chart titled 'World merchandise exports as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
+    "stimulus_words": 47,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The protesters explicitly say they seek reform rather than overthrow, ask for dialogue, and profess love of country. This is a reformist position: demanding corruption cleanup and press freedom inside the existing system.",
+    "id": "wh-fresh-u9-006",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the declaration explicitly rejects overthrow of the system and asks for dialogue instead.",
+      "B": "Right: 'we seek reform, not the overthrow of the system' is a reformist stance working within the existing order.",
+      "C": "Wrong: nothing in the declaration addresses foreign influence or closing China off.",
+      "D": "Wrong: the protesters demand press freedom and an end to corruption, the opposite of a return to Mao-era controls."
+    },
+    "options": [
+      "(A) revolutionary, calling for the violent overthrow of the government and the establishment of an entirely new state",
+      "(B) reformist, seeking change while working within the existing political system",
+      "(C) isolationist, demanding that China close itself to foreign influence",
+      "(D) nostalgic, urging a return to the policies of the Mao era"
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "stem": "The point of view expressed in the declaration is best described as:",
+    "stimulus": "Declaration by student protesters in Beijing, May 1989 (paraphrased): 'We ask for dialogue with the government, an end to official corruption, and freedom of the press. We love our country. We seek reform, not the overthrow of the system.'",
+    "stimulus_words": 39,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The declaration shows Chinese protesters seeking reform, while the account documents the military crackdown that followed. In Eastern Europe the same year, communist regimes fell where Soviet force was withheld. The contrast shows that the state's willingness to use force was decisive.",
+    "id": "wh-fresh-u9-007",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the crackdown in Beijing versus the largely peaceful collapses in Eastern Europe shows outcomes hinged on the use of force.",
+      "B": "Wrong: the military clearing of the square and the tanks in the account show the protests were suppressed, not successful.",
+      "C": "Wrong: soldiers clearing demonstrators and tanks in the streets contradict any peaceful negotiated settlement.",
+      "D": "Wrong: China, Cuba, Vietnam, and others remained under communist rule after 1989."
+    },
+    "options": [
+      "(A) pro-democracy movements in 1989 succeeded or failed largely depending on whether ruling governments used military force against them",
+      "(B) China's protesters achieved the democratic reforms they demanded",
+      "(C) the Chinese government negotiated a peaceful settlement with the demonstrators",
+      "(D) 1989 brought democratic governments to every communist state in the world, since all of them, including China and Cuba, held free elections that year"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "Taken together with the May 1989 student declaration seeking reform, the account best supports which claim about the year 1989?",
+    "stimulus": "Eyewitness account, Beijing, June 5, 1989 (paraphrased): A lone unarmed man stepped into a wide avenue and stood in the path of a column of People's Liberation Army tanks, bringing them to a halt. The standoff came the morning after soldiers had cleared pro-democracy demonstrators from nearby Tiananmen Square.",
+    "stimulus_words": 49,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The container ship embodies containerization, the standardized system that made ocean freight cheap and reliable. That technology let firms split production into stages across different countries, creating the globe-spanning supply chains behind modern manufacturing.",
+    "id": "wh-fresh-u9-008",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the bustling port shows ocean shipping thriving, not declining.",
+      "B": "Wrong: the photograph shows trade infrastructure, not state ownership of industry, and gives no information about growth rates.",
+      "C": "Wrong: the image connects shipping to trade and manufacturing, not to any political change toward democracy.",
+      "D": "Right: standardized containers lowered shipping costs, enabling firms to disperse production stages across countries."
+    },
+    "options": [
+      "(A) rising oil prices and the decline of ocean shipping",
+      "(B) government ownership of industry and slower economic growth, since state-run ports discouraged private shipping companies",
+      "(C) the spread of democracy and the growth of world trade",
+      "(D) standardized shipping technology and the rise of globally dispersed manufacturing supply chains"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "The scene best illustrates the connection between:",
+    "stimulus": "Color photograph, Port of Singapore, 2019: a giant container ship docked beneath towering gantry cranes; its deck is stacked high with multicolored steel shipping containers.",
+    "stimulus_words": 25,
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Cheap, reliable container freight made it economical to manufacture components in one country and assemble them in another. Asian economies exploited this to build export industries, drawing multinational investment and driving rapid industrialization from the 1970s onward.",
+    "id": "wh-fresh-u9-009",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: governments still regulate trade through tariffs, quotas, and trade agreements; containers changed costs, not regulation itself.",
+      "B": "Right: containerization lowered the cost of moving goods between production stages, fueling Asia's export-led industrial growth.",
+      "C": "Wrong: developing economies in East and Southeast Asia were among the greatest beneficiaries, industrializing through export manufacturing.",
+      "D": "Wrong: containerization strengthened multinationals by making it easier for them to coordinate production across borders."
+    },
+    "options": [
+      "(A) container shipping ended all government regulation of international trade",
+      "(B) falling transport costs let firms split production across countries, accelerating export-led industrialization in East and Southeast Asia",
+      "(C) containerization mainly benefited wealthy countries and had little effect on developing economies",
+      "(D) standardized containers made multinational corporations unnecessary"
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following is the best-supported argument about the development shown in the photograph?",
+    "stimulus": "Color photograph, Port of Singapore, 2019: a giant container ship docked beneath towering gantry cranes; its deck is stacked high with multicolored steel shipping containers.",
+    "stimulus_words": 25,
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9,
+    "visual_needs_url": true
+  }
+]
