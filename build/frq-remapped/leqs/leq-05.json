@@ -1,0 +1,26 @@
+{
+  "id": "leq-05",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    4
+  ],
+  "themes": [
+    "CDI",
+    "ECN"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1450-c. 1750, expanding interregional trade brought peoples, goods, and beliefs into sustained contact across Afro-Eurasia and the Americas. Develop an argument that evaluates the extent to which interregional trade caused religious and cultural syncretism in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the growth of the Indian Ocean, Atlantic, and trans-Saharan trade networks, European colonial expansion, or missionary activity accompanying commerce.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Sikhism, Vodou/Santeria in the Americas, blending of Catholic and indigenous practice in Mexico and the Andes, Sufi accommodation in South and Southeast Asia, Swahili Islamic culture.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the claim that trade caused syncretism (or that contact through trade did not reliably produce it).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: evaluates whether trade was the cause of syncretism and considers alternatives such as conquest, missionary policy, or state enforcement of orthodoxy.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Trade created the sustained contact from which syncretic traditions emerged, but contact alone did not determine the outcome: where states and religious authorities enforced orthodoxy or segregated communities, as in Spanish America or the Ottoman millet system, trade produced coexistence rather than blending.",
+  "evidence_directions": "Strong responses show both blending (Sikhism, Afro-Caribbean religions, Mexican folk Catholicism) and resistance to blending (Inquisition, anti-Christian edicts, millet separation). One-sided 'trade always blended cultures' answers miss the evaluation the prompt demands.",
+  "source_inspiration": "fivesteps: fivesteps-frq-039"
+}

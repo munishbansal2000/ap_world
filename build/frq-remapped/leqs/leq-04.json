@@ -1,0 +1,27 @@
+{
+  "id": "leq-04",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    2,
+    3
+  ],
+  "themes": [
+    "GOV",
+    "TEC"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1200-c. 1750, states used new and transferred military and maritime technologies as they built and expanded empires. Develop an argument that evaluates the extent to which technological innovation was the most important cause of empire-building in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: gunpowder spreading from China, the age of exploration, competition among states, or the administrative demands of ruling large territories.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Ottoman siege cannon at Constantinople, Mughal artillery, Iberian caravels and naval cannon, muskets, fortified trading posts, adoption of gunpowder by the Safavids.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be connected to the causal argument (e.g., showing how a technology enabled a specific conquest or was insufficient without other factors).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: evaluates whether technology was the most important cause by weighing it against alternatives such as bureaucracy, taxation, religious legitimation, or economic motives.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Technology gave ambitious states decisive tools - gunpowder artillery and ocean-going ships made new conquests possible - but it was rarely the most important cause of empire-building; without effective administration, revenue systems, and ideological legitimation, military advantages alone could not hold an empire together.",
+  "evidence_directions": "Strong responses compare technological explanations (gunpowder empires, Iberian maritime empires) with non-technological ones (Ottoman devshirme bureaucracy, Mughal revenue administration, Spanish crown financing). Responses claiming technology alone explain everything should be challenged on reasoning.",
+  "source_inspiration": "fivesteps: fivesteps-frq-038"
+}

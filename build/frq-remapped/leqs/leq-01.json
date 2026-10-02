@@ -1,0 +1,27 @@
+{
+  "id": "leq-01",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    2
+  ],
+  "themes": [
+    "ENV",
+    "ECN",
+    "TEC"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1200-c. 1450, new technologies and commercial practices supported the growth of regional and trans-regional trade. Develop an argument that evaluates the extent to which technological innovation was responsible for the expansion of interregional trade in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the Mongol conquests and Pax Mongolica, the revival of Afro-Eurasian trade routes, demand for luxury goods in Song China and Europe, or the growth of maritime states.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: magnetic compass, sternpost rudder, lateen sails, caravanserai, paper money/flying cash, bills of exchange, improved ship designs (junks, dhows).",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the claim about technology's role (e.g., how a specific innovation lowered costs or opened new routes), not just named.",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: explains how and why technology did or did not cause trade growth, and weighs technology against other causes such as state policies, political stability, or demand.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Although innovations such as the compass and improved ship design lowered the costs and risks of long-distance commerce, technology was only one of several causes of trade expansion; the political security provided by the Mongol Empire and growing state investment in commerce mattered at least as much.",
+  "evidence_directions": "Strong responses may contrast technological causes (navigational instruments, shipbuilding, commercial instruments like bills of exchange) with non-technological causes (Mongol protection of the Silk Roads, state-built infrastructure, demand from wealthy elites). Weaker responses that credit technology alone or ignore political context should be scored down on reasoning and complexity.",
+  "source_inspiration": "princeton-epub: princeton-pt1-leq2"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "leq-03",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    1
+  ],
+  "themes": [
+    "GOV",
+    "ECN",
+    "SIO"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In Afro-Eurasia in the period c. 1200-c. 1450, old empires declined and new states rose in their place. Develop an argument that evaluates the extent to which the decline and reconstitution of empires caused the growth of cities and urban life in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the Mongol conquests, the fall of the Abbasid caliphate, the rise of the Ottomans and the Delhi Sultanate, or the expansion of Afro-Eurasian trade.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: the sack of Baghdad (1258) and its urban devastation, Cairo under the Mamluks, Timbuktu and Djenne in Mali, Delhi under the Sultanate, Khanbaliq/Dadu under the Yuan.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the causal claim (e.g., how a new capital or court patronage spurred urban growth, or how conquest destroyed it).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: explains how imperial decline or reconstitution did or did not cause urban growth, weighing it against other causes such as trade or agricultural productivity.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "New empires and states often spurred urban growth by founding capitals and patronizing crafts and scholarship, but imperial change alone does not explain urbanization: many cities grew because of trade regardless of who ruled, and conquest sometimes destroyed urban life, as at Baghdad.",
+  "evidence_directions": "Strong responses distinguish cases where reconstitution built cities (Mamluk Cairo, Mali's Timbuktu) from cases where decline devastated them (Baghdad) or where trade drove growth independent of rulers. Simple lists of cities without causal analysis earn only the examples point.",
+  "source_inspiration": "fivesteps: fivesteps-frq-034"
+}

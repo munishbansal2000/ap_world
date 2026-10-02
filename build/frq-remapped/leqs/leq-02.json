@@ -1,0 +1,27 @@
+{
+  "id": "leq-02",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    1,
+    2
+  ],
+  "themes": [
+    "CDI",
+    "GOV"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1200-c. 1450, Islam spread across much of Africa through trade, conquest, and missionary activity. Develop an argument that evaluates the extent to which the spread of Islam transformed African societies in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the earlier trans-Saharan and Indian Ocean trade networks, the existing kingdoms and stateless societies of Africa, or the Sunni/Shi'a traditions arriving with merchants.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Mali under Mansa Musa (hajj, Timbuktu scholarship), Swahili city-states (Kilwa, Mogadishu), Sufi brotherhoods, adoption of sharia alongside customary law, Ethiopian resistance to Islam.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to show what changed AND what continued (e.g., Mali's rulers adopted Islam while preserving local customs and kingship).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: analyzes what Islam changed in African societies and what persisted, and evaluates the degree of transformation.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "The spread of Islam transformed African societies politically and intellectually by connecting rulers to wider Muslim networks and fostering centers of learning, but change was limited: most Africans blended Islam with older customs, and large regions retained their original religions and social structures.",
+  "evidence_directions": "Strong responses weigh transformation (Islamic law, literacy, new trade ties) against continuity (syncretic practice, persistence of indigenous belief, Ethiopia's Christianity). Responses should not be rewarded for treating 'Africa' as a single society; regional variation supports the complexity point.",
+  "source_inspiration": "princeton-epub: princeton-pt2-leq2"
+}
