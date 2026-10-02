@@ -1,0 +1,1674 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "Bloch admits that historians never witness the past directly, but he is optimistic: new evidence and better methods keep improving what we know, as shown by the recovery of ancient Egypt and Mesopotamia. The passage never claims knowledge is impossible, and it does not call for laboratory science.",
+  "id": "wh-barrons-t3-001",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Bloch calls knowledge of the past 'indirect,' not impossible; the whole passage stresses progress, not futility.",
+   "B": "Wrong. This is the opposite of Bloch's point — he argues historical knowledge is 'constantly being transformed and perfected.'",
+   "C": "Correct. Bloch's magistrate comparison shows evidence is indirect, while Egypt and Mesopotamia show understanding grows as new evidence appears.",
+   "D": "Wrong. Bloch never suggests historians should imitate laboratory science; his concern is working well with indirect evidence."
+  },
+  "options": [
+   "(A) Historians can never learn anything truly reliable about the distant past, since direct observation of it is impossible for anyone living today.",
+   "(B) Historical knowledge becomes less trustworthy with each generation, as memories fade and records decay.",
+   "(C) Indirect evidence, carefully examined, allows understanding of the past to grow more complete over time.",
+   "(D) History should adopt the laboratory methods of the natural sciences in order to become truly rigorous."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-001",
+  "source_stimulus_words": 145,
+  "stem": "Which of the following claims about historical knowledge does the passage most directly support?",
+  "stimulus": "No student of ancient Egypt has ever looked upon Ramses, and no scholar of the Napoleonic Wars has ever heard cannon fire at Austerlitz. We know earlier ages only through the testimony of witnesses; we are like a magistrate trying to reconstruct a crime he did not see. Knowledge of the past is therefore indirect. Yet it is also progressive, constantly being transformed and perfected. Whoever doubts this should recall how much it has improved within little more than a century: whole peoples have stepped out of the shadows, and Egypt and Mesopotamia have cast off their burial shrouds. —Paraphrased from Marc Bloch, The Historian's Craft, 1949",
+  "stimulus_words": 107,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The magistrate image captures Bloch's central point: the historian was not there, so the work consists of weighing witness accounts and reconstructing what happened from them. It is about method, not about passing judgment or achieving eyewitness certainty.",
+  "id": "wh-barrons-t3-002",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Bloch uses the magistrate as an image of investigation, not of sentencing or moral judgment.",
+   "B": "Correct. Like the magistrate, the historian reconstructs an unseen event from the testimony of witnesses.",
+   "C": "Wrong. 'Testimony of witnesses' means surviving evidence and accounts, not confessions extracted from participants.",
+   "D": "Wrong. Bloch explicitly says knowledge of the past is 'indirect' — the opposite of eyewitness certainty."
+  },
+  "options": [
+   "(A) should, like judges, pass moral judgment on the people they study.",
+   "(B) must piece together what happened from incomplete testimony rather than from direct observation.",
+   "(C) depend mainly on confessions obtained from the participants in past events.",
+   "(D) can reach the same level of certainty as an eyewitness who personally watched the event unfold before their eyes."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-002",
+  "source_stimulus_words": 145,
+  "stem": "Bloch compares the historian to a magistrate reconstructing a crime he did not witness. The comparison is meant to show that historians",
+  "stimulus": "No student of ancient Egypt has ever looked upon Ramses, and no scholar of the Napoleonic Wars has ever heard cannon fire at Austerlitz. We know earlier ages only through the testimony of witnesses; we are like a magistrate trying to reconstruct a crime he did not see. Knowledge of the past is therefore indirect. Yet it is also progressive, constantly being transformed and perfected. Whoever doubts this should recall how much it has improved within little more than a century: whole peoples have stepped out of the shadows, and Egypt and Mesopotamia have cast off their burial shrouds. —Paraphrased from Marc Bloch, The Historian's Craft, 1949",
+  "stimulus_words": 107,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Bloch names Egypt and Mesopotamia — civilizations recovered through excavation and the deciphering of hieroglyphs and cuneiform in the 1800s. Those breakthroughs literally brought lost peoples back into history, exactly the 'shadows' image he uses.",
+  "id": "wh-barrons-t3-003",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Excavation plus decipherment recovered Egypt and Mesopotamia — the very examples Bloch gives.",
+   "B": "Wrong. The printing press dates to the 1400s, centuries before the 'little more than a century' Bloch describes.",
+   "C": "Wrong. Public education spread literacy; it did not recover lost civilizations from the historical shadows.",
+   "D": "Wrong. Interviewing living leaders concerns recent history, not ancient peoples like the Egyptians."
+  },
+  "options": [
+   "(A) New archaeological discoveries and the deciphering of ancient scripts, which opened previously unreadable records.",
+   "(B) The invention of the printing press, which made books affordable for ordinary readers.",
+   "(C) The spread of universal public education across Europe in the 1800s, which taught millions of children to read and write.",
+   "(D) The practice of interviewing living political leaders about their memories."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-003",
+  "source_stimulus_words": 145,
+  "stem": "Bloch notes that 'whole peoples have stepped out of the shadows' within the last century. Which development best accounts for this expansion of historical knowledge?",
+  "stimulus": "No student of ancient Egypt has ever looked upon Ramses, and no scholar of the Napoleonic Wars has ever heard cannon fire at Austerlitz. We know earlier ages only through the testimony of witnesses; we are like a magistrate trying to reconstruct a crime he did not see. Knowledge of the past is therefore indirect. Yet it is also progressive, constantly being transformed and perfected. Whoever doubts this should recall how much it has improved within little more than a century: whole peoples have stepped out of the shadows, and Egypt and Mesopotamia have cast off their burial shrouds. —Paraphrased from Marc Bloch, The Historian's Craft, 1949",
+  "stimulus_words": 107,
+  "themes": [
+   "TEC",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The engraving centers on a domesticated reindeer used as a pack animal, managed by a herder — the hallmark of pastoralism, in which a community's livelihood depends on tending and moving with animal herds. There is no sign of plowed fields, plantations, or factories.",
+  "id": "wh-barrons-t3-004",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Nothing in the image suggests plowed fields or settled grain farming; the focus is entirely on the herd animal.",
+   "B": "Wrong. Plantation monoculture with enslaved labor looks nothing like a lone herder with a pack reindeer in the far north.",
+   "C": "Wrong. There are no factories, towns, or wage workers anywhere in this remote mountain scene.",
+   "D": "Correct. A herder managing a pack reindeer is a classic image of pastoral nomadism."
+  },
+  "options": [
+   "(A) Intensive grain farming on permanent, privately owned fields.",
+   "(B) Plantation agriculture worked by enslaved laborers.",
+   "(C) Industrial wage labor in urban factories.",
+   "(D) Pastoral nomadism, based on herding domesticated animals."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-004",
+  "source_stimulus_words": 29,
+  "stem": "Which form of subsistence does the engraving best illustrate?",
+  "stimulus": "[Engraving: A Sami man in a heavy fur coat and cap stands in a mountainous landscape, holding the reins of a reindeer. The animal carries large cloth pack-bundles strapped to its back. Caption: 'Reindeer and pack, with Lapp driver.' From a European travel account of northern Scandinavia, 1881.]",
+  "stimulus_words": 48,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "A pack reindeer is a traveling animal: herders load their goods onto the herd and follow its grazing needs across the terrain. That mobility is the defining feature of pastoral life, and it is the only inference the image's details actually support.",
+  "id": "wh-barrons-t3-005",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The remote mountain setting and the traveling pack animal point away from settled city life.",
+   "B": "Correct. Pack animals exist to carry goods on the move, which is what a herding community following its reindeer must do.",
+   "C": "Wrong. The image shows an inland mountain scene with no ships, ports, or trade goods.",
+   "D": "Wrong. There are no mines, tools for mining, or precious metals anywhere in the engraving."
+  },
+  "options": [
+   "(A) Its people lived year-round in large, walled cities with stone fortifications and crowded marketplaces.",
+   "(B) Its livelihood required moving across the landscape with its herds.",
+   "(C) Its survival depended on oceangoing trade with distant ports.",
+   "(D) Its wealth came from mining gold and silver in the mountains."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-005",
+  "source_stimulus_words": 29,
+  "stem": "Which inference about the community shown is best supported by the engraving?",
+  "stimulus": "[Engraving: A Sami man in a heavy fur coat and cap stands in a mountainous landscape, holding the reins of a reindeer. The animal carries large cloth pack-bundles strapped to its back. Caption: 'Reindeer and pack, with Lapp driver.' From a European travel account of northern Scandinavia, 1881.]",
+  "stimulus_words": 48,
+  "themes": [
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Like the Sami, the Cossacks were a semi-autonomous frontier people living by herding, hunting, and military service on the edges of a centralizing state — in their case, the Russian Empire. The other groups were urban industrial, plantation-owning, or feudal-elite populations with entirely different relationships to the state.",
+  "id": "wh-barrons-t3-006",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Manchester factory workers were urban wage laborers inside an industrial economy — the opposite of a remote herding life.",
+   "B": "Wrong. Brazilian plantation owners were a wealthy agrarian elite using coerced labor, not a frontier herding people.",
+   "C": "Wrong. Tokugawa samurai were a privileged military aristocracy, not a marginal pastoral community.",
+   "D": "Correct. The Cossacks, like the Sami, lived as a distinctive frontier people on the periphery of an expanding centralized state."
+  },
+  "options": [
+   "(A) Factory workers in the crowded textile mills of industrial Manchester, England.",
+   "(B) Plantation owners in Brazil.",
+   "(C) Samurai retainers in Tokugawa Japan.",
+   "(D) Cossack communities on Russia's southern frontier."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t3-006",
+  "source_stimulus_words": 29,
+  "stem": "In the late 1800s, the Sami people most closely resembled which of the following groups?",
+  "stimulus": "[Engraving: A Sami man in a heavy fur coat and cap stands in a mountainous landscape, holding the reins of a reindeer. The animal carries large cloth pack-bundles strapped to its back. Caption: 'Reindeer and pack, with Lapp driver.' From a European travel account of northern Scandinavia, 1881.]",
+  "stimulus_words": 48,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "As modern nation-states consolidated control over their territories in the 1900s, small frontier peoples like the Sami were typically absorbed as minorities within Norway, Sweden, Finland, and Russia — losing autonomy but surviving. They neither built empires nor vanished, and their way of life could not continue untouched by railways, borders, and schools.",
+  "id": "wh-barrons-t3-007",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The Sami had neither the numbers, technology, nor organization to conquer neighboring states.",
+   "B": "Wrong. Borders, compulsory schooling, and wage labor all pressed in on Sami life; no frontier community stayed sealed off.",
+   "C": "Correct. The familiar modern pattern is incorporation as a minority inside larger nation-states, which is what happened to the Sami.",
+   "D": "Wrong. The Sami remained in northern Scandinavia; there was no mass Sami migration to the Americas."
+  },
+  "options": [
+   "(A) They would conquer neighboring states and build an empire of their own.",
+   "(B) They would preserve a completely unchanged way of life, sealed off from the outside world.",
+   "(C) They would be absorbed as a minority population within modern nation-states.",
+   "(D) They would migrate across the Atlantic and settle permanently in the Americas."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-007",
+  "source_stimulus_words": 29,
+  "stem": "Over the century after this engraving was made, the Sami people most likely",
+  "stimulus": "[Engraving: A Sami man in a heavy fur coat and cap stands in a mountainous landscape, holding the reins of a reindeer. The animal carries large cloth pack-bundles strapped to its back. Caption: 'Reindeer and pack, with Lapp driver.' From a European travel account of northern Scandinavia, 1881.]",
+  "stimulus_words": 48,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Aguinaldo calls the Americans 'our redeemers' and urges Filipinos to rally to the American flag, expecting U.S. help against Spain. His disappointment came later, when Washington chose annexation instead — but in 1898 he was welcoming an ally.",
+  "id": "wh-barrons-t3-008",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Aguinaldo hoped for American help; immediate annexation was the outcome he did not yet foresee.",
+   "B": "Correct. 'They are our redeemers' shows he expected the Americans to help Filipinos win independence from Spain.",
+   "C": "Wrong. Nothing in the address asks for Spain's return; Aguinaldo is celebrating Spain's defeat.",
+   "D": "Wrong. He actively urges Filipinos to assemble where the American flag flies — the opposite of neutrality."
+  },
+  "options": [
+   "(A) would annex the islands immediately and rule them as a colony.",
+   "(B) would help Filipinos win independence from Spain.",
+   "(C) would restore Spanish authority over the Philippines.",
+   "(D) would stay neutral and sail home without intervening."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t3-008",
+  "source_stimulus_words": 177,
+  "stem": "Aguinaldo's address shows that Filipino leaders initially expected the United States to",
+  "stimulus": "Passage 1: 'Divine providence is about to place independence within our reach. The Americans have extended their protective mantle to our beloved country. Where you see the American flag flying, assemble in numbers; they are our redeemers.' —Emilio Aguinaldo, address to Filipinos, 1898. Passage 2: 'We come not as invaders or conquerors, but as friends, to protect the natives... All persons who cooperate with the government of the United States will receive its support and protection. All others will be brought within the lawful rule we have assumed... The mission of the United States is one of benevolent assimilation.' —President William McKinley, proclamation on the Philippines, 1898",
+  "stimulus_words": 107,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Aguinaldo speaks of independence within reach; McKinley speaks of 'the lawful rule we have assumed' and 'benevolent assimilation' — the language of a government taking charge. The two men are describing different futures: liberation versus American administration.",
+  "id": "wh-barrons-t3-009",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. McKinley assumes the United States will govern the islands — 'the lawful rule we have assumed' — while Aguinaldo expects independence.",
+   "B": "Wrong. McKinley never declares Filipinos permanently incapable of self-government; he claims they need American tutelage.",
+   "C": "Wrong. McKinley's whole proclamation replaces Spanish sovereignty with American authority.",
+   "D": "Wrong. 'Benevolent assimilation' is the opposite of immediate independence."
+  },
+  "options": [
+   "(A) the United States would exercise governing authority over the Philippines.",
+   "(B) Filipinos were permanently and inherently incapable of governing themselves under any circumstances.",
+   "(C) Spain would retain sovereignty over the islands.",
+   "(D) the United States would grant immediate and complete independence."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-009",
+  "source_stimulus_words": 177,
+  "stem": "McKinley's proclamation differs from Aguinaldo's address most importantly in assuming that",
+  "stimulus": "Passage 1: 'Divine providence is about to place independence within our reach. The Americans have extended their protective mantle to our beloved country. Where you see the American flag flying, assemble in numbers; they are our redeemers.' —Emilio Aguinaldo, address to Filipinos, 1898. Passage 2: 'We come not as invaders or conquerors, but as friends, to protect the natives... All persons who cooperate with the government of the United States will receive its support and protection. All others will be brought within the lawful rule we have assumed... The mission of the United States is one of benevolent assimilation.' —President William McKinley, proclamation on the Philippines, 1898",
+  "stimulus_words": 107,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Aguinaldo expected an ally; McKinley announced American rule. When Filipinos resisted annexation, the result was the Philippine-American War (1899-1902), a brutal conflict that killed hundreds of thousands of Filipinos. None of the peaceful outcomes occurred.",
+  "id": "wh-barrons-t3-010",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. No treaty made the Philippines a state; Congress explicitly ruled that out.",
+   "B": "Wrong. There was no Filipino-American alliance; the two sides fought each other from 1899 to 1902.",
+   "C": "Wrong. American forces stayed and fought; they did not withdraw in 1899.",
+   "D": "Correct. The mismatch between Filipino hopes and American annexation produced the Philippine-American War."
+  },
+  "options": [
+   "(A) A negotiated treaty making the Philippines a U.S. state.",
+   "(B) A military alliance of Filipino and American forces directed against the Empire of Japan.",
+   "(C) The peaceful withdrawal of all American forces in 1899.",
+   "(D) A bitter war between Filipino independence forces and the United States."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-010",
+  "source_stimulus_words": 177,
+  "stem": "The clash between the two positions expressed above led most directly to",
+  "stimulus": "Passage 1: 'Divine providence is about to place independence within our reach. The Americans have extended their protective mantle to our beloved country. Where you see the American flag flying, assemble in numbers; they are our redeemers.' —Emilio Aguinaldo, address to Filipinos, 1898. Passage 2: 'We come not as invaders or conquerors, but as friends, to protect the natives... All persons who cooperate with the government of the United States will receive its support and protection. All others will be brought within the lawful rule we have assumed... The mission of the United States is one of benevolent assimilation.' —President William McKinley, proclamation on the Philippines, 1898",
+  "stimulus_words": 107,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The United States defeated Spain in 1898 calling itself a liberator, then fought a colonial war to keep the Philippines. That contradiction sits uneasily with the American story of anti-colonial origins, so the episode gets little attention in popular memory.",
+  "id": "wh-barrons-t3-011",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The war lasted three years and involved heavy fighting and atrocities — it was not brief or bloodless.",
+   "B": "Correct. A colonial war of conquest clashes with America's self-image as an anti-colonial nation, encouraging neglect.",
+   "C": "Wrong. The United States won the war and annexed the islands; there was no defeat to hide.",
+   "D": "Wrong. Over 100,000 American soldiers served in the Philippines during the conflict."
+  },
+  "options": [
+   "(A) The conflict lasted only a few days, involved almost no real fighting, and was quickly forgotten by everyone.",
+   "(B) Americans prefer not to dwell on episodes in which the United States acted as a colonial power.",
+   "(C) The United States lost the war and erased it from textbooks out of shame.",
+   "(D) No American soldiers actually served in the conflict."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-011",
+  "source_stimulus_words": 177,
+  "stem": "The war that followed these proclamations is sometimes called America's 'forgotten war.' Which explanation for this neglect is most plausible?",
+  "stimulus": "Passage 1: 'Divine providence is about to place independence within our reach. The Americans have extended their protective mantle to our beloved country. Where you see the American flag flying, assemble in numbers; they are our redeemers.' —Emilio Aguinaldo, address to Filipinos, 1898. Passage 2: 'We come not as invaders or conquerors, but as friends, to protect the natives... All persons who cooperate with the government of the United States will receive its support and protection. All others will be brought within the lawful rule we have assumed... The mission of the United States is one of benevolent assimilation.' —President William McKinley, proclamation on the Philippines, 1898",
+  "stimulus_words": 107,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The header says 'per person' growth — each figure is the annual rate at which the average inhabitant's share of output grew, not the region's total production. Confusing per-capita growth with total output is the classic misreading of this kind of table.",
+  "id": "wh-barrons-t3-012",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Nothing in the table concerns population size or its growth; every column is about output.",
+   "B": "Wrong. The table measures production, not what governments spend.",
+   "C": "Correct. 'Per capita' means per person — the table tracks growth in each person's share of output, not total regional output.",
+   "D": "Wrong. No column shows exports minus imports; the table is about production growth."
+  },
+  "options": [
+   "(A) The figures show the growth of each region's population over time, not its economic output.",
+   "(B) The figures show government spending, not private production.",
+   "(C) The figures show growth in each person's share of output, not total output.",
+   "(D) The figures show trade balances between the regions."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-012",
+  "source_stimulus_words": 67,
+  "stem": "A student claims the table shows which regions produced the most total goods in each period. What is the flaw in this reading?",
+  "stimulus": "Annual growth of output per person (percent), by region — 1700–1820: World 0.1, Europe 0.1, Americas 0.4, Africa 0.0, Asia 0.0; 1820–1913: World 0.9, Europe 1.0, Americas 1.5, Africa 0.04, Asia 0.02; 1913–1950: World 0.9, Europe 0.9, Americas 1.4, Africa 0.9, Asia 0.2; 1950–1970: World 2.8, Europe 3.8, Americas 1.9, Africa 2.1, Asia 3.5; 1970–1990: World 1.3, Europe 1.9, Americas 1.6, Africa 0.3, Asia 2.1; 1990–2012: World 2.1, Europe 1.9, Americas 1.5, Africa 1.4, Asia 3.4. —Data adapted from Thomas Piketty, Capital in the Twenty-First Century, 2013",
+  "stimulus_words": 87,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Between 1820 and 1913 the United States industrialized at extraordinary speed — railroads, steel, and factories — and because the U.S. economy dominated the hemisphere, the whole region's per-person growth led the world. The other factors mattered, but none produced growth on this scale.",
+  "id": "wh-barrons-t3-013",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Independence movements were political events of the early 1800s; they did not by themselves generate a century of economic growth.",
+   "B": "Wrong. The gold rush was a brief, localized boom, not the engine of a century of hemispheric growth.",
+   "C": "Wrong. Immigration to Argentina was significant but small beside the industrial transformation of the United States.",
+   "D": "Correct. U.S. industrialization was so large and fast that it lifted the entire region's per-person growth rate above Europe's."
+  },
+  "options": [
+   "(A) The independence movements that freed Latin America from Spain and Portugal.",
+   "(B) The California gold rush of 1849.",
+   "(C) European immigration to Argentina and southern Brazil.",
+   "(D) Rapid industrialization in the United States."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-013",
+  "source_stimulus_words": 67,
+  "stem": "The Americas' strong per-person growth between 1820 and 1913 was driven above all by",
+  "stimulus": "Annual growth of output per person (percent), by region — 1700–1820: World 0.1, Europe 0.1, Americas 0.4, Africa 0.0, Asia 0.0; 1820–1913: World 0.9, Europe 1.0, Americas 1.5, Africa 0.04, Asia 0.02; 1913–1950: World 0.9, Europe 0.9, Americas 1.4, Africa 0.9, Asia 0.2; 1950–1970: World 2.8, Europe 3.8, Americas 1.9, Africa 2.1, Asia 3.5; 1970–1990: World 1.3, Europe 1.9, Americas 1.6, Africa 0.3, Asia 2.1; 1990–2012: World 2.1, Europe 1.9, Americas 1.5, Africa 1.4, Asia 3.4. —Data adapted from Thomas Piketty, Capital in the Twenty-First Century, 2013",
+  "stimulus_words": 87,
+  "themes": [
+   "ECN",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Europe's 1913-1950 rate was depressed by two world wars fought on its soil; the 1950-1970 surge is the rebound — factories rebuilt, trade restored, and in the west, Marshall Plan aid accelerating recovery. Growth looks spectacular partly because it started from rubble.",
+  "id": "wh-barrons-t3-014",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Steam power belongs to the 1700s and early 1800s — a century too early to explain a post-1950 surge.",
+   "B": "Wrong. Supplying wars enriched some firms, but wartime destruction of European industry is what the 1913–1950 figures reflect.",
+   "C": "Correct. Postwar reconstruction from wartime devastation produced the fastest growth in European history.",
+   "D": "Wrong. Military spending was a cost, not the source of the boom, and the arms race centered on the superpowers."
+  },
+  "options": [
+   "(A) The adoption of steam power during the Industrial Revolution.",
+   "(B) Profits earned from supplying both world wars.",
+   "(C) Reconstruction of economies devastated by World War II.",
+   "(D) Spending on the nuclear arms race."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-014",
+  "source_stimulus_words": 67,
+  "stem": "Europe's growth rate more than quadrupled between the 1913–1950 period and the 1950–1970 period. This surge is best explained by",
+  "stimulus": "Annual growth of output per person (percent), by region — 1700–1820: World 0.1, Europe 0.1, Americas 0.4, Africa 0.0, Asia 0.0; 1820–1913: World 0.9, Europe 1.0, Americas 1.5, Africa 0.04, Asia 0.02; 1913–1950: World 0.9, Europe 0.9, Americas 1.4, Africa 0.9, Asia 0.2; 1950–1970: World 2.8, Europe 3.8, Americas 1.9, Africa 2.1, Asia 3.5; 1970–1990: World 1.3, Europe 1.9, Americas 1.6, Africa 0.3, Asia 2.1; 1990–2012: World 2.1, Europe 1.9, Americas 1.5, Africa 1.4, Asia 3.4. —Data adapted from Thomas Piketty, Capital in the Twenty-First Century, 2013",
+  "stimulus_words": 87,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "From 1950 on, Asia's row beats the world average in every period — 3.5 vs 2.8, then 2.1 vs 1.3, then 3.4 vs 2.1. That is Japan's postwar boom, the Asian 'tigers,' and then China and India industrializing. The numbers show modernization, whatever the political system.",
+  "id": "wh-barrons-t3-015",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Asia outgrew the world average in every period after 1950 — the statistical signature of rapid industrialization.",
+   "B": "Wrong. The table shows Asia growing fastest of all regions after 1950, including under communist governments.",
+   "C": "Wrong. Per-person output still rose strongly, so population growth clearly did not make gains impossible.",
+   "D": "Wrong. Africa's figures trail Asia's in every period shown here."
+  },
+  "options": [
+   "(A) Asian economies industrialized and grew faster than the world average after 1950.",
+   "(B) Communist rule prevented any real or sustained economic growth anywhere in Asia after 1950.",
+   "(C) Asia's rapid population growth made per-person gains impossible.",
+   "(D) Africa consistently outperformed Asia in every period shown."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-015",
+  "source_stimulus_words": 67,
+  "stem": "Which conclusion about Asia is best supported by the rows for 1950–2012?",
+  "stimulus": "Annual growth of output per person (percent), by region — 1700–1820: World 0.1, Europe 0.1, Americas 0.4, Africa 0.0, Asia 0.0; 1820–1913: World 0.9, Europe 1.0, Americas 1.5, Africa 0.04, Asia 0.02; 1913–1950: World 0.9, Europe 0.9, Americas 1.4, Africa 0.9, Asia 0.2; 1950–1970: World 2.8, Europe 3.8, Americas 1.9, Africa 2.1, Asia 3.5; 1970–1990: World 1.3, Europe 1.9, Americas 1.6, Africa 0.3, Asia 2.1; 1990–2012: World 2.1, Europe 1.9, Americas 1.5, Africa 1.4, Asia 3.4. —Data adapted from Thomas Piketty, Capital in the Twenty-First Century, 2013",
+  "stimulus_words": 87,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Samarkand, Bukhara, and Transoxiana fell to the Mongols around 1220, in the first great wave of conquest led by Genghis Khan. Timur campaigned in the same region but nearly two centuries later; the Crusades and the Ottoman capture of Constantinople belong to different places and times.",
+  "id": "wh-barrons-t3-016",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Timur's campaigns came around 1400, almost two centuries after Ibn al-Athir wrote.",
+   "B": "Correct. The cities, the date, and the direction of attack all match Genghis Khan's conquest of Central Asia.",
+   "C": "Wrong. The Crusades were fought in the Levant and Anatolia, not in Transoxiana.",
+   "D": "Wrong. Constantinople fell to the Ottomans in 1453 — a different conqueror, place, and century."
+  },
+  "options": [
+   "(A) The campaigns of Timur in Central Asia.",
+   "(B) The early Mongol conquests under Genghis Khan.",
+   "(C) The Crusader sieges of fortified Middle Eastern cities like Antioch and Jerusalem.",
+   "(D) The Ottoman conquest of Constantinople."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-016",
+  "source_stimulus_words": 267,
+  "stem": "The campaign described in the passage is best identified as",
+  "stimulus": "These Tatars spared no one, killing men, women, and children. They emerged from beyond China and fell upon the cities of Turkestan and Transoxiana — Samarkand and Bukhara — destroying, killing, and plundering, until the survivors fled to the mountains and abandoned their country, all in the briefest time. They need no supply trains, for they drive sheep, cattle, and horses with them and eat their flesh. They worship the sun at its rising and hold nothing forbidden. —Muslim historian Ibn al-Athir, describing the Mongol armies, ca. 1220",
+  "stimulus_words": 88,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 2
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Ibn al-Athir lived in Mosul, far from the steppe; his lurid details about sun worship and marriage customs read like travelers' tales amplified by terror. A historian can trust him on the invasion's scale but should verify the ethnographic claims against other evidence.",
+  "id": "wh-barrons-t3-017",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Ibn al-Athir was a Muslim scholar in Mesopotamia, horrified by the invaders — not one of them.",
+   "B": "Wrong. He wrote around 1220, as the events unfolded — not centuries later.",
+   "C": "Wrong. He did not invent the invasion; the Mongol conquest of Transoxiana is confirmed by many sources.",
+   "D": "Correct. The sensational customs read as secondhand rumors, so they need corroboration before being trusted."
+  },
+  "options": [
+   "(A) He was himself a Mongol soldier describing his own people from the inside.",
+   "(B) He was writing more than three hundred years after the events he describes, relying on much later chronicles.",
+   "(C) He invented the entire account as a work of fiction.",
+   "(D) He was likely repeating alarming stories he had heard rather than things he had seen himself."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t3-017",
+  "source_stimulus_words": 267,
+  "stem": "A historian citing this passage for details of Mongol customs should treat those details cautiously, because the author was most likely",
+  "stimulus": "These Tatars spared no one, killing men, women, and children. They emerged from beyond China and fell upon the cities of Turkestan and Transoxiana — Samarkand and Bukhara — destroying, killing, and plundering, until the survivors fled to the mountains and abandoned their country, all in the briefest time. They need no supply trains, for they drive sheep, cattle, and horses with them and eat their flesh. They worship the sun at its rising and hold nothing forbidden. —Muslim historian Ibn al-Athir, describing the Mongol armies, ca. 1220",
+  "stimulus_words": 88,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 2
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Around 1220 the Crusader states still held coastal strongholds in the Levant, and new crusades were being preached — the Fifth Crusade was underway. For a Muslim scholar in Mosul, the Franks in Syria-Palestine were the other great military preoccupation of the age.",
+  "id": "wh-barrons-t3-018",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Reformation began in 1517, three centuries after Ibn al-Athir wrote.",
+   "B": "Correct. Crusader armies remained active in the Levant throughout the 1200s, on Mosul's doorstep.",
+   "C": "Wrong. Constantinople fell to the Ottomans in 1453, over two centuries later.",
+   "D": "Wrong. The Mongol invasions of Japan came in 1274 and 1281, decades after this account."
+  },
+  "options": [
+   "(A) The Protestant Reformation spreading across Europe.",
+   "(B) The ongoing Crusades in the Levant.",
+   "(C) The fall of Constantinople to the Ottoman Turks.",
+   "(D) The Mongol invasions of Japan."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-018",
+  "source_stimulus_words": 267,
+  "stem": "Around 1220, a resident of Mosul like Ibn al-Athir would also have been watching with concern",
+  "stimulus": "These Tatars spared no one, killing men, women, and children. They emerged from beyond China and fell upon the cities of Turkestan and Transoxiana — Samarkand and Bukhara — destroying, killing, and plundering, until the survivors fled to the mountains and abandoned their country, all in the briefest time. They need no supply trains, for they drive sheep, cattle, and horses with them and eat their flesh. They worship the sun at its rising and hold nothing forbidden. —Muslim historian Ibn al-Athir, describing the Mongol armies, ca. 1220",
+  "stimulus_words": 88,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 2
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The invasion Ibn al-Athir witnessed kept rolling west. In 1258 Hülegü's Mongol army stormed Baghdad, executed the last Abbasid caliph, and ended a caliphate that had lasted five centuries — the catastrophe he had feared.",
+  "id": "wh-barrons-t3-019",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. In 1258 the Mongols sacked Baghdad and extinguished the Abbasid Caliphate.",
+   "B": "Wrong. The Caliphate did not repel the Mongols; Baghdad fell after a brief siege.",
+   "C": "Wrong. The Mamluks stopped the Mongols at Ain Jalut in 1260, but they never took Baghdad.",
+   "D": "Wrong. No Crusader army ever captured Baghdad, with or without Mongol help."
+  },
+  "options": [
+   "(A) Mongol armies sacked Baghdad and brought down the Abbasid Caliphate.",
+   "(B) The Abbasid Caliphate decisively repelled the Mongol invasion and drove the invaders back across the Oxus.",
+   "(C) Mamluk armies from Egypt conquered Baghdad for themselves.",
+   "(D) European Crusaders captured Baghdad with Mongol assistance."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-019",
+  "source_stimulus_words": 267,
+  "stem": "Within four decades of this account, the storm Ibn al-Athir described reached his own region when",
+  "stimulus": "These Tatars spared no one, killing men, women, and children. They emerged from beyond China and fell upon the cities of Turkestan and Transoxiana — Samarkand and Bukhara — destroying, killing, and plundering, until the survivors fled to the mountains and abandoned their country, all in the briefest time. They need no supply trains, for they drive sheep, cattle, and horses with them and eat their flesh. They worship the sun at its rising and hold nothing forbidden. —Muslim historian Ibn al-Athir, describing the Mongol armies, ca. 1220",
+  "stimulus_words": 88,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 2
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The stamp celebrates an artificial satellite and the photograph shows a ballistic missile — both are rockets, devices that travel by expelling exhaust. The other fields are real 20th-century innovations, but neither image belongs to them.",
+  "id": "wh-barrons-t3-020",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Neither image shows an airplane or anything related to passenger flight.",
+   "B": "Wrong. No laboratory, reactor, or fission research appears in either image.",
+   "C": "Correct. A satellite launcher and a ballistic missile are both applications of rocketry.",
+   "D": "Wrong. Undersea cables have nothing to do with either a satellite or a missile."
+  },
+  "options": [
+   "(A) Commercial aviation.",
+   "(B) Nuclear fission research.",
+   "(C) Rocketry.",
+   "(D) Undersea cable telegraphy."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-020",
+  "source_stimulus_words": 26,
+  "stem": "The technology celebrated in the first image and displayed in the second belongs to the field of",
+  "stimulus": "[Image 1: A Soviet postage stamp dated 4 October 1957 showing the globe with a satellite's looping orbit circling it; Russian text reads 'First in the world: Soviet artificial satellite of the Earth.' Image 2: A black-and-white photograph of a tall U.S. Air Force ballistic missile standing on a launch pad, 1958.]",
+  "stimulus_words": 52,
+  "themes": [
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "A Soviet satellite stamp and an American missile photograph, dated a year apart, are two sides of the same contest: each superpower advertising its technological might to intimidate the other. That is Cold War competition in visual form.",
+  "id": "wh-barrons-t3-021",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. In 1957–58 the space programs were rival showcases, not cooperative ventures.",
+   "B": "Correct. The paired images are propaganda of superpower rivalry — the space race as Cold War by other means.",
+   "C": "Wrong. Neither image concerns colonies or decolonization.",
+   "D": "Wrong. The nonaligned movement is nowhere in evidence here; both images are superpower self-promotion."
+  },
+  "options": [
+   "(A) Scientific cooperation and open sharing of research between the two superpowers.",
+   "(B) Cold War rivalry expressed through technological competition.",
+   "(C) The decline of European colonial empires.",
+   "(D) The rise of the nonaligned movement."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-021",
+  "source_stimulus_words": 26,
+  "stem": "A historian would most usefully pair these two images to illustrate",
+  "stimulus": "[Image 1: A Soviet postage stamp dated 4 October 1957 showing the globe with a satellite's looping orbit circling it; Russian text reads 'First in the world: Soviet artificial satellite of the Earth.' Image 2: A black-and-white photograph of a tall U.S. Air Force ballistic missile standing on a launch pad, 1958.]",
+  "stimulus_words": 52,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Sputnik itself was harmless, but the rocket that lifted it proved the USSR could loft heavy payloads across continents. Americans did the math: a rocket that can orbit a satellite can deliver a warhead to Chicago.",
+  "id": "wh-barrons-t3-022",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. No human had yet flown in space in 1957; Gagarin's flight came in 1961.",
+   "B": "Wrong. No nation has ever lodged a recognized territorial claim to outer space.",
+   "C": "Wrong. The American economy remained far larger than the Soviet one throughout the Cold War.",
+   "D": "Correct. The demonstrated rocket capability implied Soviet missiles could reach the American homeland."
+  },
+  "options": [
+   "(A) The Soviet Union had already landed cosmonauts on the moon.",
+   "(B) The Soviets had claimed legal ownership of outer space.",
+   "(C) The American economy had fallen permanently behind the Soviet one.",
+   "(D) Soviet rockets could one day deliver weapons to American soil."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-022",
+  "source_stimulus_words": 26,
+  "stem": "The 1957 event commemorated on the stamp alarmed American leaders chiefly because it suggested that",
+  "stimulus": "[Image 1: A Soviet postage stamp dated 4 October 1957 showing the globe with a satellite's looping orbit circling it; Russian text reads 'First in the world: Soviet artificial satellite of the Earth.' Image 2: A black-and-white photograph of a tall U.S. Air Force ballistic missile standing on a launch pad, 1958.]",
+  "stimulus_words": 52,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The missile-and-satellite rivalry of the late 1950s matured into decades of nuclear standoff, then wound down through arms-control treaties and the Soviet collapse of 1991. The other options contradict the record: only Americans walked on the moon, the programs competed for decades, and several other states built nuclear arsenals.",
+  "id": "wh-barrons-t3-023",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The superpowers competed fiercely in space for decades before cooperating.",
+   "B": "Correct. The arms race that these images announce eventually ended with treaties and the Cold War's close.",
+   "C": "Wrong. Only the United States has landed crews on the moon; the USSR never did.",
+   "D": "Wrong. Britain, France, China, and others developed nuclear weapons too."
+  },
+  "options": [
+   "(A) The two superpowers merged their rival space programs into a single jointly administered agency.",
+   "(B) Arms-control agreements and the end of the Cold War wound down the nuclear standoff.",
+   "(C) A Soviet crew became the first humans to land on the moon.",
+   "(D) Nuclear weapons remained forever limited to the United States and the USSR."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-023",
+  "source_stimulus_words": 26,
+  "stem": "Which later development best completes the story these images begin?",
+  "stimulus": "[Image 1: A Soviet postage stamp dated 4 October 1957 showing the globe with a satellite's looping orbit circling it; Russian text reads 'First in the world: Soviet artificial satellite of the Earth.' Image 2: A black-and-white photograph of a tall U.S. Air Force ballistic missile standing on a launch pad, 1958.]",
+  "stimulus_words": 52,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Durant claims religion saturated medieval life, while the monks' own song shows them drinking heartily in taverns. Together they depict a society where Christianity was central yet imperfectly obeyed — devotion mixed with ordinary human appetites.",
+  "id": "wh-barrons-t3-024",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The passages together show a deeply religious culture in which even monks fell short of the ideal.",
+   "B": "Wrong. Durant's whole point is that faith was pervasive, and the monks were still monks, not unbelievers.",
+   "C": "Wrong. Protestantism arose in the 1500s, two centuries after the Goliard song.",
+   "D": "Wrong. The tavern song proves the Church had not stamped out worldly pleasures, even among clergy."
+  },
+  "options": [
+   "(A) Christianity's deep but uneven hold on everyday life.",
+   "(B) The complete disappearance of religious belief among ordinary people.",
+   "(C) Protestant attacks on the authority of the Catholic Church.",
+   "(D) The Church's total success in banning all worldly pleasures."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-024",
+  "source_stimulus_words": 147,
+  "stem": "Taken together, the two passages best illustrate which feature of medieval European culture?",
+  "stimulus": "Passage 1: No feature of the Middle Ages is more striking than the all-pervading presence of religion. The age needed a faith that could balance suffering with hope and give meaning to lives of hard labor. It was an age intoxicated with God. —Paraphrased from historian Will Durant, The Age of Faith, 1950. Passage 2: 'When we are in the tavern, we do not think about turning to dust; we hurry to enjoy ourselves... The mistress drinks, the master drinks too, the soldier drinks, and the priest... The sister drinks, the brother drinks — a hundred drink, a thousand drink.' —'In the Tavern,' song of the Goliard monks, ca. 1300",
+  "stimulus_words": 110,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The singers identify priests drinking alongside everyone else — they have not left the Church, but they are plainly ignoring its rules about clerical behavior. The song is evidence of imperfect discipline, not of unbelief or rebellion.",
+  "id": "wh-barrons-t3-025",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The song never suggests the monks stopped being Christians; they drank, they did not preach heresy.",
+   "B": "Wrong. Alcohol flowed freely in medieval Europe, taverns included — the song celebrates it.",
+   "C": "Correct. Priests carousing in taverns show religious men embracing worldly pleasures despite Church teaching.",
+   "D": "Wrong. The song dates to about 1300, two centuries before Luther."
+  },
+  "options": [
+   "(A) Medieval monks had secretly abandoned Christianity altogether and become unbelievers.",
+   "(B) Ordinary medieval people never drank alcohol.",
+   "(C) Even men in religious orders sometimes embraced worldly pleasures.",
+   "(D) The song was composed by Protestant reformers attacking Rome."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-025",
+  "source_stimulus_words": 147,
+  "stem": "The tavern song complicates Durant's portrait by demonstrating that",
+  "stimulus": "Passage 1: No feature of the Middle Ages is more striking than the all-pervading presence of religion. The age needed a faith that could balance suffering with hope and give meaning to lives of hard labor. It was an age intoxicated with God. —Paraphrased from historian Will Durant, The Age of Faith, 1950. Passage 2: 'When we are in the tavern, we do not think about turning to dust; we hurry to enjoy ourselves... The mistress drinks, the master drinks too, the soldier drinks, and the priest... The sister drinks, the brother drinks — a hundred drink, a thousand drink.' —'In the Tavern,' song of the Goliard monks, ca. 1300",
+  "stimulus_words": 110,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Durant generalizes about what 'the age' believed, but the vast majority of medieval people were illiterate peasants who wrote nothing down. Church records tell us what clergy preached and recorded, not what ordinary people inwardly believed.",
+  "id": "wh-barrons-t3-026",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Medieval churches and monasteries were the great record-keepers of the age.",
+   "B": "Wrong. The printing press arrived in the mid-1400s and did not make peasants literate.",
+   "C": "Wrong. Protestantism emerged in the 1500s, after the Middle Ages had ended.",
+   "D": "Correct. With no written testimony from the illiterate majority, claims about universal belief rest on shaky ground."
+  },
+  "options": [
+   "(A) Medieval churches kept no written records of any kind.",
+   "(B) The printing press had already made the entire medieval population of Europe fully literate.",
+   "(C) Most medieval Europeans were secretly Protestants.",
+   "(D) Most medieval Europeans left no written record of what they actually believed."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t3-026",
+  "source_stimulus_words": 147,
+  "stem": "The most serious weakness in Durant's sweeping claim about a 'God-intoxicated age' is that",
+  "stimulus": "Passage 1: No feature of the Middle Ages is more striking than the all-pervading presence of religion. The age needed a faith that could balance suffering with hope and give meaning to lives of hard labor. It was an age intoxicated with God. —Paraphrased from historian Will Durant, The Age of Faith, 1950. Passage 2: 'When we are in the tavern, we do not think about turning to dust; we hurry to enjoy ourselves... The mistress drinks, the master drinks too, the soldier drinks, and the priest... The sister drinks, the brother drinks — a hundred drink, a thousand drink.' —'In the Tavern,' song of the Goliard monks, ca. 1300",
+  "stimulus_words": 110,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Goliards were young scholar-clerics — educated men in minor orders who wrote Latin verse. Their drinking songs show them sampling tavern life, which the Church condemned, while remaining within the clerical world. They were neither peasants nor reformers.",
+  "id": "wh-barrons-t3-027",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The song is in Latin and full of clerical references — the work of educated churchmen, not farmers.",
+   "B": "Correct. The Goliards were clerics whose own verses admit they enjoyed earthly pleasures the Church disapproved of.",
+   "C": "Wrong. Nothing in the song attacks Catholic doctrine or calls for reform; it is a drinking song, not a manifesto.",
+   "D": "Wrong. The Goliards flourished around 1300, centuries before the Reformation."
+  },
+  "options": [
+   "(A) They were poor, illiterate peasant farmers with no formal education of any kind.",
+   "(B) They were clerics who enjoyed earthly pleasures despite Church disapproval.",
+   "(C) They were leaders of the Protestant Reformation.",
+   "(D) They were Muslim scholars writing in Arabic."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t3-027",
+  "source_stimulus_words": 147,
+  "stem": "Which conclusion about the Goliards is best supported by their song?",
+  "stimulus": "Passage 1: No feature of the Middle Ages is more striking than the all-pervading presence of religion. The age needed a faith that could balance suffering with hope and give meaning to lives of hard labor. It was an age intoxicated with God. —Paraphrased from historian Will Durant, The Age of Faith, 1950. Passage 2: 'When we are in the tavern, we do not think about turning to dust; we hurry to enjoy ourselves... The mistress drinks, the master drinks too, the soldier drinks, and the priest... The sister drinks, the brother drinks — a hundred drink, a thousand drink.' —'In the Tavern,' song of the Goliard monks, ca. 1300",
+  "stimulus_words": 110,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In the 1500s, gunpowder weapons invented in China spread across Afro-Eurasia: Ottoman infantry carried muskets, and Japanese soldiers used Portuguese-introduced matchlocks. Two images from opposite ends of Asia showing the same weapon type is technology transfer made visible.",
+  "id": "wh-barrons-t3-028",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Muskets in both Ottoman and Japanese hands show gunpowder technology spreading across Asia in the 1500s.",
+   "B": "Wrong. Neither image concerns religion; the soldiers' faiths are not depicted or discussed.",
+   "C": "Wrong. Both images celebrate infantry with firearms — infantry was rising, not declining, and no elephants appear.",
+   "D": "Wrong. Japan was never conquered by Europeans; the Portuguese sold weapons there but did not rule."
+  },
+  "options": [
+   "(A) The worldwide spread of gunpowder weaponry.",
+   "(B) The spread of Christianity across Asia.",
+   "(C) The decline of infantry in favor of war elephants.",
+   "(D) The European conquest of Japan."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t3-028",
+  "source_stimulus_words": 23,
+  "stem": "Pairing an Ottoman woodcut with a Japanese painting of musketeers best illustrates which development of the 1500s?",
+  "stimulus": "[Image 1: A 1577 woodcut of an Ottoman janissary — a mustached infantryman in a tall cap, carrying a long musket over his shoulder and holding a burning match cord. Image 2: A Japanese painting from the late 1500s showing two soldiers in robes aiming long matchlock muskets.]",
+  "stimulus_words": 48,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The janissaries were the Ottoman sultan's standing infantry, recruited through the devshirme system and among the first troops anywhere to drill with muskets. The match cord in the woodcut is the signature of an early firearm infantryman, not a horseman.",
+  "id": "wh-barrons-t3-029",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The figure is on foot with a musket; Ottoman cavalry (sipahis) were a separate, horse-mounted force.",
+   "B": "Wrong. Heavily armored knights on horseback describe medieval Europe, not an Ottoman musketeer.",
+   "C": "Correct. The janissaries were a professional standing infantry, early adopters of musket warfare.",
+   "D": "Wrong. Janissaries were permanent, salaried troops — the opposite of short-term tribal levies."
+  },
+  "options": [
+   "(A) Relying on heavily armored knights fighting on horseback in the medieval European fashion.",
+   "(B) Refusing to adopt any gunpowder weapons at all.",
+   "(C) Fielding a professional standing infantry equipped with the newest firearms.",
+   "(D) Hiring only short-term tribal levies for each campaign."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-029",
+  "source_stimulus_words": 23,
+  "stem": "The janissary's musket and match cord reflect the Ottomans' practice of",
+  "stimulus": "[Image 1: A 1577 woodcut of an Ottoman janissary — a mustached infantryman in a tall cap, carrying a long musket over his shoulder and holding a burning match cord. Image 2: A Japanese painting from the late 1500s showing two soldiers in robes aiming long matchlock muskets.]",
+  "stimulus_words": 48,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "After unifying Japan, the Tokugawa shogunate saw firearms as a threat to the samurai-dominated order and clamped down: production was restricted and guns were kept from commoners and rival lords. Restriction preserved peace — it did not mean the weapons vanished or had failed.",
+  "id": "wh-barrons-t3-030",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The shogunate did the opposite, keeping firearms out of peasant hands to protect the social hierarchy.",
+   "B": "Correct. Tokugawa authorities tightly restricted gun manufacture and ownership to preserve order.",
+   "C": "Wrong. Japan exported almost no firearms; the policy was inward-looking control, not arms dealing.",
+   "D": "Wrong. Matchlocks had been devastatingly effective in Japan's civil wars; that effectiveness is why they were controlled."
+  },
+  "options": [
+   "(A) Handing them out freely to peasant villages.",
+   "(B) Restricting them tightly to preserve the social order.",
+   "(C) Exporting them in large numbers to Europe.",
+   "(D) Melting them all down because they had proved useless in battle."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-030",
+  "source_stimulus_words": 23,
+  "stem": "After Japan's unification around 1600, the Tokugawa shogunate dealt with firearms by",
+  "stimulus": "[Image 1: A 1577 woodcut of an Ottoman janissary — a mustached infantryman in a tall cap, carrying a long musket over his shoulder and holding a burning match cord. Image 2: A Japanese painting from the late 1500s showing two soldiers in robes aiming long matchlock muskets.]",
+  "stimulus_words": 48,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The disease argument does not deny that guns existed — it claims they mattered less than epidemics. Schmidel pushes back with a vivid battlefield scene: gunfire alone routing warriors who had never seen firearms. It complicates the disease thesis without disproving it.",
+  "id": "wh-barrons-t3-031",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Schmidel describes taking captives as slaves but never discusses converting anyone to Christianity.",
+   "B": "Wrong. Schmidel says nothing about disease at all, so he cannot prove anything about it.",
+   "C": "Wrong. The passage centers on 'brass pieces' — firearms — doing exactly what the disease thesis downplays.",
+   "D": "Correct. His account of the shock effect of gunfire challenges the claim that weapons were secondary."
+  },
+  "options": [
+   "(A) Describing Spanish missionaries peacefully converting the Carios to Catholicism.",
+   "(B) Proving that no Indigenous people died of European diseases.",
+   "(C) Showing that the Spanish conquered without using firearms.",
+   "(D) Vividly describing the terror that Spanish gunfire inspired in battle."
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "source_id": "barrons-tests-t3-031",
+  "source_stimulus_words": 329,
+  "stem": "Some historians argue that epidemic disease, more than Spanish weapons, decided the conquest of the Americas. Schmidel's account complicates that argument by",
+  "stimulus": "Passage 1: 'When we came nearer to them, we discharged our brass pieces against them. When they heard the noise, and saw so many men fall down dead — with neither bullets nor arrows to be seen, but only holes in their bodies — they wondered with astonishment and, horribly terrified, fled in troops... We brought into subjection about twelve thousand men, women, and children, who were compelled to serve us as bond-slaves.' —Ulrich Schmidel, on the Spanish conquest of Paraguay, 1537–1540. Passage 2: 'The Mexicans sacrificed only captives taken in war... They opened the stomach of the victim, tore out his heart while half alive, and tumbled the body down the temple stairs, which ran with blood. Forty or fifty were sacrificed at a time.' —José de Acosta on Aztec rites, ca. 1520",
+  "stimulus_words": 134,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Acosta was a Spanish Jesuit writing about rituals he learned of secondhand; his lurid precision ('tore out his heart while half alive') comes from reports, not attendance. Secondhand testimony can still be useful, but it is the clearest limit on the passage.",
+  "id": "wh-barrons-t3-032",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Acosta describes ceremonies he never witnessed himself, so his details rest on hearsay.",
+   "B": "Wrong. Acosta was a Spanish Jesuit who wrote in Spanish, not a Nahuatl-speaking Aztec priest.",
+   "C": "Wrong. His tone is condemnatory, not admiring; he presents the rites as evidence of pagan darkness.",
+   "D": "Wrong. Acosta spent years in Peru and Mexico but as a missionary and administrator, not as a participant in Aztec rites."
+  },
+  "options": [
+   "(A) Acosta never personally witnessed the rites he describes.",
+   "(B) Acosta wrote in the Nahuatl language as an Aztec priest.",
+   "(C) Acosta openly admired and praised the sacrifices.",
+   "(D) Acosta lived among the Aztecs for most of his life as one of them."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t3-032",
+  "source_stimulus_words": 329,
+  "stem": "The most serious limitation of Acosta's passage as evidence about Aztec religion is that",
+  "stimulus": "Passage 1: 'When we came nearer to them, we discharged our brass pieces against them. When they heard the noise, and saw so many men fall down dead — with neither bullets nor arrows to be seen, but only holes in their bodies — they wondered with astonishment and, horribly terrified, fled in troops... We brought into subjection about twelve thousand men, women, and children, who were compelled to serve us as bond-slaves.' —Ulrich Schmidel, on the Spanish conquest of Paraguay, 1537–1540. Passage 2: 'The Mexicans sacrificed only captives taken in war... They opened the stomach of the victim, tore out his heart while half alive, and tumbled the body down the temple stairs, which ran with blood. Forty or fifty were sacrificed at a time.' —José de Acosta on Aztec rites, ca. 1520",
+  "stimulus_words": 134,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Both writers were agents or allies of Spanish expansion, and both paint Indigenous peoples as savage — man-eaters in Paraguay, mass human sacrificers in Mexico. Such portraits reassured European readers that conquest was a civilizing mission, whether or not the authors stated it outright.",
+  "id": "wh-barrons-t3-033",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Neither passage suggests Europeans should adopt Indigenous religions; both treat them as barbaric.",
+   "B": "Wrong. Neither author argues for Indigenous independence; Schmidel boasts of enslaving twelve thousand.",
+   "C": "Correct. Depicting natives as savage made Spanish domination look justified to European audiences.",
+   "D": "Wrong. The passages celebrate Spanish military success; they do not call for ending European warfare."
+  },
+  "options": [
+   "(A) Convert to Indigenous religions.",
+   "(B) Demand independence for Indigenous nations.",
+   "(C) See the Spanish conquest as justified.",
+   "(D) Call for an end to all European warfare."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Argumentation",
+  "source_id": "barrons-tests-t3-033",
+  "source_stimulus_words": 329,
+  "stem": "Both passages describe Indigenous peoples in terms that would have helped Spanish readers",
+  "stimulus": "Passage 1: 'When we came nearer to them, we discharged our brass pieces against them. When they heard the noise, and saw so many men fall down dead — with neither bullets nor arrows to be seen, but only holes in their bodies — they wondered with astonishment and, horribly terrified, fled in troops... We brought into subjection about twelve thousand men, women, and children, who were compelled to serve us as bond-slaves.' —Ulrich Schmidel, on the Spanish conquest of Paraguay, 1537–1540. Passage 2: 'The Mexicans sacrificed only captives taken in war... They opened the stomach of the victim, tore out his heart while half alive, and tumbled the body down the temple stairs, which ran with blood. Forty or fifty were sacrificed at a time.' —José de Acosta on Aztec rites, ca. 1520",
+  "stimulus_words": 134,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The passage glorifies a unique Japanese national essence centered on a divine emperor and blames Western borrowing for social decay. That combination — extreme devotion to the nation, its traditions, and its ruler — is ultranationalism, the ideology of 1930s militarist Japan.",
+  "id": "wh-barrons-t3-034",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Nothing here criticizes private property or calls for workers to seize power; the passage defends hierarchy.",
+   "B": "Correct. The cult of the emperor and Japan's unique destiny is textbook ultranationalism.",
+   "C": "Wrong. The passage denounces Western institutions rather than praising elections and individual rights.",
+   "D": "Wrong. This is a militant, inward-looking creed — the opposite of pacifist internationalism."
+  },
+  "options": [
+   "(A) Marxism, with its call for industrial workers to violently overthrow their rulers.",
+   "(B) Ultranationalism, glorifying Japan's unique essence and divine emperor.",
+   "(C) Liberal democracy, praising elections and individual rights.",
+   "(D) Pacifist internationalism, urging cooperation among nations."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-034",
+  "source_stimulus_words": 166,
+  "stem": "The ideology expressed in this passage is best described as",
+  "stimulus": "Japan's present ideological and social ills come from neglecting our foundations and chasing trivial things — from importing European and American learning, culture, and institutions too quickly since the Meiji era. Our country is centered on the emperor, descended from the sun goddess Amaterasu. The unbroken imperial line reigns eternally over Japan; this is our immutable national essence. All the people, united as one great family nation, must obey the imperial will and cultivate loyalty and filial piety. —Paraphrased from the Japanese Ministry of Education, Fundamentals of Our National Polity, 1937",
+  "stimulus_words": 91,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The passage opens by blaming Japan's ills on 'importing European and American learning, culture, and institutions too quickly' while neglecting native foundations. It assumes Japan already industrialized successfully — its complaint is cultural, not economic.",
+  "id": "wh-barrons-t3-035",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The passage explicitly blames hasty Western borrowing and neglected traditions for Japan's ills.",
+   "B": "Wrong. The text takes industrialization for granted; it never claims Japan industrialized too little.",
+   "C": "Wrong. No foreign invasion or occupation is mentioned; the threat described is cultural influence.",
+   "D": "Wrong. The passage exalts the emperor's authority; it does not complain that he has too little."
+  },
+  "options": [
+   "(A) Borrowed Western ideas too hastily while neglecting its own traditions.",
+   "(B) Failed to industrialize its economy and military.",
+   "(C) Suffered military invasion and long-term occupation by hostile foreign powers.",
+   "(D) Given the emperor too little real authority."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-035",
+  "source_stimulus_words": 166,
+  "stem": "According to the passage, the root of Japan's problems is that Japan has",
+  "stimulus": "Japan's present ideological and social ills come from neglecting our foundations and chasing trivial things — from importing European and American learning, culture, and institutions too quickly since the Meiji era. Our country is centered on the emperor, descended from the sun goddess Amaterasu. The unbroken imperial line reigns eternally over Japan; this is our immutable national essence. All the people, united as one great family nation, must obey the imperial will and cultivate loyalty and filial piety. —Paraphrased from the Japanese Ministry of Education, Fundamentals of Our National Polity, 1937",
+  "stimulus_words": 91,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The divine descent of the emperor is invoked to demand that 'all the people... obey the imperial will.' Religion here is a political tool: State Shinto supplied the sacred authority behind obedience to the regime.",
+  "id": "wh-barrons-t3-036",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The passage promotes the native imperial cult, not Buddhist meditation.",
+   "B": "Wrong. Toleration is nowhere in view; the passage demands unity around one national essence.",
+   "C": "Wrong. Nothing here separates religion from politics — it fuses them.",
+   "D": "Correct. The emperor's divine descent is used to legitimize obedience to the state."
+  },
+  "options": [
+   "(A) Promote Buddhist meditation practices and monastic withdrawal from the world.",
+   "(B) Encourage toleration of all faiths.",
+   "(C) Separate religion from political life.",
+   "(D) Legitimize obedience to the emperor and the state."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-036",
+  "source_stimulus_words": 166,
+  "stem": "In this passage, religious tradition is used chiefly to",
+  "stimulus": "Japan's present ideological and social ills come from neglecting our foundations and chasing trivial things — from importing European and American learning, culture, and institutions too quickly since the Meiji era. Our country is centered on the emperor, descended from the sun goddess Amaterasu. The unbroken imperial line reigns eternally over Japan; this is our immutable national essence. All the people, united as one great family nation, must obey the imperial will and cultivate loyalty and filial piety. —Paraphrased from the Japanese Ministry of Education, Fundamentals of Our National Polity, 1937",
+  "stimulus_words": 91,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The passage discusses Germany's war of extermination against the Herero people in its African colony — a colonial administration destroying an Indigenous population. That is colonial violence, whatever the legal debate surrounding it.",
+  "id": "wh-barrons-t3-037",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The German-Herero War of 1904–1907 predates the Cold War by half a century.",
+   "B": "Wrong. This was a European colonial army fighting an African people, not a medieval holy war.",
+   "C": "Correct. A colonial power's war of annihilation against an Indigenous people is colonial violence.",
+   "D": "Wrong. The Herero were fighting the German colonizers, not fighting a civil war after independence."
+  },
+  "options": [
+   "(A) A Cold War proxy conflict between the superpowers.",
+   "(B) A medieval religious war between Christians and Muslims.",
+   "(C) Colonial violence against an Indigenous people.",
+   "(D) A post-colonial civil war between rival African states."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-037",
+  "source_stimulus_words": 154,
+  "stem": "The events at the center of this argument are best understood as an example of",
+  "stimulus": "It is widely assumed that colonial wars of extermination against Indigenous peoples before 1948 broke no international law, because genocide was only criminalized by the 1948 UN Genocide Convention. On this view, wars of annihilation by colonial administrations — such as Germany's war against the Herero in 1904–1907 — were not illegal when they happened. But this overlooks the fact that by the late 1800s, certain genocidal acts were already unlawful under customary international law and multilateral treaties. —Paraphrased from Rachel Anderson, 'Redressing Colonial Genocide Under International Law,' 2005",
+  "stimulus_words": 89,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The author quotes the standard defense — 'genocide was only criminalized in 1948, so earlier colonial killings broke no law' — and then attacks it, arguing that prohibitions already existed in customary law and treaties. The whole article is a rebuttal of that ex-post-facto defense.",
+  "id": "wh-barrons-t3-038",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The author targets the claim that pre-1948 colonial killings cannot be judged as genocide.",
+   "B": "Wrong. The author never says the Convention legalized earlier wars; she argues earlier law already forbade such acts.",
+   "C": "Wrong. Germany's African colonies (including German South-West Africa) are central to the article.",
+   "D": "Wrong. The article is entirely about violence that did occur before 1948."
+  },
+  "options": [
+   "(A) Pre-1948 colonial killings cannot be called genocide, since the crime was legally undefined.",
+   "(B) The 1948 Convention retroactively legalized all earlier colonial wars.",
+   "(C) Germany never established colonies in Africa.",
+   "(D) No large-scale organized violence ever occurred anywhere in the world at any time before 1948."
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "source_id": "barrons-tests-t3-038",
+  "source_stimulus_words": 154,
+  "stem": "The common assumption the author is challenging holds that",
+  "stimulus": "It is widely assumed that colonial wars of extermination against Indigenous peoples before 1948 broke no international law, because genocide was only criminalized by the 1948 UN Genocide Convention. On this view, wars of annihilation by colonial administrations — such as Germany's war against the Herero in 1904–1907 — were not illegal when they happened. But this overlooks the fact that by the late 1800s, certain genocidal acts were already unlawful under customary international law and multilateral treaties. —Paraphrased from Rachel Anderson, 'Redressing Colonial Genocide Under International Law,' 2005",
+  "stimulus_words": 89,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The article's title speaks of 'redress' and a Herero 'cause of action against Germany' — legal language for seeking a remedy. In practice that means an official apology, compensation, or both for the descendants of victims, not punishment of ordinary citizens today.",
+  "id": "wh-barrons-t3-039",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The argument concerns moral and legal responsibility of the state, not criminal trials of individuals alive today.",
+   "B": "Correct. A successful legal argument would open the door to apologies and reparations for Herero descendants.",
+   "C": "Wrong. No one proposes restoring colonies; the remedy sought is redress, not recolonization.",
+   "D": "Wrong. The article argues research and law should engage more with colonial violence, not ban inquiry into it."
+  },
+  "options": [
+   "(A) Criminal trials for all present-day German citizens.",
+   "(B) Formal apologies or financial reparations for Herero descendants.",
+   "(C) The restoration of Germany's former African colonies to German administration.",
+   "(D) A ban on all historical research into colonialism."
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "source_id": "barrons-tests-t3-039",
+  "source_stimulus_words": 154,
+  "stem": "If courts accepted the author's argument, the most likely practical result would be",
+  "stimulus": "It is widely assumed that colonial wars of extermination against Indigenous peoples before 1948 broke no international law, because genocide was only criminalized by the 1948 UN Genocide Convention. On this view, wars of annihilation by colonial administrations — such as Germany's war against the Herero in 1904–1907 — were not illegal when they happened. But this overlooks the fact that by the late 1800s, certain genocidal acts were already unlawful under customary international law and multilateral treaties. —Paraphrased from Rachel Anderson, 'Redressing Colonial Genocide Under International Law,' 2005",
+  "stimulus_words": 89,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The painting shows workers dredging lake mud, weaving reed frames, and building rectangular plots — a massive, deliberate reshaping of the lake bed to create farmland. That is environmental transformation for food production on a grand scale.",
+  "id": "wh-barrons-t3-040",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The scene shows local farmers working their own plots; no imported grain is in evidence.",
+   "B": "Wrong. The workers are actively building farmland — the opposite of abandoning agriculture.",
+   "C": "Wrong. The entire painting is about producing food; hunting appears nowhere.",
+   "D": "Correct. Building chinampas meant transforming a lake into one of the most productive farm landscapes in the world."
+  },
+  "options": [
+   "(A) Its people depended on imported grain for survival.",
+   "(B) Its farmers had abandoned agriculture entirely in favor of hunting and gathering.",
+   "(C) Its cities produced no food and relied entirely on tribute.",
+   "(D) Its farmers reshaped the landscape on a large scale to grow food."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-040",
+  "source_stimulus_words": 20,
+  "stem": "The scene best illustrates which of the following about the society that created it?",
+  "stimulus": "[Painting: In the foreground, bare-chested workers pack mud and woven reeds to build rectangular raised planting beds in a shallow lake; canoes and canals surround them. Behind rise small temples, green hills, and rows of cultivated plots stretching to the horizon. Caption: 'Construction of the chinampas,' depicting the Basin of Mexico, ca. 1500.]",
+  "stimulus_words": 53,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Intensive agriculture means getting very high yields from limited land through heavy labor and inputs. Chinampas did exactly that: small raised beds, constantly tended, fertilized with nutrient-rich lake mud, producing multiple harvests a year.",
+  "id": "wh-barrons-t3-041",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. There were no tractors in 1500; the work was done entirely by human labor.",
+   "B": "Correct. High yields from small, labor-intensive, heavily fertilized plots is the definition of intensive farming.",
+   "C": "Wrong. Chinampas were small, diverse garden plots — the opposite of vast single-crop estates.",
+   "D": "Wrong. The painting itself shows the constant dredging, packing, and tending the beds required."
+  },
+  "options": [
+   "(A) It used gasoline-powered tractors and combine harvesters to farm vast landed estates.",
+   "(B) It drew high yields from small plots through steady labor and lakebed fertilizer.",
+   "(C) It planted a single crop across millions of acres.",
+   "(D) It required no human work once the beds were built."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-041",
+  "source_stimulus_words": 20,
+  "stem": "Chinampa agriculture is best classified as intensive because it",
+  "stimulus": "[Painting: In the foreground, bare-chested workers pack mud and woven reeds to build rectangular raised planting beds in a shallow lake; canoes and canals surround them. Behind rise small temples, green hills, and rows of cultivated plots stretching to the horizon. Caption: 'Construction of the chinampas,' depicting the Basin of Mexico, ca. 1500.]",
+  "stimulus_words": 53,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Chinampas were Mesoamerican garden plots, and Mesoamerican farmers grew the classic trio of maize, beans, and squash. Wheat, barley, rice, sugarcane, and coffee all arrived with Europeans or belong to other continents.",
+  "id": "wh-barrons-t3-042",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Wheat and barley are Old World grains, brought to the Americas by Europeans.",
+   "B": "Wrong. Rice and millet are Asian staples, not Mesoamerican crops.",
+   "C": "Correct. Maize, beans, and squash were the foundation crops of Mesoamerican agriculture.",
+   "D": "Wrong. Sugarcane and coffee were introduced to the Americas by European colonizers."
+  },
+  "options": [
+   "(A) Wheat and barley.",
+   "(B) Rice and millet.",
+   "(C) Maize, beans, and squash.",
+   "(D) Sugarcane and coffee plantations."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-042",
+  "source_stimulus_words": 20,
+  "stem": "The crops most likely grown on these raised beds were",
+  "stimulus": "[Painting: In the foreground, bare-chested workers pack mud and woven reeds to build rectangular raised planting beds in a shallow lake; canoes and canals surround them. Behind rise small temples, green hills, and rows of cultivated plots stretching to the horizon. Caption: 'Construction of the chinampas,' depicting the Basin of Mexico, ca. 1500.]",
+  "stimulus_words": 53,
+  "themes": [
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Both lines were strategic imperial projects: Britain wanted an all-British corridor the length of Africa, Germany wanted a land route to the Ottoman Empire and the Persian Gulf. Railroads let empires move soldiers quickly, ship resources out, and mark territory as theirs.",
+  "id": "wh-barrons-t3-043",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. These railways were tools of imperial control — moving troops, extracting resources, and claiming territory.",
+   "B": "Wrong. Colonial railways served imperial interests and charged fares; they were not charities for colonized peoples.",
+   "C": "Wrong. Both lines ran within Africa, the Middle East, and Europe — nowhere near South America.",
+   "D": "Wrong. Both projects date to 1897–1907, decades before the Second World War."
+  },
+  "options": [
+   "(A) Extending imperial power and moving troops and goods quickly.",
+   "(B) Providing free transportation to colonized peoples across Africa and Asia.",
+   "(C) Linking Asian markets directly to South America.",
+   "(D) Preparing for the Second World War."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-043",
+  "source_stimulus_words": 28,
+  "stem": "Both railway projects were conceived chiefly as instruments for",
+  "stimulus": "[Map 1: A 1907 British publicity map, 'Cape to Cairo Railway,' showing a proposed rail line — part built, part projected — running from Cairo south through Sudan, around the Great Lakes, through Rhodesia to Cape Town, crossing through German-claimed territory in East Africa. Map 2: An 1897 German map of the proposed 'Berlin to Baghdad Railway,' tracing a line from Berlin through the Balkans and Constantinople to Baghdad.]",
+  "stimulus_words": 69,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Cecil Rhodes's dream was an unbroken chain of British territory from Cairo to the Cape. German East Africa sat squarely across that corridor, so every mile of German claim was a direct frustration of the British plan — a classic imperial collision.",
+  "id": "wh-barrons-t3-044",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Britain was obsessed with African railways; the whole map is proof of that interest.",
+   "B": "Wrong. No African kingdom built a rival transcontinental line in this era.",
+   "C": "Wrong. The Suez Canal remained open and under British influence throughout this period.",
+   "D": "Correct. German territory in East Africa interrupted the continuous British corridor the scheme required."
+  },
+  "options": [
+   "(A) Britain had no real interest in African railways.",
+   "(B) African kingdoms built a faster competing line.",
+   "(C) Powerful African kingdoms built a faster, better-engineered competing railway line.",
+   "(D) German East Africa blocked Britain's hoped-for unbroken north-south corridor."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t3-044",
+  "source_stimulus_words": 28,
+  "stem": "The Cape-to-Cairo scheme most directly sharpened Anglo-German rivalry because",
+  "stimulus": "[Map 1: A 1907 British publicity map, 'Cape to Cairo Railway,' showing a proposed rail line — part built, part projected — running from Cairo south through Sudan, around the Great Lakes, through Rhodesia to Cape Town, crossing through German-claimed territory in East Africa. Map 2: An 1897 German map of the proposed 'Berlin to Baghdad Railway,' tracing a line from Berlin through the Balkans and Constantinople to Baghdad.]",
+  "stimulus_words": 69,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The two maps show Britain and Germany each trying to carve exclusive spheres of influence across Africa and the Middle East. That scramble for advantage was one of the frictions that made the great powers warier of each other in the years before 1914.",
+  "id": "wh-barrons-t3-045",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. No Anglo-German alliance resulted; the two powers grew more suspicious, not friendlier.",
+   "B": "Correct. Clashing imperial railway schemes fed the great-power tensions that preceded World War I.",
+   "C": "Wrong. African independence came decades later, after World War II — not from these rivalries.",
+   "D": "Wrong. The maps show rivalries intensifying, not ending."
+  },
+  "options": [
+   "(A) An Anglo-German military alliance.",
+   "(B) Rising tensions among the great powers before 1914.",
+   "(C) The immediate independence of all African colonies from European rule.",
+   "(D) The end of all European imperial rivalries."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t3-045",
+  "source_stimulus_words": 28,
+  "stem": "The competition visible in these maps contributed most directly to",
+  "stimulus": "[Map 1: A 1907 British publicity map, 'Cape to Cairo Railway,' showing a proposed rail line — part built, part projected — running from Cairo south through Sudan, around the Great Lakes, through Rhodesia to Cape Town, crossing through German-claimed territory in East Africa. Map 2: An 1897 German map of the proposed 'Berlin to Baghdad Railway,' tracing a line from Berlin through the Balkans and Constantinople to Baghdad.]",
+  "stimulus_words": 69,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Owen calls patriotic sacrifice 'the old Lie' and dwells on a gas attack's horror; McCrae, writing from the grave, urges the living to 'take up our quarrel.' One poem denounces the war's glorification, the other demands its continuation — opposite attitudes toward carrying on.",
+  "id": "wh-barrons-t3-046",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Both poems describe the same war's weapons — gas, guns, trenches; technology is not what divides them.",
+   "B": "Wrong. Both poems are written in English by British Empire soldiers.",
+   "C": "Correct. Owen bitterly rejects glorifying the war while McCrae urges readers to keep fighting it.",
+   "D": "Wrong. Neither poem discusses the enemy's courage; their disagreement is about their own side's war."
+  },
+  "options": [
+   "(A) Their descriptions of military technology.",
+   "(B) Their choice of language.",
+   "(C) Their attitude toward continuing the war.",
+   "(D) Their opinions about the enemy's courage."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-046",
+  "source_stimulus_words": 265,
+  "stem": "The two poems differ most sharply in their",
+  "stimulus": "Poem 1: 'Bent double, like old beggars under sacks, knock-kneed, coughing like hags, we cursed through sludge... Gas! Gas! Quick, boys!... Dim through the misty panes and thick green light, as under a green sea, I saw him drowning... My friend, you would not tell with such high zest to children ardent for some desperate glory the old Lie: Dulce et decorum est pro patria mori.' —Wilfred Owen, 'Dulce et Decorum Est,' 1918. Poem 2: 'In Flanders fields the poppies blow between the crosses, row on row... We are the Dead... Take up our quarrel with the foe: to you from failing hands we throw the torch; be yours to hold it high. If ye break faith with us who die we shall not sleep, though poppies grow in Flanders fields.' —John McCrae, 'In Flanders Fields,' 1915",
+  "stimulus_words": 137,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The dead soldiers hand 'the torch' to the living and warn that breaking faith means they 'shall not sleep.' It is a solemn call to continue their struggle so their deaths are not meaningless — patriotic duty framed as a debt to the fallen.",
+  "id": "wh-barrons-t3-047",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. 'Take up our quarrel with the foe' is a direct call to carry on the fight in the dead soldiers' name.",
+   "B": "Wrong. The poem demands continued fighting, not negotiation or peace.",
+   "C": "Wrong. The poem is steeped in patriotic duty; it does not reject patriotism.",
+   "D": "Wrong. The enemy is 'the foe' to be fought, not admired."
+  },
+  "options": [
+   "(A) A call to carry on the fight in honor of the fallen.",
+   "(B) A demand for an immediate negotiated peace settlement with the enemy.",
+   "(C) A rejection of patriotism as a value.",
+   "(D) Admiration for the enemy's soldiers."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-047",
+  "source_stimulus_words": 265,
+  "stem": "McCrae's lines 'take up our quarrel with the foe' express",
+  "stimulus": "Poem 1: 'Bent double, like old beggars under sacks, knock-kneed, coughing like hags, we cursed through sludge... Gas! Gas! Quick, boys!... Dim through the misty panes and thick green light, as under a green sea, I saw him drowning... My friend, you would not tell with such high zest to children ardent for some desperate glory the old Lie: Dulce et decorum est pro patria mori.' —Wilfred Owen, 'Dulce et Decorum Est,' 1918. Poem 2: 'In Flanders fields the poppies blow between the crosses, row on row... We are the Dead... Take up our quarrel with the foe: to you from failing hands we throw the torch; be yours to hold it high. If ye break faith with us who die we shall not sleep, though poppies grow in Flanders fields.' —John McCrae, 'In Flanders Fields,' 1915",
+  "stimulus_words": 137,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Owen addresses 'my friend' — the civilian at home who repeats the Latin tag about the sweetness of dying for one's country 'with such high zest' to eager children. His fury is aimed at those who romanticize war from a safe distance, having never choked in a gas attack themselves.",
+  "id": "wh-barrons-t3-048",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Owen fought the Germans; his anger is directed homeward, at civilian glorifiers of war.",
+   "B": "Wrong. Medical personnel are not mentioned or criticized anywhere in the poem.",
+   "C": "Wrong. The League of Nations did not yet exist when Owen wrote in 1918.",
+   "D": "Correct. The 'old Lie' is told by civilians who praise war's glory without having witnessed its horrors."
+  },
+  "options": [
+   "(A) German soldiers in the trenches.",
+   "(B) Military surgeons struggling to treat the victims of poison gas attacks.",
+   "(C) The founders of the League of Nations.",
+   "(D) Civilians who glorify war without having faced its horrors."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t3-048",
+  "source_stimulus_words": 265,
+  "stem": "Owen's closing attack on 'the old Lie' is aimed chiefly at",
+  "stimulus": "Poem 1: 'Bent double, like old beggars under sacks, knock-kneed, coughing like hags, we cursed through sludge... Gas! Gas! Quick, boys!... Dim through the misty panes and thick green light, as under a green sea, I saw him drowning... My friend, you would not tell with such high zest to children ardent for some desperate glory the old Lie: Dulce et decorum est pro patria mori.' —Wilfred Owen, 'Dulce et Decorum Est,' 1918. Poem 2: 'In Flanders fields the poppies blow between the crosses, row on row... We are the Dead... Take up our quarrel with the foe: to you from failing hands we throw the torch; be yours to hold it high. If ye break faith with us who die we shall not sleep, though poppies grow in Flanders fields.' —John McCrae, 'In Flanders Fields,' 1915",
+  "stimulus_words": 137,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The table shows China trading hundreds of billions with the United States and Hong Kong, but also deeply with Japan, South Korea, Taiwan, Germany, and Australia. That is integration across ideological and geographic lines — communist China woven into both Western and Asian economies.",
+  "id": "wh-barrons-t3-049",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The table lists Japan, South Korea, Germany, Australia, and others — none of them communist states.",
+   "B": "Correct. Massive two-way flows with Western and Asian partners alike show deep global integration.",
+   "C": "Wrong. The imports row shows China buying heavily abroad — $183 billion from South Korea alone.",
+   "D": "Wrong. China runs deficits with Japan, South Korea, Taiwan, Germany, Australia, Malaysia, and Brazil."
+  },
+  "options": [
+   "(A) China trades only with other communist states.",
+   "(B) China is deeply integrated into trade with both Western and Asian economies.",
+   "(C) China imports almost nothing from abroad.",
+   "(D) China runs a large and growing trade surplus with every single partner listed in the table."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-049",
+  "source_stimulus_words": 75,
+  "stem": "Which conclusion is best supported by the table?",
+  "stimulus": "China's trade with selected partners, 2015 (billions of U.S. dollars). United States: exports 368, imports 153. Hong Kong: exports 385, imports 16. Japan: exports 150, imports 162. South Korea: exports 91, imports 183. Taiwan: exports 41, imports 157. Germany: exports 67, imports 94. Australia: exports 38, imports 98. Malaysia: exports 46, imports 60. Brazil: exports 36, imports 54. Russia: exports 50, imports 40. —Trade data via CEIC, reported by the New York Times",
+  "stimulus_words": 73,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Beijing treats Taiwan as a breakaway province and refuses to recognize its independence, yet the two economies trade nearly $200 billion. The numbers show that even sharp political disputes do not necessarily stop commerce.",
+  "id": "wh-barrons-t3-050",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Heavy trade across the strait coexists with Beijing's refusal to recognize Taiwan — politics and economics diverge.",
+   "B": "Wrong. The United States ($521 billion total) and Hong Kong ($401 billion) both dwarf Taiwan ($198 billion).",
+   "C": "Wrong. China exports $41 billion to Taiwan; the flow goes both ways.",
+   "D": "Wrong. The Taiwan row itself disproves this — political disputes clearly do not always prevent trade."
+  },
+  "options": [
+   "(A) Heavy two-way trade despite Beijing's refusal to recognize Taiwan's independence.",
+   "(B) That Taiwan is China's largest trading partner.",
+   "(C) That China exports nothing to Taiwan.",
+   "(D) That political disputes between countries always and completely prevent any trade from occurring at all."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-050",
+  "source_stimulus_words": 75,
+  "stem": "The Taiwan figures are most striking because they show",
+  "stimulus": "China's trade with selected partners, 2015 (billions of U.S. dollars). United States: exports 368, imports 153. Hong Kong: exports 385, imports 16. Japan: exports 150, imports 162. South Korea: exports 91, imports 183. Taiwan: exports 41, imports 157. Germany: exports 67, imports 94. Australia: exports 38, imports 98. Malaysia: exports 46, imports 60. Brazil: exports 36, imports 54. Russia: exports 50, imports 40. —Trade data via CEIC, reported by the New York Times",
+  "stimulus_words": 73,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Communist China trades over $500 billion with the capitalist United States — the table's single largest bilateral flow. Whatever divides the two systems politically, the pursuit of economic advantage clearly overrides it.",
+  "id": "wh-barrons-t3-051",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The table confirms China's status as a trading giant; it does not challenge it.",
+   "B": "Wrong. Neighboring partners (Hong Kong, Japan, Korea, Taiwan) trade heavily, consistent with geography mattering.",
+   "C": "Correct. Huge China–U.S. trade shows ideology does not block large-scale commerce.",
+   "D": "Wrong. The U.S. row shows one of the largest totals in the table."
+  },
+  "options": [
+   "(A) China is a major trading nation.",
+   "(B) Geography influences patterns of trade.",
+   "(C) Ideological differences prevent large-scale trade between states.",
+   "(D) The United States is one of China's biggest and most important trading partners."
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "source_id": "barrons-tests-t3-051",
+  "source_stimulus_words": 75,
+  "stem": "The table as a whole most clearly undermines which claim?",
+  "stimulus": "China's trade with selected partners, 2015 (billions of U.S. dollars). United States: exports 368, imports 153. Hong Kong: exports 385, imports 16. Japan: exports 150, imports 162. South Korea: exports 91, imports 183. Taiwan: exports 41, imports 157. Germany: exports 67, imports 94. Australia: exports 38, imports 98. Malaysia: exports 46, imports 60. Brazil: exports 36, imports 54. Russia: exports 50, imports 40. —Trade data via CEIC, reported by the New York Times",
+  "stimulus_words": 73,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Woolsey spoke in 1993 as the incoming CIA director, just after the Soviet Union's 1991 collapse ended the Cold War. The 'dragon' America had spent four decades tracking was the USSR — no other rival fits the date or the scale.",
+  "id": "wh-barrons-t3-052",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Nazi Germany was destroyed in 1945, nearly fifty years before Woolsey spoke.",
+   "B": "Wrong. The British Empire was America's ally, not the adversary of a decades-long standoff.",
+   "C": "Wrong. Imperial Japan was defeated in 1945; it was not the Cold War adversary.",
+   "D": "Correct. The Soviet Union — collapsed in 1991 — was the 'large dragon' of the Cold War."
+  },
+  "options": [
+   "(A) Nazi Germany.",
+   "(B) The British Empire.",
+   "(C) Imperial Japan.",
+   "(D) The Soviet Union."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-052",
+  "source_stimulus_words": 55,
+  "stem": "The 'large dragon' Woolsey refers to is most likely",
+  "stimulus": "'Yes, we have slain a large dragon. But we now live in a jungle filled with a bewildering variety of poisonous snakes. And in many ways, the dragon was easier to keep track of.' —James Woolsey, incoming director of the CIA, on the end of the Cold War, 1993",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Woolsey's contrast is between one huge, predictable adversary and a 'bewildering variety' of smaller ones. His warning is that the intelligence task gets harder, not easier, when threats multiply and scatter.",
+  "id": "wh-barrons-t3-053",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. A jungle of many small threats is harder to monitor than a single large dragon.",
+   "B": "Wrong. 'We have slain' a dragon is a claim of victory, not defeat.",
+   "C": "Wrong. Woolsey warns of messy smaller dangers, not of an inevitable great-power war.",
+   "D": "Wrong. The whole metaphor assumes the Cold War happened and has just ended."
+  },
+  "options": [
+   "(A) The post-Cold War world would be messier and harder to manage than the Cold War itself.",
+   "(B) The United States had actually lost the Cold War.",
+   "(C) A devastating great-power war between the remaining superpowers was unavoidable in the near future.",
+   "(D) The Cold War had never really happened."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-053",
+  "source_stimulus_words": 55,
+  "stem": "Woolsey's central point is that",
+  "stimulus": "'Yes, we have slain a large dragon. But we now live in a jungle filled with a bewildering variety of poisonous snakes. And in many ways, the dragon was easier to keep track of.' —James Woolsey, incoming director of the CIA, on the end of the Cold War, 1993",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The metaphor contrasts one dragon with a 'bewildering variety' of snakes — many small, scattered dangers rather than one giant one. In the 1990s that meant regional wars, ethnic conflicts, terrorism, and rogue states: threats that were individually smaller than the USSR but harder to predict.",
+  "id": "wh-barrons-t3-054",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The 'snakes' are the many diffuse smaller threats — regional wars, terrorism, rogue states — that replaced one big adversary.",
+   "B": "Wrong. NATO allies were partners, not threats lurking in the jungle.",
+   "C": "Wrong. The Russian arsenal was a leftover of the dragon itself, not one of the new smaller snakes.",
+   "D": "Wrong. The United Nations is an institution, not a threat in Woolsey's security metaphor."
+  },
+  "options": [
+   "(A) Diffuse smaller threats such as regional wars and terrorist groups.",
+   "(B) America's NATO allies.",
+   "(C) Russia's surviving nuclear arsenal and its stockpile of intercontinental missiles.",
+   "(D) The United Nations bureaucracy."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t3-054",
+  "source_stimulus_words": 55,
+  "stem": "The 'poisonous snakes' in Woolsey's metaphor most likely represent",
+  "stimulus": "'Yes, we have slain a large dragon. But we now live in a jungle filled with a bewildering variety of poisonous snakes. And in many ways, the dragon was easier to keep track of.' —James Woolsey, incoming director of the CIA, on the end of the Cold War, 1993",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Woolsey assumed the Soviet threat was gone for good. But post-2000 Russia — nuclear-armed, increasingly anti-Western, and willing to use force against neighbors — looks uncomfortably like the dragon stirring again, which is exactly what his metaphor said would not happen.",
+  "id": "wh-barrons-t3-055",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The EU is an economic and political union of allies, not a revival of the Soviet threat.",
+   "B": "Wrong. Japan's stagnation is an economic story with no bearing on the 'dragon' metaphor.",
+   "C": "Correct. An assertive, nuclear-armed Russia most directly revives the great-power threat Woolsey declared dead.",
+   "D": "Wrong. Arctic territorial claims are minor compared with the return of Russian great-power assertiveness."
+  },
+  "options": [
+   "(A) The formation of the European Union.",
+   "(B) Japan's long economic stagnation.",
+   "(C) The resurgence of an assertive Russia under Vladimir Putin.",
+   "(D) Canada's expanding territorial claims in the resource-rich Arctic region."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t3-055",
+  "source_stimulus_words": 55,
+  "stem": "Which twenty-first-century development most challenges Woolsey's claim that the dragon is truly 'slain'?",
+  "stimulus": "'Yes, we have slain a large dragon. But we now live in a jungle filled with a bewildering variety of poisonous snakes. And in many ways, the dragon was easier to keep track of.' —James Woolsey, incoming director of the CIA, on the end of the Cold War, 1993",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ }
+]
