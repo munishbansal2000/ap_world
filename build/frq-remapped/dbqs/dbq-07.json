@@ -1,1 +1,94 @@
-{"analysis_note":"All post-1929 documents are paraphrased or original summaries; no extended quotation of copyrighted sources.","documents":[{"date":"1945","kind":"text","n":1,"source_line":"The Charter of the United Nations, Article 1 (paraphrased)","sourcing_note":"A founding treaty signed by 51 states; purpose is to set the principles of the new international order. Its promise of self-determination became the legal language anti-colonial movements would invoke.","text_or_description":"The Charter pledged the United Nations to develop friendly relations among nations based on respect for equal rights and the self-determination of peoples, and to take action to strengthen universal peace."},{"date":"1945","kind":"text","n":2,"source_line":"Ho Chi Minh, Declaration of Independence of Vietnam (paraphrased)","sourcing_note":"A revolutionary leader proclaiming independence days after Japan's surrender; audience is both the Vietnamese people and the Allied powers. Quoting the American and French declarations turns the colonizers' own ideals against them.","text_or_description":"Quoting the American declaration that all men are created equal, Ho proclaimed Vietnam's independence and condemned French colonial rule as contrary to humanity and justice, calling on the Allies to recognize the new republic."},{"date":"1955","kind":"text","n":3,"source_line":"Final Communiqué of the Bandung Conference, Indonesia (paraphrased)","sourcing_note":"Issued by 29 Asian and African delegations; purpose is to declare a collective position outside the Cold War blocs. Its condemnation of colonialism 'in all its manifestations' extends the target beyond formal empires.","text_or_description":"Delegates from 29 Asian and African nations condemned colonialism in all its manifestations, affirmed the right of all peoples to self-determination, and pledged economic and cultural cooperation among the newly independent states."},{"date":"1957","kind":"text","n":4,"source_line":"Kwame Nkrumah, speech at Ghana's independence celebration (paraphrased)","sourcing_note":"Africa's first postwar independence leader addressing his people and the world; purpose is to frame Ghana's freedom as the start of continental liberation. Links national independence to pan-African unity.","text_or_description":"Nkrumah declared that Ghana's independence would be incomplete until the whole of Africa was free, calling on Africans everywhere to unite so that the continent would never again fall under foreign domination."},{"date":"1965","kind":"text","n":5,"source_line":"Kwame Nkrumah, in Neo-Colonialism: The Last Stage of Imperialism (paraphrased)","sourcing_note":"A deposed leader writing in exile; purpose is to argue that formal independence changed less than it appeared. His bitterness is itself evidence of the gap between the promise of 1945 and the reality of 1965.","text_or_description":"Nkrumah argued that political independence had given way to a subtler control: foreign corporations and great powers now dominated African economies through investment, aid, and debt, making sovereignty hollow without economic independence."},{"date":"1957-1960s","image_url":"https://commons.wikimedia.org/wiki/File:British_Decolonisation_in_Africa.png","kind":"map","license":"Public domain (released by the author, Wikimedia Commons)","n":6,"source_line":"Map: British decolonization in Africa, showing year of independence for each territory","sourcing_note":"A modern educational map; purpose is to show the speed and scale of decolonization. The cascade of dates in 1960 — the 'Year of Africa' — visualizes the transformation of the international map.","text_or_description":"The map shows British African territories colored by independence year: Ghana (1957), Nigeria (1960), and a wave of new states across 1960-1965, transforming a red imperial bloc into dozens of sovereign nations."},{"date":"1945","image_url":"https://commons.wikimedia.org/wiki/File:United_Nations_Member_States-1945.png","kind":"map","license":"Public domain (Wikimedia Commons)","n":7,"source_line":"Map: member states of the United Nations at its founding, 1945","sourcing_note":"A modern map of the 1945 membership; purpose is to show the 'before' picture. With only 51 members and the colonial empires intact, it measures how much the international system would change in twenty years.","text_or_description":"The map shows the 51 original UN members: the great powers and their allies, much of Latin America, and a few independent states in Asia and Africa — while most of Africa and Asia remained under colonial rule."}],"id":"dbq-07","period":"c. 1945-1965","prompt":"Using the documents and your knowledge of world history, evaluate the extent to which decolonization transformed international relations in the period c. 1945-1965.","reasoning_process":"continuity and change","rubric_map":{"analysis":{"complexity":"Multiple paths: argue transformation was real (dozens of new states, new UN majority, Third World bloc) but limited (economic dependence, Cold War overlay); corroborate the promise of self-determination across Docs 1, 2, and 3, then contrast with Doc 5's verdict; qualify by distinguishing political independence from economic sovereignty; Docs 6 and 7 together visualize the before-and-after.","sourcing":"Doc 1 (purpose: a treaty setting principles its signers included empires); Doc 2 (audience: both Vietnamese and the Allies, borrowing their language); Doc 3 (context: 29 nations acting outside both Cold War blocs); Doc 5 (point of view: a deposed leader, bitter but informed)."},"contextualization":"Situate decolonization within World War II's destruction of European power, the Cold War rivalry that made new nations into contested prizes, the UN's creation as a forum for anti-colonial claims, and the longer history of nationalist movements since the 19th century.","evidence":{"describe":"All seven describable; strongest: Docs 1, 3 (principles), Docs 4, 5 (promises vs. verdicts), Docs 6, 7 (the changing map).","outside":"Outside evidence: the Algerian War (1954-1962); UN Resolution 1514 on decolonization (1960); the Non-Aligned Movement (1961); the Congo crisis (1960); French neocolonial ties (Françafrique); US and Soviet aid competition in new states.","support":"'Transformed' line: Docs 2, 3, 4, 6. 'Continuities/limits' line: Docs 1 (principles vs. practice), 5, 7 (the starting point). Doc 1 cuts both ways: it promised self-determination while its signers held empires."},"thesis":"An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."},"sample_thesis":"Decolonization transformed international relations to a great extent by replacing European empires with dozens of sovereign states, giving the United Nations a new anti-colonial majority and creating a Third World bloc; however, the transformation was incomplete, because economic dependence and Cold War rivalry meant that many new nations exchanged formal colonial rule for subtler forms of foreign control.","themes":["GOV - Governance","SIO - States and Other Institutions of Power","ECN - Economic Systems"],"title":"Decolonization and International Relations","units":[8]}
+{
+ "analysis_note": "All post-1929 documents are paraphrased or original summaries; no extended quotation of copyrighted sources.",
+ "documents": [
+  {
+   "date": "1945",
+   "kind": "text",
+   "n": 1,
+   "source_line": "The Charter of the United Nations, Article 1 (paraphrased)",
+   "sourcing_note": "A founding treaty signed by 51 states; purpose is to set the principles of the new international order. Its promise of self-determination became the legal language anti-colonial movements would invoke.",
+   "text_or_description": "The Charter pledged the United Nations to develop friendly relations among nations based on respect for equal rights and the self-determination of peoples, and to take action to strengthen universal peace."
+  },
+  {
+   "date": "1945",
+   "kind": "text",
+   "n": 2,
+   "source_line": "Ho Chi Minh, Declaration of Independence of Vietnam (paraphrased)",
+   "sourcing_note": "A revolutionary leader proclaiming independence days after Japan's surrender; audience is both the Vietnamese people and the Allied powers. Quoting the American and French declarations turns the colonizers' own ideals against them.",
+   "text_or_description": "Quoting the American declaration that all men are created equal, Ho proclaimed Vietnam's independence and condemned French colonial rule as contrary to humanity and justice, calling on the Allies to recognize the new republic."
+  },
+  {
+   "date": "1955",
+   "kind": "text",
+   "n": 3,
+   "source_line": "Final Communiqué of the Bandung Conference, Indonesia (paraphrased)",
+   "sourcing_note": "Issued by 29 Asian and African delegations; purpose is to declare a collective position outside the Cold War blocs. Its condemnation of colonialism 'in all its manifestations' extends the target beyond formal empires.",
+   "text_or_description": "Delegates from 29 Asian and African nations condemned colonialism in all its manifestations, affirmed the right of all peoples to self-determination, and pledged economic and cultural cooperation among the newly independent states."
+  },
+  {
+   "date": "1957",
+   "kind": "text",
+   "n": 4,
+   "source_line": "Kwame Nkrumah, speech at Ghana's independence celebration (paraphrased)",
+   "sourcing_note": "Africa's first postwar independence leader addressing his people and the world; purpose is to frame Ghana's freedom as the start of continental liberation. Links national independence to pan-African unity.",
+   "text_or_description": "Nkrumah declared that Ghana's independence would be incomplete until the whole of Africa was free, calling on Africans everywhere to unite so that the continent would never again fall under foreign domination."
+  },
+  {
+   "date": "1965",
+   "kind": "text",
+   "n": 5,
+   "source_line": "Kwame Nkrumah, in Neo-Colonialism: The Last Stage of Imperialism (paraphrased)",
+   "sourcing_note": "A deposed leader writing in exile; purpose is to argue that formal independence changed less than it appeared. His bitterness is itself evidence of the gap between the promise of 1945 and the reality of 1965.",
+   "text_or_description": "Nkrumah argued that political independence had given way to a subtler control: foreign corporations and great powers now dominated African economies through investment, aid, and debt, making sovereignty hollow without economic independence."
+  },
+  {
+   "date": "1957-1960s",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/British_Decolonisation_in_Africa.png",
+   "kind": "map",
+   "license": "Public domain (released by the author, Wikimedia Commons)",
+   "n": 6,
+   "source_line": "Map: British decolonization in Africa, showing year of independence for each territory",
+   "sourcing_note": "A modern educational map; purpose is to show the speed and scale of decolonization. The cascade of dates in 1960 — the 'Year of Africa' — visualizes the transformation of the international map.",
+   "text_or_description": "The map shows British African territories colored by independence year: Ghana (1957), Nigeria (1960), and a wave of new states across 1960-1965, transforming a red imperial bloc into dozens of sovereign nations.",
+   "source_page": "https://commons.wikimedia.org/wiki/File:British_Decolonisation_in_Africa.png"
+  },
+  {
+   "date": "1945",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/United_Nations_Member_States-1945.png",
+   "kind": "map",
+   "license": "Public domain (Wikimedia Commons)",
+   "n": 7,
+   "source_line": "Map: member states of the United Nations at its founding, 1945",
+   "sourcing_note": "A modern map of the 1945 membership; purpose is to show the 'before' picture. With only 51 members and the colonial empires intact, it measures how much the international system would change in twenty years.",
+   "text_or_description": "The map shows the 51 original UN members: the great powers and their allies, much of Latin America, and a few independent states in Asia and Africa — while most of Africa and Asia remained under colonial rule.",
+   "source_page": "https://commons.wikimedia.org/wiki/File:United_Nations_Member_States-1945.png"
+  }
+ ],
+ "id": "dbq-07",
+ "period": "c. 1945-1965",
+ "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which decolonization transformed international relations in the period c. 1945-1965.",
+ "reasoning_process": "continuity and change",
+ "rubric_map": {
+  "analysis": {
+   "complexity": "Multiple paths: argue transformation was real (dozens of new states, new UN majority, Third World bloc) but limited (economic dependence, Cold War overlay); corroborate the promise of self-determination across Docs 1, 2, and 3, then contrast with Doc 5's verdict; qualify by distinguishing political independence from economic sovereignty; Docs 6 and 7 together visualize the before-and-after.",
+   "sourcing": "Doc 1 (purpose: a treaty setting principles its signers included empires); Doc 2 (audience: both Vietnamese and the Allies, borrowing their language); Doc 3 (context: 29 nations acting outside both Cold War blocs); Doc 5 (point of view: a deposed leader, bitter but informed)."
+  },
+  "contextualization": "Situate decolonization within World War II's destruction of European power, the Cold War rivalry that made new nations into contested prizes, the UN's creation as a forum for anti-colonial claims, and the longer history of nationalist movements since the 19th century.",
+  "evidence": {
+   "describe": "All seven describable; strongest: Docs 1, 3 (principles), Docs 4, 5 (promises vs. verdicts), Docs 6, 7 (the changing map).",
+   "outside": "Outside evidence: the Algerian War (1954-1962); UN Resolution 1514 on decolonization (1960); the Non-Aligned Movement (1961); the Congo crisis (1960); French neocolonial ties (Françafrique); US and Soviet aid competition in new states.",
+   "support": "'Transformed' line: Docs 2, 3, 4, 6. 'Continuities/limits' line: Docs 1 (principles vs. practice), 5, 7 (the starting point). Doc 1 cuts both ways: it promised self-determination while its signers held empires."
+  },
+  "thesis": "An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."
+ },
+ "sample_thesis": "Decolonization transformed international relations to a great extent by replacing European empires with dozens of sovereign states, giving the United Nations a new anti-colonial majority and creating a Third World bloc; however, the transformation was incomplete, because economic dependence and Cold War rivalry meant that many new nations exchanged formal colonial rule for subtler forms of foreign control.",
+ "themes": [
+  "GOV - Governance",
+  "SIO - Social Interactions and Organization",
+  "ECN - Economic Systems"
+ ],
+ "title": "Decolonization and International Relations",
+ "units": [
+  8
+ ]
+}

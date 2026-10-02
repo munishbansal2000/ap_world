@@ -1,1 +1,93 @@
-{"analysis_note":"All pre-1900 excerpts are plain-language renderings of public-domain sources.","documents":[{"date":"16th century","kind":"text","n":1,"source_line":"Imperial titulature of Sultan Süleyman the Magnificent, from Ottoman chancery documents","sourcing_note":"Composed by the imperial chancery for subjects and foreign rulers; purpose is to project universal Islamic authority. Every title is a claim: to Muslims (servant of the holy cities), to rivals (sultan of sultans), to all (shadow of God).","text_or_description":"Sultan of sultans, ruler of lands and seas, servant of the two holy sanctuaries of Mecca and Medina, shadow of God upon the earth. All kings bow before his threshold, and his justice shelters the peoples of the world."},{"date":"early 1500s","kind":"text","n":2,"source_line":"Shah Ismail I of Persia, from his Turkish poetry","sourcing_note":"Written by the shah himself in verse for his Qizilbash followers; purpose is religious-political mobilization. A ruler claiming to be the divine Imam is the most direct possible legitimation — and the most dangerous to rival Sunnis.","text_or_description":"I am the Living Imam of the age, the truth made manifest. My words are the words of God, and those who follow me walk in the light. Know me, for I am the divine proof upon the earth."},{"date":"c. 1590s","kind":"text","n":3,"source_line":"Abu'l Fazl, Mughal courtier, in the Akbarnama (Book of Akbar)","sourcing_note":"A courtier writing for the imperial court and posterity; purpose is to glorify his patron. The theory of divine light serves Akbar's need to stand above the many religions of his empire.","text_or_description":"Royalty is a light streaming from God, a ray from the sun that illuminates the world. The king who possesses this divine light needs no other proof of his right to rule, and all peoples owe him obedience."},{"date":"1550s","kind":"text","n":4,"source_line":"Ogier de Busbecq, Habsburg ambassador, describing Sultan Süleyman's court","sourcing_note":"An outsider — a European diplomat — writing for European readers; purpose is to report Ottoman power as a warning. His awe is valuable precisely because he is a rival's envoy, not a court flatterer.","text_or_description":"The Sultan sat upon his throne, grave and motionless as a statue, while his officials approached trembling and withdrew in silence. Such majesty I have never witnessed; all was order, discipline, and fear."},{"date":"1620s","kind":"text","n":5,"source_line":"Iskandar Beg Munshi, Safavid court chronicler, on Shah Abbas and Isfahan","sourcing_note":"A court chronicler writing for the Safavid court; purpose is to celebrate his patron. Building a glorious capital is presented as proof of legitimate kingship — splendor as argument.","text_or_description":"The Shah moved his court to Isfahan and adorned it with mosques, bridges, palaces, and gardens, making it the envy of the world. All who behold its splendor see the glory of his reign and the greatness of his fortune."},{"date":"c. 1603-1605","image_url":"https://en.wikiquote.org/wiki/File:AbulFazlPresentingAkbarnama.jpg","kind":"image","license":"Public domain (17th-century work)","n":6,"source_line":"Mughal miniature: Abu'l Fazl presenting the Akbarnama to Emperor Akbar","sourcing_note":"Painted by a Mughal court artist for the imperial court; purpose is to honor the emperor through the act of history-writing itself. The book being presented is Document 3 — image and text legitimize each other.","text_or_description":"The miniature shows the courtier Abu'l Fazl kneeling to present his great history to the enthroned Emperor Akbar, surrounded by attendants in a splendid court setting."},{"date":"modern (historical map)","image_url":"https://en.wikipedia.org/wiki/Gunpowder_empires#/media/File:Islamic_Gunpowder_Empires.jpg","kind":"map","license":"CC BY-SA 4.0 (Wikimedia Commons)","n":7,"source_line":"Map of the Ottoman, Safavid, and Mughal empires, late 17th century","sourcing_note":"A modern educational map; purpose is to show the three empires' extent side by side. Their shared size and simultaneity invite comparison of how each solved the same problem: justifying rule over vast, diverse lands.","text_or_description":"The map shows three great Islamic empires at their height: the Ottomans spanning from Hungary to Arabia, the Safavids ruling Persia, and the Mughals dominating most of the Indian subcontinent."}],"id":"dbq-05","period":"c. 1500-1700","prompt":"Using the documents and your knowledge of world history, evaluate the extent to which the Ottoman, Safavid, and Mughal rulers used similar methods to legitimize their rule in the period c. 1500-1700.","reasoning_process":"comparison","rubric_map":{"analysis":{"complexity":"Multiple paths: argue similarity in tools (divine sanction, court ritual, monumental patronage) but difference in content (Sunni caliph vs. Shi'i Imam vs. eclectic divine kingship); corroborate divine legitimation across Docs 1, 2, and 3; qualify by noting Ismail's personal religious claim differs from the Ottomans' institutional one; Docs 3 and 6 reinforce each other (text and image of the same project).","sourcing":"Doc 2 (point of view: the ruler himself, in verse to his followers); Doc 3 (purpose: a courtier glorifying his patron); Doc 4 (point of view: a rival's ambassador, awed despite himself); Doc 6 (audience: the imperial court, legitimizing through art)."},"contextualization":"Situate the three empires within the post-Mongol Islamic world: the claim to succeed the caliphate after 1258, the Sunni-Shi'a split sharpened by Ottoman-Safavid rivalry, gunpowder technology enabling large centralized empires, and religious diversity (especially in Mughal India) demanding flexible legitimation.","evidence":{"describe":"All seven describable; strongest: Docs 1, 2, 3 (claims to authority), Docs 4, 6 (court ritual), Doc 5 (patronage).","outside":"Outside evidence: Süleyman's kanun (law code) and claim to the caliphate; the devshirme and Ottoman bureaucracy; Shah Abbas's ghulam musketeers; Akbar's Din-i Ilahi and sulh-i kul (universal tolerance); Sinan's Süleymaniye Mosque; the Taj Mahal as Mughal legitimation.","support":"'Similar' line: Docs 1, 2, 3 (divine sanction), Docs 4, 5, 6 (splendor/ritual/patronage). 'Different' line: Doc 2 vs. Docs 1 and 3 (personal Imamate vs. institutional/dynastic claims); Doc 3's eclectic tolerance vs. Docs 1-2's Islamic exclusivity."},"thesis":"An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."},"sample_thesis":"The Ottoman, Safavid, and Mughal rulers used similar methods of legitimation to a great extent, as all three claimed divine sanction, awed subjects with court ritual, and built monuments to their glory; however, the content of their claims differed fundamentally, with the Ottomans invoking the Sunni caliphate, the Safavids proclaiming a militant Shi'i Imamate, and the Mughals crafting an eclectic divine kingship suited to ruling a Hindu-majority land.","themes":["GOV - Governance","CDI - Cultural Developments and Interactions"],"title":"Legitimizing the Gunpowder Empires","units":[3]}
+{
+ "analysis_note": "All pre-1900 excerpts are plain-language renderings of public-domain sources.",
+ "documents": [
+  {
+   "date": "16th century",
+   "kind": "text",
+   "n": 1,
+   "source_line": "Imperial titulature of Sultan Süleyman the Magnificent, from Ottoman chancery documents",
+   "sourcing_note": "Composed by the imperial chancery for subjects and foreign rulers; purpose is to project universal Islamic authority. Every title is a claim: to Muslims (servant of the holy cities), to rivals (sultan of sultans), to all (shadow of God).",
+   "text_or_description": "Sultan of sultans, ruler of lands and seas, servant of the two holy sanctuaries of Mecca and Medina, shadow of God upon the earth. All kings bow before his threshold, and his justice shelters the peoples of the world."
+  },
+  {
+   "date": "early 1500s",
+   "kind": "text",
+   "n": 2,
+   "source_line": "Shah Ismail I of Persia, from his Turkish poetry",
+   "sourcing_note": "Written by the shah himself in verse for his Qizilbash followers; purpose is religious-political mobilization. A ruler claiming to be the divine Imam is the most direct possible legitimation — and the most dangerous to rival Sunnis.",
+   "text_or_description": "I am the Living Imam of the age, the truth made manifest. My words are the words of God, and those who follow me walk in the light. Know me, for I am the divine proof upon the earth."
+  },
+  {
+   "date": "c. 1590s",
+   "kind": "text",
+   "n": 3,
+   "source_line": "Abu'l Fazl, Mughal courtier, in the Akbarnama (Book of Akbar)",
+   "sourcing_note": "A courtier writing for the imperial court and posterity; purpose is to glorify his patron. The theory of divine light serves Akbar's need to stand above the many religions of his empire.",
+   "text_or_description": "Royalty is a light streaming from God, a ray from the sun that illuminates the world. The king who possesses this divine light needs no other proof of his right to rule, and all peoples owe him obedience."
+  },
+  {
+   "date": "1550s",
+   "kind": "text",
+   "n": 4,
+   "source_line": "Ogier de Busbecq, Habsburg ambassador, describing Sultan Süleyman's court",
+   "sourcing_note": "An outsider — a European diplomat — writing for European readers; purpose is to report Ottoman power as a warning. His awe is valuable precisely because he is a rival's envoy, not a court flatterer.",
+   "text_or_description": "The Sultan sat upon his throne, grave and motionless as a statue, while his officials approached trembling and withdrew in silence. Such majesty I have never witnessed; all was order, discipline, and fear."
+  },
+  {
+   "date": "1620s",
+   "kind": "text",
+   "n": 5,
+   "source_line": "Iskandar Beg Munshi, Safavid court chronicler, on Shah Abbas and Isfahan",
+   "sourcing_note": "A court chronicler writing for the Safavid court; purpose is to celebrate his patron. Building a glorious capital is presented as proof of legitimate kingship — splendor as argument.",
+   "text_or_description": "The Shah moved his court to Isfahan and adorned it with mosques, bridges, palaces, and gardens, making it the envy of the world. All who behold its splendor see the glory of his reign and the greatness of his fortune."
+  },
+  {
+   "date": "c. 1603-1605",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AbulFazlPresentingAkbarnama.jpg",
+   "kind": "image",
+   "license": "Public domain (Mughal miniature, c. 1603-1605; Chester Beatty Library, Dublin)",
+   "n": 6,
+   "source_line": "Mughal miniature: Abu'l Fazl presenting the Akbarnama to Emperor Akbar",
+   "sourcing_note": "Painted by a Mughal court artist for the imperial court; purpose is to honor the emperor through the act of history-writing itself. The book being presented is Document 3 — image and text legitimize each other.",
+   "text_or_description": "The miniature shows the courtier Abu'l Fazl kneeling to present his great history to the enthroned Emperor Akbar, surrounded by attendants in a splendid court setting.",
+   "source_page": "https://en.wikiquote.org/wiki/File:AbulFazlPresentingAkbarnama.jpg"
+  },
+  {
+   "date": "modern (historical map)",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg",
+   "kind": "map",
+   "license": "CC BY-SA 4.0 (Wikimedia Commons)",
+   "n": 7,
+   "source_line": "Map of the Ottoman, Safavid, and Mughal empires, late 17th century",
+   "sourcing_note": "A modern educational map; purpose is to show the three empires' extent side by side. Their shared size and simultaneity invite comparison of how each solved the same problem: justifying rule over vast, diverse lands.",
+   "text_or_description": "The map shows three great Islamic empires at their height: the Ottomans spanning from Hungary to Arabia, the Safavids ruling Persia, and the Mughals dominating most of the Indian subcontinent.",
+   "source_page": "https://en.wikipedia.org/wiki/Gunpowder_empires#/media/File:Islamic_Gunpowder_Empires.jpg"
+  }
+ ],
+ "id": "dbq-05",
+ "period": "c. 1500-1700",
+ "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which the Ottoman, Safavid, and Mughal rulers used similar methods to legitimize their rule in the period c. 1500-1700.",
+ "reasoning_process": "comparison",
+ "rubric_map": {
+  "analysis": {
+   "complexity": "Multiple paths: argue similarity in tools (divine sanction, court ritual, monumental patronage) but difference in content (Sunni caliph vs. Shi'i Imam vs. eclectic divine kingship); corroborate divine legitimation across Docs 1, 2, and 3; qualify by noting Ismail's personal religious claim differs from the Ottomans' institutional one; Docs 3 and 6 reinforce each other (text and image of the same project).",
+   "sourcing": "Doc 2 (point of view: the ruler himself, in verse to his followers); Doc 3 (purpose: a courtier glorifying his patron); Doc 4 (point of view: a rival's ambassador, awed despite himself); Doc 6 (audience: the imperial court, legitimizing through art)."
+  },
+  "contextualization": "Situate the three empires within the post-Mongol Islamic world: the claim to succeed the caliphate after 1258, the Sunni-Shi'a split sharpened by Ottoman-Safavid rivalry, gunpowder technology enabling large centralized empires, and religious diversity (especially in Mughal India) demanding flexible legitimation.",
+  "evidence": {
+   "describe": "All seven describable; strongest: Docs 1, 2, 3 (claims to authority), Docs 4, 6 (court ritual), Doc 5 (patronage).",
+   "outside": "Outside evidence: Süleyman's kanun (law code) and claim to the caliphate; the devshirme and Ottoman bureaucracy; Shah Abbas's ghulam musketeers; Akbar's Din-i Ilahi and sulh-i kul (universal tolerance); Sinan's Süleymaniye Mosque; the Taj Mahal as Mughal legitimation.",
+   "support": "'Similar' line: Docs 1, 2, 3 (divine sanction), Docs 4, 5, 6 (splendor/ritual/patronage). 'Different' line: Doc 2 vs. Docs 1 and 3 (personal Imamate vs. institutional/dynastic claims); Doc 3's eclectic tolerance vs. Docs 1-2's Islamic exclusivity."
+  },
+  "thesis": "An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."
+ },
+ "sample_thesis": "The Ottoman, Safavid, and Mughal rulers used similar methods of legitimation to a great extent, as all three claimed divine sanction, awed subjects with court ritual, and built monuments to their glory; however, the content of their claims differed fundamentally, with the Ottomans invoking the Sunni caliphate, the Safavids proclaiming a militant Shi'i Imamate, and the Mughals crafting an eclectic divine kingship suited to ruling a Hindu-majority land.",
+ "themes": [
+  "GOV - Governance",
+  "CDI - Cultural Developments and Interactions"
+ ],
+ "title": "Legitimizing the Gunpowder Empires",
+ "units": [
+  3
+ ]
+}

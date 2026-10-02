@@ -1,1 +1,92 @@
-{"analysis_note":"Pre-1929 excerpts are plain-language renderings of public-domain sources; post-1929 documents are paraphrased or original summaries.","documents":[{"date":"1908","kind":"text","n":1,"source_line":"Pierre de Coubertin, French founder of the modern Olympic Games","sourcing_note":"The founder of the modern Games writing for a sporting public; purpose is to promote his ideal of peaceful international competition. His vision is the standard against which later politicization is measured.","text_or_description":"The important thing in the Olympic Games is not winning but taking part. The Games should gather the youth of all nations in peaceful contest, so that sport may serve understanding among peoples rather than rivalry."},{"date":"1936","kind":"text","n":2,"source_line":"Summary of the German government's staging of the Berlin Olympic Games (original treatment)","sourcing_note":"An original summary of well-documented events; purpose here is to describe state use of the Games. The regime's own newsreels and press show how deliberately the Olympics were turned into political theater.","text_or_description":"The German government built a vast new stadium, commissioned the filmmaker Leni Riefenstahl to glorify the event on screen, and removed anti-Jewish signs for the duration of the Games. Foreign visitors were shown an orderly, powerful nation — a carefully staged image designed to win acceptance for the regime."},{"date":"1968","kind":"text","n":3,"source_line":"Account of the Mexico City Olympics medal ceremony protest (paraphrased)","sourcing_note":"A paraphrase of widely reported events; the athletes' own later accounts confirm their intent. The protest shows politics entering the Games from below — from the athletes rather than from governments.","text_or_description":"After winning gold and bronze in the 200 meters, American sprinters Tommie Smith and John Carlos raised black-gloved fists during the national anthem to protest racial injustice at home. The Olympic authorities expelled them from the Games, insisting the podium was no place for politics."},{"date":"1980","kind":"text","n":4,"source_line":"Account of the United States-led boycott of the Moscow Olympics (paraphrased)","sourcing_note":"A paraphrase of the public positions of both governments. Each side accused the other of politicizing sport, which itself reveals how fully the Games had become an instrument of Cold War rivalry.","text_or_description":"After the Soviet invasion of Afghanistan, the United States announced it would boycott the Moscow Games, and some 60 nations joined in whole or in part. The Soviet Union called the boycott political manipulation; four years later it led a boycott of the Los Angeles Games in return."},{"date":"1960s","kind":"text","n":5,"source_line":"Avery Brundage, president of the International Olympic Committee, defending the Games' neutrality (paraphrased)","sourcing_note":"The IOC's longtime president speaking as the guardian of Coubertin's ideal; purpose is to defend the institution. His repeated need to insist on neutrality is itself evidence of how constantly politics intruded.","text_or_description":"Brundage insisted that the Olympic Games must be kept entirely free of politics, arguing that allowing national or racial demonstrations would destroy the movement. Critics replied that his neutrality always favored the powerful, since it silenced protest while tolerating state propaganda."},{"date":"1936","image_url":"https://commons.wikimedia.org/wiki/File:Luz_Long_and_Jesse_Owens.png","kind":"image","license":"CC0 (Wikimedia Commons)","n":6,"source_line":"Photograph: German athlete Luz Long and American athlete Jesse Owens at the 1936 Berlin Olympics","sourcing_note":"A press photograph from the Berlin Games; purpose was news coverage. The image complicates the propaganda narrative: an Aryan champion publicly befriending the Black American star who was defeating him, in front of the Nazi leadership.","text_or_description":"The photograph shows Luz Long and Jesse Owens together at the long-jump competition, conversing as friends. Owens won gold; Long took silver — and was the first to congratulate him."},{"date":"1936","image_url":"https://en.wikiquote.org/wiki/File:Bundesarchiv_Bild_183-R96374,_Berlin,_Olympiade,_Jesse_Owens_beim_Weitsprung.jpg","kind":"image","license":"CC BY-SA 3.0 (German Federal Archives, via Wikimedia Commons)","n":7,"source_line":"Photograph: Jesse Owens competing in the long jump, Berlin 1936","sourcing_note":"Taken by an official German press photographer; purpose was to document the Games for the regime. That the regime's own cameras recorded Owens's triumphs made his victories impossible to erase from the propaganda spectacle.","text_or_description":"The photograph captures Jesse Owens mid-competition in the long jump, the event in which he won one of his four gold medals before crowds that included the Nazi leadership."}],"id":"dbq-09","period":"1896-2000","prompt":"Using the documents and your knowledge of world history, evaluate the extent to which political forces shaped the modern Olympic Games in the period 1896-2000.","reasoning_process":"causation","rubric_map":{"analysis":{"complexity":"Multiple paths: argue politics shaped the Games profoundly (Docs 2, 3, 4) while the sporting ideal and athletic achievement retained independent power (Docs 1, 6, 7); corroborate the 1936 propaganda Games across Docs 2, 6, and 7; qualify by distinguishing politics imposed by states (Docs 2, 4) from politics asserted by athletes (Doc 3); Doc 5 cuts both ways — the demand for neutrality was itself a political position.","sourcing":"Doc 1 (purpose: a founder promoting an ideal); Doc 2 (context: a regime staging its own image, described through its own media); Doc 3 (point of view: the athletes', against the authorities); Doc 4 (purpose: rival governments' competing accusations); Doc 6 (context: a press photo undermining the official narrative)."},"contextualization":"Situate the Games within the rise of mass nationalism, the Nazi regime's propaganda state, the Cold War's division of the world into rival blocs, the civil rights movement, and the commercialization of sport through television by the 1980s.","evidence":{"describe":"All seven describable; strongest: Docs 2, 4 (state politics), Doc 3 (athlete protest), Docs 6, 7 (the 1936 counter-narrative).","outside":"Outside evidence: the 1972 Munich attack on Israeli athletes; the 1956 Melbourne water-polo clash after the Hungarian uprising; apartheid South Africa's exclusion from the Games (1964-1992); the 'ping-pong diplomacy' of 1971; corporate sponsorship and television revenues from the 1980s.","support":"'Politics shaped the Games' line: Docs 2, 3, 4. 'Limits of politics / independent sporting meaning' line: Docs 1, 6, 7. Doc 5 (neutrality) serves the limits argument while revealing its own politics."},"thesis":"An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."},"sample_thesis":"Political forces shaped the modern Olympics to a great extent, as governments from Nazi Germany to the Cold War superpowers used the Games for propaganda and rivalry, and athletes themselves turned the podium into a platform for protest; yet politics never fully captured the Games, because the founder's ideal of peaceful competition and moments of genuine sportsmanship like Owens and Long's friendship kept an independent meaning alive.","themes":["SIO - States and Other Institutions of Power","CDI - Cultural Developments and Interactions","SOC - Social Structures"],"title":"Politics and the Olympic Games","units":[7,8,9]}
+{
+ "analysis_note": "Pre-1929 excerpts are plain-language renderings of public-domain sources; post-1929 documents are paraphrased or original summaries.",
+ "documents": [
+  {
+   "date": "1908",
+   "kind": "text",
+   "n": 1,
+   "source_line": "Pierre de Coubertin, French founder of the modern Olympic Games",
+   "sourcing_note": "The founder of the modern Games writing for a sporting public; purpose is to promote his ideal of peaceful international competition. His vision is the standard against which later politicization is measured.",
+   "text_or_description": "The important thing in the Olympic Games is not winning but taking part. The Games should gather the youth of all nations in peaceful contest, so that sport may serve understanding among peoples rather than rivalry."
+  },
+  {
+   "date": "1936",
+   "kind": "text",
+   "n": 2,
+   "source_line": "Summary of the German government's staging of the Berlin Olympic Games (original treatment)",
+   "sourcing_note": "An original summary of well-documented events; purpose here is to describe state use of the Games. The regime's own newsreels and press show how deliberately the Olympics were turned into political theater.",
+   "text_or_description": "The German government built a vast new stadium, commissioned the filmmaker Leni Riefenstahl to glorify the event on screen, and removed anti-Jewish signs for the duration of the Games. Foreign visitors were shown an orderly, powerful nation — a carefully staged image designed to win acceptance for the regime."
+  },
+  {
+   "date": "1968",
+   "kind": "text",
+   "n": 3,
+   "source_line": "Account of the Mexico City Olympics medal ceremony protest (paraphrased)",
+   "sourcing_note": "A paraphrase of widely reported events; the athletes' own later accounts confirm their intent. The protest shows politics entering the Games from below — from the athletes rather than from governments.",
+   "text_or_description": "After winning gold and bronze in the 200 meters, American sprinters Tommie Smith and John Carlos raised black-gloved fists during the national anthem to protest racial injustice at home. The Olympic authorities expelled them from the Games, insisting the podium was no place for politics."
+  },
+  {
+   "date": "1980",
+   "kind": "text",
+   "n": 4,
+   "source_line": "Account of the United States-led boycott of the Moscow Olympics (paraphrased)",
+   "sourcing_note": "A paraphrase of the public positions of both governments. Each side accused the other of politicizing sport, which itself reveals how fully the Games had become an instrument of Cold War rivalry.",
+   "text_or_description": "After the Soviet invasion of Afghanistan, the United States announced it would boycott the Moscow Games, and some 60 nations joined in whole or in part. The Soviet Union called the boycott political manipulation; four years later it led a boycott of the Los Angeles Games in return."
+  },
+  {
+   "date": "1960s",
+   "kind": "text",
+   "n": 5,
+   "source_line": "Avery Brundage, president of the International Olympic Committee, defending the Games' neutrality (paraphrased)",
+   "sourcing_note": "The IOC's longtime president speaking as the guardian of Coubertin's ideal; purpose is to defend the institution. His repeated need to insist on neutrality is itself evidence of how constantly politics intruded.",
+   "text_or_description": "Brundage insisted that the Olympic Games must be kept entirely free of politics, arguing that allowing national or racial demonstrations would destroy the movement. Critics replied that his neutrality always favored the powerful, since it silenced protest while tolerating state propaganda."
+  },
+  {
+   "date": "1936 (Owens’s later recollections; paraphrased)",
+   "kind": "text",
+   "n": 6,
+   "source_line": "Jesse Owens’s account of the 1936 Olympic long-jump competition (paraphrased)",
+   "sourcing_note": "The memories of the Black American champion, recorded years after the event; purpose is to tell his own story. Memory may polish details, but the friendship was witnessed by thousands in the stadium — and that even Owens’s own account centers German sportsmanship complicates any simple story of the Games as pure propaganda.",
+   "text_or_description": "Owens recalled that after fouling twice in the long-jump qualifying round, his German rival Luz Long came over and advised him to mark his takeoff a few inches before the foul line. Owens qualified, won the gold, and Long — who took the silver — was the first to congratulate him; the two left the field together in full view of the stadium."
+  },
+  {
+   "date": "1936",
+   "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_183-R96374%2C_Berlin%2C_Olympiade%2C_Jesse_Owens_beim_Weitsprung.jpg",
+   "kind": "image",
+   "license": "CC BY-SA 3.0 (German Federal Archives, via Wikimedia Commons)",
+   "n": 7,
+   "source_line": "Photograph: Jesse Owens competing in the long jump, Berlin 1936",
+   "sourcing_note": "Taken by an official German press photographer; purpose was to document the Games for the regime. That the regime's own cameras recorded Owens's triumphs made his victories impossible to erase from the propaganda spectacle.",
+   "text_or_description": "The photograph captures Jesse Owens mid-competition in the long jump, the event in which he won one of his four gold medals before crowds that included the Nazi leadership.",
+   "source_page": "https://en.wikiquote.org/wiki/File:Bundesarchiv_Bild_183-R96374,_Berlin,_Olympiade,_Jesse_Owens_beim_Weitsprung.jpg"
+  }
+ ],
+ "id": "dbq-09",
+ "period": "1896-2000",
+ "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which political forces shaped the modern Olympic Games in the period 1896-2000.",
+ "reasoning_process": "causation",
+ "rubric_map": {
+  "analysis": {
+   "complexity": "Multiple paths: argue politics shaped the Games profoundly (Docs 2, 3, 4) while the sporting ideal and athletic achievement retained independent power (Docs 1, 6, 7); corroborate the 1936 propaganda Games across Docs 2, 6, and 7; qualify by distinguishing politics imposed by states (Docs 2, 4) from politics asserted by athletes (Doc 3); Doc 5 cuts both ways — the demand for neutrality was itself a political position.",
+   "sourcing": "Doc 1 (purpose: a founder promoting an ideal); Doc 2 (context: a regime staging its own image, described through its own media); Doc 3 (point of view: the athletes', against the authorities); Doc 4 (purpose: rival governments' competing accusations); Doc 6 (context: a champion's later recollection; memory may polish, but the friendship was public)."
+  },
+  "contextualization": "Situate the Games within the rise of mass nationalism, the Nazi regime's propaganda state, the Cold War's division of the world into rival blocs, the civil rights movement, and the commercialization of sport through television by the 1980s.",
+  "evidence": {
+   "describe": "All seven describable; strongest: Docs 2, 4 (state politics), Doc 3 (athlete protest), Docs 6, 7 (the 1936 counter-narrative).",
+   "outside": "Outside evidence: the 1972 Munich attack on Israeli athletes; the 1956 Melbourne water-polo clash after the Hungarian uprising; apartheid South Africa's exclusion from the Games (1964-1992); the 'ping-pong diplomacy' of 1971; corporate sponsorship and television revenues from the 1980s.",
+   "support": "'Politics shaped the Games' line: Docs 2, 3, 4. 'Limits of politics / independent sporting meaning' line: Docs 1, 6, 7. Doc 5 (neutrality) serves the limits argument while revealing its own politics."
+  },
+  "thesis": "An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."
+ },
+ "sample_thesis": "Political forces shaped the modern Olympics to a great extent, as governments from Nazi Germany to the Cold War superpowers used the Games for propaganda and rivalry, and athletes themselves turned the podium into a platform for protest; yet politics never fully captured the Games, because the founder's ideal of peaceful competition and moments of genuine sportsmanship like Owens and Long's friendship kept an independent meaning alive.",
+ "themes": [
+  "SIO - Social Interactions and Organization",
+  "CDI - Cultural Developments and Interactions"
+ ],
+ "title": "Politics and the Olympic Games",
+ "units": [
+  7,
+  8,
+  9
+ ]
+}
