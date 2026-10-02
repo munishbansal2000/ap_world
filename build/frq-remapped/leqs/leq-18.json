@@ -1,0 +1,25 @@
+{
+  "id": "leq-18",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    7
+  ],
+  "themes": [
+    "GOV"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "The First and Second World Wars strained the finances, armies, and legitimacy of European colonial empires. Develop an argument that evaluates the extent to which the two World Wars caused the decline of European overseas empires in the period c. 1900-c. 2001.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the prewar peak of European imperialism, colonial troops' wartime service, Wilsonian self-determination, Cold War superpower opposition to colonialism, or organized nationalist movements.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Britain's post-1945 bankruptcy and Indian independence (1947), France's defeats in Indochina and Algeria, the Atlantic Charter, Japanese wartime occupation of Southeast Asia, the Suez Crisis (1956).",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the causal claim (e.g., showing how wartime bankruptcy or colonial soldiers' experiences accelerated independence, or how non-war causes drove it).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: evaluates the wars' causal weight against other causes such as nationalist organization, economic shifts, and superpower pressure.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "The World Wars decisively accelerated imperial decline by bankrupting the metropoles, arming and politicizing colonial subjects, and shattering the myth of European invincibility, but they did not cause decolonization alone: organized nationalist movements and Cold War pressures were equally necessary to convert imperial weakness into independence.",
+  "evidence_directions": "Strong responses distinguish acceleration from sole causation, weighing wartime effects (debt, colonial military service, Japanese occupation) against nationalist agency and superpower opposition. Treating the wars as the only cause ignores the decades of organizing that preceded 1945.",
+  "source_inspiration": "fresh (no source - World Wars and imperial decline not covered by sources)"
+}

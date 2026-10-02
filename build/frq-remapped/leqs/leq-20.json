@@ -1,0 +1,25 @@
+{
+  "id": "leq-20",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    8
+  ],
+  "themes": [
+    "GOV"
+  ],
+  "target_reasoning_process": "comparison",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "From 1945 to 1991, the United States and the Soviet Union competed for global influence in the Cold War. Develop an argument that compares the aims and strategies of the two superpowers in their competition for influence in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the post-1945 bipolar order, decolonization creating new arenas of competition, nuclear weapons, or ideological rivalry between capitalism and communism.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: NATO vs. the Warsaw Pact, the Marshall Plan vs. Soviet aid and Comecon, proxy wars (Korea, Vietnam, Afghanistan, Angola), the arms and space races, cultural diplomacy and propaganda.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must support an explicit comparison of aims (what each sought) and strategies (how each pursued it).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Comparison: identifies similarities (e.g., both built alliance blocs, funded proxies, claimed ideological universality) and differences (economic models, alliance cohesion, approaches to the developing world).",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "The superpowers shared the aim of global influence and the strategy of building rival blocs and fighting through proxies, but they differed fundamentally in method: the United States projected power through economic aid, open markets, and alliance management, while the Soviet Union relied on party-to-party ties, military assistance, and direct control over its sphere.",
+  "evidence_directions": "Strong responses compare aims and strategies in parallel (alliances, aid, proxies, ideology) and note where the rivalry converged or diverged. Answers narrating US then Soviet policy without direct comparison earn only partial reasoning credit.",
+  "source_inspiration": "fresh (no source - Cold War superpower comparison not covered by sources)"
+}

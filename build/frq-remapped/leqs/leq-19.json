@@ -1,0 +1,26 @@
+{
+  "id": "leq-19",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    3,
+    4
+  ],
+  "themes": [
+    "GOV"
+  ],
+  "target_reasoning_process": "comparison",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1450-c. 1750, both land-based empires (such as the Ottoman, Safavid, Mughal, or Russian empires) and European maritime empires expanded their power. Develop an argument that compares the methods by which land-based and maritime empires expanded and maintained control in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: gunpowder technology, competition among states, the search for revenue and trade, or religious legitimation of rule.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Ottoman devshirme bureaucracy and siege artillery, Mughal mansabdari system, Russian eastward expansion, Spanish/Portuguese fortified trading posts and settler colonies, Dutch and English joint-stock companies.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must support an explicit comparison of methods of expansion and control (military, administrative, economic, ideological) across both empire types.",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Comparison: identifies similarities (e.g., use of gunpowder, bureaucracies, religious legitimation) and differences (contiguous territory vs. sea-based networks, settler colonialism vs. tribute systems).",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Land-based and maritime empires shared core methods - gunpowder weapons, professional bureaucracies, and religious or dynastic legitimation - but differed in how they held territory: land empires ruled contiguous populations through provincial administration and accommodation, while maritime empires controlled distant ports and plantations through naval power and commercial monopolies.",
+  "evidence_directions": "Strong responses compare at least one land-based and one maritime empire on the same dimensions (military, administration, economy, legitimation). Lists of empires without direct comparison, or answers covering only one type, cannot earn full reasoning credit.",
+  "source_inspiration": "fresh (no source - land-based vs maritime empire comparison not covered by sources)"
+}

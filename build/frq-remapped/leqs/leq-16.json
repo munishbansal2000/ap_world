@@ -1,0 +1,26 @@
+{
+  "id": "leq-16",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    8
+  ],
+  "themes": [
+    "GOV",
+    "SIO"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the twentieth century, nationalist and anti-imperial movements challenged European empires across Asia. Develop an argument that evaluates the extent to which anti-imperialism transformed Asian societies in the period c. 1900-c. 2001.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the weakening of European empires by the World Wars, Wilsonian self-determination, Cold War superpower rivalry, or pre-existing nationalist organizations.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Indian independence and partition (1947), the Chinese and Vietnamese revolutions, Indonesian independence, land reform and nationalization programs, the persistence of colonial borders and authoritarian rule.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to weigh transformation (new states, social revolutions) against continuity (colonial borders, economic dependence, authoritarian legacies).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: evaluates the degree of transformation by distinguishing genuine ruptures from persistent colonial legacies.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Anti-imperialism transformed Asia's political map by creating dozens of independent states and, in cases like China and Vietnam, enabling deep social revolution, but the transformation was bounded: colonial borders, export-oriented economies, and authoritarian habits of rule persisted well past independence.",
+  "evidence_directions": "Strong responses specify what changed (sovereignty, mass politics, land reform) and what did not (arbitrary borders, neocolonial economic ties, military rule). Answers that treat decolonization as either total liberation or total failure miss the evaluation.",
+  "source_inspiration": "princeton-epub: princeton-pt2-leq4"
+}
