@@ -1,157 +1,157 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "Ming tax reforms, culminating in the Single Whip Reform, commuted labor obligations and many taxes into payments in silver. That created an empire-wide official demand for the metal, which is why China absorbed so much American silver through Manila and other routes. (A) is wrong because China did mine some silver domestically; the demand came from fiscal policy, not total absence. (C) is wrong because Confucian officials did not ban paper money on doctrinal grounds — earlier dynasties had used it heavily, and it was inflation that discredited it. (D) is wrong because Ming China did not hire European mercenary armies on a scale requiring American silver.",
-  "id": "wh-fivesteps-u3-001",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. China possessed domestic silver mines; the surge in demand came from fiscal policy, not from having no silver at all.",
-   "B": "Correct. Reforms commuting taxes and labor dues into silver payments created empire-wide official demand for the metal.",
-   "C": "Wrong. Confucian doctrine did not ban paper money; earlier dynasties issued it, and it was inflation, not doctrine, that discredited it.",
-   "D": "Wrong. Ming China did not employ European mercenary armies on a scale that would explain its silver demand."
+  {
+    "difficulty": "hard",
+    "explanation": "Ming tax reforms, culminating in the Single Whip Reform, commuted labor obligations and many taxes into payments in silver. That created an empire-wide official demand for the metal, which is why China absorbed so much American silver through Manila and other routes. (A) is wrong because China did mine some silver domestically; the demand came from fiscal policy, not total absence. (C) is wrong because Confucian officials did not ban paper money on doctrinal grounds — earlier dynasties had used it heavily, and it was inflation that discredited it. (D) is wrong because Ming China did not hire European mercenary armies on a scale requiring American silver.",
+    "id": "wh-fivesteps-u3-001",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Reforms commuting taxes and labor dues into silver payments created empire-wide official demand for the metal.",
+      "B": "Wrong. China possessed domestic silver mines; the surge in demand came from fiscal policy, not from having no silver at all.",
+      "C": "Wrong. Confucian doctrine did not ban paper money; earlier dynasties issued it, and it was inflation, not doctrine, that discredited it.",
+      "D": "Wrong. Ming China did not employ European mercenary armies on a scale that would explain its silver demand."
+    },
+    "options": [
+      "(A) Tax reforms required taxes and labor dues to be paid in silver",
+      "(B) China had no domestic silver mines of its own",
+      "(C) Confucian doctrine banned the use of paper money",
+      "(D) Silver was needed to pay European mercenary armies"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-001",
+    "source_stimulus_words": 0,
+    "stem": "Ming China absorbed vast quantities of American silver in the sixteenth and seventeenth centuries. What domestic policy best explains China's intense demand for silver?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) China had no domestic silver mines of its own",
-   "(B) Tax reforms required taxes and labor dues to be paid in silver",
-   "(C) Confucian doctrine banned the use of paper money",
-   "(D) Silver was needed to pay European mercenary armies"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-001",
-  "source_stimulus_words": 0,
-  "stem": "Ming China absorbed vast quantities of American silver in the sixteenth and seventeenth centuries. What domestic policy best explains China's intense demand for silver?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ECN",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "medium",
-  "explanation": "When prices rise faster than wages, people paid fixed money wages can buy less food and fewer goods — and across sixteenth-century Europe, real wages for laborers fell as the Price Revolution outran pay. (A) is wrong because long-distance merchants generally profited from rising prices and expanding trade. (B) is wrong because the Spanish crown was the great beneficiary of American bullion revenues. (D) is wrong because mine owners and operators profited directly from high silver output and prices.",
-  "id": "wh-fivesteps-u3-002",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Long-distance merchants generally profited from rising prices and the expansion of trade.",
-   "B": "Wrong. The Spanish crown was the chief beneficiary of American bullion revenues, not a victim of them.",
-   "C": "Correct. Wages lagged behind rising prices, so laborers on fixed money wages lost purchasing power as real wages fell.",
-   "D": "Wrong. Mine owners and operators profited from high silver output and strong prices."
+  {
+    "difficulty": "medium",
+    "explanation": "When prices rise faster than wages, people paid fixed money wages can buy less food and fewer goods — and across sixteenth-century Europe, real wages for laborers fell as the Price Revolution outran pay. (A) is wrong because long-distance merchants generally profited from rising prices and expanding trade. (B) is wrong because the Spanish crown was the great beneficiary of American bullion revenues. (D) is wrong because mine owners and operators profited directly from high silver output and prices.",
+    "id": "wh-fivesteps-u3-002",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Long-distance merchants generally profited from rising prices and the expansion of trade.",
+      "B": "Wrong. The Spanish crown was the chief beneficiary of American bullion revenues, not a victim of them.",
+      "C": "Correct. Wages lagged behind rising prices, so laborers on fixed money wages lost purchasing power as real wages fell.",
+      "D": "Wrong. Mine owners and operators profited from high silver output and strong prices."
+    },
+    "options": [
+      "(A) Merchants engaged in long-distance trade",
+      "(B) The Spanish crown collecting bullion revenues",
+      "(C) Urban wage laborers paid fixed money wages",
+      "(D) Owners of American silver mines"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-002",
+    "source_stimulus_words": 0,
+    "stem": "The influx of American silver caused sustained inflation across sixteenth-century Europe. Which group was most harmed by this Price Revolution?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) Merchants engaged in long-distance trade",
-   "(B) The Spanish crown collecting bullion revenues",
-   "(C) Urban wage laborers paid fixed money wages",
-   "(D) Owners of American silver mines"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-002",
-  "source_stimulus_words": 0,
-  "stem": "The influx of American silver caused sustained inflation across sixteenth-century Europe. Which group was most harmed by this Price Revolution?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "medium",
-  "explanation": "The Glorious Revolution deposed James II and the 1689 Bill of Rights barred the monarch from suspending laws, levying taxes, or keeping a standing army without Parliament's consent — the legal foundation of England's limited monarchy. (A) is wrong because the Civil War ended with the Restoration of the monarchy in 1660, not with parliamentary supremacy secured. (B) is wrong because England never adopted a single written constitution in 1700. (D) is wrong because the Stuarts resisted limits on their power; parliamentary supremacy was imposed on them, not volunteered.",
-  "id": "wh-fivesteps-u3-003",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. The Civil War ended with the monarchy restored in 1660; parliamentary supremacy was not secured until decades later.",
-   "B": "Wrong. England did not adopt a single written constitution in 1700; its constitution remained unwritten and customary.",
-   "C": "Correct. The 1688 revolution and the 1689 Bill of Rights legally subordinated the monarch to Parliament on laws, taxes, and armies.",
-   "D": "Wrong. Stuart kings resisted parliamentary limits; those limits were imposed on the monarchy, not surrendered voluntarily."
+  {
+    "difficulty": "medium",
+    "explanation": "The Glorious Revolution deposed James II and the 1689 Bill of Rights barred the monarch from suspending laws, levying taxes, or keeping a standing army without Parliament's consent — the legal foundation of England's limited monarchy. (A) is wrong because the Civil War ended with the Restoration of the monarchy in 1660, not with parliamentary supremacy secured. (B) is wrong because England never adopted a single written constitution in 1700. (D) is wrong because the Stuarts resisted limits on their power; parliamentary supremacy was imposed on them, not volunteered.",
+    "id": "wh-fivesteps-u3-003",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The Civil War ended with the monarchy restored in 1660; parliamentary supremacy was not secured until decades later.",
+      "B": "Correct. The 1688 revolution and the 1689 Bill of Rights legally subordinated the monarch to Parliament on laws, taxes, and armies.",
+      "C": "Wrong. England did not adopt a single written constitution in 1700; its constitution remained unwritten and customary.",
+      "D": "Wrong. Stuart kings resisted parliamentary limits; those limits were imposed on the monarchy, not surrendered voluntarily."
+    },
+    "options": [
+      "(A) The English Civil War, which permanently abolished the monarchy",
+      "(B) The Glorious Revolution and the Bill of Rights of 1689",
+      "(C) The adoption of a written constitution in 1700",
+      "(D) The voluntary surrender of power by the Stuart kings"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-003",
+    "source_stimulus_words": 0,
+    "stem": "Which development best explains why England, unlike France or Spain, had a limited monarchy by the early eighteenth century?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) The English Civil War, which permanently abolished the monarchy",
-   "(B) The adoption of a written constitution in 1700",
-   "(C) The Glorious Revolution and the Bill of Rights of 1689",
-   "(D) The voluntary surrender of power by the Stuart kings"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-003",
-  "source_stimulus_words": 0,
-  "stem": "Which development best explains why England, unlike France or Spain, had a limited monarchy by the early eighteenth century?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "medium",
-  "explanation": "Akbar abolished the jizya tax on non-Muslims, appointed Hindus to high office, and proclaimed sulh-i-kul — 'universal peace' or tolerance — as state policy, deliberately binding a Hindu-majority population to a Muslim-ruled empire. (A) is wrong because imposing sharia on all subjects was closer to the later policy direction under Aurangzeb, not Akbar. (B) is wrong because Akbar patronized Hindu festivals and Rajput alliances rather than banning them. (D) is wrong because Akbar famously appointed Hindus, including Raja Todar Mal and Birbal, to senior posts without requiring conversion.",
-  "id": "wh-fivesteps-u3-004",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Imposing sharia on all subjects reflects the later direction under Aurangzeb, not Akbar's policy of accommodation.",
-   "B": "Wrong. Akbar patronized Hindu festivals and formed Rajput marriage alliances; he did not suppress Hindu public life.",
-   "C": "Correct. Ending the jizya and proclaiming universal tolerance bound a Hindu-majority population to Muslim imperial rule.",
-   "D": "Wrong. Akbar appointed Hindus to the highest offices without requiring conversion to Islam."
+  {
+    "difficulty": "medium",
+    "explanation": "Akbar abolished the jizya tax on non-Muslims, appointed Hindus to high office, and proclaimed sulh-i-kul — 'universal peace' or tolerance — as state policy, deliberately binding a Hindu-majority population to a Muslim-ruled empire. (A) is wrong because imposing sharia on all subjects was closer to the later policy direction under Aurangzeb, not Akbar. (B) is wrong because Akbar patronized Hindu festivals and Rajput alliances rather than banning them. (D) is wrong because Akbar famously appointed Hindus, including Raja Todar Mal and Birbal, to senior posts without requiring conversion.",
+    "id": "wh-fivesteps-u3-004",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Imposing sharia on all subjects reflects the later direction under Aurangzeb, not Akbar's policy of accommodation.",
+      "B": "Correct. Ending the jizya and proclaiming universal tolerance bound a Hindu-majority population to Muslim imperial rule.",
+      "C": "Wrong. Akbar patronized Hindu festivals and formed Rajput marriage alliances; he did not suppress Hindu public life.",
+      "D": "Wrong. Akbar appointed Hindus to the highest offices without requiring conversion to Islam."
+    },
+    "options": [
+      "(A) Imposing sharia law on all imperial subjects",
+      "(B) Abolishing the jizya and proclaiming sulh-i-kul, universal tolerance",
+      "(C) Banning Hindu public festivals",
+      "(D) Requiring conversion to Islam for government office"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-004",
+    "source_stimulus_words": 0,
+    "stem": "Which policy of the Mughal emperor Akbar best illustrates his approach to governing a religiously diverse empire?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) Imposing sharia law on all imperial subjects",
-   "(B) Banning Hindu public festivals",
-   "(C) Abolishing the jizya and proclaiming sulh-i-kul, universal tolerance",
-   "(D) Requiring conversion to Islam for government office"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-004",
-  "source_stimulus_words": 0,
-  "stem": "Which policy of the Mughal emperor Akbar best illustrates his approach to governing a religiously diverse empire?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "medium",
-  "explanation": "Neither regime cut itself off entirely: the Ming permitted regulated trade at Canton and the Tokugawa at Nagasaki, keeping the profits of commerce while using strict controls to limit missionary activity and foreign political influence. (A) is wrong because both regimes restricted rather than embraced unrestricted foreign trade. (B) is wrong because neither was conquered or colonized by Europeans in this period. (D) is wrong because regulated, limited trade continued at designated ports; the 'total isolation' picture is the oversimplification this question corrects.",
-  "id": "wh-fivesteps-u3-005",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Both regimes restricted foreign trade to state-controlled channels rather than embracing free trade.",
-   "B": "Wrong. Neither Ming China nor Tokugawa Japan was conquered or colonized by Europeans in this period.",
-   "C": "Correct. Limited trade at Canton and Nagasaki shows both wanted commerce's profits while screening out foreign influence.",
-   "D": "Wrong. Regulated trade continued at designated ports; neither regime imposed a literally total ban on foreign contact."
-  },
-  "options": [
-   "(A) Both embraced unrestricted free trade with Europeans",
-   "(B) Both were conquered and colonized by European powers",
-   "(C) Both permitted limited, state-controlled trade while screening out foreign influence",
-   "(D) Both imposed a total ban on all foreign contact"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u3-005",
-  "source_stimulus_words": 0,
-  "stem": "Both the Ming dynasty and the Tokugawa shogunate permitted limited, regulated foreign trade — at Canton and Nagasaki respectively — rather than banning it outright. What does this similarity best illustrate?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 3
- }
+  {
+    "difficulty": "medium",
+    "explanation": "Neither regime cut itself off entirely: the Ming permitted regulated trade at Canton and the Tokugawa at Nagasaki, keeping the profits of commerce while using strict controls to limit missionary activity and foreign political influence. (A) is wrong because both regimes restricted rather than embraced unrestricted foreign trade. (B) is wrong because neither was conquered or colonized by Europeans in this period. (D) is wrong because regulated, limited trade continued at designated ports; the 'total isolation' picture is the oversimplification this question corrects.",
+    "id": "wh-fivesteps-u3-005",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Both regimes restricted foreign trade to state-controlled channels rather than embracing free trade.",
+      "B": "Wrong. Neither Ming China nor Tokugawa Japan was conquered or colonized by Europeans in this period.",
+      "C": "Correct. Limited trade at Canton and Nagasaki shows both wanted commerce's profits while screening out foreign influence.",
+      "D": "Wrong. Regulated trade continued at designated ports; neither regime imposed a literally total ban on foreign contact."
+    },
+    "options": [
+      "(A) Both embraced unrestricted free trade with Europeans",
+      "(B) Both were conquered and colonized by European powers",
+      "(C) Both permitted limited, state-controlled trade while screening out foreign influence",
+      "(D) Both imposed a total ban on all foreign contact"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u3-005",
+    "source_stimulus_words": 0,
+    "stem": "Both the Ming dynasty and the Tokugawa shogunate permitted limited, regulated foreign trade — at Canton and Nagasaki respectively — rather than banning it outright. What does this similarity best illustrate?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 3
+  }
 ]

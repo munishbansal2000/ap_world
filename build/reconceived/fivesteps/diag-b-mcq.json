@@ -1,850 +1,850 @@
 [
- {
-  "difficulty": "medium",
-  "explanation": "In 1494 the pope drew a meridian through the Atlantic, granting Spain lands west of it and Portugal lands east. That both Catholic powers accepted a papal line as settling their rivalry shows the pope still functioned as the recognized arbiter of Christian princes' overseas claims.",
-  "id": "wh-fivesteps-u4-024",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The pope actively sponsored the division of the non-European world; he did not oppose exploration.",
-   "B": "Correct. Both powers accepted the pope's line as binding, showing his recognized authority to arbitrate their claims.",
-   "C": "Wrong. Native peoples were not consulted; the line was drawn in Europe for Europeans.",
-   "D": "Wrong. Spain and Portugal treated the papal line as the legal basis of their empires."
+  {
+    "difficulty": "medium",
+    "explanation": "In 1494 the pope drew a meridian through the Atlantic, granting Spain lands west of it and Portugal lands east. That both Catholic powers accepted a papal line as settling their rivalry shows the pope still functioned as the recognized arbiter of Christian princes' overseas claims.",
+    "id": "wh-fivesteps-u4-024",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Both powers accepted the pope's line as binding, showing his recognized authority to arbitrate their claims.",
+      "B": "Wrong. The pope actively sponsored the division of the non-European world; he did not oppose exploration.",
+      "C": "Wrong. Native peoples were not consulted; the line was drawn in Europe for Europeans.",
+      "D": "Wrong. Spain and Portugal treated the papal line as the legal basis of their empires."
+    },
+    "options": [
+      "(A) European powers accepted the pope as arbiter of their overseas claims",
+      "(B) The pope opposed all overseas exploration",
+      "(C) Native peoples drew the line themselves",
+      "(D) Spain and Portugal ignored the papal line entirely"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-008",
+    "source_stimulus_words": 0,
+    "stem": "The map shows the 1494 papal line of demarcation granting Spain claims west of the line and Portugal claims east, with Brazil falling on Portugal's side. What does the line reveal about the pope's authority in 1494?",
+    "stimulus": "The map shows the Atlantic world with a north-south papal line of demarcation drawn in 1494: Spanish claims lie west of the line, Portuguese claims (including Brazil) east of it.",
+    "stimulus_words": 30,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The pope opposed all overseas exploration",
-   "(B) European powers accepted the pope as arbiter of their overseas claims",
-   "(C) Native peoples drew the line themselves",
-   "(D) Spain and Portugal ignored the papal line entirely"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-008",
-  "source_stimulus_words": 0,
-  "stem": "The map shows the 1494 papal line of demarcation granting Spain claims west of the line and Portugal claims east, with Brazil falling on Portugal's side. What does the line reveal about the pope's authority in 1494?",
-  "stimulus": "The map shows the Atlantic world with a north-south papal line of demarcation drawn in 1494: Spanish claims lie west of the line, Portuguese claims (including Brazil) east of it.",
-  "stimulus_words": 30,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Zheng He's expeditions were floating embassies of intimidation and prestige: scores of great ships displaying Ming splendor, collecting tribute and envoys. The court sought political deference, not commercial profit, so when Confucian officials argued the money was better spent defending the northern frontier, the voyages ended without economic regret.",
-  "id": "wh-fivesteps-u2-008",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Zheng He's fleets reached East Africa and Arabia, contacting dozens of cultures.",
-   "B": "Correct. The voyages sought tribute and prestige, displaying Ming power; profit was not their purpose.",
-   "C": "Wrong. No European power sank Zheng He's fleets; the Ming court ended the voyages itself.",
-   "D": "Wrong. The great treasure ships returned successfully; the voyages were not a navigational failure."
+  {
+    "difficulty": "hard",
+    "explanation": "Zheng He's expeditions were floating embassies of intimidation and prestige: scores of great ships displaying Ming splendor, collecting tribute and envoys. The court sought political deference, not commercial profit, so when Confucian officials argued the money was better spent defending the northern frontier, the voyages ended without economic regret.",
+    "id": "wh-fivesteps-u2-008",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Zheng He's fleets reached East Africa and Arabia, contacting dozens of cultures.",
+      "B": "Wrong. No European power sank Zheng He's fleets; the Ming court ended the voyages itself.",
+      "C": "Correct. The voyages sought tribute and prestige, displaying Ming power; profit was not their purpose.",
+      "D": "Wrong. The great treasure ships returned successfully; the voyages were not a navigational failure."
+    },
+    "options": [
+      "(A) The fleets failed to reach any foreign lands",
+      "(B) European navies destroyed the Chinese fleets",
+      "(C) The voyages sought tribute and prestige rather than commercial profit",
+      "(D) All the treasure ships sank at sea"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-004",
+    "source_stimulus_words": 0,
+    "stem": "Zheng He's treasure fleets dwarfed anything in Europe, yet the Ming court abandoned oceanic voyages after the 1430s. What did the court gain from the voyages that made trade profits unnecessary?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ENV",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) The fleets failed to reach any foreign lands",
-   "(B) The voyages sought tribute and prestige rather than commercial profit",
-   "(C) European navies destroyed the Chinese fleets",
-   "(D) All the treasure ships sank at sea"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-004",
-  "source_stimulus_words": 0,
-  "stem": "Zheng He's treasure fleets dwarfed anything in Europe, yet the Ming court abandoned oceanic voyages after the 1430s. What did the court gain from the voyages that made trade profits unnecessary?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ENV",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "medium",
-  "explanation": "The Atlantic is roughly 3,000 miles wide and the Pacific far wider; no ship of the ancient or medieval world could carry enough water and provisions to cross them. Afro-Eurasian networks stopped at the water's edge because the technology to cross did not yet exist.",
-  "id": "wh-fivesteps-u1-021",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. American peoples traded extensively among themselves; no ban isolated them.",
-   "B": "Correct. Oceans too wide for pre-modern ships physically separated the Americas from Afro-Eurasian networks.",
-   "C": "Wrong. The Americas held valuable goods, from silver to maize; goods were not the barrier.",
-   "D": "Wrong. Europeans did not know the Americas existed before 1492; nothing was deliberately hidden."
+  {
+    "difficulty": "medium",
+    "explanation": "The Atlantic is roughly 3,000 miles wide and the Pacific far wider; no ship of the ancient or medieval world could carry enough water and provisions to cross them. Afro-Eurasian networks stopped at the water's edge because the technology to cross did not yet exist.",
+    "id": "wh-fivesteps-u1-021",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. American peoples traded extensively among themselves; no ban isolated them.",
+      "B": "Wrong. The Americas held valuable goods, from silver to maize; goods were not the barrier.",
+      "C": "Correct. Oceans too wide for pre-modern ships physically separated the Americas from Afro-Eurasian networks.",
+      "D": "Wrong. Europeans did not know the Americas existed before 1492; nothing was deliberately hidden."
+    },
+    "options": [
+      "(A) American peoples banned all foreign trade",
+      "(B) The Americas had no goods worth trading",
+      "(C) Oceans too wide for existing ships physically isolated the Americas",
+      "(D) Europeans deliberately hid the Americas from Asian merchants to monopolize trade"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-011",
+    "source_stimulus_words": 0,
+    "stem": "Before 1492, the Americas were isolated from Afro-Eurasian trade networks. What was the fundamental reason?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) American peoples banned all foreign trade",
-   "(B) Oceans too wide for existing ships physically isolated the Americas",
-   "(C) The Americas had no goods worth trading",
-   "(D) Europeans deliberately hid the Americas from Asian merchants"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-011",
-  "source_stimulus_words": 0,
-  "stem": "Before 1492, the Americas were isolated from Afro-Eurasian trade networks. What was the fundamental reason?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "ECN",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "medium",
-  "explanation": "Mercantilists equated wealth with bullion, but Spain's American silver mostly flowed out again to pay for imports and wars, while prices at home soared. The Price Revolution showed that piling up precious metal without productive industry produces inflation, not lasting prosperity.",
-  "id": "wh-fivesteps-u4-025",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Silver had real purchasing power; the problem was what Spain did (and did not do) with it.",
-   "B": "Correct. Hoarded bullion without productive industry produced inflation rather than lasting prosperity.",
-   "C": "Wrong. Spain imported enormous quantities of American silver; it did not lack the metal.",
-   "D": "Wrong. The Price Revolution made Spaniards poorer in real terms; inflation was not beneficial."
+  {
+    "difficulty": "medium",
+    "explanation": "Mercantilists equated wealth with bullion, but Spain's American silver mostly flowed out again to pay for imports and wars, while prices at home soared. The Price Revolution showed that piling up precious metal without productive industry produces inflation, not lasting prosperity.",
+    "id": "wh-fivesteps-u4-025",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Silver had real purchasing power; the problem was what Spain did (and did not do) with it.",
+      "B": "Wrong. Spain imported enormous quantities of American silver; it did not lack the metal.",
+      "C": "Correct. Hoarded bullion without productive industry produced inflation rather than lasting prosperity.",
+      "D": "Wrong. The Price Revolution made Spaniards poorer in real terms; inflation was not beneficial."
+    },
+    "options": [
+      "(A) Silver is inherently worthless",
+      "(B) Spain never obtained any American silver",
+      "(C) Accumulating bullion without productive industry causes inflation, not prosperity",
+      "(D) Inflation always benefits the nation experiencing it by increasing tax revenues and trade"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-009",
+    "source_stimulus_words": 0,
+    "stem": "Spain shipped tons of American silver to Europe, yet Spanish prices soared and its industry lagged. What does this illustrate about mercantilist assumptions?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Silver is inherently worthless",
-   "(B) Accumulating bullion without productive industry causes inflation, not prosperity",
-   "(C) Spain never obtained any American silver",
-   "(D) Inflation always benefits the nation experiencing it"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-009",
-  "source_stimulus_words": 0,
-  "stem": "Spain shipped tons of American silver to Europe, yet Spanish prices soared and its industry lagged. What does this illustrate about mercantilist assumptions?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Wordsworth wrote in the dawn of 1789 as a young sympathizer, drunk on hope; Dickens wrote in 1859 with the Terror, the guillotine, and Napoleon's empire in full view. The same Revolution looks different from inside its hopeful opening than from after its violent sequel, showing how a writer's moment and experience color judgment of the past.",
-  "id": "wh-fivesteps-u5-008",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Neither writer's age alone determines correctness; the point is how moment and experience shape interpretation.",
-   "B": "Correct. Wordsworth's hopeful witness of 1789 and Dickens's retrospective view after the Terror show how timing and experience color judgment.",
-   "C": "Wrong. Poetry can be a valuable historical source for contemporary attitudes; the issue is perspective, not genre.",
-   "D": "Wrong. The Revolution had passionate supporters, Wordsworth among them in his youth."
+  {
+    "difficulty": "hard",
+    "explanation": "Wordsworth wrote in the dawn of 1789 as a young sympathizer, drunk on hope; Dickens wrote in 1859 with the Terror, the guillotine, and Napoleon's empire in full view. The same Revolution looks different from inside its hopeful opening than from after its violent sequel, showing how a writer's moment and experience color judgment of the past.",
+    "id": "wh-fivesteps-u5-008",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Neither writer's age alone determines correctness; the point is how moment and experience shape interpretation.",
+      "B": "Wrong. Poetry can be a valuable historical source for contemporary attitudes; the issue is perspective, not genre.",
+      "C": "Wrong. The Revolution had passionate supporters, Wordsworth among them in his youth.",
+      "D": "Correct. Wordsworth's hopeful witness of 1789 and Dickens's retrospective view after the Terror show how timing and experience color judgment."
+    },
+    "options": [
+      "(A) Older writers always judge the past more accurately",
+      "(B) Poetry is useless as historical evidence",
+      "(C) The Revolution had no genuine supporters",
+      "(D) A writer's moment in time and personal experience shape judgment of the same event"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u5-001",
+    "source_stimulus_words": 208,
+    "stem": "Wordsworth wrote as a young witness of 1789; Dickens wrote decades later, after the Terror. What does their difference illustrate about historical interpretation?",
+    "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
+    "stimulus_words": 82,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) Older writers always judge the past more accurately",
-   "(B) A writer's moment in time and personal experience shape judgment of the same event",
-   "(C) Poetry is useless as historical evidence",
-   "(D) The Revolution had no genuine supporters"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u5-001",
-  "source_stimulus_words": 208,
-  "stem": "Wordsworth wrote as a young witness of 1789; Dickens wrote decades later, after the Terror. What does their difference illustrate about historical interpretation?",
-  "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
-  "stimulus_words": 82,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "American colonists kept their property structure and much of their elite; the French revolutionaries abolished feudal dues, seized Church lands, and executed the king, attempting to remake the social order from the ground up. One was a war of independence, the other a social revolution.",
-  "id": "wh-fivesteps-u5-009",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Both revolutions were fueled by tax grievances; taxation does not distinguish them.",
-   "B": "Correct. The French Revolution tried to overturn the entire social order, while the American preserved much of its colonial structure.",
-   "C": "Wrong. France's tax burden was notoriously heavy and unjust; taxes were central to its crisis.",
-   "D": "Wrong. Neither revolution immediately restored monarchy; France's republic came first."
+  {
+    "difficulty": "hard",
+    "explanation": "American colonists kept their property structure and much of their elite; the French revolutionaries abolished feudal dues, seized Church lands, and executed the king, attempting to remake the social order from the ground up. One was a war of independence, the other a social revolution.",
+    "id": "wh-fivesteps-u5-009",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Both revolutions were fueled by tax grievances; taxation does not distinguish them.",
+      "B": "Wrong. France's tax burden was notoriously heavy and unjust; taxes were central to its crisis.",
+      "C": "Wrong. Neither revolution immediately restored monarchy; France's republic came first.",
+      "D": "Correct. The French Revolution tried to overturn the entire social order, while the American preserved much of its colonial structure."
+    },
+    "options": [
+      "(A) Only the American Revolution involved taxation",
+      "(B) France had no tax grievances",
+      "(C) Both revolutions immediately restored their monarchies within a few years of republican rule",
+      "(D) The French Revolution overturned the entire social order; the American kept its elites"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u5-002",
+    "source_stimulus_words": 208,
+    "stem": "Both the American and French Revolutions protested unfair taxation. In which crucial respect did the French Revolution differ from the American?",
+    "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
+    "stimulus_words": 82,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) Only the American Revolution involved taxation",
-   "(B) The French Revolution overturned the entire social order; the American preserved much of its elite structure",
-   "(C) France had no tax grievances",
-   "(D) Both revolutions immediately restored monarchies"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u5-002",
-  "source_stimulus_words": 208,
-  "stem": "Both the American and French Revolutions protested unfair taxation. In which crucial respect did the French Revolution differ from the American?",
-  "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
-  "stimulus_words": 82,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Robespierre argued that the Revolution's virtue, its devotion to the public good, could not survive against its enemies, royalists, hoarders, traitors, without terror to crush them: virtue wedded to terror would save the republic. It was the classic logic of ends justifying extreme means.",
-  "id": "wh-fivesteps-u5-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Robespierre was the Terror's chief architect and defender, not its opponent.",
-   "B": "Correct. He claimed revolutionary virtue required terror against the republic's enemies to survive.",
-   "C": "Wrong. Robespierre sent Louis XVI to the guillotine; restoring the king was the opposite of his program.",
-   "D": "Wrong. The Terror was deliberate state policy, publicly justified, not an accident."
+  {
+    "difficulty": "hard",
+    "explanation": "Robespierre argued that the Revolution's virtue, its devotion to the public good, could not survive against its enemies, royalists, hoarders, traitors, without terror to crush them: virtue wedded to terror would save the republic. It was the classic logic of ends justifying extreme means.",
+    "id": "wh-fivesteps-u5-010",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Robespierre was the Terror's chief architect and defender, not its opponent.",
+      "B": "Correct. He claimed revolutionary virtue required terror against the republic's enemies to survive.",
+      "C": "Wrong. Robespierre sent Louis XVI to the guillotine; restoring the king was the opposite of his program.",
+      "D": "Wrong. The Terror was deliberate state policy, publicly justified, not an accident."
+    },
+    "options": [
+      "(A) He opposed all political violence",
+      "(B) Revolutionary virtue required terror against the republic's enemies",
+      "(C) He sought to restore the monarchy",
+      "(D) The Terror was an unintended accident"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-003",
+    "source_stimulus_words": 208,
+    "stem": "Robespierre justified the Terror as the necessary companion of virtue. What logic did this express?",
+    "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
+    "stimulus_words": 82,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) He opposed all political violence",
-   "(B) Revolutionary virtue required terror against the republic's enemies",
-   "(C) He sought to restore the monarchy",
-   "(D) The Terror was an unintended accident"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-003",
-  "source_stimulus_words": 208,
-  "stem": "Robespierre justified the Terror as the necessary companion of virtue. What logic did this express?",
-  "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
-  "stimulus_words": 82,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Enlightenment thinkers argued that governments rest on a contract with the governed, who retain natural rights. That claim pulled the rug from under divine-right monarchy: if legitimacy comes from consent, an absolute king ruling without it is a usurper by definition.",
-  "id": "wh-fivesteps-u5-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. No Enlightenment thinker claimed kings were immortal; the argument was about legitimacy, not biology.",
-   "B": "Correct. Consent-based legitimacy made divine-right absolutism illegitimate by definition.",
-   "C": "Wrong. Social-contract theory opposed divine right; it did not support it.",
-   "D": "Wrong. The philosophes wanted reformed, lawful government, not the abolition of all government."
+  {
+    "difficulty": "hard",
+    "explanation": "Enlightenment thinkers argued that governments rest on a contract with the governed, who retain natural rights. That claim pulled the rug from under divine-right monarchy: if legitimacy comes from consent, an absolute king ruling without it is a usurper by definition.",
+    "id": "wh-fivesteps-u5-011",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Consent-based legitimacy made divine-right absolutism illegitimate by definition.",
+      "B": "Wrong. No Enlightenment thinker claimed kings were immortal; the argument was about legitimacy, not biology.",
+      "C": "Wrong. Social-contract theory opposed divine right; it did not support it.",
+      "D": "Wrong. The philosophes wanted reformed, lawful government, not the abolition of all government."
+    },
+    "options": [
+      "(A) By claiming legitimacy comes from the people's consent, not divine right",
+      "(B) By proving that kings were immortal",
+      "(C) By supporting the divine right of kings as the only God-given form of authority",
+      "(D) By opposing all forms of government"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-004",
+    "source_stimulus_words": 208,
+    "stem": "How did Enlightenment social-contract ideas undermine absolute monarchy?",
+    "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
+    "stimulus_words": 82,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) By proving that kings were immortal",
-   "(B) By claiming legitimacy comes from the people's consent, not divine right",
-   "(C) By supporting the divine right of kings",
-   "(D) By opposing all forms of government"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-004",
-  "source_stimulus_words": 208,
-  "stem": "How did Enlightenment social-contract ideas undermine absolute monarchy?",
-  "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
-  "stimulus_words": 82,
-  "themes": [
-   "CDI",
-   "GOV",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "A bubble is beautiful, fragile, and doomed to pop. By showing Wilson blowing the League as a soap bubble, the cartoonist mocks the League as a delicate fantasy of idealists, certain to burst against the hard realities of international conflict.",
-  "id": "wh-fivesteps-u7-004",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Wilson is shown creating the bubble; he championed the League rather than opposing it.",
-   "B": "Correct. The bubble metaphor presents the League as a fragile idealist fantasy doomed to burst.",
-   "C": "Wrong. Nothing in the image suggests the League was aggressive; the point is its fragility.",
-   "D": "Wrong. Bubbles are the universal symbol of fragility, not of strength."
+  {
+    "difficulty": "hard",
+    "explanation": "A bubble is beautiful, fragile, and doomed to pop. By showing Wilson blowing the League as a soap bubble, the cartoonist mocks the League as a delicate fantasy of idealists, certain to burst against the hard realities of international conflict.",
+    "id": "wh-fivesteps-u7-004",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The bubble metaphor presents the League as a fragile idealist fantasy doomed to burst.",
+      "B": "Wrong. Wilson is shown creating the bubble; he championed the League rather than opposing it.",
+      "C": "Wrong. Nothing in the image suggests the League was aggressive; the point is its fragility.",
+      "D": "Wrong. Bubbles are the universal symbol of fragility, not of strength."
+    },
+    "options": [
+      "(A) The League was a fragile idealist creation doomed to burst",
+      "(B) Wilson opposed the League of Nations",
+      "(C) The League was dangerously aggressive",
+      "(D) Bubbles symbolize strength and permanence, unlike fragile glass"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-004",
+    "source_stimulus_words": 2,
+    "stem": "A 1919 cartoon titled 'Blowing Bubbles' shows Woodrow Wilson blowing a large, fragile soap bubble labeled 'League of Nations.' What criticism does the bubble metaphor convey?",
+    "stimulus": "The 1919 political cartoon 'Blowing Bubbles' depicts President Woodrow Wilson blowing a large, iridescent soap bubble labeled 'League of Nations,' which drifts delicately through the air.",
+    "stimulus_words": 26,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Wilson opposed the League of Nations",
-   "(B) The League was a fragile idealist creation doomed to burst",
-   "(C) The League was dangerously aggressive",
-   "(D) Bubbles symbolize strength and permanence"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-004",
-  "source_stimulus_words": 2,
-  "stem": "A 1919 cartoon titled 'Blowing Bubbles' shows Woodrow Wilson blowing a large, fragile soap bubble labeled 'League of Nations.' What criticism does the bubble metaphor convey?",
-  "stimulus": "The 1919 political cartoon 'Blowing Bubbles' depicts President Woodrow Wilson blowing a large, iridescent soap bubble labeled 'League of Nations,' which drifts delicately through the air.",
-  "stimulus_words": 26,
-  "themes": [
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "The League's fatal weakness was the absence of the great powers, above all the United States, whose Senate rejected membership. The UN's founders therefore built the organization around the great powers, giving the victors of WWII permanent Security Council seats and vetoes to guarantee their participation.",
-  "id": "wh-fivesteps-u7-005",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The UN never banned all war; its charter regulates and in practice tolerates armed conflict.",
-   "B": "Correct. Permanent Security Council seats and vetoes were designed to keep the great powers, especially the US, committed members.",
-   "C": "Wrong. The UN kept a General Assembly where all members debate; it did not abolish it.",
-   "D": "Wrong. The UN was built around the great powers, not by excluding them."
+  {
+    "difficulty": "hard",
+    "explanation": "The League's fatal weakness was the absence of the great powers, above all the United States, whose Senate rejected membership. The UN's founders therefore built the organization around the great powers, giving the victors of WWII permanent Security Council seats and vetoes to guarantee their participation.",
+    "id": "wh-fivesteps-u7-005",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The UN never banned all war; its charter regulates and in practice tolerates armed conflict.",
+      "B": "Correct. Permanent Security Council seats and vetoes were designed to keep the great powers, especially the US, committed members.",
+      "C": "Wrong. The UN kept a General Assembly where all members debate; it did not abolish it.",
+      "D": "Wrong. The UN was built around the great powers, not by excluding them."
+    },
+    "options": [
+      "(A) The UN banned all wars permanently",
+      "(B) The organization must keep the great powers as committed members",
+      "(C) The UN should have no general assembly",
+      "(D) Great powers should be excluded from the organization to keep it impartial"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-005",
+    "source_stimulus_words": 2,
+    "stem": "The League failed in part because the United States never joined. What structural lesson did the UN's founders take from this?",
+    "stimulus": "The 1919 political cartoon 'Blowing Bubbles' depicts President Woodrow Wilson blowing a large, iridescent soap bubble labeled 'League of Nations,' which drifts delicately through the air.",
+    "stimulus_words": 26,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) The UN banned all wars permanently",
-   "(B) The organization must keep the great powers as committed members",
-   "(C) The UN should have no general assembly",
-   "(D) Great powers should be excluded from the organization"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-005",
-  "source_stimulus_words": 2,
-  "stem": "The League failed in part because the United States never joined. What structural lesson did the UN's founders take from this?",
-  "stimulus": "The 1919 political cartoon 'Blowing Bubbles' depicts President Woodrow Wilson blowing a large, iridescent soap bubble labeled 'League of Nations,' which drifts delicately through the air.",
-  "stimulus_words": 26,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "The 'stab-in-the-back' legend claimed Germany's undefeated army was betrayed by revolutionaries and politicians at home. Article 231, the war-guilt clause, then forced Germany to accept sole blame for the war, which nationalists denounced as a dictated lie, proof that November criminals had sold out the nation.",
-  "id": "wh-fivesteps-u7-006",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The treaty humiliated Germany; it did not praise it.",
-   "B": "Correct. The war-guilt clause's assignment of sole blame fed the myth that traitors, not defeat, had doomed Germany.",
-   "C": "Wrong. Germans overwhelmingly rejected the war-guilt verdict as an imposed falsehood.",
-   "D": "Wrong. The myth attacked the treaty's legitimacy; it did not support it."
+  {
+    "difficulty": "hard",
+    "explanation": "The 'stab-in-the-back' legend claimed Germany's undefeated army was betrayed by revolutionaries and politicians at home. Article 231, the war-guilt clause, then forced Germany to accept sole blame for the war, which nationalists denounced as a dictated lie, proof that November criminals had sold out the nation.",
+    "id": "wh-fivesteps-u7-006",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The war-guilt clause's assignment of sole blame fed the myth that traitors, not defeat, had doomed Germany.",
+      "B": "Wrong. The treaty humiliated Germany; it did not praise it.",
+      "C": "Wrong. Germans overwhelmingly rejected the war-guilt verdict as an imposed falsehood.",
+      "D": "Wrong. The myth attacked the treaty's legitimacy; it did not support it."
+    },
+    "options": [
+      "(A) The war-guilt clause fed the myth that traitors at home doomed Germany",
+      "(B) The treaty praised Germany's war effort",
+      "(C) Germans accepted full blame for the war",
+      "(D) The myth supported the treaty's legitimacy and justified the war-guilt clause"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-006",
+    "source_stimulus_words": 2,
+    "stem": "Many Germans believed their army had been 'stabbed in the back' by civilians rather than defeated in the field. How did the Treaty of Versailles feed this belief?",
+    "stimulus": "The 1919 political cartoon 'Blowing Bubbles' depicts President Woodrow Wilson blowing a large, iridescent soap bubble labeled 'League of Nations,' which drifts delicately through the air.",
+    "stimulus_words": 26,
+    "themes": [
+      "SIO",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) The treaty praised Germany's war effort",
-   "(B) The war-guilt clause fed the myth that traitors at home, not defeat, doomed Germany",
-   "(C) Germans accepted full blame for the war",
-   "(D) The myth supported the treaty's legitimacy"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-006",
-  "source_stimulus_words": 2,
-  "stem": "Many Germans believed their army had been 'stabbed in the back' by civilians rather than defeated in the field. How did the Treaty of Versailles feed this belief?",
-  "stimulus": "The 1919 political cartoon 'Blowing Bubbles' depicts President Woodrow Wilson blowing a large, iridescent soap bubble labeled 'League of Nations,' which drifts delicately through the air.",
-  "stimulus_words": 26,
-  "themes": [
-   "SIO",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "Adult men fetched the lowest prices because they were considered escape risks; young women and children commanded the highest. That price structure reflects buyers seeking household servants, concubines, and trainable children, not the massed male field gangs of the Atlantic plantations.",
-  "id": "wh-fivesteps-u4-026",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The price list shows careful valuation by age and sex, not random pricing.",
-   "B": "Correct. High prices for young women and children and low prices for adult men reflect demand for domestic service and households, not plantation gangs.",
-   "C": "Wrong. Adult men fetched the lowest prices precisely because buyers did not prize them most.",
-   "D": "Wrong. The passage shows a functioning, differentiated slave market, not a collapsed one."
+  {
+    "difficulty": "hard",
+    "explanation": "Adult men fetched the lowest prices because they were considered escape risks; young women and children commanded the highest. That price structure reflects buyers seeking household servants, concubines, and trainable children, not the massed male field gangs of the Atlantic plantations.",
+    "id": "wh-fivesteps-u4-026",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. High prices for young women and children and low prices for adult men reflect demand for domestic service and households, not plantation gangs.",
+      "B": "Wrong. The price list shows careful valuation by age and sex, not random pricing.",
+      "C": "Wrong. Adult men fetched the lowest prices precisely because buyers did not prize them most.",
+      "D": "Wrong. The passage shows a functioning, differentiated slave market, not a collapsed one."
+    },
+    "options": [
+      "(A) Demand centered on domestic service and households rather than plantation field labor",
+      "(B) Buyers chose captives at random",
+      "(C) Bearded adult men were the most highly valued captives, fetching the highest prices of all",
+      "(D) The slave market had collapsed entirely"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-010",
+    "source_stimulus_words": 230,
+    "stem": "The caravan's price list values young women and children highest and bearded adult men lowest. What does this reveal about the Arab slave trade's demand?",
+    "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
+    "stimulus_words": 154,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Buyers chose captives at random",
-   "(B) Demand centered on domestic service and households rather than plantation field labor",
-   "(C) Adult men were the most highly valued captives",
-   "(D) The slave market had collapsed entirely"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-010",
-  "source_stimulus_words": 230,
-  "stem": "The caravan's price list values young women and children highest and bearded adult men lowest. What does this reveal about the Arab slave trade's demand?",
-  "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
-  "stimulus_words": 154,
-  "themes": [
-   "SIO",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Three hundred of four hundred captives were women, and the highest prices went to young females. That composition matches a trade feeding elite households and harems across North Africa and the Middle East, where female domestic and concubine labor was prized, unlike the male-heavy gangs of American plantations.",
-  "id": "wh-fivesteps-u4-027",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The captives' profile, mostly women bound for Arab markets, points to households rather than Brazilian plantations.",
-   "B": "Correct. A heavily female captive population matches demand for domestic service and harems in the Middle East and North Africa.",
-   "C": "Wrong. North American cotton plantations demanded male field labor; this caravan's composition does not fit.",
-   "D": "Wrong. The Mughal military slave system drew from Central Asia, not from this Saharan caravan trade."
+  {
+    "difficulty": "hard",
+    "explanation": "Three hundred of four hundred captives were women, and the highest prices went to young females. That composition matches a trade feeding elite households and harems across North Africa and the Middle East, where female domestic and concubine labor was prized, unlike the male-heavy gangs of American plantations.",
+    "id": "wh-fivesteps-u4-027",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. A heavily female captive population matches demand for domestic service and harems in the Middle East and North Africa.",
+      "B": "Wrong. The captives' profile, mostly women bound for Arab markets, points to households rather than Brazilian plantations.",
+      "C": "Wrong. North American cotton plantations demanded male field labor; this caravan's composition does not fit.",
+      "D": "Wrong. The Mughal military slave system drew from Central Asia, not from this Saharan caravan trade."
+    },
+    "options": [
+      "(A) Elite households and harems in North Africa and the Middle East",
+      "(B) Sugar plantations in Brazil",
+      "(C) Cotton plantations in North America seeking young female field workers",
+      "(D) The Mughal imperial armies"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u4-011",
+    "source_stimulus_words": 230,
+    "stem": "The caravan held four hundred captives, three hundred of them women. What is the most likely destination for these captives?",
+    "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
+    "stimulus_words": 154,
+    "themes": [
+      "ECN",
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Sugar plantations in Brazil",
-   "(B) Elite households and harems in North Africa and the Middle East",
-   "(C) Cotton plantations in North America",
-   "(D) The Mughal imperial armies"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u4-011",
-  "source_stimulus_words": 230,
-  "stem": "The caravan held four hundred captives, three hundred of them women. What is the most likely destination for these captives?",
-  "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
-  "stimulus_words": 154,
-  "themes": [
-   "ECN",
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Islamic law prohibited enslaving Muslims, so raiders needed their victims to be unbelievers. Calling the targets 'idolatrous' classified them as legitimate prey under religious law, turning a commercial raid into a religiously sanctioned hunt.",
-  "id": "wh-fivesteps-u4-028",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The raiders were Muslims invoking Islamic categories; they were not Christians.",
-   "B": "Correct. Labeling captives as idolaters made their enslavement permissible under Islamic law, which forbade enslaving Muslims.",
-   "C": "Wrong. The label did specific legal and religious work; it was not meaningless.",
-   "D": "Wrong. Islamic law regulated slavery extensively; Muslims could and did own slaves."
+  {
+    "difficulty": "hard",
+    "explanation": "Islamic law prohibited enslaving Muslims, so raiders needed their victims to be unbelievers. Calling the targets 'idolatrous' classified them as legitimate prey under religious law, turning a commercial raid into a religiously sanctioned hunt.",
+    "id": "wh-fivesteps-u4-028",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The raiders were Muslims invoking Islamic categories; they were not Christians.",
+      "B": "Wrong. The label did specific legal and religious work; it was not meaningless.",
+      "C": "Wrong. Islamic law regulated slavery extensively; Muslims could and did own slaves.",
+      "D": "Correct. Labeling captives as idolaters made their enslavement permissible under Islamic law, which forbade enslaving Muslims."
+    },
+    "options": [
+      "(A) The raiders were Christians",
+      "(B) The label was meaningless rhetoric",
+      "(C) Islamic law forbade Muslims from owning any slaves, requiring all captives to be freed",
+      "(D) Labeling captives as idolaters made their enslavement religiously permissible"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-012",
+    "source_stimulus_words": 230,
+    "stem": "Islamic law forbade enslaving fellow Muslims. How did the raiders' summons to hunt the 'idolatrous Koholanes' function?",
+    "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
+    "stimulus_words": 154,
+    "themes": [
+      "SIO",
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The raiders were Christians",
-   "(B) Labeling captives as idolaters made their enslavement religiously permissible",
-   "(C) The label was meaningless rhetoric",
-   "(D) Islamic law forbade Muslims from owning any slaves"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-012",
-  "source_stimulus_words": 230,
-  "stem": "Islamic law forbade enslaving fellow Muslims. How did the raiders' summons to hunt the 'idolatrous Koholanes' function?",
-  "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
-  "stimulus_words": 154,
-  "themes": [
-   "SIO",
-   "ECN",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Islamic law and custom encouraged manumission, especially of converts, and freed slaves could marry into families, serve as soldiers and officials, and rise socially. Status was not permanently fixed by race as in the Americas, where slavery was hereditary and inescapable.",
-  "id": "wh-fivesteps-u4-029",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The caravan account shows captives seized by force and driven with whips; nothing was voluntary.",
-   "B": "Correct. Islamic manumission practices and social mobility offered paths out of bondage absent from hereditary Atlantic chattel slavery.",
-   "C": "Wrong. Atlantic plantation slavery was overwhelmingly male in its labor demand; this caravan was female-heavy.",
-   "D": "Wrong. The systems differed fundamentally in heredity, race, and the possibility of manumission."
+  {
+    "difficulty": "hard",
+    "explanation": "Islamic law and custom encouraged manumission, especially of converts, and freed slaves could marry into families, serve as soldiers and officials, and rise socially. Status was not permanently fixed by race as in the Americas, where slavery was hereditary and inescapable.",
+    "id": "wh-fivesteps-u4-029",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The caravan account shows captives seized by force and driven with whips; nothing was voluntary.",
+      "B": "Correct. Islamic manumission practices and social mobility offered paths out of bondage absent from hereditary Atlantic chattel slavery.",
+      "C": "Wrong. Atlantic plantation slavery was overwhelmingly male in its labor demand; this caravan was female-heavy.",
+      "D": "Wrong. The systems differed fundamentally in heredity, race, and the possibility of manumission."
+    },
+    "options": [
+      "(A) Arab slavery was entirely voluntary",
+      "(B) Islamic manumission let freed slaves rise socially, unlike hereditary Atlantic slavery",
+      "(C) Atlantic slaves were freed more quickly than Arab-held slaves",
+      "(D) The two systems were identical in every respect, from capture methods to hereditary bondage"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u4-013",
+    "source_stimulus_words": 230,
+    "stem": "Islamic tradition encouraged freeing slaves, and freed slaves in the Muslim world could rise as soldiers, officials, or family members. What does this imply about the difference from Atlantic plantation slavery?",
+    "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
+    "stimulus_words": 154,
+    "themes": [
+      "ECN",
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Arab slavery was entirely voluntary",
-   "(B) Islamic law encouraged manumission and allowed freed slaves social mobility, unlike hereditary Atlantic chattel slavery",
-   "(C) Atlantic slaves were freed more quickly than Arab-held slaves",
-   "(D) The two systems were identical in every respect"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u4-013",
-  "source_stimulus_words": 230,
-  "stem": "Islamic tradition encouraged freeing slaves, and freed slaves in the Muslim world could rise as soldiers, officials, or family members. What does this imply about the difference from Atlantic plantation slavery?",
-  "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
-  "stimulus_words": 154,
-  "themes": [
-   "ECN",
-   "SIO",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "The mandate formula was a compromise between Wilsonian self-determination and Allied imperial appetites: the territories would not be annexed outright but held 'in trust,' with the mandatory power obligated to guide them toward self-rule under League oversight. In practice the guidance often looked like colonialism, but the legal theory promised eventual independence.",
-  "id": "wh-fivesteps-u7-007",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Mandates were legally distinct from annexation; outright permanent incorporation was not the theory.",
-   "B": "Correct. Mandates were temporary trusteeships meant to prepare territories for eventual self-government.",
-   "C": "Wrong. The mandates were placed under British and French control, not granted immediate independence.",
-   "D": "Wrong. The Ottoman Empire had been defeated and dismembered; restoration was never on the table."
+  {
+    "difficulty": "hard",
+    "explanation": "The mandate formula was a compromise between Wilsonian self-determination and Allied imperial appetites: the territories would not be annexed outright but held 'in trust,' with the mandatory power obligated to guide them toward self-rule under League oversight. In practice the guidance often looked like colonialism, but the legal theory promised eventual independence.",
+    "id": "wh-fivesteps-u7-007",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Mandates were temporary trusteeships meant to prepare territories for eventual self-government.",
+      "B": "Wrong. Mandates were legally distinct from annexation; outright permanent incorporation was not the theory.",
+      "C": "Wrong. The mandates were placed under British and French control, not granted immediate independence.",
+      "D": "Wrong. The Ottoman Empire had been defeated and dismembered; restoration was never on the table."
+    },
+    "options": [
+      "(A) Temporary administration preparing the territories for eventual independence",
+      "(B) Permanent annexation by the victorious powers, who incorporated the lands as colonies",
+      "(C) Immediate full independence",
+      "(D) Restoration of Ottoman rule"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-007",
+    "source_stimulus_words": 11,
+    "stem": "The post-WWI map shows former Ottoman lands labeled as French and British 'mandates.' What did mandate status theoretically mean?",
+    "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
+    "stimulus_words": 36,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Permanent annexation by the victorious powers",
-   "(B) Temporary administration preparing the territories for eventual independence",
-   "(C) Immediate full independence",
-   "(D) Restoration of Ottoman rule"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-007",
-  "source_stimulus_words": 11,
-  "stem": "The post-WWI map shows former Ottoman lands labeled as French and British 'mandates.' What did mandate status theoretically mean?",
-  "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
-  "stimulus_words": 36,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "Wilson proclaimed the right of peoples to choose their governments, and Arab leaders who had revolted against the Ottomans expected independence. Instead Britain and France took mandates, applying self-determination to Eastern Europe while treating the Arab Middle East as wards. The double standard bred lasting resentment.",
-  "id": "wh-fivesteps-u7-008",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Arabs received mandates under foreign control, not the independence they expected.",
-   "B": "Correct. Self-determination was honored in Europe but set aside in the Middle East, where mandates imposed foreign rule.",
-   "C": "Wrong. Wilson championed self-determination; the failure was in its selective application.",
-   "D": "Wrong. The mandates were administered by Britain and France, not by Arabs."
+  {
+    "difficulty": "hard",
+    "explanation": "Wilson proclaimed the right of peoples to choose their governments, and Arab leaders who had revolted against the Ottomans expected independence. Instead Britain and France took mandates, applying self-determination to Eastern Europe while treating the Arab Middle East as wards. The double standard bred lasting resentment.",
+    "id": "wh-fivesteps-u7-008",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The Arabs received mandates under foreign control, not the independence they expected.",
+      "B": "Correct. Self-determination was honored in Europe but set aside in the Middle East, where mandates imposed foreign rule.",
+      "C": "Wrong. Wilson championed self-determination; the failure was in its selective application.",
+      "D": "Wrong. The mandates were administered by Britain and France, not by Arabs."
+    },
+    "options": [
+      "(A) The Arabs received the full independence they expected and formed sovereign states",
+      "(B) Self-determination was applied in Europe but set aside in the Middle East",
+      "(C) Wilson opposed self-determination everywhere",
+      "(D) The mandates were administered by Arab governments"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-008",
+    "source_stimulus_words": 11,
+    "stem": "Wilson's Fourteen Points promised self-determination, yet Arabs who revolted against the Ottomans received mandates instead of independence. What does this contradiction illustrate?",
+    "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
+    "stimulus_words": 36,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) The Arabs received the full independence they expected",
-   "(B) Self-determination was applied in Europe but set aside in the Middle East",
-   "(C) Wilson opposed self-determination everywhere",
-   "(D) The mandates were administered by Arab governments"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-008",
-  "source_stimulus_words": 11,
-  "stem": "Wilson's Fourteen Points promised self-determination, yet Arabs who revolted against the Ottomans received mandates instead of independence. What does this contradiction illustrate?",
-  "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
-  "stimulus_words": 36,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "The 1915 Hussein-McMahon correspondence encouraged Arab revolt with hints of independence; the 1917 Balfour Declaration promised British support for a Jewish national home in the same land. After the war both communities invoked Britain's word, and Britain could satisfy neither, guaranteeing decades of conflict.",
-  "id": "wh-fivesteps-u7-009",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Neither community was satisfied; both felt Britain had betrayed its promise to them.",
-   "B": "Correct. Contradictory wartime pledges to Arabs and Jews planted the seeds of the Arab-Israeli conflict.",
-   "C": "Wrong. Both promises were public and both communities remembered them.",
-   "D": "Wrong. The two pledges pointed in opposite directions over the same territory."
+  {
+    "difficulty": "hard",
+    "explanation": "The 1915 Hussein-McMahon correspondence encouraged Arab revolt with hints of independence; the 1917 Balfour Declaration promised British support for a Jewish national home in the same land. After the war both communities invoked Britain's word, and Britain could satisfy neither, guaranteeing decades of conflict.",
+    "id": "wh-fivesteps-u7-009",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Contradictory wartime pledges to Arabs and Jews planted the seeds of the Arab-Israeli conflict.",
+      "B": "Wrong. Neither community was satisfied; both felt Britain had betrayed its promise to them.",
+      "C": "Wrong. Both promises were public and both communities remembered them.",
+      "D": "Wrong. The two pledges pointed in opposite directions over the same territory."
+    },
+    "options": [
+      "(A) Contradictory pledges left both sides feeling betrayed, fueling lasting conflict",
+      "(B) Both Arabs and Jews were fully satisfied",
+      "(C) Britain kept both promises secret",
+      "(D) The two promises were identical and compatible, both envisioning one unified Arab state"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-009",
+    "source_stimulus_words": 11,
+    "stem": "During WWI Britain encouraged Arab revolt with hints of independence while also issuing the Balfour Declaration supporting a Jewish national home. What resulted from these contradictory pledges?",
+    "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
+    "stimulus_words": 36,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Both Arabs and Jews were fully satisfied",
-   "(B) Contradictory pledges left both sides feeling betrayed, fueling lasting conflict",
-   "(C) Britain kept both promises secret",
-   "(D) The two promises were identical and compatible"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-009",
-  "source_stimulus_words": 11,
-  "stem": "During WWI Britain encouraged Arab revolt with hints of independence while also issuing the Balfour Declaration supporting a Jewish national home. What resulted from these contradictory pledges?",
-  "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
-  "stimulus_words": 36,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "Italians believed their sacrifices in the war entitled them to Dalmatia and colonial gains; receiving neither, nationalists denounced the liberal government as weak and treacherous. Mussolini harnessed that humiliation, promising to restore Italy's greatness, and marched on Rome in 1922.",
-  "id": "wh-fivesteps-u7-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Italy did not turn communist; it turned to fascism.",
-   "B": "Correct. The 'mutilated victory' discredited liberal Italy and gave Mussolini the nationalist anger he rode to power.",
-   "C": "Wrong. Italian nationalists were furious at the outcome, not satisfied by it.",
-   "D": "Wrong. Italy remained a European power; it did not withdraw from Europe."
+  {
+    "difficulty": "hard",
+    "explanation": "Italians believed their sacrifices in the war entitled them to Dalmatia and colonial gains; receiving neither, nationalists denounced the liberal government as weak and treacherous. Mussolini harnessed that humiliation, promising to restore Italy's greatness, and marched on Rome in 1922.",
+    "id": "wh-fivesteps-u7-010",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Italy did not turn communist; it turned to fascism.",
+      "B": "Correct. The 'mutilated victory' discredited liberal Italy and gave Mussolini the nationalist anger he rode to power.",
+      "C": "Wrong. Italian nationalists were furious at the outcome, not satisfied by it.",
+      "D": "Wrong. Italy remained a European power; it did not withdraw from Europe."
+    },
+    "options": [
+      "(A) Italy became a communist state",
+      "(B) It discredited liberal government and fueled the nationalist anger Mussolini exploited",
+      "(C) Italians were satisfied with the peace settlement and praised the liberal government's diplomacy",
+      "(D) Italy withdrew from European affairs"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-010",
+    "source_stimulus_words": 11,
+    "stem": "Italy called its WWI outcome a 'mutilated victory,' having gained little territory. How did this resentment shape Italian politics?",
+    "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
+    "stimulus_words": 36,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Italy became a communist state",
-   "(B) It discredited liberal government and fueled the nationalist anger Mussolini exploited",
-   "(C) Italians were satisfied with the peace settlement",
-   "(D) Italy withdrew from European affairs"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-010",
-  "source_stimulus_words": 11,
-  "stem": "Italy called its WWI outcome a 'mutilated victory,' having gained little territory. How did this resentment shape Italian politics?",
-  "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
-  "stimulus_words": 36,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "medium",
-  "explanation": "The chart's rising curves tell a story of socialist triumph, but the years of collectivization, 1932-33, brought one of history's worst famines, killing millions in Ukraine and Kazakhstan. Stalin's statistics trumpet recovery while erasing the catastrophe that preceded it.",
-  "id": "wh-fivesteps-u7-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The famine years saw catastrophic harvest failures, not bumper crops.",
-   "B": "Correct. The chart's triumphant narrative conceals the 1932-33 famine that killed millions during collectivization.",
-   "C": "Wrong. Germany did not invade the Soviet Union until 1941, years after this chart.",
-   "D": "Wrong. Collectivization caused one of the twentieth century's deadliest famines."
+  {
+    "difficulty": "medium",
+    "explanation": "The chart's rising curves tell a story of socialist triumph, but the years of collectivization, 1932-33, brought one of history's worst famines, killing millions in Ukraine and Kazakhstan. Stalin's statistics trumpet recovery while erasing the catastrophe that preceded it.",
+    "id": "wh-fivesteps-u7-011",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The famine years saw catastrophic harvest failures, not bumper crops.",
+      "B": "Correct. The chart's triumphant narrative conceals the 1932-33 famine that killed millions during collectivization.",
+      "C": "Wrong. Germany did not invade the Soviet Union until 1941, years after this chart.",
+      "D": "Wrong. Collectivization caused one of the twentieth century's deadliest famines."
+    },
+    "options": [
+      "(A) A bumper harvest in every year from 1933 to 1937 across all regions",
+      "(B) The 1932-33 famine that killed millions during collectivization",
+      "(C) The German invasion of 1941",
+      "(D) Nothing; the period was uneventful"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-011",
+    "source_stimulus_words": 0,
+    "stem": "Stalin presented this chart in 1939 to show rising agricultural output from 1933 to 1937. What major event does the chart's triumphant narrative conceal?",
+    "stimulus": "The chart, from Stalin's 1939 'Report on Work of the Central Committee,' plots rising Soviet production of grain, cotton, flax, sugar beets, and oilseeds across the years 1933-1937.",
+    "stimulus_words": 28,
+    "themes": [
+      "CDI",
+      "ENV",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) A bumper harvest in every year",
-   "(B) The 1932-33 famine that killed millions during collectivization",
-   "(C) The German invasion of 1941",
-   "(D) Nothing; the period was uneventful"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-011",
-  "source_stimulus_words": 0,
-  "stem": "Stalin presented this chart in 1939 to show rising agricultural output from 1933 to 1937. What major event does the chart's triumphant narrative conceal?",
-  "stimulus": "The chart, from Stalin's 1939 'Report on Work of the Central Committee,' plots rising Soviet production of grain, cotton, flax, sugar beets, and oilseeds across the years 1933-1937.",
-  "stimulus_words": 28,
-  "themes": [
-   "CDI",
-   "ENV",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "medium",
-  "explanation": "Under Stalin, reporting bad news could mean arrest or execution, while reporting success brought rewards. Managers and officials therefore inflated output figures at every level, turning statistics into instruments of political survival rather than measurements of reality.",
-  "id": "wh-fivesteps-u7-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Soviet Union employed many statisticians; the problem was political pressure, not absence.",
-   "B": "Correct. Officials who reported failure faced terror, so figures were inflated to show success.",
-   "C": "Wrong. The figures were systematically distorted by political pressure; they were not reliable.",
-   "D": "Wrong. The inflation came from Soviet officials themselves, not from foreign forgery."
+  {
+    "difficulty": "medium",
+    "explanation": "Under Stalin, reporting bad news could mean arrest or execution, while reporting success brought rewards. Managers and officials therefore inflated output figures at every level, turning statistics into instruments of political survival rather than measurements of reality.",
+    "id": "wh-fivesteps-u7-012",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The Soviet Union employed many statisticians; the problem was political pressure, not absence.",
+      "B": "Correct. Officials who reported failure faced terror, so figures were inflated to show success.",
+      "C": "Wrong. The figures were systematically distorted by political pressure; they were not reliable.",
+      "D": "Wrong. The inflation came from Soviet officials themselves, not from foreign forgery."
+    },
+    "options": [
+      "(A) The Soviet Union had no statisticians",
+      "(B) Officials inflated figures because reporting failure invited punishment",
+      "(C) Soviet statistics were perfectly reliable and independently verified by foreign observers",
+      "(D) Western agents forged all Soviet data"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-012",
+    "source_stimulus_words": 0,
+    "stem": "Why do historians treat Soviet production statistics from the 1930s with skepticism?",
+    "stimulus": "The chart, from Stalin's 1939 'Report on Work of the Central Committee,' plots rising Soviet production of grain, cotton, flax, sugar beets, and oilseeds across the years 1933-1937.",
+    "stimulus_words": 28,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) The Soviet Union had no statisticians",
-   "(B) Officials inflated figures because reporting failure invited punishment",
-   "(C) Soviet statistics were perfectly reliable",
-   "(D) Western agents forged all Soviet data"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-012",
-  "source_stimulus_words": 0,
-  "stem": "Why do historians treat Soviet production statistics from the 1930s with skepticism?",
-  "stimulus": "The chart, from Stalin's 1939 'Report on Work of the Central Committee,' plots rising Soviet production of grain, cotton, flax, sugar beets, and oilseeds across the years 1933-1937.",
-  "stimulus_words": 28,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "The regime branded relatively prosperous peasants as 'kulaks,' class enemies sabotaging socialism, and 'liquidated them as a class': hundreds of thousands were shot or deported to Siberia and Central Asia, their property seized for the collectives.",
-  "id": "wh-fivesteps-u7-013",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Kulaks were peasants, not factory owners.",
-   "B": "Correct. Prosperous peasants were denounced as class enemies and deported or executed during collectivization.",
-   "C": "Wrong. Kulaks were persecuted, not rewarded; their property was confiscated.",
-   "D": "Wrong. Kulak was an economic category (prosperous peasants), not a religious one."
+  {
+    "difficulty": "hard",
+    "explanation": "The regime branded relatively prosperous peasants as 'kulaks,' class enemies sabotaging socialism, and 'liquidated them as a class': hundreds of thousands were shot or deported to Siberia and Central Asia, their property seized for the collectives.",
+    "id": "wh-fivesteps-u7-013",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Kulaks were peasants, not factory owners.",
+      "B": "Correct. Prosperous peasants were denounced as class enemies and deported or executed during collectivization.",
+      "C": "Wrong. Kulaks were persecuted, not rewarded; their property was confiscated.",
+      "D": "Wrong. Kulak was an economic category (prosperous peasants), not a religious one."
+    },
+    "options": [
+      "(A) They were wealthy factory owners in the cities whose property was nationalized",
+      "(B) They were prosperous peasants deported or executed as class enemies",
+      "(C) They were rewarded with larger farms",
+      "(D) They were members of a religious sect"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-013",
+    "source_stimulus_words": 0,
+    "stem": "Collectivization targeted the kulaks 'as a class.' Who were the kulaks, and what happened to them?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) They were factory owners in the cities",
-   "(B) They were prosperous peasants deported or executed as class enemies",
-   "(C) They were rewarded with larger farms",
-   "(D) They were members of a religious sect"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-013",
-  "source_stimulus_words": 0,
-  "stem": "Collectivization targeted the kulaks 'as a class.' Who were the kulaks, and what happened to them?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "medium",
-  "explanation": "Peasants preferred killing their cattle, pigs, and horses to handing them to the hated collective. The resulting collapse of livestock numbers, combined with grain seizures, turned policy into famine: collectivization destroyed the incentives and the herds that fed the countryside.",
-  "id": "wh-fivesteps-u7-014",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Peasants resisted the collectives fiercely; they did not welcome them.",
-   "B": "Correct. Slaughtering livestock rather than surrendering it devastated herds and deepened the famine.",
-   "C": "Wrong. Livestock numbers collapsed during collectivization; they did not multiply.",
-   "D": "Wrong. The state seized grain and animals at ruinous terms; peasants were not fairly compensated."
+  {
+    "difficulty": "medium",
+    "explanation": "Peasants preferred killing their cattle, pigs, and horses to handing them to the hated collective. The resulting collapse of livestock numbers, combined with grain seizures, turned policy into famine: collectivization destroyed the incentives and the herds that fed the countryside.",
+    "id": "wh-fivesteps-u7-014",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Peasants resisted the collectives fiercely; they did not welcome them.",
+      "B": "Wrong. Livestock numbers collapsed during collectivization; they did not multiply.",
+      "C": "Correct. Slaughtering livestock rather than surrendering it devastated herds and deepened the famine.",
+      "D": "Wrong. The state seized grain and animals at ruinous terms; peasants were not fairly compensated."
+    },
+    "options": [
+      "(A) Peasants welcomed the collectives enthusiastically and surrendered livestock gladly",
+      "(B) Livestock numbers multiplied rapidly",
+      "(C) It destroyed livestock herds and deepened the famine",
+      "(D) The state paid peasants fairly for their animals"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-014",
+    "source_stimulus_words": 0,
+    "stem": "Forced into collectives, peasants slaughtered their own livestock rather than surrender it. What does this reveal about collectivization's effects?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ENV",
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Peasants welcomed the collectives enthusiastically",
-   "(B) It destroyed livestock herds and deepened the famine",
-   "(C) Livestock numbers multiplied rapidly",
-   "(D) The state paid peasants fairly for their animals"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-014",
-  "source_stimulus_words": 0,
-  "stem": "Forced into collectives, peasants slaughtered their own livestock rather than surrender it. What does this reveal about collectivization's effects?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ENV",
-   "GOV",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Qing court operated within a tributary worldview: China was the civilized center, and foreign rulers properly approached it as vassals bearing tribute. Qianlong therefore read Macartney's embassy not as diplomacy between equals but as submission, and lectured George III on his future 'devotion and loyalty.'",
-  "id": "wh-fivesteps-u4-030",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The letter shows supreme confidence, not fear; the emperor dismisses British goods as worthless.",
-   "B": "Correct. The emperor assumed all foreign rulers properly submitted to the Chinese throne as tributaries.",
-   "C": "Wrong. He explicitly says he has no use for British manufactures.",
-   "D": "Wrong. The court knew of Britain; it simply fit the embassy into its tributary framework."
+  {
+    "difficulty": "hard",
+    "explanation": "The Qing court operated within a tributary worldview: China was the civilized center, and foreign rulers properly approached it as vassals bearing tribute. Qianlong therefore read Macartney's embassy not as diplomacy between equals but as submission, and lectured George III on his future 'devotion and loyalty.'",
+    "id": "wh-fivesteps-u4-030",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The letter shows supreme confidence, not fear; the emperor dismisses British goods as worthless.",
+      "B": "Wrong. He explicitly says he has no use for British manufactures.",
+      "C": "Correct. The emperor assumed all foreign rulers properly submitted to the Chinese throne as tributaries.",
+      "D": "Wrong. The court knew of Britain; it simply fit the embassy into its tributary framework."
+    },
+    "options": [
+      "(A) The Qing court feared British power",
+      "(B) The emperor desperately wanted British manufactures and pleaded for expanded trade",
+      "(C) China saw itself as the civilized center to which foreign rulers submitted",
+      "(D) The court was unaware Britain existed"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-014",
+    "source_stimulus_words": 97,
+    "stem": "Qianlong treats the British embassy as a tribute mission and lectures George III on future loyalty. What does this reveal about the Qing worldview?",
+    "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
+    "stimulus_words": 87,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The Qing court feared British power",
-   "(B) China saw itself as the civilized center to which foreign rulers submitted",
-   "(C) The emperor desperately wanted British goods",
-   "(D) The court was unaware Britain existed"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-014",
-  "source_stimulus_words": 97,
-  "stem": "Qianlong treats the British embassy as a tribute mission and lectures George III on future loyalty. What does this reveal about the Qing worldview?",
-  "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
-  "stimulus_words": 87,
-  "themes": [
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "China bought tea, silk, and porcelain with silver but sold almost nothing British in return, draining Britain's silver. The East India Company's answer was opium grown in Bengal: Chinese demand for the drug reversed the silver flow and balanced Britain's books through addiction.",
-  "id": "wh-fivesteps-u4-031",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Britain did not abandon the China trade; it found a new commodity to sell.",
-   "B": "Correct. Selling Indian opium in China reversed the silver drain caused by Britain's one-sided purchases.",
-   "C": "Wrong. Chinese consumers wanted no British manufactures; that was the original problem.",
-   "D": "Wrong. Britain did not take Beijing in 1793; the embassy was received and dismissed."
+  {
+    "difficulty": "hard",
+    "explanation": "China bought tea, silk, and porcelain with silver but sold almost nothing British in return, draining Britain's silver. The East India Company's answer was opium grown in Bengal: Chinese demand for the drug reversed the silver flow and balanced Britain's books through addiction.",
+    "id": "wh-fivesteps-u4-031",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Selling Indian opium in China reversed the silver drain caused by Britain's one-sided purchases.",
+      "B": "Wrong. Britain did not abandon the China trade; it found a new commodity to sell.",
+      "C": "Wrong. Chinese consumers wanted no British manufactures; that was the original problem.",
+      "D": "Wrong. Britain did not take Beijing in 1793; the embassy was received and dismissed."
+    },
+    "options": [
+      "(A) Britain sold Indian-grown opium in China, reversing the silver flow",
+      "(B) Britain abandoned the China trade entirely",
+      "(C) China suddenly began buying British manufactures in enormous quantities each year",
+      "(D) Britain conquered Beijing in 1793"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-015",
+    "source_stimulus_words": 97,
+    "stem": "Since China wanted no British manufactures, Britain paid for tea and silk in silver, draining its reserves. How did Britain eventually balance this trade deficit?",
+    "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
+    "stimulus_words": 87,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Britain abandoned the China trade entirely",
-   "(B) Britain sold Indian-grown opium in China, reversing the silver flow",
-   "(C) China suddenly began buying British manufactures",
-   "(D) Britain conquered Beijing in 1793"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-015",
-  "source_stimulus_words": 97,
-  "stem": "Since China wanted no British manufactures, Britain paid for tea and silk in silver, draining its reserves. How did Britain eventually balance this trade deficit?",
-  "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
-  "stimulus_words": 87,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Canton system funneled all Western trade through the single port of Canton and through the licensed Cohong merchants, who were answerable to officials for foreigners' behavior. The design extracted the profits of commerce while keeping barbarians contained, supervised, and at arm's length.",
-  "id": "wh-fivesteps-u4-032",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The system restricted trade to one port and licensed intermediaries; it was the opposite of free trade.",
-   "B": "Correct. Confining trade to Canton and the Cohong let China profit from commerce while controlling foreign contact.",
-   "C": "Wrong. The system regulated commerce; it had nothing to do with converting Europeans.",
-   "D": "Wrong. Trade continued and enriched both sides; it was restricted, not banned."
+  {
+    "difficulty": "hard",
+    "explanation": "The Canton system funneled all Western trade through the single port of Canton and through the licensed Cohong merchants, who were answerable to officials for foreigners' behavior. The design extracted the profits of commerce while keeping barbarians contained, supervised, and at arm's length.",
+    "id": "wh-fivesteps-u4-032",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The system restricted trade to one port and licensed intermediaries; it was the opposite of free trade.",
+      "B": "Wrong. The system regulated commerce; it had nothing to do with converting Europeans.",
+      "C": "Wrong. Trade continued and enriched both sides; it was restricted, not banned.",
+      "D": "Correct. Confining trade to Canton and the Cohong let China profit from commerce while controlling foreign contact."
+    },
+    "options": [
+      "(A) To encourage unrestricted free trade",
+      "(B) To convert European merchants to Confucianism through the licensed merchant houses",
+      "(C) To ban all foreign trade completely",
+      "(D) To profit from commerce while strictly controlling foreign contact"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-016",
+    "source_stimulus_words": 97,
+    "stem": "Under the Canton system, foreign merchants could trade only at Canton and only through licensed Chinese merchant houses. What was the system's purpose?",
+    "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
+    "stimulus_words": 87,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) To encourage unrestricted free trade",
-   "(B) To profit from commerce while strictly controlling foreign contact",
-   "(C) To convert European merchants to Confucianism",
-   "(D) To ban all foreign trade completely"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-016",
-  "source_stimulus_words": 97,
-  "stem": "Under the Canton system, foreign merchants could trade only at Canton and only through licensed Chinese merchant houses. What was the system's purpose?",
-  "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
-  "stimulus_words": 87,
-  "themes": [
-   "ECN",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Because China accepted mainly silver for its exports, the world's mined silver streamed eastward, making China the great sink of global bullion. That insatiable demand financed the expansion of Spanish American mining at Potosi and Zacatecas and tied world silver prices to Chinese markets.",
-  "id": "wh-fivesteps-u4-033",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Silver retained its value; China's demand is what made it so sought after.",
-   "B": "Correct. China's silver-only terms drew the world's bullion eastward and financed the great mining boom in Spanish America.",
-   "C": "Wrong. China prized silver above all imports; it was the preferred payment.",
-   "D": "Wrong. European mining continued, but the price center of gravity moved toward Chinese demand."
-  },
-  "options": [
-   "(A) Silver became worthless worldwide",
-   "(B) The world's silver streamed to China, financing Spanish American mining expansion",
-   "(C) China refused to accept silver",
-   "(D) Europe stopped mining silver entirely"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-017",
-  "source_stimulus_words": 97,
-  "stem": "China accepted mainly silver in payment for its tea, silk, and porcelain. What was the global effect of this policy?",
-  "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
-  "stimulus_words": 87,
-  "themes": [
-   "ECN",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 4
- }
+  {
+    "difficulty": "hard",
+    "explanation": "Because China accepted mainly silver for its exports, the world's mined silver streamed eastward, making China the great sink of global bullion. That insatiable demand financed the expansion of Spanish American mining at Potosi and Zacatecas and tied world silver prices to Chinese markets.",
+    "id": "wh-fivesteps-u4-033",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Silver retained its value; China's demand is what made it so sought after.",
+      "B": "Wrong. China prized silver above all imports; it was the preferred payment.",
+      "C": "Wrong. European mining continued, but the price center of gravity moved toward Chinese demand.",
+      "D": "Correct. China's silver-only terms drew the world's bullion eastward and financed the great mining boom in Spanish America."
+    },
+    "options": [
+      "(A) Silver became worthless worldwide",
+      "(B) China refused to accept silver",
+      "(C) Europe stopped mining silver entirely, relying on recycled coinage for its currency",
+      "(D) The world's silver streamed to China, financing Spanish America's mining boom"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-017",
+    "source_stimulus_words": 97,
+    "stem": "China accepted mainly silver in payment for its tea, silk, and porcelain. What was the global effect of this policy?",
+    "stimulus": "Paraphrase of the Qianlong emperor's 1793 reply to King George III's embassy seeking expanded trade: Strange and costly objects do not interest me. Your tribute offerings are accepted only in recognition of the loyal spirit that sent them from afar. As your ambassador has seen, we possess all things; I set no value on curious or ingenious objects and have no use for your country's manufactures. Show still greater devotion and loyalty hereafter, so that by perpetual submission to our throne you may secure peace and prosperity.",
+    "stimulus_words": 87,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
+  }
 ]

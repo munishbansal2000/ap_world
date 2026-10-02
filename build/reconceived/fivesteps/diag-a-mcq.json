@@ -1,889 +1,889 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "The Buddha wears Greek drapery and stands in a Greek pose, but the figure is the Buddha, serving a Buddhist devotional purpose. Greek forms were borrowed, yet local artisans and patrons decided what those forms would mean — conquest supplied a visual vocabulary, but the conquered wrote the sentences. (A) is wrong because the image shows a Buddhist figure, not a Greek god imposed on India. (C) is wrong because India had rich artistic traditions long before Alexander. (D) is wrong because the frieze itself proves local art flourished under Hellenistic influence.",
-  "id": "wh-fivesteps-u1-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The figure is the Buddha, not a Greek deity; no religious imposition is shown.",
-   "B": "Correct. Greek artistic forms were adopted but put to local Buddhist religious use — the conquered controlled the meaning.",
-   "C": "Wrong. India possessed sophisticated artistic traditions centuries before Alexander's arrival.",
-   "D": "Wrong. The frieze itself is proof that local art production continued and flourished."
+  {
+    "difficulty": "hard",
+    "explanation": "The Buddha wears Greek drapery and stands in a Greek pose, but the figure is the Buddha, serving a Buddhist devotional purpose. Greek forms were borrowed, yet local artisans and patrons decided what those forms would mean — conquest supplied a visual vocabulary, but the conquered wrote the sentences. (A) is wrong because the image shows a Buddhist figure, not a Greek god imposed on India. (C) is wrong because India had rich artistic traditions long before Alexander. (D) is wrong because the frieze itself proves local art flourished under Hellenistic influence.",
+    "id": "wh-fivesteps-u1-011",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The figure is the Buddha, not a Greek deity; no religious imposition is shown.",
+      "B": "Wrong. India possessed sophisticated artistic traditions centuries before Alexander's arrival.",
+      "C": "Wrong. The frieze itself is proof that local art production continued and flourished.",
+      "D": "Correct. Greek artistic forms were adopted but put to local Buddhist religious use — the conquered controlled the meaning."
+    },
+    "options": [
+      "(A) The Greeks imposed their religion on India",
+      "(B) Indians had no artistic traditions before the Greeks arrived",
+      "(C) Alexander banned all local art forms",
+      "(D) Conquered peoples adapted Greek artistic forms to their own religious purposes"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-001",
+    "source_stimulus_words": 0,
+    "stem": "A stone frieze from Gandhara (in modern Pakistan) shows the Buddha carved with flowing Greek-style robes and a naturalistic stance borrowed from Hellenistic sculpture. What does this best illustrate about Hellenistic cultural exchange?",
+    "stimulus": "The frieze, carved in the centuries after Alexander's conquests, depicts the Buddha with deeply folded Greco-Roman drapery, a naturalistic body stance, and wavy hair tied in a Greco-style topknot — yet the subject is unmistakably the Buddha, seated among Indian devotees.",
+    "stimulus_words": 41,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The Greeks imposed their religion on India",
-   "(B) Conquered peoples adapted Greek artistic forms to their own religious purposes",
-   "(C) Indians had no artistic traditions before the Greeks arrived",
-   "(D) Alexander banned all local art forms"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-001",
-  "source_stimulus_words": 0,
-  "stem": "A stone frieze from Gandhara (in modern Pakistan) shows the Buddha carved with flowing Greek-style robes and a naturalistic stance borrowed from Hellenistic sculpture. What does this best illustrate about Hellenistic cultural exchange?",
-  "stimulus": "The frieze, carved in the centuries after Alexander's conquests, depicts the Buddha with deeply folded Greco-Roman drapery, a naturalistic body stance, and wavy hair tied in a Greco-style topknot — yet the subject is unmistakably the Buddha, seated among Indian devotees.",
-  "stimulus_words": 41,
-  "themes": [
-   "CDI",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Ptolemies in Egypt and Seleucids in Persia kept pharaonic rituals, Babylonian temples, and local bureaucracies running while adding Greek cities, gymnasia, and administration on top. 'Hellenistic' names that fusion — Greek-style monarchy ruling through adapted native institutions. (A) is wrong because these kingdoms operated in Egyptian, Aramaic, and Persian as well as Greek. (C) is wrong because they preserved and patronized local customs rather than erasing them. (D) is wrong because they were monarchies, not Athenian-style democracies.",
-  "id": "wh-fivesteps-u1-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Hellenistic kingdoms operated in Egyptian, Aramaic, and Persian as well as Greek.",
-   "B": "Correct. They fused Greek institutions with local administrative and cultural traditions — that blend is what 'Hellenistic' means.",
-   "C": "Wrong. The Ptolemies and Seleucids preserved and patronized native temples and customs rather than erasing them.",
-   "D": "Wrong. The Hellenistic kingdoms were monarchies, not democracies on the Athenian model."
+  {
+    "difficulty": "hard",
+    "explanation": "The Ptolemies in Egypt and Seleucids in Persia kept pharaonic rituals, Babylonian temples, and local bureaucracies running while adding Greek cities, gymnasia, and administration on top. 'Hellenistic' names that fusion — Greek-style monarchy ruling through adapted native institutions. (A) is wrong because these kingdoms operated in Egyptian, Aramaic, and Persian as well as Greek. (C) is wrong because they preserved and patronized local customs rather than erasing them. (D) is wrong because they were monarchies, not Athenian-style democracies.",
+    "id": "wh-fivesteps-u1-012",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The Hellenistic kingdoms operated in Egyptian, Aramaic, and Persian as well as Greek.",
+      "B": "Wrong. The Ptolemies and Seleucids preserved and patronized native temples and customs rather than erasing them.",
+      "C": "Correct. They fused Greek institutions with local administrative and cultural traditions — that blend is what 'Hellenistic' means.",
+      "D": "Wrong. The Hellenistic kingdoms were monarchies, not democracies on the Athenian model."
+    },
+    "options": [
+      "(A) They used only the Greek language",
+      "(B) They systematically erased all native customs",
+      "(C) They blended Greek institutions with local administrative and cultural traditions",
+      "(D) They governed as democracies on the Athenian model"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-002",
+    "source_stimulus_words": 0,
+    "stem": "After Alexander's death, his generals founded kingdoms in Egypt and Persia that lasted for centuries. What made these kingdoms 'Hellenistic' rather than simply Greek?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) They used only the Greek language",
-   "(B) They blended Greek institutions with local administrative and cultural traditions",
-   "(C) They systematically erased all native customs",
-   "(D) They governed as democracies on the Athenian model"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-002",
-  "source_stimulus_words": 0,
-  "stem": "After Alexander's death, his generals founded kingdoms in Egypt and Persia that lasted for centuries. What made these kingdoms 'Hellenistic' rather than simply Greek?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Macedonian veterans mutinied at Opis in 324 BCE, protesting Persian dress, Persian marriages, and Persian troops in the army — they saw their king going native. The episode shows that cultural fusion imposed from the throne had sharp limits when it collided with the conquerors' own identity. (A) is wrong because the veterans protested and in some cases mutinied. (C) is wrong because there is no evidence of mass Macedonian conversion to Zoroastrianism. (D) is wrong because the sources record loud, organized resentment.",
-  "id": "wh-fivesteps-u1-013",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Macedonian veterans protested and mutinied against Alexander's Persian-style policies.",
-   "B": "Correct. The Opis mutiny showed veterans saw Persian court practices as a betrayal of Macedonian identity — top-down fusion had limits.",
-   "C": "Wrong. There is no evidence of mass Macedonian conversion to Zoroastrianism.",
-   "D": "Wrong. The historical sources record loud, organized resentment, not indifference."
+  {
+    "difficulty": "hard",
+    "explanation": "Macedonian veterans mutinied at Opis in 324 BCE, protesting Persian dress, Persian marriages, and Persian troops in the army — they saw their king going native. The episode shows that cultural fusion imposed from the throne had sharp limits when it collided with the conquerors' own identity. (A) is wrong because the veterans protested and in some cases mutinied. (C) is wrong because there is no evidence of mass Macedonian conversion to Zoroastrianism. (D) is wrong because the sources record loud, organized resentment.",
+    "id": "wh-fivesteps-u1-013",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Macedonian veterans protested and mutinied against Alexander's Persian-style policies.",
+      "B": "Wrong. There is no evidence of mass Macedonian conversion to Zoroastrianism.",
+      "C": "Correct. The Opis mutiny showed veterans saw Persian court practices as a betrayal of Macedonian identity — top-down fusion had limits.",
+      "D": "Wrong. The historical sources record loud, organized resentment, not indifference."
+    },
+    "options": [
+      "(A) They celebrated the policies enthusiastically and adopted Persian dress themselves",
+      "(B) They converted to Zoroastrianism",
+      "(C) They mutinied, seeing Persian practices as a betrayal of Macedonian identity",
+      "(D) They had no recorded opinion on the matter"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-003",
+    "source_stimulus_words": 0,
+    "stem": "Alexander adopted Persian court rituals, married Persian noblewomen, and recruited Persians into his army. How did his Macedonian veterans react?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ECN",
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) They celebrated the policies enthusiastically",
-   "(B) They mutinied, seeing Persian practices as a betrayal of Macedonian identity",
-   "(C) They converted to Zoroastrianism",
-   "(D) They had no recorded opinion on the matter"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-003",
-  "source_stimulus_words": 0,
-  "stem": "Alexander adopted Persian court rituals, married Persian noblewomen, and recruited Persians into his army. How did his Macedonian veterans react?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ECN",
-   "CDI",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Mongols were a tiny ruling minority over a vast empire of Muslims, Buddhists, Christians, and others. Exempting clergy from taxes and labor bought the goodwill — or at least the neutrality — of the religious leaders who shaped popular opinion, a cheap price for stability. It was strategy, not conviction. (A) is wrong because Chinggis Khan followed Mongol shamanism and never converted. (C) is wrong because the Mongols patronized religions rather than despising them. (D) is wrong because Mongol policy had nothing to do with Quranic requirements.",
-  "id": "wh-fivesteps-u1-014",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Chinggis Khan remained a Mongol shamanist; he did not convert to the religions he tolerated.",
-   "B": "Correct. Exempting clergy bought the loyalty or neutrality of influential religious leaders — pragmatic imperial statecraft.",
-   "C": "Wrong. The Mongols actively patronized religions rather than despising them.",
-   "D": "Wrong. Mongol religious policy was not based on Quranic requirements."
+  {
+    "difficulty": "hard",
+    "explanation": "The Mongols were a tiny ruling minority over a vast empire of Muslims, Buddhists, Christians, and others. Exempting clergy from taxes and labor bought the goodwill — or at least the neutrality — of the religious leaders who shaped popular opinion, a cheap price for stability. It was strategy, not conviction. (A) is wrong because Chinggis Khan followed Mongol shamanism and never converted. (C) is wrong because the Mongols patronized religions rather than despising them. (D) is wrong because Mongol policy had nothing to do with Quranic requirements.",
+    "id": "wh-fivesteps-u1-014",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Chinggis Khan remained a Mongol shamanist; he did not convert to the religions he tolerated.",
+      "B": "Wrong. The Mongols actively patronized religions rather than despising them.",
+      "C": "Wrong. Mongol religious policy was not based on Quranic requirements.",
+      "D": "Correct. Exempting clergy bought the loyalty or neutrality of influential religious leaders — pragmatic imperial statecraft."
+    },
+    "options": [
+      "(A) Chinggis Khan personally converted to each major religion",
+      "(B) The Mongols despised all religion and wanted clergy fully dependent on the khan's favor",
+      "(C) The Quran required the Mongols to tolerate other faiths",
+      "(D) Exempting clergy won the loyalty of influential religious leaders across the empire"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-004",
+    "source_stimulus_words": 178,
+    "stem": "The Mongols exempted religious clergy of all faiths from taxes and forced labor. What best explains this policy?",
+    "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
+    "stimulus_words": 158,
+    "themes": [
+      "ECN",
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Chinggis Khan personally converted to each major religion",
-   "(B) Exempting clergy won the loyalty of influential religious leaders across the empire",
-   "(C) The Mongols despised all religion and wanted clergy dependent",
-   "(D) The Quran required the Mongols to tolerate other faiths"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-004",
-  "source_stimulus_words": 178,
-  "stem": "The Mongols exempted religious clergy of all faiths from taxes and forced labor. What best explains this policy?",
-  "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
-  "stimulus_words": 158,
-  "themes": [
-   "ECN",
-   "CDI",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The yam placed fresh horses and supplies at stations a day's ride apart across the entire empire, letting official messengers and spies cross Asia in weeks. For a nomadic dynasty ruling sedentary millions, fast information was the nervous system of control. (A) is wrong because the yam served officials and the military, not casual travelers. (C) is wrong because it was an administrative and military system, not a pilgrimage service. (D) is wrong because tribute moved by caravan and cart, not through the relay stations.",
-  "id": "wh-fivesteps-u1-015",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The yam served imperial officials and the military, not private or tourist travelers.",
-   "B": "Correct. Relay stations with fresh horses let orders, reports, and intelligence race across the empire in weeks.",
-   "C": "Wrong. The yam was an administrative and military network, not a pilgrimage service.",
-   "D": "Wrong. Tribute goods moved by caravan; the relay stations carried messengers, not bulk cargo."
+  {
+    "difficulty": "hard",
+    "explanation": "The yam placed fresh horses and supplies at stations a day's ride apart across the entire empire, letting official messengers and spies cross Asia in weeks. For a nomadic dynasty ruling sedentary millions, fast information was the nervous system of control. (A) is wrong because the yam served officials and the military, not casual travelers. (C) is wrong because it was an administrative and military system, not a pilgrimage service. (D) is wrong because tribute moved by caravan and cart, not through the relay stations.",
+    "id": "wh-fivesteps-u1-015",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The yam served imperial officials and the military, not private or tourist travelers.",
+      "B": "Correct. Relay stations with fresh horses let orders, reports, and intelligence race across the empire in weeks.",
+      "C": "Wrong. The yam was an administrative and military network, not a pilgrimage service.",
+      "D": "Wrong. Tribute goods moved by caravan; the relay stations carried messengers, not bulk cargo."
+    },
+    "options": [
+      "(A) To encourage tourist travel across Asia",
+      "(B) To move official messages and intelligence rapidly across vast distances",
+      "(C) To facilitate religious pilgrimages",
+      "(D) To transport tribute grain to the capital"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-005",
+    "source_stimulus_words": 178,
+    "stem": "The Mongols maintained the yam, a network of relay stations stocked with fresh horses stretching across the empire. What was its primary purpose?",
+    "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
+    "stimulus_words": 158,
+    "themes": [
+      "GOV",
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) To encourage tourist travel across Asia",
-   "(B) To move official messages and intelligence rapidly across vast distances",
-   "(C) To facilitate religious pilgrimages",
-   "(D) To transport tribute grain to the capital"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-005",
-  "source_stimulus_words": 178,
-  "stem": "The Mongols maintained the yam, a network of relay stations stocked with fresh horses stretching across the empire. What was its primary purpose?",
-  "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
-  "stimulus_words": 158,
-  "themes": [
-   "GOV",
-   "ECN",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The khans appointed Moscow's princes as their chief tribute-collectors, letting them skim wealth and crush rival principalities with Mongol backing. By the time Mongol power faded, Moscow had grown rich and dominant enough to claim leadership of all Russia. (A) is wrong because the Mongols never made Moscow their capital; Sarai was the Golden Horde's seat. (C) is wrong because Moscow did not expel the Mongols in 1240 — that was the invasion's beginning, not its end. (D) is wrong because Moscow remained Orthodox Christian; Islam did not take root there.",
-  "id": "wh-fivesteps-u1-016",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Golden Horde's capital was Sarai, not Moscow; Moscow was a tributary principality.",
-   "B": "Correct. As the khans' tribute-collectors, Moscow's princes accumulated wealth and Mongol backing to dominate rival principalities.",
-   "C": "Wrong. The 1240s marked the Mongol conquest of Russia, not Moscow's expulsion of the Mongols.",
-   "D": "Wrong. Moscow remained Orthodox Christian; Islam did not become its religion."
+  {
+    "difficulty": "hard",
+    "explanation": "The khans appointed Moscow's princes as their chief tribute-collectors, letting them skim wealth and crush rival principalities with Mongol backing. By the time Mongol power faded, Moscow had grown rich and dominant enough to claim leadership of all Russia. (A) is wrong because the Mongols never made Moscow their capital; Sarai was the Golden Horde's seat. (C) is wrong because Moscow did not expel the Mongols in 1240 — that was the invasion's beginning, not its end. (D) is wrong because Moscow remained Orthodox Christian; Islam did not take root there.",
+    "id": "wh-fivesteps-u1-016",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. As the khans' tribute-collectors, Moscow's princes accumulated wealth and Mongol backing to dominate rival principalities.",
+      "B": "Wrong. The Golden Horde's capital was Sarai, not Moscow; Moscow was a tributary principality.",
+      "C": "Wrong. The 1240s marked the Mongol conquest of Russia, not Moscow's expulsion of the Mongols.",
+      "D": "Wrong. Moscow remained Orthodox Christian; Islam did not become its religion."
+    },
+    "options": [
+      "(A) Moscow's princes grew rich and powerful as the khans' tribute-collectors",
+      "(B) The Mongols made Moscow their imperial capital",
+      "(C) Moscow led the resistance that expelled the Mongols in 1240",
+      "(D) The Mongols converted Moscow to Islam"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-006",
+    "source_stimulus_words": 178,
+    "stem": "How did the Mongol period shape the rise of Moscow among the Russian principalities?",
+    "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
+    "stimulus_words": 158,
+    "themes": [
+      "ECN",
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The Mongols made Moscow their imperial capital",
-   "(B) Moscow's princes grew rich and powerful as the khans' tribute-collectors",
-   "(C) Moscow led the resistance that expelled the Mongols in 1240",
-   "(D) The Mongols converted Moscow to Islam"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-006",
-  "source_stimulus_words": 178,
-  "stem": "How did the Mongol period shape the rise of Moscow among the Russian principalities?",
-  "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
-  "stimulus_words": 158,
-  "themes": [
-   "ECN",
-   "CDI",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Neither empire tried to administer every province directly: Persian satraps and Mongol vassal princes kept their thrones, laws, and customs so long as tribute flowed and rebellion did not. Indirect rule through native elites was cheaper and more stable than garrisons everywhere. (A) is wrong because neither empire was democratic. (C) is wrong because both preserved local cultures rather than abolishing them. (D) is wrong because tribute extraction was central to both imperial systems.",
-  "id": "wh-fivesteps-u1-017",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Neither the Persian nor the Mongol Empire was democratic.",
-   "B": "Correct. Both empires relied on native rulers and local traditions to keep order cheaply while tribute flowed upward.",
-   "C": "Wrong. Both empires preserved local cultures and institutions rather than abolishing them.",
-   "D": "Wrong. Regular tribute extraction was central to both imperial systems."
+  {
+    "difficulty": "hard",
+    "explanation": "Neither empire tried to administer every province directly: Persian satraps and Mongol vassal princes kept their thrones, laws, and customs so long as tribute flowed and rebellion did not. Indirect rule through native elites was cheaper and more stable than garrisons everywhere. (A) is wrong because neither empire was democratic. (C) is wrong because both preserved local cultures rather than abolishing them. (D) is wrong because tribute extraction was central to both imperial systems.",
+    "id": "wh-fivesteps-u1-017",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Both empires relied on native rulers and local traditions to keep order cheaply while tribute flowed upward.",
+      "B": "Wrong. Neither the Persian nor the Mongol Empire was democratic.",
+      "C": "Wrong. Both empires preserved local cultures and institutions rather than abolishing them.",
+      "D": "Wrong. Regular tribute extraction was central to both imperial systems."
+    },
+    "options": [
+      "(A) Both relied on native elites and local traditions to keep order and collect tribute",
+      "(B) Both were democratic governments",
+      "(C) Both abolished the cultures of conquered peoples and imposed a single imperial culture",
+      "(D) Both refused to tax their conquered subjects"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u9-001",
+    "source_stimulus_words": 178,
+    "stem": "Both Persian and Mongol rulers often left conquered kings on their thrones as vassals. What does this shared practice reveal about both empires?",
+    "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
+    "stimulus_words": 158,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Both were democratic governments",
-   "(B) Both relied on native elites and local traditions to maintain order while collecting tribute",
-   "(C) Both abolished the cultures of conquered peoples",
-   "(D) Both refused to tax their conquered subjects"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u9-001",
-  "source_stimulus_words": 178,
-  "stem": "Both Persian and Mongol rulers often left conquered kings on their thrones as vassals. What does this shared practice reveal about both empires?",
-  "stimulus": "At the height of their power, the Mongol khans ruled a vast domain where peoples who had once been enemies lived side by side in relative peace, and nearly every religion was tolerated. The legal code first issued under Chinggis Khan regulated relations among these peoples and opened a new era of international contact. From Eastern Europe to southern China, merchants and travelers could cross the well-guarded Mongol territories without fearing for their lives or goods. The great belt of Mongol land, covering or linking most of Europe, Asia, and the Middle East, served as a bridge between the civilizations of the Eastern Hemisphere. Caravans and embassies crossing Mongol lands carried new foods, inventions, and ideas from one civilized region to another, and from settled societies to the nomads who acted as go-betweens. Safe roads enriched merchants and built wealthy, cosmopolitan cities, while the movement of crops and technologies became a powerful engine of economic and social development.",
-  "stimulus_words": 158,
-  "themes": [
-   "CDI",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Schmidel dwells on the expedition's hunger — four years without bread, living on fish and meat — and on Lampere's 'plenty of victual' as 'most commodious for us.' The attack is frankly about seizing a well-fed town's food stores to keep starving soldiers alive. (A) is wrong because Christianity is mentioned only in passing; the motive argued is material. (B) is wrong because the passage never discusses the Spanish crown's power. (D) is wrong because the Spaniards sought the town's supplies, not its warriors as allies.",
-  "id": "wh-fivesteps-u4-014",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Christianity appears only incidentally; the passage's emphasis is on hunger and the town's food supplies.",
-   "B": "Wrong. The passage never discusses increasing the Spanish crown's power.",
-   "C": "Correct. Four years without bread made Lampere's abundant food stores the expedition's real objective.",
-   "D": "Wrong. The Spaniards wanted the town's provisions, not its warriors as military allies."
+  {
+    "difficulty": "hard",
+    "explanation": "Schmidel dwells on the expedition's hunger — four years without bread, living on fish and meat — and on Lampere's 'plenty of victual' as 'most commodious for us.' The attack is frankly about seizing a well-fed town's food stores to keep starving soldiers alive. (A) is wrong because Christianity is mentioned only in passing; the motive argued is material. (B) is wrong because the passage never discusses the Spanish crown's power. (D) is wrong because the Spaniards sought the town's supplies, not its warriors as allies.",
+    "id": "wh-fivesteps-u4-014",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Christianity appears only incidentally; the passage's emphasis is on hunger and the town's food supplies.",
+      "B": "Correct. Four years without bread made Lampere's abundant food stores the expedition's real objective.",
+      "C": "Wrong. The passage never discusses increasing the Spanish crown's power.",
+      "D": "Wrong. The Spaniards wanted the town's provisions, not its warriors as military allies."
+    },
+    "options": [
+      "(A) To spread Christianity",
+      "(B) To seize the town's abundant food supplies",
+      "(C) To increase the power of the Spanish crown",
+      "(D) To recruit local allies for further conquests"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-001",
+    "source_stimulus_words": 283,
+    "stem": "Schmidel's account stresses that the Spaniards had not seen bread in four years and calls Lampere's plentiful food 'most commodious for us.' What does this reveal about early Spanish expeditions?",
+    "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
+    "stimulus_words": 231,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) To spread Christianity",
-   "(B) To increase the power of the Spanish crown",
-   "(C) To seize the town's abundant food supplies",
-   "(D) To recruit local allies for further conquests"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-001",
-  "source_stimulus_words": 283,
-  "stem": "Schmidel's account stresses that the Spaniards had not seen bread in four years and calls Lampere's plentiful food 'most commodious for us.' What does this reveal about early Spanish expeditions?",
-  "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
-  "stimulus_words": 231,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Lampere warriors had never encountered firearms: men dropped dead with 'neither bullets nor arrows' visible, only mysterious holes in their bodies. That incomprehensible, invisible killing shattered their courage and sent four thousand men fleeing from three hundred — terror multiplying the guns' physical effect. (A) is wrong because the passage shows guns routing the defenders, not failing. (C) is wrong because the natives had only bows and arrows. (D) is wrong because the Spaniards fought a three-day assault; they did not win without combat.",
-  "id": "wh-fivesteps-u4-015",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage shows firearms routing the defenders, not proving inferior to bows.",
-   "B": "Correct. Invisible, inexplicable killing terrified the Lampere warriors, multiplying the guns' effect beyond their physical destructiveness.",
-   "C": "Wrong. The native warriors carried only bows and arrows; they had no firearms.",
-   "D": "Wrong. The Spaniards fought a three-day assault on the town; victory required real combat."
+  {
+    "difficulty": "hard",
+    "explanation": "The Lampere warriors had never encountered firearms: men dropped dead with 'neither bullets nor arrows' visible, only mysterious holes in their bodies. That incomprehensible, invisible killing shattered their courage and sent four thousand men fleeing from three hundred — terror multiplying the guns' physical effect. (A) is wrong because the passage shows guns routing the defenders, not failing. (C) is wrong because the natives had only bows and arrows. (D) is wrong because the Spaniards fought a three-day assault; they did not win without combat.",
+    "id": "wh-fivesteps-u4-015",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The passage shows firearms routing the defenders, not proving inferior to bows.",
+      "B": "Wrong. The native warriors carried only bows and arrows; they had no firearms.",
+      "C": "Wrong. The Spaniards fought a three-day assault on the town; victory required real combat.",
+      "D": "Correct. Invisible, inexplicable killing terrified the Lampere warriors, multiplying the guns' effect beyond their physical destructiveness."
+    },
+    "options": [
+      "(A) Guns were less effective than native bows and arrows",
+      "(B) Native warriors possessed guns of their own",
+      "(C) The Spanish won without any fighting because the Lampere fled at the first shot",
+      "(D) The mysterious, invisible killing power of guns terrorized native warriors"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-001",
+    "source_stimulus_words": 283,
+    "stem": "The Lampere warriors fled when men fell dead with 'neither bullets nor arrows' visible. What does their reaction reveal about the role of gunpowder weapons?",
+    "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
+    "stimulus_words": 231,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Guns were less effective than native bows and arrows",
-   "(B) The mysterious, invisible killing power of guns terrorized native warriors beyond their physical destructiveness",
-   "(C) Native warriors possessed guns of their own",
-   "(D) The Spanish won without any fighting"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-001",
-  "source_stimulus_words": 283,
-  "stem": "The Lampere warriors fled when men fell dead with 'neither bullets nor arrows' visible. What does their reaction reveal about the role of gunpowder weapons?",
-  "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
-  "stimulus_words": 231,
-  "themes": [
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Before any shot was fired, Lampere's people offered the Spaniards provisions in exchange for a peaceful withdrawal — a diplomatic attempt to buy off the invaders and avoid bloodshed. Only after the Spanish refused did they fight, and then courageously for three days. (A) is wrong because the offer of food was a peace gesture, not worship. (C) is wrong because the town is described as having 'plenty of victual.' (D) is wrong because they wanted the Spaniards to leave, not to enlist.",
-  "id": "wh-fivesteps-u4-016",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Offering food was a diplomatic peace gesture, not an act of worship.",
-   "B": "Correct. The food-for-withdrawal offer shows Lampere tried diplomacy to avoid war before resorting to arms.",
-   "C": "Wrong. The passage describes Lampere as possessing abundant provisions.",
-   "D": "Wrong. The offer aimed to make the Spaniards leave, not to join their expedition."
+  {
+    "difficulty": "hard",
+    "explanation": "Before any shot was fired, Lampere's people offered the Spaniards provisions in exchange for a peaceful withdrawal — a diplomatic attempt to buy off the invaders and avoid bloodshed. Only after the Spanish refused did they fight, and then courageously for three days. (A) is wrong because the offer of food was a peace gesture, not worship. (C) is wrong because the town is described as having 'plenty of victual.' (D) is wrong because they wanted the Spaniards to leave, not to enlist.",
+    "id": "wh-fivesteps-u4-016",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Offering food was a diplomatic peace gesture, not an act of worship.",
+      "B": "Wrong. The passage describes Lampere as possessing abundant provisions.",
+      "C": "Wrong. The offer aimed to make the Spaniards leave, not to join their expedition.",
+      "D": "Correct. The food-for-withdrawal offer shows Lampere tried diplomacy to avoid war before resorting to arms."
+    },
+    "options": [
+      "(A) They worshipped the Spanish as gods",
+      "(B) They were starving and begging for food after a failed harvest destroyed their stores",
+      "(C) They wanted to join the Spanish expedition",
+      "(D) They tried diplomacy — offering food for a peaceful withdrawal — before fighting"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-002",
+    "source_stimulus_words": 283,
+    "stem": "Before fighting, the people of Lampere offered the Spaniards food if they would leave peacefully. What does this offer suggest?",
+    "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
+    "stimulus_words": 231,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) They worshipped the Spanish as gods",
-   "(B) They tried diplomacy — offering food for a peaceful withdrawal — before fighting",
-   "(C) They were starving and begging for food",
-   "(D) They wanted to join the Spanish expedition"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-002",
-  "source_stimulus_words": 283,
-  "stem": "Before fighting, the people of Lampere offered the Spaniards food if they would leave peacefully. What does this offer suggest?",
-  "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
-  "stimulus_words": 231,
-  "themes": [
-   "GOV",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "The casta system ranked people by blood proximity to Spain: peninsulares (born in Spain) at the top, then criollos (American-born Spaniards), then mestizos of mixed parentage, with Africans and natives below. A commander's child with a native woman fell into the mixed middle — above natives, below Spaniards. (A) is wrong because wealth alone could not move a person up the blood-based hierarchy. (C) is wrong because religious devotion did not determine casta rank. (D) is wrong because military rank did not override the ancestry principle.",
-  "id": "wh-fivesteps-u4-017",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Wealth alone could not lift someone in a hierarchy organized by blood and birthplace.",
-   "B": "Correct. Rank depended on proximity to Spanish birth and ancestry; mixed parentage placed the child in the middle tiers.",
-   "C": "Wrong. Religious devotion did not determine a person's casta classification.",
-   "D": "Wrong. Military rank did not override the ancestry-based principle of the hierarchy."
+  {
+    "difficulty": "hard",
+    "explanation": "The casta system ranked people by blood proximity to Spain: peninsulares (born in Spain) at the top, then criollos (American-born Spaniards), then mestizos of mixed parentage, with Africans and natives below. A commander's child with a native woman fell into the mixed middle — above natives, below Spaniards. (A) is wrong because wealth alone could not move a person up the blood-based hierarchy. (C) is wrong because religious devotion did not determine casta rank. (D) is wrong because military rank did not override the ancestry principle.",
+    "id": "wh-fivesteps-u4-017",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Wealth alone could not lift someone in a hierarchy organized by blood and birthplace.",
+      "B": "Correct. Rank depended on proximity to Spanish birth and ancestry; mixed parentage placed the child in the middle tiers.",
+      "C": "Wrong. Religious devotion did not determine a person's casta classification.",
+      "D": "Wrong. Military rank did not override the ancestry-based principle of the hierarchy."
+    },
+    "options": [
+      "(A) Personal wealth alone, regardless of ancestry or birthplace",
+      "(B) Proximity to Spanish birth and ancestry",
+      "(C) Depth of religious devotion",
+      "(D) Military rank achieved"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-003",
+    "source_stimulus_words": 283,
+    "stem": "A child of a Spanish commander and a Native American woman was classified as mestizo, ranked below Spaniards but above natives. What principle organized this hierarchy?",
+    "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
+    "stimulus_words": 231,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Personal wealth alone",
-   "(B) Proximity to Spanish birth and ancestry",
-   "(C) Depth of religious devotion",
-   "(D) Military rank achieved"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-003",
-  "source_stimulus_words": 283,
-  "stem": "A child of a Spanish commander and a Native American woman was classified as mestizo, ranked below Spaniards but above natives. What principle organized this hierarchy?",
-  "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
-  "stimulus_words": 231,
-  "themes": [
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Old World populations had endured smallpox, measles, and influenza for centuries, developing partial immunity passed across generations. Native Americans, isolated from these diseases for millennia, possessed no such acquired resistance, so infections that were survivable in Europe killed on a catastrophic scale. (A) is wrong because there is no evidence of systematic poisoning. (C) is wrong because natives lacked immunity; they did not possess superior resistance. (D) is wrong because these diseases were killers precisely because the population had no defenses.",
-  "id": "wh-fivesteps-u4-018",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. There is no evidence that Europeans systematically poisoned native water supplies.",
-   "B": "Correct. Millennia of isolation left Native Americans with no acquired immunity to Old World crowd diseases.",
-   "C": "Wrong. Native peoples lacked resistance; they did not possess superior immunity.",
-   "D": "Wrong. Smallpox and measles were devastating killers in populations with no prior exposure."
+  {
+    "difficulty": "hard",
+    "explanation": "Old World populations had endured smallpox, measles, and influenza for centuries, developing partial immunity passed across generations. Native Americans, isolated from these diseases for millennia, possessed no such acquired resistance, so infections that were survivable in Europe killed on a catastrophic scale. (A) is wrong because there is no evidence of systematic poisoning. (C) is wrong because natives lacked immunity; they did not possess superior resistance. (D) is wrong because these diseases were killers precisely because the population had no defenses.",
+    "id": "wh-fivesteps-u4-018",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. There is no evidence that Europeans systematically poisoned native water supplies.",
+      "B": "Wrong. Native peoples lacked resistance; they did not possess superior immunity.",
+      "C": "Correct. Millennia of isolation left Native Americans with no acquired immunity to Old World crowd diseases.",
+      "D": "Wrong. Smallpox and measles were devastating killers in populations with no prior exposure."
+    },
+    "options": [
+      "(A) Europeans systematically poisoned native water supplies with Old World toxins",
+      "(B) Native peoples possessed superior immunity to Europeans",
+      "(C) Native peoples had no acquired immunity from centuries of exposure",
+      "(D) The imported diseases were mild and harmless"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-002",
+    "source_stimulus_words": 0,
+    "stem": "The graph shows Native American populations falling by up to 90% within a century of European contact. Why were Old World diseases so devastating?",
+    "stimulus": "The graph plots the estimated Native American population of central Mexico from 1500 to 1600, showing a steep collapse from roughly 25 million to under 2 million within a century of sustained European contact.",
+    "stimulus_words": 34,
+    "themes": [
+      "ENV",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Europeans systematically poisoned native water supplies",
-   "(B) Native peoples had no acquired immunity from centuries of exposure",
-   "(C) Native peoples possessed superior immunity to Europeans",
-   "(D) The imported diseases were mild and harmless"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-002",
-  "source_stimulus_words": 0,
-  "stem": "The graph shows Native American populations falling by up to 90% within a century of European contact. Why were Old World diseases so devastating?",
-  "stimulus": "The graph plots the estimated Native American population of central Mexico from 1500 to 1600, showing a steep collapse from roughly 25 million to under 2 million within a century of sustained European contact.",
-  "stimulus_words": 34,
-  "themes": [
-   "ENV",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Mesoamerican warriors fought with obsidian-edged clubs and spears — lethally sharp but brittle. Against steel plate and mail, obsidian shattered and wooden weapons splintered, while Spanish steel blades cut through cotton armor with ease. The materials gap made close combat brutally one-sided. (A) is wrong because native warriors were well-armed by their own standards; the issue was materials. (C) is wrong because steel is not poisonous; its advantage was hardness and edge retention. (D) is wrong because native warriors fought fiercely, as the sources attest.",
-  "id": "wh-fivesteps-u4-019",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Native warriors carried effective weapons by their own standards; the disadvantage was in materials, not armament as such.",
-   "B": "Correct. Brittle obsidian and wood shattered against steel plate and mail, while steel blades cut through native cotton armor.",
-   "C": "Wrong. Steel's advantage was hardness and edge retention, not poison.",
-   "D": "Wrong. Native warriors resisted fiercely; the sources record prolonged and courageous fighting."
+  {
+    "difficulty": "hard",
+    "explanation": "Mesoamerican warriors fought with obsidian-edged clubs and spears — lethally sharp but brittle. Against steel plate and mail, obsidian shattered and wooden weapons splintered, while Spanish steel blades cut through cotton armor with ease. The materials gap made close combat brutally one-sided. (A) is wrong because native warriors were well-armed by their own standards; the issue was materials. (C) is wrong because steel is not poisonous; its advantage was hardness and edge retention. (D) is wrong because native warriors fought fiercely, as the sources attest.",
+    "id": "wh-fivesteps-u4-019",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Brittle obsidian and wood shattered against steel plate and mail, while steel blades cut through native cotton armor.",
+      "B": "Wrong. Native warriors carried effective weapons by their own standards; the disadvantage was in materials, not armament as such.",
+      "C": "Wrong. Steel's advantage was hardness and edge retention, not poison.",
+      "D": "Wrong. Native warriors resisted fiercely; the sources record prolonged and courageous fighting."
+    },
+    "options": [
+      "(A) Obsidian and wooden weapons shattered against steel armor",
+      "(B) Native warriors had no weapons at all",
+      "(C) Spanish steel was poisonous to the touch",
+      "(D) Native warriors refused to fight in close combat and fled from every battle"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-003",
+    "source_stimulus_words": 0,
+    "stem": "Spanish steel swords and armor gave conquistadors an edge in close combat. Why couldn't native warriors easily counter steel weapons?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Native warriors had no weapons at all",
-   "(B) Obsidian and wooden weapons shattered against steel armor",
-   "(C) Spanish steel was poisonous to the touch",
-   "(D) Native warriors refused to fight in close combat"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-003",
-  "source_stimulus_words": 0,
-  "stem": "Spanish steel swords and armor gave conquistadors an edge in close combat. Why couldn't native warriors easily counter steel weapons?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Manorial serfs were bound to a lord's estate within a reciprocal (if unequal) web of obligations; encomienda grants gave Spaniards rights over the labor of native communities specifically to feed the colonial extraction economy — mines and plantations — with no pretense of the manor's mutual duties. (A) is wrong because encomienda labor was coerced, not voluntary. (C) is wrong because manorialism rested on bound peasant labor, not wages. (D) is wrong because the two systems differed fundamentally in their legal basis and economic purpose.",
-  "id": "wh-fivesteps-u4-020",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Encomienda labor was coerced through colonial authority, not freely volunteered.",
-   "B": "Correct. The encomienda granted rights over native labor to feed mines and plantations, without manorialism's web of mutual obligations.",
-   "C": "Wrong. Medieval manorialism rested on bound peasant labor, not on wage contracts.",
-   "D": "Wrong. The systems differed fundamentally in legal basis, obligations, and economic purpose."
+  {
+    "difficulty": "hard",
+    "explanation": "Manorial serfs were bound to a lord's estate within a reciprocal (if unequal) web of obligations; encomienda grants gave Spaniards rights over the labor of native communities specifically to feed the colonial extraction economy — mines and plantations — with no pretense of the manor's mutual duties. (A) is wrong because encomienda labor was coerced, not voluntary. (C) is wrong because manorialism rested on bound peasant labor, not wages. (D) is wrong because the two systems differed fundamentally in their legal basis and economic purpose.",
+    "id": "wh-fivesteps-u4-020",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Encomienda labor was coerced through colonial authority, not freely volunteered.",
+      "B": "Wrong. Medieval manorialism rested on bound peasant labor, not on wage contracts.",
+      "C": "Wrong. The systems differed fundamentally in legal basis, obligations, and economic purpose.",
+      "D": "Correct. The encomienda granted rights over native labor to feed mines and plantations, without manorialism's web of mutual obligations."
+    },
+    "options": [
+      "(A) The encomienda relied on voluntary wage labor",
+      "(B) Manorialism was based on free wage labor",
+      "(C) The two systems were identical in law and purpose, differing only in the crops that laborers cultivated",
+      "(D) The encomienda granted rights over native labor without manorialism's mutual obligations"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-004",
+    "source_stimulus_words": 0,
+    "stem": "How did the encomienda differ from European manorialism, even though both used coerced labor?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ECN",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The encomienda relied on voluntary wage labor",
-   "(B) The encomienda granted rights over native labor for colonial extraction, without manorialism's mutual obligations",
-   "(C) Manorialism was based on free wage labor",
-   "(D) The two systems were identical in law and purpose"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-004",
-  "source_stimulus_words": 0,
-  "stem": "How did the encomienda differ from European manorialism, even though both used coerced labor?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ECN",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Mapping the Brahman to the mouth, the Kshatriya to the arms, the Vaishya to the thighs, and the Shudra to the feet presents rank as anatomy — built into the cosmic body at creation. Hierarchy is thereby not a human convention but the structure of the universe itself. (A) is wrong because the hymn ranks the varnas explicitly; it does not teach equality. (C) is wrong because the body parts are deliberately hierarchical, from mouth down to feet. (D) is wrong because the hymn is a cosmogonic religious text, not a medical one.",
-  "id": "wh-fivesteps-u1-018",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The hymn explicitly ranks the varnas from mouth to feet; it does not teach equality.",
-   "B": "Correct. Deriving each varna from a body part of the cosmic being presents social rank as divinely built into creation.",
-   "C": "Wrong. The mapping is deliberately hierarchical — mouth above feet — not random.",
-   "D": "Wrong. The Purusa hymn is a cosmogonic religious text, not a work of medicine."
+  {
+    "difficulty": "hard",
+    "explanation": "Mapping the Brahman to the mouth, the Kshatriya to the arms, the Vaishya to the thighs, and the Shudra to the feet presents rank as anatomy — built into the cosmic body at creation. Hierarchy is thereby not a human convention but the structure of the universe itself. (A) is wrong because the hymn ranks the varnas explicitly; it does not teach equality. (C) is wrong because the body parts are deliberately hierarchical, from mouth down to feet. (D) is wrong because the hymn is a cosmogonic religious text, not a medical one.",
+    "id": "wh-fivesteps-u1-018",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The hymn explicitly ranks the varnas from mouth to feet; it does not teach equality.",
+      "B": "Wrong. The mapping is deliberately hierarchical — mouth above feet — not random.",
+      "C": "Correct. Deriving each varna from a body part of the cosmic being presents social rank as divinely built into creation.",
+      "D": "Wrong. The Purusa hymn is a cosmogonic religious text, not a work of medicine."
+    },
+    "options": [
+      "(A) All social ranks are spiritually equal",
+      "(B) The body-part mapping is random and meaningless",
+      "(C) Social hierarchy is divinely built into the structure of creation",
+      "(D) The hymn is a medical description of human anatomy and bodily functions"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-007",
+    "source_stimulus_words": 204,
+    "stem": "The hymn says the Brahman came from Purusa's mouth and the Shudra from his feet. What social claim does this body imagery make?",
+    "stimulus": "Paraphrase of the Purusa hymn from the Rig-Veda (c. 1500-1000 BCE), India's oldest surviving literature: Purusa is the lord of the immortals, sustained by ritual offerings. When the gods sacrificed Purusa as their offering — spring as the clarified butter, summer as the kindling, autumn as the oblation — the sacrifice itself became the source of all things. From that fully offered sacrifice were born the sacred hymns and chants, the sacrificial formulas, the horses, and the cattle, goats, and sheep. Then the gods divided Purusa: his mouth became the Brahman (priest), his arms the Rajanya (warrior-ruler), his thighs the Vaishya (producer-trader), and from his feet the Shudra (servant) was born. So were the worlds fashioned — the gods sacrificing the sacrifice with the sacrifice, in the first of all rites.",
+    "stimulus_words": 131,
+    "themes": [
+      "ENV",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) All social ranks are spiritually equal",
-   "(B) Social hierarchy is divinely built into the structure of creation",
-   "(C) The body-part mapping is random and meaningless",
-   "(D) The hymn is a medical description of human anatomy"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-007",
-  "source_stimulus_words": 204,
-  "stem": "The hymn says the Brahman came from Purusa's mouth and the Shudra from his feet. What social claim does this body imagery make?",
-  "stimulus": "Paraphrase of the Purusa hymn from the Rig-Veda (c. 1500-1000 BCE), India's oldest surviving literature: Purusa is the lord of the immortals, sustained by ritual offerings. When the gods sacrificed Purusa as their offering — spring as the clarified butter, summer as the kindling, autumn as the oblation — the sacrifice itself became the source of all things. From that fully offered sacrifice were born the sacred hymns and chants, the sacrificial formulas, the horses, and the cattle, goats, and sheep. Then the gods divided Purusa: his mouth became the Brahman (priest), his arms the Rajanya (warrior-ruler), his thighs the Vaishya (producer-trader), and from his feet the Shudra (servant) was born. So were the worlds fashioned — the gods sacrificing the sacrifice with the sacrifice, in the first of all rites.",
-  "stimulus_words": 131,
-  "themes": [
-   "ENV",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The hymn belongs to the Rig-Veda, composed around 1500-1000 BCE — the fountainhead of Hindu scripture. That the varna order appears in India's oldest religious text shows caste was sacralized from the very beginning, carrying divine authority rather than being a late or purely secular invention. (A) is wrong because the hymn itself gives caste a religious origin. (C) is wrong because British colonialism came three millennia later. (D) is wrong because the hymn affirms the varna order; it does not oppose it.",
-  "id": "wh-fivesteps-u1-019",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The hymn derives the varnas from a divine sacrifice, giving caste an explicitly religious foundation.",
-   "B": "Correct. The varna order appears in the Rig-Veda itself, showing caste carried religious authority from Hinduism's earliest scriptures.",
-   "C": "Wrong. The hymn predates British colonialism by some three thousand years.",
-   "D": "Wrong. The hymn affirms and sacralizes the varna order; it does not oppose it."
+  {
+    "difficulty": "hard",
+    "explanation": "The hymn belongs to the Rig-Veda, composed around 1500-1000 BCE — the fountainhead of Hindu scripture. That the varna order appears in India's oldest religious text shows caste was sacralized from the very beginning, carrying divine authority rather than being a late or purely secular invention. (A) is wrong because the hymn itself gives caste a religious origin. (C) is wrong because British colonialism came three millennia later. (D) is wrong because the hymn affirms the varna order; it does not oppose it.",
+    "id": "wh-fivesteps-u1-019",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The hymn derives the varnas from a divine sacrifice, giving caste an explicitly religious foundation.",
+      "B": "Wrong. The hymn predates British colonialism by some three thousand years.",
+      "C": "Correct. The varna order appears in the Rig-Veda itself, showing caste carried religious authority from Hinduism's earliest scriptures.",
+      "D": "Wrong. The hymn affirms and sacralizes the varna order; it does not oppose it."
+    },
+    "options": [
+      "(A) Caste had no religious basis in early Hinduism and arose purely from politics",
+      "(B) The British invented the caste system",
+      "(C) Caste was embedded with divine authority in Hinduism's oldest scriptures",
+      "(D) The hymn argues against the varna order"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-008",
+    "source_stimulus_words": 204,
+    "stem": "The Purusa hymn dates to roughly 1500-1000 BCE, among the oldest Hindu scriptures. What does its account of the varnas' origins demonstrate?",
+    "stimulus": "Paraphrase of the Purusa hymn from the Rig-Veda (c. 1500-1000 BCE), India's oldest surviving literature: Purusa is the lord of the immortals, sustained by ritual offerings. When the gods sacrificed Purusa as their offering — spring as the clarified butter, summer as the kindling, autumn as the oblation — the sacrifice itself became the source of all things. From that fully offered sacrifice were born the sacred hymns and chants, the sacrificial formulas, the horses, and the cattle, goats, and sheep. Then the gods divided Purusa: his mouth became the Brahman (priest), his arms the Rajanya (warrior-ruler), his thighs the Vaishya (producer-trader), and from his feet the Shudra (servant) was born. So were the worlds fashioned — the gods sacrificing the sacrifice with the sacrifice, in the first of all rites.",
+    "stimulus_words": 131,
+    "themes": [
+      "SIO",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Caste had no religious basis in early Hinduism",
-   "(B) Caste was embedded with divine authority in Hinduism's oldest scriptures",
-   "(C) The British invented the caste system",
-   "(D) The hymn argues against the varna order"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-008",
-  "source_stimulus_words": 204,
-  "stem": "The Purusa hymn dates to roughly 1500-1000 BCE, among the oldest Hindu scriptures. What does its account of the varnas' origins demonstrate?",
-  "stimulus": "Paraphrase of the Purusa hymn from the Rig-Veda (c. 1500-1000 BCE), India's oldest surviving literature: Purusa is the lord of the immortals, sustained by ritual offerings. When the gods sacrificed Purusa as their offering — spring as the clarified butter, summer as the kindling, autumn as the oblation — the sacrifice itself became the source of all things. From that fully offered sacrifice were born the sacred hymns and chants, the sacrificial formulas, the horses, and the cattle, goats, and sheep. Then the gods divided Purusa: his mouth became the Brahman (priest), his arms the Rajanya (warrior-ruler), his thighs the Vaishya (producer-trader), and from his feet the Shudra (servant) was born. So were the worlds fashioned — the gods sacrificing the sacrifice with the sacrifice, in the first of all rites.",
-  "stimulus_words": 131,
-  "themes": [
-   "SIO",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Bhakti saints like Kabir and Ravidas — themselves of low or humble birth — taught that loving devotion to god mattered more than ritual purity or birth, drawing followers across caste lines. That caste could be challenged from inside Hindu tradition shows the system was contested in practice, not monolithic. (A) is wrong because caste ideology and hierarchy persisted for centuries after. (C) is wrong because bhakti devotion often bypassed Brahman ritual authority rather than reinforcing it. (D) is wrong because the bhakti critics themselves prove questioning happened.",
-  "id": "wh-fivesteps-u1-020",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Caste hierarchy persisted for centuries; bhakti softened its edges without abolishing it.",
-   "B": "Correct. Low-born bhakti saints taught devotion outranked birth, showing caste was contested from within Hindu tradition.",
-   "C": "Wrong. Bhakti devotion often bypassed Brahman ritual authority rather than strengthening it.",
-   "D": "Wrong. The bhakti critics themselves are proof that caste was questioned."
+  {
+    "difficulty": "hard",
+    "explanation": "Bhakti saints like Kabir and Ravidas — themselves of low or humble birth — taught that loving devotion to god mattered more than ritual purity or birth, drawing followers across caste lines. That caste could be challenged from inside Hindu tradition shows the system was contested in practice, not monolithic. (A) is wrong because caste ideology and hierarchy persisted for centuries after. (C) is wrong because bhakti devotion often bypassed Brahman ritual authority rather than reinforcing it. (D) is wrong because the bhakti critics themselves prove questioning happened.",
+    "id": "wh-fivesteps-u1-020",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Caste hierarchy persisted for centuries; bhakti softened its edges without abolishing it.",
+      "B": "Wrong. Bhakti devotion often bypassed Brahman ritual authority rather than strengthening it.",
+      "C": "Correct. Low-born bhakti saints taught devotion outranked birth, showing caste was contested from within Hindu tradition.",
+      "D": "Wrong. The bhakti critics themselves are proof that caste was questioned."
+    },
+    "options": [
+      "(A) The caste system disappeared in medieval India, replaced by an egalitarian order",
+      "(B) Bhakti devotion reinforced Brahman authority",
+      "(C) Religious movements could challenge caste rigidity from within Hindu tradition",
+      "(D) No one in Indian history ever questioned caste"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-009",
+    "source_stimulus_words": 204,
+    "stem": "The medieval bhakti movement taught that devotion to god outranked birth, and its revered saints included low-caste poets. What does this show about caste in practice?",
+    "stimulus": "Paraphrase of the Purusa hymn from the Rig-Veda (c. 1500-1000 BCE), India's oldest surviving literature: Purusa is the lord of the immortals, sustained by ritual offerings. When the gods sacrificed Purusa as their offering — spring as the clarified butter, summer as the kindling, autumn as the oblation — the sacrifice itself became the source of all things. From that fully offered sacrifice were born the sacred hymns and chants, the sacrificial formulas, the horses, and the cattle, goats, and sheep. Then the gods divided Purusa: his mouth became the Brahman (priest), his arms the Rajanya (warrior-ruler), his thighs the Vaishya (producer-trader), and from his feet the Shudra (servant) was born. So were the worlds fashioned — the gods sacrificing the sacrifice with the sacrifice, in the first of all rites.",
+    "stimulus_words": 131,
+    "themes": [
+      "GOV",
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The caste system disappeared in medieval India",
-   "(B) Religious movements could challenge caste rigidity from within Hindu tradition",
-   "(C) Bhakti devotion reinforced Brahman authority",
-   "(D) No one in Indian history ever questioned caste"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-009",
-  "source_stimulus_words": 204,
-  "stem": "The medieval bhakti movement taught that devotion to god outranked birth, and its revered saints included low-caste poets. What does this show about caste in practice?",
-  "stimulus": "Paraphrase of the Purusa hymn from the Rig-Veda (c. 1500-1000 BCE), India's oldest surviving literature: Purusa is the lord of the immortals, sustained by ritual offerings. When the gods sacrificed Purusa as their offering — spring as the clarified butter, summer as the kindling, autumn as the oblation — the sacrifice itself became the source of all things. From that fully offered sacrifice were born the sacred hymns and chants, the sacrificial formulas, the horses, and the cattle, goats, and sheep. Then the gods divided Purusa: his mouth became the Brahman (priest), his arms the Rajanya (warrior-ruler), his thighs the Vaishya (producer-trader), and from his feet the Shudra (servant) was born. So were the worlds fashioned — the gods sacrificing the sacrifice with the sacrifice, in the first of all rites.",
-  "stimulus_words": 131,
-  "themes": [
-   "GOV",
-   "SIO",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Luther's 'three walls' were the legal fictions that made Rome untouchable: the claim that secular rulers could not judge the Church, that only the pope could interpret scripture, and that only the pope could summon a reforming council. Knocking down those walls was the necessary first step.",
-  "id": "wh-fivesteps-u4-021",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Luther aimed to make the Church accountable, not to defend papal immunity.",
-   "B": "Correct. The three claims blocked all reform; demolishing them was the prerequisite for any accountability.",
-   "C": "Wrong. Luther appealed to princes, nobles, and scholars broadly, not to monks alone.",
-   "D": "Wrong. The 'walls' were the target of his attack, not something he praised."
+  {
+    "difficulty": "hard",
+    "explanation": "Luther's 'three walls' were the legal fictions that made Rome untouchable: the claim that secular rulers could not judge the Church, that only the pope could interpret scripture, and that only the pope could summon a reforming council. Knocking down those walls was the necessary first step.",
+    "id": "wh-fivesteps-u4-021",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Luther aimed to make the Church accountable, not to defend papal immunity.",
+      "B": "Wrong. Luther appealed to princes, nobles, and scholars broadly, not to monks alone.",
+      "C": "Wrong. The 'walls' were the target of his attack, not something he praised.",
+      "D": "Correct. The three claims blocked all reform; demolishing them was the prerequisite for any accountability."
+    },
+    "options": [
+      "(A) To defend the pope against all criticism",
+      "(B) To argue that only monks, through stricter monastic discipline, could carry out reform",
+      "(C) To praise the Church's institutional strength",
+      "(D) To demolish the legal defenses that made the Church unreformable"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-005",
+    "source_stimulus_words": 289,
+    "stem": "Luther accused Rome of hiding behind 'three walls': that secular power has no jurisdiction over the clergy, that only the pope may interpret scripture, and that only the pope may call a council. What was his purpose in attacking these claims?",
+    "stimulus": "Paraphrase of Martin Luther's 1520 Address to the Christian Nobility of the German Nation: Luther lays before Germany's princes a program for reforming the Christian estate, driven, he says, not by arrogance but by the distress oppressing all Christendom, especially Germany. Rome, he charges, has built three walls around itself so that no one can reform it, and Christendom has suffered terribly behind them: first, the claim that temporal rulers have no authority over spiritual matters; second, that no one but the pope may interpret the scriptures; third, that no one but the pope may call a council. He then turns to what a true council should address, above all the worldly extravagance of the papacy. It is, he writes, a dreadful thing to see the man who calls himself Christ's vicar living in pomp no king or emperor can match. As for the cardinals, their real function is plain: Italy and Germany hold rich convents, endowments, and benefices, and Rome created cardinals and handed them these prizes as the surest way to drag the wealth into Roman hands, destroying genuine service to God in the process.",
+    "stimulus_words": 187,
+    "themes": [
+      "GOV",
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) To defend the pope against all criticism",
-   "(B) To demolish the legal defenses that made the Church unreformable",
-   "(C) To argue that only monks could carry out reform",
-   "(D) To praise the Church's institutional strength"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-005",
-  "source_stimulus_words": 289,
-  "stem": "Luther accused Rome of hiding behind 'three walls': that secular power has no jurisdiction over the clergy, that only the pope may interpret scripture, and that only the pope may call a council. What was his purpose in attacking these claims?",
-  "stimulus": "Paraphrase of Martin Luther's 1520 Address to the Christian Nobility of the German Nation: Luther lays before Germany's princes a program for reforming the Christian estate, driven, he says, not by arrogance but by the distress oppressing all Christendom, especially Germany. Rome, he charges, has built three walls around itself so that no one can reform it, and Christendom has suffered terribly behind them: first, the claim that temporal rulers have no authority over spiritual matters; second, that no one but the pope may interpret the scriptures; third, that no one but the pope may call a council. He then turns to what a true council should address, above all the worldly extravagance of the papacy. It is, he writes, a dreadful thing to see the man who calls himself Christ's vicar living in pomp no king or emperor can match. As for the cardinals, their real function is plain: Italy and Germany hold rich convents, endowments, and benefices, and Rome created cardinals and handed them these prizes as the surest way to drag the wealth into Roman hands, destroying genuine service to God in the process.",
-  "stimulus_words": 187,
-  "themes": [
-   "GOV",
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Luther knew Rome would condemn him. Survival required a protector with armies: the German princes who could defy both pope and emperor. By addressing the nobility, he was recruiting the political and military shield the Reformation needed.",
-  "id": "wh-fivesteps-u4-022",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Luther wrote Latin fluently; addressing the nobility in German was a deliberate strategic choice.",
-   "B": "Correct. Only secular princes could defy Rome and the emperor with armies; the Reformation needed their protection.",
-   "C": "Wrong. The German nobility were rulers and soldiers, not theologians.",
-   "D": "Wrong. Luther never sought or claimed a princely title."
+  {
+    "difficulty": "hard",
+    "explanation": "Luther knew Rome would condemn him. Survival required a protector with armies: the German princes who could defy both pope and emperor. By addressing the nobility, he was recruiting the political and military shield the Reformation needed.",
+    "id": "wh-fivesteps-u4-022",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Luther wrote Latin fluently; addressing the nobility in German was a deliberate strategic choice.",
+      "B": "Wrong. The German nobility were rulers and soldiers, not theologians.",
+      "C": "Correct. Only secular princes could defy Rome and the emperor with armies; the Reformation needed their protection.",
+      "D": "Wrong. Luther never sought or claimed a princely title."
+    },
+    "options": [
+      "(A) He was unable to write in Latin",
+      "(B) The German nobility were the country's leading theologians and church reformers",
+      "(C) He needed the princes' political and military protection against Rome",
+      "(D) He hoped to be made a prince himself"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-006",
+    "source_stimulus_words": 289,
+    "stem": "Luther addressed his reform program to the Christian nobility of Germany rather than to Church authorities. Why?",
+    "stimulus": "Paraphrase of Martin Luther's 1520 Address to the Christian Nobility of the German Nation: Luther lays before Germany's princes a program for reforming the Christian estate, driven, he says, not by arrogance but by the distress oppressing all Christendom, especially Germany. Rome, he charges, has built three walls around itself so that no one can reform it, and Christendom has suffered terribly behind them: first, the claim that temporal rulers have no authority over spiritual matters; second, that no one but the pope may interpret the scriptures; third, that no one but the pope may call a council. He then turns to what a true council should address, above all the worldly extravagance of the papacy. It is, he writes, a dreadful thing to see the man who calls himself Christ's vicar living in pomp no king or emperor can match. As for the cardinals, their real function is plain: Italy and Germany hold rich convents, endowments, and benefices, and Rome created cardinals and handed them these prizes as the surest way to drag the wealth into Roman hands, destroying genuine service to God in the process.",
+    "stimulus_words": 187,
+    "themes": [
+      "GOV",
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) He was unable to write in Latin",
-   "(B) He needed the princes' political and military protection against Rome",
-   "(C) The nobility were Germany's leading theologians",
-   "(D) He hoped to be made a prince himself"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-006",
-  "source_stimulus_words": 289,
-  "stem": "Luther addressed his reform program to the Christian nobility of Germany rather than to Church authorities. Why?",
-  "stimulus": "Paraphrase of Martin Luther's 1520 Address to the Christian Nobility of the German Nation: Luther lays before Germany's princes a program for reforming the Christian estate, driven, he says, not by arrogance but by the distress oppressing all Christendom, especially Germany. Rome, he charges, has built three walls around itself so that no one can reform it, and Christendom has suffered terribly behind them: first, the claim that temporal rulers have no authority over spiritual matters; second, that no one but the pope may interpret the scriptures; third, that no one but the pope may call a council. He then turns to what a true council should address, above all the worldly extravagance of the papacy. It is, he writes, a dreadful thing to see the man who calls himself Christ's vicar living in pomp no king or emperor can match. As for the cardinals, their real function is plain: Italy and Germany hold rich convents, endowments, and benefices, and Rome created cardinals and handed them these prizes as the surest way to drag the wealth into Roman hands, destroying genuine service to God in the process.",
-  "stimulus_words": 187,
-  "themes": [
-   "GOV",
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Protestant critics had hammered the Church for absentee bishops who never visited their dioceses, illiterate priests, and the sale of offices. Trent answered by ordering bishops to reside in their sees and creating seminaries to train priests properly.",
-  "id": "wh-fivesteps-u6-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Overpopulation was not the clerical problem Trent addressed.",
-   "B": "Correct. Absenteeism, corruption, and clerical ignorance had fueled Protestant attacks; Trent moved to correct them.",
-   "C": "Wrong. The disciplinary decrees concerned clerical conduct and training, not artistic production.",
-   "D": "Wrong. Trent created seminaries to improve priestly education, not to ban it."
+  {
+    "difficulty": "hard",
+    "explanation": "Protestant critics had hammered the Church for absentee bishops who never visited their dioceses, illiterate priests, and the sale of offices. Trent answered by ordering bishops to reside in their sees and creating seminaries to train priests properly.",
+    "id": "wh-fivesteps-u6-010",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Overpopulation was not the clerical problem Trent addressed.",
+      "B": "Wrong. The disciplinary decrees concerned clerical conduct and training, not artistic production.",
+      "C": "Correct. Absenteeism, corruption, and clerical ignorance had fueled Protestant attacks; Trent moved to correct them.",
+      "D": "Wrong. Trent created seminaries to improve priestly education, not to ban it."
+    },
+    "options": [
+      "(A) Overpopulation in the Papal States and the Italian peninsula",
+      "(B) A decline in religious art",
+      "(C) Absenteeism, corruption, and ignorance among the clergy",
+      "(D) Excessive education among priests"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-001",
+    "source_stimulus_words": 289,
+    "stem": "Beyond doctrine, the Council of Trent ordered bishops to reside in their dioceses and created seminaries to train priests. What problem did these disciplinary reforms address?",
+    "stimulus": "Paraphrase of Martin Luther's 1520 Address to the Christian Nobility of the German Nation: Luther lays before Germany's princes a program for reforming the Christian estate, driven, he says, not by arrogance but by the distress oppressing all Christendom, especially Germany. Rome, he charges, has built three walls around itself so that no one can reform it, and Christendom has suffered terribly behind them: first, the claim that temporal rulers have no authority over spiritual matters; second, that no one but the pope may interpret the scriptures; third, that no one but the pope may call a council. He then turns to what a true council should address, above all the worldly extravagance of the papacy. It is, he writes, a dreadful thing to see the man who calls himself Christ's vicar living in pomp no king or emperor can match. As for the cardinals, their real function is plain: Italy and Germany hold rich convents, endowments, and benefices, and Rome created cardinals and handed them these prizes as the surest way to drag the wealth into Roman hands, destroying genuine service to God in the process.",
+    "stimulus_words": 187,
+    "themes": [
+      "GOV",
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Overpopulation in the Papal States",
-   "(B) Absenteeism, corruption, and ignorance among the clergy",
-   "(C) A decline in religious art",
-   "(D) Excessive education among priests"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-001",
-  "source_stimulus_words": 289,
-  "stem": "Beyond doctrine, the Council of Trent ordered bishops to reside in their dioceses and created seminaries to train priests. What problem did these disciplinary reforms address?",
-  "stimulus": "Paraphrase of Martin Luther's 1520 Address to the Christian Nobility of the German Nation: Luther lays before Germany's princes a program for reforming the Christian estate, driven, he says, not by arrogance but by the distress oppressing all Christendom, especially Germany. Rome, he charges, has built three walls around itself so that no one can reform it, and Christendom has suffered terribly behind them: first, the claim that temporal rulers have no authority over spiritual matters; second, that no one but the pope may interpret the scriptures; third, that no one but the pope may call a council. He then turns to what a true council should address, above all the worldly extravagance of the papacy. It is, he writes, a dreadful thing to see the man who calls himself Christ's vicar living in pomp no king or emperor can match. As for the cardinals, their real function is plain: Italy and Germany hold rich convents, endowments, and benefices, and Rome created cardinals and handed them these prizes as the surest way to drag the wealth into Roman hands, destroying genuine service to God in the process.",
-  "stimulus_words": 187,
-  "themes": [
-   "GOV",
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Borders drawn by diplomats in Berlin, often with rulers, sliced through kingdoms, language groups, and grazing lands without consultation. Straight lines on the map are the signature of outsiders dividing territory on paper, indifferent to the peoples living there.",
-  "id": "wh-fivesteps-u6-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Africans were not consulted at the Berlin Conference; Europeans divided the continent among themselves.",
-   "B": "Correct. Ruler-straight borders drawn in Berlin ignored African ethnic and political realities.",
-   "C": "Wrong. The straight-line borders cut across rivers and terrain rather than following them.",
-   "D": "Wrong. These were new, imposed divisions, not the restoration of ancient boundaries."
+  {
+    "difficulty": "hard",
+    "explanation": "Borders drawn by diplomats in Berlin, often with rulers, sliced through kingdoms, language groups, and grazing lands without consultation. Straight lines on the map are the signature of outsiders dividing territory on paper, indifferent to the peoples living there.",
+    "id": "wh-fivesteps-u6-011",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Africans were not consulted at the Berlin Conference; Europeans divided the continent among themselves.",
+      "B": "Wrong. The straight-line borders cut across rivers and terrain rather than following them.",
+      "C": "Wrong. These were new, imposed divisions, not the restoration of ancient boundaries.",
+      "D": "Correct. Ruler-straight borders drawn in Berlin ignored African ethnic and political realities."
+    },
+    "options": [
+      "(A) They were drawn by African rulers themselves",
+      "(B) They followed Africa's rivers, lakes, and mountain ranges as natural boundaries",
+      "(C) They restored ancient tribal boundaries",
+      "(D) Europeans drew them in Berlin without regard to African realities"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-002",
+    "source_stimulus_words": 0,
+    "stem": "The map of colonial Africa shows many borders drawn as unnaturally straight lines. What does this reveal about how the borders were created?",
+    "stimulus": "The map depicts Africa after the Berlin Conference of 1884-1885: the continent partitioned among Britain, France, Germany, Portugal, Belgium, Italy, and Spain. Many interior boundaries run as straight lines across the Sahara and savanna, cutting through regions with no reference to terrain.",
+    "stimulus_words": 42,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) They were drawn by African rulers themselves",
-   "(B) Europeans drew them in Berlin without regard to African realities",
-   "(C) They followed Africa's rivers and mountain ranges",
-   "(D) They restored ancient tribal boundaries"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-002",
-  "source_stimulus_words": 0,
-  "stem": "The map of colonial Africa shows many borders drawn as unnaturally straight lines. What does this reveal about how the borders were created?",
-  "stimulus": "The map depicts Africa after the Berlin Conference of 1884-1885: the continent partitioned among Britain, France, Germany, Portugal, Belgium, Italy, and Spain. Many interior boundaries run as straight lines across the Sahara and savanna, cutting through regions with no reference to terrain.",
-  "stimulus_words": 42,
-  "themes": [
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "medium",
-  "explanation": "Redrawing dozens of borders would have meant war between every new state and its neighbors over every disputed mile. The Organization of African Unity therefore froze the colonial map in 1964, trading the injustice of arbitrary borders for the stability of settled ones.",
-  "id": "wh-fivesteps-u6-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Leaders kept the borders from hard pragmatism, not from any fondness for colonialism.",
-   "B": "Correct. The OAU froze inherited borders in 1964 because redrawing them would have triggered endless wars.",
-   "C": "Wrong. The decision was made by African leaders themselves through the OAU, not imposed from outside.",
-   "D": "Wrong. Leaders were fully aware the borders were artificial; they kept them to avoid worse conflict."
+  {
+    "difficulty": "medium",
+    "explanation": "Redrawing dozens of borders would have meant war between every new state and its neighbors over every disputed mile. The Organization of African Unity therefore froze the colonial map in 1964, trading the injustice of arbitrary borders for the stability of settled ones.",
+    "id": "wh-fivesteps-u6-012",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Leaders kept the borders from hard pragmatism, not from any fondness for colonialism.",
+      "B": "Wrong. The decision was made by African leaders themselves through the OAU, not imposed from outside.",
+      "C": "Wrong. Leaders were fully aware the borders were artificial; they kept them to avoid worse conflict.",
+      "D": "Correct. The OAU froze inherited borders in 1964 because redrawing them would have triggered endless wars."
+    },
+    "options": [
+      "(A) African leaders admired the colonial borders",
+      "(B) The United Nations forced Africa to keep them under the decolonization treaties",
+      "(C) Leaders did not realize the borders were artificial",
+      "(D) Redrawing them would have triggered endless border wars"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-003",
+    "source_stimulus_words": 0,
+    "stem": "After independence, African leaders largely kept the colonial borders rather than redrawing them along ethnic lines. Why?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) African leaders admired the colonial borders",
-   "(B) Redrawing them would have triggered endless border wars",
-   "(C) The United Nations forced Africa to keep them",
-   "(D) Leaders did not realize the borders were artificial"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-003",
-  "source_stimulus_words": 0,
-  "stem": "After independence, African leaders largely kept the colonial borders rather than redrawing them along ethnic lines. Why?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Colonial railroads ran from the copper mine or the peanut basin straight to the port, built to drain wealth outward, not to connect African producers to African consumers. Independence inherited economies wired to export raw materials and import finished goods.",
-  "id": "wh-fivesteps-u6-013",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Colonial infrastructure served extraction, not balanced industrial development.",
-   "B": "Correct. Railroads built from mines and plantations to ports locked economies into exporting raw materials to Europe.",
-   "C": "Wrong. The railroads connected extraction zones to ports, not African cities to one another.",
-   "D": "Wrong. Shipping, finance, and marketing remained overwhelmingly in European hands."
+  {
+    "difficulty": "hard",
+    "explanation": "Colonial railroads ran from the copper mine or the peanut basin straight to the port, built to drain wealth outward, not to connect African producers to African consumers. Independence inherited economies wired to export raw materials and import finished goods.",
+    "id": "wh-fivesteps-u6-013",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Colonial infrastructure served extraction, not balanced industrial development.",
+      "B": "Wrong. The railroads connected extraction zones to ports, not African cities to one another.",
+      "C": "Wrong. Shipping, finance, and marketing remained overwhelmingly in European hands.",
+      "D": "Correct. Railroads built from mines and plantations to ports locked economies into exporting raw materials to Europe."
+    },
+    "options": [
+      "(A) Balanced industrial development across the continent",
+      "(B) Dense rail networks linking African cities to each other",
+      "(C) African control of international shipping, finance, and commodity marketing",
+      "(D) Extractive economies geared to exporting raw materials to Europe"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-004",
+    "source_stimulus_words": 0,
+    "stem": "Colonial powers built African railroads from mines and plantations to ports, but few connecting African cities to each other. What economic pattern did this create?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ECN",
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Balanced industrial development across the continent",
-   "(B) Extractive economies geared to exporting raw materials to Europe",
-   "(C) Dense rail networks linking African cities to each other",
-   "(D) African control of international shipping and finance"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-004",
-  "source_stimulus_words": 0,
-  "stem": "Colonial powers built African railroads from mines and plantations to ports, but few connecting African cities to each other. What economic pattern did this create?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ECN",
-   "GOV",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "In Timbuktu, imported manuscripts commanded higher prices than any other merchandise, salt, horses, or cloth. That price signal reveals a city where learning was the most valued commodity: a thriving market for books means a thriving community of readers, teachers, and judges.",
-  "id": "wh-fivesteps-u2-004",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage describes a city crowded with scholars, teachers, and judges, the opposite of illiteracy.",
-   "B": "Correct. Manuscripts outselling every other good shows scholarship was Timbuktu's most prized commodity.",
-   "C": "Wrong. Books commanded the highest prices of any merchandise in the city.",
-   "D": "Wrong. The buyers were Timbuktu's own learned elite, not Europeans."
+  {
+    "difficulty": "hard",
+    "explanation": "In Timbuktu, imported manuscripts commanded higher prices than any other merchandise, salt, horses, or cloth. That price signal reveals a city where learning was the most valued commodity: a thriving market for books means a thriving community of readers, teachers, and judges.",
+    "id": "wh-fivesteps-u2-004",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Manuscripts outselling every other good shows scholarship was Timbuktu's most prized commodity.",
+      "B": "Wrong. The passage describes a city crowded with scholars, teachers, and judges, the opposite of illiteracy.",
+      "C": "Wrong. Books commanded the highest prices of any merchandise in the city.",
+      "D": "Wrong. The buyers were Timbuktu's own learned elite, not Europeans."
+    },
+    "options": [
+      "(A) Scholarship was the city's most valued commodity",
+      "(B) Timbuktu was largely illiterate, with few schools or scholars",
+      "(C) Books were worthless in Timbuktu",
+      "(D) Only Europeans bought books there"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-010",
+    "source_stimulus_words": 255,
+    "stem": "Leo Africanus reports that manuscripts from North Africa sold in Timbuktu for more money than any other merchandise. What does this reveal about the city?",
+    "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
+    "stimulus_words": 197,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) Timbuktu was largely illiterate",
-   "(B) Scholarship was the city's most valued commodity",
-   "(C) Books were worthless in Timbuktu",
-   "(D) Only Europeans bought books there"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-010",
-  "source_stimulus_words": 255,
-  "stem": "Leo Africanus reports that manuscripts from North Africa sold in Timbuktu for more money than any other merchandise. What does this reveal about the city?",
-  "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
-  "stimulus_words": 197,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "hard",
-  "explanation": "The king did not mine salt or breed horses himself; his revenue came from taxing the commerce flowing through his territory: duties on the salt caravans, tribute from subject peoples enforced by skirmishing against those who refused, and control over the horse market. Taxing trade, not producing goods, financed Songhai power.",
-  "id": "wh-fivesteps-u2-005",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Salt was mined at Tegaza, five hundred miles away; the king taxed its trade rather than producing it.",
-   "B": "Correct. Taxing trans-Saharan commerce and exacting tribute from subject peoples financed the king's power and expansion.",
-   "C": "Wrong. The daughters' marriages were alliances binding merchant wealth to the crown, not sales.",
-   "D": "Wrong. The king imported horses for his cavalry; he was a buyer, not a reseller."
+  {
+    "difficulty": "hard",
+    "explanation": "The king did not mine salt or breed horses himself; his revenue came from taxing the commerce flowing through his territory: duties on the salt caravans, tribute from subject peoples enforced by skirmishing against those who refused, and control over the horse market. Taxing trade, not producing goods, financed Songhai power.",
+    "id": "wh-fivesteps-u2-005",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Salt was mined at Tegaza, five hundred miles away; the king taxed its trade rather than producing it.",
+      "B": "Wrong. The daughters' marriages were alliances binding merchant wealth to the crown, not sales.",
+      "C": "Wrong. The king imported horses for his cavalry; he was a buyer, not a reseller.",
+      "D": "Correct. Taxing trans-Saharan commerce and exacting tribute from subject peoples financed the king's power and expansion."
+    },
+    "options": [
+      "(A) By mining and selling salt directly",
+      "(B) By selling his daughters to merchants",
+      "(C) By importing North African warhorses and reselling them at a profit to desert traders",
+      "(D) By taxing trans-Saharan trade and exacting tribute from subject peoples"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-001",
+    "source_stimulus_words": 255,
+    "stem": "How did the Songhai king profit from the trans-Saharan trade passing through his territory?",
+    "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
+    "stimulus_words": 197,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) By mining and selling salt directly",
-   "(B) By taxing trans-Saharan trade and exacting tribute from subject peoples",
-   "(C) By selling his daughters to merchants",
-   "(D) By importing horses and reselling them at a profit"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-001",
-  "source_stimulus_words": 255,
-  "stem": "How did the Songhai king profit from the trans-Saharan trade passing through his territory?",
-  "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
-  "stimulus_words": 197,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "hard",
-  "explanation": "Horses overheat, need frequent water, and cannot browse on desert scrub; the passage itself notes that horses had to be imported from North Africa at great expense. Camels carry water in their bodies, tolerate extreme heat, and eat thorny desert plants, the physiological toolkit for crossing the Sahara.",
-  "id": "wh-fivesteps-u2-006",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Camels are slower than horses; their advantage was endurance, not speed.",
-   "B": "Correct. Camels conserve water, tolerate extreme heat, and browse desert scrub; horses had to be imported at great cost.",
-   "C": "Wrong. The choice was practical and physiological, not religious.",
-   "D": "Wrong. Camels were introduced to the region; they proved suited to it rather than native to it."
+  {
+    "difficulty": "hard",
+    "explanation": "Horses overheat, need frequent water, and cannot browse on desert scrub; the passage itself notes that horses had to be imported from North Africa at great expense. Camels carry water in their bodies, tolerate extreme heat, and eat thorny desert plants, the physiological toolkit for crossing the Sahara.",
+    "id": "wh-fivesteps-u2-006",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Camels are slower than horses; their advantage was endurance, not speed.",
+      "B": "Wrong. The choice was practical and physiological, not religious.",
+      "C": "Correct. Camels conserve water, tolerate extreme heat, and browse desert scrub; horses had to be imported at great cost.",
+      "D": "Wrong. Camels were introduced to the region; they proved suited to it rather than native to it."
+    },
+    "options": [
+      "(A) Camels are faster than horses",
+      "(B) Horses were considered sacred to desert peoples and could not be used for trade caravans",
+      "(C) Camels conserve water and tolerate desert heat and forage that horses cannot",
+      "(D) Camels were native to the Sahel grasslands"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-002",
+    "source_stimulus_words": 255,
+    "stem": "The passage notes that the best horses had to be imported from North Africa at great expense, while camel caravans crossed the Sahara routinely. Why did trans-Saharan trade depend on camels rather than horses?",
+    "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
+    "stimulus_words": 197,
+    "themes": [
+      "GOV",
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) Camels are faster than horses",
-   "(B) Camels conserve water and tolerate desert heat and forage that horses cannot",
-   "(C) Horses were considered sacred and could not be used",
-   "(D) Camels were native to the Sahel grasslands"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-002",
-  "source_stimulus_words": 255,
-  "stem": "The passage notes that the best horses had to be imported from North Africa at great expense, while camel caravans crossed the Sahara routinely. Why did trans-Saharan trade depend on camels rather than horses?",
-  "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
-  "stimulus_words": 197,
-  "themes": [
-   "GOV",
-   "ECN",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "hard",
-  "explanation": "Islam entered West Africa along the trade routes, winning first the urban merchants and then the kings who profited from the commerce, while villages and commoners held to older beliefs for generations. The great mosque beside enduring traditional practice shows a top-down, gradual conversion, not a sudden mass transformation.",
-  "id": "wh-fivesteps-u2-007",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Conversion was gradual and incomplete; traditional practices persisted alongside Islam for generations.",
-   "B": "Correct. Islam won merchants and kings first through trade contacts, while commoners retained older beliefs: a top-down, gradual pattern.",
-   "C": "Wrong. The passage describes a great mosque and Muslim scholars at the city's heart.",
-   "D": "Wrong. Nothing in the passage suggests Christianity at the Songhai court."
+  {
+    "difficulty": "hard",
+    "explanation": "Islam entered West Africa along the trade routes, winning first the urban merchants and then the kings who profited from the commerce, while villages and commoners held to older beliefs for generations. The great mosque beside enduring traditional practice shows a top-down, gradual conversion, not a sudden mass transformation.",
+    "id": "wh-fivesteps-u2-007",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Conversion was gradual and incomplete; traditional practices persisted alongside Islam for generations.",
+      "B": "Correct. Islam won merchants and kings first through trade contacts, while commoners retained older beliefs: a top-down, gradual pattern.",
+      "C": "Wrong. The passage describes a great mosque and Muslim scholars at the city's heart.",
+      "D": "Wrong. Nothing in the passage suggests Christianity at the Songhai court."
+    },
+    "options": [
+      "(A) The entire population converted to Islam instantly upon contact with Muslim traders",
+      "(B) Islam spread first among merchants and rulers, while commoners kept older beliefs",
+      "(C) Islam never reached West Africa",
+      "(D) The king was secretly Christian"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-003",
+    "source_stimulus_words": 255,
+    "stem": "The passage shows an Islamic king ruling a city with a great mosque, yet many commoners kept traditional practices. What does this illustrate about Islam in West Africa?",
+    "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
+    "stimulus_words": 197,
+    "themes": [
+      "GOV",
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) The entire population converted to Islam instantly",
-   "(B) Islam spread first among merchants and rulers through trade, while commoners kept older beliefs",
-   "(C) Islam never reached West Africa",
-   "(D) The king was secretly Christian"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-003",
-  "source_stimulus_words": 255,
-  "stem": "The passage shows an Islamic king ruling a city with a great mosque, yet many commoners kept traditional practices. What does this illustrate about Islam in West Africa?",
-  "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
-  "stimulus_words": 197,
-  "themes": [
-   "GOV",
-   "ECN",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "medium",
-  "explanation": "Norse sailors reached Iceland, Greenland, and the North American coast around 1000 CE, but the settlements were tiny, short-lived, and soon abandoned, leaving no sustained exchange of goods, crops, or diseases. Without follow-through, the voyages changed nothing, unlike the Iberian voyages five centuries later, which permanently linked the hemispheres.",
-  "id": "wh-fivesteps-u4-023",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Norse ships were superb ocean-going vessels; technology was not the problem.",
-   "B": "Correct. Tiny, short-lived settlements with no sustained contact meant the voyages left no lasting historical impact.",
-   "C": "Wrong. Norse Atlantic voyages never reached China.",
-   "D": "Wrong. The question is about the Atlantic voyages, which left no lasting impact regardless of England's later history."
-  },
-  "options": [
-   "(A) The Vikings had no ocean-going ships",
-   "(B) The settlements were tiny, short-lived, and left no sustained contact",
-   "(C) The Vikings sailed on to China instead",
-   "(D) The Vikings permanently conquered England instead"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-007",
-  "source_stimulus_words": 0,
-  "stem": "The map shows Norse voyages reaching Iceland, Greenland, and Vinland (North America) around 1000 CE, nearly 500 years before Columbus. What limited the historical impact of these voyages?",
-  "stimulus": "The map traces Norse Atlantic voyages around 1000 CE: from Scandinavia to Iceland, on to Greenland, and finally to a short-lived settlement at Vinland on the North American coast.",
-  "stimulus_words": 29,
-  "themes": [
-   "ENV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- }
+  {
+    "difficulty": "medium",
+    "explanation": "Norse sailors reached Iceland, Greenland, and the North American coast around 1000 CE, but the settlements were tiny, short-lived, and soon abandoned, leaving no sustained exchange of goods, crops, or diseases. Without follow-through, the voyages changed nothing, unlike the Iberian voyages five centuries later, which permanently linked the hemispheres.",
+    "id": "wh-fivesteps-u4-023",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Norse ships were superb ocean-going vessels; technology was not the problem.",
+      "B": "Wrong. Norse Atlantic voyages never reached China.",
+      "C": "Correct. Tiny, short-lived settlements with no sustained contact meant the voyages left no lasting historical impact.",
+      "D": "Wrong. The question is about the Atlantic voyages, which left no lasting impact regardless of England's later history."
+    },
+    "options": [
+      "(A) The Vikings had no ocean-going ships",
+      "(B) The Vikings sailed on to China instead",
+      "(C) The settlements were tiny, short-lived, and left no sustained contact",
+      "(D) The Vikings permanently conquered England instead of settling further west"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-007",
+    "source_stimulus_words": 0,
+    "stem": "The map shows Norse voyages reaching Iceland, Greenland, and Vinland (North America) around 1000 CE, nearly 500 years before Columbus. What limited the historical impact of these voyages?",
+    "stimulus": "The map traces Norse Atlantic voyages around 1000 CE: from Scandinavia to Iceland, on to Greenland, and finally to a short-lived settlement at Vinland on the North American coast.",
+    "stimulus_words": 29,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
+  }
 ]

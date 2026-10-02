@@ -1,885 +1,885 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "The broadcast never tries to persuade GIs that Japan's cause is just; it tries to persuade them that fighting is pointless. By dwelling on invulnerable Japanese defenses and the pity owed to doomed attackers, it aims to drain the will to fight, the classic goal of demoralization propaganda.",
-  "id": "wh-fivesteps-u7-019",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The broadcast offers no real information; its claims serve demoralization, not news.",
-   "B": "Correct. Emphasizing hopeless Japanese defenses aimed to sap American soldiers' will to fight.",
-   "C": "Wrong. The broadcast targeted front-line GIs, not Japanese recruitment.",
-   "D": "Wrong. The broadcast attacks American commanders as wasteful; it does not praise them."
+  {
+    "difficulty": "hard",
+    "explanation": "The broadcast never tries to persuade GIs that Japan's cause is just; it tries to persuade them that fighting is pointless. By dwelling on invulnerable Japanese defenses and the pity owed to doomed attackers, it aims to drain the will to fight, the classic goal of demoralization propaganda.",
+    "id": "wh-fivesteps-u7-019",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Emphasizing hopeless Japanese defenses aimed to sap American soldiers' will to fight.",
+      "B": "Wrong. The broadcast offers no real information; its claims serve demoralization, not news.",
+      "C": "Wrong. The broadcast targeted front-line GIs, not Japanese recruitment.",
+      "D": "Wrong. The broadcast attacks American commanders as wasteful; it does not praise them."
+    },
+    "options": [
+      "(A) To sap American soldiers' will to fight by making battle seem hopeless",
+      "(B) To provide accurate war news",
+      "(C) To recruit Japanese soldiers",
+      "(D) To praise American commanders"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-022",
+    "source_stimulus_words": 225,
+    "stem": "The broadcast addresses American GIs as 'Yankee brothers,' pities them, and insists Japanese defenses are invulnerable. What was the strategic purpose?",
+    "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
+    "stimulus_words": 93,
+    "themes": [
+      "GOV",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) To provide accurate war news",
-   "(B) To sap American soldiers' will to fight by making battle seem hopeless",
-   "(C) To recruit Japanese soldiers",
-   "(D) To praise American commanders"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-022",
-  "source_stimulus_words": 225,
-  "stem": "The broadcast addresses American GIs as 'Yankee brothers,' pities them, and insists Japanese defenses are invulnerable. What was the strategic purpose?",
-  "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
-  "stimulus_words": 93,
-  "themes": [
-   "GOV",
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "Tokyo Rose and her German counterparts played American jazz and popular songs, then slipped in news of defeats, rumors of infidelity at home, and invitations to surrender. The music was bait; the message was despair. Both Axis powers ran the same playbook against enemy morale.",
-  "id": "wh-fivesteps-u7-020",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The broadcasts were propaganda operations, not objective news services.",
-   "B": "Correct. Both used popular music to attract listeners, then delivered demoralizing propaganda.",
-   "C": "Wrong. The programs aimed to demoralize, not to convert soldiers to the enemy cause.",
-   "D": "Wrong. The broadcasts operated throughout the war; they were not banned."
+  {
+    "difficulty": "hard",
+    "explanation": "Tokyo Rose and her German counterparts played American jazz and popular songs, then slipped in news of defeats, rumors of infidelity at home, and invitations to surrender. The music was bait; the message was despair. Both Axis powers ran the same playbook against enemy morale.",
+    "id": "wh-fivesteps-u7-020",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The broadcasts were propaganda operations, not objective news services.",
+      "B": "Correct. Both used popular music to attract listeners, then delivered demoralizing propaganda.",
+      "C": "Wrong. The programs aimed to demoralize, not to convert soldiers to the enemy cause.",
+      "D": "Wrong. The broadcasts operated throughout the war; they were not banned."
+    },
+    "options": [
+      "(A) They were objective news services",
+      "(B) They mixed popular music with demoralizing propaganda to hold soldiers' attention",
+      "(C) They converted large numbers of Allied soldiers to the Axis cause through their broadcasts",
+      "(D) They were banned after a month"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-023",
+    "source_stimulus_words": 225,
+    "stem": "Both Japan and Germany broadcast English-language programs to Allied troops. What did these programs share?",
+    "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
+    "stimulus_words": 93,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) They were objective news services",
-   "(B) They mixed popular music with demoralizing propaganda to keep soldiers listening",
-   "(C) They converted large numbers of soldiers",
-   "(D) They were banned after a month"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-023",
-  "source_stimulus_words": 225,
-  "stem": "Both Japan and Germany broadcast English-language programs to Allied troops. What did these programs share?",
-  "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
-  "stimulus_words": 93,
-  "themes": [
-   "GOV",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "By blaming 'your superiors' for ordering a hopeless attack, the broadcast invites GIs to see their own officers, not the Japanese, as the enemy. Turning soldiers against their command corrodes the discipline armies need to fight.",
-  "id": "wh-fivesteps-u7-021",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The broadcast denounces the commanders as wasteful; it does not praise them.",
-   "B": "Correct. Blaming officers for doomed attacks aimed to turn soldiers against their own command.",
-   "C": "Wrong. The broadcast seeks to demoralize, not to encourage enlistment.",
-   "D": "Wrong. The broadcast offers no tactical instruction; its weapon is psychological."
+  {
+    "difficulty": "hard",
+    "explanation": "By blaming 'your superiors' for ordering a hopeless attack, the broadcast invites GIs to see their own officers, not the Japanese, as the enemy. Turning soldiers against their command corrodes the discipline armies need to fight.",
+    "id": "wh-fivesteps-u7-021",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The broadcast denounces the commanders as wasteful; it does not praise them.",
+      "B": "Correct. Blaming officers for doomed attacks aimed to turn soldiers against their own command.",
+      "C": "Wrong. The broadcast seeks to demoralize, not to encourage enlistment.",
+      "D": "Wrong. The broadcast offers no tactical instruction; its weapon is psychological."
+    },
+    "options": [
+      "(A) Praising American commanders for their brilliant leadership and tactical genius in battle",
+      "(B) Driving a wedge between soldiers and their officers to erode discipline",
+      "(C) Encouraging enlistment",
+      "(D) Teaching infantry tactics"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-024",
+    "source_stimulus_words": 225,
+    "stem": "The broadcast repeatedly blames 'your superiors' for sending GIs to die in a hopeless attack. What psychological tactic is this?",
+    "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
+    "stimulus_words": 93,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Praising American commanders",
-   "(B) Driving a wedge between soldiers and their officers to erode discipline",
-   "(C) Encouraging enlistment",
-   "(D) Teaching infantry tactics"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-024",
-  "source_stimulus_words": 225,
-  "stem": "The broadcast repeatedly blames 'your superiors' for sending GIs to die in a hopeless attack. What psychological tactic is this?",
-  "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
-  "stimulus_words": 93,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "Mali's gold mines were so rich that a single royal pilgrimage, scattering gold across Egypt, measurably depressed the price of the metal. The anecdote is economic evidence of Mali's staggering mineral wealth and its integration into interregional markets.",
-  "id": "wh-fivesteps-u1-040",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The gold came from Mali's own mines; the pilgrimage displayed Mali's wealth, not its poverty.",
-   "B": "Correct. One caravan's spending moved gold prices in Egypt, proof of Mali's enormous gold resources.",
-   "C": "Wrong. Gold was the most valued commodity of the age; the price movement proves its importance.",
-   "D": "Wrong. Cairo was a great commercial center; the gold was spent in its markets."
+  {
+    "difficulty": "hard",
+    "explanation": "Mali's gold mines were so rich that a single royal pilgrimage, scattering gold across Egypt, measurably depressed the price of the metal. The anecdote is economic evidence of Mali's staggering mineral wealth and its integration into interregional markets.",
+    "id": "wh-fivesteps-u1-040",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The gold came from Mali's own mines; the pilgrimage displayed Mali's wealth, not its poverty.",
+      "B": "Wrong. Gold was the most valued commodity of the age; the price movement proves its importance.",
+      "C": "Wrong. Cairo was a great commercial center; the gold was spent in its markets.",
+      "D": "Correct. One caravan's spending moved gold prices in Egypt, proof of Mali's enormous gold resources."
+    },
+    "options": [
+      "(A) Mali had no gold of its own",
+      "(B) Gold was worthless in the 1300s, used only for cheap jewelry and gilded decoration",
+      "(C) Cairo had no markets",
+      "(D) Mali controlled such vast gold that one caravan disrupted distant markets"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-040",
+    "source_stimulus_words": 209,
+    "stem": "Mansa Musa's hajj caravan spent so much gold that the price of gold fell in Cairo. What does this reveal about Mali's economy?",
+    "stimulus": "Paraphrase of an encyclopedia account of Mansa Musa (r. 1307-1337): He extended Mali's borders in every direction, adding the trading centers of Walata, Timbuktu, and Gao, and reaching the Atlantic. Mali came to control the north-south and east-west trade routes and their great centers of learning. Musa consolidated the administration, encouraged trade, and protected the routes. In 1324 he performed the hajj with an entourage of some 12,000. The Malians carried so much gold and spent it so lavishly that gold prices fell in North Africa and Egypt. Returning, Musa brought books from Cairo and Kairouan and was accompanied home by Maliki jurists, administrators, and Quranic scholars. He endowed centers of learning, built mosques, patronized scholarship, encouraged education, and bound Mali closer to the Muslim powers of North Africa. History remembers him as pious, learned, generous, and farsighted.",
+    "stimulus_words": 138,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Mali had no gold of its own",
-   "(B) Mali controlled such vast gold resources that one pilgrimage disrupted distant markets",
-   "(C) Gold was worthless in the 1300s",
-   "(D) Cairo had no markets"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-040",
-  "source_stimulus_words": 209,
-  "stem": "Mansa Musa's hajj caravan spent so much gold that the price of gold fell in Cairo. What does this reveal about Mali's economy?",
-  "stimulus": "Paraphrase of an encyclopedia account of Mansa Musa (r. 1307-1337): He extended Mali's borders in every direction, adding the trading centers of Walata, Timbuktu, and Gao, and reaching the Atlantic. Mali came to control the north-south and east-west trade routes and their great centers of learning. Musa consolidated the administration, encouraged trade, and protected the routes. In 1324 he performed the hajj with an entourage of some 12,000. The Malians carried so much gold and spent it so lavishly that gold prices fell in North Africa and Egypt. Returning, Musa brought books from Cairo and Kairouan and was accompanied home by Maliki jurists, administrators, and Quranic scholars. He endowed centers of learning, built mosques, patronized scholarship, encouraged education, and bound Mali closer to the Muslim powers of North Africa. History remembers him as pious, learned, generous, and farsighted.",
-  "stimulus_words": 138,
-  "themes": [
-   "CDI",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "A growing empire needed judges to settle disputes under Islamic law, administrators to run provinces, and teachers to train the next generation. Importing Maliki jurists gave Musa a ready-made professional class and advertised Mali as a serious Islamic state to North African partners.",
-  "id": "wh-fivesteps-u1-041",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Musa sought legal and religious expertise, not conversion to Christianity.",
-   "B": "Correct. Trained jurists and scholars provided the administrative and legal backbone for a growing Islamic empire.",
-   "C": "Wrong. The scholars were brought to build ships for no recorded purpose; Musa wanted legal expertise.",
-   "D": "Wrong. Musa sought Arabic and Islamic learning, not European languages."
+  {
+    "difficulty": "hard",
+    "explanation": "A growing empire needed judges to settle disputes under Islamic law, administrators to run provinces, and teachers to train the next generation. Importing Maliki jurists gave Musa a ready-made professional class and advertised Mali as a serious Islamic state to North African partners.",
+    "id": "wh-fivesteps-u1-041",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Musa sought legal and religious expertise, not conversion to Christianity.",
+      "B": "Wrong. The scholars were brought to build ships for no recorded purpose; Musa wanted legal expertise.",
+      "C": "Wrong. Musa sought Arabic and Islamic learning, not European languages.",
+      "D": "Correct. Trained jurists and scholars provided the administrative and legal backbone for a growing Islamic empire."
+    },
+    "options": [
+      "(A) To convert Mali to Christianity and build great cathedrals in Timbuktu and Gao",
+      "(B) To build an ocean-going navy",
+      "(C) To learn European languages",
+      "(D) To staff the empire's courts and administration with trained legal officials"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-041",
+    "source_stimulus_words": 209,
+    "stem": "Mansa Musa returned from the hajj with Maliki jurists and Quranic scholars. Why did an emperor want foreign legal scholars?",
+    "stimulus": "Paraphrase of an encyclopedia account of Mansa Musa (r. 1307-1337): He extended Mali's borders in every direction, adding the trading centers of Walata, Timbuktu, and Gao, and reaching the Atlantic. Mali came to control the north-south and east-west trade routes and their great centers of learning. Musa consolidated the administration, encouraged trade, and protected the routes. In 1324 he performed the hajj with an entourage of some 12,000. The Malians carried so much gold and spent it so lavishly that gold prices fell in North Africa and Egypt. Returning, Musa brought books from Cairo and Kairouan and was accompanied home by Maliki jurists, administrators, and Quranic scholars. He endowed centers of learning, built mosques, patronized scholarship, encouraged education, and bound Mali closer to the Muslim powers of North Africa. History remembers him as pious, learned, generous, and farsighted.",
+    "stimulus_words": 138,
+    "themes": [
+      "GOV",
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) To convert Mali to Christianity",
-   "(B) To staff the empire's courts and administration with trained Islamic legal officials",
-   "(C) To build an ocean-going navy",
-   "(D) To learn European languages"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-041",
-  "source_stimulus_words": 209,
-  "stem": "Mansa Musa returned from the hajj with Maliki jurists and Quranic scholars. Why did an emperor want foreign legal scholars?",
-  "stimulus": "Paraphrase of an encyclopedia account of Mansa Musa (r. 1307-1337): He extended Mali's borders in every direction, adding the trading centers of Walata, Timbuktu, and Gao, and reaching the Atlantic. Mali came to control the north-south and east-west trade routes and their great centers of learning. Musa consolidated the administration, encouraged trade, and protected the routes. In 1324 he performed the hajj with an entourage of some 12,000. The Malians carried so much gold and spent it so lavishly that gold prices fell in North Africa and Egypt. Returning, Musa brought books from Cairo and Kairouan and was accompanied home by Maliki jurists, administrators, and Quranic scholars. He endowed centers of learning, built mosques, patronized scholarship, encouraged education, and bound Mali closer to the Muslim powers of North Africa. History remembers him as pious, learned, generous, and farsighted.",
-  "stimulus_words": 138,
-  "themes": [
-   "GOV",
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Caravans carried more than commodities: merchants carried their faith, scholars carried books, and pilgrims carried ideas home. The same Saharan routes that moved gold north and salt south moved Islam south, showing that commerce and culture travel together.",
-  "id": "wh-fivesteps-u1-042",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Trade demonstrably carried ideas, faiths, and technologies as well as goods.",
-   "B": "Correct. The gold-salt routes also carried Islam, scholars, and books, proving commerce moves culture too.",
-   "C": "Wrong. Islam reached West Africa overland via the Saharan routes, not only by sea.",
-   "D": "Wrong. The routes were public commercial highways, not secret paths."
+  {
+    "difficulty": "hard",
+    "explanation": "Caravans carried more than commodities: merchants carried their faith, scholars carried books, and pilgrims carried ideas home. The same Saharan routes that moved gold north and salt south moved Islam south, showing that commerce and culture travel together.",
+    "id": "wh-fivesteps-u1-042",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Trade demonstrably carried ideas, faiths, and technologies as well as goods.",
+      "B": "Wrong. Islam reached West Africa overland via the Saharan routes, not only by sea.",
+      "C": "Wrong. The routes were public commercial highways, not secret paths.",
+      "D": "Correct. The gold-salt routes also carried Islam, scholars, and books, proving commerce moves culture too."
+    },
+    "options": [
+      "(A) Trade routes carry only physical goods, never ideas, beliefs, or technologies",
+      "(B) Islam reached West Africa only by sea",
+      "(C) The trans-Saharan routes were secret paths",
+      "(D) Commercial routes also transmit religions, ideas, and scholarship"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-008",
+    "source_stimulus_words": 209,
+    "stem": "The same Saharan routes that carried gold and salt also carried Islam, books, and scholars into West Africa. What does this show about trade networks?",
+    "stimulus": "Paraphrase of an encyclopedia account of Mansa Musa (r. 1307-1337): He extended Mali's borders in every direction, adding the trading centers of Walata, Timbuktu, and Gao, and reaching the Atlantic. Mali came to control the north-south and east-west trade routes and their great centers of learning. Musa consolidated the administration, encouraged trade, and protected the routes. In 1324 he performed the hajj with an entourage of some 12,000. The Malians carried so much gold and spent it so lavishly that gold prices fell in North Africa and Egypt. Returning, Musa brought books from Cairo and Kairouan and was accompanied home by Maliki jurists, administrators, and Quranic scholars. He endowed centers of learning, built mosques, patronized scholarship, encouraged education, and bound Mali closer to the Muslim powers of North Africa. History remembers him as pious, learned, generous, and farsighted.",
+    "stimulus_words": 138,
+    "themes": [
+      "TEC",
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Trade routes carry only physical goods",
-   "(B) Commercial routes also transmit religions, ideas, and scholarship",
-   "(C) Islam reached West Africa only by sea",
-   "(D) The trans-Saharan routes were secret paths"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-008",
-  "source_stimulus_words": 209,
-  "stem": "The same Saharan routes that carried gold and salt also carried Islam, books, and scholars into West Africa. What does this show about trade networks?",
-  "stimulus": "Paraphrase of an encyclopedia account of Mansa Musa (r. 1307-1337): He extended Mali's borders in every direction, adding the trading centers of Walata, Timbuktu, and Gao, and reaching the Atlantic. Mali came to control the north-south and east-west trade routes and their great centers of learning. Musa consolidated the administration, encouraged trade, and protected the routes. In 1324 he performed the hajj with an entourage of some 12,000. The Malians carried so much gold and spent it so lavishly that gold prices fell in North Africa and Egypt. Returning, Musa brought books from Cairo and Kairouan and was accompanied home by Maliki jurists, administrators, and Quranic scholars. He endowed centers of learning, built mosques, patronized scholarship, encouraged education, and bound Mali closer to the Muslim powers of North Africa. History remembers him as pious, learned, generous, and farsighted.",
-  "stimulus_words": 138,
-  "themes": [
-   "TEC",
-   "CDI",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Gunga Din is praised not as an equal but as the ideal native servant: brave, loyal, self-sacrificing in British service. The poem's affection is real, but it is the affection of a master for a faithful subordinate, the paternalistic core of the imperial imagination.",
-  "id": "wh-fivesteps-u6-021",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The poem celebrates imperial service; it never questions British rule in India.",
-   "B": "Correct. Gunga Din is idealized as the loyal native servant, reflecting paternalistic imperial attitudes.",
-   "C": "Wrong. India is the poem's entire subject; it is not ignored.",
-   "D": "Wrong. The narrator is a British soldier praising the army's native servant; he does not attack the army."
+  {
+    "difficulty": "hard",
+    "explanation": "Gunga Din is praised not as an equal but as the ideal native servant: brave, loyal, self-sacrificing in British service. The poem's affection is real, but it is the affection of a master for a faithful subordinate, the paternalistic core of the imperial imagination.",
+    "id": "wh-fivesteps-u6-021",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The poem celebrates imperial service; it never questions British rule in India.",
+      "B": "Wrong. India is the poem's entire subject; it is not ignored.",
+      "C": "Correct. Gunga Din is idealized as the loyal native servant, reflecting paternalistic imperial attitudes.",
+      "D": "Wrong. The narrator is a British soldier praising the army's native servant; he does not attack the army."
+    },
+    "options": [
+      "(A) It calls for Indian independence and the immediate end of British imperial rule",
+      "(B) It ignores India entirely",
+      "(C) It portrays Indians as loyal servants valued for their service to the British",
+      "(D) It attacks the British army as cruel, incompetent, and unworthy of the Indians' respect"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-021",
+    "source_stimulus_words": 270,
+    "stem": "Kipling wrote 'Gunga Din' while defending the British Empire in India. How does the poem reflect imperial attitudes?",
+    "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
+    "stimulus_words": 110,
+    "themes": [
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) It calls for Indian independence",
-   "(B) It portrays Indians as loyal servants whose virtue is measured by service to the British",
-   "(C) It ignores India entirely",
-   "(D) It attacks the British army"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-021",
-  "source_stimulus_words": 270,
-  "stem": "Kipling wrote 'Gunga Din' while defending the British Empire in India. How does the poem reflect imperial attitudes?",
-  "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
-  "stimulus_words": 110,
-  "themes": [
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "The 'better man' is the mocked water carrier who, without hesitation, risks and gives his life for the soldier who abused him. Kipling suggests that true nobility, courage and selflessness, can live in the despised native, quietly rebuking the racial arrogance of the empire he served.",
-  "id": "wh-fivesteps-u6-022",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The poem contrasts moral stature, not physical fitness.",
-   "B": "Correct. Gunga Din's selfless courage under fire makes him morally greater than his abuser.",
-   "C": "Wrong. Din is a water carrier, not a strategist; the point is moral, not tactical.",
-   "D": "Wrong. Religion is not the poem's subject; self-sacrifice is."
+  {
+    "difficulty": "hard",
+    "explanation": "The 'better man' is the mocked water carrier who, without hesitation, risks and gives his life for the soldier who abused him. Kipling suggests that true nobility, courage and selflessness, can live in the despised native, quietly rebuking the racial arrogance of the empire he served.",
+    "id": "wh-fivesteps-u6-022",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Gunga Din's selfless courage under fire makes him morally greater than his abuser.",
+      "B": "Wrong. The poem contrasts moral stature, not physical fitness.",
+      "C": "Wrong. Din is a water carrier, not a strategist; the point is moral, not tactical.",
+      "D": "Wrong. Religion is not the poem's subject; self-sacrifice is."
+    },
+    "options": [
+      "(A) Gunga Din's selfless courage makes him morally greater than the narrator",
+      "(B) Gunga Din is physically stronger",
+      "(C) Gunga Din is a better military strategist",
+      "(D) Gunga Din is more religious, and his piety guarantees him a higher place in heaven"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-022",
+    "source_stimulus_words": 270,
+    "stem": "The narrator, who once beat Gunga Din, ends by calling him 'a better man than I am.' What is the poem's point?",
+    "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
+    "stimulus_words": 110,
+    "themes": [
+      "CDI",
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Gunga Din is physically stronger",
-   "(B) Gunga Din's selfless courage makes him morally greater than the narrator",
-   "(C) Gunga Din is a better military strategist",
-   "(D) Gunga Din is more religious"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-022",
-  "source_stimulus_words": 270,
-  "stem": "The narrator, who once beat Gunga Din, ends by calling him 'a better man than I am.' What is the poem's point?",
-  "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
-  "stimulus_words": 110,
-  "themes": [
-   "CDI",
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Kipling believed in the empire's civilizing mission and also believed he saw, in men like Din, genuine nobility among the colonized. The two poems together expose imperialism's central tension: a doctrine of racial superiority strained by encounters with individual human worth.",
-  "id": "wh-fivesteps-u6-023",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Kipling was the empire's most famous literary defender; he did not oppose it.",
-   "B": "Correct. Kipling combined belief in empire's mission with respect for colonized individuals, revealing imperialism's internal contradictions.",
-   "C": "Wrong. Both poems are Kipling's; the tension is within a single imperial mind.",
-   "D": "Wrong. Fiction can reveal an author's real attitudes; the contradiction is meaningful, not dismissible."
+  {
+    "difficulty": "hard",
+    "explanation": "Kipling believed in the empire's civilizing mission and also believed he saw, in men like Din, genuine nobility among the colonized. The two poems together expose imperialism's central tension: a doctrine of racial superiority strained by encounters with individual human worth.",
+    "id": "wh-fivesteps-u6-023",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Kipling combined belief in empire's mission with respect for colonized individuals, revealing imperialism's internal contradictions.",
+      "B": "Wrong. Kipling was the empire's most famous literary defender; he did not oppose it.",
+      "C": "Wrong. Both poems are Kipling's; the tension is within a single imperial mind.",
+      "D": "Wrong. Fiction can reveal an author's real attitudes; the contradiction is meaningful, not dismissible."
+    },
+    "options": [
+      "(A) Kipling held both beliefs, revealing imperialism's internal tensions",
+      "(B) Kipling opposed the British Empire",
+      "(C) The two poems were written by different authors holding opposing views on empire",
+      "(D) Fiction reveals nothing about real attitudes"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-023",
+    "source_stimulus_words": 270,
+    "stem": "Kipling also wrote 'The White Man's Burden' urging imperialism. How can 'Gunga Din' seem to criticize imperial arrogance?",
+    "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
+    "stimulus_words": 110,
+    "themes": [
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Kipling opposed the British Empire",
-   "(B) Kipling held both beliefs, revealing imperialism's internal tensions",
-   "(C) The poems were written by different authors",
-   "(D) Fiction reveals nothing about real attitudes"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-023",
-  "source_stimulus_words": 270,
-  "stem": "Kipling also wrote 'The White Man's Burden' urging imperialism. How can 'Gunga Din' seem to criticize imperial arrogance?",
-  "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
-  "stimulus_words": 110,
-  "themes": [
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Social Darwinists argued that nations and races, like species, struggled for existence, and that the strong naturally subjugated the weak. Imperial conquest was thus not theft but biology: superior peoples fulfilling natural law. Darwin himself never endorsed this leap.",
-  "id": "wh-fivesteps-u6-024",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Social Darwinism was imperialism's favorite justification, not its enemy.",
-   "B": "Correct. It recast conquest as natural law: stronger races inevitably dominate weaker ones.",
-   "C": "Wrong. Social Darwinism applied evolutionary language to human societies, not just plants.",
-   "D": "Wrong. Darwin did not endorse applying natural selection to justify empire."
+  {
+    "difficulty": "hard",
+    "explanation": "Social Darwinists argued that nations and races, like species, struggled for existence, and that the strong naturally subjugated the weak. Imperial conquest was thus not theft but biology: superior peoples fulfilling natural law. Darwin himself never endorsed this leap.",
+    "id": "wh-fivesteps-u6-024",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Social Darwinism was imperialism's favorite justification, not its enemy.",
+      "B": "Wrong. Social Darwinism applied evolutionary language to human societies, not just plants.",
+      "C": "Wrong. Darwin did not endorse applying natural selection to justify empire.",
+      "D": "Correct. It recast conquest as natural law: stronger races inevitably dominate weaker ones."
+    },
+    "options": [
+      "(A) It opposed all imperialism",
+      "(B) It applied only to plants and animals",
+      "(C) Darwin personally endorsed imperial conquest as the proper application of natural selection",
+      "(D) It claimed stronger races naturally dominate weaker ones, making conquest natural"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-024",
+    "source_stimulus_words": 270,
+    "stem": "Social Darwinists applied 'survival of the fittest' to nations and races. How did this justify imperialism?",
+    "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
+    "stimulus_words": 110,
+    "themes": [
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) It opposed all imperialism",
-   "(B) It claimed stronger races naturally dominate weaker ones, making conquest natural law",
-   "(C) It applied only to plants and animals",
-   "(D) Darwin personally endorsed imperial conquest"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-024",
-  "source_stimulus_words": 270,
-  "stem": "Social Darwinists applied 'survival of the fittest' to nations and races. How did this justify imperialism?",
-  "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
-  "stimulus_words": 110,
-  "themes": [
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "The cartoon draws on the imperialist imagination: America as the benevolent tutor, lifting grateful natives from poverty and tyranny into trade and prosperity. It is propaganda for empire, presenting conquest as charity.",
-  "id": "wh-fivesteps-u6-025",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The cartoon celebrates American expansion; it does not condemn it.",
-   "B": "Correct. The image presents American rule as benevolent uplift, the classic imperialist self-portrait.",
-   "C": "Wrong. The cartoon speaks from the American imperial perspective, not the Filipino one.",
-   "D": "Wrong. Spain had just been expelled; the cartoon celebrates its American successor."
+  {
+    "difficulty": "hard",
+    "explanation": "The cartoon draws on the imperialist imagination: America as the benevolent tutor, lifting grateful natives from poverty and tyranny into trade and prosperity. It is propaganda for empire, presenting conquest as charity.",
+    "id": "wh-fivesteps-u6-025",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The cartoon celebrates American expansion; it does not condemn it.",
+      "B": "Correct. The image presents American rule as benevolent uplift, the classic imperialist self-portrait.",
+      "C": "Wrong. The cartoon speaks from the American imperial perspective, not the Filipino one.",
+      "D": "Wrong. Spain had just been expelled; the cartoon celebrates its American successor."
+    },
+    "options": [
+      "(A) An anti-imperialist condemnation",
+      "(B) The imperialist view of American rule as benevolent uplift",
+      "(C) The Filipino nationalist perspective, celebrating independence from Spain",
+      "(D) The Spanish colonial perspective"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-025",
+    "source_stimulus_words": 0,
+    "stem": "An American cartoon of the 1900s shows the United States lifting up grateful Cubans and Filipinos toward prosperity. What perspective does this reflect?",
+    "stimulus": "The cartoon shows a towering figure of the United States lifting small, grateful figures representing Cuba and the Philippines toward symbols of prosperity and civilization.",
+    "stimulus_words": 25,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) An anti-imperialist condemnation",
-   "(B) The imperialist view of American rule as benevolent uplift",
-   "(C) The Filipino nationalist perspective",
-   "(D) The Spanish colonial perspective"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-025",
-  "source_stimulus_words": 0,
-  "stem": "An American cartoon of the 1900s shows the United States lifting up grateful Cubans and Filipinos toward prosperity. What perspective does this reflect?",
-  "stimulus": "The cartoon shows a towering figure of the United States lifting small, grateful figures representing Cuba and the Philippines toward symbols of prosperity and civilization.",
-  "stimulus_words": 25,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "medium",
-  "explanation": "Anti-imperialists like William Jennings Bryan argued that a republic founded on consent of the governed could not hold the Philippines by force without betraying its own principles. Empire abroad, they warned, would corrupt democracy at home.",
-  "id": "wh-fivesteps-u6-026",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Philippines' wealth was an imperialist argument for keeping them, not against.",
-   "B": "Correct. Anti-imperialists held that ruling Filipinos without consent violated American republican principles.",
-   "C": "Wrong. Spain had ceded the islands and wanted no part in their return.",
-   "D": "Wrong. The Senate ratified the treaty in 1899 after fierce debate."
+  {
+    "difficulty": "medium",
+    "explanation": "Anti-imperialists like William Jennings Bryan argued that a republic founded on consent of the governed could not hold the Philippines by force without betraying its own principles. Empire abroad, they warned, would corrupt democracy at home.",
+    "id": "wh-fivesteps-u6-026",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The Philippines' wealth was an imperialist argument for keeping them, not against.",
+      "B": "Correct. Anti-imperialists held that ruling Filipinos without consent violated American republican principles.",
+      "C": "Wrong. Spain had ceded the islands and wanted no part in their return.",
+      "D": "Wrong. The Senate ratified the treaty in 1899 after fierce debate."
+    },
+    "options": [
+      "(A) The Philippines were too wealthy to govern and would bankrupt the American treasury",
+      "(B) Ruling a foreign people without consent betrayed republican principles",
+      "(C) Spain demanded the islands back",
+      "(D) The treaty was never ratified"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-026",
+    "source_stimulus_words": 0,
+    "stem": "The Treaty of Paris (1898) gave the United States the Philippines, sparking fierce Senate debate. What was the anti-imperialists' main argument?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) The Philippines were too wealthy to govern",
-   "(B) Ruling a foreign people without consent betrayed American republican principles",
-   "(C) Spain demanded the islands back",
-   "(D) The treaty was never ratified"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-026",
-  "source_stimulus_words": 0,
-  "stem": "The Treaty of Paris (1898) gave the United States the Philippines, sparking fierce Senate debate. What was the anti-imperialists' main argument?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "medium",
-  "explanation": "Where Roosevelt sent the Marines, Taft sent the bankers: American loans to Honduras, Nicaragua, and others came with US control of customs houses and finances, achieving dominance through debt rather than occupation. It was empire by ledger book.",
-  "id": "wh-fivesteps-u6-027",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Dollar diplomacy was not charity; the loans bought American control.",
-   "B": "Correct. Taft substituted bank loans and financial supervision for Roosevelt's military interventions.",
-   "C": "Wrong. Dollar diplomacy aimed to avoid troop deployments, not to order them.",
-   "D": "Wrong. Taft actively expanded American economic influence; he did not ignore the region."
+  {
+    "difficulty": "medium",
+    "explanation": "Where Roosevelt sent the Marines, Taft sent the bankers: American loans to Honduras, Nicaragua, and others came with US control of customs houses and finances, achieving dominance through debt rather than occupation. It was empire by ledger book.",
+    "id": "wh-fivesteps-u6-027",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Dollar diplomacy was not charity; the loans bought American control.",
+      "B": "Wrong. Dollar diplomacy aimed to avoid troop deployments, not to order them.",
+      "C": "Correct. Taft substituted bank loans and financial supervision for Roosevelt's military interventions.",
+      "D": "Wrong. Taft actively expanded American economic influence; he did not ignore the region."
+    },
+    "options": [
+      "(A) Giving away money as charity",
+      "(B) Invading more Latin American countries than Roosevelt and occupying them permanently",
+      "(C) Using bank loans and financial control instead of military intervention",
+      "(D) Ignoring Latin America entirely"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-027",
+    "source_stimulus_words": 0,
+    "stem": "Taft preferred 'dollar diplomacy' to Roosevelt's big stick in Latin America. What did this mean in practice?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Giving away money as charity",
-   "(B) Using bank loans and financial control instead of military intervention",
-   "(C) Invading more countries than Roosevelt",
-   "(D) Ignoring Latin America entirely"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-027",
-  "source_stimulus_words": 0,
-  "stem": "Taft preferred 'dollar diplomacy' to Roosevelt's big stick in Latin America. What did this mean in practice?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Castiglione parades learned women, poetesses, and queens who governed wisely to demolish the claim that women are naturally inferior. If Plato trusted women with the city and history shows women ruling and philosophizing, the court lady's education is simple justice.",
-  "id": "wh-fivesteps-u4-045",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage argues for women's education, not their confinement.",
-   "B": "Correct. His catalogue of accomplished women proves women capable of the same achievements as men.",
-   "C": "Wrong. Queens appear as examples among many; the argument covers all women.",
-   "D": "Wrong. The entire passage defends women's capacity for learning."
+  {
+    "difficulty": "hard",
+    "explanation": "Castiglione parades learned women, poetesses, and queens who governed wisely to demolish the claim that women are naturally inferior. If Plato trusted women with the city and history shows women ruling and philosophizing, the court lady's education is simple justice.",
+    "id": "wh-fivesteps-u4-045",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The passage argues for women's education, not their confinement.",
+      "B": "Wrong. Queens appear as examples among many; the argument covers all women.",
+      "C": "Wrong. The entire passage defends women's capacity for learning.",
+      "D": "Correct. His catalogue of accomplished women proves women capable of the same achievements as men."
+    },
+    "options": [
+      "(A) Women should stay home and avoid learning, leaving all scholarship and governance to men",
+      "(B) Only queens deserve education",
+      "(C) Women cannot learn philosophy",
+      "(D) Women are capable of the same intellectual and political achievements as men"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-042",
+    "source_stimulus_words": 244,
+    "stem": "Castiglione lists women philosophers, poets, and rulers who governed with prudence and justice. What is he arguing?",
+    "stimulus": "Paraphrase of Baldassare Castiglione's The Courtier (1528): The ideal court lady should be learned in letters, music, and painting, graceful in dance and conversation, witty and pleasant, and adorned with virtue, continence, and prudence. Castiglione notes that even Plato, no great friend to women, entrusted them with guarding the city. He distinguishes the court lady from a queen only in that he does not lay martial duties upon her. History, he adds, records women who waged wars and won victories, governed kingdoms with prudence and justice, excelled in philosophy and poetry, and pleaded cases eloquently before judges.",
+    "stimulus_words": 97,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Women should stay home and avoid learning",
-   "(B) Women are capable of the same intellectual and political achievements as men",
-   "(C) Only queens deserve education",
-   "(D) Women cannot learn philosophy"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-042",
-  "source_stimulus_words": 244,
-  "stem": "Castiglione lists women philosophers, poets, and rulers who governed with prudence and justice. What is he arguing?",
-  "stimulus": "Paraphrase of Baldassare Castiglione's The Courtier (1528): The ideal court lady should be learned in letters, music, and painting, graceful in dance and conversation, witty and pleasant, and adorned with virtue, continence, and prudence. Castiglione notes that even Plato, no great friend to women, entrusted them with guarding the city. He distinguishes the court lady from a queen only in that he does not lay martial duties upon her. History, he adds, records women who waged wars and won victories, governed kingdoms with prudence and justice, excelled in philosophy and poetry, and pleaded cases eloquently before judges.",
-  "stimulus_words": 97,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Humanists believed the classical past held models for perfecting the present. By citing Plato's trust in women, Castiglione borrows antiquity's authority to sanction a radical claim: that women share fully in human potential for learning and rule.",
-  "id": "wh-fivesteps-u4-046",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Plato citation is central to his argument; he embraces the classics.",
-   "B": "Correct. Invoking Plato shows the humanist method: using classical authority to support new claims about human capacity.",
-   "C": "Wrong. Castiglione cites Plato approvingly, not as an opponent.",
-   "D": "Wrong. The passage is saturated with classical references; humanists lived by them."
+  {
+    "difficulty": "hard",
+    "explanation": "Humanists believed the classical past held models for perfecting the present. By citing Plato's trust in women, Castiglione borrows antiquity's authority to sanction a radical claim: that women share fully in human potential for learning and rule.",
+    "id": "wh-fivesteps-u4-046",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The Plato citation is central to his argument; he embraces the classics.",
+      "B": "Wrong. Castiglione cites Plato approvingly, not as an opponent.",
+      "C": "Correct. Invoking Plato shows the humanist method: using classical authority to support new claims about human capacity.",
+      "D": "Wrong. The passage is saturated with classical references; humanists lived by them."
+    },
+    "options": [
+      "(A) He rejected classical antiquity as pagan error, irrelevant to any modern question",
+      "(B) Plato opposed educating women",
+      "(C) He used classical authority to support new ideas about human potential",
+      "(D) Humanists ignored the classics"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-043",
+    "source_stimulus_words": 244,
+    "stem": "Castiglione invokes Plato to defend women's capacities. How does this show Renaissance humanism at work?",
+    "stimulus": "Paraphrase of Baldassare Castiglione's The Courtier (1528): The ideal court lady should be learned in letters, music, and painting, graceful in dance and conversation, witty and pleasant, and adorned with virtue, continence, and prudence. Castiglione notes that even Plato, no great friend to women, entrusted them with guarding the city. He distinguishes the court lady from a queen only in that he does not lay martial duties upon her. History, he adds, records women who waged wars and won victories, governed kingdoms with prudence and justice, excelled in philosophy and poetry, and pleaded cases eloquently before judges.",
+    "stimulus_words": 97,
+    "themes": [
+      "CDI",
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) He rejected classical antiquity",
-   "(B) He used classical authority to support new ideas about human potential",
-   "(C) Plato opposed educating women",
-   "(D) Humanists ignored the classics"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-043",
-  "source_stimulus_words": 244,
-  "stem": "Castiglione invokes Plato to defend women's capacities. How does this show Renaissance humanism at work?",
-  "stimulus": "Paraphrase of Baldassare Castiglione's The Courtier (1528): The ideal court lady should be learned in letters, music, and painting, graceful in dance and conversation, witty and pleasant, and adorned with virtue, continence, and prudence. Castiglione notes that even Plato, no great friend to women, entrusted them with guarding the city. He distinguishes the court lady from a queen only in that he does not lay martial duties upon her. History, he adds, records women who waged wars and won victories, governed kingdoms with prudence and justice, excelled in philosophy and poetry, and pleaded cases eloquently before judges.",
-  "stimulus_words": 97,
-  "themes": [
-   "CDI",
-   "GOV",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Pastoral nomadism made women's work indispensable: with men away herding or at war, women ran the mobile household, managed herds, and controlled property. Economic necessity gave Mongol women a public authority that sedentary patriarchies denied.",
-  "id": "wh-fivesteps-u4-047",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Mongol society was patriarchal; women's standing came from economic necessity, not feminist ideology.",
-   "B": "Correct. In mobile pastoral life, women's essential labor and management of the camp gave them real authority.",
-   "C": "Wrong. Mongol women did far more than fight; they ran the household economy.",
-   "D": "Wrong. Islam had not yet reached the Mongols in the period described."
+  {
+    "difficulty": "hard",
+    "explanation": "Pastoral nomadism made women's work indispensable: with men away herding or at war, women ran the mobile household, managed herds, and controlled property. Economic necessity gave Mongol women a public authority that sedentary patriarchies denied.",
+    "id": "wh-fivesteps-u4-047",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. In mobile pastoral life, women's essential labor and management of the camp gave them real authority.",
+      "B": "Wrong. Mongol society was patriarchal; women's standing came from economic necessity, not feminist ideology.",
+      "C": "Wrong. Mongol women did far more than fight; they ran the household economy.",
+      "D": "Wrong. Islam had not yet reached the Mongols in the period described."
+    },
+    "options": [
+      "(A) Women's essential economic role in mobile pastoral life gave them authority",
+      "(B) The Mongols were ideological feminists committed to complete gender equality in every sphere",
+      "(C) Women served only as warriors",
+      "(D) Islamic law required female equality"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u4-044",
+    "source_stimulus_words": 244,
+    "stem": "Mongol women could own property, initiate divorce, and manage camps. What about nomadic pastoral life explains this relative freedom?",
+    "stimulus": "Paraphrase of Baldassare Castiglione's The Courtier (1528): The ideal court lady should be learned in letters, music, and painting, graceful in dance and conversation, witty and pleasant, and adorned with virtue, continence, and prudence. Castiglione notes that even Plato, no great friend to women, entrusted them with guarding the city. He distinguishes the court lady from a queen only in that he does not lay martial duties upon her. History, he adds, records women who waged wars and won victories, governed kingdoms with prudence and justice, excelled in philosophy and poetry, and pleaded cases eloquently before judges.",
+    "stimulus_words": 97,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The Mongols were ideological feminists",
-   "(B) Women's essential economic role in mobile pastoral life gave them authority",
-   "(C) Women served only as warriors",
-   "(D) Islamic law required female equality"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u4-044",
-  "source_stimulus_words": 244,
-  "stem": "Mongol women could own property, initiate divorce, and manage camps. What about nomadic pastoral life explains this relative freedom?",
-  "stimulus": "Paraphrase of Baldassare Castiglione's The Courtier (1528): The ideal court lady should be learned in letters, music, and painting, graceful in dance and conversation, witty and pleasant, and adorned with virtue, continence, and prudence. Castiglione notes that even Plato, no great friend to women, entrusted them with guarding the city. He distinguishes the court lady from a queen only in that he does not lay martial duties upon her. History, he adds, records women who waged wars and won victories, governed kingdoms with prudence and justice, excelled in philosophy and poetry, and pleaded cases eloquently before judges.",
-  "stimulus_words": 97,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "A McDonald's in Shenzhen, identical in menu and golden arches to one in Ohio, shows consumer culture standardized across civilizations. The same brands, the same tastes, the same built environment: globalization made visible in a single restaurant.",
-  "id": "wh-fivesteps-u9-015",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The restaurant's presence proves Western consumer culture was welcomed, not rejected.",
-   "B": "Correct. An identical American fast-food restaurant in a Chinese city illustrates the worldwide diffusion of uniform consumer culture.",
-   "C": "Wrong. McDonald's is a private corporation, not a poverty program.",
-   "D": "Wrong. McDonald's is the emblem of market capitalism, not of communism."
+  {
+    "difficulty": "hard",
+    "explanation": "A McDonald's in Shenzhen, identical in menu and golden arches to one in Ohio, shows consumer culture standardized across civilizations. The same brands, the same tastes, the same built environment: globalization made visible in a single restaurant.",
+    "id": "wh-fivesteps-u9-015",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. An identical American fast-food restaurant in a Chinese city illustrates the worldwide diffusion of uniform consumer culture.",
+      "B": "Wrong. The restaurant's presence proves Western consumer culture was welcomed, not rejected.",
+      "C": "Wrong. McDonald's is a private corporation, not a poverty program.",
+      "D": "Wrong. McDonald's is the emblem of market capitalism, not of communism."
+    },
+    "options": [
+      "(A) The global diffusion of standardized American consumer culture",
+      "(B) China's total rejection of Western culture in favor of traditional local cuisine",
+      "(C) American corporate poverty relief",
+      "(D) The triumph of communism"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-016",
+    "source_stimulus_words": 5,
+    "stem": "Sociologists call the spread of identical standardized business models worldwide 'McDonaldization.' What does a McDonald's in Shenzhen, China, illustrate?",
+    "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
+    "stimulus_words": 14,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Chinese rejection of Western culture",
-   "(B) The global diffusion of standardized American consumer culture",
-   "(C) American corporate poverty relief",
-   "(D) The triumph of communism"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-016",
-  "source_stimulus_words": 5,
-  "stem": "Sociologists call the spread of identical standardized business models worldwide 'McDonaldization.' What does a McDonald's in Shenzhen, China, illustrate?",
-  "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
-  "stimulus_words": 14,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "Modern manufacturing strings components across continents: a German car contains Chinese electronics, Mexican wiring, and Korean steel. When one link breaks, the whole chain stalls, so a lockdown in Shenzhen idles factories in Bavaria. Interdependence is the price of efficiency.",
-  "id": "wh-fivesteps-u9-016",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The episode proves the opposite: no major economy is self-sufficient.",
-   "B": "Correct. Global supply chains transmit disruptions worldwide, making national economies mutually dependent.",
-   "C": "Wrong. The ripple ran from China to Germany, proving interdependence runs in all directions.",
-   "D": "Wrong. Trade did not end; its interruption is what caused the damage."
+  {
+    "difficulty": "hard",
+    "explanation": "Modern manufacturing strings components across continents: a German car contains Chinese electronics, Mexican wiring, and Korean steel. When one link breaks, the whole chain stalls, so a lockdown in Shenzhen idles factories in Bavaria. Interdependence is the price of efficiency.",
+    "id": "wh-fivesteps-u9-016",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Global supply chains transmit disruptions worldwide, making national economies mutually dependent.",
+      "B": "Wrong. The episode proves the opposite: no major economy is self-sufficient.",
+      "C": "Wrong. The ripple ran from China to Germany, proving interdependence runs in all directions.",
+      "D": "Wrong. Trade did not end; its interruption is what caused the damage."
+    },
+    "options": [
+      "(A) Global supply chains make national economies interdependent",
+      "(B) Nations are economically self-sufficient and immune to foreign disruptions",
+      "(C) Only China matters in world trade",
+      "(D) International trade has ended"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-017",
+    "source_stimulus_words": 5,
+    "stem": "When pandemic lockdowns closed factories in Shenzhen, car plants in Germany idled for lack of parts. What does this show?",
+    "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
+    "stimulus_words": 14,
+    "themes": [
+      "GOV",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Nations are economically self-sufficient",
-   "(B) Global supply chains make national economies interdependent",
-   "(C) Only China matters in world trade",
-   "(D) International trade has ended"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-017",
-  "source_stimulus_words": 5,
-  "stem": "When pandemic lockdowns closed factories in Shenzhen, car plants in Germany idled for lack of parts. What does this show?",
-  "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
-  "stimulus_words": 14,
-  "themes": [
-   "GOV",
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "Engagement theory predicted that trade and investment would soften authoritarian rule. Instead, China grew rich while the Party crushed the 1989 democracy movement with tanks, proving that economic opening does not automatically produce political opening.",
-  "id": "wh-fivesteps-u9-017",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. China did not become democratic; the Party retained absolute power.",
-   "B": "Correct. Despite deep Western economic ties, Beijing used military force against pro-democracy protesters.",
-   "C": "Wrong. Trade with China expanded enormously after 1989; it did not end.",
-   "D": "Wrong. The protests were crushed; they did not succeed."
+  {
+    "difficulty": "hard",
+    "explanation": "Engagement theory predicted that trade and investment would soften authoritarian rule. Instead, China grew rich while the Party crushed the 1989 democracy movement with tanks, proving that economic opening does not automatically produce political opening.",
+    "id": "wh-fivesteps-u9-017",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Despite deep Western economic ties, Beijing used military force against pro-democracy protesters.",
+      "B": "Wrong. China did not become democratic; the Party retained absolute power.",
+      "C": "Wrong. Trade with China expanded enormously after 1989; it did not end.",
+      "D": "Wrong. The protests were crushed; they did not succeed."
+    },
+    "options": [
+      "(A) Deep economic ties did not stop Beijing crushing the 1989 protests with force",
+      "(B) China became a democracy",
+      "(C) All Western trade with China ended",
+      "(D) The Tiananmen protests succeeded, forcing Beijing to accept sweeping democratic reforms"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-018",
+    "source_stimulus_words": 5,
+    "stem": "'Engagement' theory held that trading with authoritarian states would liberalize them. Which event contradicts this?",
+    "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
+    "stimulus_words": 14,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) China became a democracy",
-   "(B) Deep economic ties did not stop Beijing from crushing the 1989 protests with military force",
-   "(C) All Western trade with China ended",
-   "(D) The Tiananmen protests succeeded"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-018",
-  "source_stimulus_words": 5,
-  "stem": "'Engagement' theory held that trading with authoritarian states would liberalize them. Which event contradicts this?",
-  "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
-  "stimulus_words": 14,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "The devshirme levied Christian boys from the Balkans, converted them to Islam, and educated them for the palace, the bureaucracy, and the Janissaries. The empire's most powerful servants were thus slaves of the sultan, promoted by merit and loyal to him alone.",
-  "id": "wh-fivesteps-u3-009",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Many top officials were devshirme recruits of Christian birth, not Turkish nobles.",
-   "B": "Correct. The devshirme supplied the sultan with merit-trained officials loyal only to him.",
-   "C": "Wrong. Ottoman offices were appointed, not elected.",
-   "D": "Wrong. Ottoman offices were granted by the sultan, not purchased."
+  {
+    "difficulty": "hard",
+    "explanation": "The devshirme levied Christian boys from the Balkans, converted them to Islam, and educated them for the palace, the bureaucracy, and the Janissaries. The empire's most powerful servants were thus slaves of the sultan, promoted by merit and loyal to him alone.",
+    "id": "wh-fivesteps-u3-009",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Many top officials were devshirme recruits of Christian birth, not Turkish nobles.",
+      "B": "Wrong. Ottoman offices were appointed, not elected.",
+      "C": "Correct. The devshirme supplied the sultan with merit-trained officials loyal only to him.",
+      "D": "Wrong. Ottoman offices were granted by the sultan, not purchased."
+    },
+    "options": [
+      "(A) They were all Turkish nobles",
+      "(B) They were elected by popular vote of the empire's subjects in open, competitive contests",
+      "(C) Many were devshirme recruits: Christian boys trained for imperial service",
+      "(D) They purchased their offices"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u3-009",
+    "source_stimulus_words": 370,
+    "stem": "The passage praises Ottoman promotion by merit. Where did many of these merit-promoted officials come from?",
+    "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
+    "stimulus_words": 190,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) They were all Turkish nobles",
-   "(B) Many were devshirme recruits: Christian boys trained for imperial service",
-   "(C) They were elected by popular vote",
-   "(D) They purchased their offices"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u3-009",
-  "source_stimulus_words": 370,
-  "stem": "The passage praises Ottoman promotion by merit. Where did many of these merit-promoted officials come from?",
-  "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
-  "stimulus_words": 190,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "The examinations were genuinely open to talent, but preparing for them demanded a decade of leisured study that only wealthy families could fund. Meritocracy's door stood open, yet the wealthy held the keys, a pattern visible in many societies' claims of equal opportunity.",
-  "id": "wh-fivesteps-u3-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The exams were rigorously competitive; the bias lay in who could afford to prepare.",
-   "B": "Correct. Formal meritocracy coexisted with class advantage, since only the wealthy could fund years of study.",
-   "C": "Wrong. Huge numbers competed; the exams were not limited to a few nobles.",
-   "D": "Wrong. Merit mattered greatly; the point is that wealth shaped who could compete for it."
+  {
+    "difficulty": "hard",
+    "explanation": "The examinations were genuinely open to talent, but preparing for them demanded a decade of leisured study that only wealthy families could fund. Meritocracy's door stood open, yet the wealthy held the keys, a pattern visible in many societies' claims of equal opportunity.",
+    "id": "wh-fivesteps-u3-010",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The exams were rigorously competitive; the bias lay in who could afford to prepare.",
+      "B": "Wrong. Huge numbers competed; the exams were not limited to a few nobles.",
+      "C": "Correct. Formal meritocracy coexisted with class advantage, since only the wealthy could fund years of study.",
+      "D": "Wrong. Merit mattered greatly; the point is that wealth shaped who could compete for it."
+    },
+    "options": [
+      "(A) The exams were random lotteries",
+      "(B) Only nobles were allowed to sit the exams, with commoners barred by imperial law",
+      "(C) Formal meritocracy coexisted with deep class advantage in preparation",
+      "(D) Merit played no role at all"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-010",
+    "source_stimulus_words": 370,
+    "stem": "China's civil service examinations were merit-based in theory, yet most passers came from wealthy families. What does this show?",
+    "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
+    "stimulus_words": 190,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) The exams were random lotteries",
-   "(B) Formal meritocracy coexisted with deep class advantage in preparation",
-   "(C) Only nobles were allowed to sit the exams",
-   "(D) Merit played no role at all"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-010",
-  "source_stimulus_words": 370,
-  "stem": "China's civil service examinations were merit-based in theory, yet most passers came from wealthy families. What does this show?",
-  "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
-  "stimulus_words": 190,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "Ottoman armies marched for months across the Balkans, Hungary, and Persia, far from supply bases. An army that could live on weighed rations and endure scorched earth could stay in the field after its enemies had starved, and logistics, as the diplomat saw, was a weapon.",
-  "id": "wh-fivesteps-u3-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Ottomans campaigned across three continents; logistics was central to their success.",
-   "B": "Correct. Disciplined supply let Ottoman armies campaign for months where less frugal enemies starved.",
-   "C": "Wrong. The passage stresses their frugality and self-denial, the opposite of lavish eating.",
-   "D": "Wrong. The diplomat presents logistics as a key Ottoman advantage."
+  {
+    "difficulty": "hard",
+    "explanation": "Ottoman armies marched for months across the Balkans, Hungary, and Persia, far from supply bases. An army that could live on weighed rations and endure scorched earth could stay in the field after its enemies had starved, and logistics, as the diplomat saw, was a weapon.",
+    "id": "wh-fivesteps-u3-011",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Disciplined supply let Ottoman armies campaign for months where less frugal enemies starved.",
+      "B": "Wrong. The Ottomans campaigned across three continents; logistics was central to their success.",
+      "C": "Wrong. The passage stresses their frugality and self-denial, the opposite of lavish eating.",
+      "D": "Wrong. The diplomat presents logistics as a key Ottoman advantage."
+    },
+    "options": [
+      "(A) Disciplined supply let Ottoman armies outlast their enemies in the field",
+      "(B) The Ottomans never campaigned far from home, living off farms near the capital",
+      "(C) Ottoman soldiers ate lavishly on campaign",
+      "(D) Logistics played no role in Ottoman success"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-011",
+    "source_stimulus_words": 370,
+    "stem": "The passage marvels at Ottoman soldiers living on bare weighed rations during long campaigns. Why did such logistics matter?",
+    "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
+    "stimulus_words": 190,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) The Ottomans never campaigned far from home",
-   "(B) Disciplined supply let Ottoman armies outlast their enemies in the field",
-   "(C) Ottoman soldiers ate lavishly on campaign",
-   "(D) Logistics played no role in Ottoman success"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-011",
-  "source_stimulus_words": 370,
-  "stem": "The passage marvels at Ottoman soldiers living on bare weighed rations during long campaigns. Why did such logistics matter?",
-  "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
-  "stimulus_words": 190,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Janissaries began as the sultan's loyal slave-soldiers, but by the 1600s they had become a hereditary military caste, marrying, enrolling their sons, and extorting donatives from each new sultan. The empire's sharpest sword became its most entrenched interest group, blocking the very reforms that might have saved it.",
-  "id": "wh-fivesteps-u3-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Janissaries survived until 1826; they were not abolished in 1500.",
-   "B": "Correct. The merit-based corps decayed into a hereditary caste that extorted sultans and blocked reform.",
-   "C": "Wrong. The Janissaries remained soldiers and kingmakers, not farmers.",
-   "D": "Wrong. The corps changed profoundly, from loyal slave-soldiers to a privileged caste."
+  {
+    "difficulty": "hard",
+    "explanation": "The Janissaries began as the sultan's loyal slave-soldiers, but by the 1600s they had become a hereditary military caste, marrying, enrolling their sons, and extorting donatives from each new sultan. The empire's sharpest sword became its most entrenched interest group, blocking the very reforms that might have saved it.",
+    "id": "wh-fivesteps-u3-012",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The Janissaries survived until 1826; they were not abolished in 1500.",
+      "B": "Correct. The merit-based corps decayed into a hereditary caste that extorted sultans and blocked reform.",
+      "C": "Wrong. The Janissaries remained soldiers and kingmakers, not farmers.",
+      "D": "Wrong. The corps changed profoundly, from loyal slave-soldiers to a privileged caste."
+    },
+    "options": [
+      "(A) They were abolished in 1500",
+      "(B) The merit-based corps decayed into a hereditary caste that extorted sultans",
+      "(C) They became peaceful farmers",
+      "(D) They never changed at all, remaining loyal slave-soldiers for three full centuries"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-012",
+    "source_stimulus_words": 370,
+    "stem": "By the 1600s the Janissaries had become a hereditary caste that extorted payments from sultans and resisted military reform. What does this show about the corps the passage praises?",
+    "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
+    "stimulus_words": 190,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) They were abolished in 1500",
-   "(B) The merit-based corps decayed into a hereditary caste that extorted sultans and blocked reform",
-   "(C) They became peaceful farmers",
-   "(D) They never changed at all"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-012",
-  "source_stimulus_words": 370,
-  "stem": "By the 1600s the Janissaries had become a hereditary caste that extorted payments from sultans and resisted military reform. What does this show about the corps the passage praises?",
-  "stimulus": "Paraphrase of the Turkish Letters (1555-1562), by a Flemish diplomat serving the Austrian emperor at the Ottoman court: No man owes his position to anything but valor and merit. The sultan carefully examines the character, ability, and disposition of candidates for promotion; men rise by merit, so posts go only to the competent, and this is why the Ottomans succeed in their undertakings and daily extend their empire. Among Austrians, by contrast, birth alone opens the door to public office. On campaign the sultan brings vast trains of camels and mules loaded with grain, knowing his armies must retreat across lands stripped bare; rations are weighed out daily, just enough to sustain life, to the Janissaries and royal troops. It is the patience, self-denial, and thrift of the Turkish soldier that lets him endure the worst conditions, a stark contrast to Christian soldiers who demand dainty dishes and mutiny without them. The sons of a sultan live in peril: on succession, the new sultan must kill his brothers, for the Janissaries will always demand largesses, and if refused, cry 'Long live the brother!' as a hint to enthrone a rival.",
-  "stimulus_words": 190,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "Polo wrote to astonish Europe with the Great Khan's splendors; Rubruck wrote to advise the French king on a possible alliance. Both were intelligent strangers in a world they barely understood, and their marvels, though often accurate, are filtered through European expectations and the desire to impress readers back home.",
-  "id": "wh-fivesteps-u1-043",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Both authors were European travelers, not Mongol insiders.",
-   "B": "Correct. As European outsiders writing for European audiences, their accounts are colored by exoticism and their own purposes.",
-   "C": "Wrong. Travelers' tales require critical reading; none is perfectly accurate.",
-   "D": "Wrong. Polo wrote around 1298 and Rubruck in the 1250s."
+  {
+    "difficulty": "hard",
+    "explanation": "Polo wrote to astonish Europe with the Great Khan's splendors; Rubruck wrote to advise the French king on a possible alliance. Both were intelligent strangers in a world they barely understood, and their marvels, though often accurate, are filtered through European expectations and the desire to impress readers back home.",
+    "id": "wh-fivesteps-u1-043",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Both authors were European travelers, not Mongol insiders.",
+      "B": "Wrong. Travelers' tales require critical reading; none is perfectly accurate.",
+      "C": "Correct. As European outsiders writing for European audiences, their accounts are colored by exoticism and their own purposes.",
+      "D": "Wrong. Polo wrote around 1298 and Rubruck in the 1250s."
+    },
+    "options": [
+      "(A) They are Mongol-authored sources",
+      "(B) They are perfectly accurate in every detail and require no critical reading at all",
+      "(C) They are outsider accounts filtered through European expectations",
+      "(D) They were written in the 1800s"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-042",
+    "source_stimulus_words": 293,
+    "stem": "Marco Polo and William of Rubruck describe Mongol life in vivid detail. What should historians keep in mind when using these sources?",
+    "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
+    "stimulus_words": 161,
+    "themes": [
+      "CDI",
+      "SIO",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) They are Mongol-authored sources",
-   "(B) They are outsider accounts filtered through European expectations and purposes",
-   "(C) They are perfectly accurate in every detail",
-   "(D) They were written in the 1800s"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-042",
-  "source_stimulus_words": 293,
-  "stem": "Marco Polo and William of Rubruck describe Mongol life in vivid detail. What should historians keep in mind when using these sources?",
-  "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
-  "stimulus_words": 161,
-  "themes": [
-   "CDI",
-   "SIO",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Rubruck's catalogue, driving wagons, loading yurts, milking, making felt and cheese, shows women performing the skilled, heavy labor that kept the mobile camp alive. In a society where everyone's work was visibly essential, women commanded a respect that secluded palace life denied.",
-  "id": "wh-fivesteps-u1-044",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Rubruck lists extensive, skilled female labor; women were central to the economy.",
-   "B": "Correct. Women's essential economic labor in the mobile camp gave them status and leverage.",
-   "C": "Wrong. Men performed their own essential tasks; the point is the equal importance of women's work.",
-   "D": "Wrong. The Mongols ran a sophisticated pastoral economy; they were not without one."
+  {
+    "difficulty": "hard",
+    "explanation": "Rubruck's catalogue, driving wagons, loading yurts, milking, making felt and cheese, shows women performing the skilled, heavy labor that kept the mobile camp alive. In a society where everyone's work was visibly essential, women commanded a respect that secluded palace life denied.",
+    "id": "wh-fivesteps-u1-044",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Rubruck lists extensive, skilled female labor; women were central to the economy.",
+      "B": "Wrong. Men performed their own essential tasks; the point is the equal importance of women's work.",
+      "C": "Wrong. The Mongols ran a sophisticated pastoral economy; they were not without one.",
+      "D": "Correct. Women's essential economic labor in the mobile camp gave them status and leverage."
+    },
+    "options": [
+      "(A) Mongol women did no work",
+      "(B) Men did all the work while women contributed nothing to the camp economy",
+      "(C) The Mongols had no economy",
+      "(D) Women's essential economic labor gave them status and leverage"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-043",
+    "source_stimulus_words": 293,
+    "stem": "Rubruck lists Mongol women's work: driving wagons, loading dwellings, milking, making felt and cheese. What does this show?",
+    "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
+    "stimulus_words": 161,
+    "themes": [
+      "SIO",
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Mongol women did no work",
-   "(B) Women's essential economic labor gave them status and leverage",
-   "(C) Men did all the work",
-   "(D) The Mongols had no economy"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-043",
-  "source_stimulus_words": 293,
-  "stem": "Rubruck lists Mongol women's work: driving wagons, loading dwellings, milking, making felt and cheese. What does this show?",
-  "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
-  "stimulus_words": 161,
-  "themes": [
-   "SIO",
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The composite bow laminated horn, wood, and sinew into a short, recurved weapon with the punch of a much larger bow. Small enough to wield on horseback, powerful enough to pierce armor at range, it was the Mongols' decisive military technology.",
-  "id": "wh-fivesteps-u1-045",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The bow's power came from engineering, not magic.",
-   "B": "Correct. Laminated horn, wood, and sinew gave great power in a compact, horseback-friendly weapon.",
-   "C": "Wrong. The composite bow was a distinct Central Asian technology, more powerful for its size than the longbow.",
-   "D": "Wrong. The bow was the Mongols' master weapon, practiced from childhood."
+  {
+    "difficulty": "hard",
+    "explanation": "The composite bow laminated horn, wood, and sinew into a short, recurved weapon with the punch of a much larger bow. Small enough to wield on horseback, powerful enough to pierce armor at range, it was the Mongols' decisive military technology.",
+    "id": "wh-fivesteps-u1-045",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The bow's power came from engineering, not magic.",
+      "B": "Correct. Laminated horn, wood, and sinew gave great power in a compact, horseback-friendly weapon.",
+      "C": "Wrong. The composite bow was a distinct Central Asian technology, more powerful for its size than the longbow.",
+      "D": "Wrong. The bow was the Mongols' master weapon, practiced from childhood."
+    },
+    "options": [
+      "(A) It was magical",
+      "(B) Laminated horn, wood, and sinew gave great power in a compact size",
+      "(C) It was identical to the English longbow in design, materials, and battlefield power",
+      "(D) The Mongols never used bows"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-044",
+    "source_stimulus_words": 293,
+    "stem": "Mongol warriors trained with the bow from childhood. What made the Mongol composite bow so effective?",
+    "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
+    "stimulus_words": 161,
+    "themes": [
+      "SIO",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) It was magical",
-   "(B) Laminated horn, wood, and sinew gave great power in a compact size",
-   "(C) It was identical to the English longbow",
-   "(D) The Mongols never used bows"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-044",
-  "source_stimulus_words": 293,
-  "stem": "Mongol warriors trained with the bow from childhood. What made the Mongol composite bow so effective?",
-  "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
-  "stimulus_words": 161,
-  "themes": [
-   "SIO",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Mongol peace, enforced by terror and maintained by law, let caravans cross from China to Persia to Europe in relative safety. Along those roads traveled paper money, gunpowder, printing, and crops, and also the fleas that carried the Black Death. The same connectivity that enriched Eurasia could also kill it.",
-  "id": "wh-fivesteps-u1-046",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Mongols were conquerors, not democrats.",
-   "B": "Correct. Mongol-enforced security opened Eurasian trade routes to goods, technologies, and diseases alike.",
-   "C": "Wrong. Printing reached Europe through other channels; the Mongols did not invent it.",
-   "D": "Wrong. Christianity survived and spread; the Mongols did not end it."
+  {
+    "difficulty": "hard",
+    "explanation": "The Mongol peace, enforced by terror and maintained by law, let caravans cross from China to Persia to Europe in relative safety. Along those roads traveled paper money, gunpowder, printing, and crops, and also the fleas that carried the Black Death. The same connectivity that enriched Eurasia could also kill it.",
+    "id": "wh-fivesteps-u1-046",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Mongol-enforced security opened Eurasian trade routes to goods, technologies, and diseases alike.",
+      "B": "Wrong. The Mongols were conquerors, not democrats.",
+      "C": "Wrong. Printing reached Europe through other channels; the Mongols did not invent it.",
+      "D": "Wrong. Christianity survived and spread; the Mongols did not end it."
+    },
+    "options": [
+      "(A) Secure trade routes spreading goods, technologies, and diseases across Eurasia",
+      "(B) The spread of democracy",
+      "(C) The invention of printing in Europe",
+      "(D) The end of Christianity, as the Mongols suppressed churches and monasteries across Eurasia"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-045",
+    "source_stimulus_words": 293,
+    "stem": "Mongol conquests killed millions, yet historians also credit the Pax Mongolica. With what?",
+    "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
+    "stimulus_words": 161,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The spread of democracy",
-   "(B) Secure trade routes that spread goods, technologies, and diseases across Eurasia",
-   "(C) The invention of printing in Europe",
-   "(D) The end of Christianity"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-045",
-  "source_stimulus_words": 293,
-  "stem": "Mongol conquests killed millions, yet historians also credit the Pax Mongolica. With what?",
-  "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
-  "stimulus_words": 161,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Inca ran an empire of perhaps ten million without writing, money, or the wheel. The quipucamayus, keepers of the knotted cords that recorded censuses, storehouses, and histories, were the empire's memory and its database. Exempting them from tribute shows how highly the state valued information: its accountants were a privileged caste.",
-  "id": "wh-fivesteps-u1-047",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Inca state was highly bureaucratic; the quipucamayus were its officials.",
-   "B": "Correct. Exempting the record-keepers from tribute shows the state prized information above ordinary labor.",
-   "C": "Wrong. Quipus were administrative tools, not decorations.",
-   "D": "Wrong. The quipucamayus' memorized histories were central to the system; memory mattered enormously."
-  },
-  "options": [
-   "(A) The Inca had no bureaucracy",
-   "(B) The state valued information so highly that its record-keepers were exempt from tribute",
-   "(C) Quipus were purely decorative",
-   "(D) Memorized history played no role"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-046",
-  "source_stimulus_words": 294,
-  "stem": "Quipucamayus memorized speeches and histories alongside their knot records, and were exempt from all tribute and labor service. What does this show about the Inca state?",
-  "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
-  "stimulus_words": 165,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- }
+  {
+    "difficulty": "hard",
+    "explanation": "The Inca ran an empire of perhaps ten million without writing, money, or the wheel. The quipucamayus, keepers of the knotted cords that recorded censuses, storehouses, and histories, were the empire's memory and its database. Exempting them from tribute shows how highly the state valued information: its accountants were a privileged caste.",
+    "id": "wh-fivesteps-u1-047",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Exempting the record-keepers from tribute shows the state prized information above ordinary labor.",
+      "B": "Wrong. The Inca state was highly bureaucratic; the quipucamayus were its officials.",
+      "C": "Wrong. Quipus were administrative tools, not decorations.",
+      "D": "Wrong. The quipucamayus' memorized histories were central to the system; memory mattered enormously."
+    },
+    "options": [
+      "(A) The state valued information so highly its record-keepers were exempt from tribute",
+      "(B) The Inca had no bureaucracy and ruled their vast empire through the ruler's personal charisma",
+      "(C) Quipus were purely decorative",
+      "(D) Memorized history played no role"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-046",
+    "source_stimulus_words": 294,
+    "stem": "Quipucamayus memorized speeches and histories alongside their knot records, and were exempt from all tribute and labor service. What does this show about the Inca state?",
+    "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
+    "stimulus_words": 165,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  }
 ]

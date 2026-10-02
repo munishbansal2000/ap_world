@@ -1,861 +1,861 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "The Inca governed some ten million people, ran censuses, storehouses, and armies, all coordinated through knotted cords and trained memories. The quipu proves that complex state administration does not require an alphabet; alternative information technologies can do the work.",
-  "id": "wh-fivesteps-u1-048",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The quipu coordinated a vast empire; it was a genuine administrative technology.",
-   "B": "Correct. Knotted cords and trained keepers ran censuses, storehouses, and armies without any alphabet.",
-   "C": "Wrong. The Inca state was highly organized; it simply used a different information system.",
-   "D": "Wrong. Quipus were serious bureaucratic instruments, not playthings."
+  {
+    "difficulty": "hard",
+    "explanation": "The Inca governed some ten million people, ran censuses, storehouses, and armies, all coordinated through knotted cords and trained memories. The quipu proves that complex state administration does not require an alphabet; alternative information technologies can do the work.",
+    "id": "wh-fivesteps-u1-048",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The quipu coordinated a vast empire; it was a genuine administrative technology.",
+      "B": "Correct. Knotted cords and trained keepers ran censuses, storehouses, and armies without any alphabet.",
+      "C": "Wrong. The Inca state was highly organized; it simply used a different information system.",
+      "D": "Wrong. Quipus were serious bureaucratic instruments, not playthings."
+    },
+    "options": [
+      "(A) Quipus were primitive toys",
+      "(B) Complex administration is possible without alphabetic writing",
+      "(C) The Inca had no real administration and ruled by improvised guesswork",
+      "(D) Only alphabets can run an empire"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u1-047",
+    "source_stimulus_words": 294,
+    "stem": "The Inca ran a vast empire without any form of writing. What does the quipu system prove?",
+    "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
+    "stimulus_words": 165,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Quipus were primitive toys",
-   "(B) Complex administration is possible without alphabetic writing",
-   "(C) The Inca had no real administration",
-   "(D) Only alphabets can run an empire"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u1-047",
-  "source_stimulus_words": 294,
-  "stem": "The Inca ran a vast empire without any form of writing. What does the quipu system prove?",
-  "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
-  "stimulus_words": 165,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Because knots recorded only numbers, the system's meaning lived in the keeper's trained memory: which cord meant what, which knots recorded which speech. Passing that knowledge father to son made the quipucamayu a hereditary specialist, and the craft's secrecy was its security.",
-  "id": "wh-fivesteps-u1-049",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Reading a quipu required years of training and inherited knowledge; it was not self-evident.",
-   "B": "Correct. Since knots held only numbers, the system's meaning depended on the keeper's trained, inherited memory.",
-   "C": "Wrong. The Spanish conquest destroyed the system; it did not preserve it.",
-   "D": "Wrong. The keepers' memorized histories were essential; the passage stresses their memory work."
+  {
+    "difficulty": "hard",
+    "explanation": "Because knots recorded only numbers, the system's meaning lived in the keeper's trained memory: which cord meant what, which knots recorded which speech. Passing that knowledge father to son made the quipucamayu a hereditary specialist, and the craft's secrecy was its security.",
+    "id": "wh-fivesteps-u1-049",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Reading a quipu required years of training and inherited knowledge; it was not self-evident.",
+      "B": "Correct. Since knots held only numbers, the system's meaning depended on the keeper's trained, inherited memory.",
+      "C": "Wrong. The Spanish conquest destroyed the system; it did not preserve it.",
+      "D": "Wrong. The keepers' memorized histories were essential; the passage stresses their memory work."
+    },
+    "options": [
+      "(A) Anyone could read a quipu at a glance",
+      "(B) The system depended on trained human memory as much as on knots",
+      "(C) The Spanish preserved the quipu system",
+      "(D) Memorized history played no role in the system; only the knots mattered"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-048",
+    "source_stimulus_words": 294,
+    "stem": "Quipucamayu knowledge passed from father to son, and keepers constantly fingered their cords to remember. What does this suggest about Inca record-keeping?",
+    "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
+    "stimulus_words": 165,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Anyone could read a quipu at a glance",
-   "(B) The system depended on trained human memory as much as on knots",
-   "(C) The Spanish preserved the quipu system",
-   "(D) Memorized history played no role in the system"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-048",
-  "source_stimulus_words": 294,
-  "stem": "Quipucamayu knowledge passed from father to son, and keepers constantly fingered their cords to remember. What does this suggest about Inca record-keeping?",
-  "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
-  "stimulus_words": 165,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Knots encode quantities: how many, how much, how old. They cannot encode language itself: no narratives, no laws, no prayers, no abstract argument. The quipu was a brilliant database that could not write a sentence, and its keepers' memories had to supply everything the knots could not say.",
-  "id": "wh-fivesteps-u1-050",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The quipu counted superbly; counting was its strength.",
-   "B": "Correct. Knots recorded numbers only; narratives, laws, and ideas lived in the keepers' memories, not in the cords.",
-   "C": "Wrong. The system was fast and effective for its purposes; speed was not its flaw.",
-   "D": "Wrong. Quipus recorded censuses, armies, storehouses, and more; they were not limited to taxes."
+  {
+    "difficulty": "hard",
+    "explanation": "Knots encode quantities: how many, how much, how old. They cannot encode language itself: no narratives, no laws, no prayers, no abstract argument. The quipu was a brilliant database that could not write a sentence, and its keepers' memories had to supply everything the knots could not say.",
+    "id": "wh-fivesteps-u1-050",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Knots recorded numbers only; narratives, laws, and ideas lived in the keepers' memories, not in the cords.",
+      "B": "Wrong. The quipu counted superbly; counting was its strength.",
+      "C": "Wrong. The system was fast and effective for its purposes; speed was not its flaw.",
+      "D": "Wrong. Quipus recorded censuses, armies, storehouses, and more; they were not limited to taxes."
+    },
+    "options": [
+      "(A) It could not record narratives, laws, or ideas, only quantities",
+      "(B) It could not count accurately",
+      "(C) It was slower than writing",
+      "(D) It recorded only tax payments and nothing else of any administrative value"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-049",
+    "source_stimulus_words": 294,
+    "stem": "Quipus recorded numbers through knots but could not record words. What was the system's fundamental limitation?",
+    "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
+    "stimulus_words": 165,
+    "themes": [
+      "GOV",
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) It could not count accurately",
-   "(B) It could not record narratives, laws, or abstract ideas, only quantities",
-   "(C) It was slower than writing",
-   "(D) It recorded only tax payments"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-049",
-  "source_stimulus_words": 294,
-  "stem": "Quipus recorded numbers through knots but could not record words. What was the system's fundamental limitation?",
-  "stimulus": "Paraphrase of Inca Garcilaso de la Vega's Royal Commentaries (1609) on the quipu: The word quipu means knot, and also accounts, for accounts were kept with knots tied in cords of different thickness and color, each with its own meaning. To inventory the army's weapons, officials counted each category; to census the vassals, they worked village by village and province by province, one cord for men over sixty, another for those fifty to sixty, and so on by decades down to nursing infants. Every year an inventory of all possessions was made. Everything countable was counted, even battles, embassies, and royal speeches. But since knots could record numbers, not words, the quipucamayus assigned to embassies and speeches memorized them, noting numbers, places, and dates on their cords, and passed the tradition from father to son. The keepers never let their quipus leave their hands, constantly running the cords through their fingers, and their burden was so great they were exempted from all tribute and service.",
-  "stimulus_words": 165,
-  "themes": [
-   "GOV",
-   "ECN",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The 1789 Declaration of the Rights of Man proclaimed liberty and equality while the Assembly denied both to women. De Gouges turned the Revolution's own logic against it: if rights are truly universal and natural, excluding half of humanity is a contradiction that destroys the Revolution's legitimacy.",
-  "id": "wh-fivesteps-u5-018",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. De Gouges demanded women's full political rights; she did not defend domestic confinement.",
-   "B": "Correct. She argued the Revolution's universal rights must include women, or the Revolution betrays its own principles.",
-   "C": "Wrong. She was a passionate revolutionary; she attacked its hypocrisy, not its ideals.",
-   "D": "Wrong. Her 1788 essay denounced slavery; she was an abolitionist."
+  {
+    "difficulty": "hard",
+    "explanation": "The 1789 Declaration of the Rights of Man proclaimed liberty and equality while the Assembly denied both to women. De Gouges turned the Revolution's own logic against it: if rights are truly universal and natural, excluding half of humanity is a contradiction that destroys the Revolution's legitimacy.",
+    "id": "wh-fivesteps-u5-018",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. De Gouges demanded women's full political rights; she did not defend domestic confinement.",
+      "B": "Wrong. She was a passionate revolutionary; she attacked its hypocrisy, not its ideals.",
+      "C": "Wrong. Her 1788 essay denounced slavery; she was an abolitionist.",
+      "D": "Correct. She argued the Revolution's universal rights must include women, or the Revolution betrays its own principles."
+    },
+    "options": [
+      "(A) Women should remain in the domestic sphere and avoid all political activity forever",
+      "(B) The Revolution should be overthrown",
+      "(C) Slavery should be preserved",
+      "(D) The Revolution's universal rights must include women or it betrays itself"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u5-018",
+    "source_stimulus_words": 286,
+    "stem": "In 1791 Olympe de Gouges wrote the Declaration of the Rights of Woman, mirroring the Revolution's Declaration of the Rights of Man. What was her argument?",
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "stimulus_words": 153,
+    "themes": [
+      "CDI",
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) Women should remain in the domestic sphere",
-   "(B) The Revolution's universal rights must include women, or it betrays itself",
-   "(C) The Revolution should be overthrown",
-   "(D) Slavery should be preserved"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u5-018",
-  "source_stimulus_words": 286,
-  "stem": "In 1791 Olympe de Gouges wrote the Declaration of the Rights of Woman, mirroring the Revolution's Declaration of the Rights of Man. What was her argument?",
-  "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
-  "stimulus_words": 153,
-  "themes": [
-   "CDI",
-   "ECN",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "By asking why blonds don't rule brunettes, she exposes the absurdity of ranking humans by a physical trait. If color hierarchy is natural, why stop at skin? The reductio ad absurdum collapses the whole logic of racial superiority.",
-  "id": "wh-fivesteps-u5-019",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. She mentions blonds only to mock the logic of ranking by appearance.",
-   "B": "Correct. Extending racial logic to hair color shows its arbitrariness and collapses it.",
-   "C": "Wrong. Fashion is not her subject; the absurdity of racial hierarchy is.",
-   "D": "Wrong. The essay is an abolitionist attack on slavery, not a defense."
+  {
+    "difficulty": "hard",
+    "explanation": "By asking why blonds don't rule brunettes, she exposes the absurdity of ranking humans by a physical trait. If color hierarchy is natural, why stop at skin? The reductio ad absurdum collapses the whole logic of racial superiority.",
+    "id": "wh-fivesteps-u5-019",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. She mentions blonds only to mock the logic of ranking by appearance.",
+      "B": "Wrong. Fashion is not her subject; the absurdity of racial hierarchy is.",
+      "C": "Correct. Extending racial logic to hair color shows its arbitrariness and collapses it.",
+      "D": "Wrong. The essay is an abolitionist attack on slavery, not a defense."
+    },
+    "options": [
+      "(A) She believed blonds were naturally superior to brunettes in intellect and virtue",
+      "(B) She was writing about fashion",
+      "(C) She pushed racial logic to absurdity to expose its arbitrariness",
+      "(D) She supported the slave system"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-019",
+    "source_stimulus_words": 286,
+    "stem": "De Gouges asks why blonds do not claim superiority over brunettes. What is her rhetorical move?",
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "stimulus_words": 153,
+    "themes": [
+      "ECN",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) She believed blonds were superior",
-   "(B) She pushed racial logic to absurdity to expose its arbitrariness",
-   "(C) She was writing about fashion",
-   "(D) She supported the slave system"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-019",
-  "source_stimulus_words": 286,
-  "stem": "De Gouges asks why blonds do not claim superiority over brunettes. What is her rhetorical move?",
-  "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
-  "stimulus_words": 153,
-  "themes": [
-   "ECN",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Revolution guillotined a woman for demanding that its universal rights apply universally, to women and to the enslaved. De Gouges's death is the Revolution's contradiction made flesh: liberty proclaimed, and its most consistent advocate executed.",
-  "id": "wh-fivesteps-u5-020",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Terror executed thousands; the Revolution was not peaceful.",
-   "B": "Correct. The Revolution killed a woman for demanding its proclaimed rights apply to women and slaves.",
-   "C": "Wrong. She was guillotined in 1793 at the height of the Terror.",
-   "D": "Wrong. No pardon saved her; she died on the scaffold."
+  {
+    "difficulty": "hard",
+    "explanation": "The Revolution guillotined a woman for demanding that its universal rights apply universally, to women and to the enslaved. De Gouges's death is the Revolution's contradiction made flesh: liberty proclaimed, and its most consistent advocate executed.",
+    "id": "wh-fivesteps-u5-020",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The Terror executed thousands; the Revolution was not peaceful.",
+      "B": "Wrong. She was guillotined in 1793 at the height of the Terror.",
+      "C": "Wrong. No pardon saved her; she died on the scaffold.",
+      "D": "Correct. The Revolution killed a woman for demanding its proclaimed rights apply to women and slaves."
+    },
+    "options": [
+      "(A) The Revolution was entirely peaceful and never harmed a single French citizen",
+      "(B) She died of old age",
+      "(C) The king pardoned her",
+      "(D) The Revolution executed a woman for demanding its rights apply to all"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-020",
+    "source_stimulus_words": 286,
+    "stem": "Olympe de Gouges was guillotined in 1793. What does her execution reveal about the French Revolution?",
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "stimulus_words": 153,
+    "themes": [
+      "ECN",
+      "SIO",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) The Revolution was entirely peaceful",
-   "(B) The Revolution executed a woman for demanding its rights apply universally",
-   "(C) She died of old age",
-   "(D) The king pardoned her"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-020",
-  "source_stimulus_words": 286,
-  "stem": "Olympe de Gouges was guillotined in 1793. What does her execution reveal about the French Revolution?",
-  "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
-  "stimulus_words": 153,
-  "themes": [
-   "ECN",
-   "SIO",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The American, French, and Latin American revolutions were led by elites seeking political independence; only in Saint-Domingue did the enslaved themselves rise, defeat the planters, the French, the British, and the Spanish, and found a Black republic. Haiti stands alone as revolution from below.",
-  "id": "wh-fivesteps-u5-021",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Haiti abolished slavery permanently in 1804; it did not restore it.",
-   "B": "Correct. Haiti is the only successful slave revolt in history to create an independent state.",
-   "C": "Wrong. The Haitians defeated French forces; France did not lead the revolution.",
-   "D": "Wrong. Haiti won its independence in 1804; it did not fail."
+  {
+    "difficulty": "hard",
+    "explanation": "The American, French, and Latin American revolutions were led by elites seeking political independence; only in Saint-Domingue did the enslaved themselves rise, defeat the planters, the French, the British, and the Spanish, and found a Black republic. Haiti stands alone as revolution from below.",
+    "id": "wh-fivesteps-u5-021",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Haiti is the only successful slave revolt in history to create an independent state.",
+      "B": "Wrong. Haiti abolished slavery permanently in 1804; it did not restore it.",
+      "C": "Wrong. The Haitians defeated French forces; France did not lead the revolution.",
+      "D": "Wrong. Haiti won its independence in 1804; it did not fail."
+    },
+    "options": [
+      "(A) It was the only slave revolt to create an independent state",
+      "(B) It restored slavery",
+      "(C) It was led by the French government acting to punish the white planters",
+      "(D) It failed to achieve independence"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-021",
+    "source_stimulus_words": 286,
+    "stem": "Why is the Haitian Revolution (1791-1804) unique among Atlantic revolutions?",
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "stimulus_words": 153,
+    "themes": [
+      "GOV",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) It restored slavery",
-   "(B) It was the only successful slave revolt to create an independent state",
-   "(C) It was led by the French government",
-   "(D) It failed to achieve independence"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-021",
-  "source_stimulus_words": 286,
-  "stem": "Why is the Haitian Revolution (1791-1804) unique among Atlantic revolutions?",
-  "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
-  "stimulus_words": 153,
-  "themes": [
-   "GOV",
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Criollos were American-born Spaniards: legally Spanish, yet treated as second-class by peninsulares and surrounded by Indigenous and African peoples they neither fully belonged to nor ruled justly. Bolívar names the identity crisis at the heart of Spanish American nation-building: new nations had to be invented from a population that was neither one thing nor the other.",
-  "id": "wh-fivesteps-u5-022",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Bolívar's letter is a denunciation of Spanish rule, not praise.",
-   "B": "Correct. He describes a fractured colonial identity, belonging fully to neither the Indigenous nor the European world.",
-   "C": "Wrong. He presents himself as American, distinct from Europeans.",
-   "D": "Wrong. The identity crisis is central to his argument about why new nations must be built."
+  {
+    "difficulty": "hard",
+    "explanation": "Criollos were American-born Spaniards: legally Spanish, yet treated as second-class by peninsulares and surrounded by Indigenous and African peoples they neither fully belonged to nor ruled justly. Bolívar names the identity crisis at the heart of Spanish American nation-building: new nations had to be invented from a population that was neither one thing nor the other.",
+    "id": "wh-fivesteps-u5-022",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Bolívar's letter is a denunciation of Spanish rule, not praise.",
+      "B": "Wrong. He presents himself as American, distinct from Europeans.",
+      "C": "Wrong. The identity crisis is central to his argument about why new nations must be built.",
+      "D": "Correct. He describes a fractured colonial identity, belonging fully to neither the Indigenous nor the European world."
+    },
+    "options": [
+      "(A) He praised Spanish colonial society",
+      "(B) He wanted to be European",
+      "(C) Identity was irrelevant to independence and played no role in his political thought",
+      "(D) Colonial society had a fractured identity, belonging fully to neither world"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-022",
+    "source_stimulus_words": 338,
+    "stem": "Bolivar writes that Americans are 'neither Indian nor European, but a species midway between.' What problem was he describing?",
+    "stimulus": "Paraphrase of Simon Bolivar's Jamaica Letter (1815): Sixteen million Americans suffer Spanish repression, though Spain is now too weak to rule the hemisphere. We are a young people in the arts and sciences, yet old in civilized society, retaining scarcely a vestige of what once was. We are neither Indian nor European but midway between the legitimate proprietors of the country and the Spanish usurpers; though American by birth, we derive our rights from Europe. Spain's monarchs made a solemn compact with the conquerors and settlers, making them lords of the land with vast privileges, while the king kept only sovereign domain. Today Americans live no better than serfs, forbidden to grow European crops, to trade freely, or to build manufactures, while royal monopolies and barriers between provinces stifle all exchange. The provinces fight for freedom and will succeed; some will form republics, the larger may become monarchies, and some will collapse in revolutions.",
+    "stimulus_words": 154,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) He praised Spanish colonial society",
-   "(B) Colonial society had a fractured identity, fully belonging to neither world",
-   "(C) He wanted to be European",
-   "(D) Identity was irrelevant to independence"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-022",
-  "source_stimulus_words": 338,
-  "stem": "Bolivar writes that Americans are 'neither Indian nor European, but a species midway between.' What problem was he describing?",
-  "stimulus": "Paraphrase of Simon Bolivar's Jamaica Letter (1815): Sixteen million Americans suffer Spanish repression, though Spain is now too weak to rule the hemisphere. We are a young people in the arts and sciences, yet old in civilized society, retaining scarcely a vestige of what once was. We are neither Indian nor European but midway between the legitimate proprietors of the country and the Spanish usurpers; though American by birth, we derive our rights from Europe. Spain's monarchs made a solemn compact with the conquerors and settlers, making them lords of the land with vast privileges, while the king kept only sovereign domain. Today Americans live no better than serfs, forbidden to grow European crops, to trade freely, or to build manufactures, while royal monopolies and barriers between provinces stifle all exchange. The provinces fight for freedom and will succeed; some will form republics, the larger may become monarchies, and some will collapse in revolutions.",
-  "stimulus_words": 154,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Bolívar's armies were criollo-led and his republics preserved large estates and forced Indigenous labor. Invoking the 'legitimate proprietors' gave his cause moral grandeur, but independence transferred power from peninsulares to criollos, leaving Indigenous peoples dispossessed under new masters.",
-  "id": "wh-fivesteps-u5-023",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Bolivar was a criollo aristocrat, not Indigenous.",
-   "B": "Correct. He invoked Indigenous legitimacy while leading a movement that kept Indigenous peoples subordinated.",
-   "C": "Wrong. Indigenous peoples were largely excluded from leadership in the independence wars.",
-   "D": "Wrong. The gap between the rhetoric and the outcome is the central tension."
+  {
+    "difficulty": "hard",
+    "explanation": "Bolívar's armies were criollo-led and his republics preserved large estates and forced Indigenous labor. Invoking the 'legitimate proprietors' gave his cause moral grandeur, but independence transferred power from peninsulares to criollos, leaving Indigenous peoples dispossessed under new masters.",
+    "id": "wh-fivesteps-u5-023",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Bolivar was a criollo aristocrat, not Indigenous.",
+      "B": "Wrong. Indigenous peoples were largely excluded from leadership in the independence wars.",
+      "C": "Correct. He invoked Indigenous legitimacy while leading a movement that kept Indigenous peoples subordinated.",
+      "D": "Wrong. The gap between the rhetoric and the outcome is the central tension."
+    },
+    "options": [
+      "(A) Bolivar was himself Indigenous",
+      "(B) Indigenous peoples led the independence wars and wrote the new republics' constitutions",
+      "(C) He invoked Indigenous legitimacy while keeping Indigenous peoples subordinated",
+      "(D) There was no tension in his position"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-023",
+    "source_stimulus_words": 338,
+    "stem": "Bolivar calls Indigenous peoples the 'legitimate proprietors' yet led a criollo movement that kept them subordinated. What tension does this reveal?",
+    "stimulus": "Paraphrase of Simon Bolivar's Jamaica Letter (1815): Sixteen million Americans suffer Spanish repression, though Spain is now too weak to rule the hemisphere. We are a young people in the arts and sciences, yet old in civilized society, retaining scarcely a vestige of what once was. We are neither Indian nor European but midway between the legitimate proprietors of the country and the Spanish usurpers; though American by birth, we derive our rights from Europe. Spain's monarchs made a solemn compact with the conquerors and settlers, making them lords of the land with vast privileges, while the king kept only sovereign domain. Today Americans live no better than serfs, forbidden to grow European crops, to trade freely, or to build manufactures, while royal monopolies and barriers between provinces stifle all exchange. The provinces fight for freedom and will succeed; some will form republics, the larger may become monarchies, and some will collapse in revolutions.",
+    "stimulus_words": 154,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) Bolivar was himself Indigenous",
-   "(B) He invoked Indigenous legitimacy while his movement kept Indigenous peoples subordinated",
-   "(C) Indigenous peoples led the independence wars",
-   "(D) There was no tension in his position"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-023",
-  "source_stimulus_words": 338,
-  "stem": "Bolivar calls Indigenous peoples the 'legitimate proprietors' yet led a criollo movement that kept them subordinated. What tension does this reveal?",
-  "stimulus": "Paraphrase of Simon Bolivar's Jamaica Letter (1815): Sixteen million Americans suffer Spanish repression, though Spain is now too weak to rule the hemisphere. We are a young people in the arts and sciences, yet old in civilized society, retaining scarcely a vestige of what once was. We are neither Indian nor European but midway between the legitimate proprietors of the country and the Spanish usurpers; though American by birth, we derive our rights from Europe. Spain's monarchs made a solemn compact with the conquerors and settlers, making them lords of the land with vast privileges, while the king kept only sovereign domain. Today Americans live no better than serfs, forbidden to grow European crops, to trade freely, or to build manufactures, while royal monopolies and barriers between provinces stifle all exchange. The provinces fight for freedom and will succeed; some will form republics, the larger may become monarchies, and some will collapse in revolutions.",
-  "stimulus_words": 154,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Locke and Rousseau argued that governments are legitimate only by the consent of the governed, who entrust rulers with power for the common good. Bolívar casts the original compact between the Spanish king and the settlers as exactly such a contract, and Spain's violation of it, monopolies, trade barriers, serf-like subjection, as the breach that dissolves obedience.",
-  "id": "wh-fivesteps-u5-024",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Bolívar uses the contract to condemn the king, not to defend him.",
-   "B": "Correct. He frames the colonial compact as a social contract whose breach by Spain justifies rebellion.",
-   "C": "Wrong. The contract argument is central to his justification of independence.",
-   "D": "Wrong. He denounces the feudal-like privileges, not praises them."
+  {
+    "difficulty": "hard",
+    "explanation": "Locke and Rousseau argued that governments are legitimate only by the consent of the governed, who entrust rulers with power for the common good. Bolívar casts the original compact between the Spanish king and the settlers as exactly such a contract, and Spain's violation of it, monopolies, trade barriers, serf-like subjection, as the breach that dissolves obedience.",
+    "id": "wh-fivesteps-u5-024",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. He frames the colonial compact as a social contract whose breach by Spain justifies rebellion.",
+      "B": "Wrong. Bolívar uses the contract to condemn the king, not to defend him.",
+      "C": "Wrong. The contract argument is central to his justification of independence.",
+      "D": "Wrong. He denounces the feudal-like privileges, not praises them."
+    },
+    "options": [
+      "(A) He framed the colonial compact as a contract Spain broke, justifying rebellion",
+      "(B) He defended the Spanish king as America's only legitimate sovereign against all rebels",
+      "(C) He rejected all contract theory",
+      "(D) He praised feudal privilege"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-024",
+    "source_stimulus_words": 338,
+    "stem": "Bolivar describes the conquistadors' agreement with the Spanish king as 'our social contract.' What is he doing with this Enlightenment language?",
+    "stimulus": "Paraphrase of Simon Bolivar's Jamaica Letter (1815): Sixteen million Americans suffer Spanish repression, though Spain is now too weak to rule the hemisphere. We are a young people in the arts and sciences, yet old in civilized society, retaining scarcely a vestige of what once was. We are neither Indian nor European but midway between the legitimate proprietors of the country and the Spanish usurpers; though American by birth, we derive our rights from Europe. Spain's monarchs made a solemn compact with the conquerors and settlers, making them lords of the land with vast privileges, while the king kept only sovereign domain. Today Americans live no better than serfs, forbidden to grow European crops, to trade freely, or to build manufactures, while royal monopolies and barriers between provinces stifle all exchange. The provinces fight for freedom and will succeed; some will form republics, the larger may become monarchies, and some will collapse in revolutions.",
+    "stimulus_words": 154,
+    "themes": [
+      "ENV",
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) He defended the Spanish king",
-   "(B) He framed the colonial compact as a social contract Spain had broken, justifying rebellion",
-   "(C) He rejected all contract theory",
-   "(D) He praised feudal privilege"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-024",
-  "source_stimulus_words": 338,
-  "stem": "Bolivar describes the conquistadors' agreement with the Spanish king as 'our social contract.' What is he doing with this Enlightenment language?",
-  "stimulus": "Paraphrase of Simon Bolivar's Jamaica Letter (1815): Sixteen million Americans suffer Spanish repression, though Spain is now too weak to rule the hemisphere. We are a young people in the arts and sciences, yet old in civilized society, retaining scarcely a vestige of what once was. We are neither Indian nor European but midway between the legitimate proprietors of the country and the Spanish usurpers; though American by birth, we derive our rights from Europe. Spain's monarchs made a solemn compact with the conquerors and settlers, making them lords of the land with vast privileges, while the king kept only sovereign domain. Today Americans live no better than serfs, forbidden to grow European crops, to trade freely, or to build manufactures, while royal monopolies and barriers between provinces stifle all exchange. The provinces fight for freedom and will succeed; some will form republics, the larger may become monarchies, and some will collapse in revolutions.",
-  "stimulus_words": 154,
-  "themes": [
-   "ENV",
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The ancestors of Native Americans crossed into the Americas thousands of years before Old World crowd diseases evolved among dense farming populations. Isolated ever since, they never acquired the partial immunities that made smallpox and measles survivable in Europe, so the diseases struck as virgin-soil epidemics.",
-  "id": "wh-fivesteps-u2-009",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Vulnerability came from immunological history, not from inherent weakness.",
-   "B": "Correct. Millennia of isolation left Native Americans without the acquired immunities Old World populations had built up.",
-   "C": "Wrong. Europeans also died of these diseases; they merely died at lower rates.",
-   "D": "Wrong. Smallpox and measles were ancient Old World diseases, long familiar in Eurasia."
+  {
+    "difficulty": "hard",
+    "explanation": "The ancestors of Native Americans crossed into the Americas thousands of years before Old World crowd diseases evolved among dense farming populations. Isolated ever since, they never acquired the partial immunities that made smallpox and measles survivable in Europe, so the diseases struck as virgin-soil epidemics.",
+    "id": "wh-fivesteps-u2-009",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Millennia of isolation left Native Americans without the acquired immunities Old World populations had built up.",
+      "B": "Wrong. Vulnerability came from immunological history, not from inherent weakness.",
+      "C": "Wrong. Europeans also died of these diseases; they merely died at lower rates.",
+      "D": "Wrong. Smallpox and measles were ancient Old World diseases, long familiar in Eurasia."
+    },
+    "options": [
+      "(A) Millennia of isolation left them without immunity to Old World diseases",
+      "(B) Native Americans were inherently weaker and less intelligent than Europeans by nature",
+      "(C) Europeans were immune to all disease",
+      "(D) The diseases were new to everyone"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-009",
+    "source_stimulus_words": 124,
+    "stem": "Diamond argues that farming and cities created crowd diseases in the Old World. Why did these diseases devastate the Americas after 1492?",
+    "stimulus": "Paraphrase of Jared Diamond, Guns, Germs, and Steel (1997): Sedentary farmers live amid their own waste, giving microbes a short path from body to drinking water, while stored grain attracts disease-carrying rodents. Cities packed people even more densely under worse sanitation. World trade routes then joined the populations of Europe, Asia, and North Africa into a single disease pool. But plague did not strike Europe full force until 1346, when a new overland trade route with China carried plague-infected furs rapidly along Eurasia's east-west axis to the continent.",
+    "stimulus_words": 88,
+    "themes": [
+      "ENV",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) Native Americans were inherently weaker",
-   "(B) Millennia of isolation left them without immunity to Old World crowd diseases",
-   "(C) Europeans were immune to all disease",
-   "(D) The diseases were new to everyone"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-009",
-  "source_stimulus_words": 124,
-  "stem": "Diamond argues that farming and cities created crowd diseases in the Old World. Why did these diseases devastate the Americas after 1492?",
-  "stimulus": "Paraphrase of Jared Diamond, Guns, Germs, and Steel (1997): Sedentary farmers live amid their own waste, giving microbes a short path from body to drinking water, while stored grain attracts disease-carrying rodents. Cities packed people even more densely under worse sanitation. World trade routes then joined the populations of Europe, Asia, and North Africa into a single disease pool. But plague did not strike Europe full force until 1346, when a new overland trade route with China carried plague-infected furs rapidly along Eurasia's east-west axis to the continent.",
-  "stimulus_words": 88,
-  "themes": [
-   "ENV",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "hard",
-  "explanation": "Diamond contends that Eurasia's dominance came not from superior people but from superior starting conditions: more domesticable plants and animals, and an east-west axis that let crops, livestock, and technologies spread across similar climates. Guns, germs, and steel were geography's gifts, not race's.",
-  "id": "wh-fivesteps-u2-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Diamond explicitly rejects racial explanations; his argument is environmental.",
-   "B": "Correct. Eurasian advantages in crops, animals, and diffusion axes produced the tools of dominance.",
-   "C": "Wrong. Geography is the center of his entire thesis.",
-   "D": "Wrong. Guns, as the title says, are central to his account of conquest."
+  {
+    "difficulty": "hard",
+    "explanation": "Diamond contends that Eurasia's dominance came not from superior people but from superior starting conditions: more domesticable plants and animals, and an east-west axis that let crops, livestock, and technologies spread across similar climates. Guns, germs, and steel were geography's gifts, not race's.",
+    "id": "wh-fivesteps-u2-010",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Diamond explicitly rejects racial explanations; his argument is environmental.",
+      "B": "Wrong. Geography is the center of his entire thesis.",
+      "C": "Wrong. Guns, as the title says, are central to his account of conquest.",
+      "D": "Correct. Eurasian advantages in crops, animals, and diffusion axes produced the tools of dominance."
+    },
+    "options": [
+      "(A) Europeans are inherently superior",
+      "(B) Geography is irrelevant to history; only great leaders and ideas matter",
+      "(C) Military technology played no role",
+      "(D) Environmental advantages gave Eurasians the tools of dominance"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-010",
+    "source_stimulus_words": 124,
+    "stem": "Diamond's Guns, Germs, and Steel argues that geography, not race, explains Eurasian dominance. What is his core claim?",
+    "stimulus": "Paraphrase of Jared Diamond, Guns, Germs, and Steel (1997): Sedentary farmers live amid their own waste, giving microbes a short path from body to drinking water, while stored grain attracts disease-carrying rodents. Cities packed people even more densely under worse sanitation. World trade routes then joined the populations of Europe, Asia, and North Africa into a single disease pool. But plague did not strike Europe full force until 1346, when a new overland trade route with China carried plague-infected furs rapidly along Eurasia's east-west axis to the continent.",
+    "stimulus_words": 88,
+    "themes": [
+      "ENV",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) Europeans are inherently superior",
-   "(B) Environmental advantages gave Eurasians the tools of dominance",
-   "(C) Geography is irrelevant to history",
-   "(D) Military technology played no role"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-010",
-  "source_stimulus_words": 124,
-  "stem": "Diamond's Guns, Germs, and Steel argues that geography, not race, explains Eurasian dominance. What is his core claim?",
-  "stimulus": "Paraphrase of Jared Diamond, Guns, Germs, and Steel (1997): Sedentary farmers live amid their own waste, giving microbes a short path from body to drinking water, while stored grain attracts disease-carrying rodents. Cities packed people even more densely under worse sanitation. World trade routes then joined the populations of Europe, Asia, and North Africa into a single disease pool. But plague did not strike Europe full force until 1346, when a new overland trade route with China carried plague-infected furs rapidly along Eurasia's east-west axis to the continent.",
-  "stimulus_words": 88,
-  "themes": [
-   "ENV",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Mongol trade routes that carried silk and spices from Central Asia also carried infected fleas and furs. The Black Death's arrival demonstrates the passage's central irony: the networks that enriched civilizations also gave pandemics their highways.",
-  "id": "wh-fivesteps-u2-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Trade demonstrably spread the plague; it did not prevent it.",
-   "B": "Correct. The same Eurasian trade networks that moved goods also moved pathogens.",
-   "C": "Wrong. The plague came from Central Asia via established trade routes, not from the Americas.",
-   "D": "Wrong. Rats and their fleas were the plague's carriers; they mattered enormously."
+  {
+    "difficulty": "hard",
+    "explanation": "The Mongol trade routes that carried silk and spices from Central Asia also carried infected fleas and furs. The Black Death's arrival demonstrates the passage's central irony: the networks that enriched civilizations also gave pandemics their highways.",
+    "id": "wh-fivesteps-u2-011",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Trade demonstrably spread the plague; it did not prevent it.",
+      "B": "Wrong. The plague came from Central Asia via established trade routes, not from the Americas.",
+      "C": "Correct. The same Eurasian trade networks that moved goods also moved pathogens.",
+      "D": "Wrong. Rats and their fleas were the plague's carriers; they mattered enormously."
+    },
+    "options": [
+      "(A) Trade prevents the spread of disease",
+      "(B) The plague originated in the Americas and crossed the Atlantic with explorers",
+      "(C) The same networks that carried silk and spices also carried pathogens",
+      "(D) Rats played no role in the plague"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u2-011",
+    "source_stimulus_words": 124,
+    "stem": "The passage says plague reached Europe in 1346 via trade routes from Central Asia. What does this show?",
+    "stimulus": "Paraphrase of Jared Diamond, Guns, Germs, and Steel (1997): Sedentary farmers live amid their own waste, giving microbes a short path from body to drinking water, while stored grain attracts disease-carrying rodents. Cities packed people even more densely under worse sanitation. World trade routes then joined the populations of Europe, Asia, and North Africa into a single disease pool. But plague did not strike Europe full force until 1346, when a new overland trade route with China carried plague-infected furs rapidly along Eurasia's east-west axis to the continent.",
+    "stimulus_words": 88,
+    "themes": [
+      "ENV",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
   },
-  "options": [
-   "(A) Trade prevents the spread of disease",
-   "(B) The same networks that carried silk and spices also carried pathogens",
-   "(C) The plague originated in the Americas",
-   "(D) Rats played no role in the plague"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u2-011",
-  "source_stimulus_words": 124,
-  "stem": "The passage says plague reached Europe in 1346 via trade routes from Central Asia. What does this show?",
-  "stimulus": "Paraphrase of Jared Diamond, Guns, Germs, and Steel (1997): Sedentary farmers live amid their own waste, giving microbes a short path from body to drinking water, while stored grain attracts disease-carrying rodents. Cities packed people even more densely under worse sanitation. World trade routes then joined the populations of Europe, Asia, and North Africa into a single disease pool. But plague did not strike Europe full force until 1346, when a new overland trade route with China carried plague-infected furs rapidly along Eurasia's east-west axis to the continent.",
-  "stimulus_words": 88,
-  "themes": [
-   "ENV",
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 2
- },
- {
-  "difficulty": "hard",
-  "explanation": "For millennia the great trade networks ran overland across Afro-Eurasia, the 'Island of the Earth.' After 1492 the oceans became the highways: silver, sugar, slaves, and ideas moved by sea, and maritime powers displaced the old land empires as the centers of world trade.",
-  "id": "wh-fivesteps-u4-048",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The oceans did not dry up; they became the new highways of trade.",
-   "B": "Correct. Oceanic networks displaced overland Afro-Eurasian routes as the dominant system of exchange.",
-   "C": "Wrong. Land trade continued; it was eclipsed, not ended.",
-   "D": "Wrong. Europe rose, not sank; the metaphor is about networks, not geology."
+  {
+    "difficulty": "hard",
+    "explanation": "For millennia the great trade networks ran overland across Afro-Eurasia, the 'Island of the Earth.' After 1492 the oceans became the highways: silver, sugar, slaves, and ideas moved by sea, and maritime powers displaced the old land empires as the centers of world trade.",
+    "id": "wh-fivesteps-u4-048",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The oceans did not dry up; they became the new highways of trade.",
+      "B": "Correct. Oceanic networks displaced overland Afro-Eurasian routes as the dominant system of exchange.",
+      "C": "Wrong. Land trade continued; it was eclipsed, not ended.",
+      "D": "Wrong. Europe rose, not sank; the metaphor is about networks, not geology."
+    },
+    "options": [
+      "(A) The oceans dried up",
+      "(B) Oceanic networks displaced overland Afro-Eurasian routes as dominant",
+      "(C) All land trade ended permanently",
+      "(D) Europe sank beneath the sea, permanently ending its role in global trade networks"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-045",
+    "source_stimulus_words": 68,
+    "stem": "Boorstin says the 'dominant Island of the Earth' was displaced by a 'dominant Ocean.' What shift is he describing?",
+    "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
+    "stimulus_words": 58,
+    "themes": [
+      "ENV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The oceans dried up",
-   "(B) Oceanic trade networks displaced overland Afro-Eurasian routes as the dominant system",
-   "(C) All land trade ended permanently",
-   "(D) Europe sank beneath the sea"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-045",
-  "source_stimulus_words": 68,
-  "stem": "Boorstin says the 'dominant Island of the Earth' was displaced by a 'dominant Ocean.' What shift is he describing?",
-  "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
-  "stimulus_words": 58,
-  "themes": [
-   "ENV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Square sails drove ships before the wind; lateen sails let them tack against it. The caravel's hybrid rig could do both, freeing Portuguese sailors from the wind patterns that had trapped earlier vessels and opening the Atlantic to systematic exploration.",
-  "id": "wh-fivesteps-u4-049",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Caravels were small, nimble ships, not the largest afloat.",
-   "B": "Correct. The hybrid sail plan let caravels sail both with and against prevailing winds.",
-   "C": "Wrong. Sails, not just cannons, were the breakthrough; maneuverability opened the ocean.",
-   "D": "Wrong. The sail combination was precisely what made the caravel revolutionary."
+  {
+    "difficulty": "hard",
+    "explanation": "Square sails drove ships before the wind; lateen sails let them tack against it. The caravel's hybrid rig could do both, freeing Portuguese sailors from the wind patterns that had trapped earlier vessels and opening the Atlantic to systematic exploration.",
+    "id": "wh-fivesteps-u4-049",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Caravels were small, nimble ships, not the largest afloat.",
+      "B": "Correct. The hybrid sail plan let caravels sail both with and against prevailing winds.",
+      "C": "Wrong. Sails, not just cannons, were the breakthrough; maneuverability opened the ocean.",
+      "D": "Wrong. The sail combination was precisely what made the caravel revolutionary."
+    },
+    "options": [
+      "(A) It was the largest ship ever built",
+      "(B) Its hybrid sails let it sail both with and against prevailing winds",
+      "(C) It carried only cannons, no sails",
+      "(D) Sail design was irrelevant to exploration; only cannons and hull size mattered"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-046",
+    "source_stimulus_words": 68,
+    "stem": "The caravel combined square sails with lateen sails. Why did this matter for exploration?",
+    "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
+    "stimulus_words": 58,
+    "themes": [
+      "TEC",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) It was the largest ship ever built",
-   "(B) Its hybrid sails let it sail both with and against prevailing winds",
-   "(C) It carried only cannons, no sails",
-   "(D) Sail design was irrelevant to exploration"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-046",
-  "source_stimulus_words": 68,
-  "stem": "The caravel combined square sails with lateen sails. Why did this matter for exploration?",
-  "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
-  "stimulus_words": 58,
-  "themes": [
-   "TEC",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Mercantilists equated national power with hoards of gold and silver. A favorable balance of trade, selling more than buying, would be settled in bullion flowing into the treasury, so governments promoted exports, restricted imports, and seized colonies as sources of precious metal.",
-  "id": "wh-fivesteps-u4-050",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Mercantilists promoted exports; they did not consider imports virtuous.",
-   "B": "Correct. Trade surpluses would be paid in bullion, which mercantilists equated with national power.",
-   "C": "Wrong. Gold and silver were the very measure of wealth in mercantilist thought.",
-   "D": "Wrong. Trade policy was central to mercantilist statecraft."
+  {
+    "difficulty": "hard",
+    "explanation": "Mercantilists equated national power with hoards of gold and silver. A favorable balance of trade, selling more than buying, would be settled in bullion flowing into the treasury, so governments promoted exports, restricted imports, and seized colonies as sources of precious metal.",
+    "id": "wh-fivesteps-u4-050",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Mercantilists promoted exports; they did not consider imports virtuous.",
+      "B": "Wrong. Gold and silver were the very measure of wealth in mercantilist thought.",
+      "C": "Wrong. Trade policy was central to mercantilist statecraft.",
+      "D": "Correct. Trade surpluses would be paid in bullion, which mercantilists equated with national power."
+    },
+    "options": [
+      "(A) Imports are more valuable than exports because they bring desirable foreign goods home",
+      "(B) Gold and silver are worthless",
+      "(C) Trade policy does not matter",
+      "(D) Trade surpluses would be paid in gold and silver, the measure of power"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-047",
+    "source_stimulus_words": 68,
+    "stem": "Mercantilists believed a nation must export more than it imports. Why?",
+    "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
+    "stimulus_words": 58,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Imports are more valuable than exports",
-   "(B) Trade surpluses would be paid in gold and silver, the measure of national power",
-   "(C) Gold and silver are worthless",
-   "(D) Trade policy does not matter"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-047",
-  "source_stimulus_words": 68,
-  "stem": "Mercantilists believed a nation must export more than it imports. Why?",
-  "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
-  "stimulus_words": 58,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "For two and a half centuries the galleons linked three continents: American silver bought Asian silks, spices, and porcelain, which sailed to Acapulco and on to Europe. A single commercial circuit bound Manila, Mexico City, and Seville together, the first truly global trade network.",
-  "id": "wh-fivesteps-u4-051",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The galleons prove Asia was deeply connected to world trade, not isolated.",
-   "B": "Correct. The galleon circuit linked Asian goods, American silver, and European markets in one system.",
-   "C": "Wrong. Mexican silver flowed across the Pacific to Asia; it did not stay home.",
-   "D": "Wrong. The galleons sailed annually for 250 years."
+  {
+    "difficulty": "hard",
+    "explanation": "For two and a half centuries the galleons linked three continents: American silver bought Asian silks, spices, and porcelain, which sailed to Acapulco and on to Europe. A single commercial circuit bound Manila, Mexico City, and Seville together, the first truly global trade network.",
+    "id": "wh-fivesteps-u4-051",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The galleons prove Asia was deeply connected to world trade, not isolated.",
+      "B": "Wrong. Mexican silver flowed across the Pacific to Asia; it did not stay home.",
+      "C": "Correct. The galleon circuit linked Asian goods, American silver, and European markets in one system.",
+      "D": "Wrong. The galleons sailed annually for 250 years."
+    },
+    "options": [
+      "(A) Asia was isolated from world trade",
+      "(B) Mexican silver never left the Americas, piling up uselessly in colonial vaults",
+      "(C) A single commercial circuit linked Asia, the Americas, and Europe",
+      "(D) The galleons sailed only once"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-048",
+    "source_stimulus_words": 68,
+    "stem": "The Manila galleons carried Chinese porcelain to Mexico and Mexican silver to Asia for 250 years. What does this show?",
+    "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
+    "stimulus_words": 58,
+    "themes": [
+      "GOV",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Asia was isolated from world trade",
-   "(B) A single commercial circuit linked Asia, the Americas, and Europe",
-   "(C) Mexican silver never left the Americas",
-   "(D) The galleons sailed only once"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-048",
-  "source_stimulus_words": 68,
-  "stem": "The Manila galleons carried Chinese porcelain to Mexico and Mexican silver to Asia for 250 years. What does this show?",
-  "stimulus": "Paraphrase of Daniel Boorstin, The Discoverers (1983): Within decades of Columbus's voyages, the European world was transformed. The dominant Island of the Earth, the connected landmass of Afro-Eurasia, was displaced by a dominant Ocean of the Earth, the connected body of water covering most of the surface. Never had the arena of human experience been so suddenly revised.",
-  "stimulus_words": 58,
-  "themes": [
-   "GOV",
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Perestroika meant rebuilding the Soviet economic machine: state enterprises would get initiative, private plots and cooperatives would be legalized, and plan targets would bend to market signals. Gorbachev hoped to save socialism by grafting market incentives onto it.",
-  "id": "wh-fivesteps-u8-014",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Perestroika targeted the economy, not the armed forces.",
-   "B": "Correct. Restructuring meant introducing market mechanisms and enterprise initiative into central planning.",
-   "C": "Wrong. The alphabet was not the target of reform.",
-   "D": "Wrong. Perestroika was an ambitious reform program, not inaction."
+  {
+    "difficulty": "hard",
+    "explanation": "Perestroika meant rebuilding the Soviet economic machine: state enterprises would get initiative, private plots and cooperatives would be legalized, and plan targets would bend to market signals. Gorbachev hoped to save socialism by grafting market incentives onto it.",
+    "id": "wh-fivesteps-u8-014",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Perestroika targeted the economy, not the armed forces.",
+      "B": "Wrong. The alphabet was not the target of reform.",
+      "C": "Wrong. Perestroika was an ambitious reform program, not inaction.",
+      "D": "Correct. Restructuring meant introducing market mechanisms and enterprise initiative into central planning."
+    },
+    "options": [
+      "(A) The bloated Soviet army, its command structure, and military doctrine",
+      "(B) The Russian alphabet",
+      "(C) Nothing at all",
+      "(D) The rigid centrally planned economy, through market mechanisms"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-014",
+    "source_stimulus_words": 279,
+    "stem": "Gorbachev called for perestroika, 'restructuring.' What was he trying to restructure?",
+    "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
+    "stimulus_words": 110,
+    "themes": [
+      "GOV",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) The Soviet army",
-   "(B) The rigid centrally planned economy, through market mechanisms",
-   "(C) The Russian alphabet",
-   "(D) Nothing at all"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-014",
-  "source_stimulus_words": 279,
-  "stem": "Gorbachev called for perestroika, 'restructuring.' What was he trying to restructure?",
-  "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
-  "stimulus_words": 110,
-  "themes": [
-   "GOV",
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "The American economy, roughly twice the Soviet Union's size and far more innovative, could absorb massive defense spending; the Soviet planned economy could not. Every ruble for missiles was a ruble stolen from farms and factories, and the strain helped break the system.",
-  "id": "wh-fivesteps-u8-015",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Soviet Union maintained enormous armed forces; the problem was affording them.",
-   "B": "Correct. The inefficient planned economy could not match US military spending without starving civilian sectors.",
-   "C": "Wrong. The United States rearmed massively under Reagan; it did not disarm.",
-   "D": "Wrong. The American economy was far larger and more productive than the Soviet one."
+  {
+    "difficulty": "hard",
+    "explanation": "The American economy, roughly twice the Soviet Union's size and far more innovative, could absorb massive defense spending; the Soviet planned economy could not. Every ruble for missiles was a ruble stolen from farms and factories, and the strain helped break the system.",
+    "id": "wh-fivesteps-u8-015",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The Soviet Union maintained enormous armed forces; the problem was affording them.",
+      "B": "Wrong. The United States rearmed massively under Reagan; it did not disarm.",
+      "C": "Correct. The inefficient planned economy could not match US military spending without starving civilian sectors.",
+      "D": "Wrong. The American economy was far larger and more productive than the Soviet one."
+    },
+    "options": [
+      "(A) The USSR had no army to fund",
+      "(B) The United States disarmed in the 1980s",
+      "(C) Its inefficient planned economy could not match US defense spending",
+      "(D) The Soviet economy was larger than America's and far more productive in every sector"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-015",
+    "source_stimulus_words": 279,
+    "stem": "Reagan's military buildup in the 1980s pressured the Soviet economy. Why couldn't the USSR keep up?",
+    "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
+    "stimulus_words": 110,
+    "themes": [
+      "GOV",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) The USSR had no army to fund",
-   "(B) Its inefficient planned economy could not match US defense spending",
-   "(C) The United States disarmed in the 1980s",
-   "(D) The Soviet economy was larger than America's"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-015",
-  "source_stimulus_words": 279,
-  "stem": "Reagan's military buildup in the 1980s pressured the Soviet economy. Why couldn't the USSR keep up?",
-  "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
-  "stimulus_words": 110,
-  "themes": [
-   "GOV",
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "The hardliners seized Gorbachev to stop the union's dissolution, but Boris Yeltsin defied them from atop a tank, and the army refused to fire. The coup collapsed in three days, destroying the Communist Party's authority and leaving Yeltsin's Russia as the real power; the USSR formally dissolved four months later.",
-  "id": "wh-fivesteps-u8-016",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The coup hastened the Soviet collapse; it did not prevent it.",
-   "B": "Correct. The failed coup destroyed the Party's authority and transferred real power to Yeltsin, dooming the Union.",
-   "C": "Wrong. Gorbachev emerged politically finished, not strengthened.",
-   "D": "Wrong. The coup triggered the chain of events that ended the Soviet Union."
+  {
+    "difficulty": "hard",
+    "explanation": "The hardliners seized Gorbachev to stop the union's dissolution, but Boris Yeltsin defied them from atop a tank, and the army refused to fire. The coup collapsed in three days, destroying the Communist Party's authority and leaving Yeltsin's Russia as the real power; the USSR formally dissolved four months later.",
+    "id": "wh-fivesteps-u8-016",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The coup hastened the Soviet collapse; it did not prevent it.",
+      "B": "Wrong. Gorbachev emerged politically finished, not strengthened.",
+      "C": "Wrong. The coup triggered the chain of events that ended the Soviet Union.",
+      "D": "Correct. The failed coup destroyed the Party's authority and transferred real power to Yeltsin, dooming the Union."
+    },
+    "options": [
+      "(A) It saved the Soviet Union",
+      "(B) It made Gorbachev stronger",
+      "(C) It had no historical significance and changed nothing in Soviet politics at all",
+      "(D) Its failure destroyed the Party's authority and doomed the Union"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-016",
+    "source_stimulus_words": 279,
+    "stem": "In August 1991 Soviet hardliners tried to overthrow Gorbachev. What was the coup's effect?",
+    "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
+    "stimulus_words": 110,
+    "themes": [
+      "GOV",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) It saved the Soviet Union",
-   "(B) Its failure destroyed the Party's authority and doomed the Union",
-   "(C) It made Gorbachev stronger",
-   "(D) It had no historical significance"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-016",
-  "source_stimulus_words": 279,
-  "stem": "In August 1991 Soviet hardliners tried to overthrow Gorbachev. What was the coup's effect?",
-  "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
-  "stimulus_words": 110,
-  "themes": [
-   "GOV",
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "Beijing watched Moscow's experiment and drew the opposite conclusion: Deng's market reforms had delivered growth, while Gorbachev's political opening delivered collapse. The Party's lesson, enforced at Tiananmen in 1989, was that economic liberalization must never be paired with political liberalization.",
-  "id": "wh-fivesteps-u8-017",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. China rejected Gorbachev's political reforms; it did not copy them.",
-   "B": "Correct. Beijing concluded that political opening, not market reform, destroyed the USSR, and kept its own politics closed.",
-   "C": "Wrong. China deepened its market reforms after 1989; it did not abandon them.",
-   "D": "Wrong. The Soviet Union collapsed; it did not succeed."
+  {
+    "difficulty": "hard",
+    "explanation": "Beijing watched Moscow's experiment and drew the opposite conclusion: Deng's market reforms had delivered growth, while Gorbachev's political opening delivered collapse. The Party's lesson, enforced at Tiananmen in 1989, was that economic liberalization must never be paired with political liberalization.",
+    "id": "wh-fivesteps-u8-017",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. China rejected Gorbachev's political reforms; it did not copy them.",
+      "B": "Wrong. China deepened its market reforms after 1989; it did not abandon them.",
+      "C": "Wrong. The Soviet Union collapsed; it did not succeed.",
+      "D": "Correct. Beijing concluded that political opening, not market reform, destroyed the USSR, and kept its own politics closed."
+    },
+    "options": [
+      "(A) China copied Gorbachev's political reforms and opened the system to multiparty elections",
+      "(B) China abandoned all reform",
+      "(C) The Soviet Union succeeded",
+      "(D) Market reform was safe but political reform fatal, so the Party kept politics closed"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-017",
+    "source_stimulus_words": 279,
+    "stem": "China liberalized its economy but kept one-party rule; the USSR liberalized politics and collapsed. What lesson did Beijing draw?",
+    "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
+    "stimulus_words": 110,
+    "themes": [
+      "GOV",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) China copied Gorbachev's political reforms",
-   "(B) Economic reform was safe but political reform was fatal, so the Party kept politics closed",
-   "(C) China abandoned all reform",
-   "(D) The Soviet Union succeeded"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-017",
-  "source_stimulus_words": 279,
-  "stem": "China liberalized its economy but kept one-party rule; the USSR liberalized politics and collapsed. What lesson did Beijing draw?",
-  "stimulus": "Paraphrase of Mikhail Gorbachev's speeches to the Communist Party congress (1985): The Soviet Union will expand cooperation with socialist states and supports peoples struggling against colonial oppression; Asia, Africa, and Latin America are our friends in the fight for peace. But the United States pursues a gigantic space weapons program and builds ever newer arms, hoping its technological edge will defeat socialism through war or blackmail. Only democratization can build a healthy, dynamic economy: radical reform must blend planning with the market, harmonize forms of socialist ownership, and free producers' initiative. A new farm policy will dismantle administrative command in agriculture, restoring the peasant's control over land, machinery, and produce.",
-  "stimulus_words": 110,
-  "themes": [
-   "GOV",
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "The resolution proposed ending the British mandate and creating independent Arab and Jewish states with an economic union, Jerusalem under international control. Jewish leaders accepted; Arab leaders rejected partition outright, and civil war began even before Israel declared independence in May 1948.",
-  "id": "wh-fivesteps-u8-018",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Arab leaders rejected the plan; only the Jewish side accepted it.",
-   "B": "Correct. The plan proposed two states; Arab rejection and war followed Israel's 1948 declaration.",
-   "C": "Wrong. The UN had no army to impose the plan; war decided the outcome.",
-   "D": "Wrong. Resolution 181 was adopted in November 1947; it was very real."
+  {
+    "difficulty": "hard",
+    "explanation": "The resolution proposed ending the British mandate and creating independent Arab and Jewish states with an economic union, Jerusalem under international control. Jewish leaders accepted; Arab leaders rejected partition outright, and civil war began even before Israel declared independence in May 1948.",
+    "id": "wh-fivesteps-u8-018",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Arab leaders rejected the plan; only the Jewish side accepted it.",
+      "B": "Wrong. The UN had no army to impose the plan; war decided the outcome.",
+      "C": "Correct. The plan proposed two states; Arab rejection and war followed Israel's 1948 declaration.",
+      "D": "Wrong. Resolution 181 was adopted in November 1947; it was very real."
+    },
+    "options": [
+      "(A) Both sides accepted it peacefully and implemented the partition without conflict",
+      "(B) The UN imposed it by force",
+      "(C) It proposed Arab and Jewish states; Arab rejection led to war",
+      "(D) It was never actually proposed"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u7-025",
+    "source_stimulus_words": 240,
+    "stem": "UN Resolution 181 (1947) proposed the partition of Palestine. What happened to the plan?",
+    "stimulus": "Paraphrase of UN Resolution 181 (II) on the future government of Palestine (1947): The General Assembly, acting on its special committee's report, finds that Palestine's situation threatens friendly relations among nations. It recommends that Britain, as the mandatory power, and all UN members adopt the Plan of Partition with Economic Union: independent Arab and Jewish states, with a special international regime for Jerusalem, to come into being after the British evacuation, no later than October 1948.",
+    "stimulus_words": 76,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) Both sides accepted it peacefully",
-   "(B) It proposed Arab and Jewish states; Arab rejection led to war",
-   "(C) The UN imposed it by force",
-   "(D) It was never actually proposed"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u7-025",
-  "source_stimulus_words": 240,
-  "stem": "UN Resolution 181 (1947) proposed the partition of Palestine. What happened to the plan?",
-  "stimulus": "Paraphrase of UN Resolution 181 (II) on the future government of Palestine (1947): The General Assembly, acting on its special committee's report, finds that Palestine's situation threatens friendly relations among nations. It recommends that Britain, as the mandatory power, and all UN members adopt the Plan of Partition with Economic Union: independent Arab and Jewish states, with a special international regime for Jerusalem, to come into being after the British evacuation, no later than October 1948.",
-  "stimulus_words": 76,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "Jerusalem holds Judaism's Temple Mount, Christianity's Holy Sepulchre, and Islam's Al-Aqsa Mosque. No partition could award the city to one community without outraging the other two, so the UN proposed neutralizing it under international administration.",
-  "id": "wh-fivesteps-u7-022",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Jerusalem was a living, contested city, not empty.",
-   "B": "Correct. The city's holiness to three faiths made assigning it to one side impossible without inflaming all.",
-   "C": "Wrong. All three communities cared intensely about Jerusalem.",
-   "D": "Wrong. The UN proposed international status precisely to avoid making it anyone's capital."
+  {
+    "difficulty": "hard",
+    "explanation": "Jerusalem holds Judaism's Temple Mount, Christianity's Holy Sepulchre, and Islam's Al-Aqsa Mosque. No partition could award the city to one community without outraging the other two, so the UN proposed neutralizing it under international administration.",
+    "id": "wh-fivesteps-u7-022",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Jerusalem was a living, contested city, not empty.",
+      "B": "Wrong. All three communities cared intensely about Jerusalem.",
+      "C": "Correct. The city's holiness to three faiths made assigning it to one side impossible without inflaming all.",
+      "D": "Wrong. The UN proposed international status precisely to avoid making it anyone's capital."
+    },
+    "options": [
+      "(A) Jerusalem was uninhabited",
+      "(B) Nobody cared about Jerusalem",
+      "(C) Sacred to three faiths, Jerusalem could be given to no side",
+      "(D) The UN wanted Jerusalem as its permanent capital and world headquarters"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-018",
+    "source_stimulus_words": 240,
+    "stem": "The partition plan placed Jerusalem under a special international regime rather than assigning it to either state. Why?",
+    "stimulus": "Paraphrase of UN Resolution 181 (II) on the future government of Palestine (1947): The General Assembly, acting on its special committee's report, finds that Palestine's situation threatens friendly relations among nations. It recommends that Britain, as the mandatory power, and all UN members adopt the Plan of Partition with Economic Union: independent Arab and Jewish states, with a special international regime for Jerusalem, to come into being after the British evacuation, no later than October 1948.",
+    "stimulus_words": 76,
+    "themes": [
+      "GOV",
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) Jerusalem was uninhabited",
-   "(B) The city is sacred to Jews, Christians, and Muslims, so no side could be given it",
-   "(C) Nobody cared about Jerusalem",
-   "(D) The UN wanted Jerusalem as its capital"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-018",
-  "source_stimulus_words": 240,
-  "stem": "The partition plan placed Jerusalem under a special international regime rather than assigning it to either state. Why?",
-  "stimulus": "Paraphrase of UN Resolution 181 (II) on the future government of Palestine (1947): The General Assembly, acting on its special committee's report, finds that Palestine's situation threatens friendly relations among nations. It recommends that Britain, as the mandatory power, and all UN members adopt the Plan of Partition with Economic Union: independent Arab and Jewish states, with a special international regime for Jerusalem, to come into being after the British evacuation, no later than October 1948.",
-  "stimulus_words": 76,
-  "themes": [
-   "GOV",
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "Mountbatten rushed the British exit to August 1947, giving Cyril Radcliffe five weeks to draw the border. Communities that had lived intermingled for centuries suddenly found themselves on the 'wrong' side, and the result was history's largest mass migration and communal slaughter on a horrific scale.",
-  "id": "wh-fivesteps-u7-023",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Partition brought mass violence, not a peaceful transfer.",
-   "B": "Correct. A border drawn in five weeks stranded millions on the wrong side, producing mass migration and slaughter.",
-   "C": "Wrong. Some 15 million people were displaced; migration was enormous.",
-   "D": "Wrong. Partition divided the subcontinent into India and Pakistan."
+  {
+    "difficulty": "hard",
+    "explanation": "Mountbatten rushed the British exit to August 1947, giving Cyril Radcliffe five weeks to draw the border. Communities that had lived intermingled for centuries suddenly found themselves on the 'wrong' side, and the result was history's largest mass migration and communal slaughter on a horrific scale.",
+    "id": "wh-fivesteps-u7-023",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. A border drawn in five weeks stranded millions on the wrong side, producing mass migration and slaughter.",
+      "B": "Wrong. Partition brought mass violence, not a peaceful transfer.",
+      "C": "Wrong. Some 15 million people were displaced; migration was enormous.",
+      "D": "Wrong. Partition divided the subcontinent into India and Pakistan."
+    },
+    "options": [
+      "(A) A hastily drawn border stranded millions, causing mass migration and slaughter",
+      "(B) A peaceful transfer of power",
+      "(C) No population movement at all; everyone stayed exactly where they had always lived",
+      "(D) India remained united"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u8-019",
+    "source_stimulus_words": 240,
+    "stem": "British India was partitioned in a matter of weeks in 1947. What resulted from the haste?",
+    "stimulus": "Paraphrase of UN Resolution 181 (II) on the future government of Palestine (1947): The General Assembly, acting on its special committee's report, finds that Palestine's situation threatens friendly relations among nations. It recommends that Britain, as the mandatory power, and all UN members adopt the Plan of Partition with Economic Union: independent Arab and Jewish states, with a special international regime for Jerusalem, to come into being after the British evacuation, no later than October 1948.",
+    "stimulus_words": 76,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7
   },
-  "options": [
-   "(A) A peaceful transfer of power",
-   "(B) A hastily drawn border that stranded millions, producing mass migration and slaughter",
-   "(C) No population movement at all",
-   "(D) India remained united"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u8-019",
-  "source_stimulus_words": 240,
-  "stem": "British India was partitioned in a matter of weeks in 1947. What resulted from the haste?",
-  "stimulus": "Paraphrase of UN Resolution 181 (II) on the future government of Palestine (1947): The General Assembly, acting on its special committee's report, finds that Palestine's situation threatens friendly relations among nations. It recommends that Britain, as the mandatory power, and all UN members adopt the Plan of Partition with Economic Union: independent Arab and Jewish states, with a special international regime for Jerusalem, to come into being after the British evacuation, no later than October 1948.",
-  "stimulus_words": 76,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 7
- },
- {
-  "difficulty": "hard",
-  "explanation": "The chart shows global life expectancy climbing, but sub-Saharan Africa trailing far behind. The gap reflects disease burden: malaria, tuberculosis, HIV/AIDS, and weak health systems, the epidemiological profile of poverty, not of genes or climate alone.",
-  "id": "wh-fivesteps-u9-018",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. No genetic difference explains the continental gap; disease and poverty do.",
-   "B": "Correct. Poverty-related diseases and weaker health infrastructure explain Africa's lower life expectancy.",
-   "C": "Wrong. Climate is a factor in disease ecology, but poverty and health systems explain the gap.",
-   "D": "Wrong. Africans age like all humans; the issue is premature death from preventable causes."
+  {
+    "difficulty": "hard",
+    "explanation": "The chart shows global life expectancy climbing, but sub-Saharan Africa trailing far behind. The gap reflects disease burden: malaria, tuberculosis, HIV/AIDS, and weak health systems, the epidemiological profile of poverty, not of genes or climate alone.",
+    "id": "wh-fivesteps-u9-018",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Poverty-related diseases and weaker health infrastructure explain Africa's lower life expectancy.",
+      "B": "Wrong. No genetic difference explains the continental gap; disease and poverty do.",
+      "C": "Wrong. Climate is a factor in disease ecology, but poverty and health systems explain the gap.",
+      "D": "Wrong. Africans age like all humans; the issue is premature death from preventable causes."
+    },
+    "options": [
+      "(A) Poverty-related disease burden and weaker health systems",
+      "(B) Genetic differences between populations explain the entire gap",
+      "(C) Climate alone",
+      "(D) Africans do not age"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-019",
+    "source_stimulus_words": 0,
+    "stem": "The chart shows life expectancy rising worldwide but lowest in sub-Saharan Africa. What best explains the gap?",
+    "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
+    "stimulus_words": 32,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Genetic differences between populations",
-   "(B) Poverty-related disease burden and weaker health systems",
-   "(C) Climate alone",
-   "(D) Africans do not age"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-019",
-  "source_stimulus_words": 0,
-  "stem": "The chart shows life expectancy rising worldwide but lowest in sub-Saharan Africa. What best explains the gap?",
-  "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
-  "stimulus_words": 32,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "medium",
-  "explanation": "When sanitation, vaccines, and antibiotics let most people survive childhood and middle age, populations live long enough for chronic diseases of aging to appear. Rising Alzheimer's and heart disease rates are, paradoxically, evidence of public-health success.",
-  "id": "wh-fivesteps-u9-019",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Modern medicine extends life; it does not cause these diseases.",
-   "B": "Correct. Longer lives mean more people reach the ages when chronic diseases strike.",
-   "C": "Wrong. Aging is biological, but the rising rates reflect more people surviving to old age.",
-   "D": "Wrong. Vaccines prevent disease; they do not cause Alzheimer's."
+  {
+    "difficulty": "medium",
+    "explanation": "When sanitation, vaccines, and antibiotics let most people survive childhood and middle age, populations live long enough for chronic diseases of aging to appear. Rising Alzheimer's and heart disease rates are, paradoxically, evidence of public-health success.",
+    "id": "wh-fivesteps-u9-019",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Modern medicine extends life; it does not cause these diseases.",
+      "B": "Correct. Longer lives mean more people reach the ages when chronic diseases strike.",
+      "C": "Wrong. Aging is biological, but the rising rates reflect more people surviving to old age.",
+      "D": "Wrong. Vaccines prevent disease; they do not cause Alzheimer's."
+    },
+    "options": [
+      "(A) Modern medicine causes these diseases through its drugs and treatments",
+      "(B) People live long enough to develop diseases of old age",
+      "(C) Old people are inherently unhealthy",
+      "(D) Vaccines cause Alzheimer's"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-020",
+    "source_stimulus_words": 0,
+    "stem": "As life expectancy rises in wealthy countries, rates of heart disease and Alzheimer's increase. Why?",
+    "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
+    "stimulus_words": 32,
+    "themes": [
+      "ENV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Modern medicine causes these diseases",
-   "(B) People live long enough to develop diseases of old age",
-   "(C) Old people are inherently unhealthy",
-   "(D) Vaccines cause Alzheimer's"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-020",
-  "source_stimulus_words": 0,
-  "stem": "As life expectancy rises in wealthy countries, rates of heart disease and Alzheimer's increase. Why?",
-  "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
-  "stimulus_words": 32,
-  "themes": [
-   "ENV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "Warm, wet tropical climates breed the Anopheles mosquitoes that carry malaria, and poverty means too few bed nets, too little drainage, and too little medicine. The disease persists where ecology favors the mosquito and economics deny the defenses.",
-  "id": "wh-fivesteps-u9-020",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Malaria is ancient; its persistence reflects ecology and poverty, not novelty.",
-   "B": "Correct. Tropical mosquito ecology plus poverty-limited prevention keeps malaria entrenched.",
-   "C": "Wrong. Africans suffer malaria terribly; no population immunity explains its persistence.",
-   "D": "Wrong. Cold does kill mosquitoes, but the question is why malaria persists in the tropics."
-  },
-  "options": [
-   "(A) Malaria is a new disease",
-   "(B) Tropical mosquito ecology combined with poverty-limited prevention",
-   "(C) Africans are immune to malaria",
-   "(D) Cold weather spreads malaria"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u9-021",
-  "source_stimulus_words": 0,
-  "stem": "Malaria kills hundreds of thousands yearly, mostly in Africa. Why has it persisted there?",
-  "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
-  "stimulus_words": 32,
-  "themes": [
-   "ENV",
-   "SIO",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 9
- }
+  {
+    "difficulty": "hard",
+    "explanation": "Warm, wet tropical climates breed the Anopheles mosquitoes that carry malaria, and poverty means too few bed nets, too little drainage, and too little medicine. The disease persists where ecology favors the mosquito and economics deny the defenses.",
+    "id": "wh-fivesteps-u9-020",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Malaria is ancient; its persistence reflects ecology and poverty, not novelty.",
+      "B": "Correct. Tropical mosquito ecology plus poverty-limited prevention keeps malaria entrenched.",
+      "C": "Wrong. Africans suffer malaria terribly; no population immunity explains its persistence.",
+      "D": "Wrong. Cold does kill mosquitoes, but the question is why malaria persists in the tropics."
+    },
+    "options": [
+      "(A) Malaria is a new disease",
+      "(B) Tropical mosquito ecology combined with poverty-limited prevention",
+      "(C) Africans are naturally immune to malaria after centuries of exposure to the parasite",
+      "(D) Cold weather spreads malaria"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u9-021",
+    "source_stimulus_words": 0,
+    "stem": "Malaria kills hundreds of thousands yearly, mostly in Africa. Why has it persisted there?",
+    "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
+    "stimulus_words": 32,
+    "themes": [
+      "ENV",
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 9
+  }
 ]

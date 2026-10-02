@@ -1,98 +1,98 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "The legal distinction turns on compulsion: refugees are defined by forced flight from persecution, war, or disaster, and international law — above all the 1951 Refugee Convention's principle of non-refoulement — forbids returning them to danger. Economic migrants, however sympathetic, enjoy no such treaty protection. (A) is wrong because numbers vary by crisis; the legal line is about cause, not headcount. (C) is wrong because migrants can and do naturalize in receiving countries. (D) is wrong because the terms carry very different legal consequences.",
-  "id": "wh-fivesteps-u9-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The legal distinction rests on the reason for flight, not on which group is more numerous.",
-   "B": "Correct. Refugees are legally protected against forced return to danger; economic migrants hold no equivalent treaty right.",
-   "C": "Wrong. Economic migrants can and do become citizens of receiving countries.",
-   "D": "Wrong. The two terms trigger very different obligations under international law."
+  {
+    "difficulty": "hard",
+    "explanation": "The legal distinction turns on compulsion: refugees are defined by forced flight from persecution, war, or disaster, and international law — above all the 1951 Refugee Convention's principle of non-refoulement — forbids returning them to danger. Economic migrants, however sympathetic, enjoy no such treaty protection. (A) is wrong because numbers vary by crisis; the legal line is about cause, not headcount. (C) is wrong because migrants can and do naturalize in receiving countries. (D) is wrong because the terms carry very different legal consequences.",
+    "id": "wh-fivesteps-u9-012",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The legal distinction rests on the reason for flight, not on which group is more numerous.",
+      "B": "Wrong. Economic migrants can and do become citizens of receiving countries.",
+      "C": "Wrong. The two terms trigger very different obligations under international law.",
+      "D": "Correct. Refugees are legally protected against forced return to danger; economic migrants hold no equivalent treaty right."
+    },
+    "options": [
+      "(A) Refugees are always more numerous than migrants",
+      "(B) Migrants can never become citizens of their new country",
+      "(C) The two terms are legally identical",
+      "(D) Refugees have a legal right to protection against forced return; economic migrants do not"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u9-013",
+    "source_stimulus_words": 180,
+    "stem": "Under international law, why does the distinction between 'migrant' and 'refugee' matter?",
+    "stimulus": "They keep coming — farmhands and bricklayers, nannies and teachers, programmers and laborers — millions of people leaving home each year for work, higher pay, or simply a better life. Roughly 190 million people now live outside their country of birth, and two to three million more join them annually. Among them are some ten million refugees, driven out by war, famine, or persecution. Bangladeshi workers fly to Malaysian construction sites; West Africans crowd boats bound for Europe; Mexicans cross the northern border for American jobs. Though migrants are a small share of humanity, their movement reshapes the economies and politics of both the lands they leave and the lands they enter.",
+    "stimulus_words": 112,
+    "themes": [
+      "SIO",
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Refugees are always more numerous than migrants",
-   "(B) Refugees have a legal right to protection against forced return; economic migrants do not",
-   "(C) Migrants can never become citizens of their new country",
-   "(D) The two terms are legally identical"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u9-013",
-  "source_stimulus_words": 180,
-  "stem": "Under international law, why does the distinction between 'migrant' and 'refugee' matter?",
-  "stimulus": "They keep coming — farmhands and bricklayers, nannies and teachers, programmers and laborers — millions of people leaving home each year for work, higher pay, or simply a better life. Roughly 190 million people now live outside their country of birth, and two to three million more join them annually. Among them are some ten million refugees, driven out by war, famine, or persecution. Bangladeshi workers fly to Malaysian construction sites; West Africans crowd boats bound for Europe; Mexicans cross the northern border for American jobs. Though migrants are a small share of humanity, their movement reshapes the economies and politics of both the lands they leave and the lands they enter.",
-  "stimulus_words": 112,
-  "themes": [
-   "SIO",
-   "GOV",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "Remittances — money migrants send to families back home — grew into one of the largest financial flows to the developing world, often exceeding foreign aid and investment. They pay for food, schooling, and housing, making migrants pivotal economic actors for their countries of origin. (A) is wrong because remittances go overwhelmingly to families, not governments. (C) is wrong because the sums involved demonstrably transform household economies. (D) is wrong because the flow runs from richer receiving countries to poorer home countries, not the reverse.",
-  "id": "wh-fivesteps-u9-013",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Remittances flow overwhelmingly to migrant families, not to governments.",
-   "B": "Correct. Hundreds of billions sent home annually make migrants major economic actors for their countries of origin.",
-   "C": "Wrong. The scale of remittance flows demonstrably transforms household and national economies.",
-   "D": "Wrong. Remittances flow from wealthier receiving countries to poorer home countries, not the reverse."
+  {
+    "difficulty": "hard",
+    "explanation": "Remittances — money migrants send to families back home — grew into one of the largest financial flows to the developing world, often exceeding foreign aid and investment. They pay for food, schooling, and housing, making migrants pivotal economic actors for their countries of origin. (A) is wrong because remittances go overwhelmingly to families, not governments. (C) is wrong because the sums involved demonstrably transform household economies. (D) is wrong because the flow runs from richer receiving countries to poorer home countries, not the reverse.",
+    "id": "wh-fivesteps-u9-013",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Remittances flow overwhelmingly to migrant families, not to governments.",
+      "B": "Correct. Hundreds of billions sent home annually make migrants major economic actors for their countries of origin.",
+      "C": "Wrong. The scale of remittance flows demonstrably transforms household and national economies.",
+      "D": "Wrong. Remittances flow from wealthier receiving countries to poorer home countries, not the reverse."
+    },
+    "options": [
+      "(A) Remittances are paid only to governments",
+      "(B) Migrants redistribute income globally, becoming major economic actors for their home countries",
+      "(C) Migration has no measurable economic effects",
+      "(D) Remittances flow from poor countries to rich ones"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-014",
+    "source_stimulus_words": 180,
+    "stem": "By the 2020s, migrants were sending home over $800 billion a year in remittances. What does this reveal about migration's economic impact?",
+    "stimulus": "They keep coming — farmhands and bricklayers, nannies and teachers, programmers and laborers — millions of people leaving home each year for work, higher pay, or simply a better life. Roughly 190 million people now live outside their country of birth, and two to three million more join them annually. Among them are some ten million refugees, driven out by war, famine, or persecution. Bangladeshi workers fly to Malaysian construction sites; West Africans crowd boats bound for Europe; Mexicans cross the northern border for American jobs. Though migrants are a small share of humanity, their movement reshapes the economies and politics of both the lands they leave and the lands they enter.",
+    "stimulus_words": 112,
+    "themes": [
+      "SIO",
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Remittances are paid only to governments",
-   "(B) Migrants redistribute income globally, becoming major economic actors for their home countries",
-   "(C) Migration has no measurable economic effects",
-   "(D) Remittances flow from poor countries to rich ones"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-014",
-  "source_stimulus_words": 180,
-  "stem": "By the 2020s, migrants were sending home over $800 billion a year in remittances. What does this reveal about migration's economic impact?",
-  "stimulus": "They keep coming — farmhands and bricklayers, nannies and teachers, programmers and laborers — millions of people leaving home each year for work, higher pay, or simply a better life. Roughly 190 million people now live outside their country of birth, and two to three million more join them annually. Among them are some ten million refugees, driven out by war, famine, or persecution. Bangladeshi workers fly to Malaysian construction sites; West Africans crowd boats bound for Europe; Mexicans cross the northern border for American jobs. Though migrants are a small share of humanity, their movement reshapes the economies and politics of both the lands they leave and the lands they enter.",
-  "stimulus_words": 112,
-  "themes": [
-   "SIO",
-   "GOV",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "A century ago Europe was poor and crowded, pushing emigrants outward; by the late twentieth century it had grown wealthy and its birthrates had fallen, turning it into a magnet for immigrants. Meanwhile, population growth and limited opportunity in developing regions supplied the emigrants. The push and pull reversed sides. (A) is wrong because the United States never banned all European immigration. (C) is wrong because Europe's population did not vanish; it stabilized. (D) is wrong because developing regions remained poorer on average; the gap is precisely what drives the flow.",
-  "id": "wh-fivesteps-u9-014",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The United States never imposed a total ban on European immigration.",
-   "B": "Correct. Prosperous, low-birthrate Europe became a destination, while developing regions supplied emigrants seeking opportunity.",
-   "C": "Wrong. Europe's population stabilized rather than vanished.",
-   "D": "Wrong. Developing regions remained poorer on average; that income gap is what drives the migration flow."
-  },
-  "options": [
-   "(A) The United States banned all European immigration",
-   "(B) Europe grew wealthy and became a destination while developing regions supplied emigrants",
-   "(C) Europe's population disappeared entirely",
-   "(D) Developing nations became richer than Europe"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u9-015",
-  "source_stimulus_words": 180,
-  "stem": "In the early 1900s, millions migrated from Europe to the Americas. By the late 1900s, the dominant direction had reversed. What best explains the reversal?",
-  "stimulus": "They keep coming — farmhands and bricklayers, nannies and teachers, programmers and laborers — millions of people leaving home each year for work, higher pay, or simply a better life. Roughly 190 million people now live outside their country of birth, and two to three million more join them annually. Among them are some ten million refugees, driven out by war, famine, or persecution. Bangladeshi workers fly to Malaysian construction sites; West Africans crowd boats bound for Europe; Mexicans cross the northern border for American jobs. Though migrants are a small share of humanity, their movement reshapes the economies and politics of both the lands they leave and the lands they enter.",
-  "stimulus_words": 112,
-  "themes": [
-   "SIO",
-   "GOV",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 9
- }
+  {
+    "difficulty": "hard",
+    "explanation": "A century ago Europe was poor and crowded, pushing emigrants outward; by the late twentieth century it had grown wealthy and its birthrates had fallen, turning it into a magnet for immigrants. Meanwhile, population growth and limited opportunity in developing regions supplied the emigrants. The push and pull reversed sides. (A) is wrong because the United States never banned all European immigration. (C) is wrong because Europe's population did not vanish; it stabilized. (D) is wrong because developing regions remained poorer on average; the gap is precisely what drives the flow.",
+    "id": "wh-fivesteps-u9-014",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Prosperous, low-birthrate Europe became a destination, while developing regions supplied emigrants seeking opportunity.",
+      "B": "Wrong. The United States never imposed a total ban on European immigration.",
+      "C": "Wrong. Europe's population stabilized rather than vanished.",
+      "D": "Wrong. Developing regions remained poorer on average; that income gap is what drives the migration flow."
+    },
+    "options": [
+      "(A) Europe grew wealthy and became a destination while developing regions supplied emigrants",
+      "(B) The United States banned all European immigration",
+      "(C) Europe's population disappeared entirely",
+      "(D) Developing nations became richer than Europe"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u9-015",
+    "source_stimulus_words": 180,
+    "stem": "In the early 1900s, millions migrated from Europe to the Americas. By the late 1900s, the dominant direction had reversed. What best explains the reversal?",
+    "stimulus": "They keep coming — farmhands and bricklayers, nannies and teachers, programmers and laborers — millions of people leaving home each year for work, higher pay, or simply a better life. Roughly 190 million people now live outside their country of birth, and two to three million more join them annually. Among them are some ten million refugees, driven out by war, famine, or persecution. Bangladeshi workers fly to Malaysian construction sites; West Africans crowd boats bound for Europe; Mexicans cross the northern border for American jobs. Though migrants are a small share of humanity, their movement reshapes the economies and politics of both the lands they leave and the lands they enter.",
+    "stimulus_words": 112,
+    "themes": [
+      "SIO",
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 9
+  }
 ]

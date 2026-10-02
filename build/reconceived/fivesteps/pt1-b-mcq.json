@@ -1,848 +1,848 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "Washington and Moscow fought Japan together in 1945, yet Bonesteel's account shows American officers already scheming to limit Soviet gains in Korea. The alliance was a temporary convergence against a common enemy, with mutual suspicion shaping every joint decision even before the war ended.",
-  "id": "wh-fivesteps-u8-008",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage shows cooperation, not open warfare; the two were still formal allies.",
-   "B": "Correct. They cooperated against Japan while already maneuvering against each other, an alliance of convenience fraying at the edges.",
-   "C": "Wrong. There was no personal friendship; every decision was calculated and wary.",
-   "D": "Wrong. The passage shows active, detailed coordination, not distant indifference."
+  {
+    "difficulty": "hard",
+    "explanation": "Washington and Moscow fought Japan together in 1945, yet Bonesteel's account shows American officers already scheming to limit Soviet gains in Korea. The alliance was a temporary convergence against a common enemy, with mutual suspicion shaping every joint decision even before the war ended.",
+    "id": "wh-fivesteps-u8-008",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. They cooperated against Japan while already maneuvering against each other, an alliance of convenience fraying at the edges.",
+      "B": "Wrong. The passage shows cooperation, not open warfare; the two were still formal allies.",
+      "C": "Wrong. There was no personal friendship; every decision was calculated and wary.",
+      "D": "Wrong. The passage shows active, detailed coordination, not distant indifference."
+    },
+    "options": [
+      "(A) An alliance of convenience already fraying with mutual suspicion",
+      "(B) Open enemies already at war",
+      "(C) Close and trusting friends",
+      "(D) Powers with no contact at all"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-008",
+    "source_stimulus_words": 157,
+    "stem": "The US and USSR cooperated against Japan in 1945 while American officers were already maneuvering to limit Soviet gains in Korea. What does this reveal about their relationship?",
+    "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
+    "stimulus_words": 60,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) Open enemies already at war",
-   "(B) An alliance of convenience already fraying with mutual suspicion",
-   "(C) Close and trusting friends",
-   "(D) Powers with no contact at all"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-008",
-  "source_stimulus_words": 157,
-  "stem": "The US and USSR cooperated against Japan in 1945 while American officers were already maneuvering to limit Soviet gains in Korea. What does this reveal about their relationship?",
-  "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
-  "stimulus_words": 60,
-  "themes": [
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "Washington built the Republic of Korea in the south and Moscow built the Democratic People's Republic in the north, each claiming all of Korea. Neither patron would sacrifice its client, so the 'temporary' line froze into a permanent frontier, then a war, then a standoff that endures today.",
-  "id": "wh-fivesteps-u8-009",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. No Korean vote created the division; it was imposed by the occupying powers.",
-   "B": "Correct. Each superpower built a rival Korean regime in its zone and neither would yield, freezing the temporary line permanently.",
-   "C": "Wrong. Japan had been expelled from Korea in 1945; it played no role in the division.",
-   "D": "Wrong. China did not impose the division; the US and USSR created the two zones."
+  {
+    "difficulty": "hard",
+    "explanation": "Washington built the Republic of Korea in the south and Moscow built the Democratic People's Republic in the north, each claiming all of Korea. Neither patron would sacrifice its client, so the 'temporary' line froze into a permanent frontier, then a war, then a standoff that endures today.",
+    "id": "wh-fivesteps-u8-009",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. No Korean vote created the division; it was imposed by the occupying powers.",
+      "B": "Wrong. Japan had been expelled from Korea in 1945; it played no role in the division.",
+      "C": "Wrong. China did not impose the division; the US and USSR created the two zones.",
+      "D": "Correct. Each superpower built a rival Korean regime in its zone and neither would yield, freezing the temporary line permanently."
+    },
+    "options": [
+      "(A) Koreans voted for division",
+      "(B) Japan redrew the border in 1950 during the outbreak of the Korean War to aid the South",
+      "(C) China imposed the division",
+      "(D) Each superpower built a rival regime in its zone and neither would yield"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-009",
+    "source_stimulus_words": 157,
+    "stem": "The 38th parallel was meant as a temporary surrender line. Why did it become a permanent border?",
+    "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
+    "stimulus_words": 60,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) Koreans voted for division",
-   "(B) Each superpower built a rival regime in its zone and neither would yield",
-   "(C) Japan redrew the border in 1950",
-   "(D) China imposed the division"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-009",
-  "source_stimulus_words": 157,
-  "stem": "The 38th parallel was meant as a temporary surrender line. Why did it become a permanent border?",
-  "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
-  "stimulus_words": 60,
-  "themes": [
-   "CDI",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "Containment, articulated by George Kennan, held that Soviet expansion must be blocked wherever it threatened, through alliances, aid, and force, without attempting to roll back communism where it already ruled. Drawing a line in Korea was containment in embryo.",
-  "id": "wh-fivesteps-u8-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Detente meant easing tensions in the 1970s, not blocking expansion.",
-   "B": "Correct. Containment meant preventing further communist expansion, which is what the Korean line attempted.",
-   "C": "Wrong. Rollback sought to overthrow existing communist regimes, a more aggressive goal.",
-   "D": "Wrong. Isolationism meant avoiding foreign commitments, the opposite of drawing lines in Korea."
+  {
+    "difficulty": "hard",
+    "explanation": "Containment, articulated by George Kennan, held that Soviet expansion must be blocked wherever it threatened, through alliances, aid, and force, without attempting to roll back communism where it already ruled. Drawing a line in Korea was containment in embryo.",
+    "id": "wh-fivesteps-u8-010",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Detente meant easing tensions in the 1970s, not blocking expansion.",
+      "B": "Wrong. Rollback sought to overthrow existing communist regimes, a more aggressive goal.",
+      "C": "Correct. Containment meant preventing further communist expansion, which is what the Korean line attempted.",
+      "D": "Wrong. Isolationism meant avoiding foreign commitments, the opposite of drawing lines in Korea."
+    },
+    "options": [
+      "(A) Detente",
+      "(B) Rollback",
+      "(C) Containment",
+      "(D) Isolationism"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-010",
+    "source_stimulus_words": 157,
+    "stem": "The US drew a line in Korea partly to limit how much territory the Soviets would occupy. Which later doctrine formalized this approach?",
+    "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
+    "stimulus_words": 60,
+    "themes": [
+      "GOV",
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) Detente",
-   "(B) Containment",
-   "(C) Rollback",
-   "(D) Isolationism"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-010",
-  "source_stimulus_words": 157,
-  "stem": "The US drew a line in Korea partly to limit how much territory the Soviets would occupy. Which later doctrine formalized this approach?",
-  "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
-  "stimulus_words": 60,
-  "themes": [
-   "GOV",
-   "SIO",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "Islamic law and custom trace lineage through the father, so a society passing inheritance through the maternal uncle startled him. His shock exposes the encounter between normative Islam and older African kinship systems: Mali's Muslims kept their matrilineal traditions alongside the new faith.",
-  "id": "wh-fivesteps-u1-029",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage shows Malians praying, studying law, and memorizing the Quran; they were serious Muslims.",
-   "B": "Correct. He expected patrilineal Islamic norms and found matrilineal African custom persisting alongside Islam.",
-   "C": "Wrong. Ibn Battuta was a Moroccan traveler, not a Malian.",
-   "D": "Wrong. Matrilineal descent contradicts standard Islamic patrilineal practice; that is why he was surprised."
+  {
+    "difficulty": "hard",
+    "explanation": "Islamic law and custom trace lineage through the father, so a society passing inheritance through the maternal uncle startled him. His shock exposes the encounter between normative Islam and older African kinship systems: Mali's Muslims kept their matrilineal traditions alongside the new faith.",
+    "id": "wh-fivesteps-u1-029",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The passage shows Malians praying, studying law, and memorizing the Quran; they were serious Muslims.",
+      "B": "Correct. He expected patrilineal Islamic norms and found matrilineal African custom persisting alongside Islam.",
+      "C": "Wrong. Ibn Battuta was a Moroccan traveler, not a Malian.",
+      "D": "Wrong. Matrilineal descent contradicts standard Islamic patrilineal practice; that is why he was surprised."
+    },
+    "options": [
+      "(A) The Malians were not really Muslims, merely pretending to pray for trade advantages",
+      "(B) He expected patrilineal Islamic norms but found matrilineal custom persisting",
+      "(C) Ibn Battuta was himself Malian",
+      "(D) Matrilineal descent is standard Islamic law"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-029",
+    "source_stimulus_words": 199,
+    "stem": "Ibn Battuta is astonished that Malians trace descent through the maternal uncle rather than the father. What does his surprise reveal?",
+    "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
+    "stimulus_words": 120,
+    "themes": [
+      "SIO",
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The Malians were not really Muslims",
-   "(B) He expected Islamic patrilineal norms and found African matrilineal custom persisting",
-   "(C) Ibn Battuta was himself Malian",
-   "(D) Matrilineal descent is standard Islamic law"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-029",
-  "source_stimulus_words": 199,
-  "stem": "Ibn Battuta is astonished that Malians trace descent through the maternal uncle rather than the father. What does his surprise reveal?",
-  "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
-  "stimulus_words": 120,
-  "themes": [
-   "SIO",
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Veiling came to Islam from the urban customs of the Middle East, but West African women had never veiled. Malian Islam layered the new faith over older social patterns: prayer and Quranic study alongside unveiled women and matrilineal kinship. Conversion changed belief without erasing culture.",
-  "id": "wh-fivesteps-u1-030",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage shows devout Muslim practice alongside the customs; there was no rebellion against Islam.",
-   "B": "Correct. Malian Islam blended the new faith with pre-existing African social patterns.",
-   "C": "Wrong. Nothing suggests the unveiled women were sexual objects; Battuta notes their modesty in prayer.",
-   "D": "Wrong. Climate does not explain it; neighboring societies in similar climates veiled."
+  {
+    "difficulty": "hard",
+    "explanation": "Veiling came to Islam from the urban customs of the Middle East, but West African women had never veiled. Malian Islam layered the new faith over older social patterns: prayer and Quranic study alongside unveiled women and matrilineal kinship. Conversion changed belief without erasing culture.",
+    "id": "wh-fivesteps-u1-030",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The passage shows devout Muslim practice alongside the customs; there was no rebellion against Islam.",
+      "B": "Wrong. Nothing suggests the unveiled women were sexual objects; Battuta notes their modesty in prayer.",
+      "C": "Wrong. Climate does not explain it; neighboring societies in similar climates veiled.",
+      "D": "Correct. Malian Islam blended the new faith with pre-existing African social patterns."
+    },
+    "options": [
+      "(A) Malian women were rebelling against Islam",
+      "(B) Unveiled women were treated as sexual objects",
+      "(C) Mali's desert climate made veiling physically impossible for women working outdoors",
+      "(D) Malian Islam blended the new faith with pre-existing African customs"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-030",
+    "source_stimulus_words": 199,
+    "stem": "Malian Muslims prayed and studied Islamic law, yet women did not veil and descent ran through mothers. What does this illustrate?",
+    "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
+    "stimulus_words": 120,
+    "themes": [
+      "CDI",
+      "SIO",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Malian women were rebelling against Islam",
-   "(B) Malian Islam blended the new faith with pre-existing African customs",
-   "(C) Unveiled women were treated as sexual objects",
-   "(D) Mali's climate made veiling physically impossible"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-030",
-  "source_stimulus_words": 199,
-  "stem": "Malian Muslims prayed and studied Islamic law, yet women did not veil and descent ran through mothers. What does this illustrate?",
-  "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
-  "stimulus_words": 120,
-  "themes": [
-   "CDI",
-   "SIO",
-   "ENV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Muslim merchants crossed the Sahara for gold and salt, settling in trading towns, marrying locally, and impressing hosts with literacy, law, and commercial trust. Over generations, rulers seeking literate administrators and legitimacy adopted the merchants' faith, a slow commercial osmosis no army achieved.",
-  "id": "wh-fivesteps-u1-031",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The merchants were traders, not mystics wandering the desert.",
-   "B": "Correct. Sustained commercial contact, intermarriage, and the prestige of literate Muslim traders won gradual converts.",
-   "C": "Wrong. No conquering armies brought Islam to Mali; it came with the caravans.",
-   "D": "Wrong. Mali's rulers looked to the trans-Saharan trade, not to Ethiopian shrines, for Islamic contact."
+  {
+    "difficulty": "hard",
+    "explanation": "Muslim merchants crossed the Sahara for gold and salt, settling in trading towns, marrying locally, and impressing hosts with literacy, law, and commercial trust. Over generations, rulers seeking literate administrators and legitimacy adopted the merchants' faith, a slow commercial osmosis no army achieved.",
+    "id": "wh-fivesteps-u1-031",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Sustained commercial contact, intermarriage, and the prestige of literate Muslim traders won gradual converts.",
+      "B": "Wrong. The merchants were traders, not mystics wandering the desert.",
+      "C": "Wrong. No conquering armies brought Islam to Mali; it came with the caravans.",
+      "D": "Wrong. Mali's rulers looked to the trans-Saharan trade, not to Ethiopian shrines, for Islamic contact."
+    },
+    "options": [
+      "(A) Sustained contact with Muslim merchants on the trans-Saharan trade routes",
+      "(B) Wandering mystics with no trade connections",
+      "(C) Conquering armies from the Middle East",
+      "(D) Pilgrims returning from Ethiopian shrines carried Islam back to the Malian royal court"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u1-031",
+    "source_stimulus_words": 199,
+    "stem": "Why did trans-Saharan merchants succeed in spreading Islam to Mali where no armies went?",
+    "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
+    "stimulus_words": 120,
+    "themes": [
+      "SIO",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Wandering mystics with no trade connections",
-   "(B) Sustained contact with Muslim merchants along the trans-Saharan trade routes",
-   "(C) Conquering armies from the Middle East",
-   "(D) Pilgrims returning from Ethiopian shrines"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u1-031",
-  "source_stimulus_words": 199,
-  "stem": "Why did trans-Saharan merchants succeed in spreading Islam to Mali where no armies went?",
-  "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
-  "stimulus_words": 120,
-  "themes": [
-   "SIO",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Brutus insists Sharpeville's importance is not the body count but what it exposed: the massacre made visible the daily, grinding violence of apartheid that the world preferred not to see. The bullets merely announced what the system was.",
-  "id": "wh-fivesteps-u8-011",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The poem treats Sharpeville as a revelation, not as a peaceful event.",
-   "B": "Correct. The massacre exposed apartheid's constant violence rather than creating it.",
-   "C": "Wrong. The poem's whole point is that the world had not confronted the reality before.",
-   "D": "Wrong. The poem presents apartheid as brutally violent, not mild."
+  {
+    "difficulty": "hard",
+    "explanation": "Brutus insists Sharpeville's importance is not the body count but what it exposed: the massacre made visible the daily, grinding violence of apartheid that the world preferred not to see. The bullets merely announced what the system was.",
+    "id": "wh-fivesteps-u8-011",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The massacre exposed apartheid's constant violence rather than creating it.",
+      "B": "Wrong. The poem treats Sharpeville as a revelation, not as a peaceful event.",
+      "C": "Wrong. The poem's whole point is that the world had not confronted the reality before.",
+      "D": "Wrong. The poem presents apartheid as brutally violent, not mild."
+    },
+    "options": [
+      "(A) The massacre exposed apartheid's constant violence rather than creating it",
+      "(B) Sharpeville was a peaceful protest",
+      "(C) The world already fully understood apartheid",
+      "(D) Apartheid was a mild and tolerant system before Sharpeville radicalized the government"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-011",
+    "source_stimulus_words": 173,
+    "stem": "Brutus writes that Sharpeville's importance is not that seventy died, but that it 'epitomized oppression.' Why does he insist the massacre revealed rather than created the reality?",
+    "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
+    "stimulus_words": 78,
+    "themes": [
+      "CDI",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) Sharpeville was a peaceful protest",
-   "(B) The massacre exposed apartheid's constant violence rather than creating it",
-   "(C) The world already fully understood apartheid",
-   "(D) Apartheid was a mild system before Sharpeville"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-011",
-  "source_stimulus_words": 173,
-  "stem": "Brutus writes that Sharpeville's importance is not that seventy died, but that it 'epitomized oppression.' Why does he insist the massacre revealed rather than created the reality?",
-  "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
-  "stimulus_words": 78,
-  "themes": [
-   "CDI",
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "Under apartheid, Black South Africans had to carry passbooks documenting identity and residence, and could be arrested for being in the wrong place. The Sharpeville crowd gathered precisely to defy that system of movement control, the daily machinery of racial domination.",
-  "id": "wh-fivesteps-u8-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Pass laws restricted Black movement; they granted no voting rights.",
-   "B": "Correct. The pass laws controlled where Black South Africans could live, work, and travel.",
-   "C": "Wrong. The pass laws were instruments of control, not of liberation.",
-   "D": "Wrong. The pass laws applied to Black South Africans, not to whites."
+  {
+    "difficulty": "hard",
+    "explanation": "Under apartheid, Black South Africans had to carry passbooks documenting identity and residence, and could be arrested for being in the wrong place. The Sharpeville crowd gathered precisely to defy that system of movement control, the daily machinery of racial domination.",
+    "id": "wh-fivesteps-u8-012",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Pass laws restricted Black movement; they granted no voting rights.",
+      "B": "Wrong. The pass laws were instruments of control, not of liberation.",
+      "C": "Correct. The pass laws controlled where Black South Africans could live, work, and travel.",
+      "D": "Wrong. The pass laws applied to Black South Africans, not to whites."
+    },
+    "options": [
+      "(A) They gave Black South Africans the vote",
+      "(B) They freed political prisoners",
+      "(C) They controlled Black South Africans' movement, residence, and work",
+      "(D) They applied to white citizens"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-012",
+    "source_stimulus_words": 173,
+    "stem": "The Sharpeville protesters were demonstrating against the pass laws. What did the pass laws do?",
+    "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
+    "stimulus_words": 78,
+    "themes": [
+      "CDI",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) They gave Black South Africans the vote",
-   "(B) They controlled Black South Africans' movement, residence, and work",
-   "(C) They freed political prisoners",
-   "(D) They applied to white citizens"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-012",
-  "source_stimulus_words": 173,
-  "stem": "The Sharpeville protesters were demonstrating against the pass laws. What did the pass laws do?",
-  "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
-  "stimulus_words": 78,
-  "themes": [
-   "CDI",
-   "SIO",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "hard",
-  "explanation": "For the first time, South Africa's Black majority, 27 years after Sharpeville and after decades of struggle, chose its own government. Mandela's victory proved that entrenched white minority rule could be dismantled at the ballot box rather than only on the battlefield.",
-  "id": "wh-fivesteps-u8-013",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The 1994 election ended apartheid; it did not begin it.",
-   "B": "Correct. The all-race election peacefully ended institutionalized white minority rule.",
-   "C": "Wrong. Mandela won the presidency decisively in 1994.",
-   "D": "Wrong. Whites participated in the election; there was no boycott."
+  {
+    "difficulty": "hard",
+    "explanation": "For the first time, South Africa's Black majority, 27 years after Sharpeville and after decades of struggle, chose its own government. Mandela's victory proved that entrenched white minority rule could be dismantled at the ballot box rather than only on the battlefield.",
+    "id": "wh-fivesteps-u8-013",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The 1994 election ended apartheid; it did not begin it.",
+      "B": "Wrong. Mandela won the presidency decisively in 1994.",
+      "C": "Wrong. Whites participated in the election; there was no boycott.",
+      "D": "Correct. The all-race election peacefully ended institutionalized white minority rule."
+    },
+    "options": [
+      "(A) It established apartheid",
+      "(B) Mandela lost the election",
+      "(C) White South Africans boycotted the vote, refusing to accept majority rule",
+      "(D) It peacefully ended white minority rule through the ballot box"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u8-013",
+    "source_stimulus_words": 173,
+    "stem": "In 1994 South Africa held its first election open to all races, and Nelson Mandela became president. Why was this a world-historical event?",
+    "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
+    "stimulus_words": 78,
+    "themes": [
+      "CDI",
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 8
   },
-  "options": [
-   "(A) It established apartheid",
-   "(B) It peacefully ended institutionalized white minority rule through the ballot box",
-   "(C) Mandela lost the election",
-   "(D) White South Africans boycotted the vote"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u8-013",
-  "source_stimulus_words": 173,
-  "stem": "In 1994 South Africa held its first election open to all races, and Nelson Mandela became president. Why was this a world-historical event?",
-  "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
-  "stimulus_words": 78,
-  "themes": [
-   "CDI",
-   "GOV",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 8
- },
- {
-  "difficulty": "medium",
-  "explanation": "After American independence closed the old dumping ground, Britain's prisons and prison hulks overflowed with convicts. Australia offered a distant shore where the unwanted could be shipped beyond return, solving a domestic crisis of crime and punishment.",
-  "id": "wh-fivesteps-u5-015",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The convicts were exiled as punishment; they were not freed.",
-   "B": "Correct. With America closed after 1776, Australia absorbed Britain's overflowing convict population.",
-   "C": "Wrong. Australia did not volunteer; it was chosen by London as a penal destination.",
-   "D": "Wrong. The First Fleet carried convicts and marines, not tourists."
+  {
+    "difficulty": "medium",
+    "explanation": "After American independence closed the old dumping ground, Britain's prisons and prison hulks overflowed with convicts. Australia offered a distant shore where the unwanted could be shipped beyond return, solving a domestic crisis of crime and punishment.",
+    "id": "wh-fivesteps-u5-015",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The convicts were exiled as punishment; they were not freed.",
+      "B": "Wrong. Australia did not volunteer; it was chosen by London as a penal destination.",
+      "C": "Correct. With America closed after 1776, Australia absorbed Britain's overflowing convict population.",
+      "D": "Wrong. The First Fleet carried convicts and marines, not tourists."
+    },
+    "options": [
+      "(A) Britain wanted to free its convicts",
+      "(B) Australia invited British convicts to settle and develop its empty coastline freely",
+      "(C) With America closed after 1776, Britain needed somewhere to exile convicts",
+      "(D) The First Fleet carried tourists"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-015",
+    "source_stimulus_words": 0,
+    "stem": "The First Fleet (1788) carried marines, officials, and hundreds of male and female convicts. Why did Britain need a penal colony on the other side of the world?",
+    "stimulus": "The chart of the First Fleet (1788) lists the colony's human cargo: marines and their families, male and female convicts, and officials, with notes on supplies, livestock, and the colony's first difficult years.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) Britain wanted to free its convicts",
-   "(B) With America closed after 1776, Britain needed a new place to exile convicts",
-   "(C) Australia invited British convicts",
-   "(D) The First Fleet carried tourists"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-015",
-  "source_stimulus_words": 0,
-  "stem": "The First Fleet (1788) carried marines, officials, and hundreds of male and female convicts. Why did Britain need a penal colony on the other side of the world?",
-  "stimulus": "The chart of the First Fleet (1788) lists the colony's human cargo: marines and their families, male and female convicts, and officials, with notes on supplies, livestock, and the colony's first difficult years.",
-  "stimulus_words": 33,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "medium",
-  "explanation": "The settlement nearly starved: unfamiliar soils, erratic rain, and English farming methods that failed in Australian conditions. The colony survived only by learning, slowly and painfully, to farm a continent that obeyed different rules.",
-  "id": "wh-fivesteps-u5-016",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The colony faced famine and hardship; it was no paradise.",
-   "B": "Correct. English farming methods failed in Australian conditions, nearly starving the settlement.",
-   "C": "Wrong. The convicts ate what they could; refusal was not the problem.",
-   "D": "Wrong. Supplies were inadequate and irregular; the colony was left largely to fend for itself."
+  {
+    "difficulty": "medium",
+    "explanation": "The settlement nearly starved: unfamiliar soils, erratic rain, and English farming methods that failed in Australian conditions. The colony survived only by learning, slowly and painfully, to farm a continent that obeyed different rules.",
+    "id": "wh-fivesteps-u5-016",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. English farming methods failed in Australian conditions, nearly starving the settlement.",
+      "B": "Wrong. The colony faced famine and hardship; it was no paradise.",
+      "C": "Wrong. The convicts ate what they could; refusal was not the problem.",
+      "D": "Wrong. Supplies were inadequate and irregular; the colony was left largely to fend for itself."
+    },
+    "options": [
+      "(A) European farming methods failed in unfamiliar Australian conditions",
+      "(B) Australia was an easy paradise for farmers, with rich soil and gentle rains",
+      "(C) The convicts refused to eat",
+      "(D) Britain supplied the colony generously"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u5-016",
+    "source_stimulus_words": 0,
+    "stem": "The First Fleet's colony nearly starved in its first years despite bringing farmers and seed. What does this show about settler colonialism?",
+    "stimulus": "The chart of the First Fleet (1788) lists the colony's human cargo: marines and their families, male and female convicts, and officials, with notes on supplies, livestock, and the colony's first difficult years.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) Australia was an easy paradise for farmers",
-   "(B) European farming methods failed in unfamiliar Australian conditions",
-   "(C) The convicts refused to eat",
-   "(D) Britain supplied the colony generously"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u5-016",
-  "source_stimulus_words": 0,
-  "stem": "The First Fleet's colony nearly starved in its first years despite bringing farmers and seed. What does this show about settler colonialism?",
-  "stimulus": "The chart of the First Fleet (1788) lists the colony's human cargo: marines and their families, male and female convicts, and officials, with notes on supplies, livestock, and the colony's first difficult years.",
-  "stimulus_words": 33,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The chart is a bureaucratic manifest: headcounts of convicts and marines, lists of supplies and livestock. It reveals what administrators counted, logistics, not what colonists felt, making it evidence for material hardship rather than for inner experience.",
-  "id": "wh-fivesteps-u5-017",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The chart is an administrative manifest, not a work of fiction.",
-   "B": "Correct. As a bureaucratic record of people and supplies, it documents logistics and hardship, not personal experience.",
-   "C": "Wrong. The chart contains no scientific analysis; it is a colonial manifest.",
-   "D": "Wrong. The chart is a secular administrative document, not a religious text."
+  {
+    "difficulty": "hard",
+    "explanation": "The chart is a bureaucratic manifest: headcounts of convicts and marines, lists of supplies and livestock. It reveals what administrators counted, logistics, not what colonists felt, making it evidence for material hardship rather than for inner experience.",
+    "id": "wh-fivesteps-u5-017",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The chart is an administrative manifest, not a work of fiction.",
+      "B": "Wrong. The chart contains no scientific analysis; it is a colonial manifest.",
+      "C": "Wrong. The chart is a secular administrative document, not a religious text.",
+      "D": "Correct. As a bureaucratic record of people and supplies, it documents logistics and hardship, not personal experience."
+    },
+    "options": [
+      "(A) A novel about colonial life",
+      "(B) A scientific study of Australian ecology, wildlife, and native plant species",
+      "(C) A religious text",
+      "(D) An administrative record useful for studying logistics and hardship"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u5-017",
+    "source_stimulus_words": 0,
+    "stem": "The First Fleet chart lists convicts, marines, supplies, and livestock. What kind of historical source is it, and what is it most useful for?",
+    "stimulus": "The chart of the First Fleet (1788) lists the colony's human cargo: marines and their families, male and female convicts, and officials, with notes on supplies, livestock, and the colony's first difficult years.",
+    "stimulus_words": 33,
+    "themes": [
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 5
   },
-  "options": [
-   "(A) A novel about colonial life",
-   "(B) An administrative record useful for studying logistics and hardship",
-   "(C) A scientific study of Australian ecology",
-   "(D) A religious text"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u5-017",
-  "source_stimulus_words": 0,
-  "stem": "The First Fleet chart lists convicts, marines, supplies, and livestock. What kind of historical source is it, and what is it most useful for?",
-  "stimulus": "The chart of the First Fleet (1788) lists the colony's human cargo: marines and their families, male and female convicts, and officials, with notes on supplies, livestock, and the colony's first difficult years.",
-  "stimulus_words": 33,
-  "themes": [
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Born in India, Buddhism traveled with monks and merchants to Sri Lanka, Central Asia, China, Korea, and Japan, and its art and doctrine blended with each host culture, from Chinese Chan to Japanese Zen. A single Indian teaching became a family of Asian traditions.",
-  "id": "wh-fivesteps-u1-032",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Buddhism became a minority faith in India while flourishing abroad; it did not stay home.",
-   "B": "Correct. Buddhism spread from India across Asia, adapting to each culture it encountered.",
-   "C": "Wrong. Buddhism spread through monks and merchants, not through military conquest.",
-   "D": "Wrong. Buddhism thrived across Asia for two millennia; it did not die out."
+  {
+    "difficulty": "hard",
+    "explanation": "Born in India, Buddhism traveled with monks and merchants to Sri Lanka, Central Asia, China, Korea, and Japan, and its art and doctrine blended with each host culture, from Chinese Chan to Japanese Zen. A single Indian teaching became a family of Asian traditions.",
+    "id": "wh-fivesteps-u1-032",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Buddhism became a minority faith in India while flourishing abroad; it did not stay home.",
+      "B": "Wrong. Buddhism spread through monks and merchants, not through military conquest.",
+      "C": "Correct. Buddhism spread from India across Asia, adapting to each culture it encountered.",
+      "D": "Wrong. Buddhism thrived across Asia for two millennia; it did not die out."
+    },
+    "options": [
+      "(A) Buddhism remained confined to India",
+      "(B) Buddhism spreading by military conquest, imposed by kings on conquered peoples",
+      "(C) An Indian religion spreading across Asia and adapting to each culture",
+      "(D) The rapid extinction of Buddhism"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-032",
+    "source_stimulus_words": 0,
+    "stem": "The map shows Buddhism spreading from India to Sri Lanka, Central Asia, China, Korea, and Japan. What pattern does this show?",
+    "stimulus": "The map traces Buddhism's diffusion from its birthplace in northern India outward to Sri Lanka, Central Asia, China, Korea, Japan, and Southeast Asia between 300 BCE and 800 CE.",
+    "stimulus_words": 29,
+    "themes": [
+      "CDI",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Buddhism remained confined to India",
-   "(B) An Indian religion spreading across Asia and adapting to each culture",
-   "(C) Buddhism spreading by military conquest",
-   "(D) The rapid extinction of Buddhism"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-032",
-  "source_stimulus_words": 0,
-  "stem": "The map shows Buddhism spreading from India to Sri Lanka, Central Asia, China, Korea, and Japan. What pattern does this show?",
-  "stimulus": "The map traces Buddhism's diffusion from its birthplace in northern India outward to Sri Lanka, Central Asia, China, Korea, Japan, and Southeast Asia between 300 BCE and 800 CE.",
-  "stimulus_words": 29,
-  "themes": [
-   "CDI",
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "medium",
-  "explanation": "After his bloody conquest of Kalinga, Ashoka converted to Buddhism and carved his remorse on pillars across India. He then dispatched missionaries, including his own son and daughter to Sri Lanka, launching the faith's career as a world religion.",
-  "id": "wh-fivesteps-u1-033",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Alexander died before Buddhism's missionary age began.",
-   "B": "Correct. Ashoka's conversion and missionary embassies first carried Buddhism beyond India.",
-   "C": "Wrong. Genghis Khan lived fifteen centuries after Buddhism's spread began.",
-   "D": "Wrong. Columbus lived two millennia after the events in question."
+  {
+    "difficulty": "medium",
+    "explanation": "After his bloody conquest of Kalinga, Ashoka converted to Buddhism and carved his remorse on pillars across India. He then dispatched missionaries, including his own son and daughter to Sri Lanka, launching the faith's career as a world religion.",
+    "id": "wh-fivesteps-u1-033",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Alexander died before Buddhism's missionary age began.",
+      "B": "Correct. Ashoka's conversion and missionary embassies first carried Buddhism beyond India.",
+      "C": "Wrong. Genghis Khan lived fifteen centuries after Buddhism's spread began.",
+      "D": "Wrong. Columbus lived two millennia after the events in question."
+    },
+    "options": [
+      "(A) Alexander the Great",
+      "(B) The emperor Ashoka",
+      "(C) Genghis Khan",
+      "(D) Christopher Columbus"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-033",
+    "source_stimulus_words": 0,
+    "stem": "Buddhism reached Sri Lanka, Central Asia, and China within centuries of the Buddha's death. Who first sponsored its spread beyond India?",
+    "stimulus": "The map traces Buddhism's diffusion from its birthplace in northern India outward to Sri Lanka, Central Asia, China, Korea, Japan, and Southeast Asia between 300 BCE and 800 CE.",
+    "stimulus_words": 29,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) Alexander the Great",
-   "(B) The emperor Ashoka",
-   "(C) Genghis Khan",
-   "(D) Christopher Columbus"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-033",
-  "source_stimulus_words": 0,
-  "stem": "Buddhism reached Sri Lanka, Central Asia, and China within centuries of the Buddha's death. Who first sponsored its spread beyond India?",
-  "stimulus": "The map traces Buddhism's diffusion from its birthplace in northern India outward to Sri Lanka, Central Asia, China, Korea, Japan, and Southeast Asia between 300 BCE and 800 CE.",
-  "stimulus_words": 29,
-  "themes": [
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Oasis monasteries at Dunhuang, Khotan, and Bamiyan gave traveling monks food, shelter, and pupils, while resident scholars translated sutras into Chinese and other tongues. The monasteries were the relay stations of the faith, carrying Buddhism town by town along the trade routes.",
-  "id": "wh-fivesteps-u1-034",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The monasteries facilitated trade and travel; they did not block it.",
-   "B": "Correct. Oasis monasteries lodged traveling monks and translated scriptures, relaying the faith along the routes.",
-   "C": "Wrong. The monasteries were religious and scholarly centers, not military forts.",
-   "D": "Wrong. The monasteries were Buddhism's chief instruments of expansion."
+  {
+    "difficulty": "hard",
+    "explanation": "Oasis monasteries at Dunhuang, Khotan, and Bamiyan gave traveling monks food, shelter, and pupils, while resident scholars translated sutras into Chinese and other tongues. The monasteries were the relay stations of the faith, carrying Buddhism town by town along the trade routes.",
+    "id": "wh-fivesteps-u1-034",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The monasteries facilitated trade and travel; they did not block it.",
+      "B": "Correct. Oasis monasteries lodged traveling monks and translated scriptures, relaying the faith along the routes.",
+      "C": "Wrong. The monasteries were religious and scholarly centers, not military forts.",
+      "D": "Wrong. The monasteries were Buddhism's chief instruments of expansion."
+    },
+    "options": [
+      "(A) They blocked Silk Road trade",
+      "(B) They lodged traveling monks and translated scriptures along the routes",
+      "(C) They served as military fortresses",
+      "(D) They opposed the spread of Buddhism, keeping scriptures secret from travelers"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-034",
+    "source_stimulus_words": 0,
+    "stem": "Buddhist monasteries dotted the Silk Road oasis towns. What role did they play in the religion's spread?",
+    "stimulus": "The map traces Buddhism's diffusion from its birthplace in northern India outward to Sri Lanka, Central Asia, China, Korea, Japan, and Southeast Asia between 300 BCE and 800 CE.",
+    "stimulus_words": 29,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) They blocked Silk Road trade",
-   "(B) They lodged traveling monks and translated scriptures, relaying the faith along the routes",
-   "(C) They served as military fortresses",
-   "(D) They opposed the spread of Buddhism"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-034",
-  "source_stimulus_words": 0,
-  "stem": "Buddhist monasteries dotted the Silk Road oasis towns. What role did they play in the religion's spread?",
-  "stimulus": "The map traces Buddhism's diffusion from its birthplace in northern India outward to Sri Lanka, Central Asia, China, Korea, Japan, and Southeast Asia between 300 BCE and 800 CE.",
-  "stimulus_words": 29,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Table of Ranks made all nobility, old and new, depend on service to the state: a commoner who rose high enough earned hereditary nobility, while a born aristocrat who did not serve sank. Birth stopped guaranteeing status; the tsar's service became the only ladder.",
-  "id": "wh-fivesteps-u3-006",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Peter did not abolish the nobility; he reorganized it around state service.",
-   "B": "Correct. The Table of Ranks replaced hereditary privilege with service-based status, breaking the old boyars' monopoly.",
-   "C": "Wrong. Peter shared power with no one; his reforms strengthened autocracy.",
-   "D": "Wrong. Peter borrowed Western military and administrative techniques, not the English Parliament."
+  {
+    "difficulty": "hard",
+    "explanation": "The Table of Ranks made all nobility, old and new, depend on service to the state: a commoner who rose high enough earned hereditary nobility, while a born aristocrat who did not serve sank. Birth stopped guaranteeing status; the tsar's service became the only ladder.",
+    "id": "wh-fivesteps-u3-006",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Peter did not abolish the nobility; he reorganized it around state service.",
+      "B": "Wrong. Peter shared power with no one; his reforms strengthened autocracy.",
+      "C": "Correct. The Table of Ranks replaced hereditary privilege with service-based status, breaking the old boyars' monopoly.",
+      "D": "Wrong. Peter borrowed Western military and administrative techniques, not the English Parliament."
+    },
+    "options": [
+      "(A) He wanted to abolish the nobility entirely",
+      "(B) He wanted to share power with an elected national assembly of nobles and merchants",
+      "(C) He wanted to break hereditary power by tying noble status to state service",
+      "(D) He wanted to copy the English Parliament"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-006",
+    "source_stimulus_words": 109,
+    "stem": "Peter created the Table of Ranks, making noble status depend on state service rather than birth. What was he trying to do?",
+    "stimulus": "Paraphrase of Robert K. Massie's account of Peter the Great: In Protestant Europe Peter saw constitutions, bills of rights, and parliaments embodying new civil and political rights, yet he returned to Russia with no intention of sharing power. On the contrary, he was convinced that Russia's transformation required his own direction and driving force. He would lead, and where education and persuasion failed, he would drive and if necessary flog the backward nation forward.",
+    "stimulus_words": 74,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) He wanted to abolish the nobility entirely",
-   "(B) He wanted to break hereditary aristocratic power by tying status to state service",
-   "(C) He wanted to share power with an elected assembly",
-   "(D) He wanted to copy the English Parliament"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-006",
-  "source_stimulus_words": 109,
-  "stem": "Peter created the Table of Ranks, making noble status depend on state service rather than birth. What was he trying to do?",
-  "stimulus": "Paraphrase of Robert K. Massie's account of Peter the Great: In Protestant Europe Peter saw constitutions, bills of rights, and parliaments embodying new civil and political rights, yet he returned to Russia with no intention of sharing power. On the contrary, he was convinced that Russia's transformation required his own direction and driving force. He would lead, and where education and persuasion failed, he would drive and if necessary flog the backward nation forward.",
-  "stimulus_words": 74,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "The beard had been a mark of Orthodox piety and Russian identity; taxing it and shearing boyars at court announced that even a man's face belonged to the tsar's modernizing project. Cultural westernization was imposed the same way as military reform: by autocratic command.",
-  "id": "wh-fivesteps-u3-007",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The decrees were political theater, not fashion advice.",
-   "B": "Correct. Dictating dress and beards showed the tsar's power reaching into personal life, modernization by decree.",
-   "C": "Wrong. Health had nothing to do with it; the issue was cultural allegiance.",
-   "D": "Wrong. The decrees imposed the tsar's will; they had nothing to do with democracy."
+  {
+    "difficulty": "hard",
+    "explanation": "The beard had been a mark of Orthodox piety and Russian identity; taxing it and shearing boyars at court announced that even a man's face belonged to the tsar's modernizing project. Cultural westernization was imposed the same way as military reform: by autocratic command.",
+    "id": "wh-fivesteps-u3-007",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The decrees were political theater, not fashion advice.",
+      "B": "Correct. Dictating dress and beards showed the tsar's power reaching into personal life, modernization by decree.",
+      "C": "Wrong. Health had nothing to do with it; the issue was cultural allegiance.",
+      "D": "Wrong. The decrees imposed the tsar's will; they had nothing to do with democracy."
+    },
+    "options": [
+      "(A) He was interested in fashion and wanted a more stylish and modern Russian court",
+      "(B) They displayed the tsar's power to remake even personal appearance",
+      "(C) Beards spread disease",
+      "(D) He wanted to introduce democracy"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-007",
+    "source_stimulus_words": 109,
+    "stem": "Peter taxed beards and forced Western dress at court. What did these cultural decrees signify?",
+    "stimulus": "Paraphrase of Robert K. Massie's account of Peter the Great: In Protestant Europe Peter saw constitutions, bills of rights, and parliaments embodying new civil and political rights, yet he returned to Russia with no intention of sharing power. On the contrary, he was convinced that Russia's transformation required his own direction and driving force. He would lead, and where education and persuasion failed, he would drive and if necessary flog the backward nation forward.",
+    "stimulus_words": 74,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) He was interested in fashion",
-   "(B) They displayed the tsar's absolute power to remake even personal appearance",
-   "(C) Beards spread disease",
-   "(D) He wanted to introduce democracy"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-007",
-  "source_stimulus_words": 109,
-  "stem": "Peter taxed beards and forced Western dress at court. What did these cultural decrees signify?",
-  "stimulus": "Paraphrase of Robert K. Massie's account of Peter the Great: In Protestant Europe Peter saw constitutions, bills of rights, and parliaments embodying new civil and political rights, yet he returned to Russia with no intention of sharing power. On the contrary, he was convinced that Russia's transformation required his own direction and driving force. He would lead, and where education and persuasion failed, he would drive and if necessary flog the backward nation forward.",
-  "stimulus_words": 74,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "Peter's armies, factories, and treasury ran on serf labor and the taxes serfs paid. Freeing them would have collapsed the fiscal-military machine he was building; westernization stopped exactly where the autocracy's material base began.",
-  "id": "wh-fivesteps-u3-008",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Peter never forgot serfdom; he deliberately preserved and extended it.",
-   "B": "Correct. The army and treasury depended on serf labor and taxes, so reforming serfdom would have undermined the state.",
-   "C": "Wrong. Peter kept and expanded serfdom; the serfs were anything but free.",
-   "D": "Wrong. Much of Europe still relied on bound labor; Russia was not the exception."
+  {
+    "difficulty": "hard",
+    "explanation": "Peter's armies, factories, and treasury ran on serf labor and the taxes serfs paid. Freeing them would have collapsed the fiscal-military machine he was building; westernization stopped exactly where the autocracy's material base began.",
+    "id": "wh-fivesteps-u3-008",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Peter never forgot serfdom; he deliberately preserved and extended it.",
+      "B": "Correct. The army and treasury depended on serf labor and taxes, so reforming serfdom would have undermined the state.",
+      "C": "Wrong. Peter kept and expanded serfdom; the serfs were anything but free.",
+      "D": "Wrong. Much of Europe still relied on bound labor; Russia was not the exception."
+    },
+    "options": [
+      "(A) He forgot about the serfs amid his many other reform projects",
+      "(B) The army and treasury depended on serf labor and taxes",
+      "(C) The serfs were already free",
+      "(D) No European country had serfdom"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u3-008",
+    "source_stimulus_words": 109,
+    "stem": "Peter westernized the army, administration, and culture, yet kept and extended serfdom. Why didn't his reforms touch serfdom?",
+    "stimulus": "Paraphrase of Robert K. Massie's account of Peter the Great: In Protestant Europe Peter saw constitutions, bills of rights, and parliaments embodying new civil and political rights, yet he returned to Russia with no intention of sharing power. On the contrary, he was convinced that Russia's transformation required his own direction and driving force. He would lead, and where education and persuasion failed, he would drive and if necessary flog the backward nation forward.",
+    "stimulus_words": 74,
+    "themes": [
+      "GOV",
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
   },
-  "options": [
-   "(A) He forgot about the serfs",
-   "(B) The army and treasury depended on serf labor and taxes",
-   "(C) The serfs were already free",
-   "(D) No European country had serfdom"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u3-008",
-  "source_stimulus_words": 109,
-  "stem": "Peter westernized the army, administration, and culture, yet kept and extended serfdom. Why didn't his reforms touch serfdom?",
-  "stimulus": "Paraphrase of Robert K. Massie's account of Peter the Great: In Protestant Europe Peter saw constitutions, bills of rights, and parliaments embodying new civil and political rights, yet he returned to Russia with no intention of sharing power. On the contrary, he was convinced that Russia's transformation required his own direction and driving force. He would lead, and where education and persuasion failed, he would drive and if necessary flog the backward nation forward.",
-  "stimulus_words": 74,
-  "themes": [
-   "GOV",
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 3
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Sadler Committee summoned workers, parents, and overseers to document hours, beatings, and maiming in the mills. Its published testimony shocked the public and gave reformers the evidence they needed to pass the Factory Act of 1833, the first effective child-labor law.",
-  "id": "wh-fivesteps-u6-017",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The committee exposed factory horrors; it did not praise them.",
-   "B": "Correct. The committee gathered workers' testimony to document abuses and justify child-labor legislation.",
-   "C": "Wrong. The committee was a parliamentary body; it did not seek to close Parliament.",
-   "D": "Wrong. The committee investigated factories, not military recruitment."
+  {
+    "difficulty": "hard",
+    "explanation": "The Sadler Committee summoned workers, parents, and overseers to document hours, beatings, and maiming in the mills. Its published testimony shocked the public and gave reformers the evidence they needed to pass the Factory Act of 1833, the first effective child-labor law.",
+    "id": "wh-fivesteps-u6-017",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The committee exposed factory horrors; it did not praise them.",
+      "B": "Wrong. The committee was a parliamentary body; it did not seek to close Parliament.",
+      "C": "Correct. The committee gathered workers' testimony to document abuses and justify child-labor legislation.",
+      "D": "Wrong. The committee investigated factories, not military recruitment."
+    },
+    "options": [
+      "(A) To praise factory conditions",
+      "(B) To close Parliament",
+      "(C) To document factory abuses and build the case for child-labor laws",
+      "(D) To recruit young soldiers for the army from among the factory child workers"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-017",
+    "source_stimulus_words": 139,
+    "stem": "Parliament's Sadler Committee (1831-32) collected testimony like Joshua Drake's about children working brutal hours for pennies. What was its purpose?",
+    "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
+    "stimulus_words": 90,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) To praise factory conditions",
-   "(B) To document factory abuses and build the case for child-labor laws",
-   "(C) To close Parliament",
-   "(D) To recruit soldiers"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-017",
-  "source_stimulus_words": 139,
-  "stem": "Parliament's Sadler Committee (1831-32) collected testimony like Joshua Drake's about children working brutal hours for pennies. What was its purpose?",
-  "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
-  "stimulus_words": 90,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Drake works two days a week at poor wages; his children's mill earnings, miserable as they are, keep the family alive. Child labor was not parental cruelty but household economics: when adult men could not earn a family wage, children had to earn or the family starved.",
-  "id": "wh-fivesteps-u6-018",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Drake describes economic desperation, not affection for the mills.",
-   "B": "Correct. Adult wages could not support a family, so children's earnings were a survival necessity.",
-   "C": "Wrong. Drake explicitly says necessity, not cruelty or discipline, drives his decision.",
-   "D": "Wrong. He testifies that wages are poor and work is brutal; nothing was generous."
+  {
+    "difficulty": "hard",
+    "explanation": "Drake works two days a week at poor wages; his children's mill earnings, miserable as they are, keep the family alive. Child labor was not parental cruelty but household economics: when adult men could not earn a family wage, children had to earn or the family starved.",
+    "id": "wh-fivesteps-u6-018",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Drake describes economic desperation, not affection for the mills.",
+      "B": "Wrong. Drake explicitly says necessity, not cruelty or discipline, drives his decision.",
+      "C": "Correct. Adult wages could not support a family, so children's earnings were a survival necessity.",
+      "D": "Wrong. He testifies that wages are poor and work is brutal; nothing was generous."
+    },
+    "options": [
+      "(A) Children loved factory work and begged their parents to let them work even longer hours",
+      "(B) Parents were simply cruel",
+      "(C) Adult wages were too low to support a family, so children's earnings were necessary",
+      "(D) Factory wages were generous"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-018",
+    "source_stimulus_words": 139,
+    "stem": "Drake says 'necessity compels' him to send his children to the mills. What economic reality does this describe?",
+    "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
+    "stimulus_words": 90,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Children loved factory work",
-   "(B) Adult wages were too low to support a family, making children's earnings a necessity",
-   "(C) Parents were simply cruel",
-   "(D) Factory wages were generous"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-018",
-  "source_stimulus_words": 139,
-  "stem": "Drake says 'necessity compels' him to send his children to the mills. What economic reality does this describe?",
-  "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
-  "stimulus_words": 90,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Laissez-faire held that the state should leave labor markets alone; the Factory Acts did the opposite, with inspectors enforcing limits on hours and child labor. Each Act marked Parliament's judgment that unregulated industry produced evils the market would not cure.",
-  "id": "wh-fivesteps-u6-019",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Acts regulated factories; they did not abolish them.",
-   "B": "Correct. State-enforced limits on hours and child labor broke with laissez-faire non-intervention.",
-   "C": "Wrong. The Acts were state intervention, the opposite of laissez-faire.",
-   "D": "Wrong. The Acts targeted factories and mines, not farms."
+  {
+    "difficulty": "hard",
+    "explanation": "Laissez-faire held that the state should leave labor markets alone; the Factory Acts did the opposite, with inspectors enforcing limits on hours and child labor. Each Act marked Parliament's judgment that unregulated industry produced evils the market would not cure.",
+    "id": "wh-fivesteps-u6-019",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. State-enforced limits on hours and child labor broke with laissez-faire non-intervention.",
+      "B": "Wrong. The Acts regulated factories; they did not abolish them.",
+      "C": "Wrong. The Acts were state intervention, the opposite of laissez-faire.",
+      "D": "Wrong. The Acts targeted factories and mines, not farms."
+    },
+    "options": [
+      "(A) State intervention in labor markets, breaking with laissez-faire",
+      "(B) They banned all factories",
+      "(C) They embodied laissez-faire principles of strict non-interference in labor markets",
+      "(D) They applied only to agriculture"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u6-019",
+    "source_stimulus_words": 139,
+    "stem": "Britain's Factory Acts (1833, 1844, 1847) limited child labor and the working day. What did they represent?",
+    "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
+    "stimulus_words": 90,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) They banned all factories",
-   "(B) State intervention in labor markets, breaking with laissez-faire",
-   "(C) They embodied laissez-faire principles",
-   "(D) They applied only to agriculture"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u6-019",
-  "source_stimulus_words": 139,
-  "stem": "Britain's Factory Acts (1833, 1844, 1847) limited child labor and the working day. What did they represent?",
-  "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
-  "stimulus_words": 90,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Combination Acts made workers' organizations criminal conspiracies, but strikes, unrest, and the sheer scale of industrial misery kept producing them anyway. Parliament legalized unions in the 1870s because suppression had failed and the organized working class could no longer be ignored.",
-  "id": "wh-fivesteps-u6-020",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Factory owners fought unions bitterly; they did not welcome them.",
-   "B": "Correct. Persistent worker organization and unrest made the ban unenforceable and politically costly.",
-   "C": "Wrong. Unions existed illegally and then legally; they were a central fact of industrial life.",
-   "D": "Wrong. Legalization came from Parliament under worker pressure, not from royal decree."
+  {
+    "difficulty": "hard",
+    "explanation": "The Combination Acts made workers' organizations criminal conspiracies, but strikes, unrest, and the sheer scale of industrial misery kept producing them anyway. Parliament legalized unions in the 1870s because suppression had failed and the organized working class could no longer be ignored.",
+    "id": "wh-fivesteps-u6-020",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Factory owners fought unions bitterly; they did not welcome them.",
+      "B": "Correct. Persistent worker organization and unrest made the ban unenforceable and politically costly.",
+      "C": "Wrong. Unions existed illegally and then legally; they were a central fact of industrial life.",
+      "D": "Wrong. Legalization came from Parliament under worker pressure, not from royal decree."
+    },
+    "options": [
+      "(A) Factory owners demanded unions to improve discipline among workers",
+      "(B) Worker pressure and unrest made suppression unenforceable",
+      "(C) Unions never actually existed",
+      "(D) The king personally ordered it"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u6-020",
+    "source_stimulus_words": 139,
+    "stem": "Britain's Combination Acts (1799-1800) banned workers' unions, yet by the 1870s unions were legal. Why did Parliament give way?",
+    "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
+    "stimulus_words": 90,
+    "themes": [
+      "GOV",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 6
   },
-  "options": [
-   "(A) Factory owners demanded unions",
-   "(B) Worker pressure and unrest made suppression unenforceable",
-   "(C) Unions never actually existed",
-   "(D) The king personally ordered it"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u6-020",
-  "source_stimulus_words": 139,
-  "stem": "Britain's Combination Acts (1799-1800) banned workers' unions, yet by the 1870s unions were legal. Why did Parliament give way?",
-  "stimulus": "Paraphrase of testimony before Parliament's Sadler Committee, 1831-32: Joshua Drake, a working man, is examined. He says he would prefer moderate labor and lower wages, but he has work only two days a week, and jobs pay poorly. A child earning three shillings a week cannot properly subsist on it. Asked why he lets his children work where they are ill-treated and overworked, he answers: necessity compels a man with children to let them work. He would not send them under the present system if necessity did not force him.",
-  "stimulus_words": 90,
-  "themes": [
-   "GOV",
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 6
- },
- {
-  "difficulty": "hard",
-  "explanation": "Candidates were searched, locked alone in tiny cells for days, and given numbered papers so graders could not know their names. The system's whole claim to legitimacy was impartial merit, so it wrapped the exams in anti-cheating ritual.",
-  "id": "wh-fivesteps-u1-035",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The cells were examination booths, not punishments.",
-   "B": "Correct. Isolation and anonymity protected the exams' claim to select officials by merit, not connections.",
-   "C": "Wrong. Candidates left after the exams; the cells were not homes.",
-   "D": "Wrong. The candidates were scholars, not prisoners."
+  {
+    "difficulty": "hard",
+    "explanation": "Candidates were searched, locked alone in tiny cells for days, and given numbered papers so graders could not know their names. The system's whole claim to legitimacy was impartial merit, so it wrapped the exams in anti-cheating ritual.",
+    "id": "wh-fivesteps-u1-035",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The cells were examination booths, not punishments.",
+      "B": "Wrong. Candidates left after the exams; the cells were not homes.",
+      "C": "Wrong. The candidates were scholars, not prisoners.",
+      "D": "Correct. Isolation and anonymity protected the exams' claim to select officials by merit, not connections."
+    },
+    "options": [
+      "(A) To punish the candidates",
+      "(B) The cells were the candidates' homes, where they lived for years",
+      "(C) The candidates were prisoners",
+      "(D) To prevent cheating and guarantee merit-based selection"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u1-035",
+    "source_stimulus_words": 0,
+    "stem": "A painting of the imperial examinations (c. 960-1279) shows candidates writing alone in tiny isolated cells, searched before entry. Why were the exams conducted this way?",
+    "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
+    "stimulus_words": 29,
+    "themes": [
+      "SIO",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) To punish the candidates",
-   "(B) To prevent cheating and guarantee merit-based selection",
-   "(C) The cells were the candidates' homes",
-   "(D) The candidates were prisoners"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u1-035",
-  "source_stimulus_words": 0,
-  "stem": "A painting of the imperial examinations (c. 960-1279) shows candidates writing alone in tiny isolated cells, searched before entry. Why were the exams conducted this way?",
-  "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
-  "stimulus_words": 29,
-  "themes": [
-   "SIO",
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Year after year of memorizing the classics produced officials who shared a common literary culture and Confucian moral outlook, administrators valued for judgment and character rather than technical expertise. China was governed by poets, not engineers.",
-  "id": "wh-fivesteps-u1-036",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The exams tested literature and philosophy, not engineering.",
-   "B": "Correct. The classical curriculum produced literary generalists steeped in Confucian values.",
-   "C": "Wrong. Science and technology were absent from the examination curriculum.",
-   "D": "Wrong. The exams selected civil officials, not military officers."
+  {
+    "difficulty": "hard",
+    "explanation": "Year after year of memorizing the classics produced officials who shared a common literary culture and Confucian moral outlook, administrators valued for judgment and character rather than technical expertise. China was governed by poets, not engineers.",
+    "id": "wh-fivesteps-u1-036",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The exams tested literature and philosophy, not engineering.",
+      "B": "Wrong. Science and technology were absent from the examination curriculum.",
+      "C": "Correct. The classical curriculum produced literary generalists steeped in Confucian values.",
+      "D": "Wrong. The exams selected civil officials, not military officers."
+    },
+    "options": [
+      "(A) It produced skilled engineers",
+      "(B) It produced research scientists skilled in engineering and mathematics",
+      "(C) It produced literary generalists steeped in Confucian values",
+      "(D) It produced military officers"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u1-036",
+    "source_stimulus_words": 0,
+    "stem": "The exams tested Confucian classics, poetry, and calligraphy, not law, engineering, or science. What was the effect on China's bureaucracy?",
+    "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
+    "stimulus_words": 29,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) It produced skilled engineers",
-   "(B) It produced literary generalists steeped in Confucian values",
-   "(C) It produced research scientists",
-   "(D) It produced military officers"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u1-036",
-  "source_stimulus_words": 0,
-  "stem": "The exams tested Confucian classics, poetry, and calligraphy, not law, engineering, or science. What was the effect on China's bureaucracy?",
-  "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
-  "stimulus_words": 29,
-  "themes": [
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "medium",
-  "explanation": "The Fujiwara married their daughters to emperors and ruled as regents, monopolizing high office by blood. Examinations open to talent would let outsiders into the posts the clan treated as family property, so the clan strangled the experiment.",
-  "id": "wh-fivesteps-u1-037",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Fujiwara opposed the exams; they did not admire them.",
-   "B": "Correct. Merit-based exams threatened the Fujiwara's hereditary monopoly on high office.",
-   "C": "Wrong. Literacy was not the issue; power was.",
-   "D": "Wrong. The exams were demanding; ease had nothing to do with their failure."
+  {
+    "difficulty": "medium",
+    "explanation": "The Fujiwara married their daughters to emperors and ruled as regents, monopolizing high office by blood. Examinations open to talent would let outsiders into the posts the clan treated as family property, so the clan strangled the experiment.",
+    "id": "wh-fivesteps-u1-037",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The Fujiwara opposed the exams; they did not admire them.",
+      "B": "Wrong. Literacy was not the issue; power was.",
+      "C": "Wrong. The exams were demanding; ease had nothing to do with their failure.",
+      "D": "Correct. Merit-based exams threatened the Fujiwara's hereditary monopoly on high office."
+    },
+    "options": [
+      "(A) The Fujiwara loved the examination system and championed its adoption in Japan",
+      "(B) Japanese nobles were illiterate",
+      "(C) The exams were too easy to be respected",
+      "(D) Merit-based exams threatened the clans' hereditary monopoly on office"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-037",
+    "source_stimulus_words": 0,
+    "stem": "Japan's Fujiwara clan dominated the court through hereditary office-holding. Why would they oppose Chinese-style merit examinations?",
+    "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
+    "stimulus_words": 29,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The Fujiwara loved the examination system",
-   "(B) Merit-based exams threatened the clans' hereditary monopoly on office",
-   "(C) Japanese nobles were illiterate",
-   "(D) The exams were too easy to be respected"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-037",
-  "source_stimulus_words": 0,
-  "stem": "Japan's Fujiwara clan dominated the court through hereditary office-holding. Why would they oppose Chinese-style merit examinations?",
-  "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
-  "stimulus_words": 29,
-  "themes": [
-   "ECN",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "medium",
-  "explanation": "Preparing for the exams meant a decade or more of full-time study under tutors, memorizing thousands of characters of classical text. Peasant families needed every hand in the fields; only wealthy households could afford to free a son for years of schooling.",
-  "id": "wh-fivesteps-u1-038",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The exams were genuinely competitive; the barrier was preparation, not lottery.",
-   "B": "Correct. Years of expensive preparation meant mostly wealthy families could field candidates.",
-   "C": "Wrong. Peasants were not legally barred; they were economically unable to prepare.",
-   "D": "Wrong. Office-holding was desperately desired; the obstacle was cost."
+  {
+    "difficulty": "medium",
+    "explanation": "Preparing for the exams meant a decade or more of full-time study under tutors, memorizing thousands of characters of classical text. Peasant families needed every hand in the fields; only wealthy households could afford to free a son for years of schooling.",
+    "id": "wh-fivesteps-u1-038",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The exams were genuinely competitive; the barrier was preparation, not lottery.",
+      "B": "Correct. Years of expensive preparation meant mostly wealthy families could field candidates.",
+      "C": "Wrong. Peasants were not legally barred; they were economically unable to prepare.",
+      "D": "Wrong. Office-holding was desperately desired; the obstacle was cost."
+    },
+    "options": [
+      "(A) The exams were rigged lotteries",
+      "(B) Only wealthy families could afford years of preparation",
+      "(C) Peasants were legally banned from the exams by imperial decree in 1300",
+      "(D) Poor families did not want office"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-038",
+    "source_stimulus_words": 0,
+    "stem": "The exams offered social mobility, yet most successful candidates came from wealthy families. Why?",
+    "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
+    "stimulus_words": 29,
+    "themes": [
+      "GOV",
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The exams were rigged lotteries",
-   "(B) Only wealthy families could afford years of preparation",
-   "(C) Peasants were legally banned from the exams",
-   "(D) Poor families did not want office"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-038",
-  "source_stimulus_words": 0,
-  "stem": "The exams offered social mobility, yet most successful candidates came from wealthy families. Why?",
-  "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
-  "stimulus_words": 29,
-  "themes": [
-   "GOV",
-   "SIO",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "hard",
-  "explanation": "Mao believed examinations reproduced a privileged educated class, the 'bourgeois intellectuals,' whose expertise challenged proletarian revolution. Abolishing exams and sending students to labor in the countryside was meant to destroy the old elite's pipeline and remake education as political indoctrination.",
-  "id": "wh-fivesteps-u1-039",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Mao persecuted intellectuals; he did not admire them.",
-   "B": "Correct. He saw exams as perpetuating an educated elite hostile to revolution.",
-   "C": "Wrong. Difficulty was not the issue; politics was.",
-   "D": "Wrong. He abolished the exams, not multiplied them."
-  },
-  "options": [
-   "(A) He admired intellectuals",
-   "(B) He saw exams as perpetuating a privileged educated elite",
-   "(C) The exams were too easy",
-   "(D) He wanted more examinations"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u1-039",
-  "source_stimulus_words": 0,
-  "stem": "Mao abolished university entrance examinations during the Cultural Revolution. Why would a revolutionary leader oppose merit exams?",
-  "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
-  "stimulus_words": 29,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 1
- }
+  {
+    "difficulty": "hard",
+    "explanation": "Mao believed examinations reproduced a privileged educated class, the 'bourgeois intellectuals,' whose expertise challenged proletarian revolution. Abolishing exams and sending students to labor in the countryside was meant to destroy the old elite's pipeline and remake education as political indoctrination.",
+    "id": "wh-fivesteps-u1-039",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. He saw exams as perpetuating an educated elite hostile to revolution.",
+      "B": "Wrong. Mao persecuted intellectuals; he did not admire them.",
+      "C": "Wrong. Difficulty was not the issue; politics was.",
+      "D": "Wrong. He abolished the exams, not multiplied them."
+    },
+    "options": [
+      "(A) He saw exams as perpetuating a privileged educated elite",
+      "(B) He admired intellectuals and wanted them to lead the revolution",
+      "(C) The exams were too easy",
+      "(D) He wanted more examinations"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u1-039",
+    "source_stimulus_words": 0,
+    "stem": "Mao abolished university entrance examinations during the Cultural Revolution. Why would a revolutionary leader oppose merit exams?",
+    "stimulus": "The painting shows rows of tiny examination cells, each holding a single scholar at a writing desk, during China's imperial civil service examinations of the Song era (c. 960-1279).",
+    "stimulus_words": 29,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  }
 ]

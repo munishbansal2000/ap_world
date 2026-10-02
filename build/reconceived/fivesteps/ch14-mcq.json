@@ -1,126 +1,126 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "Bacon rejected reliance on ancient authorities and pure deduction, insisting instead that investigators gather observations, run experiments, and build general principles upward from particular facts — the inductive, empirical method that became the model for modern science. (A) is wrong because Bacon opposed deducing nature from Aristotle's texts. (C) is wrong because Bacon sought to replace scriptural authority with observation as the basis of natural knowledge. (D) is wrong because Bacon emphasized hands-on experiment and observation, not mathematics alone.",
-  "id": "wh-fivesteps-u4-010",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Bacon opposed deriving natural knowledge by deduction from ancient authorities such as Aristotle.",
-   "B": "Correct. Bacon's method builds general principles upward from systematic observation and experimentation.",
-   "C": "Wrong. Bacon wanted to replace scriptural authority, not rely on it, as the foundation of natural knowledge.",
-   "D": "Wrong. Bacon stressed experiment and observation of nature, not pure mathematical reasoning alone."
+  {
+    "difficulty": "hard",
+    "explanation": "Bacon rejected reliance on ancient authorities and pure deduction, insisting instead that investigators gather observations, run experiments, and build general principles upward from particular facts — the inductive, empirical method that became the model for modern science. (A) is wrong because Bacon opposed deducing nature from Aristotle's texts. (C) is wrong because Bacon sought to replace scriptural authority with observation as the basis of natural knowledge. (D) is wrong because Bacon emphasized hands-on experiment and observation, not mathematics alone.",
+    "id": "wh-fivesteps-u4-010",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Bacon's method builds general principles upward from systematic observation and experimentation.",
+      "B": "Wrong. Bacon opposed deriving natural knowledge by deduction from ancient authorities such as Aristotle.",
+      "C": "Wrong. Bacon wanted to replace scriptural authority, not rely on it, as the foundation of natural knowledge.",
+      "D": "Wrong. Bacon stressed experiment and observation of nature, not pure mathematical reasoning alone."
+    },
+    "options": [
+      "(A) Systematic observation and experimentation building toward general principles",
+      "(B) Deduction from the writings of ancient authorities",
+      "(C) Revelation through scripture",
+      "(D) Pure mathematical reasoning detached from experiment"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-027",
+    "source_stimulus_words": 0,
+    "stem": "Francis Bacon argued that natural knowledge should advance through which method?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Deduction from the writings of ancient authorities",
-   "(B) Systematic observation and experimentation building toward general principles",
-   "(C) Revelation through scripture",
-   "(D) Pure mathematical reasoning detached from experiment"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-027",
-  "source_stimulus_words": 0,
-  "stem": "Francis Bacon argued that natural knowledge should advance through which method?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "medium",
-  "explanation": "Aristotelian cosmology, endorsed by the Church, held that all heavenly bodies circle the Earth. Jupiter's moons visibly orbited another planet, proving that Earth was not the center of all celestial motion — a direct observational blow to the established system. (A) is wrong because the printing press was an ally of new ideas, not the authority challenged. (B) is wrong because divine-right kingship was a political doctrine, not an astronomical one. (D) is wrong because germ theory emerged two centuries later and was unrelated to Galileo's astronomy.",
-  "id": "wh-fivesteps-u4-011",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. The printing press spread new ideas; it was not the authority Galileo's observations challenged.",
-   "B": "Wrong. Divine-right kingship was a political doctrine, untouched by arguments about planetary orbits.",
-   "C": "Correct. Moons orbiting Jupiter proved not everything circles Earth, undermining the Church-endorsed Aristotelian cosmology.",
-   "D": "Wrong. Germ theory of disease emerged two centuries later and had no connection to Galileo's telescope."
+  {
+    "difficulty": "medium",
+    "explanation": "Aristotelian cosmology, endorsed by the Church, held that all heavenly bodies circle the Earth. Jupiter's moons visibly orbited another planet, proving that Earth was not the center of all celestial motion — a direct observational blow to the established system. (A) is wrong because the printing press was an ally of new ideas, not the authority challenged. (B) is wrong because divine-right kingship was a political doctrine, not an astronomical one. (D) is wrong because germ theory emerged two centuries later and was unrelated to Galileo's astronomy.",
+    "id": "wh-fivesteps-u4-011",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The printing press spread new ideas; it was not the authority Galileo's observations challenged.",
+      "B": "Wrong. Divine-right kingship was a political doctrine, untouched by arguments about planetary orbits.",
+      "C": "Wrong. Germ theory of disease emerged two centuries later and had no connection to Galileo's telescope.",
+      "D": "Correct. Moons orbiting Jupiter proved not everything circles Earth, undermining the Church-endorsed Aristotelian cosmology."
+    },
+    "options": [
+      "(A) The authority of the printing press",
+      "(B) The doctrine of the divine right of kings",
+      "(C) The germ theory of disease",
+      "(D) The Church-endorsed cosmology that all heavenly bodies orbit Earth"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-028",
+    "source_stimulus_words": 0,
+    "stem": "Galileo's telescopic observation of moons orbiting Jupiter most directly challenged which established authority?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) The authority of the printing press",
-   "(B) The doctrine of the divine right of kings",
-   "(C) The Church-endorsed cosmology that all heavenly bodies orbit Earth",
-   "(D) The germ theory of disease"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-028",
-  "source_stimulus_words": 0,
-  "stem": "Galileo's telescopic observation of moons orbiting Jupiter most directly challenged which established authority?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Social-contract thinkers such as Locke argued that people leave the state of nature and accept government only on the condition that it protect their natural rights; legitimacy flows upward from the consent of the governed, who may withdraw it from a ruler who violates the bargain. (A) is wrong because divine appointment belongs to the rival doctrine of divine right, which social-contract theory opposed. (C) is wrong because military strength may sustain power but cannot legitimize it under the theory. (D) is wrong because heredity alone confers no legitimacy without the people's consent.",
-  "id": "wh-fivesteps-u4-012",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Divine appointment belongs to the doctrine of divine right, which social-contract theory was written to oppose.",
-   "B": "Correct. Government is legitimate only with the consent of the governed, given in exchange for protection of their rights.",
-   "C": "Wrong. Military strength can enforce obedience but cannot make rule legitimate under social-contract theory.",
-   "D": "Wrong. Hereditary succession alone confers no legitimacy without the consent of the governed."
+  {
+    "difficulty": "hard",
+    "explanation": "Social-contract thinkers such as Locke argued that people leave the state of nature and accept government only on the condition that it protect their natural rights; legitimacy flows upward from the consent of the governed, who may withdraw it from a ruler who violates the bargain. (A) is wrong because divine appointment belongs to the rival doctrine of divine right, which social-contract theory opposed. (C) is wrong because military strength may sustain power but cannot legitimize it under the theory. (D) is wrong because heredity alone confers no legitimacy without the people's consent.",
+    "id": "wh-fivesteps-u4-012",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Government is legitimate only with the consent of the governed, given in exchange for protection of their rights.",
+      "B": "Wrong. Divine appointment belongs to the doctrine of divine right, which social-contract theory was written to oppose.",
+      "C": "Wrong. Military strength can enforce obedience but cannot make rule legitimate under social-contract theory.",
+      "D": "Wrong. Hereditary succession alone confers no legitimacy without the consent of the governed."
+    },
+    "options": [
+      "(A) The consent of the governed in exchange for protection of their rights",
+      "(B) Appointment by divine authority",
+      "(C) The ruler's superior military strength and ability to compel obedience by force",
+      "(D) Unbroken hereditary succession"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u4-029",
+    "source_stimulus_words": 0,
+    "stem": "According to social-contract theory, what makes a government's rule legitimate?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 4
   },
-  "options": [
-   "(A) Appointment by divine authority",
-   "(B) The consent of the governed in exchange for protection of their rights",
-   "(C) The ruler's superior military strength",
-   "(D) Unbroken hereditary succession"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u4-029",
-  "source_stimulus_words": 0,
-  "stem": "According to social-contract theory, what makes a government's rule legitimate?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 4
- },
- {
-  "difficulty": "hard",
-  "explanation": "Deists accepted a Creator but held that He designed the universe to operate by discoverable natural laws and then stepped back — no miracles, no revelation, no clerical mediation. That removed the interventionist God of traditional Christianity while keeping a rational first cause. (A) is wrong because predestination is a Calvinist doctrine about God decreeing every event, the opposite of the deist clockmaker. (C) is wrong because deists rejected clerical authority as a channel of divine truth. (D) is wrong because natural laws were the very centerpiece of deist thought.",
-  "id": "wh-fivesteps-u4-013",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. Predestination is a Calvinist doctrine of God decreeing all events — the opposite of the deist position.",
-   "B": "Correct. Deists held that God created a universe governed by natural laws and does not intervene in it.",
-   "C": "Wrong. Deists rejected the Church hierarchy's claim to mediate divine truth.",
-   "D": "Wrong. Discoverable natural laws were the centerpiece of deist thought, not something it denied."
-  },
-  "options": [
-   "(A) God predestines every human action",
-   "(B) God created the universe to run by natural laws and does not intervene",
-   "(C) God reveals truth through the Church hierarchy",
-   "(D) The universe operates without any natural laws"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u4-030",
-  "source_stimulus_words": 0,
-  "stem": "Deists of the Enlightenment differed from traditional Christians most clearly in which belief?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 4
- }
+  {
+    "difficulty": "hard",
+    "explanation": "Deists accepted a Creator but held that He designed the universe to operate by discoverable natural laws and then stepped back — no miracles, no revelation, no clerical mediation. That removed the interventionist God of traditional Christianity while keeping a rational first cause. (A) is wrong because predestination is a Calvinist doctrine about God decreeing every event, the opposite of the deist clockmaker. (C) is wrong because deists rejected clerical authority as a channel of divine truth. (D) is wrong because natural laws were the very centerpiece of deist thought.",
+    "id": "wh-fivesteps-u4-013",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Predestination is a Calvinist doctrine of God decreeing all events — the opposite of the deist position.",
+      "B": "Wrong. Deists rejected the Church hierarchy's claim to mediate divine truth.",
+      "C": "Wrong. Discoverable natural laws were the centerpiece of deist thought, not something it denied.",
+      "D": "Correct. Deists held that God created a universe governed by natural laws and does not intervene in it."
+    },
+    "options": [
+      "(A) God predestines every human action",
+      "(B) God reveals truth only through the Church hierarchy and its ordained clergy",
+      "(C) The universe operates without any natural laws",
+      "(D) God created the universe to run by natural laws and does not intervene"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u4-030",
+    "source_stimulus_words": 0,
+    "stem": "Deists of the Enlightenment differed from traditional Christians most clearly in which belief?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
+  }
 ]

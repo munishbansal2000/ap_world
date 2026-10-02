@@ -1,65 +1,65 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "The Inca built the Qhapaq Nan, a vast road network, but the steep Andes, thin air, and absence of wheeled vehicles and large draft animals made moving bulk goods over long distances slow and costly. The Aztecs, operating on flatter lake-basin terrain with dense populations and canoe transport, could sustain larger long-distance market exchange. (A) is wrong because the Inca road system was the most extensive in the pre-Columbian Americas. (B) is wrong because neither empire relied much on sea trade. (C) is wrong because the Inca produced ample goods; the constraint was transport, not production.",
-  "id": "wh-fivesteps-u1-004",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. The Inca built the most extensive road network in the pre-Columbian Americas; roads were not their disadvantage.",
-   "B": "Wrong. Neither the Aztecs nor the Incas conducted significant long-distance sea trade.",
-   "C": "Wrong. The Inca produced plenty of marketable goods; the limiting factor was moving them, not making them.",
-   "D": "Correct. Andean terrain, altitude, and the lack of wheeled transport and draft animals made bulk overland movement costly for the Inca."
+  {
+    "difficulty": "hard",
+    "explanation": "The Inca built the Qhapaq Nan, a vast road network, but the steep Andes, thin air, and absence of wheeled vehicles and large draft animals made moving bulk goods over long distances slow and costly. The Aztecs, operating on flatter lake-basin terrain with dense populations and canoe transport, could sustain larger long-distance market exchange. (A) is wrong because the Inca road system was the most extensive in the pre-Columbian Americas. (B) is wrong because neither empire relied much on sea trade. (C) is wrong because the Inca produced ample goods; the constraint was transport, not production.",
+    "id": "wh-fivesteps-u1-004",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The Inca built the most extensive road network in the pre-Columbian Americas; roads were not their disadvantage.",
+      "B": "Wrong. Neither the Aztecs nor the Incas conducted significant long-distance sea trade.",
+      "C": "Correct. Andean terrain, altitude, and the lack of wheeled transport and draft animals made bulk overland movement costly for the Inca.",
+      "D": "Wrong. The Inca produced plenty of marketable goods; the limiting factor was moving them, not making them."
+    },
+    "options": [
+      "(A) The absence of an Inca road network",
+      "(B) The Aztec use of long-distance sea trade routes",
+      "(C) Andean terrain and the lack of wheeled transport suited to it",
+      "(D) The Inca failure to produce marketable goods"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-015",
+    "source_stimulus_words": 0,
+    "stem": "Despite building the most extensive road network in the pre-Columbian Americas, the Inca moved less bulk trade over long distances than the Aztecs. Which factor best explains this?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "ECN",
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
   },
-  "options": [
-   "(A) The absence of an Inca road network",
-   "(B) The Aztec use of long-distance sea trade routes",
-   "(C) The Inca failure to produce marketable goods",
-   "(D) Andean terrain and the lack of wheeled transport suited to it"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-015",
-  "source_stimulus_words": 0,
-  "stem": "Despite building the most extensive road network in the pre-Columbian Americas, the Inca moved less bulk trade over long distances than the Aztecs. Which factor best explains this?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "ECN",
-   "ENV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1
- },
- {
-  "difficulty": "medium",
-  "explanation": "Both empires built extensive imperial highways with relay stations so that officials, soldiers, and messages could move quickly across enormous territories — the Persian Royal Road with its mounted couriers and the Inca Qhapaq Nan with its chasqui runners. (A) is wrong because the Inca used no coined money; exchange ran through labor tribute. (C) is wrong because neither empire depended on a standing navy for internal control. (D) is wrong because both empires kept conquered peoples under imperial authority rather than granting them independence.",
-  "id": "wh-fivesteps-u1-005",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The Inca had no coined currency; their economy ran on labor tribute, not money.",
-   "B": "Correct. Both built imperial highways with relay stations to move officials, troops, and information across vast territories.",
-   "C": "Wrong. Neither empire relied on a professional standing navy to hold its land empire together.",
-   "D": "Wrong. Both empires kept conquered peoples under imperial authority; neither granted subject cities full independence."
-  },
-  "options": [
-   "(A) Both empires ran on coined-money market economies",
-   "(B) Both built imperial road networks with relay stations for officials and messengers",
-   "(C) Both maintained professional standing navies for internal control",
-   "(D) Both granted conquered cities full political independence"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Comparison",
-  "source_id": "fivesteps-u1-016",
-  "source_stimulus_words": 0,
-  "stem": "Both the Persian Empire and the Inca Empire controlled vast, diverse territories. Which administrative practice did they most notably share?",
-  "stimulus": null,
-  "stimulus_words": 0,
-  "themes": [
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1
- }
+  {
+    "difficulty": "medium",
+    "explanation": "Both empires built extensive imperial highways with relay stations so that officials, soldiers, and messages could move quickly across enormous territories — the Persian Royal Road with its mounted couriers and the Inca Qhapaq Nan with its chasqui runners. (A) is wrong because the Inca used no coined money; exchange ran through labor tribute. (C) is wrong because neither empire depended on a standing navy for internal control. (D) is wrong because both empires kept conquered peoples under imperial authority rather than granting them independence.",
+    "id": "wh-fivesteps-u1-005",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The Inca had no coined currency; their economy ran on labor tribute, not money.",
+      "B": "Correct. Both built imperial highways with relay stations to move officials, troops, and information across vast territories.",
+      "C": "Wrong. Neither empire relied on a professional standing navy to hold its land empire together.",
+      "D": "Wrong. Both empires kept conquered peoples under imperial authority; neither granted subject cities full independence."
+    },
+    "options": [
+      "(A) Both empires ran on coined-money market economies",
+      "(B) Both built imperial road networks with relay stations for officials and messengers",
+      "(C) Both maintained professional standing navies for internal control",
+      "(D) Both granted conquered cities full political independence"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Comparison",
+    "source_id": "fivesteps-u1-016",
+    "source_stimulus_words": 0,
+    "stem": "Both the Persian Empire and the Inca Empire controlled vast, diverse territories. Which administrative practice did they most notably share?",
+    "stimulus": null,
+    "stimulus_words": 0,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
+  }
 ]

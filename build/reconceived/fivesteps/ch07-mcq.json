@@ -1,98 +1,98 @@
 [
- {
-  "explanation": "The passage ties the rising price of cannon and the even costlier fortifications needed to resist them to the decline of small towns and petty lordships. Only large kingdoms could afford this new scale of warfare, so military-fiscal pressure favored the growth of centralized states at the expense of small independent powers. The printing press (B) helped rulers administer and mobilize, but the passage links it to state capacity, not to the small-versus-large power shift. Plague (C) raised labor's value but did not decide which polities could wage war. Better ships (D) fed towns and trade, but the passage connects them to supplying concentrations of people, not to the military cost squeeze.",
-  "id": "wh-fivesteps-u1-001",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. The passage explicitly says the cost of cannon and of fortifications to withstand them outran what independent towns and small lordships could pay, shifting military power toward larger states that could afford them.",
-   "B": "Wrong. The printing press gave rulers uniform teaching for raising armies, but the passage does not present it as the force that bankrupted small towns and lordships.",
-   "C": "Wrong. Plague reduced the population and thereby raised the value of labor, but the passage does not connect it to the decline of small independent powers.",
-   "D": "Wrong. Improved wagons and ships moved supplies to growing towns; they explain urban growth, not the military cost burden that favored large kingdoms."
+  {
+    "explanation": "The passage ties the rising price of cannon and the even costlier fortifications needed to resist them to the decline of small towns and petty lordships. Only large kingdoms could afford this new scale of warfare, so military-fiscal pressure favored the growth of centralized states at the expense of small independent powers. The printing press (B) helped rulers administer and mobilize, but the passage links it to state capacity, not to the small-versus-large power shift. Plague (C) raised labor's value but did not decide which polities could wage war. Better ships (D) fed towns and trade, but the passage connects them to supplying concentrations of people, not to the military cost squeeze.",
+    "id": "wh-fivesteps-u1-001",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The printing press gave rulers uniform teaching for raising armies, but the passage does not present it as the force that bankrupted small towns and lordships.",
+      "B": "Correct. The passage explicitly says the cost of cannon and of fortifications to withstand them outran what independent towns and small lordships could pay, shifting military power toward larger states that could afford them.",
+      "C": "Wrong. Plague reduced the population and thereby raised the value of labor, but the passage does not connect it to the decline of small independent powers.",
+      "D": "Wrong. Improved wagons and ships moved supplies to growing towns; they explain urban growth, not the military cost burden that favored large kingdoms."
+    },
+    "options": [
+      "(A) The spread of the printing press",
+      "(B) The rising cost of artillery and the fortifications built to resist it",
+      "(C) Population losses from plague",
+      "(D) Improvements in wagons and square-rigged ships"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-012",
+    "source_stimulus_words": 148,
+    "stem": "According to the passage, which development most directly shifted power from small towns and petty lordships toward larger kingdoms?",
+    "stimulus": "In the fourteenth and fifteenth centuries, Europe steadied itself after crisis. Plague had thinned the population, which raised the value of the labor that remained. Four-wheeled wagons and square-rigged ships moved grain and goods to feed ever-growing towns. Yet war itself was changing in ways that punished small powers: cannon grew ruinously expensive, and the thick new walls needed to withstand cannon fire cost even more, quickly outrunning the treasuries of independent towns and petty lords. The printing press, meanwhile, spread identical lessons across entire realms, giving rulers the uniformity of teaching they needed to summon armies and administer laws on a scale no medieval baron had managed. As the medieval church's authority dimmed, kings, parliaments, and town councils took over schools, courts, and charity, and secular institutions began to shine more brightly. The age's greatest legacy, the argument runs, was the blending of practical and spiritual life within each person — the very seedbed of later secularism.",
+    "stimulus_words": 158,
+    "themes": [
+      "GOV",
+      "TEC",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1,
+    "difficulty": "medium"
   },
-  "options": [
-   "(A) The rising cost of artillery and the fortifications built to resist it",
-   "(B) The spread of the printing press",
-   "(C) Population losses from plague",
-   "(D) Improvements in wagons and square-rigged ships"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-012",
-  "source_stimulus_words": 148,
-  "stem": "According to the passage, which development most directly shifted power from small towns and petty lordships toward larger kingdoms?",
-  "stimulus": "In the fourteenth and fifteenth centuries, Europe steadied itself after crisis. Plague had thinned the population, which raised the value of the labor that remained. Four-wheeled wagons and square-rigged ships moved grain and goods to feed ever-growing towns. Yet war itself was changing in ways that punished small powers: cannon grew ruinously expensive, and the thick new walls needed to withstand cannon fire cost even more, quickly outrunning the treasuries of independent towns and petty lords. The printing press, meanwhile, spread identical lessons across entire realms, giving rulers the uniformity of teaching they needed to summon armies and administer laws on a scale no medieval baron had managed. As the medieval church's authority dimmed, kings, parliaments, and town councils took over schools, courts, and charity, and secular institutions began to shine more brightly. The age's greatest legacy, the argument runs, was the blending of practical and spiritual life within each person — the very seedbed of later secularism.",
-  "stimulus_words": 158,
-  "themes": [
-   "GOV",
-   "TEC",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 1,
-  "difficulty": "medium"
- },
- {
-  "explanation": "The author argues that secularism did not arrive suddenly with a later revolution in thought; its roots grew gradually inside the later Middle Ages, as church authority dimmed and secular institutions took over education, law, and charity. That is a continuity-and-change claim: change (the rise of secular public life) emerging gradually out of an earlier context rather than breaking sharply from it. (A) is wrong because the passage stresses gradual transformation, not a sudden rupture. (C) is wrong because the passage's whole point is that medieval developments did shape what followed. (D) is wrong because the passage describes church authority dimming, not strengthening.",
-  "id": "wh-fivesteps-u1-002",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The passage argues that secularism's roots grew gradually within the later Middle Ages, not that it appeared in a sudden, clean break.",
-   "B": "Correct. The author traces the rise of secular institutions and secularism to gradual developments inside the later Middle Ages — change emerging out of an earlier context.",
-   "C": "Wrong. The passage's central claim is precisely that medieval developments shaped later secular life, so it does not treat the period as irrelevant to what followed.",
-   "D": "Wrong. The passage says the luster of the medieval church dimmed as secular institutions rose; it does not describe church authority growing stronger."
+  {
+    "explanation": "The author argues that secularism did not arrive suddenly with a later revolution in thought; its roots grew gradually inside the later Middle Ages, as church authority dimmed and secular institutions took over education, law, and charity. That is a continuity-and-change claim: change (the rise of secular public life) emerging gradually out of an earlier context rather than breaking sharply from it. (A) is wrong because the passage stresses gradual transformation, not a sudden rupture. (C) is wrong because the passage's whole point is that medieval developments did shape what followed. (D) is wrong because the passage describes church authority dimming, not strengthening.",
+    "id": "wh-fivesteps-u1-002",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The author traces the rise of secular institutions and secularism to gradual developments inside the later Middle Ages — change emerging out of an earlier context.",
+      "B": "Wrong. The passage argues that secularism's roots grew gradually within the later Middle Ages, not that it appeared in a sudden, clean break.",
+      "C": "Wrong. The passage's central claim is precisely that medieval developments shaped later secular life, so it does not treat the period as irrelevant to what followed.",
+      "D": "Wrong. The passage says the luster of the medieval church dimmed as secular institutions rose; it does not describe church authority growing stronger."
+    },
+    "options": [
+      "(A) The rise of secular public life grew gradually out of developments within the later Middle Ages",
+      "(B) Secularism appeared suddenly, with no roots in the medieval past",
+      "(C) The later Middle Ages left no meaningful imprint on the modern world",
+      "(D) Church authority steadily strengthened as secular institutions declined"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Continuity and Change",
+    "source_id": "fivesteps-u1-013",
+    "source_stimulus_words": 148,
+    "stem": "Which claim about historical change does the author's argument about secularism best illustrate?",
+    "stimulus": "In the fourteenth and fifteenth centuries, Europe steadied itself after crisis. Plague had thinned the population, which raised the value of the labor that remained. Four-wheeled wagons and square-rigged ships moved grain and goods to feed ever-growing towns. Yet war itself was changing in ways that punished small powers: cannon grew ruinously expensive, and the thick new walls needed to withstand cannon fire cost even more, quickly outrunning the treasuries of independent towns and petty lords. The printing press, meanwhile, spread identical lessons across entire realms, giving rulers the uniformity of teaching they needed to summon armies and administer laws on a scale no medieval baron had managed. As the medieval church's authority dimmed, kings, parliaments, and town councils took over schools, courts, and charity, and secular institutions began to shine more brightly. The age's greatest legacy, the argument runs, was the blending of practical and spiritual life within each person — the very seedbed of later secularism.",
+    "stimulus_words": 158,
+    "themes": [
+      "CDI",
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1,
+    "difficulty": "medium"
   },
-  "options": [
-   "(A) Secularism appeared suddenly, with no roots in the medieval past",
-   "(B) The rise of secular public life grew gradually out of developments within the later Middle Ages",
-   "(C) The later Middle Ages left no meaningful imprint on the modern world",
-   "(D) Church authority steadily strengthened as secular institutions declined"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Continuity and Change",
-  "source_id": "fivesteps-u1-013",
-  "source_stimulus_words": 148,
-  "stem": "Which claim about historical change does the author's argument about secularism best illustrate?",
-  "stimulus": "In the fourteenth and fifteenth centuries, Europe steadied itself after crisis. Plague had thinned the population, which raised the value of the labor that remained. Four-wheeled wagons and square-rigged ships moved grain and goods to feed ever-growing towns. Yet war itself was changing in ways that punished small powers: cannon grew ruinously expensive, and the thick new walls needed to withstand cannon fire cost even more, quickly outrunning the treasuries of independent towns and petty lords. The printing press, meanwhile, spread identical lessons across entire realms, giving rulers the uniformity of teaching they needed to summon armies and administer laws on a scale no medieval baron had managed. As the medieval church's authority dimmed, kings, parliaments, and town councils took over schools, courts, and charity, and secular institutions began to shine more brightly. The age's greatest legacy, the argument runs, was the blending of practical and spiritual life within each person — the very seedbed of later secularism.",
-  "stimulus_words": 158,
-  "themes": [
-   "CDI",
-   "GOV",
-   "TEC"
-  ],
-  "type": "mcq",
-  "unit": 1,
-  "difficulty": "medium"
- },
- {
-  "difficulty": "hard",
-  "explanation": "The passage connects the printing press to a new state capacity: identical teaching spread across a whole realm gave rulers the uniformity needed to summon large numbers of people for armies and administration — for peace or war. That is a claim about print enabling mass mobilization and standardized rule. (A) is wrong because the press actually helped fracture religious unity during the Reformation. (C) is wrong because the passage treats print as strengthening, not weakening, rulers' reach. (D) is wrong because the press expanded literacy rather than restricting it.",
-  "id": "wh-fivesteps-u1-003",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The printing press helped fracture Western Christendom during the Reformation; the passage does not claim it unified religious belief.",
-   "B": "Correct. The passage says uniform printed teaching let rulers summon unheard-of numbers of people for peace or war — mass mobilization and standardized administration.",
-   "C": "Wrong. The passage presents the press as extending rulers' capacity to raise and direct large numbers, not as weakening royal authority.",
-   "D": "Wrong. The press spread identical lessons widely, which expanded rather than restricted the reach of literacy."
-  },
-  "options": [
-   "(A) The unification of religious belief across Europe",
-   "(B) The ability of rulers to mobilize and administer large populations uniformly",
-   "(C) The weakening of monarchs relative to local lords",
-   "(D) The restriction of literacy to a narrow elite"
-  ],
-  "reasoning": "Causation",
-  "skill": "Causation",
-  "source_id": "fivesteps-u1-014",
-  "source_stimulus_words": 148,
-  "stem": "According to the passage, what new capacity did the printing press give to rulers?",
-  "stimulus": "In the fourteenth and fifteenth centuries, Europe steadied itself after crisis. Plague had thinned the population, which raised the value of the labor that remained. Four-wheeled wagons and square-rigged ships moved grain and goods to feed ever-growing towns. Yet war itself was changing in ways that punished small powers: cannon grew ruinously expensive, and the thick new walls needed to withstand cannon fire cost even more, quickly outrunning the treasuries of independent towns and petty lords. The printing press, meanwhile, spread identical lessons across entire realms, giving rulers the uniformity of teaching they needed to summon armies and administer laws on a scale no medieval baron had managed. As the medieval church's authority dimmed, kings, parliaments, and town councils took over schools, courts, and charity, and secular institutions began to shine more brightly. The age's greatest legacy, the argument runs, was the blending of practical and spiritual life within each person — the very seedbed of later secularism.",
-  "stimulus_words": 158,
-  "themes": [
-   "TEC",
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 1
- }
+  {
+    "difficulty": "hard",
+    "explanation": "The passage connects the printing press to a new state capacity: identical teaching spread across a whole realm gave rulers the uniformity needed to summon large numbers of people for armies and administration — for peace or war. That is a claim about print enabling mass mobilization and standardized rule. (A) is wrong because the press actually helped fracture religious unity during the Reformation. (C) is wrong because the passage treats print as strengthening, not weakening, rulers' reach. (D) is wrong because the press expanded literacy rather than restricting it.",
+    "id": "wh-fivesteps-u1-003",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The printing press helped fracture Western Christendom during the Reformation; the passage does not claim it unified religious belief.",
+      "B": "Wrong. The passage presents the press as extending rulers' capacity to raise and direct large numbers, not as weakening royal authority.",
+      "C": "Wrong. The press spread identical lessons widely, which expanded rather than restricted the reach of literacy.",
+      "D": "Correct. The passage says uniform printed teaching let rulers summon unheard-of numbers of people for peace or war — mass mobilization and standardized administration."
+    },
+    "options": [
+      "(A) The unification of religious belief across Europe",
+      "(B) The weakening of monarchs relative to local lords",
+      "(C) The restriction of literacy to a narrow elite",
+      "(D) The ability of rulers to mobilize and administer large populations uniformly"
+    ],
+    "reasoning": "Causation",
+    "skill": "Causation",
+    "source_id": "fivesteps-u1-014",
+    "source_stimulus_words": 148,
+    "stem": "According to the passage, what new capacity did the printing press give to rulers?",
+    "stimulus": "In the fourteenth and fifteenth centuries, Europe steadied itself after crisis. Plague had thinned the population, which raised the value of the labor that remained. Four-wheeled wagons and square-rigged ships moved grain and goods to feed ever-growing towns. Yet war itself was changing in ways that punished small powers: cannon grew ruinously expensive, and the thick new walls needed to withstand cannon fire cost even more, quickly outrunning the treasuries of independent towns and petty lords. The printing press, meanwhile, spread identical lessons across entire realms, giving rulers the uniformity of teaching they needed to summon armies and administer laws on a scale no medieval baron had managed. As the medieval church's authority dimmed, kings, parliaments, and town councils took over schools, courts, and charity, and secular institutions began to shine more brightly. The age's greatest legacy, the argument runs, was the blending of practical and spiritual life within each person — the very seedbed of later secularism.",
+    "stimulus_words": 158,
+    "themes": [
+      "TEC",
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  }
 ]
