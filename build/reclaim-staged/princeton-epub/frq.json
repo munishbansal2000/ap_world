@@ -1,0 +1,317 @@
+[
+ {
+  "id": "princeton-pt1-saq1",
+  "type": "saq",
+  "prompt": "Using the two passages, respond to parts A, B, and C.\n\nIdentify and explain ONE piece of historical evidence that would support Source 1’s evaluation of Peter the Great’s approach to governing.\n\nIdentify and explain ONE piece of historical evidence that would support Source 2’s evaluation of Peter the Great’s approach to governing.\n\nFrom the two evaluations above, select the one that, in your opinion, is more accurate to the true governing style of Peter the Great. Briefly explain your choice using additional evidence beyond that used to answer part A or part B.\n\nGo to Question 1 in Practice Test 1: Diagnostic Answer Key and Explanations, Section I, Part B: Short Answer",
+  "stimulus": "Source 1\n\nHis first anxiety after his arrival was about the rebellion—in what it consisted, what the insurgents meant, who dared to instigate such a crime. And as nobody could answer accurately upon all points, and some pleaded their own ignorance, others the obstinacy of the Streltsi, he began to have suspicions of everybody’s loyalty…. No day, holy or profane, were the inquisitors idle; every day was deemed fit and lawful for torturing. There were as many scourges as there were accused, and every inquisitor was a butcher.\n\nSource: Diary of Johann Georg von Korb, ambassador from Emperor Leopold I to Czar Peter the Great in 1699\n\nSource 2\n\nThe tsar labored at the reform of fashions, or, more properly speaking, of dress. Until that time the Russians had always worn long beards, which they cherished and preserved with much care, allowing them to hang down on their bosoms, without even cutting the moustache. With these long beards they wore the hair very short, except the ecclesiastics, who, to distinguish themselves, wore it very long. The tsar, in order to reform that custom, ordered that gentlemen, merchants, and other subjects, except priests and peasants, should each pay a tax of one hundred rubles a year if they wished to keep their beards; the commoners had to pay one kopek each. Officials were stationed at the gates of the towns to collect that tax, which the Russians regarded as an enormous sin on the part of the tsar and as a thing which tended to the abolition of their religion.\n\nSource: \nLife of Peter the Great,\n by French historian Jean Rousset de Missy, c. 1730",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-saq2",
+  "type": "saq",
+  "prompt": "Use the image above, respond to parts A, B, and C.\n\nIdentify and explain ONE significant feature of how this source was produced and how it illustrates the historical context of the image from 1200 to 1450.\n\nIdentify and explain the author’s purpose in portraying Mansa Musa in this manner.\n\nIdentify and explain ONE outcome of Mansa Musa’s rule from 1200 to 1450.\n\nGo to Question 2 in Practice Test 1: Diagnostic Answer Key and Explanations, Section I, Part B: Short Answer",
+  "stimulus": "Painting of Mansa Musa holding a gold coin from an atlas produced by a Jewish cartographer in Spain, 1375.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-saq3",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C.\n\nIdentify and explain ONE way in which Enlightenment philosophies influenced reaction to the Industrial Revolution from 1750 to 1900.\n\nIdentify and explain ONE way that nation-states increased their power through the Industrial Revolution from 1750 to 1900.\n\nIdentify and explain ONE way that the Industrial Revolution affected the lives of the working class from 1750 to 1900.",
+  "stimulus": null,
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-saq4",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C.\n\nIdentify and explain ONE cause of Globalization after 1950.\n\nIdentify and explain ONE effect of Globalization after 1950.\n\nIdentify and explain ONE similarity between the global economic situation from 1900 to present and the global economic situation from 1450 to 1750.\n\n3-4",
+  "stimulus": null,
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-dbq",
+  "type": "dbq",
+  "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which decolonization transformed diplomacy in the twentieth century.",
+  "documents": [
+   {
+    "n": 1,
+    "text": "Source: The “Loi-Cadre” of June 23, 1956\n\nWithout prejudice to the expected reform of Title VIII of the Constitution, in order to give the overseas peoples a more direct share in the management of their own interests, measures of administrative decentralization and devolution shall be introduced within the territories, groups of territories and central services under the jurisdiction of the Ministry of France Overseas. To this end, decrees taken…on the basis of the report given by the Minister of France Overseas and, on occasion, by the Ministers concerned, may:\n\n1) Modify the role and powers of administration and management of the general governments with a view to transforming them into coordinating bodies…\n\n2) Institute government councils in all the territories…\n\n3) Grant broadened deliberative powers…\n\n4) Determine the conditions of the institution…"
+   },
+   {
+    "n": 2,
+    "text": "Source: Declaration on Granting Independence to Colonial Countries and Peoples, 1960\n\nGeneral Assembly Resolution 1514 (XV), December 14, 1960, The General Assembly:\n\nMindful\n of the determination proclaimed by the peoples of the world in the Charter of the United Nations to reaffirm faith in fundamental human rights, in the dignity and worth of the human person,…Solemnly proclaims the necessity of bringing to a speedy and unconditional end colonialism in all its forms and manifestations; And to this end Declares that: 1. The subjection of peoples to alien subjugation, domination and exploitation constitutes a denial of fundamental human rights, is contrary to the Charter of the United Nations and is an impediment to the promotion of world peace and co-operation. 2. All peoples have the right to self-determination; by virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development. 3. Inadequacy of political, economic, social or educational preparedness should never serve as a pretext for delaying independence. 4. All armed action or repressive measures of all kinds directed against dependent peoples shall cease in order to enable them to exercise peacefully and freely their right to complete independence, and the integrity of their national territory shall be respected."
+   },
+   {
+    "n": 3,
+    "text": "Source: British Government Statement on its policy In Burma, May, 1945.\n\nThe considered policy of His Majesty’s Government of promoting full self-government in Burma has frequently been declared. It is and has consistently been our aim to assist her political development till she can sustain the responsibilities of complete self-government within the British Commonwealth and consequently attain a status equal to that of the Dominions and of this country. 2. Inevitably Burma’s progress towards full self-government has been interrupted and set back by the Japanese invasion and the long interval of enemy occupation and active warfare in her territories, during which she has suffered grave damage not only in the form of material destruction but in a shattering of the foundations of her economic and social life. It is, of course, upon these foundations that a political structure rests, and until the foundations are once again firm the political institutions which were in operation before the Japanese invasion cannot be restored…. 3. Until these foundations are restored sufficiently, to enable the first essential political process to be undertaken, that is for a General Election to be held, it is not possible to re-establish a Burmese Government as it existed till 1941. It is accordingly necessary, so long as the government of the country cannot be carried on in accordance with the provisions of the 1935 Act, that recourse should continue to be had to the provisions of Section 139, under which the administration is carried on by the Governor in direct responsibility to His Majesty’s Government…. But though this initial period of controlled government is necessary, His Majesty’s Government are anxious that all the functions of government should not in fact be concentrated in the Governor, but that he should be provided with definite means of obtaining Burmese assistance and advice in the discharge of them and have power to associate with himself representatives of Burmese opinion in executive and legislative capacities."
+   },
+   {
+    "n": 4,
+    "text": "Source: Map depicting Colonial Affiliations of Africa and India before 1945."
+   },
+   {
+    "n": 5,
+    "text": "Source: President Sukarno of Indonesia’s speech at the opening of the Bandung Conference, April 18 1955\n\n…today we are faced with a situation where the well-being of mankind is not always the primary consideration. Many who are in places of high power think, rather, of controlling the world. Yes, we are living in a world of fear. The life of man today is corroded and made bitter by fear. Fear of the future, fear of the hydrogen bomb, fear of ideologies. Perhaps this fear is a greater danger than the danger itself, because it is fear which drives men to act foolishly, to act thoughtlessly, to act dangerously…. All of us, I am certain, are united by more important things than those which superficially divide us. We are united, for instance, by a common detestation of colonialism in whatever form it appears. We are united by a common detestation of racialism. And we are united by a common determination to preserve and stabilise peace in the world."
+   },
+   {
+    "n": 6,
+    "text": "Source: Jawaharlal Nehru’s December 18, 1956 speech in Washington D.C.\n\nI speak of India because it is my country and I have some right to speak for her. But many other countries in Asia tell the same story, for Asia today is resurgent, and these countries which long lay under foreign yoke have won back their independence and are fired by a new spirit and strive toward new ideals. To them, as to us, independence is as vital as the breath they take to sustain life, and colonialism, in any form, or anywhere, is abhorrent…Peace and freedom have become indivisible, and the world cannot continue for long partly free and partly subject. In this atomic age peace has also become a test of human survival. Recently we have witnessed two tragedies which have powerfully affected men and women all over the world. These are the tragedies in Egypt and Hungary. Our deeply felt sympathies must go out to those who have suffered or are suffering, and all of us must do our utmost to help them and to assist in solving these problems in a peaceful and constructive way. But even these tragedies have one hopeful aspect, for they have demonstrated that the most powerful countries cannot revert to old colonial methods or impose their domination over weak countries. World opinion has shown that it can organize itself to resist such outrages. Perhaps, as an outcome of these tragedies, freedom will be enlarged and will have a more assured basis. The preservation of peace forms the central aim of India’s policy. It is in the pursuit of this policy that we have chosen the path of nonalinement [nonalignment] in any military or like pact of alliance. Nonalinement does not mean passivity of mind or action, lack of faith or conviction. It does not mean submission to what we consider evil. It is a positive and dynamic approach to such problems that confront us."
+   },
+   {
+    "n": 7,
+    "text": "Source: Speech at \nThe First Afro-Asian People’s Solidarity Conference,\n Anwar el Sadat, 1957\n\nThe idea of Afro-Asian Solidarity did not emanate out of naught, so as to be born and see daylight at Bandung all of a sudden. But before materializing as an historical event, it was an impression and an innate volition instinctively developing in the mind of the colonized and the exploited—the human being whom imperialism had reduced to a typefied specimen of a subjugated specie and bondsman recognisable in every colonized country. Indeed the idea of solidarity was deeply rooted in the hearts of those subjected peoples, continually aspiring through diverse national movements to smash the fetters of bondage and redeem their salvation. In the course of time these national movements were destined to meet, to consolidate and to react with one another, purposefully in some instances, but unconsciously and spontaneously in the majority of cases. It is evident therefore, that the Bandung Conference was not a haphazard event, but rather a natural psychological factor which led to the awakening of the peoples of Africa and Asia and roused them from their slumber to solve the problem of their very existence and survival, and to resume the struggle for the recovery of their liberty and freedom.\n\n…Gone for ever is the era where the future of war and peace was decided upon in a few European capitals, because today we happen to be strong enough to make the decision ourselves in that respect. Our weight in the international balance has now become preponderant. Only think of the colossal number of our people, our natural resources, the vastness of the area covered by our respective countries, and our strategic positions.\n\nEND OF DOCUMENTS FOR QUESTION 1\n\nGo to Question 1 in Practice Test 1: Diagnostic Answer Key and Explanations, Section II: Free Response"
+   }
+  ],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-leq2",
+  "type": "leq",
+  "prompt": "In the period 1200 to 1450, rapidly developing technologies led to increased regional and trans-regional trade. Develop an argument that evaluates the extent to which the new technology contributed to an increase in trade in this time period.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-leq3",
+  "type": "leq",
+  "prompt": "In the period from 1450 to 1750, European overseas empires expanded and global interaction increased. Certain Asian states were able to resist this influence and contact. Develop an argument that evaluates the reasons some Asian nations were able to remain isolated from outside influences.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt1-leq4",
+  "type": "leq",
+  "prompt": "In the period after 1900, movements championing women’s equality varied, with many states adopting policies to offer more opportunities to women. Develop an argument that evaluates the extent to which one or more states reacted to gender equality movements.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT1"
+ },
+ {
+  "id": "princeton-pt2-saq1",
+  "type": "saq",
+  "prompt": "Using the passage, respond to parts A, B, and C.\n\nIdentify and explain ONE historical example from 1750 to 1900 that illustrates the claim made by the author about division of labor in the text.\n\nIdentify and explain ONE critique of Smith’s view of labor between 1750 and 1900.\n\nIdentify and explain ONE way that Smith’s argument is a response to economic systems between 1450 and 1750.\n\nGo to Question 1 in Practice Test 2: Answer and Explanations, Section I, Part B: Short Answer",
+  "stimulus": "“The greatest improvement in the productive powers of labor, and the greater part of the skill, dexterity, and judgment with which it is anywhere directed, or applied, seem to have been the effects of the division of labor…. To take an example, therefore, the trade of the pin-maker; a workman not educated to this business, nor acquainted with the use of the machinery employed in it, could scarce, perhaps, with his utmost industry, make one pin in a day, and certainly could not make twenty. But in the way in which this business is now carried on, not only the whole work is a peculiar trade, but it is divided into a number of branches, of which the greater part are likewise peculiar trades. One man draws out the wire, another straights it, a third cuts it, a fourth points it, a fifth grinds it at the top for receiving, the head; to make the head requires two or three distinct operations; to put it on is a peculiar business, to whiten the pins is another; it is even a trade by itself to put them into the paper; and the important business of making a pin is, in this manner, divided into about eighteen distinct operations, which, in some factories, are all performed by distinct hands, though in others the same man will sometimes perform two or three of them.”\n\nSource: Adam Smith, \nThe Wealth of Nations,\n 1776",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-saq2",
+  "type": "saq",
+  "prompt": "Use the image above, respond to parts A, B, and C.\n\nIdentify and explain ONE historical development before 1957 that contextualizes the image above.\n\nIdentify and explain ONE way that the state mentioned in the image changed after 1980.\n\nIdentify and explain ONE political result of the event shown in the image.\n\nGo to Question 2 in Practice Test 2: Answer and Explanations, Section I, Part B: Short Answer",
+  "stimulus": "Poster of the Sputnik launch in 1957\n\nThe above poster celebrates the tenth anniversary of the Sputnik launch in 1957, in which the Soviet Union successfully launched a satellite into space.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-saq3",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C.\n\nExplain ONE factor that led to the emergence of the Mongol Empire between 1200 and 1450.\n\nIdentify and explain ONE specific way that the Mongols mixed their culture with that of foreign cultures between 1200 and 1450.\n\nIdentify and explain ONE way that the Mongols influenced one of their conquered states between 1200 and 1450.",
+  "stimulus": null,
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-saq4",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C.\n\nIdentify and explain ONE reason for England’s central role in the Industrial Revolution between 1750 and 1900.\n\nIdentify and explain the importance of ONE technology developed between 1750 and 1900.\n\nIdentify and explain ONE change in the use of the technology you picked for part B between 1900 and the present.\n\n3-4",
+  "stimulus": null,
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-dbq",
+  "type": "dbq",
+  "prompt": "Using the documents and your knowledge of world history, evaluate how governments and international organizations responded to the consequences of World War II after it ended in 1945.",
+  "documents": [
+   {
+    "n": 1,
+    "text": "Source: Preamble to the Charter of the United Nations, 1945.\n\nWE THE PEOPLES OF THE UNITED NATIONS DETERMINED\n\nto save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind, and\n\nto reaffirm faith in fundamental human rights, in the dignity and worth of the human person, in the equal rights of men and women and of nations large and small, and\n\nto establish conditions under which justice and respect for the obligations arising from treaties and other sources of international law can be maintained, and\n\nto promote social progress and better standards of life in larger freedom,\n\nAND FOR THESE ENDS\n\nto practice tolerance and live together in peace with one another as good neighbours, and\n\nto unite our strength to maintain international peace and security, and\n\nto ensure, by the acceptance of principles and the institution of methods, that armed force shall not be used, save in the common interest, and\n\nto employ international machinery for the promotion of economic and social advancement of all peoples,\n\nHAVE RESOLVED TO COMBINE OUR EFFORTS TO ACCOMPLISH THESE AIMS\n\nAccordingly, our respective Governments, through representatives assembled in the city of San Francisco, who have exhibited their full powers found to be in good and due form, have agreed to the present Charter of the United Nations and do hereby establish an international organization to be known as the United Nations."
+   },
+   {
+    "n": 2,
+    "text": "Source: Preamble to the Constitution of Japan, 1946.\n\nWe, the Japanese people, acting through our duly elected representatives in the National Diet, determined that we shall secure for ourselves and our posterity the fruits of peaceful cooperation with all nations and the blessings of liberty throughout this land, and resolved that never again shall we be visited with the horrors of war through the action of government, do proclaim that sovereign power resides with the people and do firmly establish this Constitution. Government is a sacred trust of the people, the authority for which is derived from the people, the powers of which are exercised by representatives of the people, and the benefits of which are enjoyed by the people. This is a universal principle of mankind upon which this Constitution is founded. We reject and revoke all constitutions, laws, ordinances, and rescripts in conflict herewith. We, the Japanese people, desire peace for all time and are deeply conscious of the high ideals controlling human relationship and we have determined to preserve our security and existence, trusting in the justice and faith of the peace-loving peoples of the world. We desire to occupy an honored place in an international society striving for the preservation of peace, and the banishment of tyranny and slavery, oppression and intolerance for all time from the earth. We recognize that all peoples of the world have the right to live in peace, free from fear and want. We believe that no nation is responsible to itself alone, but that laws of political morality are universal; and that obedience to such laws is incumbent upon all nations who would sustain their own sovereignty and justify their sovereign relationship with other nations. We, the Japanese people, pledge our national honor to accomplish these high ideals and purposes with all our resources."
+   },
+   {
+    "n": 3,
+    "text": "Source: Preamble to the Constitution of India, 1949.\n\nWe, the people of India, having solemnly resolved to constitute India into a sovereign socialist secular democratic republic and to secure to all its citizens:\n\nJUSTICE, social, economic and political;\n\nLIBERTY of thought, expression, belief, faith and worship;\n\nEQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;\n\nIn our constituent assembly this twenty-sixth day of November, 1949, do hereby adopt, enact, and give to ourselves this constitution."
+   },
+   {
+    "n": 4,
+    "text": "Source: Preamble to the Constitution of France, 1958.\n\nThe French people hereby solemnly proclaim their dedication to the Rights of Man and the principle of national sovereignty as defined by the Declaration of 1789, reaffirmed and complemented by the Preamble to the 1946 Constitution.\n\nBy virtue of these principles and that of the free determination of peoples, the Republic offers to the Overseas Territories that express the will to adhere to them new institutions based on the common ideal of liberty, equality, and fraternity and conceived with a view to their democratic evolution."
+   },
+   {
+    "n": 5,
+    "text": "Source: Vietnamese Declaration of Independence, 1945.\n\n…for more than eighty years, the French imperialists, abusing the standard of Liberty, Equality, and Fraternity, have violated our Fatherland and oppressed our fellow citizens. They have acted contrary to the ideals of humanity and justice. In the field of politics, they have deprived our people of every democratic liberty…\n\nFor these reasons, we, members of the Provisional Government, representing the whole Vietnamese people, declare that from now on we break off all relations of a colonial character with France; we repeal all the international obligations that France has so far subscribed to on behalf of Vietnam and we abolish all the special rights the French have unlawfully acquired in our Fatherland. The whole Vietnamese people, animated by a common purpose, are determined to fight to the bitter end against any attempt by the French colonialists to reconquer their country. We are convinced that the Allied nations, which at Tehran and San Francisco have acknowledged the principles of self-determination and equality of nations, will not refuse to acknowledge the independence of Vietnam. A people who have courageously opposed French domination for more than eight years, a people who have fought side by side with the Allies against the Fascists during these last years, such a people must be free and independent. For these reasons, we, members of the Provisional Government of the Democratic Republic of Vietnam, solemnly declare to the world that Vietnam has the right to be a free and independent country—and in fact is so already. The entire Vietnamese people are determined to mobilize all their physical and mental strength, to sacrifice their lives and property in order to safeguard their independence and liberty."
+   },
+   {
+    "n": 6,
+    "text": "Source: Universal Declaration of Human Rights, 1948.\n\nArticle 1.\n\nAll human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.\n\nArticle 2.\n\nEveryone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.\n\nArticle 3.\n\nEveryone has the right to life, liberty and security of person.\n\nArticle 4.\n\nNo one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.\n\nArticle 5.\n\nNo one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.\n\nArticle 6.\n\nEveryone has the right to recognition everywhere as a person before the law."
+   },
+   {
+    "n": 7,
+    "text": "Source: Final Report to the Secretary of the Army on the Nuremberg War Crimes Trials United States, 1949.\n\nThe documents and testimony of the Nuremberg record can be of the greatest value in showing the Germans the truth about the recent past, quite apart from the judgments and sentences pronounced on individual defendants. The judgments, and the principles of law on which they were based, must obviously be considered in a world setting, and not in a purely German context. There is little chance that the judgments and principles of Nuremberg will be of much benefit in Germany if they fail to win more than lip-service in the world at large.\n\nEND OF DOCUMENTS FOR QUESTION 1\n\nGo to Question 1 in Practice Test 2: Answer and Explanations, Section II: Free Response"
+   }
+  ],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-leq2",
+  "type": "leq",
+  "prompt": "In the period 1200 to 1450, monotheistic religions continued to dominate global faith traditions. Develop an argument that evaluates the extent to which the spread of Islam in Africa transformed civilization there.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-leq3",
+  "type": "leq",
+  "prompt": "In the period 1450 to 1750, Europe began to divide itself along explicitly religious lines. Develop an argument that evaluates the extent to which the Christian faith was transformed by the Reformation.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt2-leq4",
+  "type": "leq",
+  "prompt": "In the period after 1900, nationalist leaders challenged empires through independence movements. Develop an argument that evaluates the extent to which Asia was transformed by anti-imperialism.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT2"
+ },
+ {
+  "id": "princeton-pt3-saq1",
+  "type": "saq",
+  "prompt": "Use the two passages, respond to parts A, B, and C.\n\nIdentify and explain ONE difference between the interpretations of Source 1 and Source 2.\n\nExplain ONE piece of historical evidence from 1450 to 1750 not mentioned in the text that could be used to support the interpretation of Source 1.\n\nExplain ONE piece of historical evidence from 1450 to 1750 not mentioned in the text that could be used to support the interpretation of Source 2.\n\nGo to Question 1 in Practice Test 3: Answer and Explanations, Section I, Part B: Short Answer",
+  "stimulus": "Source 1\n\n“The Westernization of Russia under Peter the Great was a fundamental shift of Russian society, transferring its focus away from the east and towards the west. In so doing, he achieved a complete transformation of Russian society, transforming it from a largely agricultural land of powerful aristocrats into an industrial society with a powerful king at the helm of state and loyal, Western oriented nobles to support his rule.”\n\nSource 2\n\n“Peter the Great’s Russia, at his passing in 1725, was fundamentally no different a society than it was when Peter took the throne. Peter rightly saw that Russia’s existential threats were in the west and south, and no longer in the east, and they required a more advanced army and a more powerful Tsar than Russia had ever had before. Once his reforms were complete, Russia enjoyed an army the rival of its neighbors, but the success of his reforms can be called into question as the Romanov dynasty was pushed to extinction almost two centuries later.”",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-saq2",
+  "type": "saq",
+  "prompt": "Use the map above, respond to parts A, B, and C.\n\nIdentify and explain ONE cause of the historical situation shown on this map between 1750 and 1900.\n\nIdentify and explain ONE way that the relationship between Africa and Europe changed between 1450–1750 and this time period.\n\nIdentify and explain ONE way that people in Africa responded to this historical situation after 1900.\n\nGo to Question 2 in Practice Test 3: Answer and Explanations, Section I, Part B: Short Answer",
+  "stimulus": "Colonization Map of Africa in 1914",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-saq3",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C.\n\nIdentify and explain ONE way in which a government consolidated its power during the period 1750–1900.\n\nIdentify and explain ONE way in which consolidation of government power was challenged between 1750 and 1900.\n\nIdentify and explain ONE major continuity of state formation from the period 1450–1750 and the period 1750–1900.",
+  "stimulus": null,
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-saq4",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C.\n\nIdentify and explain ONE feature of trade in East Asia between 1200 and 1450.\n\nIdentify and explain ONE difference between trade in East Asia and trade in South Asia between 1200 and 1450.\n\nIdentify and explain ONE change in global trade networks from 1200 to 1450 and 1450 to 1750.\n\n3-4",
+  "stimulus": null,
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-dbq",
+  "type": "dbq",
+  "prompt": "Evaluate the extent to which the roles and perceptions of women changed in the Chinese and Vietnamese revolutions of the twentieth century.",
+  "documents": [
+   {
+    "n": 1,
+    "text": "Source: He Zhen, wife of the anti-Manchu leader Liu Shipei, 1908.\n[*1]\n\n…those of us who are women suffer untold bitterness and untold wrongs in order to get hold of this rice bowl. My fellow women: do not hate men! Hate that you do not have food to eat. Why don’t you have any food? It is because you don’t have any money to buy food. Why don’t you have any money? It is because the rich have stolen our property…\n\nThere is now a kind of person who says that if women only had a profession, they would not fear starvation. Middle-class families, for example, are sending their daughters to school…. Then if they get married they can become teachers. They won’t need to rely on men in order to survive. Likewise, families that are very poor are sending their daughters and daughters-in-law to work in factories…. However, as I see it schools too are owned and operated by certain people, and if you teach in a school, then you are depending on those people in order to eat. Factories too are built by investors, and if you work in a factory, you are depending on its owners in order to eat….\n\nI have a good idea that will exempt you from relying on others while still finding food naturally. How? By practicing communism. Think of all the things in the world. They were either produced by nature or by individual labor. Why can rich people buy them but poor people cannot? It is because the world trades with money…. If every single woman understands that nothing is more evil than money, and they all unite together to cooperate with men to utterly overthrow the rich and powerful and then abolish money, then absolutely nothing will be allowed for individuals to own privately."
+   },
+   {
+    "n": 2,
+    "text": "Source: Sharon L. Sievers, “Women in China, Japan, and North Korea,” 1988.\n[*2]\n\nThe following quotations are taken from Vietnamese and Chinese revolutionary writings and interviews with women involved in revolutionary movements in each country. They express the women’s goals, their struggle to be taken seriously in the uncharacteristic political roles they had assumed, and some of the many ways women found self-respect and redress for their grievances as a result of the changes wrought by the spread of the new social order.\n\n“Women must first of all be masters of themselves. They must strive to become skilled workers…and, at the same time, they must strictly observe family planning. Another major question is the responsibility of husbands to help their wives look after children and other housework.”\n\n“We intellectuals had had little contact with the peasants and when we first walked through the village in our Chinese gowns or skirts the people would just stare at us and talk behind our backs. When the village head beat gongs to call out the women to the meeting we were holding for them, only men and old women came, but no young ones. Later we found out that the landlords and rich peasants had spread slanders among the masses saying ‘They are a pack of wild women. Their words are not for young brides to hear.’ ”\n\n“Brave wives and daughters-in-law, untrammelled by the presence of their menfolk, could voice their own bitterness, encourage their poor sisters to do likewise, and thus eventually bring to the village-wide gatherings the strength of ‘half of China’ as the more enlightened women, very much in earnest, like to call themselves. By ‘speaking pains to recall pains,’ the women found that they had as many if not more grievances than the men, and that given a chance to speak in public, they were as good at it as their fathers and husbands.”\n\n“In Chingstun the work team found a woman whose husband thought her ugly and wanted to divorce her. She was very depressed until she learned that under the Draft Law [of the Communist party] she could have her own share of land. Then she cheered up immediately. ‘If he divorces me, never mind,’ she said. ‘I’ll get my share and the children will get theirs. We can live a good life without him.’ ”"
+   },
+   {
+    "n": 3,
+    "text": "Source: Florence Ayscough, \nChinese Women: Yesterday and Today,\n 1938.\n\nTRADITIONAL WOMEN\n\n“To be unassuming, to yield; to be respectful, to revere, to think first of other people afterwards herself, if she performs a kind action, to make no mention thereof, if she commits a find, to make no denial; to endure reproach, treasure reproof, to behave with veneration and right fear; such demeanor is described as exemplify humility and adaptability….\n\nTo lie down to sleep when it is late, to be at work, early, from dawn till dark not to shirk puffing forth strength, to bend the mind to domestic affairs, nor to evade such, be they troublesome or easy, to accomplish that which must be done, to be orderly, to systematize the way of conduct; such behavior is said to be absorption in diligent too….\n\nTo be sedate in manner, of upright purpose, to serve her lord her husband; to keep herself pure, composed, not being given to misplaced jest or laughter; free from pollution, reverently to arrange the wine and food to be placed before tablets of progenitors, ancestors, the oblations of dead forefathers….\n\nNothing equals in importance the imperative duty of obedience! If the mother-in-law say, ‘It is not so’ and it be so, assuredly, it is right to obey her order. If the mother-in-law say, ‘It is so’ even if it not be so, nevertheless, act in accordance with the command. Do not think of opposing, or of discussing what is, what is not; do not struggle to divide the crooked from the straight. This is what is called the imperative duty of obedience. The ancient book Nu Hsien-Patterns for Woman states: ‘A wife is like the shadow from high sunlight, the echo following sound.’\n\nMODERN WOMEN\n\n“ ‘…You’d better think it over and choose some other job. Driving tractors is no work for a slip of a girl like you.’\n\nThe man in charge of registration for the tractor-drivers’ training class had clearly made up his mind that I was unsuitable. I felt angry because it seemed unjust that he should try and turn me down without even a trial.\n\n‘Let me take the entrance examination anyway,’ I said. ‘If I fail, I shall have nothing more to say.’\n\nI passed the examination. In the six years that followed I achieved my ambition of becoming a tractor-driver, worked for a while as instructor to a women’s tractor-drivers team, and became the vice-director of the Shuangchiao State Farm near Peking. That is still my work today.”"
+   },
+   {
+    "n": 4,
+    "text": "Source: Huy Oánh, “Produce and Prepare to Fight the War” (\nSÁN XUÂĂT VÀ SÁN SÀNG CHIÊĂN ĐÂĂU\n), Vietnam, 1966.\n\nImage reprinted courtesy of The British Library"
+   },
+   {
+    "n": 5,
+    "text": "Source: Phan Boi Chau, Vietnamese nationalist leader, “The New Vietnam,” 1907.\n\nWith regard to education, that of the military and women is the most important…\n\nWomen will become good mothers, loving wives, knowledgeable in literature and poetry, well trained in commerce; they are also expert educators of our children and efficient assistants to our soldiers. A good mother will have nice children; she will be a virtuous wife to a perfect husband. Moreover in politics women will possess many rights. Only with education will one know how to neglect one’s private interests in order to take care of the public good, so as to make one’s country accumulate its riches and increase its strength. A country that has no patriotic women is bound to be subjugated by another country…In all matters related to finance, in industrial schools…in trading outlets, in banks…it is best to employ well-educated women. They will strive to serve the country as much as men. Their pride and dignity will be equal to men’s…Every woman in the country should of course endeavor to become a good mother, a virtuous wife, but also a talented woman…Women shall not be inferior to men. That’s the aim of women’s education."
+   },
+   {
+    "n": 6,
+    "text": "Source: Communist political pamphlet, 1930.\n\nOh, unhappy patriots, let us struggle alongside our men. Let us destroy the French capitalists, the mandarins, in order to establish a social government that will give us freedom, equality, and happiness…Let us work and act energetically in order to achieve the Revolution, to obtain equality, between men and women."
+   },
+   {
+    "n": 7,
+    "text": "Source: Statement by Le Duan, Vietnamese communist party politician, speech at the Vietnamese Women’s Fourth Congress, 1974.\n\nThe Viet Nam Fatherland owes its heroic sons and daughters to the contributions of heroic, undaunted, faithful and responsible mothers. For many centuries, the Vietnamese mothers have handed down to us the mettle of the Trung Sisters and Lady Trieu, the tradition of industrious labour and love of country and of home. We can rightly be proud of our Vietnamese mothers.\n\nEND OF DOCUMENTS FOR QUESTION 1\n\nGo to Question 1 in Practice Test 3: Answer and Explanations, Section II: Free Response"
+   }
+  ],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-leq2",
+  "type": "leq",
+  "prompt": "In the period 1750 to 1900, European states sought to grow their empires through imperial expansion. Develop an argument that evaluates the extent to which European empires transformed China’s government during this time period.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-leq3",
+  "type": "leq",
+  "prompt": "In the period 1450 to 1750, international commerce expanded as more empires came into contact with one another. Develop an argument that evaluates the extent to which long-distance trade was transformed by European empires.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ },
+ {
+  "id": "princeton-pt3-leq4",
+  "type": "leq",
+  "prompt": "In the period 1750 to 1900, world economies grew rapidly as part of the Industrial Revolution. Develop an argument that evaluates the extent to which industrialism transformed cultures in Western states.",
+  "documents": [],
+  "format": "old",
+  "tag": "OLD-FORMAT",
+  "inspired_by": "princeton PT3"
+ }
+]
