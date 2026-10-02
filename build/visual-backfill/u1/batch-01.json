@@ -1,0 +1,410 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "The Catalan Atlas was drawn in Majorca by Abraham Cresques, who never left Europe — yet he gave the Malian ruler pride of place, crowned and holding gold. He did so because Mali's gold wealth was famous around the Mediterranean after Mansa Musa's 1324 pilgrimage to Mecca, when his lavish spending reportedly depressed gold prices in Cairo. The image is evidence that trans-Saharan trade networks carried news — and gold — between West Africa and Europe.",
+    "id": "wh-vis-u1-001",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the image shows a West African Muslim king as Europeans imagined him; nothing in it suggests Europeans were converting to Islam.",
+      "B": "Wrong: the atlas was made in Majorca for the king of France — Mansa Musa had nothing to do with its production.",
+      "C": "Right: a European cartographer who never visited Africa still knew Mali's ruler by his gold, which means reports of Mali's wealth traveled the trans-Saharan trade routes to the Mediterranean world.",
+      "D": "Wrong: the figure is stylized and imagined, drawn from travelers' reports, not from a sitting — no European artist visited Musa's court."
+    },
+    "options": [
+      "(A) Mali's rulers had converted European merchants to Islam",
+      "(B) the map was commissioned and paid for by Mansa Musa himself",
+      "(C) news of Mali's gold wealth had reached Mediterranean Europe across the Sahara",
+      "(D) European artists had personally visited the Malian court and sketched its ruler from life"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The way Mansa Musa is depicted on this European-made map best supports which conclusion about the period 1200–1450?",
+    "stimulus": "Detail from the Catalan Atlas, a world map made in Majorca in 1375. It shows Mansa Musa, the ruler of the West African empire of Mali, seated on a throne. He wears a gold crown and holds up a large gold nugget, with a scepter resting against his shoulder.",
+    "stimulus_words": 49,
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The map shows Mali stretched in a band across the Senegal and Niger river valleys, with Timbuktu, Gao, and Walata on its northern edge and Jenne to the south. That position let Mali's rulers tax the trade connecting the gold-producing regions of the south with the Saharan caravan cities of the north — the gold-for-salt exchange that funded the empire.",
+    "id": "wh-vis-u1-002",
+    "image_license": "CC BY 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Map_of_the_Mali_Empire.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the map shows the empire barely reaching the Atlantic coast, and no direct sea trade with Europe existed yet.",
+      "B": "Right: the empire sits squarely between the southern goldfields and the northern caravan cities (Timbuktu, Gao, Walata), the exact position for taxing the trans-Saharan gold trade.",
+      "C": "Wrong: the tropical forest zone lies south of the shaded imperial territory.",
+      "D": "Wrong: the map shows Mali entirely south of the Sahara, nowhere near the Mediterranean."
+    },
+    "options": [
+      "(A) seaports on the Atlantic coast that traded directly with Europe",
+      "(B) the overland routes linking the southern goldfields to the caravan cities of the north",
+      "(C) plantations in the tropical forest zone south of the Niger",
+      "(D) the Mediterranean coastline of North Africa, which the map shows under Mali's direct control"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Based on the map, the economic power of the Mali Empire rested mainly on its control of:",
+    "stimulus": "Map of the Mali Empire at its height (c. 1350). The empire (shaded green) stretches from the Atlantic coast across the Senegal and Niger Rivers. Labeled cities include Timbuktu, Gao, and Walata along the northern edge, and Jenne on the Niger bend.",
+    "stimulus_words": 42,
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Around 1330, under Muhammad bin Tughluq, the Delhi Sultanate reached its greatest extent — the brown shading covers nearly the whole subcontinent. It was a Muslim-ruled state (founded by Turkic military commanders) governing a largely Hindu population, and at this moment it was the dominant power in South Asia.",
+    "id": "wh-vis-u1-003",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Map_of_the_Delhi_Sultanate_in_1330_%28world%29.png",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the shading covers nearly the entire Indian subcontinent, and the Delhi Sultanate was a Muslim-ruled state — at its 1330 height it was South Asia's dominant power.",
+      "B": "Wrong: the map shows the sultanate covering far more than the city of Delhi.",
+      "C": "Wrong: the sultans were Muslim Turks and Afghans, not Hindu rajas, and they were independent of the Mongols.",
+      "D": "Wrong: the Delhi Sultanate was independent; the Yuan dynasty never governed India."
+    },
+    "options": [
+      "(A) it was a Muslim-ruled state controlling nearly all of the subcontinent at its height",
+      "(B) it controlled only the walled city of Delhi and the farmland immediately around it",
+      "(C) it was governed by Hindu rajas who paid yearly tribute to the Mongol khans in Karakorum",
+      "(D) it was a far western province governed directly by officials of the Mongol Yuan dynasty"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The map best supports which statement about the Delhi Sultanate around 1330?",
+    "stimulus": "Map showing the territory of the Delhi Sultanate around 1330, under Muhammad bin Tughluq, shaded brown. The shaded area covers nearly the entire Indian subcontinent, from the Indus valley in the west to Bengal in the east and south to the tip of the peninsula.",
+    "stimulus_words": 45,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The Qutb Minar's Quranic inscriptions announce the new rulers' Islamic identity, while its construction by Indian stonemasons in red sandstone shows the blending of Islamic forms with Indian craftsmanship. Victory towers like this were deliberate statements: the sultanate was here to stay, and it expressed power in an Islamic architectural language.",
+    "id": "wh-vis-u1-004",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Qutb_Minar_2011.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the tower was carved by local Indian stonemasons — the project blended traditions rather than erasing them.",
+      "B": "Wrong: the Arabic Quranic inscriptions and the patron (the first sultan of Delhi) make this an Islamic monument, not a Hindu one.",
+      "C": "Wrong: the Mughals ruled three centuries later; the Qutb Minar belongs to the early Delhi Sultanate.",
+      "D": "Right: the Arabic-inscribed victory tower proclaimed the new Muslim rulers' authority, and its Indian stonework shows local craftsmen built it — power expressed through Islamic architecture."
+    },
+    "options": [
+      "(A) the complete destruction of all earlier Indian artistic traditions by the new rulers",
+      "(B) a Hindu king's celebration of his military victory over the Muslim invaders",
+      "(C) the Mughal emperors' introduction of Persian-style garden design to northern India",
+      "(D) new Muslim rulers proclaiming authority through monumental Islamic architecture"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The Qutb Minar best illustrates which development in South Asia during this period?",
+    "stimulus": "The Qutb Minar in Delhi, a 73-meter tower of red sandstone begun around 1199 by Qutb-ud-din Aibak, the first sultan of Delhi. Bands of Arabic calligraphy with verses from the Quran wrap around the tower, carved by local Indian stonemasons.",
+    "stimulus_words": 40,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The map labels the Golden Horde, Chagatai Khanate, and Ilkhanate as separate states bordering the Yuan — they are neighbors, not provinces. After the death of Möngke Khan (1259), no single khan commanded the whole empire; it fractured into rival khanates that sometimes fought each other (notably the Golden Horde versus the Ilkhanate).",
+    "id": "wh-vis-u1-005",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Yuan_dynasty_under_Kublai_Khan.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the map treats the Golden Horde, Chagatai Khanate, and Ilkhanate as separate neighboring states, not parts of one empire.",
+      "B": "Right: the labels show the Mongol world divided into distinct khanates, with the Yuan (Kublai's realm) ruling China as one of them.",
+      "C": "Wrong: the yellow shading shows the Yuan firmly in control of China, with the Song gone.",
+      "D": "Wrong: the map shows the Yuan — not the Ilkhanate — ruling China; the Ilkhanate is a separate state in Persia."
+    },
+    "options": [
+      "(A) it remained a single unified empire under one great khan ruling from Karakorum",
+      "(B) it had divided into separate khanates, with the Yuan ruling China as one",
+      "(C) it had been completely driven out of China by a restored Song dynasty",
+      "(D) the Ilkhanate had conquered China and made it a Persian-speaking province"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Based on the labels on this map, which conclusion about the Mongol Empire in the late 1200s is best supported?",
+    "stimulus": "Map of the Yuan dynasty under Kublai Khan (c. 1290), shaded yellow. The capital Khanbaliq is marked with a star, and the territory is divided into labeled provinces such as Zhongshu, Gansu, and Yunnan. Beyond its borders the map labels the Golden Horde, the Chagatai Khanate, and the Ilkhanate as separate neighboring states.",
+    "stimulus_words": 53,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The map is drawn in the classic Chinese style — grid-like city walls, labeled gates and offices, Chinese characters throughout — and it depicts Nanjing as a functioning walled administrative city. That means Chinese cartographic, urban, and bureaucratic traditions survived and operated under Mongol rule; the Yuan governed China largely through Chinese institutions rather than replacing them.",
+    "id": "wh-vis-u1-006",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/The_Yuan_Dynasty_map_of_Nanjing%2Cby_Chen_Yi.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the map shows a thriving walled Chinese city, not a destroyed one — Nanjing flourished under the Yuan.",
+      "B": "Wrong: the brushwork, layout, and Chinese-character labels are unmistakably Chinese, not European.",
+      "C": "Right: a Chinese-drawn map of a Chinese-style walled administrative city shows that Chinese urban and governmental traditions continued under Mongol rule.",
+      "D": "Wrong: the Yuan capital was Khanbaliq (Beijing); Nanjing was an important regional city, not the capital."
+    },
+    "options": [
+      "(A) the Mongols destroyed Chinese cities and replaced them with felt tent encampments",
+      "(B) European mapmaking techniques had entirely replaced the Chinese ones by the 1300s",
+      "(C) Chinese urban and administrative traditions continued under the Yuan dynasty",
+      "(D) Nanjing served as the primary capital city of the whole Yuan dynasty"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "As a source, this map best supports which conclusion about Mongol rule in China?",
+    "stimulus": "A Chinese woodblock map of the city of Nanjing under the Yuan dynasty (1300s). Drawn in the traditional Chinese cartographic style, it shows a walled rectangular city with labeled gates, streets, and government offices, set among hills and rivers with Chinese-character labels.",
+    "stimulus_words": 42,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The round coins with square holes and Chinese inscriptions are the classic Chinese 'cash' design, used for centuries before the Mongols arrived. That the Mongol Yuan issued money in this Chinese form shows they adopted China's existing monetary system to collect taxes and run the economy, rather than imposing a steppe system.",
+    "id": "wh-vis-u1-007",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/271_Yuan_Dynasty_Coins.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the Chinese-style square-holed coins with Chinese characters show the Mongol rulers keeping China's monetary practices instead of replacing them.",
+      "B": "Wrong: the very existence of these coins disproves the claim that coined money was abolished.",
+      "C": "Wrong: the square-hole design is Chinese and centuries old, not a European introduction.",
+      "D": "Wrong: the Yuan did issue paper money, but these bronze coins prove metal coinage circulated too."
+    },
+    "options": [
+      "(A) the Mongol rulers adopted existing Chinese monetary practices",
+      "(B) the Mongols abolished coined money and required every tax payment in bolts of silk",
+      "(C) European merchants introduced round coins to China in the 1200s",
+      "(D) the Yuan economy ran entirely on printed paper money, with no metal coinage at all"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "These coins best illustrate which feature of Yuan rule?",
+    "stimulus": "Bronze coins issued under the Yuan dynasty. They are round with a square hole in the center and bear Chinese characters, following the traditional Chinese cash-coin design used for centuries before the Mongol conquest.",
+    "stimulus_words": 34,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The mounted hunt was the central ritual of steppe life — training for war, a display of leadership, and a communal ceremony. That the Yuan court still painted and practiced it, in Chinese artistic style, shows the Mongol elite maintained a dual identity: Chinese emperors in administration, steppe khans in culture.",
+    "id": "wh-vis-u1-008",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/KhubilaiOnTheHunt.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the painting celebrates the steppe hunt — the elite kept this Mongol tradition rather than abandoning it.",
+      "B": "Wrong: the brush-and-ink style is Chinese, produced by court artists, not Italians.",
+      "C": "Wrong: the imperial hunt was a ritual display of kingship and military readiness, not just food gathering.",
+      "D": "Right: the court scroll shows Khubilai practicing the traditional Mongol hunt, evidence that steppe customs survived at the heart of the Yuan court."
+    },
+    "options": [
+      "(A) the Mongol elite abandoned all steppe traditions and became Chinese scholar-officials",
+      "(B) the painting was commissioned by Italian merchants at the Yuan court",
+      "(C) hunting was practiced only to supply food for the imperial household",
+      "(D) the Yuan court kept Mongol steppe customs, like the ritual hunt, while ruling China"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This court painting best illustrates which aspect of Mongol rule in China?",
+    "stimulus": "Detail from a Yuan-dynasty court handscroll showing Khubilai Khan on horseback, bow in hand, hunting with Mongol attendants in a mountain landscape. The painting is in Chinese brush-and-ink style.",
+    "stimulus_words": 29,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The map shows the Ilkhanate at full extent — and it stops at the Mamluk frontier. That boundary is the result of the 1260 Battle of Ain Jalut, where the Mamluk army defeated a Mongol force in Syria, and of later failed Ilkhanid invasions. The Mamluks were the one power that checked Mongol expansion to the southwest.",
+    "id": "wh-vis-u1-009",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Map_of_the_Ilkhanate.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Ilkhanids invaded Syria repeatedly — they wanted Egypt and kept failing to take it.",
+      "B": "Right: the frontier on the map reflects the Mamluk victory at Ain Jalut (1260) and later defeats that permanently halted Mongol expansion southwest.",
+      "C": "Wrong: the Ilkhanate and the Mamluks were bitter rivals who fought multiple wars, not vassal and overlord.",
+      "D": "Wrong: Mongol armies campaigned into Syria several times; the map's boundary shows where those campaigns were stopped."
+    },
+    "options": [
+      "(A) the Mongols chose to leave Egypt unconquered because they had no interest in its wealth",
+      "(B) the Mamluk Sultanate of Egypt had halted the Mongol advance at Ain Jalut in 1260",
+      "(C) the Ilkhanate was a vassal state that paid tribute to the Mamluk sultans",
+      "(D) the Mongols never attempted any campaigns west of Persia"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The western boundary shown on this map best illustrates which limit on Mongol expansion?",
+    "stimulus": "Map of the Ilkhanate (the Mongol khanate in Persia) at its greatest extent, c. 1300. To its west the map labels the Mamluk Sultanate, controlling Egypt and Syria; the Ilkhanate's territory stops at that frontier.",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The Qhapaq Ñan ran some 25,000 miles, with the two trunk roads joined by cross-links. Chasqui runners, officials, armies, and llama caravans moved along it, letting Cuzco project authority over an empire stretching 2,500 miles — an administrative nervous system for a state with no writing, wheeled vehicles, or draft animals.",
+    "id": "wh-vis-u1-010",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Inca_road_system_map-en.svg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Inca had no wheeled vehicles, horses, or draft animals — transport was by human porters and llama caravans.",
+      "B": "Right: the dense network centered on Cuzco let the state dispatch officials, shift armies, and move state goods across a vast mountainous realm.",
+      "C": "Wrong: the roads are the strongest evidence of central planning — they were built and maintained by the state through labor tribute.",
+      "D": "Wrong: the system was complete before any European contact; it served Inca administration, not Spanish trade."
+    },
+    "options": [
+      "(A) transport goods in wheeled carts pulled by teams of horses between the cities",
+      "(B) move officials, armies, and supplies quickly across a mountainous empire",
+      "(C) prove that local communities along the route needed no central government at all",
+      "(D) carry on direct overland trade with merchants from Spain"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The road system shown on the map primarily enabled the Inca state to:",
+    "stimulus": "Map of the Inca road system (Qhapaq Ñan). Two main north–south highways — one along the coast, one through the Andes mountains — are linked by connecting roads, joining cities from Quito in the north to the southern Andes, all centered on the capital Cuzco.",
+    "stimulus_words": 45,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The terraces visible in the photograph turned near-vertical slopes into farmable steps that also controlled erosion and irrigation, while the precisely fitted dry-stone masonry needed no mortar. All of this was achieved without draft animals, iron tools, or the wheel — a distinctive Andean engineering solution to a mountain environment.",
+    "id": "wh-vis-u1-011",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Machu_Picchu.png",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the terraces and fitted stonework visible in the photo are Inca solutions for farming and building on steep Andean slopes.",
+      "B": "Wrong: Cuzco remained the capital; Machu Picchu was most likely a royal estate, not a replacement capital.",
+      "C": "Wrong: the site predates Spanish arrival — its masonry is an indigenous Andean technique.",
+      "D": "Wrong: these are mountain terraces for slope farming, not the river-valley canal irrigation of Mesopotamia."
+    },
+    "options": [
+      "(A) engineering terraces and stonework suited to steep Andean slopes",
+      "(B) building a brand-new capital city to replace Cuzco in the early 1400s",
+      "(C) copying European castle designs that the Inca learned from Spanish visitors",
+      "(D) creating an irrigation system directly modeled on those of ancient Mesopotamia"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The features visible in this photograph best illustrate which Inca achievement?",
+    "stimulus": "Photograph of Machu Picchu, a 15th-century Inca site in the Peruvian Andes. The image shows stone buildings and long agricultural terraces cut into a steep mountain ridge, built without mortar, draft animals, or iron tools.",
+    "stimulus_words": 35,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The quipu's knot positions recorded decimal numbers, and cord colors and groupings identified what was being counted — harvests, taxpayers, storehouse contents. Spanish colonial administrators kept using quipus because they worked: they were the paperwork of an empire that administered millions without any written script.",
+    "id": "wh-vis-u1-012",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Quipu.png",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: quipus were working administrative records, handled by officials — not priestly decoration.",
+      "B": "Wrong: the knots recorded numbers, not speech — the Inca had no alphabetic or logographic writing.",
+      "C": "Wrong: quipus were portable records, not signal devices; nothing about them sent messages by smoke.",
+      "D": "Right: the knotted cords let Inca officials record census figures, tribute, and storehouse inventories — a full record-keeping system without writing."
+    },
+    "options": [
+      "(A) a system of decorative textiles worn only by priests during religious rituals",
+      "(B) proof that the Inca wrote with an alphabetic system much like the ancient Romans",
+      "(C) a method of sending urgent military orders by smoke signals across the high Andes",
+      "(D) a record-keeping system for taxes and census data that needed no written script"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The quipu best illustrates which feature of the Inca Empire?",
+    "stimulus": "Drawing of an Inca quipu: a set of knotted cotton cords of different colors and lengths hanging from a main cord. Inca administrators used the positions and types of knots to record numbers.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 1
+  }
+]

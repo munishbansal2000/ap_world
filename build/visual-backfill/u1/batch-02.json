@@ -1,0 +1,410 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The page itemizes cloaks, warrior suits, shields, beads, and cacao owed by one province — a bureaucratized schedule of luxury goods, not just staple foods. Combined with dozens of similar pages for other provinces, it shows Tenochtitlan ran a tributary empire that converted conquest into a steady flow of wealth.",
+    "id": "wh-vis-u1-013",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Codex_Mendoza_folio_37r.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: tribute was an obligation backed by the threat of Mexica military force, not a voluntary gift.",
+      "B": "Right: the page lists luxury craft goods (costumes, beads, cacao) owed by a province — evidence the empire systematically extracted wealth, not just food, from its subjects.",
+      "C": "Wrong: the page itself is derived from Mexica pictorial tribute records — they had a functioning record-keeping system.",
+      "D": "Wrong: the codex was compiled for the Spanish, but it records the tribute system as it existed before the conquest."
+    },
+    "options": [
+      "(A) provinces sent luxury goods to Tenochtitlan only as voluntary gifts of friendship",
+      "(B) the empire extracted wealth from its provinces, including luxury craft goods",
+      "(C) the Mexica had no system for recording obligations before the Spanish arrived",
+      "(D) the Spanish viceroy invented the tribute system after the conquest"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This tribute list best supports which conclusion about the Aztec Empire?",
+    "stimulus": "Page (folio 37r) from the Codex Mendoza, a book compiled around 1541 for the Spanish viceroy of Mexico from the testimony of Mexica (Aztec) informants. The page lists, in pictures with Spanish labels, the tribute one province owed: decorated warrior costumes and shields, bales of cloaks, strings of greenstone beads, gourds of cacao, and baskets of maize.",
+    "stimulus_words": 57,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The tlamatini were the intellectual elite of Mexica society — priests and scholars who maintained the calendar, studied celestial movements, and advised rulers. Their sky-watching tied astronomy directly to ritual timing and agriculture, showing a sophisticated indigenous knowledge tradition independent of Europe.",
+    "id": "wh-vis-u1-014",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tlamatini_observe_stars_-_Codex_Mendoza.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the Mexica maintained one of the most precise calendars in the ancient world — they cared deeply about the sky.",
+      "B": "Wrong: Mexica astronomy was an indigenous, pre-conquest tradition; the Spanish did not teach it to them.",
+      "C": "Right: the tlamatini's star-gazing represents the Mexica scholarly tradition of astronomical observation behind their calendar and rituals.",
+      "D": "Wrong: celestial observation served the calendar and religious timing, far more than decoration."
+    },
+    "options": [
+      "(A) the Mexica had no interest in the sky and kept no calendar",
+      "(B) Spanish priests arriving after the conquest taught the Mexica everything they knew about astronomy",
+      "(C) Mexica scholars studied the movements of the stars, knowledge used for their calendar and rituals",
+      "(D) star patterns were used only as decoration on pottery"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This image best illustrates which aspect of Mexica (Aztec) culture?",
+    "stimulus": "Image from the Codex Mendoza showing a tlamatini ('wise man') — a Mexica priest-scholar — pointing toward the stars in the night sky, with a temple and burning incense nearby.",
+    "stimulus_words": 30,
+    "themes": [
+      "TEC",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The red shading clusters in the Valley of Mexico and surrounding highlands, while the Yucatán, Oaxaca's edges, and the far north and south remain outside it. The Aztecs ruled through the Triple Alliance's tribute demands on conquered city-states — a hegemonic system — rather than by directly administering all of Mesoamerica.",
+    "id": "wh-vis-u1-015",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Aztec_Empire.png",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the map shows direct control concentrated in central Mexico, which matches the tribute-based hegemony the Aztecs exercised over more distant peoples.",
+      "B": "Wrong: the Yucatán Peninsula lies outside the shaded imperial territory.",
+      "C": "Wrong: the red area covers a broad region of central Mexico, far more than one island city.",
+      "D": "Wrong: the map shows only Mexico — the empire never reached South America."
+    },
+    "options": [
+      "(A) it controlled central Mexico directly, ruling distant peoples mainly through tribute",
+      "(B) it conquered and directly administered the entire Yucatán Peninsula and its Maya cities",
+      "(C) it was a single small city-state confined to the island city of Tenochtitlan",
+      "(D) its territory extended far south into the Andes of South America"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Based on the map, which statement about the Aztec Empire is most accurate?",
+    "stimulus": "Map of the Aztec Empire around 1519 (shaded red). The shaded territory is concentrated in central Mexico around Tenochtitlan; the Yucatán Peninsula to the east and much of northern and southern Mesoamerica lie outside it.",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Northern Yucatán is a flat limestone shelf with almost no rivers or lakes; rainwater drains straight through the porous rock. The Maya therefore built their great cities around cenotes — collapsed sinkholes exposing groundwater. The plan's circular depressions amid the temples and causeways show a city sited on its water supply.",
+    "id": "wh-vis-u1-016",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Map_of_Ruins_of_Chichen-Itza%2C_Yucatan%2C_Mexico_1935.png",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the plan reveals a highly organized ceremonial core — pyramids, temples, and straight causeways.",
+      "B": "Wrong: Chichen Itza is a Maya city in Yucatán; the Aztec capital was Tenochtitlan in central Mexico.",
+      "C": "Wrong: cenotes are collapsed limestone sinkholes filled with groundwater, not volcanic craters.",
+      "D": "Right: the circular cenotes on the plan are natural wells — the city was laid out around them because Yucatán has almost no surface water."
+    },
+    "options": [
+      "(A) building large cities with no real planning, organization, or central authority at all",
+      "(B) settling in the Aztec capital region of the central Mexican highlands",
+      "(C) using the region's volcanic craters as dramatic settings for human sacrifice rituals",
+      "(D) settling around groundwater sources in a land with almost no surface rivers"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The placement of the city around these natural features best illustrates which Maya adaptation?",
+    "stimulus": "A 1935 archaeological site plan of Chichen Itza, a Maya city in Yucatán. The plan shows a planned ceremonial center — the Castillo pyramid, the Temple of Warriors, and long causeways — interspersed with several large circular depressions. These are cenotes: natural limestone sinkholes filled with groundwater.",
+    "stimulus_words": 47,
+    "themes": [
+      "ENV",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Angkor Wat's five towers replicate Mount Meru, home of the gods, and its construction required quarrying, transporting, and carving millions of sandstone blocks — labor only a powerful centralized state could command. By building the gods' mountain on earth, the king cast himself as the link between heaven and his realm.",
+    "id": "wh-vis-u1-017",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the temple-mountain's scale and Hindu cosmology show a Khmer king converting religious devotion into political legitimacy and a display of state power.",
+      "B": "Wrong: Angkor Wat was built in the early 1100s, centuries before any European colonization of Southeast Asia.",
+      "C": "Wrong: the entire design embodies Hindu cosmology — religion was central to Khmer kingship.",
+      "D": "Wrong: it is a temple and royal mausoleum, not a military fortification."
+    },
+    "options": [
+      "(A) Khmer kings displaying power and legitimizing rule through monumental Hindu temples",
+      "(B) European colonists introducing stone temple architecture to Southeast Asia for the first time",
+      "(C) the Khmer elite rejected religion as a basis for political authority",
+      "(D) the whole complex was built primarily as a defensive fortress against foreign invasion"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Angkor Wat best illustrates which feature of the Khmer Empire?",
+    "stimulus": "Photograph of Angkor Wat in Cambodia, built in the early 1100s under the Khmer king Suryavarman II. Five lotus-bud towers rise above a vast temple complex surrounded by a moat; the temple is designed as a symbolic Mount Meru, the center of the universe in Hindu cosmology.",
+    "stimulus_words": 47,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The map names the Khmer Empire alongside the Pagan Empire, Dai Viet, the Dali Kingdom, and Song China — each with its own bounded territory. Mainland Southeast Asia around 1200 was a system of competing regional states, each expanding at its neighbors' expense, not a single imperial domain.",
+    "id": "wh-vis-u1-018",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Khmer_Empire_1203_Map.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: Pagan, Dai Viet, and the other labeled states are clearly separate from the Khmer Empire.",
+      "B": "Right: the map labels several distinct large states — Khmer, Pagan, Dai Viet — sharing mainland Southeast Asia, evidence of a multi-state system.",
+      "C": "Wrong: the map is covered with named kingdoms and empires, all organized states.",
+      "D": "Wrong: the Yuan dynasty arose later and never governed this region; the map shows independent states."
+    },
+    "options": [
+      "(A) the Khmer Empire had conquered all of Southeast Asia, including the island world",
+      "(B) the region held several large states rather than one united empire",
+      "(C) no organized states existed anywhere in the region before the Mongols arrived",
+      "(D) the Mongol Yuan dynasty directly governed the entire Southeast Asian region"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This map best supports which conclusion about mainland Southeast Asia around 1200?",
+    "stimulus": "Map of mainland Southeast Asia around 1203. The Khmer Empire holds the lower Mekong region; around it the map labels the Pagan Empire to the west, the Dai Viet kingdom to the east, and the Song dynasty of China to the northeast as separate states.",
+    "stimulus_words": 45,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The stupa is the signature Buddhist monument, and Borobudur's thousands of them — built by the Sailendra dynasty of Java — show how Indian religious ideas traveled the maritime trade routes and took root in Southeast Asia, where local rulers adopted and monumentalized them.",
+    "id": "wh-vis-u1-019",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-01.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the Buddhist stupas in Java are evidence of Buddhism traveling from India to Southeast Asia along the maritime trade network.",
+      "B": "Wrong: Java was never under direct Chinese political rule.",
+      "C": "Wrong: Borobudur is Buddhist and 9th-century — Islam arrived in Java centuries later.",
+      "D": "Wrong: the bell-shaped perforated structures are Buddhist stupas, not shrines to Shiva."
+    },
+    "options": [
+      "(A) Buddhism spreading from India to Southeast Asia along maritime trade routes",
+      "(B) Chinese emperors exercising direct political rule over the island of Java",
+      "(C) the early spread of Islam into Indonesia by Arab and Indian merchants",
+      "(D) a Javanese king's personal devotion to the Hindu god Shiva, expressed in stone"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Borobudur best illustrates which long-distance process affecting Southeast Asia?",
+    "stimulus": "Photograph of the upper terraces of Borobudur on the island of Java. Rows of bell-shaped stone stupas with perforated walls — a classic Buddhist architectural form — cover the terraces of this 9th-century monument.",
+    "stimulus_words": 34,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The legend separates a Javanese core from tributary states scattered across Sumatra, Borneo, Sulawesi, and the eastern islands, plus shaded sea zones under Majapahit influence. Power here meant dominating ports and straits — the choke points of the spice trade — not holding contiguous farmland.",
+    "id": "wh-vis-u1-020",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Majapahit_Map.png",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the map shows an island-and-sea realm, not a Central Asian cavalry empire.",
+      "B": "Wrong: Majapahit was an independent Javanese state, not a Chinese province.",
+      "C": "Wrong: its reach ran through island seas, not the overland routes to Persia.",
+      "D": "Right: the core-tributary pattern across the archipelago plus the shaded sea zones show a maritime empire built on controlling sea lanes."
+    },
+    "options": [
+      "(A) a Central Asian land empire built on the conquests of horse-archer armies",
+      "(B) a Chinese province administered by officials sent from Nanjing",
+      "(C) an overland Silk Road trading state connecting China to Persia",
+      "(D) a maritime empire controlling the sea lanes of the Indonesian archipelago"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Based on the legend and shading, Majapahit is best described as:",
+    "stimulus": "Map of the Majapahit Empire (c. 1350), based in eastern Java. The legend distinguishes the core territory on Java (dark orange) from tributary states across Sumatra, Borneo, Sulawesi, and the eastern islands, plus shaded sea zones marked as waters under Majapahit influence.",
+    "stimulus_words": 42,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The mosque is unmistakably Islamic — a house of prayer for a Muslim city — but everything about its construction is local: sun-dried mud brick suited to the Sahel, massive engaged columns, and the protruding palm-wood beams (toron) used as permanent scaffolding for the annual replastering. It is Islam expressed in a West African architectural language.",
+    "id": "wh-vis-u1-021",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Great_Clay_Mosque_in_Djenne%2C_Mali.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Sudano-Sahelian style is indigenous — built by local masons with local materials, not imposed from Arabia.",
+      "B": "Right: the adobe construction, wooden beams, and Sahelian forms show Islam adapted to West African materials and building traditions.",
+      "C": "Wrong: the building is one of the most famous mosques in the world — the opposite of rejecting mosque architecture.",
+      "D": "Wrong: the beams are a permanent feature, used every year when the community replasters the mud walls."
+    },
+    "options": [
+      "(A) Arab conquerors demolishing local architecture and imposing Middle Eastern designs",
+      "(B) Islam blending with West African building traditions and local materials",
+      "(C) West African Muslims rejecting mosque architecture as foreign",
+      "(D) unfinished construction, as shown by the wooden scaffolding still covering the walls"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The building's materials and style best illustrate which development in West Africa?",
+    "stimulus": "Photograph of the Great Mosque of Djenné in Mali. It is built of mud-brick (adobe) in the Sudano-Sahelian style, with massive engaged columns and rows of protruding wooden beams; a busy market fills the square in front of it.",
+    "stimulus_words": 39,
+    "themes": [
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The walls' scale — miles of fitted granite without mortar — required organized labor on a state level, and Great Zimbabwe's wealth came from taxing the gold and ivory trade between the interior and the Swahili coast. The dry-stone technique is a local Shona tradition, confirming an indigenous African achievement rather than a foreign import.",
+    "id": "wh-vis-u1-022",
+    "image_license": "CC BY-SA 2.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Great_Zimbabwe_-_aerial_view.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the dry-stone masonry is a local Shona building tradition, and the site lies far inland, not on the coast.",
+      "B": "Wrong: Great Zimbabwe flourished c. 1100–1450, centuries before European settlement in the region.",
+      "C": "Right: the vast mortarless walls could only be built by an organized state, and the city's wealth came from the gold and ivory trade — an indigenous African achievement.",
+      "D": "Wrong: the scale and permanence of the enclosures show a major settled center, not a temporary camp."
+    },
+    "options": [
+      "(A) Arab traders designing and building the city as a fortified coastal stronghold",
+      "(B) European settlers constructed the walls in the 1800s",
+      "(C) a wealthy indigenous African state mobilizing labor for monumental stone walls",
+      "(D) the site was a temporary camp with no permanent population"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "These ruins best support which conclusion about precolonial southern Africa?",
+    "stimulus": "Aerial photograph of Great Zimbabwe (c. 1100–1450). Massive walls of fitted granite blocks, built without any mortar, snake across the hills; the enclosures cover a large area.",
+    "stimulus_words": 27,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Bete Giyorgis was commissioned under the Zagwe king Lalibela in the 1200s — carved down into the rock by royal command, an undertaking requiring immense organized labor. Ethiopia had been Christian since the 300s, with its own church independent of Rome and Constantinople; the rock churches are monuments of that indigenous tradition, not of missionaries.",
+    "id": "wh-vis-u1-023",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bete_Giyorgis_01.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the rock-hewn cross-shaped church, ordered by an Ethiopian king, shows an indigenous African Christian kingdom with the organization for monumental works.",
+      "B": "Wrong: Ethiopia adopted Christianity in the 300s — nine centuries before this church — without European missionaries.",
+      "C": "Wrong: Ethiopia was linked to the wider world through Red Sea trade; it was distinctive, not sealed off.",
+      "D": "Wrong: the building is a cross-shaped Christian church, evidence against an Islamic explanation."
+    },
+    "options": [
+      "(A) a powerful indigenous African Christian kingdom capable of monumental architecture",
+      "(B) European missionaries introducing Christianity to Ethiopia for the first time in the 1200s",
+      "(C) Ethiopia's total isolation from all outside contact",
+      "(D) the spread of Islam into the Ethiopian highlands"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This church best illustrates which feature of Ethiopia in this period?",
+    "stimulus": "Photograph of the Church of Saint George (Bete Giyorgis) at Lalibela, Ethiopia, carved in the 1200s. The entire church was cut downward out of a single mass of living rock in the shape of a cross.",
+    "stimulus_words": 36,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The year-bands march from Caffa and Messina (1347) westward across the Mediterranean and then north — the exact geography of Europe's commercial shipping lanes and overland trade fairs. The same merchant ships and caravans that moved grain, cloth, and spices moved infected rats and fleas; the areas marked spared are the ones off the main routes.",
+    "id": "wh-vis-u1-024",
+    "image_license": "CC BY-SA 2.0 de",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pestilence_spreading_1347-1351_europe.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the map shows a directional wave entering from the southeast, not an even radiation from England.",
+      "B": "Right: the plague's year-by-year advance follows the ports and trade corridors — commercial integration carried the disease.",
+      "C": "Wrong: no effective plague treatment existed; the spared areas were simply off the main trade routes.",
+      "D": "Wrong: the arrows show the plague arriving by sea through Mediterranean ports, not with an overland army."
+    },
+    "options": [
+      "(A) it radiated evenly in all directions outward from a single starting point in England",
+      "(B) it traveled along trade routes, entering Europe through its busiest ports",
+      "(C) areas that escaped the plague did so because of superior medieval medicine",
+      "(D) Mongol armies carried the plague directly overland into western Europe"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The pattern shown on this map best supports which conclusion about the plague's spread?",
+    "stimulus": "Map of the spread of the Black Death in Europe, 1347–1351. Color bands show the plague's advance year by year, with arrows tracing its movement: it enters through Black Sea and Mediterranean ports (such as Caffa and Messina) in 1347, sweeps west across the Mediterranean, and reaches northern Europe by 1351. Some inland areas of Poland remain marked as spared.",
+    "stimulus_words": 60,
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  }
+]
