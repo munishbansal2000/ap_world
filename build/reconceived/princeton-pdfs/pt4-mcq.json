@@ -1,0 +1,1833 @@
+[
+ {
+  "id": "wh-princeton-pdf-u3-001",
+  "source_id": "princeton-pdf4-u3-01",
+  "unit": 3,
+  "stimulus": "In the name of God, let it be known to the judges and commanders of the Balkan provinces. Every fifth year the officers of the levy shall travel through the Christian villages and select the strongest and most promising boys between the ages of eight and fifteen. These youths shall be taken from their families, brought to the capital, and raised in the palace schools, where they shall learn the Turkish tongue, the discipline of arms, and the service of the sultan. They shall have no kin but the sultan, no inheritance but his favor, and no ambition beyond his service. From their ranks shall come the soldiers of the Janissary corps, the guardians of the palace, and the governors of provinces. Let no man hide his son from the levy, for the empire's strength rests upon these servants who owe everything to their master alone. Given at Edirne, in the third year of our reign.",
+  "source_stimulus_words": 159,
+  "stem": "The levy system described in the passage served which of the following purposes for the Ottoman state?",
+  "options": [
+   "(A) It created a corps of soldiers and officials loyal only to the sultan, cut off from family and local ties",
+   "(B) It enlisted volunteer cavalry from the Turkish tribes of Anatolia to garrison the empire's frontier fortresses",
+   "(C) It contracted foreign mercenary companies that the treasury could disband in peacetime",
+   "(D) It educated Christian clergy to administer the empire's Islamic religious courts"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "The devshirme took Christian boys from the Balkans, converted them to Islam, and raised them in palace schools with no family, property, or local loyalties. Their entire career depended on the sultan's favor, so the Janissaries and the administrators drawn from their ranks served the throne personally rather than hereditary nobles or tribal leaders. This gave the Ottomans a loyal standing army and bureaucracy independent of the old aristocracy.",
+  "option_explanations": {
+   "A": "Correct. Severing the boys from kin and homeland was the point: their only patron was the sultan, which made them a reliably loyal military and administrative corps.",
+   "B": "Wrong. The levy targeted Christian youths in the Balkans, not Turkish tribesmen; tribal cavalry (the sipahis) were a separate force.",
+   "C": "Wrong. The Janissaries were a permanent standing corps raised from childhood, the opposite of hired guns who could be let go.",
+   "D": "Wrong. The levy produced soldiers, palace guards, and provincial governors, not clergy for religious courts."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 156
+ },
+ {
+  "id": "wh-princeton-pdf-u3-002",
+  "source_id": "princeton-pdf4-u3-02",
+  "unit": 3,
+  "stimulus": "In the name of God, let it be known to the judges and commanders of the Balkan provinces. Every fifth year the officers of the levy shall travel through the Christian villages and select the strongest and most promising boys between the ages of eight and fifteen. These youths shall be taken from their families, brought to the capital, and raised in the palace schools, where they shall learn the Turkish tongue, the discipline of arms, and the service of the sultan. They shall have no kin but the sultan, no inheritance but his favor, and no ambition beyond his service. From their ranks shall come the soldiers of the Janissary corps, the guardians of the palace, and the governors of provinces. Let no man hide his son from the levy, for the empire's strength rests upon these servants who owe everything to their master alone. Given at Edirne, in the third year of our reign.",
+  "source_stimulus_words": 159,
+  "stem": "A historian studying Ottoman society should treat this passage with caution for which of the following reasons?",
+  "options": [
+   "(A) It was composed centuries after the levy system it describes had vanished",
+   "(B) It presents the levy from the government's viewpoint, hiding the coercion involved",
+   "(C) It was written by a Safavid enemy of the Ottomans seeking to blacken their name",
+   "(D) It describes naval campaigns rather than the land-based levy it claims to discuss"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The passage is written in the voice of the Ottoman state itself, announcing the levy as a legitimate and even glorious institution. A source produced by the government that benefits from a policy will naturally present that policy in the best light. A historian needs other perspectives, such as Balkan Christian accounts, to see the forced removal of children as the families who lost them experienced it.",
+  "option_explanations": {
+   "A": "Wrong. The passage is styled as a contemporary imperial order, not a much later recollection.",
+   "B": "Correct. An imperial proclamation justifies the levy; it cannot be taken as a neutral description of how the levy affected Christian villages.",
+   "C": "Wrong. Nothing in the passage suggests a Safavid or hostile author; it speaks as the Ottoman government.",
+   "D": "Wrong. The passage is entirely about the land-based levy that supplied the Janissary infantry."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 156
+ },
+ {
+  "id": "wh-princeton-pdf-u4-001",
+  "source_id": "princeton-pdf4-u4-03",
+  "unit": 4,
+  "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
+  "source_stimulus_words": 137,
+  "stem": "The captives' refusal of food and their uprising, as described in the passage, are best understood as examples of which of the following?",
+  "options": [
+   "(A) Resistance by enslaved people to their captivity, even under extreme constraint",
+   "(B) Evidence that European crews treated their captives with consistent humanity and care",
+   "(C) Proof that most captives accepted the condition of enslavement without resistance",
+   "(D) A bargaining tactic by captives seeking wages and improved terms for their labor"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Refusing food, even to the point of starvation, and rising against the crew were ways for captives to fight back when they had no weapons, no freedom of movement, and no legal rights. Historians count such acts, along with work slowdowns, sabotage, and escape, as resistance: enslaved people asserted their humanity and opposed the system even in the hopeless conditions of a slave ship.",
+  "option_explanations": {
+   "A": "Correct. Starving oneself and seizing the ship are desperate but deliberate acts of opposition to being enslaved.",
+   "B": "Wrong. The passage describes chaining, forced feeding, and killing captives, which contradicts any claim of humane treatment.",
+   "C": "Wrong. An armed uprising and mass refusal of food are the opposite of peaceful acceptance.",
+   "D": "Wrong. The captives were not negotiating employment terms; they were fighting to escape bondage itself."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 138
+ },
+ {
+  "id": "wh-princeton-pdf-u4-002",
+  "source_id": "princeton-pdf4-u4-04",
+  "unit": 4,
+  "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
+  "source_stimulus_words": 137,
+  "stem": "European plantation owners in the Americas turned increasingly to enslaved African labor in the sixteenth and seventeenth centuries largely because",
+  "options": [
+   "(A) African kingdoms volunteered their subjects for work on American plantations",
+   "(B) European laborers arrived in the Americas in numbers too great to employ",
+   "(C) Native American populations had collapsed from disease, leaving too few laborers",
+   "(D) Enslaved Africans were legally classified as free wage workers in the colonies"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Old World diseases such as smallpox devastated Native American populations, which had no immunity to them, killing a huge share of potential laborers. With the Indigenous workforce collapsing just as sugar plantations demanded ever more hands, colonists turned to the transatlantic trade in enslaved Africans, who were already being bought and sold through established Portuguese and later European trading networks.",
+  "option_explanations": {
+   "A": "Wrong. Captives were seized in warfare and raids, not volunteered by their kingdoms for plantation work.",
+   "B": "Wrong. Far too few Europeans migrated to meet plantation labor demand, and indentured servants died in large numbers from tropical disease.",
+   "C": "Correct. The demographic collapse of Native populations from disease removed the first labor source colonists tried to exploit.",
+   "D": "Wrong. Enslaved Africans were held as chattel property with no wages and no legal freedom."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 138
+ },
+ {
+  "id": "wh-princeton-pdf-u4-003",
+  "source_id": "princeton-pdf4-u4-05",
+  "unit": 4,
+  "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
+  "source_stimulus_words": 137,
+  "stem": "The passage's reference to captives being brought down 'from the inland markets' points to which of the following features of the transatlantic slave trade?",
+  "options": [
+   "(A) Europeans captured nearly all enslaved people themselves in coastal raids",
+   "(B) African societies were entirely untouched by the trade in captives",
+   "(C) The trade in captives brought warfare between African states to an end",
+   "(D) African merchants and states captured and sold people to European traders"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Europeans rarely ventured far inland; they bought captives at coastal forts and markets from African intermediaries. West and Central African kingdoms and merchants waged wars and conducted raids that produced captives, then sold them to European buyers in exchange for textiles, firearms, and other goods. The trade was a joint enterprise in which African sellers were essential participants.",
+  "option_explanations": {
+   "A": "Wrong. Europeans depended on African suppliers; they lacked the numbers and the disease resistance to raid the interior themselves.",
+   "B": "Wrong. The demand for captives intensified warfare and reshaped politics across West and Central Africa.",
+   "C": "Wrong. The profits of selling captives gave African states more reason to make war, not less.",
+   "D": "Correct. The 'inland markets' were African-run networks that funneled captives to the coast for sale to Europeans."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 138
+ },
+ {
+  "id": "wh-princeton-pdf-u4-004",
+  "source_id": "princeton-pdf4-u4-06",
+  "unit": 4,
+  "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
+  "source_stimulus_words": 137,
+  "stem": "Which of the following is the most important limitation of this passage as evidence about the Middle Passage?",
+  "options": [
+   "(A) It was written by an abolitionist who never crossed the Atlantic",
+   "(B) Its author profited from the trade, so the account may normalize its violence",
+   "(C) It describes events that took place before the transatlantic slave trade began",
+   "(D) It concerns a Pacific voyage rather than the Atlantic crossing"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The narrator is a trader whose livelihood depends on the slave trade; he writes about buying, stowing, and selling human beings as routine business. Someone who profits from a system has reason, consciously or not, to present it as normal and to soften its brutality. Historians therefore read such accounts against the grain and check them against the testimony of the enslaved, like the narrative of Olaudah Equiano.",
+  "option_explanations": {
+   "A": "Wrong. The narrator is a trader, not an abolitionist, and he describes the crossing firsthand.",
+   "B": "Correct. A participant-observer with a financial stake in the trade is not a neutral witness to its horrors.",
+   "C": "Wrong. The passage describes the mature transatlantic trade, with established coastal markets and Caribbean sugar plantations.",
+   "D": "Wrong. The voyage runs from Guinea to Barbados, squarely on the Atlantic Middle Passage route."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 138
+ },
+ {
+  "id": "wh-princeton-pdf-u5-001",
+  "source_id": "princeton-pdf4-u1-07",
+  "unit": 5,
+  "stimulus": "Consider men as they would be without any common power to keep them in awe. Each man, being roughly equal to every other in strength and wit, has the same hope of attaining his ends, and therefore the same reason to fear his neighbor. From this equality of ability arises equality of hope, and from that, competition, distrust, and open war. In such a condition there is no industry, no trade, no navigation, and no knowledge of the earth, for the fruit of a man's labor is never secure. The life of man in this natural state is solitary, poor, nasty, brutish, and short, unless men agree together to lay down their private arms and submit themselves to one sovereign power.",
+  "source_stimulus_words": 108,
+  "stem": "The author used the condition described in the passage to justify which of the following?",
+  "options": [
+   "(A) Submission to a single absolute sovereign strong enough to keep the peace",
+   "(B) Regular democratic elections allowing the people to choose and replace their rulers",
+   "(C) The rule of kings appointed directly by God to reign over their subjects",
+   "(D) The complete abolition of government, law, and all political authority"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "This is Thomas Hobbes's argument in Leviathan (1651). Because people are roughly equal, no one can dominate the rest, so the state of nature is a war of all against all. The only escape is for everyone to surrender their right to use force to one sovereign authority strong enough to terrify them all into keeping the peace. The bleak picture of natural life is the premise; absolute sovereignty is the conclusion.",
+  "option_explanations": {
+   "A": "Correct. Only an undivided, irresistible sovereign can end the insecurity Hobbes describes.",
+   "B": "Wrong. Hobbes feared that divided or frequently changing authority would collapse back into the state of nature.",
+   "C": "Wrong. Hobbes justified the sovereign by a contract among the people, not by divine appointment; that was Filmer's argument.",
+   "D": "Wrong. Abolishing government would return people to the very state of nature the passage condemns."
+  },
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 121
+ },
+ {
+  "id": "wh-princeton-pdf-u5-002",
+  "source_id": "princeton-pdf4-u5-08",
+  "unit": 5,
+  "stimulus": "Consider men as they would be without any common power to keep them in awe. Each man, being roughly equal to every other in strength and wit, has the same hope of attaining his ends, and therefore the same reason to fear his neighbor. From this equality of ability arises equality of hope, and from that, competition, distrust, and open war. In such a condition there is no industry, no trade, no navigation, and no knowledge of the earth, for the fruit of a man's labor is never secure. The life of man in this natural state is solitary, poor, nasty, brutish, and short, unless men agree together to lay down their private arms and submit themselves to one sovereign power.",
+  "source_stimulus_words": 108,
+  "stem": "Unlike John Locke, who argued that government exists to protect natural rights and may be resisted when it violates them, the author of this passage maintained that",
+  "options": [
+   "(A) People should never form governments of any kind",
+   "(B) The state of nature is naturally peaceful, harmonious, and free of conflict",
+   "(C) People must give up nearly all their rights to an absolute ruler",
+   "(D) Only property owners deserve any voice in government"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Hobbes and Locke both used the social-contract idea, but drew opposite conclusions. Locke thought people keep their natural rights and can overthrow a government that violates them. Hobbes thought the state of nature is so terrible that people must give up almost everything, including the right to resist, to a sovereign whose power cannot be divided or challenged. Security, for Hobbes, is worth the price of absolute obedience.",
+  "option_explanations": {
+   "A": "Wrong. Hobbes insisted government is necessary; without it comes the war of all against all.",
+   "B": "Wrong. That is closer to Rousseau's view; Hobbes called natural life 'solitary, poor, nasty, brutish, and short.'",
+   "C": "Correct. For Hobbes the contract is a one-way surrender of private force to the sovereign, with no right of rebellion.",
+   "D": "Wrong. Hobbes's argument rests on the rough equality of all people, not on property qualifications."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 121
+ },
+ {
+  "id": "wh-princeton-pdf-u5-003",
+  "source_id": "princeton-pdf4-u5-09",
+  "unit": 5,
+  "stimulus": "Consider men as they would be without any common power to keep them in awe. Each man, being roughly equal to every other in strength and wit, has the same hope of attaining his ends, and therefore the same reason to fear his neighbor. From this equality of ability arises equality of hope, and from that, competition, distrust, and open war. In such a condition there is no industry, no trade, no navigation, and no knowledge of the earth, for the fruit of a man's labor is never secure. The life of man in this natural state is solitary, poor, nasty, brutish, and short, unless men agree together to lay down their private arms and submit themselves to one sovereign power.",
+  "source_stimulus_words": 108,
+  "stem": "Ideas like those expressed in the passage most directly contributed to which of the following later developments?",
+  "options": [
+   "(A) The restoration of unquestioned hereditary monarchy across the whole of Europe",
+   "(B) Revolutionary movements basing legitimacy on the consent of the governed",
+   "(C) The expansion of the transatlantic slave trade to new colonies",
+   "(D) The reunification of the Catholic and Protestant churches"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Hobbes wrote to justify absolute power, but his method, arguing that political authority must be justified by an agreement among the people rather than by God or tradition, became the foundation of Enlightenment political thought. Locke, Rousseau, and the revolutionaries of America and France took up the social-contract framework and turned it toward the conclusion that governments derive their legitimacy from the consent of the governed and can be challenged when they violate it.",
+  "option_explanations": {
+   "A": "Wrong. The divine-right and traditional justifications of monarchy were undermined, not restored, by contract theory.",
+   "B": "Correct. The social-contract framework migrated from defending absolutism to justifying revolution based on popular consent.",
+   "C": "Wrong. The slave trade expanded for economic reasons; contract theory had no direct bearing on it.",
+   "D": "Wrong. No such reunification occurred, and political philosophy did not drive church relations."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 121
+ },
+ {
+  "id": "wh-princeton-pdf-u6-001",
+  "source_id": "princeton-pdf4-u6-10",
+  "unit": 6,
+  "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
+  "source_stimulus_words": 119,
+  "stem": "Letters like this one, describing settler losses and demanding protection, contributed to British imperial expansion in southern Africa by",
+  "options": [
+   "(A) Convincing Parliament to grant immediate independence to the Zulu kingdom",
+   "(B) Persuading British investors to withdraw all capital from South Africa",
+   "(C) Inspiring the Zulu leadership to adopt Christianity",
+   "(D) Creating political pressure in Britain for military action to defend settlers"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Settler complaints about danger and uncompensated losses gave imperial officials and the press in London a ready justification for war: Britain had to protect its subjects. Reports of burned farms and threatened towns were used to build the case, the casus belli, for the 1879 invasion of Zululand. Settler lobbying thus helped convert a frontier dispute into a full-scale imperial war of conquest.",
+  "option_explanations": {
+   "A": "Wrong. The letter demands more British protection, not Zulu independence; the war ended with Zululand's defeat and partition.",
+   "B": "Wrong. Settler appeals aimed to draw Britain deeper into South Africa, not to drive its money out.",
+   "C": "Wrong. Nothing in the letter concerns missionary work or Zulu conversion.",
+   "D": "Correct. Tales of endangered settlers were the political fuel for intervention and annexation."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 120
+ },
+ {
+  "id": "wh-princeton-pdf-u6-002",
+  "source_id": "princeton-pdf4-u6-11",
+  "unit": 6,
+  "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
+  "source_stimulus_words": 119,
+  "stem": "The discovery of diamonds in 1867 and gold in 1886 in southern Africa most directly led to which of the following?",
+  "options": [
+   "(A) Sharper conflict among British, Boers, and African kingdoms over land and labor",
+   "(B) The immediate and complete withdrawal of every European power from southern Africa",
+   "(C) Lasting peace treaties signed among every group in the region",
+   "(D) The Zulu kingdom's conquest of the British Cape Colony"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "The mineral discoveries set off rushes that flooded the region with fortune-seekers, raised the value of the land enormously, and created a huge demand for cheap mine labor. Britain, the Boer republics, and African kingdoms like the Zulu all struggled to control the diamond and gold fields and the workers they needed. That three-way contest produced the Anglo-Zulu War, the Boer Wars, and the dispossession of African lands.",
+  "option_explanations": {
+   "A": "Correct. Mineral wealth turned southern Africa into a prize that Britain, Boers, and African kingdoms fought over for decades.",
+   "B": "Wrong. The discoveries pulled Europeans in deeper; they did not drive them out.",
+   "C": "Wrong. The period produced some of the bitterest wars in southern African history, not peace.",
+   "D": "Wrong. The Zulu were defeated by the British in 1879 and never conquered the Cape."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 120
+ },
+ {
+  "id": "wh-princeton-pdf-u6-003",
+  "source_id": "princeton-pdf4-u6-12",
+  "unit": 6,
+  "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
+  "source_stimulus_words": 119,
+  "stem": "A long-term political consequence of the late-nineteenth-century conflicts in South Africa, including the Anglo-Zulu and Anglo-Boer wars, was",
+  "options": [
+   "(A) The establishment of an independent Zulu nation recognized by Britain",
+   "(B) Immediate majority rule by Black South Africans",
+   "(C) The creation of the Union of South Africa in 1910 under white-minority rule",
+   "(D) The complete departure of European settlers from the region"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Britain defeated the Zulu in 1879 and the Boer republics in 1902, then united its South African colonies into the Union of South Africa in 1910. The new state was a self-governing dominion, but political power was reserved for the white minority; Black South Africans, the majority, were shut out of meaningful citizenship. That settlement laid the political foundation for apartheid in the twentieth century.",
+  "option_explanations": {
+   "A": "Wrong. Zululand was defeated, partitioned, and eventually absorbed; it did not become an independent state.",
+   "B": "Wrong. Majority rule did not arrive until 1994; the Union entrenched white-minority rule.",
+   "C": "Correct. British victory in both wars led to a unified South Africa governed by and for its white minority.",
+   "D": "Wrong. Europeans stayed and consolidated their control; they did not leave."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 120
+ },
+ {
+  "id": "wh-princeton-pdf-u6-004",
+  "source_id": "princeton-pdf4-u6-13",
+  "unit": 6,
+  "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
+  "source_stimulus_words": 119,
+  "stem": "The usefulness of this letter for understanding the Anglo-Zulu War is most limited by which of the following?",
+  "options": [
+   "(A) It was written long after the Anglo-Zulu War had already come to an end",
+   "(B) It shows only the settler viewpoint, omitting the Zulu and Boer sides",
+   "(C) It was written by a Zulu military commander describing the battle",
+   "(D) It discusses events in North America rather than in southern Africa"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The letter shows how one British settler experienced the war: worried about his store, his farm, and his compensation. It tells us nothing about why the Zulu fought, how the war looked from the Zulu capital, or what Boer farmers thought of British expansion. A single perspective is useful evidence of settler attitudes, but it cannot stand in for the whole conflict.",
+  "option_explanations": {
+   "A": "Wrong. The letter is dated March 1879, written during the war, not after it.",
+   "B": "Correct. The settler's viewpoint is real evidence, but it is only one side of a multi-sided war.",
+   "C": "Wrong. The author is Thomas, a British settler writing to his sister, not a Zulu commander.",
+   "D": "Wrong. The letter is datelined Natal and concerns Zululand, in southern Africa."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 120
+ },
+ {
+  "id": "wh-princeton-pdf-u6-005",
+  "source_id": "princeton-pdf4-u6-14",
+  "unit": 6,
+  "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
+  "source_stimulus_words": 119,
+  "stem": "The author's demand that the government compensate him for his losses best illustrates which of the following attitudes among nineteenth-century British settlers?",
+  "options": [
+   "(A) Settlers expected the imperial state to protect their property and investments abroad",
+   "(B) Settlers generally opposed any British military presence in the colonies",
+   "(C) Settlers believed the colonial governments should be funded entirely by African kingdoms",
+   "(D) Settlers preferred to settle their disputes in Zulu courts"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Thomas assumes that because he is a loyal British subject, the Crown owes him protection for his store and farm and compensation when war destroys them. This expectation, that the empire existed partly to safeguard settlers' property, was widespread and gave settlers a powerful motive to demand military intervention whenever their investments were threatened.",
+  "option_explanations": {
+   "A": "Correct. The letter treats imperial protection of settler property as a right, not a favor.",
+   "B": "Wrong. The author wants more government protection, including troops from England, not less.",
+   "C": "Wrong. He petitions the colonial secretary, a British official, for compensation; he does not look to African kingdoms.",
+   "D": "Wrong. He appeals to British authorities and British law, not to Zulu institutions."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 120
+ },
+ {
+  "id": "wh-princeton-pdf-u8-001",
+  "source_id": "princeton-pdf4-u8-15",
+  "unit": 8,
+  "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+  "source_stimulus_words": 22,
+  "stem": "The 1958 campaign promoted by this poster, known as the Great Leap Forward, was based on which of the following beliefs?",
+  "options": [
+   "(A) China should open its economy to foreign capitalist investment",
+   "(B) Economic growth requires slow, gradual market reforms",
+   "(C) Mass mobilization and ideological enthusiasm achieving rapid industrialization",
+   "(D) Only trained engineers and specialists should take part in industrial production"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Mao launched the Great Leap Forward on the conviction that the revolutionary willpower of hundreds of millions of people could substitute for capital, technology, and expertise. Peasants were organized into communes and ordered to produce steel in backyard furnaces while also bringing in the harvest. The poster embodies that faith: ordinary people, marching together with simple tools, achieving miraculous production through sheer determination.",
+  "option_explanations": {
+   "A": "Wrong. Foreign investment came two decades later under Deng Xiaoping, not under Mao's Great Leap Forward.",
+   "B": "Wrong. Gradualism was the opposite of the campaign, which demanded overnight transformation.",
+   "C": "Correct. The campaign's core idea was that mass mobilization and political enthusiasm could leapfrog normal economic development.",
+   "D": "Wrong. The poster celebrates peasants and workers, not specialists; expertise was deliberately sidelined."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 50
+ },
+ {
+  "id": "wh-princeton-pdf-u8-002",
+  "source_id": "princeton-pdf4-u8-16",
+  "unit": 8,
+  "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+  "source_stimulus_words": 22,
+  "stem": "The most devastating human consequence of the campaign depicted in the poster was",
+  "options": [
+   "(A) Sustained rapid industrial growth that outpaced the Soviet Union",
+   "(B) A famine that killed tens of millions of Chinese people",
+   "(C) The immediate adoption of capitalist markets across China",
+   "(D) The peaceful reunification of China and Taiwan"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The Great Leap Forward was an economic catastrophe. Forcing peasants to smelt steel instead of farming, combined with unrealistic grain quotas, inflated production reports, and the seizure of food for the cities and for export, produced one of the deadliest famines in human history between 1959 and 1961. Historians estimate the death toll in the tens of millions, making it the campaign's defining consequence.",
+  "option_explanations": {
+   "A": "Wrong. Industrial output figures were falsified; the backyard furnaces produced mostly useless pig iron, not real growth.",
+   "B": "Correct. The famine of 1959-1961, caused by the campaign's policies, killed tens of millions.",
+   "C": "Wrong. Market reforms did not begin until Deng's era, nearly twenty years later.",
+   "D": "Wrong. Taiwan remained separate, and the campaign had nothing to do with reunification."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 50
+ },
+ {
+  "id": "wh-princeton-pdf-u8-003",
+  "source_id": "princeton-pdf4-u8-17",
+  "unit": 8,
+  "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+  "source_stimulus_words": 22,
+  "stem": "The Great Leap Forward differed from the Soviet Union's Five-Year Plans of the 1930s primarily in its reliance on",
+  "options": [
+   "(A) Large-scale foreign loans borrowed from capitalist banks",
+   "(B) The complete abandonment of every industrial goal",
+   "(C) Private ownership of factories by individual entrepreneurs and investors",
+   "(D) Peasant labor in backyard furnaces, driven by political campaigns"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Stalin's Five-Year Plans built industry through centralized state planning, huge state factories, and forced collectivization directed from Moscow. Mao's Great Leap Forward instead tried to industrialize through the communes themselves: peasants built backyard steel furnaces and were whipped into frenzies of production by political campaigns and impossible targets. Both were coercive and both caused famine, but Mao's method was decentralized and ideological where Stalin's was bureaucratic and centralized.",
+  "option_explanations": {
+   "A": "Wrong. Communist China did not finance the campaign with capitalist bank loans.",
+   "B": "Wrong. The campaign was obsessed with industrial targets, especially steel; it did not abandon them.",
+   "C": "Wrong. Private ownership was being eliminated, not encouraged, during the Great Leap Forward.",
+   "D": "Correct. Backyard furnaces, commune labor, and campaign-style mobilization were Mao's distinctive, disastrous innovations."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 50
+ },
+ {
+  "id": "wh-princeton-pdf-u8-004",
+  "source_id": "princeton-pdf4-u8-18",
+  "unit": 8,
+  "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+  "source_stimulus_words": 22,
+  "stem": "The Communist Party produced posters like this one primarily in order to",
+  "options": [
+   "(A) Mobilize citizens' labor and enthusiasm behind state campaigns",
+   "(B) Advertise consumer goods for sale in Chinese shops and markets",
+   "(C) Publish accurate statistics about the nation's industrial output",
+   "(D) Encourage private entrepreneurship in the countryside and towns"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "In a system without advertising markets, propaganda posters were a tool of economic mobilization. By depicting happy, heroic workers achieving miracles, the Party tried to inspire real peasants and workers to work harder, meet impossible quotas, and believe in the campaign. The poster's imagery is an instruction to the viewer: join the march, pick up your tools, and produce.",
+  "option_explanations": {
+   "A": "Correct. The poster's purpose was to recruit the population's energy for the state's economic drive.",
+   "B": "Wrong. A planned economy with chronic shortages did not advertise consumer goods this way.",
+   "C": "Wrong. Output figures during the Great Leap Forward were systematically exaggerated; posters were persuasion, not reporting.",
+   "D": "Wrong. Private enterprise was being stamped out, not encouraged, in 1958."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 50
+ },
+ {
+  "id": "wh-princeton-pdf-u6-006",
+  "source_id": "princeton-pdf4-u6-19",
+  "unit": 6,
+  "stimulus": "An 1835 engraving shows the interior of an English textile mill: rows of large iron power looms clatter in a long hall, tended by women and children, with leather belts and iron shafts overhead driving every machine from a single central steam engine.",
+  "source_stimulus_words": 6,
+  "stem": "The spread of machines like the one illustrated most directly contributed to which of the following social changes in nineteenth-century Britain?",
+  "options": [
+   "(A) A return of textile workers to rural cottage production and handlooms",
+   "(B) A sharp decline in the global demand for cotton cloth worldwide",
+   "(C) The growth of factory towns and a new industrial working class",
+   "(D) The immediate end of child labor in British industry by law"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Power looms were too large and expensive for cottages and needed a central power source, so weaving moved into steam-powered mills. Workers had to live near the mills, which created fast-growing factory towns like Manchester, and the mill hands, dependent on wages and working long hours under one roof, became the new industrial working class at the center of nineteenth-century social conflict.",
+  "option_explanations": {
+   "A": "Wrong. Mechanization destroyed cottage weaving; handloom weavers were driven into the factories or into poverty.",
+   "B": "Wrong. Cheaper machine-made cloth expanded demand; Britain's cotton exports soared.",
+   "C": "Correct. The factory system concentrated workers in mill towns and created an industrial proletariat.",
+   "D": "Wrong. Child labor increased in the early factories; it was restricted only later, by legislation."
+  },
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 43
+ },
+ {
+  "id": "wh-princeton-pdf-u6-007",
+  "source_id": "princeton-pdf4-u6-20",
+  "unit": 6,
+  "stimulus": "An 1835 engraving shows the interior of an English textile mill: rows of large iron power looms clatter in a long hall, tended by women and children, with leather belts and iron shafts overhead driving every machine from a single central steam engine.",
+  "source_stimulus_words": 6,
+  "stem": "A historian using this engraving to study the lives of textile workers should be most cautious about which of the following?",
+  "options": [
+   "(A) The engraving was made decades before the power loom had been invented",
+   "(B) Such images idealized the mill, hiding its harsh working conditions",
+   "(C) The engraving depicts an agricultural harvest scene rather than a factory",
+   "(D) The engraving was drawn by the factory workers themselves"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Nineteenth-century engravings of industry were frequently commissioned by mill owners or publishers who wanted to celebrate progress. They show orderly halls and contented workers, leaving out the deafening noise, the lung-damaging air thick with fiber, the mangling accidents, and the twelve-hour shifts of women and children. The image is evidence of how industrialists wanted the factory to be seen, not of how it felt to work there.",
+  "option_explanations": {
+   "A": "Wrong. Power looms were in widespread use by 1835; the engraving depicts a real technology of its time.",
+   "B": "Correct. Promotional imagery of industry systematically hid the human cost of factory labor.",
+   "C": "Wrong. The engraving clearly shows an indoor textile mill with power looms.",
+   "D": "Wrong. Such engravings were made by professional illustrators, often for owners or publishers, not by the workers."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 43
+ },
+ {
+  "id": "wh-princeton-pdf-u3-003",
+  "source_id": "princeton-pdf4-u3-21",
+  "unit": 3,
+  "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
+  "source_stimulus_words": 141,
+  "stem": "According to the passage, Mughal authority in northern India depended primarily on",
+  "options": [
+   "(A) A large salaried bureaucracy that administered every village directly",
+   "(B) The abolition of all local chiefs and landlords",
+   "(C) Naval power in the Indian Ocean",
+   "(D) The cooperation of local elites who collected revenue for the throne"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "The passage shows that the Mughals did not rule the countryside directly. They set the revenue demand, but the actual work of collecting it, and much of the day-to-day authority over peasants, belonged to the zamindars. The empire functioned as a partnership: the throne got its silver, and the local lords kept their status. When that partnership broke down, so did Mughal control.",
+  "option_explanations": {
+   "A": "Wrong. The passage stresses that collection ran through hereditary local chiefs, not through imperial bureaucrats in every village.",
+   "B": "Wrong. The zamindars were left in place and undisturbed; the Mughals worked through them rather than removing them.",
+   "C": "Wrong. The Mughals were a land empire; the passage concerns land revenue, not sea power.",
+   "D": "Correct. Imperial rule rested on the zamindars' willingness to gather and forward the revenue."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 130
+ },
+ {
+  "id": "wh-princeton-pdf-u3-004",
+  "source_id": "princeton-pdf4-u3-22",
+  "unit": 3,
+  "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
+  "source_stimulus_words": 141,
+  "stem": "The Mughal emperor Akbar's practice of marrying Rajput princesses and appointing Rajput chiefs to high military rank best illustrates which of the following imperial strategies?",
+  "options": [
+   "(A) Winning over local elites to stabilize the empire",
+   "(B) Forcibly converting all of India's Hindus to Islam",
+   "(C) Expelling every non-Muslim from positions of authority",
+   "(D) Relying on European mercenary soldiers to govern India"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Akbar understood what the passage describes: the empire ran on the cooperation of local lords. By marrying into Rajput families and giving Rajput chiefs commands in the imperial army, he turned potential rebels into stakeholders in Mughal rule. Incorporating proud local elites rather than crushing them was a classic technique of the gunpowder empires for holding vast, diverse territories together.",
+  "option_explanations": {
+   "A": "Correct. Marriage alliances and high appointments bound Rajput chiefs to the throne's fortunes.",
+   "B": "Wrong. Akbar was famous for religious toleration; he abolished the jizya tax on non-Muslims rather than forcing conversion.",
+   "C": "Wrong. Akbar did the opposite, deliberately bringing Hindus into his administration and army.",
+   "D": "Wrong. The Mughals did not depend on European mercenaries for governance; their military elite was Turco-Mongol, Persian, and Rajput."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 130
+ },
+ {
+  "id": "wh-princeton-pdf-u3-005",
+  "source_id": "princeton-pdf4-u3-23",
+  "unit": 3,
+  "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
+  "source_stimulus_words": 141,
+  "stem": "The chiefs' shifting position, sometimes paying revenue, sometimes in rebellion, sometimes practically independent, best illustrates which of the following?",
+  "options": [
+   "(A) The complete absence of taxation in the Mughal Empire",
+   "(B) Direct European control over Indian land revenue",
+   "(C) The limits of central power in a large pre-modern empire",
+   "(D) The total collapse of Mughal administration by 1600"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Before railways, telegraphs, and modern bureaucracies, no ruler could watch every district. The Mughals could demand revenue, but enforcing the demand in distant Rajputana or Chota Nagpur meant marching an army there, which was expensive and slow. Local chiefs knew this, so they calibrated their obedience to the center's current strength. Their wavering loyalty reveals how thin central power ran at the edges of a pre-modern empire.",
+  "option_explanations": {
+   "A": "Wrong. Revenue collection was the financial backbone of the empire; the issue was enforcement, not absence.",
+   "B": "Wrong. Europeans had no control over Mughal land revenue in this period; they were still minor coastal traders.",
+   "C": "Correct. Distance, slow communication, and the cost of coercion capped what the center could compel.",
+   "D": "Wrong. The Mughal Empire was near its height around 1600 under Akbar; the passage describes normal frontier politics, not collapse."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 130
+ },
+ {
+  "id": "wh-princeton-pdf-u3-006",
+  "source_id": "princeton-pdf4-u3-24",
+  "unit": 3,
+  "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
+  "source_stimulus_words": 141,
+  "stem": "The zamindars' role as revenue-collecting intermediaries between the peasantry and the throne is most directly comparable to which of the following?",
+  "options": [
+   "(A) Aztec priests conducting religious ceremonies in Tenochtitlan",
+   "(B) Ottoman timar holders, who collected taxes for military service",
+   "(C) Russian serfs bound to noble estates",
+   "(D) English factory owners employing wage laborers"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Both the Mughal zamindar and the Ottoman timar holder sat in the same structural position: a local military-landholding elite that extracted revenue from the peasantry, passed a share to the central state, and owed the ruler military service in return. The gunpowder empires all solved the problem of ruling vast agrarian territories by franchising power to such intermediaries rather than administering every village directly.",
+  "option_explanations": {
+   "A": "Wrong. Aztec priests held religious, not revenue-collecting, functions, and operated in a different imperial structure.",
+   "B": "Correct. Timar holders and zamindars were parallel solutions to the same problem: governing a large land empire through local intermediaries.",
+   "C": "Wrong. Serfs were the exploited laborers at the bottom of the hierarchy, not the intermediaries who collected from them.",
+   "D": "Wrong. Factory owners belong to an industrial capitalist economy, not to an agrarian tribute empire."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 130
+ },
+ {
+  "id": "wh-princeton-pdf-u2-001",
+  "source_id": "princeton-pdf4-u2-25",
+  "unit": 2,
+  "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
+  "source_stimulus_words": 228,
+  "stem": "Aden's prosperity despite having no fields, orchards, or springs best illustrates which of the following about Indian Ocean trade?",
+  "options": [
+   "(A) A port's strategic location could matter more than its natural resources",
+   "(B) Only cities with rich farmland could grow wealthy from trade",
+   "(C) European merchants controlled all Indian Ocean commerce in this period",
+   "(D) Aden's wealth came primarily from manufacturing"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Aden produced essentially nothing, yet it grew rich because it sat where the monsoon-driven shipping lanes converged between India, Arabia, and East Africa. Ships had to stop there, and merchants, porters, and brokers all took their cut. In the Indian Ocean world, position on the trade network, not local agriculture or industry, was what made a port city wealthy.",
+  "option_explanations": {
+   "A": "Correct. Aden's barrenness proves the point: its wealth came entirely from its place in the trading network.",
+   "B": "Wrong. Aden is the counterexample; it had no farmland at all yet was enormously wealthy.",
+   "C": "Wrong. In the fourteenth century Europeans were marginal in the Indian Ocean; the trade was run by Arab, Indian, Persian, and East African merchants.",
+   "D": "Wrong. The passage stresses that nothing is made or grown at Aden; everything comes from trade."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 240
+ },
+ {
+  "id": "wh-princeton-pdf-u2-002",
+  "source_id": "princeton-pdf4-u2-26",
+  "unit": 2,
+  "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
+  "source_stimulus_words": 228,
+  "stem": "The presence of settled Indian and Egyptian merchant communities in Aden best illustrates which of the following?",
+  "options": [
+   "(A) The absence of cross-cultural contact in the Indian Ocean world",
+   "(B) European domination of Indian Ocean trade networks",
+   "(C) That long-distance trade was conducted entirely by Arabs",
+   "(D) Diaspora merchant communities sustained long-distance commerce"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Long-distance trade in this era depended on trust across great distances: a merchant in Calicut needed a reliable partner in Aden to receive goods, extend credit, and settle accounts. Communities of foreign merchants who settled permanently in port cities, keeping their own quarters, brokers, and houses of worship, provided that continuity. These diaspora networks, whether Arab, Indian, Persian, or Chinese, were the institutional backbone of Afro-Eurasian commerce.",
+  "option_explanations": {
+   "A": "Wrong. Separate quarters for Indians and Egyptians show sustained cross-cultural contact, not its absence.",
+   "B": "Wrong. Europeans played almost no role in the fourteenth-century Indian Ocean trade.",
+   "C": "Wrong. The passage explicitly names Indian and Egyptian merchant communities living in this Arab port.",
+   "D": "Correct. Resident foreign merchant communities made trust, credit, and regular exchange possible across thousands of miles."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 240
+ },
+ {
+  "id": "wh-princeton-pdf-u2-003",
+  "source_id": "princeton-pdf4-u2-27",
+  "unit": 2,
+  "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
+  "source_stimulus_words": 228,
+  "stem": "The traveler's praise of the merchants' piety, honesty, and generosity points to which of the following features of medieval Islamic commerce?",
+  "options": [
+   "(A) Islamic law prohibited all forms of trade and profit",
+   "(B) Muslim merchants rejected any contact with non-Muslims",
+   "(C) Shared religious and legal norms built trust for long-distance trade",
+   "(D) Credit and written contracts were unknown in the Indian Ocean world"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Trading across the Indian Ocean meant handing valuable goods to people months of sailing away. What made that possible was a shared framework: Islamic commercial law enforced contracts, the obligation of honest dealing was a religious duty, and institutions like the mosque and the qadi's court gave merchants of different lands a common standard. Piety was not just personal virtue; it was the social glue of the trading system.",
+  "option_explanations": {
+   "A": "Wrong. Islam regulated commerce but never prohibited it; the Prophet himself had been a merchant.",
+   "B": "Wrong. The passage shows Muslim merchants trading and living alongside Indian and other non-Muslim merchants.",
+   "C": "Correct. Common religious and legal expectations let strangers trust one another with fortunes.",
+   "D": "Wrong. Credit instruments and contracts were well developed in the medieval Islamic commercial world."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 240
+ },
+ {
+  "id": "wh-princeton-pdf-u2-004",
+  "source_id": "princeton-pdf4-u2-28",
+  "unit": 2,
+  "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
+  "source_stimulus_words": 228,
+  "stem": "The regular arrival of ships from many different ports at Aden was made possible primarily by",
+  "options": [
+   "(A) Steam-powered vessels that could ignore the wind patterns entirely",
+   "(B) The seasonal monsoon winds sailors used to cross the Indian Ocean",
+   "(C) Detailed naval charts supplied by European explorers and mapmakers",
+   "(D) The construction of the Suez Canal linking the seas"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The Indian Ocean's winds reverse with the seasons: they blow from the southwest in summer and the northeast in winter. Sailors learned to ride these monsoons outward and homeward on a yearly rhythm, which is what made large-scale, scheduled trade between East Africa, Arabia, and India possible centuries before steam power. The passage itself credits the monsoon winds as the foundation of Aden's fortune.",
+  "option_explanations": {
+   "A": "Wrong. Steamships did not appear until the nineteenth century; this is a fourteenth-century world of sail.",
+   "B": "Correct. The monsoon cycle was the engine of Indian Ocean navigation.",
+   "C": "Wrong. European explorers arrived in the Indian Ocean more than a century after this account.",
+   "D": "Wrong. The Suez Canal opened in 1869, five centuries after the period described."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "stimulus_words": 240
+ },
+ {
+  "id": "wh-princeton-pdf-u6-008",
+  "source_id": "princeton-pdf4-u6-29",
+  "unit": 6,
+  "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
+  "source_stimulus_words": 25,
+  "stem": "The cartoonist's mockery of the 'Enlightened American Statesman' suggests that the cartoonist believed Chinese exclusion was motivated primarily by",
+  "options": [
+   "(A) Racial prejudice disguised as high principle",
+   "(B) Careful and disinterested economic theory and analysis",
+   "(C) Formal demands from the Chinese government",
+   "(D) Sincere religious conviction and moral principle"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "The cartoon is satirical: it calls the exclusionist 'enlightened' while showing him barring exactly one group, the Chinese, as everyone else walks in. The joke is that the statesman's lofty language about 'drawing the line' is a cover for singling out one race. The cartoonist is accusing exclusion's supporters of racism dressed up as statesmanship.",
+  "option_explanations": {
+   "A": "Correct. The satire targets the gap between the statesman's enlightened pose and a policy aimed at one racial group.",
+   "B": "Wrong. The cartoon mocks the statesman; it does not credit him with serious economic reasoning.",
+   "C": "Wrong. China did not demand the exclusion of its own emigrants; the pressure came from American nativists.",
+   "D": "Wrong. Nothing in the cartoon invokes religion; the issue is race and immigration."
+  },
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 56
+ },
+ {
+  "id": "wh-princeton-pdf-u6-009",
+  "source_id": "princeton-pdf4-u6-30",
+  "unit": 6,
+  "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
+  "source_stimulus_words": 25,
+  "stem": "The 1882 law depicted in the cartoon was significant in American history because it was the first federal law to",
+  "options": [
+   "(A) Grant citizenship to all immigrants regardless of origin",
+   "(B) Establish Ellis Island as an immigration station",
+   "(C) Abolish all restrictions on immigration",
+   "(D) Bar immigration to the United States on ethnic grounds"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "The Chinese Exclusion Act of 1882 suspended Chinese labor immigration for ten years and barred Chinese immigrants from naturalized citizenship. It was the first major American law to restrict immigration by singling out a specific ethnic group, establishing the precedent that the federal government could close the door on racial or national grounds, a precedent extended to other Asians and later to national-origin quotas.",
+  "option_explanations": {
+   "A": "Wrong. The act did the opposite: it specifically denied Chinese immigrants a path to citizenship.",
+   "B": "Wrong. Ellis Island opened in 1892, a decade later, as a processing station, not an exclusion law.",
+   "C": "Wrong. The act created restrictions; it abolished nothing.",
+   "D": "Correct. Ethnic exclusion by federal law began with the Chinese Exclusion Act."
+  },
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 56
+ },
+ {
+  "id": "wh-princeton-pdf-u6-010",
+  "source_id": "princeton-pdf4-u6-31",
+  "unit": 6,
+  "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
+  "source_stimulus_words": 25,
+  "stem": "Chinese immigration to the United States grew rapidly in the mid-nineteenth century primarily because",
+  "options": [
+   "(A) The United States offered free farmland to all Asian immigrants",
+   "(B) The Chinese government ordered its subjects to emigrate",
+   "(C) Railroad construction and mining created a strong demand for labor",
+   "(D) Chinese immigrants were fleeing religious persecution by American missionaries"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "The California gold rush of 1849 first drew Chinese migrants, and the great railroad projects of the 1860s, above all the Central Pacific, recruited them by the thousands because contractors needed cheap, disciplined labor for dangerous work. Economic opportunity in the American West, combined with hardship in southern China, drove the migration; the Exclusion Act came later, when white workers began to see the Chinese as competitors.",
+  "option_explanations": {
+   "A": "Wrong. The Homestead Act's benefits flowed overwhelmingly to white settlers; Asian immigrants were largely shut out of free farmland.",
+   "B": "Wrong. The Qing government did not order emigration; migrants left on their own or through labor recruiters.",
+   "C": "Correct. Gold, railroads, and mines created the labor demand that pulled Chinese workers across the Pacific.",
+   "D": "Wrong. American missionaries in China were a minor presence; they did not persecute Chinese at home."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 56
+ },
+ {
+  "id": "wh-princeton-pdf-u6-011",
+  "source_id": "princeton-pdf4-u6-32",
+  "unit": 6,
+  "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
+  "source_stimulus_words": 25,
+  "stem": "The irony of the cartoon depends on the viewer recognizing that",
+  "options": [
+   "(A) Chinese immigrants were among the wealthiest newcomers to the United States",
+   "(B) A nation built by immigrants closing its doors on racial grounds",
+   "(C) The statesman sincerely supported unrestricted immigration",
+   "(D) European immigrants faced exactly the same exclusion as the Chinese"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The United States of 1882 was a country whose population had been built by successive waves of immigrants, and the cartoon shows newcomers of other nations streaming through the gate. Barring only the Chinese exposes the contradiction: a nation of immigrants practicing racial exclusion. The title, 'The Only One Barred Out,' drives the point home by showing that the line was drawn against one race alone.",
+  "option_explanations": {
+   "A": "Wrong. Chinese laborers were among the poorest immigrants, which is part of why they were targeted.",
+   "B": "Correct. The cartoon's sting comes from the clash between America's immigrant identity and its racial gatekeeping.",
+   "C": "Wrong. The 'enlightened' label is sarcastic; the statesman is the architect of exclusion.",
+   "D": "Wrong. The cartoon shows other immigrants passing freely; only the Chinese laborer is stopped."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 56
+ },
+ {
+  "id": "wh-princeton-pdf-u3-007",
+  "source_id": "princeton-pdf4-u3-33",
+  "unit": 3,
+  "stimulus": "To the ruler of Persia. The learned doctors of our faith, both those who reason from the law and those who follow tradition, are agreed that the extirpation of heresy is a duty laid upon the faithful. Your followers have abandoned the true path, seducing the believers of our eastern provinces with false doctrines and raising rebellion against rightful authority. The Prophet himself commanded that innovators be driven out. We have therefore resolved, after long patience, to take up arms, not from ambition, but in obedience to the divine command that error be rooted out wherever it appears. Prepare yourself, for we march against you. Selim, Sultan of the Ottomans, 1514.",
+  "source_stimulus_words": 109,
+  "stem": "Selim's use of religious language in the letter served which of the following political purposes?",
+  "options": [
+   "(A) It justified war against a Muslim rival by branding them heretics",
+   "(B) It persuaded the Safavid shah to convert to Sunni Islam",
+   "(C) It invited European Christian powers to join the Ottoman war effort",
+   "(D) It ended the division between Sunni and Shia Islam forever"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Islamic law frowned on war between Muslims, so Selim needed a justification for attacking the Safavids. By declaring them heretics and innovators who seduced true believers, and by citing scholars and the Prophet, he turned a war of imperial rivalry into a religious duty. The fatwas gave his soldiers and subjects a righteous cause for the campaign that ended at Chaldiran in 1514.",
+  "option_explanations": {
+   "A": "Correct. Branding the Safavids as heretics made war against fellow Muslims religiously permissible.",
+   "B": "Wrong. The letter is a declaration of war, not a missionary appeal, and Ismail remained Shia.",
+   "C": "Wrong. The letter is addressed to the Safavid ruler and invokes Islamic authority, not a Christian alliance.",
+   "D": "Wrong. The letter deepens the Sunni-Shia split by denouncing the Shia as heretics."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 111
+ },
+ {
+  "id": "wh-princeton-pdf-u3-008",
+  "source_id": "princeton-pdf4-u3-34",
+  "unit": 3,
+  "stimulus": "To the ruler of Persia. The learned doctors of our faith, both those who reason from the law and those who follow tradition, are agreed that the extirpation of heresy is a duty laid upon the faithful. Your followers have abandoned the true path, seducing the believers of our eastern provinces with false doctrines and raising rebellion against rightful authority. The Prophet himself commanded that innovators be driven out. We have therefore resolved, after long patience, to take up arms, not from ambition, but in obedience to the divine command that error be rooted out wherever it appears. Prepare yourself, for we march against you. Selim, Sultan of the Ottomans, 1514.",
+  "source_stimulus_words": 109,
+  "stem": "The Safavid Empire differed from its Ottoman and Mughal contemporaries most significantly in",
+  "options": [
+   "(A) Its rejection of gunpowder weapons",
+   "(B) Its location in the Western Hemisphere across the ocean",
+   "(C) Its adoption of Twelver Shi'ism as the state religion",
+   "(D) Its lack of any centralized bureaucracy or administration"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "The Ottomans were Sunni and the Mughals, though ruling a mostly Hindu population, were Sunni-led as well. Shah Ismail I proclaimed Twelver Shi'ism the religion of his new state around 1501, making Persia the great Shia power of the Islamic world. That confessional difference, not geography or technology, is what set the Safavids apart and fueled their wars with the Sunni Ottomans.",
+  "option_explanations": {
+   "A": "Wrong. The Safavids adopted firearms and artillery, especially after their defeat at Chaldiran taught them the cost of neglecting gunpowder.",
+   "B": "Wrong. The Safavid Empire was centered in Persia, in western Asia.",
+   "C": "Correct. State-sponsored Twelver Shi'ism was the Safavids' defining feature among the gunpowder empires.",
+   "D": "Wrong. The Safavids built a substantial centralized administration under the shah."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 111
+ },
+ {
+  "id": "wh-princeton-pdf-u7-001",
+  "source_id": "princeton-pdf4-u6-35",
+  "unit": 7,
+  "stimulus": "To the ruler of Persia. The learned doctors of our faith, both those who reason from the law and those who follow tradition, are agreed that the extirpation of heresy is a duty laid upon the faithful. Your followers have abandoned the true path, seducing the believers of our eastern provinces with false doctrines and raising rebellion against rightful authority. The Prophet himself commanded that innovators be driven out. We have therefore resolved, after long patience, to take up arms, not from ambition, but in obedience to the divine command that error be rooted out wherever it appears. Prepare yourself, for we march against you. Selim, Sultan of the Ottomans, 1514.",
+  "source_stimulus_words": 109,
+  "stem": "The Ottoman Empire ruled by the letter's author was defeated in World War I and partitioned afterward. That partition most directly resulted in",
+  "options": [
+   "(A) The restoration of the Ottoman sultanate",
+   "(B) The creation of British and French mandates in the Middle East",
+   "(C) The unification of the Arab world into a single independent state",
+   "(D) The Ottoman Empire's alliance with Germany in World War II"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "After the Ottoman defeat in 1918, Britain and France divided the empire's Arab provinces between them under League of Nations mandates: Britain took Palestine, Transjordan, and Iraq; France took Syria and Lebanon. The sultanate itself was abolished, and Anatolia became the Turkish Republic. The mandate system, not Arab unity or Ottoman restoration, was the direct outcome of partition.",
+  "option_explanations": {
+   "A": "Wrong. The sultanate was abolished in 1922; Mustafa Kemal's republic replaced it.",
+   "B": "Correct. The victorious Allies carved the Arab provinces into British and French mandates.",
+   "C": "Wrong. Arab nationalists hoped for unity, but the mandates divided the region into separate territories.",
+   "D": "Wrong. The Ottoman Empire no longer existed by World War II, and Turkey remained neutral for most of that war."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 111
+ },
+ {
+  "id": "wh-princeton-pdf-u7-002",
+  "source_id": "princeton-pdf4-u7-36",
+  "unit": 7,
+  "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
+  "source_stimulus_words": 29,
+  "stem": "The 'freedom' and 'honor' that the poster says were 'won by your fathers' most directly refer to which of the following?",
+  "options": [
+   "(A) The Great Purge of the 1930s",
+   "(B) The Yalta Conference of 1945",
+   "(C) Russia's victories in World War I",
+   "(D) The Russian Revolution of 1917"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Soviet propaganda taught that the Revolution of 1917 had won the workers' freedom from the tsar and that the Civil War generation had defended it. A 1940s poster calling on youth to defend what their fathers 'won' is invoking that revolutionary inheritance: the fathers are the Bolshevik generation of 1917, and the children must now protect its achievements from the German invader.",
+  "option_explanations": {
+   "A": "Wrong. The Purge was an internal terror campaign, not a victory the regime celebrated as an inheritance.",
+   "B": "Wrong. Yalta was a 1945 diplomatic meeting, not something 'won' by a previous generation.",
+   "C": "Wrong. Russia did not win World War I; it collapsed and exited the war in 1918.",
+   "D": "Correct. The Revolution was the founding victory Soviet propaganda constantly invoked."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 44
+ },
+ {
+  "id": "wh-princeton-pdf-u7-003",
+  "source_id": "princeton-pdf4-u7-37",
+  "unit": 7,
+  "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
+  "source_stimulus_words": 29,
+  "stem": "The poster's direct address to 'young men and women' reflects which of the following features of World War II?",
+  "options": [
+   "(A) Mobilizing entire populations, women included, for total war",
+   "(B) The exclusion of women from all war-related work and service",
+   "(C) The Soviet ban on female soldiers",
+   "(D) A military draft that applied only to the elderly and infirm"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "World War II was a total war in which the line between the front and the home front disappeared. The Soviet Union mobilized women on an unprecedented scale: as factory workers replacing drafted men, as nurses and pilots, and in hundreds of thousands of cases as combat soldiers. Addressing 'young men and women' together was an honest reflection of how the whole society, both sexes, had been conscripted into the war effort.",
+  "option_explanations": {
+   "A": "Correct. Total war demanded the labor and service of the entire population, women included.",
+   "B": "Wrong. Women were central to the Soviet war economy and military, not excluded from it.",
+   "C": "Wrong. The USSR famously deployed women as snipers, pilots, and infantry.",
+   "D": "Wrong. The draft took the young; the poster itself calls on 'young men and women.'"
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 44
+ },
+ {
+  "id": "wh-princeton-pdf-u7-004",
+  "source_id": "princeton-pdf4-u7-38",
+  "unit": 7,
+  "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
+  "source_stimulus_words": 29,
+  "stem": "The poster's nationalist appeal to the 'motherland' departs from Karl Marx's original vision, in which",
+  "options": [
+   "(A) Marx supported Russian nationalism and patriotic movements",
+   "(B) Marx opposed the industrial working class and favored the peasantry",
+   "(C) Workers belonged to an international class, not to any nation",
+   "(D) Marx rejected the very idea of revolution as a political tool"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Marx taught that workers had no country: 'the working men have no country,' as the Communist Manifesto put it, and revolution would be an international movement of the proletariat against capitalists everywhere. Stalin's wartime propaganda reversed the emphasis, calling on Soviet citizens to defend the Russian motherland. Nationalism became the regime's most powerful mobilizing tool, even though it contradicted Marx's internationalism.",
+  "option_explanations": {
+   "A": "Wrong. Marx was an internationalist who treated nationalism as a distraction from class struggle.",
+   "B": "Wrong. The industrial working class was the hero of Marx's theory, not its enemy.",
+   "C": "Correct. For Marx, class loyalty crossed borders; the nation was a bourgeois fiction.",
+   "D": "Wrong. Revolution was the centerpiece of Marx's thought."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "visual_reconstructed": true,
+  "stimulus_words": 44
+ },
+ {
+  "id": "wh-princeton-pdf-u8-005",
+  "source_id": "princeton-pdf4-u8-39",
+  "unit": 8,
+  "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+  "source_stimulus_words": 247,
+  "stem": "Under the apartheid system described in the passage, Black South Africans were denied political power primarily through",
+  "options": [
+   "(A) A law requiring every citizen to vote in each election",
+   "(B) Laws reserving political rights and citizenship for the white minority",
+   "(C) The voluntary withdrawal of Black South Africans from political life",
+   "(D) The complete absence of any government in South Africa"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Apartheid was a legal system, not just prejudice. Laws classified South Africans by race, confined Black people to impoverished homelands, controlled their movement with passbooks, and reserved voting and real citizenship for whites. The passage shows this machinery in action: the state could ban organizations, imprison leaders, and shoot protesters precisely because the law placed all power in white hands.",
+  "option_explanations": {
+   "A": "Wrong. Black South Africans were excluded from meaningful voting; compulsory voting for all never existed.",
+   "B": "Correct. Apartheid used the law to monopolize political power for the white minority.",
+   "C": "Wrong. The passage shows Black South Africans protesting and organizing; their exclusion was imposed, not chosen.",
+   "D": "Wrong. Apartheid depended on a powerful, active state enforcing racial laws."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 230
+ },
+ {
+  "id": "wh-princeton-pdf-u8-006",
+  "source_id": "princeton-pdf4-u8-40",
+  "unit": 8,
+  "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+  "source_stimulus_words": 247,
+  "stem": "The passbook system described in the passage functioned primarily as a tool for",
+  "options": [
+   "(A) Providing free and equal education to Black South African children",
+   "(B) Guaranteeing equal wages for all workers in the mines",
+   "(C) Encouraging Black South Africans to vote in elections",
+   "(D) Controlling where Black South Africans could live and work"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "The passbook determined where a Black man could legally be, which meant it determined where he could work. Employers in white cities and mines needed Black labor, but the state wanted that labor cheap, temporary, and politically powerless. By making it a crime to be in the wrong place without the right stamp, the pass system delivered a controlled, rightless workforce to white-owned farms, mines, and factories.",
+  "option_explanations": {
+   "A": "Wrong. Apartheid education for Black children was deliberately inferior and underfunded, not free and equal.",
+   "B": "Wrong. The pass system helped keep Black wages low by tying workers to employers and restricting their mobility.",
+   "C": "Wrong. Pass laws restricted movement; they had nothing to do with encouraging voting, from which Black South Africans were excluded.",
+   "D": "Correct. The passbook was an instrument of labor control disguised as an identity document."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 230
+ },
+ {
+  "id": "wh-princeton-pdf-u8-007",
+  "source_id": "princeton-pdf4-u8-41",
+  "unit": 8,
+  "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+  "source_stimulus_words": 247,
+  "stem": "The protesters at Sharpeville left their passbooks at home as an act of",
+  "options": [
+   "(A) Deliberate civil disobedience against an unjust law",
+   "(B) Open support for the apartheid government and its laws",
+   "(C) Celebration of a new national holiday",
+   "(D) Obedience to police orders to disperse"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "The demonstration was planned: protesters would present themselves at the police station without passbooks, inviting arrest, to overwhelm the system and expose the law's injustice. Deliberately and openly breaking an unjust law to draw attention to it is the classic definition of civil disobedience, in the tradition of Gandhi and later the American civil rights movement.",
+  "option_explanations": {
+   "A": "Correct. Leaving the passbooks behind was a planned, public refusal to obey the pass laws.",
+   "B": "Wrong. The protest was organized against the government, which then banned the organizers.",
+   "C": "Wrong. The gathering was a protest, not a festivity.",
+   "D": "Wrong. The police ordered no such thing; they responded to the defiance with gunfire."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 230
+ },
+ {
+  "id": "wh-princeton-pdf-u8-008",
+  "source_id": "princeton-pdf4-u8-42",
+  "unit": 8,
+  "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+  "source_stimulus_words": 247,
+  "stem": "The passage presents the Sharpeville massacre as a turning point. Which of the following best explains why the event had such an impact?",
+  "options": [
+   "(A) It was the first organized protest ever held in South Africa",
+   "(B) It convinced the government to abolish apartheid immediately",
+   "(C) It exposed apartheid's violence and pushed the movement to armed struggle",
+   "(D) It led to the immediate release of every political prisoner in the country"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Sharpeville mattered for two reasons. Internationally, photographs and reports of police shooting unarmed protesters in the back made apartheid a global scandal and began South Africa's isolation. Domestically, the banning of the ANC and the jailing of its leaders convinced a generation of activists that peaceful protest would be met with bullets, leading Mandela and others to take up armed struggle.",
+  "option_explanations": {
+   "A": "Wrong. South Africa had a long history of protest before 1960; Sharpeville was not the first.",
+   "B": "Wrong. The government responded with more repression, and apartheid lasted another three decades.",
+   "C": "Correct. The massacre internationalized the anti-apartheid cause and radicalized the liberation movement.",
+   "D": "Wrong. The aftermath brought more arrests and imprisonments, including Mandela's life sentence, not releases."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 230
+ },
+ {
+  "id": "wh-princeton-pdf-u8-009",
+  "source_id": "princeton-pdf4-u8-43",
+  "unit": 8,
+  "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+  "source_stimulus_words": 247,
+  "stem": "The struggle against apartheid described in the passage belongs to which of the following broader twentieth-century developments?",
+  "options": [
+   "(A) The expansion of European colonial empires in Africa and Asia",
+   "(B) Anti-colonial movements fighting for self-determination",
+   "(C) The rise of fascist movements in Europe in the 1930s",
+   "(D) The spread of absolute monarchies across the globe"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "The anti-apartheid struggle was part of the great twentieth-century wave in which colonized and racially oppressed peoples demanded freedom: African and Asian decolonization, the American civil rights movement, and campaigns against white-minority rule in Rhodesia and South Africa. Though South Africa was formally independent, its Black majority lived under a system the world increasingly judged as colonial in character.",
+  "option_explanations": {
+   "A": "Wrong. The movement fought against racial domination; it did not expand any empire.",
+   "B": "Correct. The fight against apartheid shared the goals and the era of global anti-colonial and civil-rights movements.",
+   "C": "Wrong. Fascism was a 1920s-1940s European phenomenon of the far right, the opposite of the liberation cause.",
+   "D": "Wrong. Monarchies were in retreat in the twentieth century, and South Africa's struggle had nothing to do with them."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 230
+ },
+ {
+  "id": "wh-princeton-pdf-u6-012",
+  "source_id": "princeton-pdf4-u6-44",
+  "unit": 6,
+  "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
+  "source_stimulus_words": 132,
+  "stem": "The speaker's support for state insurance for sick, injured, and aged workers was motivated in part by a desire to",
+  "options": [
+   "(A) Establish a communist government in Germany by royal decree",
+   "(B) Abolish all private property throughout the empire",
+   "(C) Increase taxes on the working class to fund the army",
+   "(D) Undercut the socialists by addressing workers' grievances"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Bismarck was a conservative who despised socialism; he had already outlawed the Social Democratic Party. His strategy was to steal the socialists' thunder: if the conservative state itself provided health insurance, accident insurance, and old-age pensions, workers would have less reason to turn to revolution. The passage says it openly: provide for the worker 'lest desperation drive them into the arms of those who preach revolution.'",
+  "option_explanations": {
+   "A": "Wrong. Bismarck was building a conservative bulwark against communism, not establishing it.",
+   "B": "Wrong. Protecting private property and the existing order was the whole point of his reforms.",
+   "C": "Wrong. The programs were funded largely by employer and state contributions, and raising workers' taxes was not the aim.",
+   "D": "Correct. State socialism from above was Bismarck's weapon against socialism from below."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 134
+ },
+ {
+  "id": "wh-princeton-pdf-u6-013",
+  "source_id": "princeton-pdf4-u6-45",
+  "unit": 6,
+  "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
+  "source_stimulus_words": 132,
+  "stem": "The speaker's social insurance reforms of the 1880s are most similar to which of the following later developments?",
+  "options": [
+   "(A) Welfare programs like pensions and national health insurance",
+   "(B) The abolition of all government involvement in the economy",
+   "(C) The return to purely agrarian economies across Europe",
+   "(D) The elimination of labor unions throughout the world"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Germany's 1880s laws, health insurance (1883), accident insurance (1884), and old-age pensions (1889), were the world's first modern social insurance system. They became the template that other industrial nations copied and expanded across the twentieth century, from Britain's National Insurance to America's Social Security to the comprehensive welfare states of Scandinavia.",
+  "option_explanations": {
+   "A": "Correct. Bismarck's system was the prototype of the modern welfare state.",
+   "B": "Wrong. The reforms increased government involvement in economic life; they did not abolish it.",
+   "C": "Wrong. The reforms addressed the problems of an industrial workforce, not a return to farming.",
+   "D": "Wrong. Labor unions continued to grow and organize throughout the twentieth century."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN",
+   "GOV",
+   "SIO",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 134
+ },
+ {
+  "id": "wh-princeton-pdf-u6-014",
+  "source_id": "princeton-pdf4-u6-46",
+  "unit": 6,
+  "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
+  "source_stimulus_words": 132,
+  "stem": "The concerns described in the passage, insecurity about employment, health, and old age, reappeared throughout the twentieth century in debates over",
+  "options": [
+   "(A) The exploration of outer space and the moon",
+   "(B) The abolition of currency and all forms of money",
+   "(C) The scope of government social-welfare programs",
+   "(D) The end of all industrial production worldwide"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Bismarck's question never went away: what does the state owe workers who face sickness, unemployment, and old age? In the twentieth century it returned in every industrial democracy, in debates over unemployment insurance during the Great Depression, national health services after World War II, and pension reform ever since. The passage identifies the permanent tension between economic insecurity and the welfare state's answer to it.",
+  "option_explanations": {
+   "A": "Wrong. Space exploration had no connection to workers' economic insecurity.",
+   "B": "Wrong. No serious twentieth-century debate proposed abolishing currency to address these concerns.",
+   "C": "Correct. Bismarck named the issue that welfare-state politics would argue about for the next century.",
+   "D": "Wrong. Industrial production expanded enormously; the debate was about cushioning its human costs."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "ECN",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 134
+ },
+ {
+  "id": "wh-princeton-pdf-u6-015",
+  "source_id": "princeton-pdf4-u6-47",
+  "unit": 6,
+  "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
+  "source_stimulus_words": 132,
+  "stem": "Germany's pioneering system of social insurance influenced other industrial nations by",
+  "options": [
+   "(A) Proving that all welfare programs inevitably fail",
+   "(B) A model of state pensions and health insurance for Europe",
+   "(C) Causing Germany's immediate economic collapse",
+   "(D) Permanently ending all labor unrest"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Because Germany industrialized early and legislated early, its system became the working example other governments studied. Britain, France, and later many other states adapted the German model of compulsory, state-supervised insurance for sickness, injury, and old age. By the mid-twentieth century, some version of Bismarck's invention existed across the industrial world.",
+  "option_explanations": {
+   "A": "Wrong. The programs survived and expanded; they were widely judged a success worth copying.",
+   "B": "Correct. Germany's system was the template for social insurance across Europe and beyond.",
+   "C": "Wrong. Germany continued its rapid industrial growth after the 1880s; the reforms did not cause collapse.",
+   "D": "Wrong. Strikes and labor conflict continued well into the twentieth century."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 134
+ },
+ {
+  "id": "wh-princeton-pdf-u6-016",
+  "source_id": "princeton-pdf4-u6-48",
+  "unit": 6,
+  "stimulus": "The treaty signed at Shimonoseki in April 1895 ended the war between China and Japan over Korea. Its terms were a measure of Japan's triumph. China recognized the complete independence of Korea, ending centuries of Korean tribute to the Chinese throne. China ceded to Japan the island of Taiwan with all its dependencies, the Pescadores Islands, and the Liaodong Peninsula in southern Manchuria, together with all fortifications and arsenals upon them. In addition, China agreed to pay Japan a large war indemnity and to open four more treaty ports to Japanese trade. The settlement announced to the world that Japan, which had spent a generation building railways, factories, and a modern conscript army, could now defeat the Qing Empire in open war, and it set Japan upon the path of overseas empire in East Asia.",
+  "source_stimulus_words": 145,
+  "stem": "The terms of the treaty, Korean independence, the cession of Taiwan, and a large indemnity, demonstrate which of the following?",
+  "options": [
+   "(A) Japan's emergence as a modern power able to defeat Qing China",
+   "(B) China's successful defense against Japanese aggression",
+   "(C) Korea's conquest of both China and Japan",
+   "(D) The decisive military intervention of European powers"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Victors dictate terms, and these terms are a victor's terms: territory ceded, tribute ended, indemnity paid. That Japan could impose them on China, the traditional hegemon of East Asia, proved that the Meiji reforms had worked. A nation that had been a secluded feudal society forty years earlier had become the region's dominant military power.",
+  "option_explanations": {
+   "A": "Correct. The one-sided terms are the signature of a decisive Japanese victory.",
+   "B": "Wrong. A successful defense does not end with ceding Taiwan and paying an indemnity.",
+   "C": "Wrong. Korea was the prize being fought over, not the conqueror; its 'independence' really meant falling into Japan's orbit.",
+   "D": "Wrong. Europeans did not fight in this war; afterward they pressured Japan to return Liaodong, but that is a separate episode."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 135
+ },
+ {
+  "id": "wh-princeton-pdf-u6-017",
+  "source_id": "princeton-pdf4-u6-49",
+  "unit": 6,
+  "stimulus": "The treaty signed at Shimonoseki in April 1895 ended the war between China and Japan over Korea. Its terms were a measure of Japan's triumph. China recognized the complete independence of Korea, ending centuries of Korean tribute to the Chinese throne. China ceded to Japan the island of Taiwan with all its dependencies, the Pescadores Islands, and the Liaodong Peninsula in southern Manchuria, together with all fortifications and arsenals upon them. In addition, China agreed to pay Japan a large war indemnity and to open four more treaty ports to Japanese trade. The settlement announced to the world that Japan, which had spent a generation building railways, factories, and a modern conscript army, could now defeat the Qing Empire in open war, and it set Japan upon the path of overseas empire in East Asia.",
+  "source_stimulus_words": 145,
+  "stem": "Japan's victory in the war ended by this treaty was made possible in large part by",
+  "options": [
+   "(A) Japan's adoption of a policy of national isolation",
+   "(B) Military aid that China provided to Japan",
+   "(C) The absence of any domestic reforms in Japan",
+   "(D) Meiji industrialization and military modernization"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "After 1868 the Meiji government deliberately remade Japan: building railways and factories, creating a conscript army on the Prussian model, and a modern navy on the British model, all paid for by new taxes. When war came in 1894, Japan fielded a disciplined, well-equipped force against a Qing military that had reformed only partially. Shimonoseki was the payoff of a generation of state-led modernization.",
+  "option_explanations": {
+   "A": "Wrong. Japan abandoned isolation in the 1850s-1860s; the victory came from engaging with and copying Western methods.",
+   "B": "Wrong. China was Japan's enemy in this war, not its supplier.",
+   "C": "Wrong. Without the Meiji reforms there would have been no modern army or navy to win with.",
+   "D": "Correct. Industrialization plus military modernization produced the force that defeated China."
+  },
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 135
+ },
+ {
+  "id": "wh-princeton-pdf-u6-018",
+  "source_id": "princeton-pdf4-u6-50",
+  "unit": 6,
+  "stimulus": "The treaty signed at Shimonoseki in April 1895 ended the war between China and Japan over Korea. Its terms were a measure of Japan's triumph. China recognized the complete independence of Korea, ending centuries of Korean tribute to the Chinese throne. China ceded to Japan the island of Taiwan with all its dependencies, the Pescadores Islands, and the Liaodong Peninsula in southern Manchuria, together with all fortifications and arsenals upon them. In addition, China agreed to pay Japan a large war indemnity and to open four more treaty ports to Japanese trade. The settlement announced to the world that Japan, which had spent a generation building railways, factories, and a modern conscript army, could now defeat the Qing Empire in open war, and it set Japan upon the path of overseas empire in East Asia.",
+  "source_stimulus_words": 145,
+  "stem": "The Treaty of Shimonoseki belongs to a larger nineteenth-century pattern in which",
+  "options": [
+   "(A) Qing China steadily expanding its territory and its power",
+   "(B) Japan submitting to Chinese authority in East Asia",
+   "(C) A weak China yielding land and privileges to stronger powers",
+   "(D) European powers withdrawing entirely from East Asia for good"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "Shimonoseki was one episode in the Qing dynasty's long nineteenth-century decline. Beginning with the Treaty of Nanjing in 1842, China was repeatedly compelled to open ports, cede territory such as Hong Kong and Taiwan, grant extraterritoriality, and pay indemnities, first to Britain and France, then to Japan, then to a coalition of powers after the Boxer Rebellion. The pattern was consistent: a weakened China yielding to stronger states.",
+  "option_explanations": {
+   "A": "Wrong. The nineteenth century was a story of Qing contraction and humiliation, not expansion.",
+   "B": "Wrong. The treaty ended Korea's tribute to China and marked Japan's rise over China, the reverse of submission.",
+   "C": "Correct. Shimonoseki fits the century-long pattern of unequal treaties imposed on a declining Qing Empire.",
+   "D": "Wrong. Europeans were expanding their presence in East Asia throughout this period, not withdrawing."
+  },
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 135
+ },
+ {
+  "id": "wh-princeton-pdf-u8-010",
+  "source_id": "princeton-pdf4-u8-51",
+  "unit": 8,
+  "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+  "source_stimulus_words": 141,
+  "stem": "The author's claim that colonial rule speaks 'the very language of force' is best understood in the context of which of the following?",
+  "options": [
+   "(A) The complete absence of violence in European colonies",
+   "(B) The dehumanization of colonized peoples, ruled by coercion rather than consent",
+   "(C) The democratic participation of colonized peoples in imperial parliaments",
+   "(D) The military alliance between colonizers and the colonized during the Cold War"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Fanon's contrast is between rule at home, where the powerful at least bother to persuade, and rule in the colony, where they do not bother at all. The colonized are treated as beings who need not be convinced, only compelled: the policeman's rifle butt replaces argument. That open, unashamed use of force reveals that the system regards the native as less than a citizen, as someone outside the moral community where persuasion applies.",
+  "option_explanations": {
+   "A": "Wrong. The passage is entirely about the centrality of violence to colonial rule.",
+   "B": "Correct. Governing by undisguised force treats the colonized as subjects to be compelled, not citizens to be persuaded.",
+   "C": "Wrong. Colonized peoples were excluded from real power in imperial parliaments; that exclusion is part of Fanon's point.",
+   "D": "Wrong. The passage describes domination, not alliance, and predates Cold War alignments as its frame."
+  },
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 124
+ },
+ {
+  "id": "wh-princeton-pdf-u8-011",
+  "source_id": "princeton-pdf4-u8-52",
+  "unit": 8,
+  "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+  "source_stimulus_words": 141,
+  "stem": "The author's analysis in the passage was most directly shaped by his experience with",
+  "options": [
+   "(A) The Algerian struggle for independence from France",
+   "(B) The American civil rights movement of the 1960s",
+   "(C) The Russian Revolution of 1917 and its aftermath",
+   "(D) The Meiji Restoration in nineteenth-century Japan"
+  ],
+  "key": "A",
+  "key_confidence": "high",
+  "explanation": "Frantz Fanon was a psychiatrist from Martinique who joined the Algerian National Liberation Front during its war against France (1954-1962), treating both tortured Algerians and traumatized French soldiers. The Wretched of the Earth (1961) was written as a handbook for that struggle. His searing account of colonial violence comes from direct participation in a war of decolonization, not from abstract theory.",
+  "option_explanations": {
+   "A": "Correct. Fanon was a militant in the Algerian independence movement, and the book grew out of that war.",
+   "B": "Wrong. Fanon died in 1961, before the American movement's peak, and his subject was French colonialism.",
+   "C": "Wrong. The Russian Revolution was four decades earlier and on another continent.",
+   "D": "Wrong. The Meiji Restoration was a nineteenth-century Japanese modernization, unrelated to Fanon."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "stimulus_words": 124
+ },
+ {
+  "id": "wh-princeton-pdf-u8-012",
+  "source_id": "princeton-pdf4-u8-53",
+  "unit": 8,
+  "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+  "source_stimulus_words": 141,
+  "stem": "Fanon warned that even after winning formal independence, former colonies might remain dominated because",
+  "options": [
+   "(A) All new nations immediately became wealthy and powerful",
+   "(B) European powers always restored direct colonial rule",
+   "(C) Nationalist movements disappeared after independence",
+   "(D) Colonies could stay economically dependent on their former rulers"
+  ],
+  "key": "D",
+  "key_confidence": "high",
+  "explanation": "Fanon argued that raising a new flag does not end domination if the economy still serves the old master: exporting raw materials to Europe, importing European manufactures, borrowing European capital, and keeping European advisers. This condition, later called neocolonialism, meant political independence could coexist with continued economic subordination, a warning that shaped dependency theory and post-colonial thought.",
+  "option_explanations": {
+   "A": "Wrong. New nations were typically poor; wealth was not the problem Fanon identified.",
+   "B": "Wrong. Direct recolonization was rare; Fanon's point was about subtler, economic forms of control.",
+   "C": "Wrong. Nationalist movements usually became the new governments; the issue was what they inherited.",
+   "D": "Correct. Economic dependence could perpetuate colonial relationships after the soldiers went home."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 124
+ },
+ {
+  "id": "wh-princeton-pdf-u8-013",
+  "source_id": "princeton-pdf4-u8-54",
+  "unit": 8,
+  "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+  "source_stimulus_words": 141,
+  "stem": "African decolonization accelerated after World War II in part because the war",
+  "options": [
+   "(A) Convinced European powers that colonies were more profitable than ever",
+   "(B) Destroyed all anti-colonial movements",
+   "(C) Weakened European empires while energizing anti-colonial nationalism",
+   "(D) Led the United Nations to oppose every independence movement"
+  ],
+  "key": "C",
+  "key_confidence": "high",
+  "explanation": "The war bankrupted Britain and shattered France, leaving neither the money nor the will for far-flung empires. At the same time, hundreds of thousands of African soldiers had fought for the Allies, returning home with military training, exposure to Allied promises of freedom, and a sharpened sense of the empires' vulnerability. Economic exhaustion in Europe plus rising nationalism in Africa made the postwar wave of independence possible.",
+  "option_explanations": {
+   "A": "Wrong. The war made colonies harder to afford and defend, not more profitable.",
+   "B": "Wrong. The war strengthened anti-colonial movements by training soldiers and discrediting imperial claims.",
+   "C": "Correct. Imperial weakness and colonial nationalism rose together after 1945.",
+   "D": "Wrong. The UN Charter endorsed self-determination, and the UN became a forum for anti-colonial pressure."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 124
+ },
+ {
+  "id": "wh-princeton-pdf-u8-014",
+  "source_id": "princeton-pdf4-u8-55",
+  "unit": 8,
+  "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+  "source_stimulus_words": 141,
+  "stem": "A historian using this passage should keep in mind that the author's account is shaped by which of the following?",
+  "options": [
+   "(A) His service as a French colonial governor",
+   "(B) His role as a participant in the Algerian independence struggle",
+   "(C) His complete lack of contact with colonized peoples",
+   "(D) His public support for continued French rule in Algeria"
+  ],
+  "key": "B",
+  "key_confidence": "high",
+  "explanation": "Fanon was not a detached observer; he was a committed militant of the Algerian FLN who wrote to arm a revolution. That perspective gives the passage its urgency and moral clarity, but it also means the account is partisan: it presents colonialism at its most violent and resistance as the necessary answer. A historian values the testimony while recognizing the author's cause.",
+  "option_explanations": {
+   "A": "Wrong. Fanon was a psychiatrist and revolutionary, never a colonial governor.",
+   "B": "Correct. A participant's testimony is vivid evidence, but it is written from inside the struggle.",
+   "C": "Wrong. Fanon lived and worked among colonized Algerians daily, as a doctor and a militant.",
+   "D": "Wrong. Fanon devoted his life to ending French rule in Algeria, not preserving it."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "stimulus_words": 124
+ }
+]
