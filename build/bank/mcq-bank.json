@@ -8637,9 +8637,9 @@
   "source_id": "barrons-u7-005",
   "unit": 7,
   "stimulus": "Léopold Sédar Senghor was born in Senegal, educated in French colonial schools, won a scholarship to Paris, became a French citizen and professor, served in the French army, and eventually became the first president of independent Senegal — all while writing poetry in French about Africa and the Black world.",
-  "stem": "The poet's ability to write in French about New York reflects which aspect of his life?",
+  "stem": "The poet's ability to write in French about Africa and the Black world reflects which aspect of his life?",
   "options": [
-   "(A) His birth into a New York literary family",
+   "(A) His birth into a Parisian literary family",
    "(B) His decision to reject formal schooling entirely",
    "(C) His years working as a merchant sailor",
    "(D) A French colonial education on three continents"
@@ -8647,7 +8647,7 @@
   "key": "D",
   "explanation": "Senghor embodied the colonial paradox: France educated him to be French, and he used that French education — the language, the literary forms, the Parisian networks — to affirm African identity and eventually lead Senegal to independence. His life maps the circuits of empire: colony to metropole and back.",
   "option_explanations": {
-   "A": "Wrong. Senghor was born in Senegal, not New York.",
+   "A": "Wrong. Senghor was born in Senegal, not Paris.",
    "B": "Wrong. He was among the most formally educated Africans of his generation.",
    "C": "Wrong. He was a teacher, soldier, and statesman — not a sailor.",
    "D": "Correct. Colonial education created the mobile, French-speaking intellectual."
@@ -27195,10 +27195,10 @@
    "D": "Wrong. Resistance continued; the telegraph strengthened administration but did not end opposition."
   },
   "options": [
-   "The cables were built entirely by the independent governments of the colonies they served.",
-   "Britain abandoned territorial empire in favor of purely commercial relationships.",
-   "Imperial power depended on communications infrastructure as well as on soldiers and administrators.",
-   "The telegraph immediately ended all resistance to British rule in Asia."
+   "(A) The cables were built entirely by the independent governments of the colonies they served.",
+   "(B) Britain abandoned territorial empire in favor of purely commercial relationships.",
+   "(C) Imperial power depended on communications infrastructure as well as on soldiers and administrators.",
+   "(D) The telegraph immediately ended all resistance to British rule in Asia."
   ],
   "reasoning": "Causation",
   "skill": "Sourcing and Situation",
@@ -27834,10 +27834,10 @@
    "D": "Wrong. Gunpowder weapons spread and intensified under and after Mongol rule."
   },
   "options": [
-   "The revival and protection of Silk Road trade under Mongol rule.",
-   "The permanent end of all contact between East Asia and Europe.",
-   "The conversion of the Mongol ruling class to Christianity.",
-   "The abandonment of gunpowder weapons across Asia."
+   "(A) The revival and protection of Silk Road trade under Mongol rule.",
+   "(B) The permanent end of all contact between East Asia and Europe.",
+   "(C) The conversion of the Mongol ruling class to Christianity.",
+   "(D) The abandonment of gunpowder weapons across Asia."
   ],
   "reasoning": "Causation",
   "skill": "Developments and Processes",
