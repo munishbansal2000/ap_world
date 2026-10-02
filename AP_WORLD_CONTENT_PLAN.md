@@ -46,7 +46,7 @@ Total 3h15m. Rubrics: DBQ 7 / LEQ 6 / SAQ 3 each. No SAQ choice, no LEQ choice �
 - Work on main, no branches; name the repo on every push report.
 - New CED format only. Pre-Fall-2026 books teach the old format — strategy content remapped or quarantined.
 - Pre-1900 primary sources are public domain (quotable verbatim — ideal for DBQ docs); post-1929 sources get paraphrase/original treatment.
-- **Stimulus length gate (standing):** MCQ stimuli ≤150 words, SAQ text stimuli ≤250 words, post-1929 excerpts as short as the question allows. Every item carries a `stimulus_words` count; over cap = rewrite.
+- **Stimulus length gate (standing):** match the source's length — a re-conceived stimulus should run about the same length as the stimulus it was transformed from (same order of magnitude, not inflated or gutted). For fresh-written items, keep MCQ stimuli tight (a sentence to a short paragraph) and SAQ stimuli to short excerpts. Post-1929 excerpts stay as short as the question allows (fair-use safety). Every item carries a `stimulus_words` count.
 - "Let's go" = build the whole chain, no clarifying questions. Repair-first when the fix is obvious.
 - Student-facing: full plain-language explanations, no sales jargon.
 
