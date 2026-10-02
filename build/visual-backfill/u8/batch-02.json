@@ -1,0 +1,411 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "In January 1959 Castro's 26th of July Movement marched into Havana after dictator Fulgencio Batista - long supported by the United States - fled Cuba. The revolution soon turned to the Soviet Union for support, nationalized American property, and became a communist state, placing a Soviet ally 90 miles from Florida and setting the stage for the Bay of Pigs and the Cuban Missile Crisis. The image matters: the cheering crowds and rebel jeep show a popular revolution, not a foreign invasion or a colonial revolt.",
+  "id": "wh-vis-u8-013",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Fidel_Castro%27s_entry_into_Havana%2C_1959.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The jeep carries Cuban rebels, not American troops, and the crowds are cheering a revolution, not a U.S. intervention.",
+   "B": "Correct. The photograph shows Castro's victorious rebels entering Havana after Batista's fall - the revolution that soon aligned Cuba with the USSR.",
+   "C": "Incorrect. Cuba never joined NATO; it became a Soviet ally instead.",
+   "D": "Incorrect. Spanish colonial rule in Cuba ended in 1898, more than sixty years before this photograph."
+  },
+  "options": [
+   "(A) A U.S. military intervention that overthrew Batista and installed a pro-American democratic government in Havana.",
+   "(B) The victory of a revolution that toppled a U.S.-backed dictator and soon aligned Cuba with the Soviet Union.",
+   "(C) The moment Cuba joined NATO as its first Latin American member state.",
+   "(D) A Cuban uprising against Spanish colonial rule that ended four centuries of Spanish control and inspired similar revolts across the Caribbean and Latin America."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The event shown is most significant as",
+  "stimulus": "Photograph, January 1959: Fidel Castro and armed rebels ride in an open jeep through streets of Havana packed with cheering crowds, days after dictator Fulgencio Batista fled Cuba.",
+  "stimulus_words": 28,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The CIA's December 1949 map - marked confidential and later declassified - shows communist forces in control of nearly all of mainland China, with only Taiwan unshaded. For Washington, the 'loss of China' was a political earthquake: the most populous country on earth had gone communist, and American policymakers feared the rest of Asia would follow. This fear drove U.S. intervention in Korea and Vietnam. The image is essential: only by seeing how completely the pink shading covers China can a student grasp the scale of the perceived loss.",
+  "id": "wh-vis-u8-014",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Communist_China_14_December_1949_-_DPLA_-_96c46fc755f7c2c9d8637659fe17a37f.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The map shows communist advances within China, not an invasion of the Soviet Union.",
+   "B": "Incorrect. Taiwan is shown unshaded (white), meaning it was not under communist control in December 1949.",
+   "C": "Incorrect. The map shows communists controlling nearly all of China; containment in Asia had failed, not succeeded.",
+   "D": "Correct. The map's near-total pink shading shows mainland China under communist control, which Washington read as a catastrophic expansion of communism."
+  },
+  "options": [
+   "(A) That China was about to invade the Soviet Union across their long shared border.",
+   "(B) That Taiwan had already been captured by communist forces by December 1949, leaving the Nationalists with no territory at all.",
+   "(C) That the United States had successfully contained communism within China's borders and that the Nationalist government still controlled most of the mainland.",
+   "(D) That the world's most populous country had fallen to communism, intensifying American fears of communist expansion across Asia."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map best illustrates which U.S. concern in late 1949?",
+  "stimulus": "Declassified CIA map marked 'CONFIDENTIAL' and dated 14 December 1949, titled 'COMMUNIST CHINA': nearly all of mainland China is shaded pink as 'Communist-controlled area,' with red arrows showing the 'Communist drive' southward; Taiwan is left unshaded.",
+  "stimulus_words": 36,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "By late November 1950, UN forces under MacArthur had advanced to the Yalu River, the border with China, exactly as this map shows - Eighth Army in the west, X Corps in the east near the Chosin Reservoir. Beijing had warned it would intervene if UN troops approached its border; when the warnings were ignored, some 300,000 Chinese troops attacked in late November, hurling UN forces into a long retreat. The image is necessary: only by seeing how far north and how thinly spread the UN forces were can a student understand why the Chinese attack was so devastating.",
+  "id": "wh-vis-u8-015",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Korean_front_line_23_November_1950.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The map shows UN forces stretched to the Chinese border just before Beijing launched its massive late-November counteroffensive.",
+   "B": "Incorrect. North Korea did not surrender; the war continued for nearly three more years.",
+   "C": "Incorrect. The Soviet Union was not an overt combatant in Korea and did not withdraw because of this map's situation.",
+   "D": "Incorrect. The United Nations never invaded China; instead, Chinese forces crossed into Korea and attacked the UN troops shown on the map."
+  },
+  "options": [
+   "(A) China's massive military intervention in the Korean War, which drove UN forces back south after Beijing warned that its border was threatened.",
+   "(B) The immediate and unconditional surrender of North Korea to United Nations forces.",
+   "(C) The withdrawal of the Soviet Union from the Korean conflict after secret negotiations with Washington.",
+   "(D) A United Nations decision to expand the war by invading Manchuria and occupying northeastern China, a plan General MacArthur had publicly advocated for months despite repeated warnings from Beijing."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The situation shown on the map most directly led to which development?",
+  "stimulus": "U.S. Army map titled 'THE BATTLEFRONT, 23 November 1950': United Nations forces (Eighth Army and X Corps, including units at the Chosin Reservoir) are shown advanced deep into northern Korea, reaching the Yalu River and the border with Manchuria (China).",
+  "stimulus_words": 40,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In September 1950, with UN forces trapped in the Pusan Perimeter at Korea's southern tip, MacArthur landed X Corps at Inchon on the west coast - far behind North Korean lines and near Seoul. The landing cut North Korean supply lines and, combined with the breakout from Pusan, destroyed the North Korean army in the south and let UN forces recapture Seoul and advance north. The map matters because it shows the landing's position far behind the front, which is what made it so devastating.",
+  "id": "wh-vis-u8-016",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Inchon_landing_map_%28en%29.svg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The D-Day invasion of Normandy was in 1944, during World War II, not in Korea in 1950.",
+   "B": "Incorrect. The landing was an American-led UN operation; Chinese forces entered the war later, in November 1950.",
+   "C": "Correct. The map shows the landing at Inchon, far up the west coast behind North Korean lines, cutting their supplies and reversing the war.",
+   "D": "Incorrect. Troops did land - the map shows Red, Green, and Blue assault beaches - and the war continued for three more years."
+  },
+  "options": [
+   "(A) The D-Day invasion of Normandy by Allied forces during World War II.",
+   "(B) An invasion of North Korea across the 38th parallel by Chinese volunteer forces.",
+   "(C) A daring American amphibious landing behind North Korean lines that severed enemy supply routes and turned the Korean War around.",
+   "(D) A purely naval blockade of Korea's west coast that forced North Korea to surrender without any landing of troops, ending the war in a matter of weeks in the fall of 1950."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The operation shown is best described as",
+  "stimulus": "U.S. military map of the Inchon landing, September 1950: amphibious assault beaches labeled Red, Green, and Blue at the port of Inchon on Korea's west coast, far to the north of the Pusan Perimeter where the front line stood, with the fortified island of Wolmi-do guarding the harbor entrance.",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The French built the Dien Bien Phu garrison in a remote valley to block Viet Minh supply routes, but the Viet Minh surrounded the valley with artillery on the overlooking hills and cut the airstrip - the garrison's only lifeline. After a 56-day siege the French surrendered in May 1954, a defeat so complete that France agreed at Geneva to leave Indochina. The map is necessary: only by seeing the ring of Viet Minh divisions around the isolated strongpoints and the single airstrip can a student understand why the position was doomed.",
+  "id": "wh-vis-u8-017",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dien_Bien_Phu_map.png",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The French lost the battle; the map shows their strongpoints completely surrounded by five Viet Minh divisions.",
+   "B": "Incorrect. No American combat troops fought in Vietnam in 1954; large-scale U.S. involvement came a decade later.",
+   "C": "Incorrect. The map shows a battle in Vietnam, not a settlement dividing France.",
+   "D": "Correct. The French strongpoints sit isolated in a valley, encircled by Viet Minh divisions, with only one airstrip - the classic recipe for the 1954 French defeat."
+  },
+  "options": [
+   "(A) A decisive French victory at Dien Bien Phu that broke the Viet Minh siege and preserved French colonial control of Indochina for another full decade.",
+   "(B) The entry of American combat troops into the war in Vietnam in 1954, two years before the first U.S. advisers arrived.",
+   "(C) A negotiated settlement that divided France itself into northern and southern zones.",
+   "(D) The French defeat at Dien Bien Phu, where the garrison was trapped in a valley, surrounded, and dependent on one shell-swept airstrip."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map best helps explain which outcome?",
+  "stimulus": "Battle map of Dien Bien Phu, 1954: French strongpoints (shaded green and named Gabrielle, Beatrice, Huguette, Claudine, Dominique, Eliane, and Isabelle) cluster around a single airstrip in a valley, while five Viet Minh divisions (numbered 308, 312, 351, 316, and 304) surround them on all sides.",
+  "stimulus_words": 46,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "After the French defeat at Dien Bien Phu, the 1954 Geneva Conference ended the First Indochina War by temporarily dividing Vietnam at roughly the 17th parallel: Ho Chi Minh's communist Democratic Republic of Vietnam in the north, and the French-backed State of Vietnam in the south, with nationwide reunification elections promised for 1956. The elections never happened, and the temporary line hardened into the border of the Vietnam War. The map matters because it shows the two Vietnams plus newly independent Laos and Cambodia - the settlement's exact shape.",
+  "id": "wh-vis-u8-018",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/French_Indochina_post_partition.png",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The map shows the Geneva settlement: a communist North and non-communist South divided near the 17th parallel, alongside independent Laos and Cambodia.",
+   "B": "Incorrect. The division came from the Geneva Conference of great powers, not a UN General Assembly vote, and it was meant to be temporary.",
+   "C": "Incorrect. The Tet Offensive was in 1968, fourteen years after the division shown here.",
+   "D": "Incorrect. China did not annex northern Vietnam; the North became the independent Democratic Republic of Vietnam."
+  },
+  "options": [
+   "(A) The French defeat in the First Indochina War, which led the 1954 Geneva Conference to temporarily divide Vietnam near the 17th parallel pending reunification elections.",
+   "(B) A United Nations General Assembly vote that permanently created two separate and independent Vietnamese states, a solution endorsed by both the United States and the Soviet Union.",
+   "(C) The Tet Offensive of 1968, which forced the division of Vietnam as a compromise settlement.",
+   "(D) China's military annexation of northern Vietnam at the end of World War II."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The division shown most directly resulted from",
+  "stimulus": "Map of Indochina after the 1954 Geneva Accords: the Democratic Republic of Vietnam (North, communist) and the State of Vietnam (South) are divided near the 17th parallel, with the newly independent kingdoms of Laos and Cambodia alongside them.",
+  "stimulus_words": 38,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The map's red X symbols - marking the attacks of January 30 and the following days - cover the entire country, from Hue to Saigon to the Mekong Delta. American officials had been claiming the enemy was nearly beaten; the sight of coordinated attacks on more than 100 cities and towns, including the U.S. embassy in Saigon, shattered public confidence. Although the Viet Cong suffered heavy losses, the offensive turned American opinion against the war. The image is essential: only its nationwide spread of attack symbols lets a student evaluate the 'shock' claim.",
+  "id": "wh-vis-u8-019",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Tet_Offensive_map.png",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The map shows attack symbols spread across the whole country, not confined to the demilitarized zone.",
+   "B": "Incorrect. The scale of the attacks demonstrated South Vietnam's dependence on U.S. forces, not its self-sufficiency.",
+   "C": "Correct. The map's nationwide pattern of attacks explains why Tet shocked the American public and discredited official claims of imminent victory.",
+   "D": "Incorrect. U.S. withdrawal took years and was gradual; Tet did not end American involvement within weeks."
+  },
+  "options": [
+   "(A) The Tet attacks were limited to the demilitarized zone and had almost no effect on the wider war.",
+   "(B) The offensive proved that South Vietnam's army could defend the country entirely without American help.",
+   "(C) Although a communist military defeat, the offensive's nationwide reach shocked the American public and undermined U.S. claims that victory was near.",
+   "(D) The offensive caused the United States to withdraw all its troops from Vietnam within a few weeks, ending American involvement in the war by the spring of 1968."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scale of the attacks shown on the map best supports which conclusion about the Tet Offensive?",
+  "stimulus": "U.S. military map titled 'SOUTH VIETNAM - THE TET OFFENSIVE, 29 January-25 February 1968': red X symbols marking major communist attacks on 30 January and shortly after are spread across the entire country, including Saigon, Hue, Da Nang, and cities throughout the Mekong Delta.",
+  "stimulus_words": 44,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "As Britain prepared to leave Palestine, the United Nations proposed (Resolution 181) splitting the territory into an Arab state and a Jewish state, with Jerusalem as a separate international zone - the corpus separatum. Jewish leaders accepted the plan; Arab leaders rejected it. The map is necessary because only by seeing the interlocking yellow and orange territories and the white Jerusalem enclave can a student describe what the plan actually proposed.",
+  "id": "wh-vis-u8-020",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/UN_Partition_Plan_For_Palestine_1947.png",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The orange Jewish state on the 1947 map is much smaller than the territory Israel held after the 1967 war.",
+   "B": "Correct. The map shows exactly this: an Arab state (yellow), a Jewish state (orange), and Jerusalem (white) under UN administration.",
+   "C": "Incorrect. The map clearly marks a Jewish state in orange alongside the Arab state.",
+   "D": "Incorrect. Arab leaders rejected the plan, and war broke out in 1948 rather than a peaceful implementation."
+  },
+  "options": [
+   "(A) It created the independent state of Israel within the borders Israel would hold after the 1967 war.",
+   "(B) It proposed dividing British-ruled Palestine into separate Arab and Jewish states, with Jerusalem placed under separate international administration.",
+   "(C) It placed all of Palestine under the control of a single Arab state.",
+   "(D) It was accepted by both Arab and Jewish leaders and was implemented peacefully in 1948, with British troops overseeing an orderly transfer of power to the two new governments over several months."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which of the following is the most accurate description of the plan shown?",
+  "stimulus": "Map of the 1947 UN Partition Plan for Palestine: an Arab state (yellow) and a Jewish state (orange) in interlocking, non-contiguous territories, with Jerusalem shown in white as a separate zone under UN administration.",
+  "stimulus_words": 34,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The day after Israel declared independence (May 14, 1948), the armies of Egypt, Jordan, Iraq, Syria, and Lebanon invaded the new state, as the map's red arrows and troop figures show. The Arab states rejected the UN partition and sought to prevent Israel's establishment; the dashed line on the map marks the partition boundary they were crossing. The image is essential: only the arrows, labels, and troop numbers show the multi-front invasion.",
+  "id": "wh-vis-u8-021",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1948_Arab_Israeli_War_-_May_15-June_10.svg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The red arrows point inward from neighboring Arab states toward Israel, showing an invasion of Israel, not by Israel.",
+   "B": "Incorrect. The map shows foreign armies (Egypt, Jordan, Iraq, Syria, Lebanon) crossing into Palestine, not a purely internal conflict.",
+   "C": "Incorrect. The map labels Egyptian, Jordanian, Iraqi, Syrian, and Lebanese forces all attacking.",
+   "D": "Correct. The map shows five Arab armies converging on Israel immediately after its declaration of independence, crossing the UN partition boundary."
+  },
+  "options": [
+   "(A) Israel invaded its Arab neighbors to expand far beyond the UN partition lines.",
+   "(B) The war began as a purely internal civil conflict fought entirely within the UN partition boundaries, with no foreign armies crossing into Palestine at any point during the entire first phase of the fighting.",
+   "(C) Only Egypt took part in the fighting against the new state of Israel.",
+   "(D) Immediately after Israel declared independence, the armies of neighboring Arab states invaded from several directions, rejecting the UN partition plan."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map best supports which statement about the start of the 1948 war?",
+  "stimulus": "Map of the 1948 Arab-Israeli War (15 May-10 June 1948): red arrows show attacks converging on the new state of Israel from Egypt (11,000 troops), Jordan's Arab Legion (5,000), Iraq (7,000), Syria (4,000), and Lebanon (2,000); a dashed line marks the UN partition boundary of 29 November 1947.",
+  "stimulus_words": 48,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "In July 1956 Nasser nationalized the British-French-owned Suez Canal Company. Britain, France, and Israel secretly colluded: Israel would invade Sinai, and Britain and France would then 'intervene' to seize the canal. The map shows the Israeli half of the plan - the rapid drive across Sinai in early November 1956. The United States and USSR both condemned the invasion, forcing the attackers to withdraw - a humiliation that marked the decline of British and French imperial power. The image matters: the map's notes about Israeli units halting near the canal show a campaign stopped by international pressure, not completed conquest.",
+  "id": "wh-vis-u8-022",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/1956_Suez_war_-_conquest_of_Sinai.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Nasser's nationalization of the canal triggered the secret British-French-Israeli operation the map depicts.",
+   "B": "Incorrect. The Soviet Union condemned the invasion; it did not invade Egypt or seek a base at Port Said.",
+   "C": "Incorrect. The United States opposed the invasion and pressured the attackers to withdraw; it did not invade Sinai.",
+   "D": "Incorrect. Israel withdrew from Sinai under U.S. and Soviet pressure; it did not permanently annex it in 1956."
+  },
+  "options": [
+   "(A) Egyptian President Nasser's nationalization of the Suez Canal, which prompted a secret British-French-Israeli plan to seize the canal by force and topple Nasser.",
+   "(B) A full-scale Soviet invasion of Egypt intended to seize control of the canal for the communist bloc and establish a permanent Soviet naval base at Port Said on the Mediterranean.",
+   "(C) An American invasion of the Sinai Peninsula to secure Western access to Middle Eastern oil.",
+   "(D) Israel's decision to permanently annex the entire Sinai Peninsula in November 1956."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The outcome of the campaign shown is best explained by which larger development?",
+  "stimulus": "U.S. military map titled 'SINAI - CAMPAIGN IN SINAI, Conquest of Sinai, 1-6 November 1956': blue arrows show Israeli forces driving across the Sinai Peninsula toward the Suez Canal, with boxed notes stating that 'Israeli units halted on a line 10 miles from Suez Canal on 2 November' and that the campaign ended with the capture of Sharm-el-Sheikh on 5 November.",
+  "stimulus_words": 61,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "On June 5, 1967, Israel launched preemptive strikes against Egypt, Jordan, and Syria. The map shows the Jordanian front: Israeli armor thrusting east from the Tel Aviv-Jerusalem area, encircling Nablus and taking East Jerusalem within three days. By the war's end Israel held the Sinai, the Golan Heights, the West Bank, and Gaza - roughly tripling its territory. The image is necessary: the arrows and dates show the speed and direction of the Israeli advance into Jordanian-held land.",
+  "id": "wh-vis-u8-023",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1967_Six_Day_War_-_The_Jordan_salient.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The blue arrows show Israeli forces advancing into Jordanian-held territory, not a successful Jordanian defense.",
+   "B": "Correct. The map shows Israeli forces driving into the West Bank and Jerusalem on June 5-7, 1967, capturing them from Jordan.",
+   "C": "Incorrect. The map shows the Jordanian front; the arrows are Israeli advances, not a Syrian invasion.",
+   "D": "Incorrect. No Palestinian state was created in 1967; Israel occupied the West Bank instead."
+  },
+  "options": [
+   "(A) Jordan's successful defense of the West Bank against the Israeli attack.",
+   "(B) Israel's rapid capture of the West Bank and East Jerusalem from Jordan in June 1967, greatly expanding the territory under Israeli control.",
+   "(C) A large-scale Syrian invasion of northern Israel across the Sea of Galilee.",
+   "(D) The creation of an independent Palestinian state in the West Bank immediately after the fighting ended in the summer of 1967, recognized by both Israel and Jordan."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map illustrates which major consequence of the Six-Day War?",
+  "stimulus": "U.S. military map titled 'ISRAEL - THE SIX DAY WAR, The Jordan Salient, 5-7 June 1967': thick blue arrows show Israeli forces driving eastward from the Tel Aviv and Jerusalem areas into the West Bank, encircling Jordanian positions around Nablus and Jerusalem.",
+  "stimulus_words": 42,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Britain's 1947 partition created India (Hindu-majority) and Pakistan (Muslim-majority, in two wings separated by 1,000 miles). The map shows why partition was catastrophic: the Radcliffe Line cut through Punjab and Bengal, triggering one of history's largest forced migrations - Muslims fleeing to Pakistan, Hindus and Sikhs to India - amid massacres that killed hundreds of thousands. The gray princely states show the unfinished business, above all Kashmir, which remains disputed today. The image is essential: only its arrows, conflict symbols, and gray undecided states support each part of the key.",
+  "id": "wh-vis-u8-024",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The map's refugee arrows and red conflict bursts show massive population movement and violence, not a peaceful process.",
+   "B": "Incorrect. The map shows Pakistan in two separate wings (West and East Pakistan), not one contiguous territory.",
+   "C": "Correct. The map shows the Radcliffe Line dividing Punjab and Bengal, two-way refugee flows, inter-communal conflict sites, and undecided princely states like Kashmir.",
+   "D": "Incorrect. Princely states such as Kashmir and Hyderabad are shown in gray as not yet acceded to either country."
+  },
+  "options": [
+   "(A) Partition proceeded peacefully, with Hindu, Muslim, and Sikh populations remaining in their home districts.",
+   "(B) Pakistan was created as a single, contiguous territory with no separated regions.",
+   "(C) Partition created two religiously defined states but triggered massive refugee movements and communal violence, while leaving regions such as Kashmir disputed.",
+   "(D) Every princely state immediately and voluntarily joined India at the moment of independence, with no exceptions or delays anywhere on the subcontinent, as every maharaja and nizam signed the instrument of accession without hesitation."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map best supports which conclusion about the partition of British India?",
+  "stimulus": "Map of the 1947 Partition of India: the Radcliffe Line divides the provinces of Punjab and Bengal between India (orange) and Pakistan (green, in western and eastern wings); orange arrows show Hindu and Sikh refugees moving toward India and green arrows show Muslim refugees moving toward Pakistan; starbursts mark sites of inter-communal conflict; large princely states such as Kashmir and Hyderabad are shown in gray as not acceded to either country.",
+  "stimulus_words": 71,
+  "themes": [
+   "GOV",
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ }
+]

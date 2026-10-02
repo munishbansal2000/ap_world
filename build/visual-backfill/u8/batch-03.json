@@ -1,0 +1,378 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "Japan's surrender in August 1945 left a power vacuum across Southeast Asia. In Indonesia, nationalist leaders Sukarno and Hatta proclaimed independence on August 17 - just two days after Japan's surrender - before Dutch colonial forces could return. The Netherlands fought a bitter war to reclaim its colony but finally recognized Indonesian independence in 1949. The photograph matters because it shows the actual proclamation moment, not a Dutch grant of independence or a Cold War alliance event.",
+  "id": "wh-vis-u8-025",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The August 17, 1945 proclamation came two days after Japan's surrender, as Indonesian nationalists seized the moment before the Dutch could return.",
+   "B": "Incorrect. The Dutch did not grant independence voluntarily in 1945; they fought to reclaim Indonesia and recognized it only in 1949.",
+   "C": "Incorrect. Indonesia was a founder of the Non-Aligned Movement, not a member of the Warsaw Pact.",
+   "D": "Incorrect. The United Nations did not partition Indonesia; it remained a single state."
+  },
+  "options": [
+   "(A) The wave of Asian decolonization after Japan's 1945 defeat, as nationalists claimed independence before European powers could return.",
+   "(B) The Dutch government's voluntary decision to grant Indonesia full and immediate independence in August 1945, a generous act for which Indonesian nationalists were deeply grateful.",
+   "(C) Indonesia's entry into the Warsaw Pact as the Soviet Union's first Asian ally.",
+   "(D) A United Nations resolution that partitioned Indonesia into several separate independent states in 1945."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The event shown is most directly connected to which broader development?",
+  "stimulus": "Photograph, 17 August 1945: Indonesian nationalist leader Sukarno, in a white suit and black cap, reads the Proclamation of Indonesian Independence before a small crowd, with Mohammad Hatta standing beside him.",
+  "stimulus_words": 31,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "East Pakistan's Bengali population resented domination by West Pakistan's government and army; after the 1971 crackdown, Bengali guerrillas (the Mukti Bahini, shown in yellow) rose in revolt. India intervened in December 1971, and - as the map shows - Indian corps drove into East Pakistan from three sides, converging on Dhaka. Pakistan's eastern army surrendered within two weeks, and East Pakistan became the independent nation of Bangladesh. The map is necessary: its orange Indian arrows converging on Dhaka show the military campaign that created the new state.",
+  "id": "wh-vis-u8-026",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bangladesh_1971_Liberation.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The map shows Indian forces attacking Pakistani positions, not a reunification; Pakistan was split, not strengthened.",
+   "B": "Correct. The map shows Indian Army corps converging on Dhaka alongside Mukti Bahini units - the 1971 campaign that created Bangladesh.",
+   "C": "Incorrect. Pakistan lost the war; its eastern command surrendered, and East Pakistan became independent.",
+   "D": "Incorrect. East Pakistan became the independent nation of Bangladesh, not an Indian province."
+  },
+  "options": [
+   "(A) The reunification of Pakistan's eastern and western wings into a stronger single state.",
+   "(B) The breakup of Pakistan and the creation of independent Bangladesh, after India's military intervention on behalf of Bengali nationalists.",
+   "(C) A decisive Pakistani military victory that preserved a united Pakistan and crushed the Bengali independence movement for a generation, with the surrender of all Indian forces in the east.",
+   "(D) The annexation of East Pakistan by India as a new Indian province."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map shows the military dimension of which political outcome?",
+  "stimulus": "Military map of the 1971 Bangladesh Liberation War: orange unit symbols for Indian Army corps drive into East Pakistan from the west, north, and east, converging on Dhaka (marked with a star as the national capital); green symbols mark Pakistani brigades; yellow symbols mark Mukti Bahini (Bengali guerrilla) units.",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The 1955 Bandung Conference brought together 29 newly independent Asian and African nations - from China and India to Egypt and Indonesia - representing more than half the world's population. The conference asserted that the decolonized world had its own interests and would not simply be pawns of Washington or Moscow, laying the groundwork for the Non-Aligned Movement. The map matters: only by seeing that every highlighted country is in Asia or Africa (none in Europe or the Americas) can a student identify the 'Third World' pattern.",
+  "id": "wh-vis-u8-027",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Asian-African_Conference_Participants.svg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. Bandung was not a military alliance, and it was directed at neither superpower; it asserted independence from both.",
+   "B": "Incorrect. No NATO members in Europe or North America are highlighted; all 29 participants are Asian or African.",
+   "C": "Incorrect. The participants included many non-British-colony states (China, Egypt, Indonesia, Japan) and discussed politics, not just trade.",
+   "D": "Correct. The map shows 29 Asian and African nations - the newly decolonized world - meeting on their own terms in 1955."
+  },
+  "options": [
+   "(A) A military alliance of Asian states directed against the Soviet Union.",
+   "(B) The expansion of NATO membership into Asia and Africa during the 1950s, as the alliance sought new members to contain communism on every continent.",
+   "(C) A free-trade agreement limited to former British colonies in Asia.",
+   "(D) Recently decolonized Asian and African nations asserting a collective political voice independent of both Cold War blocs."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The pattern shown on the map best reflects which development?",
+  "stimulus": "World map highlighting the 29 countries (in red) that attended the 1955 Asian-African Conference in Bandung, Indonesia: all are located in Asia and Africa, including China, India, Egypt, Indonesia, Japan, the Philippines, Turkey, and Iran.",
+  "stimulus_words": 35,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Non-Aligned Movement, founded in 1961, let developing nations cooperate economically and politically without joining the American or Soviet camp. The map shows this vividly: dark blue (members) covers almost all of Africa, South and Southeast Asia, and much of Latin America, while the United States, the USSR, and their closest allies are gray (non-members). The image is necessary because the geographic pattern - members in the Global South, superpowers absent - is the whole point.",
+  "id": "wh-vis-u8-028",
+  "image_license": "CC0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/NAM_Map.svg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The United States and Soviet Union are shown in gray as non-members, not as mediators.",
+   "B": "Incorrect. The dark-blue members are overwhelmingly developing nations in Africa, Asia, and Latin America, not wealthy industrialized states.",
+   "C": "Correct. The map shows members concentrated in the Global South, with both superpowers and most of Europe as non-members.",
+   "D": "Incorrect. Non-alignment meant avoiding military blocs; members did not join any formal alliance, anti-Soviet or otherwise."
+  },
+  "options": [
+   "(A) It included both the United States and the Soviet Union as founding mediators.",
+   "(B) It was dominated by wealthy, industrialized Western nations.",
+   "(C) It was composed overwhelmingly of developing nations in Africa, Asia, and Latin America seeking to avoid alignment with either superpower.",
+   "(D) It required every member state to join a formal anti-Soviet military alliance directed from Washington, with joint bases in every member country."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which conclusion about the Non-Aligned Movement is best supported by the map?",
+  "stimulus": "World map of the Non-Aligned Movement: member states (dark blue) span nearly all of Africa, South and Southeast Asia, and much of Latin America; observers (light blue) include China, Brazil, and Mexico; the United States, the Soviet Union, Canada, Australia, and most of Europe are shown in gray as non-members.",
+  "stimulus_words": 50,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The map's legend (translated from Catalan) colors each territory by its 1945 colonial ruler and prints each country's independence year. The pattern is striking: light-blue French and red British territories overwhelmingly show 1960 (the 'Year of Africa'), while green Portuguese territories - Angola and Mozambique - show 1975, after Portugal's 1974 Carnation Revolution ended its dictatorship. Namibia (1990) and Zimbabwe (1980) were even later. The image is essential: only by reading the colors against the printed dates can a student compare the timing.",
+  "id": "wh-vis-u8-029",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Descolonizacion_d%27Africa_%281945-1991%29.png",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The map shows French and British colonies dated mostly 1960, while Portuguese Angola and Mozambique are dated 1975.",
+   "B": "Incorrect. The map shows Angola and Mozambique (1975), Zimbabwe (1980), and Namibia (1990) - all after 1962.",
+   "C": "Incorrect. The Belgian Congo is dated 1960, far earlier than the Portuguese colonies or Namibia.",
+   "D": "Incorrect. Southern Africa shows the latest dates on the map (Zimbabwe 1980, Namibia 1990), not the earliest."
+  },
+  "options": [
+   "(A) Most French and British colonies became independent around 1960, while Portugal's colonies (Angola, Mozambique) remained under colonial rule until the mid-1970s.",
+   "(B) Every African colony had achieved independence by the end of 1962, leaving no European-ruled territory anywhere on the continent.",
+   "(C) Belgium's colonies were the last in Africa to gain their independence.",
+   "(D) Southern Africa was the first region of the continent to complete decolonization, with every territory there independent well before the rest of Africa by a wide margin."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Based on the map, which statement about the timing of African decolonization is best supported?",
+  "stimulus": "Map titled 'Decolonization of Africa, 1945-1991' (legend translated from Catalan): each territory is colored by the European power controlling it in 1945 (light blue = France, red = Britain, green = Portugal, olive = Belgium, purple = Italy, yellow = Spain), and white boxes print each country's year of independence (e.g., Ghana 1957, many states 1960, Algeria 1962, Kenya 1963, Angola and Mozambique 1975, Zimbabwe 1980, Namibia 1990).",
+  "stimulus_words": 68,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The King's African Rifles were colonial regiments recruited from African populations and led partly by African NCOs, as the African sergeant in the photograph shows. Britain used such units across its empire - in both World Wars and in colonial emergencies like the Mau Mau uprising (1952-1960) - because European manpower was limited and local troops knew the terrain. The photograph matters: it shows Africans in British uniform enforcing British rule against fellow Africans, which is the core of the claim.",
+  "id": "wh-vis-u8-030",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/KAR_Mau_Mau.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The photograph itself shows African soldiers in British service, so Africans were not excluded from military service.",
+   "B": "Correct. The image shows African troops of the King's African Rifles, led by an African sergeant, patrolling for the British during the Mau Mau Emergency.",
+   "C": "Incorrect. The soldiers shown are fighting against the Mau Mau rebels on behalf of the colonial government, not arming them.",
+   "D": "Incorrect. The Mau Mau Emergency was an armed conflict (1952-1960), and Kenya's road to independence in 1963 ran through it."
+  },
+  "options": [
+   "(A) Africans were completely excluded from all military service under British colonial rule.",
+   "(B) Colonial powers relied heavily on colonized peoples themselves - as soldiers, police, and porters - to enforce colonial control.",
+   "(C) The Mau Mau rebels were armed, trained, and funded by the British colonial government.",
+   "(D) Kenya achieved its independence through peaceful negotiation without any armed conflict, as the British willingly handed over power in the early 1950s."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The photograph is most useful as evidence for which claim about late colonial rule in Africa?",
+  "stimulus": "British colonial photograph from Kenya in the 1950s: African soldiers of the King's African Rifles, led by an African sergeant in front, patrol a dirt road with pack mules during the Mau Mau Emergency.",
+  "stimulus_words": 34,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Apartheid (1948-1994) was a legal system of racial classification and segregation. The sign - posted by the city government in three languages - shows how apartheid reached into the smallest details of daily life: even a public beach was legally reserved for whites only. The photograph's date, 1989, also matters: apartheid was still the law just five years before South Africa's first democratic election. The image is necessary because the sign's exact wording ('sole use of members of the white race group') is the evidence.",
+  "id": "wh-vis-u8-031",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/DurbanSign1989.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The sign reserves one beach for whites; it does not show Black South Africans barred from all cities.",
+   "B": "Incorrect. The sign mandates segregation, the opposite of integration.",
+   "C": "Incorrect. The sign was still posted in 1989, proving apartheid laws were still in force in the late 1980s.",
+   "D": "Correct. An official municipal sign reserving a public beach for the 'white race group' shows apartheid's legal segregation of everyday life."
+  },
+  "options": [
+   "(A) The complete exclusion of Black South Africans from entering any South African city, town, or urban area under any circumstances.",
+   "(B) A government policy of promoting racial integration at public beaches and parks.",
+   "(C) The repeal of all apartheid laws during the 1980s.",
+   "(D) The legal segregation of everyday public life, reserving public spaces and amenities for the white minority."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The sign best illustrates which feature of apartheid South Africa?",
+  "stimulus": "Photograph of a beach in Durban, South Africa, 1989: a large official municipal sign reads, in English, Afrikaans, and Zulu: 'CITY OF DURBAN ... THIS BATHING AREA IS RESERVED FOR THE SOLE USE OF MEMBERS OF THE WHITE RACE GROUP.'",
+  "stimulus_words": 40,
+  "themes": [
+   "GOV",
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In 1968, Czechoslovak leader Alexander Dubcek's 'Prague Spring' reforms - 'socialism with a human face' - alarmed Moscow. In August, the USSR and four Warsaw Pact allies invaded with hundreds of thousands of troops to crush the reforms. The invasion announced the Brezhnev Doctrine: the Soviet Union would not allow any Eastern Bloc country to leave its orbit. The photograph - a burning Soviet tank, a defiant flag-carrying protester - captures both the invasion and the popular resistance to it.",
+  "id": "wh-vis-u8-032",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The reforms were crushed by the August 1968 invasion; the burning Soviet tank in the photo shows force, not a successful revolution.",
+   "B": "Incorrect. The tanks are Soviet and Warsaw Pact forces invading Czechoslovakia, not NATO forces.",
+   "C": "Correct. The Soviet invasion of Czechoslovakia to crush the Prague Spring reforms is the classic example of the Brezhnev Doctrine.",
+   "D": "Incorrect. Czechoslovakia did not leave the Warsaw Pact; it was invaded precisely to keep it in the Soviet sphere."
+  },
+  "options": [
+   "(A) A successful democratic revolution that permanently freed Czechoslovakia from Soviet control and inspired identical revolutions across Eastern Europe in 1968.",
+   "(B) A NATO military invasion of Czechoslovakia.",
+   "(C) The Brezhnev Doctrine in action: the Soviet Union using military force to crush a reform movement inside its Eastern European sphere.",
+   "(D) Czechoslovakia's voluntary and peaceful withdrawal from the Warsaw Pact."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The event shown is most significant as an example of",
+  "stimulus": "CIA photograph, August 1968, Prague: a Soviet tank burns in a cobblestone street while a young protester carrying the Czechoslovak national flag walks past it; crowds watch from the sidewalks.",
+  "stimulus_words": 30,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Soviet Union invaded Afghanistan in December 1979 to prop up a communist government, but mujahideen guerrillas - backed by the United States, Pakistan, and others - bled the Soviet army for nearly a decade. The collage shows the war's arc: combat in the mountains, the 1989 withdrawal convoy crossing the bridge out of Afghanistan, and the war's lasting human toll in the child amputees. The USSR's failure contributed to its economic strain and political crisis. The images together are necessary: no single frame shows both the fighting and the withdrawal.",
+  "id": "wh-vis-u8-033",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Afghan-Soviet_war.png",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The collage shows mountain combat, the 1989 withdrawal column, and wounded children - a long, unwinnable guerrilla war with heavy costs.",
+   "B": "Incorrect. The war lasted from 1979 to 1989 - nearly ten years - not a few months.",
+   "C": "Incorrect. The mujahideen fighters and the child amputees show a population resisting and suffering under the occupation, not welcoming it.",
+   "D": "Incorrect. The withdrawal convoy shows Soviet forces leaving Afghanistan, not annexing it."
+  },
+  "options": [
+   "(A) It became a long, costly guerrilla war the Soviets could not win, ending in withdrawal and leaving deep human costs.",
+   "(B) It was a quick and decisive Soviet victory achieved within a few months of the 1979 invasion, after which Soviet troops went home as heroes.",
+   "(C) Afghan civilians broadly welcomed the Soviet military presence in their country.",
+   "(D) The war ended with Afghanistan being annexed as a new republic of the Soviet Union."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Taken together, the images best support which conclusion about the Soviet intervention in Afghanistan?",
+  "stimulus": "Collage of photographs from the Soviet war in Afghanistan (1979-1989): a Soviet soldier firing from a ruined building, mujahideen fighters with red banners in the mountains, a Soviet armored column crossing a bridge during the 1989 withdrawal, and Afghan child amputees learning to walk with crutches.",
+  "stimulus_words": 46,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In August 1990 Iraq's Saddam Hussein invaded and annexed Kuwait. The United States assembled a UN-authorized coalition that expelled Iraqi forces in Operation Desert Storm (January-February 1991). Retreating Iraqi troops set fire to hundreds of Kuwaiti oil wells, creating one of history's worst environmental disasters - the burning wells the F-14 flies over. The photograph matters: the burning oil fields identify this as the Gulf War's aftermath, and the American jet identifies the U.S.-led coalition.",
+  "id": "wh-vis-u8-034",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/US_Navy_F-14A_Tomcat_flying_over_burning_Kuwaiti_oil_wells_during_Operation_Desert_Storm.JPEG",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The campaign was against Iraq, which had invaded Kuwait; Iran was not the target.",
+   "B": "Correct. The burning Kuwaiti oil wells were set alight by retreating Iraqi forces during the 1991 U.S.-led campaign to liberate Kuwait.",
+   "C": "Incorrect. The fires were deliberately set by retreating Iraqi troops, not caused by nature.",
+   "D": "Incorrect. The Soviet-Afghan war was a different conflict (1979-1989) in a different country."
+  },
+  "options": [
+   "(A) An American bombing campaign against Iran's nuclear facilities, launched after Iran seized Kuwaiti territory in the spring of 1991.",
+   "(B) Iraq's 1990 invasion of Kuwait and the U.S.-led coalition campaign that liberated Kuwait in the Persian Gulf War.",
+   "(C) A natural disaster that set fire to the Kuwaiti oil fields.",
+   "(D) The Soviet Union's invasion of Afghanistan in 1979."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scene shown resulted most directly from which event?",
+  "stimulus": "U.S. Navy photograph, 1991: an F-14 Tomcat fighter jet flies over the Kuwaiti desert where multiple oil wells, set ablaze by retreating Iraqi forces, burn beneath columns of thick black smoke.",
+  "stimulus_words": 31,
+  "themes": [
+   "GOV",
+   "ECN",
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "On November 9, 1989, East Germany opened the Berlin Wall after weeks of mass protests; crowds poured through, and television broadcast the event worldwide. The photograph - taken six days later at the Brandenburg Gate, the wall's most famous symbol - shows the world's media and crowds gathering at a barrier that no longer worked. Within a year Germany reunified, and the Soviet bloc in Eastern Europe collapsed. The image matters: the date (15 November 1989) and the media scrum show this is the wall's fall, not its construction.",
+  "id": "wh-vis-u8-035",
+  "image_license": "CC BY-SA 3.0 de",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bundesarchiv_Bild_183-1989-1115-023%2C_Berlin%2C_Brandenburger_Tor%2C_vor_Grenz%C3%B6ffnung.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The wall was built in 1961; the photograph is dated 15 November 1989, after it was opened.",
+   "B": "Incorrect. The crowds and cameras are witnessing the wall's opening, not demanding it be rebuilt.",
+   "C": "Incorrect. NATO was founded in 1949, forty years earlier, and the photo shows Berlin, not a treaty signing.",
+   "D": "Correct. The November 1989 crowds and press at the Brandenburg Gate mark the wall's fall - the symbolic end of the Cold War division of Europe."
+  },
+  "options": [
+   "(A) The construction of the Berlin Wall in August 1961, when East German workers sealed the border under the eyes of the world's press.",
+   "(B) A protest demanding that the Berlin Wall be rebuilt even higher and stronger, organized by East German citizens who feared reunification with the West and wanted the two German states to remain permanently separate.",
+   "(C) The signing ceremony for the treaty that created NATO.",
+   "(D) A visible symbol of the Cold War's end in Europe, as the 28-year-old barrier dividing Berlin ceased to function and reunification became possible."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scene shown is most significant as",
+  "stimulus": "East German Bundesarchiv photograph dated 15 November 1989: crowds of people gather with television cameras and press crews at the Brandenburg Gate in Berlin, six days after the Berlin Wall was opened.",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ }
+]

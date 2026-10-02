@@ -1,0 +1,410 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "The map shows NATO in blue and the Warsaw Pact in red, with gray for non-members. Several NATO members directly touch Warsaw Pact territory: West Germany borders East Germany and Czechoslovakia, Turkey borders the USSR and Bulgaria, and Norway borders the USSR. This geographic pattern reflects containment: the United States built a ring of alliances and military bases around the Soviet bloc to limit the spread of communism. The image is necessary because only by seeing which countries are in each bloc, and where they touch, can a student evaluate these claims.",
+  "id": "wh-vis-u8-001",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. Counting the colored countries shows NATO with more members (roughly sixteen, including North America) than the Warsaw Pact (eight), so the Soviet alliance network was not broader.",
+   "B": "Incorrect. Sweden and Finland are shown in gray, indicating neutrality rather than Warsaw Pact membership.",
+   "C": "Correct. The map shows West Germany, Turkey, and Norway in blue (NATO) directly bordering red (Warsaw Pact) territory, which matches the U.S. containment strategy of positioning forces along the Soviet bloc's edges.",
+   "D": "Incorrect. Albania is shown in gray, not red, meaning it is not counted as a Warsaw Pact member on this map (it withdrew from the pact in 1968)."
+  },
+  "options": [
+   "(A) The Warsaw Pact contained far more member states than NATO, giving the Soviet Union a broader and more unified alliance network in Europe, with its headquarters in Moscow coordinating the defense planning of every communist country from East Germany to Mongolia.",
+   "(B) Neutral states such as Sweden and Finland joined the Warsaw Pact in order to balance NATO's growing power in northern Europe.",
+   "(C) NATO members such as West Germany, Turkey, and Norway shared direct borders with Warsaw Pact territory, so the United States stationed military forces along the Soviet bloc's periphery as part of its containment strategy.",
+   "(D) Albania's strategic location in the Balkans made it a loyal Warsaw Pact member for the entire 1949-1990 period."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Based on the map, which statement best describes how the Cold War alliance systems shaped the security situation in Europe?",
+  "stimulus": "World map centered on the Arctic Ocean, 1949-1990. Countries in NATO are shown in blue: the United States, Canada, Iceland, Norway, the United Kingdom, France, West Germany, Spain, Portugal, Italy, Greece, and Turkey. Warsaw Pact countries are shown in red: the USSR, East Germany, Poland, Czechoslovakia, Hungary, Romania, and Bulgaria. Other countries, including Albania, Yugoslavia, Sweden, Finland, and most of Africa and Asia, are shown in gray.",
+  "stimulus_words": 67,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "This is the printed text of President Truman's March 12, 1947 address to Congress asking for aid to Greece and Turkey, the speech that announced the Truman Doctrine. Its central promise - that the United States would help free peoples resisting subjugation - became the policy of containment: stopping the spread of communism rather than rolling it back. The image matters because it shows this was an official congressional document recommending assistance to two specific countries, not a later treaty or a private statement.",
+  "id": "wh-vis-u8-002",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Truman_Doctrine_-_DPLA_-_ed51a4ec220b91bd944d05f6ca81bf5b_%28page_1%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The March 1947 address recommending aid to Greece and Turkey is the Truman Doctrine, the founding statement of containment.",
+   "B": "Incorrect. Detente was a policy of the 1970s, more than twenty years after this 1947 document.",
+   "C": "Incorrect. Asking Congress to fund aid to Greece and Turkey was the opposite of isolationism; it expanded U.S. commitments abroad.",
+   "D": "Incorrect. The Marshall Plan (1948) provided economic aid to Western Europe with no requirement to join a military alliance."
+  },
+  "options": [
+   "(A) Containment, the pledge that the United States would support free peoples resisting communist pressure, beginning with military and economic aid to Greece and Turkey.",
+   "(B) Detente, the easing of Cold War tensions through arms-control agreements negotiated with the Soviet Union during the 1970s, more than two decades after this document was printed, culminating in treaties like SALT I.",
+   "(C) Isolationism, a return to avoiding all military and economic commitments outside the Western Hemisphere.",
+   "(D) The Marshall Plan rule that European countries could receive American aid only after joining a U.S.-led military alliance."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The document shown became the foundation of which U.S. Cold War policy?",
+  "stimulus": "First page of U.S. House Document No. 171 (80th Congress, 1st Session): 'RECOMMENDATION FOR ASSISTANCE TO GREECE AND TURKEY - ADDRESS OF THE PRESIDENT OF THE UNITED STATES - DELIVERED BEFORE A JOINT SESSION OF THE SENATE AND THE HOUSE OF REPRESENTATIVES, RECOMMENDING ASSISTANCE TO GREECE AND TURKEY - MARCH 12, 1947 - Referred to the Committee on Foreign Affairs, and ordered to be printed.'",
+  "stimulus_words": 65,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The poster presents the Marshall Plan as a shared European project: many nations' flags turn the same windmill, and the slogan stresses reaching 'welfare together.' The United States funded the plan to revive Western European economies, make communism less appealing to struggling populations, and tie Europe's recovery to American trade and leadership - the economic side of containment. The image is essential: it shows the flags of many nations (including West Germany, which rules out punishment of Germany) cooperating under a single mechanism.",
+  "id": "wh-vis-u8-003",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marshall_Plan_poster.JPG",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The Soviet Union rejected Marshall Plan aid, and no Soviet flag appears on the poster; the plan targeted Western Europe.",
+   "B": "Incorrect. West Germany's flag is clearly among the blades of the windmill, so Germany was included, not excluded or permanently occupied.",
+   "C": "Correct. The many national flags working together and the 'welfare together' slogan show the plan's goal of joint European economic recovery within a U.S.-supported system.",
+   "D": "Incorrect. The poster celebrates distinct national flags cooperating, not the abolition of national governments."
+  },
+  "options": [
+   "(A) Rebuild the Soviet Union's economy so that Moscow would cooperate peacefully with the West after the war.",
+   "(B) Punish Germany for World War II by permanently excluding West Germany from all European economic recovery programs and keeping it under strict permanent military occupation.",
+   "(C) Rebuild Western European economies after World War II and bind the recipient nations together in a cooperative economic system aligned with the United States.",
+   "(D) Pressure European nations to abolish their national governments in favor of a single European superstate run from Washington."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "A historian using this poster as evidence would most reasonably conclude that the Marshall Plan was intended to",
+  "stimulus": "U.S. government poster promoting the Marshall Plan (1948). A windmill's blades are made up of the national flags of more than a dozen European countries, including France, Britain, West Germany, Italy, Greece, Turkey, Sweden, and the Netherlands. The caption reads: 'Whatever the weather / We only reach welfare / together.'",
+  "stimulus_words": 50,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In June 1948 the Soviet Union blocked all road, rail, and canal access to the Western sectors of Berlin, trying to force the Western Allies out of the city. The United States and Britain responded with a massive airlift, flying in food, coal, and supplies for nearly a year until the blockade was lifted in May 1949. The photograph shows exactly this: an American cargo plane landing at Tempelhof while Berliners watch. The image is necessary because it shows a supply plane, not bombers or tourists, and the rubble-covered city that depended on it.",
+  "id": "wh-vis-u8-004",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/C-54_landing_at_Tempelhof_1948.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The aircraft shown is an unarmed C-54 transport, not a nuclear weapons deployment.",
+   "B": "Incorrect. The Berlin Wall was built in 1961, thirteen years later; the 1948 crisis was the Soviet blockade of land routes, not a wall.",
+   "C": "Incorrect. The Marshall Plan provided economic aid, not tourist flights, and the plane is a military cargo aircraft delivering supplies.",
+   "D": "Correct. The Soviet blockade of West Berlin (1948-1949) made the airlift the only way to feed the city, which is what the landing cargo plane shows."
+  },
+  "options": [
+   "(A) A NATO decision to station nuclear weapons in West Berlin as a warning to Moscow.",
+   "(B) The construction of the Berlin Wall, which cut West Berlin off from outside food deliveries and forced a desperate year-long international airlift to feed the trapped population.",
+   "(C) The Marshall Plan's program of flying American tourists into Berlin to spend dollars in the local economy.",
+   "(D) The Soviet blockade of land routes into West Berlin, which forced the Western Allies to supply the city's two million residents entirely by air in 1948-1949."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scene in the photograph is most directly explained by which of the following?",
+  "stimulus": "Photograph from 1948: German children in West Berlin watch from a hill of rubble as a U.S. C-54 cargo plane comes in to land at Tempelhof Airport during the Berlin Airlift.",
+  "stimulus_words": 31,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "By 1961, about 3 million East Germans - many of them young and skilled workers - had fled to the West through open Berlin, embarrassing the Soviet bloc and draining East Germany's labor force. In August 1961 East German authorities, with Soviet approval, sealed the border and began building the wall. The photograph shows the state's response: armed factory militia and armored vehicles deployed at the Brandenburg Gate. The image matters because it shows an East German military-style mobilization aimed at keeping people in, not an invasion force or a UN action.",
+  "id": "wh-vis-u8-005",
+  "image_license": "CC BY-SA 3.0 de",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bundesarchiv_Bild_183-85458-0002%2C_Berlin%2C_Mauerbau%2C_Kampfgruppen_am_Brandenburger_Tor.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The troops face the city's own population and the border being sealed; there was no NATO invasion, and the photo shows no invasion preparations.",
+   "B": "Correct. The armed deployment accompanied the sealing of Berlin to stop the mass emigration that was damaging East Germany's economy and prestige.",
+   "C": "Incorrect. Germany's zones were set by the Allied powers in 1945, and the United Nations did not partition Germany.",
+   "D": "Incorrect. The barrier was built to keep East Germans from leaving for the West, not to stop West Berliners from entering the East."
+  },
+  "options": [
+   "(A) To prepare East German forces for an imminent NATO invasion of East Berlin in the summer of 1961.",
+   "(B) To stop the mass emigration of East Germans to the West through Berlin, which was draining the East German workforce and embarrassing the Soviet bloc.",
+   "(C) To enforce a United Nations resolution that partitioned Germany into separate occupation zones after World War II.",
+   "(D) To prevent West Berliners from crossing into East Berlin to take factory jobs, a flow of migrants that threatened East German wages, housing, and the state's ability to plan its socialist economy."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which of the following best explains why East German authorities took the action shown in the photograph?",
+  "stimulus": "East German Bundesarchiv photograph, August 1961: uniformed members of the East German factory militia (Kampfgruppen) stand armed in formation at the Brandenburg Gate in Berlin, with armored military vehicles behind them, as the Berlin Wall is being built.",
+  "stimulus_words": 38,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The photograph captures the wall's two faces: on the western side, free expression (murals and graffiti), and on the eastern side, a militarized no-man's-land of cleared ground, lights, and fences designed to make escape nearly impossible. This duality reflects the Cold War division: a closed, heavily policed East German state facing an open West Berlin. The image is necessary because only by seeing the death strip behind the painted wall can a student evaluate what the barrier actually did.",
+  "id": "wh-vis-u8-006",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The graffiti-covered western face and the cleared, guarded strip on the eastern side show both the protest culture of West Berlin and the East German state's determination to seal the border.",
+   "B": "Incorrect. Nothing in the image suggests tourism; the cleared strip, lights, and fences are security features, not attractions.",
+   "C": "Incorrect. The fortified strip, floodlights, and fences were built precisely to prevent unauthorized crossings; escape attempts were often fatal.",
+   "D": "Incorrect. The wall shown is a massive concrete barrier running through the city with a wide fortified zone, not a minor partition of a few buildings."
+  },
+  "options": [
+   "(A) East Germany maintained the division with a fortified border zone designed to prevent escapes, while West Berliners turned the wall's western face into a canvas for protest art and graffiti.",
+   "(B) The wall was built mainly as a tourist attraction that visitors from both sides of the divided city could enjoy together in a spirit of friendship, with guided tours running daily through the cleared strip behind it.",
+   "(C) East and West Berliners could move freely across the cleared strip through regular checkpoints.",
+   "(D) The wall divided only a few government buildings, leaving the residential neighborhoods of East and West Berlin connected."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The photograph best supports which conclusion about the Cold War division of Germany?",
+  "stimulus": "Photograph of the Berlin Wall as seen from West Berlin: the wall's western face is covered in colorful murals and graffiti, while behind it stretches a cleared 'death strip' of raked sand, floodlights, and fences, with East Berlin apartment blocks beyond.",
+  "stimulus_words": 41,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The 1946 Bikini tests were the first atomic tests after World War II. The United States, still the only nuclear power, conducted them openly before international observers - both as scientific experiments and as demonstrations of American power. The Soviet Union read them as intimidation and accelerated its own bomb program, testing its first atomic weapon in 1949. The image is necessary: it shows an actual U.S. test with target warships, placing the arms race's beginning in 1946, long before the Cuban Missile Crisis.",
+  "id": "wh-vis-u8-007",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Baker_nuclear_test_blast_at_Bikini_atoll_1946.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The tests were American; the Soviet Union got the bomb through its own program in 1949, not through shared test data.",
+   "B": "Incorrect. The test was conducted at sea precisely because atomic weapons could be used there, and both sides continued naval nuclear programs.",
+   "C": "Correct. The 1946 U.S. tests displayed American nuclear power and helped push the Soviet Union to build its own bomb, starting the arms race.",
+   "D": "Incorrect. The photograph is from 1946, sixteen years before the 1962 Cuban Missile Crisis."
+  },
+  "options": [
+   "(A) It ended the American atomic monopoly by sharing test data with the Soviet Union.",
+   "(B) It proved that atomic weapons were useless at sea, so both superpowers abandoned all naval nuclear weapons programs.",
+   "(C) It marked the beginning of a nuclear arms race in which the United States tested and displayed new weapons to demonstrate its power, accelerating Soviet efforts to build their own atomic bomb.",
+   "(D) It was conducted in 1946 as a direct American response to the Cuban Missile Crisis, which had brought the two superpowers to the brink of nuclear war earlier that same decade and demanded an immediate show of force."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The test shown is most significant in the context of the early Cold War because it",
+  "stimulus": "U.S. Navy photograph of the 1946 Baker atomic test at Bikini Atoll in the Pacific: a towering column of water and spray rises from an underwater atomic detonation, with a fleet of unmanned target warships anchored in the lagoon in the foreground.",
+  "stimulus_words": 42,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "When the Soviet Union launched Sputnik 1 in October 1957 - the first artificial satellite - Americans were shocked that the Soviets had beaten them into space. The 'Sputnik crisis' led Congress to pass the National Defense Education Act (1958), pouring federal money into science and math education, and to create NASA. The image matters because the distinctive sphere-and-antennas design identifies the object as Sputnik; without it, the question could refer to any satellite.",
+  "id": "wh-vis-u8-008",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sputnik_1.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Incorrect. The United States expanded, rather than abandoned, its space program after 1957.",
+   "B": "Incorrect. No such treaty was signed; the space race intensified instead.",
+   "C": "Correct. The 1957 Soviet satellite shocked the United States into major new federal spending on science education and the creation of NASA.",
+   "D": "Incorrect. The satellite was Soviet and was launched in 1957; U.S. missiles were placed in Turkey and Italy, not Cuba, and not by Kennedy in response to Sputnik."
+  },
+  "options": [
+   "(A) The American decision that space exploration was too expensive, leading the United States to abandon its satellite and rocket programs entirely.",
+   "(B) An immediate treaty between the superpowers banning all artificial satellites from Earth's orbit.",
+   "(C) A surge in federal funding for science and math education and the creation of NASA, driven by fears that the United States was falling behind the Soviet Union technologically.",
+   "(D) The placement of American nuclear missiles in Cuba, a decision President Kennedy ordered in direct response to the Soviet satellite in order to restore the military balance and reassure nervous European allies."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The object shown, launched by the Soviet Union in 1957, most directly contributed to which development in the United States?",
+  "stimulus": "Photograph of a full-size model of Sputnik 1: a polished metal sphere about the size of a beach ball, with four long whip-like antennas extending from it, suspended in a museum hall.",
+  "stimulus_words": 32,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Apollo 11 landing in July 1969 fulfilled President Kennedy's 1961 pledge to land Americans on the Moon before the decade ended. After the Soviet Union's early space victories (Sputnik, Gagarin), the Moon landing let the United States claim the ultimate symbolic prize of the space race, demonstrating the superiority of American science, industry, and - by implication - its political system. The image matters: the flag and the Saturn V identify this as the American Moon mission, not a scientific satellite or a weapon.",
+  "id": "wh-vis-u8-009",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Apollo_11_launch.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Incorrect. The Apollo program was entirely American; the Soviet Union ran a separate, unsuccessful Moon program.",
+   "B": "Incorrect. The rocket shown is a Saturn V launch vehicle carrying astronauts, not a weapon.",
+   "C": "Incorrect. In the Cold War context the mission was intensely political, staged as a demonstration of American capability against the Soviet Union.",
+   "D": "Correct. The 1969 Moon landing was the symbolic climax of the space race, letting the United States claim victory over the Soviets."
+  },
+  "options": [
+   "(A) A joint American-Soviet mission to the Moon that marked the beginning of detente between the two superpowers in the late 1960s and was celebrated with a shared flag-planting ceremony at the landing site.",
+   "(B) The first use of a rocket as an intercontinental ballistic missile.",
+   "(C) A purely scientific mission with no political significance whatsoever.",
+   "(D) A demonstration of American technological and ideological superiority intended to win a symbolic Cold War victory over the Soviet Union in the space race."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "In the context of the Cold War, the event shown is best understood as",
+  "stimulus": "NASA photograph, July 1969: the Saturn V rocket carrying Apollo 11 rises on a pillar of flame at liftoff, with the flag of the United States in the foreground.",
+  "stimulus_words": 29,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "U.S. U-2 flights over Cuba in October 1962 produced the photographs that proved Soviet medium-range ballistic missiles - capable of striking most of the eastern United States with nuclear warheads - were being installed. The annotations (missile trailers, erector/launcher equipment) show analysts identifying offensive weapons, which contradicted Soviet claims that only defensive aid was being sent. This evidence forced the crisis into the open and led Kennedy to impose the naval quarantine. The image is essential: only by reading the labels can a student see that the United States had identified offensive missiles, not just a military camp.",
+  "id": "wh-vis-u8-010",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cuba_Missiles_Crisis_U-2_photo.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The photograph shows Soviet equipment being installed in Cuba; Cuba had no independent nuclear weapons program.",
+   "B": "Correct. The labeled trailers and launcher equipment are identified as parts of a medium-range ballistic missile site, proving the Soviet deployment the USSR had denied.",
+   "C": "Incorrect. The missiles and equipment in the photograph are Soviet installations discovered in 1962, not American ones.",
+   "D": "Incorrect. The annotations identify missile trailers and launcher equipment at an active construction site, not decoys."
+  },
+  "options": [
+   "(A) Cuba had secretly developed its own nuclear weapons without any Soviet assistance or knowledge.",
+   "(B) The United States had photographic proof that the Soviet Union was installing nuclear-capable medium-range ballistic missiles in Cuba, contradicting repeated Soviet denials.",
+   "(C) The United States had placed offensive missiles in Cuba before 1962 and was hiding that fact from the public.",
+   "(D) The equipment visible in the photograph proves that the Soviet missiles in Cuba were never intended to become operational and were only harmless decoys built to frighten the American public without serving any real military purpose."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "A historian would find this photograph most useful as evidence for which claim about the Cuban Missile Crisis?",
+  "stimulus": "Declassified U.S. reconnaissance photograph labeled 'MRBM FIELD LAUNCH SITE, SAN CRISTOBAL NO 1, 14 OCTOBER 1962,' with printed annotations pointing to 'ERECTOR/LAUNCHER EQUIPMENT' and '8 MISSILE TRAILERS' arranged in a cleared area of a Cuban field.",
+  "stimulus_words": 36,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The U-2 was a high-altitude spy plane. Its October 1962 flights produced the detailed annotated photographs - like this one of Los Palacios - that let American analysts count missile trailers, identify launcher equipment, and track how close the sites were to becoming operational. The purpose was intelligence collection to support decision-making, not bombing or aid planning. The image matters because the annotations (tents, equipment, convoy, missile trailers) show exactly what analysts were looking for.",
+  "id": "wh-vis-u8-011",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/U-2_photo_during_Cuban_Missile_Crisis.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The flights photographed rather than bombed; no bombs were dropped on Cuba during the crisis.",
+   "B": "Correct. The labels on tents, equipment, convoys, and missile trailers show analysts gathering detailed visual intelligence on Soviet installations.",
+   "C": "Incorrect. The annotations identify military equipment, not crops or farmland.",
+   "D": "Incorrect. The Bay of Pigs invasion was in April 1961, and the 1962 flights were looking for Soviet missiles, not survivors."
+  },
+  "options": [
+   "(A) To bomb Cuban military targets in preparation for an American invasion of the island.",
+   "(B) To gather detailed visual intelligence on the type, location, and readiness of Soviet military installations in Cuba.",
+   "(C) To map Cuban farmland in detail so the United States could plan post-crisis economic aid programs.",
+   "(D) To search for survivors of the 1961 Bay of Pigs invasion who were believed to be hiding in the Cuban countryside near the town of Los Palacios."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Based on the annotations, what was the primary purpose of U.S. reconnaissance flights over Cuba in October 1962?",
+  "stimulus": "Annotated U.S. aerial photograph dated 15 October 1962 and labeled 'MILITARY ENCAMPMENT (MISSILE), LOS PALACIOS, CUBA,' with printed labels identifying 'TENTS,' 'EQUIPMENT,' 'CONVOY,' and '6 MISSILE TRAILERS' in the encampment.",
+  "stimulus_words": 30,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The SA-2 was the same Soviet surface-to-air missile that had shot down an American U-2 over the USSR in 1960. Its presence in Cuba meant that continued U-2 flights - and any air strike meant to destroy the missile sites - risked losing aircraft and pilots (indeed, a U-2 was shot down over Cuba on October 27, 1962). This made the Joint Chiefs' preferred option of a surprise air attack far more dangerous and strengthened the case for Kennedy's naval quarantine, which bought time for negotiation. The image is necessary: only by seeing the extensive air-defense site can a student grasp why the air-strike option was risky.",
+  "id": "wh-vis-u8-012",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SA-2_Launch_sites_in_Cuba.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Operational Soviet air defenses made a 'surgical' air strike risky - a U-2 was in fact shot down on October 27 - which pushed Kennedy toward the naval quarantine instead.",
+   "B": "Incorrect. The withdrawal of U.S. missiles from Turkey was a later, secret part of the settlement, not the first step, and it was not caused by the SA-2 sites.",
+   "C": "Incorrect. Diplomatic contact continued throughout the crisis, including the famous back-channel negotiations that resolved it.",
+   "D": "Incorrect. No full-scale invasion of Cuba was launched during the crisis."
+  },
+  "options": [
+   "(A) The decision to avoid an immediate air strike or invasion, since Soviet air defenses in Cuba made a 'surgical' attack risky and pushed Kennedy toward the naval quarantine.",
+   "(B) The decision to withdraw American missiles from Turkey as the opening move of the crisis.",
+   "(C) The decision to break off all diplomatic contact with the Soviet Union for the duration of the crisis.",
+   "(D) The decision to launch a full-scale invasion of Cuba on October 22, 1962, a plan the Joint Chiefs had unanimously recommended as the only safe option, with paratroopers seizing Havana within forty-eight hours."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The presence of the installation shown most directly helps explain which U.S. decision during the Cuban Missile Crisis?",
+  "stimulus": "U.S. aerial reconnaissance photograph from 1962 showing the star-shaped earthen revetments of a Soviet SA-2 surface-to-air missile site under construction in Cuba, with launch positions arranged around a central radar area.",
+  "stimulus_words": 31,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 8
+ }
+]
