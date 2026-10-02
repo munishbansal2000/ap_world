@@ -36,18 +36,18 @@
     "stimulus": "An Arab chronicler writing around 1220 described the Mongol invasion of the Islamic world as a calamity unlike any other: the invaders, he wrote, spared neither women nor children, and their deeds 'horrify all who hear of them.' He presented the invasion as a catastrophe visited upon Islam and its peoples, and could barely bring himself to record what had happened.\n\nThe devastation he describes fell hardest on the cities of Persia and Central Asia — Merv, Nishapur, Herat — whose artisans were killed or enslaved and whose irrigation works were wrecked. Yet within a generation, Mongol rulers were rebuilding many of these same cities as administrative centers: sponsoring observatories and workshops, repairing canals, and guaranteeing the safety of merchants on the overland routes. The chronicler, writing at the moment of destruction, could not see the reconstruction that followed.",
     "stem": "A historian studying the revival of long-distance Eurasian trade in the later 1200s would most reasonably treat this passage as",
     "options": [
-      "(A) vivid evidence of the violence of the initial conquests, but a limited guide to how Mongol rulers later treated merchants",
-      "(B) evidence that contemporary observers welcomed the Mongols as restorers of order",
-      "(C) the best available record of the volume of goods traded along the Silk Road",
-      "(D) direct proof that Mongol conquests made all Eurasian trade impossible for the rest of the century"
+      "(A) evidence that contemporary observers welcomed the Mongols as restorers of order",
+      "(B) the best available record of the volume of goods traded along the Silk Road",
+      "(C) direct proof that Mongol conquests made all Eurasian trade impossible for the rest of the century",
+      "(D) vivid evidence of the violence of the initial conquests, but a limited guide to how Mongol rulers later treated merchants"
     ],
     "key": "D",
     "explanation": "The passage captures the trauma of the conquest years, when cities that resisted were destroyed. But it was written at the moment of invasion, before Mongol rulers established the policies of the later 1200s — protecting merchants, guaranteeing safe passage, and encouraging trade across Eurasia. A source shaped by the shock of conquest cannot show us the administrative choices that came afterward.",
     "option_explanations": {
-      "A": "Correct. The passage documents conquest-era violence well, but its author's perspective cannot reveal later Mongol commercial policies.",
-      "B": "Wrong. The author's horror is the opposite of a welcome; he calls the invasion an unprecedented calamity.",
-      "C": "Wrong. The passage contains no figures or commercial detail about trade volumes.",
-      "D": "Wrong. Trade across Eurasia actually revived under later Mongol rule; the passage describes the conquest, not the decades that followed."
+      "A": "Wrong. The author's horror is the opposite of a welcome; he calls the invasion an unprecedented calamity.",
+      "B": "Wrong. The passage contains no figures or commercial detail about trade volumes.",
+      "C": "Wrong. Trade across Eurasia actually revived under later Mongol rule; the passage describes the conquest, not the decades that followed.",
+      "D": "Correct. The passage documents conquest-era violence well, but its author's perspective cannot reveal later Mongol commercial policies."
     },
     "skill": "Sourcing and Situation",
     "reasoning": "Causation",
@@ -66,16 +66,16 @@
     "stimulus": "When Mongol armies conquered a city, they routinely spared certain captives: skilled weavers, metalworkers, engineers, astronomers, and physicians. These specialists were often relocated hundreds or thousands of miles — Chinese siege engineers to Persia, Persian astronomers to China — to serve the Mongol court and its armies.\n\nThe practice was systematic, not incidental. Mongol rulers surveyed each conquered city for talent: Samarkand yielded weavers, Beijing yielded engineers. The relocated specialists served the court directly — building siege engines for the next campaign, weaving cloth-of-gold for the khans, casting astronomical instruments. In this way, a technique mastered at one end of Eurasia could be put to work at the other within a single generation.",
     "stem": "The practice described in the passage is best understood as serving which of the following Mongol aims?",
     "options": [
-      "(A) Converting conquered peoples to the Mongols' own religious beliefs",
-      "(B) Gathering skilled workers to strengthen the empire's administration, crafts, and weaponry",
+      "(A) Gathering skilled workers to strengthen the empire's administration, crafts, and weaponry",
+      "(B) Converting conquered peoples to the Mongols' own religious beliefs",
       "(C) Resettling the Mongolian steppe with settled farmers from conquered lands",
       "(D) Punishing defeated cities by permanently removing their most prominent families"
     ],
     "key": "A",
     "explanation": "The Mongols were pragmatists. Rather than destroying useful talent, they collected it: engineers built their siege weapons, astronomers staffed their observatories, and artisans produced goods for the court. Moving specialists across the empire also spread techniques between regions, which is one reason the Mongol period saw so much cross-cultural exchange.",
     "option_explanations": {
-      "A": "Wrong. The Mongols were famously tolerant in religious matters and made no systematic effort to convert their subjects.",
-      "B": "Correct. The selective sparing and relocation of specialists was a deliberate policy to harness conquered peoples' skills.",
+      "A": "Correct. The selective sparing and relocation of specialists was a deliberate policy to harness conquered peoples' skills.",
+      "B": "Wrong. The Mongols were famously tolerant in religious matters and made no systematic effort to convert their subjects.",
       "C": "Wrong. The Mongols had no interest in farming the steppe; they preserved it as pasture for their herds.",
       "D": "Wrong. Deportation was about acquiring talent, not punishment — the specialists were put to work, not discarded."
     },
@@ -98,16 +98,16 @@
     "options": [
       "(A) The Islamic world was reunified under a single restored caliphate",
       "(B) Persian ceased to be used as a language of administration in favor of Mongolian",
-      "(C) Islamic political and cultural life came to a permanent end in the Middle East",
-      "(D) The Mongol rulers of Persia converted to Islam and became patrons of Islamic institutions"
+      "(C) The Mongol rulers of Persia converted to Islam and became patrons of Islamic institutions",
+      "(D) Islamic political and cultural life came to a permanent end in the Middle East"
     ],
     "key": "C",
     "explanation": "The conquests destroyed the Abbasid caliphate, but they did not destroy Islam in the region. The Ilkhanid Mongols, ruling a Muslim-majority population, converted — most decisively under Ghazan in 1295 — and governed as Muslim monarchs within a Persianate administrative tradition. Islamic scholarship, law, and architecture continued under their patronage.",
     "option_explanations": {
       "A": "Wrong. No single caliphate was restored; the region remained divided among competing states.",
       "B": "Wrong. Persian remained the language of administration and high culture under the Ilkhans.",
-      "C": "Wrong. Islam remained the dominant religion and a thriving cultural force in the region long after the conquests.",
-      "D": "Correct. The Ilkhans' conversion shows how conquerors were absorbed by the culture of the conquered."
+      "C": "Correct. The Ilkhans' conversion shows how conquerors were absorbed by the culture of the conquered.",
+      "D": "Wrong. Islam remained the dominant religion and a thriving cultural force in the region long after the conquests."
     },
     "skill": "Developments and Processes",
     "reasoning": "Causation",
@@ -217,16 +217,16 @@
     "stem": "De Pizan's career as a professional writer was most directly made possible by which feature of late-medieval European society?",
     "options": [
       "(A) The Protestant emphasis on individual Bible reading",
-      "(B) The spread of printing presses that let authors reach mass audiences",
-      "(C) Literate court culture and aristocratic patronage in growing cities",
+      "(B) Literate court culture and aristocratic patronage in growing cities",
+      "(C) The spread of printing presses that let authors reach mass audiences",
       "(D) The admission of women to universities"
     ],
     "key": "B",
     "explanation": "De Pizan wrote for paying patrons at the French royal court and among the nobility — a literate, wealthy audience concentrated in cities. That patronage system is what allowed a widow with no institutional position to support herself by writing.",
     "option_explanations": {
       "A": "Wrong. The Reformation began a century after her death.",
-      "B": "Wrong. De Pizan died around 1430, before Gutenberg's press; her books circulated as hand-copied manuscripts.",
-      "C": "Correct. Court patronage created a market for writers outside the church and universities.",
+      "B": "Correct. Court patronage created a market for writers outside the church and universities.",
+      "C": "Wrong. De Pizan died around 1430, before Gutenberg's press; her books circulated as hand-copied manuscripts.",
       "D": "Wrong. Medieval universities did not admit women as students or teachers."
     },
     "skill": "Sourcing and Situation",
@@ -278,16 +278,16 @@
     "options": [
       "(A) The controversy over the sale of indulgences",
       "(B) The dispute about the legitimacy of charging interest on loans",
-      "(C) The debate over whether the pope or church councils held supreme authority",
-      "(D) The querelle des femmes, the literary debate over women's nature and worth"
+      "(C) The querelle des femmes, the literary debate over women's nature and worth",
+      "(D) The debate over whether the pope or church councils held supreme authority"
     ],
     "key": "C",
     "explanation": "De Pizan was the most prominent voice on one side of the querelle des femmes — the centuries-long literary debate about women's character and capacities. Her 'City of Ladies' was a direct rebuttal to misogynist literature, which places her work squarely in that controversy.",
     "option_explanations": {
       "A": "Wrong. The indulgence controversy became central later, with the Reformation.",
       "B": "Wrong. The usury debate concerned economics and church law, not the status of women.",
-      "C": "Wrong. That is the conciliarism debate, about church governance, not gender.",
-      "D": "Correct. De Pizan's defense of women was a landmark contribution to the querelle des femmes."
+      "C": "Correct. De Pizan's defense of women was a landmark contribution to the querelle des femmes.",
+      "D": "Wrong. That is the conciliarism debate, about church governance, not gender."
     },
     "skill": "Contextualization",
     "reasoning": "Continuity and Change",
@@ -367,16 +367,16 @@
     "stem": "After the Spanish conquest, the labor system associated with the technique shown was",
     "options": [
       "(A) converted into a voluntary wage-labor market",
-      "(B) abolished entirely as incompatible with Spanish law",
-      "(C) adapted by colonial authorities into forced labor drafts for the silver mines at Potosí",
+      "(B) adapted by colonial authorities into forced labor drafts for the silver mines at Potosí",
+      "(C) abolished entirely as incompatible with Spanish law",
       "(D) replaced immediately by enslaved African labor in the highlands"
     ],
     "key": "B",
     "explanation": "The Spanish kept the Inca institution and redirected it: the colonial mita drafted Andean communities to work the silver mines of Potosí under brutal conditions. It is a clear case of colonizers adapting an Indigenous institution to extract wealth, not inventing a new system from scratch.",
     "option_explanations": {
       "A": "Wrong. The mita was coerced rotational labor, not a free market in wages.",
-      "B": "Wrong. The Spanish preserved the mit'a because it was useful; they did not abolish it.",
-      "C": "Correct. The colonial mita funneled Andean labor into Potosí's silver mines.",
+      "B": "Correct. The colonial mita funneled Andean labor into Potosí's silver mines.",
+      "C": "Wrong. The Spanish preserved the mit'a because it was useful; they did not abolish it.",
       "D": "Wrong. Enslaved African labor was concentrated on coastal plantations, not highland mining, where the mita supplied workers."
     },
     "skill": "Developments and Processes",

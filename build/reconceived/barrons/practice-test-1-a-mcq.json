@@ -98,17 +98,17 @@
     "stem": "Which of the following conclusions is NOT supported by the chart?",
     "options": [
       "(A) Western Europe and North America had far fewer cases than sub-Saharan Africa",
-      "(B) The chart proves that HIV/AIDS originated in Africa",
-      "(C) Asia accounted for a substantial minority of global cases",
-      "(D) Sub-Saharan Africa had the largest number of people living with HIV/AIDS"
+      "(B) Asia accounted for a substantial minority of global cases",
+      "(C) Sub-Saharan Africa had the largest number of people living with HIV/AIDS",
+      "(D) The chart proves that HIV/AIDS originated in Africa"
     ],
     "key": "D",
-    "explanation": "The chart maps where cases were, not where the virus came from. Showing that a region has the most cases says nothing about origins — a disease can arrive from elsewhere and still hit one region hardest. Conclusions A, B, and D stay within what the data actually measures; C leaps beyond it.",
+    "explanation": "The chart maps where cases were, not where the virus came from. Showing that a region has the most cases says nothing about origins — a disease can arrive from elsewhere and still hit one region hardest. Conclusions A, B, and C stay within what the data actually measures; D leaps beyond it.",
     "option_explanations": {
       "A": "Wrong as the answer because it IS supported — the Western shares are visibly small.",
-      "B": "Correct. A distribution chart cannot establish where a disease originated.",
-      "C": "Wrong as the answer because it IS supported — Asia's share is substantial.",
-      "D": "Wrong as the answer because it IS supported — Africa's bar dominates the chart."
+      "B": "Wrong as the answer because it IS supported — Asia's share is substantial.",
+      "C": "Wrong as the answer because it IS supported — Africa's bar dominates the chart.",
+      "D": "Correct. A distribution chart cannot establish where a disease originated."
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Comparison",
