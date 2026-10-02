@@ -1,1 +1,353 @@
-[{"difficulty": "hard", "explanation": "Forcing nobles to shave and dress like Westerners attacked the visible markers of the old boyar culture. The tax was an enforcement tool, and the stated goal — not being 'a mockery among enlightened peoples' — was European acceptance.", "flags": ["UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."], "id": "wh-fresh-u3-023", "key": "D", "option_explanations": {"A": "Wrong: the tax punished non-compliance; the decree's language shows the aim was cultural transformation, not income.", "B": "Wrong: Peter subordinated the church to the state but did not abolish it.", "C": "Wrong: peasants were explicitly exempted, and serfdom tightened under Peter rather than loosening.", "D": "Right: the decree attacked traditional elite culture and announced Russia's turn toward Europe."}, "options": ["(A) The program's sole purpose was to raise state revenue through the beard tax collected from every bearded man passing through the town gates.", "(B) The program abolished the Russian Orthodox Church.", "(C) The program granted full political rights to Russian peasants.", "(D) The program used visible cultural change to break the hold of traditional elites and signal Russia's reorientation toward Europe."], "reasoning": "Continuity and Change", "skill": "Sourcing and Situation", "stem": "Peter's decree best reflects which of the following about his program of westernization?", "stimulus": "Decree of Peter the Great, 1705, adapted from pre-1900 translations: 'Henceforth no Russian subject, excepting clergy and peasants, shall wear a beard or the traditional long kaftan. Whoever appears bearded at the town gates shall pay a tax and receive a token. Let all adopt the dress of the German and Saxon lands, that Russia may cease to be a mockery among enlightened peoples.'", "stimulus_words": 64, "themes": ["SIO", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "By making rank depend on state service instead of birth, Peter turned the nobility into servants of the crown. Westernization modernized the instruments of autocracy; it did not create constitutional limits.", "flags": ["UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."], "id": "wh-fresh-u3-024", "key": "A", "option_explanations": {"A": "Right: service-based rank made the elite's status depend on the tsar, concentrating power upward.", "B": "Wrong: no such parliament was created; this describes the opposite of Peter's Russia.", "C": "Wrong: Peter built Russia's first large standing army rather than abolishing it.", "D": "Wrong: the reforms reduced boyar independence instead of granting it."}, "options": ["(A) The Table of Ranks, which tied noble status to army or bureaucratic service and made the elite dependent on the tsar.", "(B) The establishment of a freely elected parliament with full legislative authority over the tsar, his ministers, and state finances.", "(C) The abolition of the standing army in favor of noble-led militias.", "(D) The granting of political independence to the boyar aristocracy."], "reasoning": "Causation", "skill": "Claims and Evidence in Sources", "stem": "A historian claims that Peter's reforms strengthened autocratic state power rather than limiting it. Which of the following best supports this claim?", "stimulus": "Decree of Peter the Great, 1705, adapted from pre-1900 translations: 'Henceforth no Russian subject, excepting clergy and peasants, shall wear a beard or the traditional long kaftan. Whoever appears bearded at the town gates shall pay a tax and receive a token. Let all adopt the dress of the German and Saxon lands, that Russia may cease to be a mockery among enlightened peoples.'", "stimulus_words": 64, "themes": ["GOV", "SIO"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "A huge army needed men and money. The state's answer was to fasten serfs to their estates so landlords could deliver both taxes and conscripts — westernized warfare built on intensified unfreedom.", "flags": ["UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."], "id": "wh-fresh-u3-025", "key": "C", "option_explanations": {"A": "Wrong: serf emancipation came in 1861, more than a century later.", "B": "Wrong: the nobility was reorganized into state service, not abolished.", "C": "Right: the fiscal-military demands of a standing army drove the state to bind peasants tighter to the land.", "D": "Wrong: Peter fought the Great Northern War against Sweden for over twenty years; withdrawal is the opposite of his policy."}, "options": ["(A) The emancipation of the serfs, who were legally freed from their landlords specifically in order to serve as soldiers in the new standing army.", "(B) The abolition of the Russian nobility as a social class.", "(C) The tightening of serfdom, as the state bound peasants to the land to guarantee tax revenue and military recruits.", "(D) Russia's withdrawal from all European wars."], "reasoning": "Continuity and Change", "skill": "Developments and Processes", "stem": "Peter's military reforms, which created a massive standing army, most directly contributed to which of the following?", "stimulus": "Decree of Peter the Great, 1705, adapted from pre-1900 translations: 'Henceforth no Russian subject, excepting clergy and peasants, shall wear a beard or the traditional long kaftan. Whoever appears bearded at the town gates shall pay a tax and receive a token. Let all adopt the dress of the German and Saxon lands, that Russia may cease to be a mockery among enlightened peoples.'", "stimulus_words": 64, "themes": ["SIO", "ECN"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Siberia's value was fur, and its conquest followed the land-empire pattern: armed frontiersmen advanced, outposts were planted, and native peoples were folded into a tribute system — expansion for revenue and security, not for sea lanes.", "id": "wh-fresh-u3-026", "key": "B", "option_explanations": {"A": "Wrong: Russia had no Atlantic seaboard and sought no sea route to Asia; the map shows overland expansion.", "B": "Right: the map's fur outposts and yasak zones show a land empire expanding for a valuable export and strategic depth.", "C": "Wrong: the church followed the fur traders; converting the Ottomans was never the project.", "D": "Wrong: no such alliance or partition existed; Russia and Qing China were rivals on the Amur frontier."}, "options": ["(A) A European search for direct sea routes to Asian markets, which Russia pursued by constructing a powerful Atlantic fleet and naval bases.", "(B) A land-based empire's drive to secure furs and strategic depth, using Cossack bands and fur tribute like other expanding land empires.", "(C) A campaign by the Russian Orthodox Church to convert the Ottoman Empire.", "(D) An alliance with the Qing dynasty to partition the Japanese islands."], "reasoning": "Comparison", "skill": "Contextualization", "stem": "Russian expansion across Siberia, shown on the map, is best understood in the context of which of the following?", "stimulus": "Map of Russian expansion, 1500-1800. The small territory of Muscovy in 1500 grows steadily eastward across Siberia, reaching the Pacific Ocean by 1800. Cossack routes and fur-trading outposts are marked across the north, with zones where indigenous peoples paid tribute in furs (yasak). In the west, St. Petersburg, founded in 1703 on the Baltic Sea, is labeled.", "stimulus_words": 57, "themes": ["ECN", "ENV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "Like indigenous peoples elsewhere after sustained European contact, Siberian groups suffered epidemics against which they had no immunity, while tribute demands in furs distorted their hunting economies toward Russian needs.", "id": "wh-fresh-u3-027", "key": "D", "option_explanations": {"A": "Wrong: the church sent Russian clergy; it did not elevate native Siberians to bishoprics.", "B": "Wrong: the movement was Russians going east, not Siberians migrating to the Balkans.", "C": "Wrong: industrialization came centuries later; the 1600s economy was fur and tribute.", "D": "Right: disease and the fur-tribute system devastated indigenous populations and reshaped their economies."}, "options": ["(A) Their mass appointment as bishops, abbots, and senior officials within the rapidly expanding hierarchy of the Russian Orthodox Church.", "(B) Their mass migration from Siberia to the Balkan Peninsula.", "(C) The rapid industrialization of Siberian towns in the 1600s.", "(D) Population decline from newly introduced Eurasian diseases and disruption as the yasak fur-tribute system redirected their labor."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The eastward expansion shown on the map most directly resulted in which of the following for Siberia's indigenous peoples?", "stimulus": "Map of Russian expansion, 1500-1800. The small territory of Muscovy in 1500 grows steadily eastward across Siberia, reaching the Pacific Ocean by 1800. Cossack routes and fur-trading outposts are marked across the north, with zones where indigenous peoples paid tribute in furs (yasak). In the west, St. Petersburg, founded in 1703 on the Baltic Sea, is labeled.", "stimulus_words": 57, "themes": ["ENV", "SIO"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "medium", "explanation": "The hajj was the most prestigious act a Muslim ruler could perform, and founding mosques and schools made his devotion visible at home. Both announced that Songhai's king belonged to the global community of Islam.", "id": "wh-fresh-u3-028", "key": "B", "option_explanations": {"A": "Wrong: manuscript sales show commercial vitality, not the king's religious legitimation.", "B": "Right: pilgrimage and religious endowments displayed Askia's piety and linked Songhai to the wider Islamic world.", "C": "Wrong: 'proves' overstates the evidence; the passage shows Islamic judges existed, not that no law existed before.", "D": "Wrong: the passage says books outsold other goods in Timbuktu; it makes no comparison with Cairo."}, "options": ["(A) The sale of North African manuscripts in Timbuktu's markets.", "(B) Askia's pilgrimage to Mecca and his endowment of mosques and schools, a public display of the piety that legitimized his kingship.", "(C) The presence of Islamic judges in Timbuktu, which proves that Songhai possessed no laws, courts, or legal traditions of any kind before the arrival of Islam.", "(D) The book trade's profits, which exceeded the wealth of Cairo's merchants."], "reasoning": "Causation", "skill": "Claims and Evidence in Sources", "stem": "A historian claims that Askia Muhammad used Islam to legitimize and strengthen Songhai rule. Which detail from the passage best supports this claim?", "stimulus": "Leo Africanus, Description of Africa (c. 1526), adapted from pre-1900 editions: 'In Timbuktu there are many judges, scholars, and priests, all supported by the king, who shows great respect to men of learning. Manuscripts brought from North Africa are sold here, and the book trade is more profitable than any other merchandise. The king, Askia Muhammad, made the pilgrimage to Mecca and endowed mosques and schools upon his return.'", "stimulus_words": 69, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "Songhai sat astride the routes carrying West African gold north and Saharan salt south. Taxing that flow filled the treasury that paid for the scholars, judges, and mosques Leo Africanus admired.", "id": "wh-fresh-u3-029", "key": "A", "option_explanations": {"A": "Right: control of the gold-salt caravan trade funded the patronage that produced Timbuktu's scholarly culture.", "B": "Wrong: Songhai never conquered Mecca; the claim invents a military feat.", "C": "Wrong: the Portuguese traded on the Atlantic coast; they did not fund Islamic universities inland.", "D": "Wrong: taxing North African trade was the revenue base; banning it would have bankrupted the state."}, "options": ["(A) Askia's patronage of scholars and mosques was funded by taxes on the gold and salt caravans passing through Songhai's trading cities.", "(B) Songhai armies marched across the Sahara to conquer Mecca, seizing permanent control of pilgrimage revenues and the holy cities of Arabia.", "(C) Portuguese merchants financed Timbuktu's universities in order to spread Christianity.", "(D) Songhai banned all trade with North Africa to preserve the purity of Islam."], "reasoning": "Causation", "skill": "Claims and Evidence in Sources", "stem": "A historian argues that trans-Saharan trade revenues enabled Songhai's Islamic cultural flowering. Which of the following best supports this argument?", "stimulus": "Leo Africanus, Description of Africa (c. 1526), adapted from pre-1900 editions: 'In Timbuktu there are many judges, scholars, and priests, all supported by the king, who shows great respect to men of learning. Manuscripts brought from North Africa are sold here, and the book trade is more profitable than any other merchandise. The king, Askia Muhammad, made the pilgrimage to Mecca and endowed mosques and schools upon his return.'", "stimulus_words": 69, "themes": ["CDI", "ECN"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Both the Tokugawa and the Qing practiced regulated engagement, not isolation: foreigners could trade, but only at one supervised port. The common student error is reading 'closed country' as zero contact.", "id": "wh-fresh-u3-030", "key": "C", "option_explanations": {"A": "Wrong: a fifteenth-century conquest has no bearing on trade regulation.", "B": "Wrong: the Spanish restricted but never fully expelled foreign merchants from Manila.", "C": "Right: both systems confined foreign trade to a single supervised port instead of ending it.", "D": "Wrong: Peter the Great invited foreign experts in; this is the opposite policy."}, "options": ["(A) The Ottoman conquest of Constantinople in 1453.", "(B) The Spanish expulsion of every foreign merchant from Manila.", "(C) The Qing restriction of European trade to the single supervised port of Canton; both systems confined foreign contact to one controlled port.", "(D) The Russian decision to throw open St. Petersburg and its Baltic ports to unrestricted foreign settlement, commerce, and missionary activity by all denominations."], "reasoning": "Comparison", "skill": "Making Connections", "stem": "The arrangement shown at Nagasaki is most similar to which of the following?", "stimulus": "Map of Japan under the Tokugawa shogunate, c. 1700. The shogun's capital at Edo is marked, with the sankin-kotai (alternate attendance) routes of the daimyo converging on the city. The port of Nagasaki is labeled, with the small artificial island of Dejima shown as the confined trading post of Dutch merchants.", "stimulus_words": 51, "themes": ["ECN", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "medium", "explanation": "Alternate attendance was a financial leash: the pomp of traveling to Edo with a great retinue consumed daimyo revenues, and wives and heirs living in Edo guaranteed good behavior.", "id": "wh-fresh-u3-031", "key": "A", "option_explanations": {"A": "Right: forced spending plus hostage families kept the daimyo obedient and too poor to rebel.", "B": "Wrong: the domains survived; the shogunate controlled the daimyo rather than replacing them.", "C": "Wrong: Christianity was persecuted under the Tokugawa, not imposed on the daimyo.", "D": "Wrong: the system's whole purpose was to prevent daimyo independence."}, "options": ["(A) Forcing daimyo into costly processions and Edo residences that drained rebellious wealth, while holding their families hostage in the capital.", "(B) Abolishing the great daimyo domains entirely and replacing every daimyo with loyal bureaucrats appointed directly by the shogunate in Edo.", "(C) Requiring all daimyo to convert to Christianity.", "(D) Granting the daimyo full independence from oversight by Edo."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The sankin-kotai system shown on the map most directly strengthened Tokugawa control by:", "stimulus": "Map of Japan under the Tokugawa shogunate, c. 1700. The shogun's capital at Edo is marked, with the sankin-kotai (alternate attendance) routes of the daimyo converging on the city. The port of Nagasaki is labeled, with the small artificial island of Dejima shown as the confined trading post of Dutch merchants.", "stimulus_words": 51, "themes": ["GOV", "ECN"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "Ranking poor samurai above rich merchants shows that status served politics, not economics. By fixing everyone in a hereditary order topped by warriors, the shogunate protected the class on which its own power rested.", "id": "wh-fresh-u3-032", "key": "D", "option_explanations": {"A": "Wrong: if wealth set status, merchants would rank first; the passage shows the opposite.", "B": "Wrong: the samurai remained the ruling class; nothing was abolished.", "C": "Wrong: peasants ranked second, below the warriors.", "D": "Right: the hierarchy froze ranks so that samurai political dominance could not be challenged by merchant wealth."}, "options": ["(A) Tokugawa Japan was a fully commercialized society in which accumulated wealth alone determined a person's official status and rank.", "(B) The hierarchy abolished the samurai class and replaced it with a merchant oligarchy.", "(C) Peasants enjoyed the highest prestige in Tokugawa society because they produced the rice tax.", "(D) The shogunate froze social ranks to preserve samurai dominance and keep merchants' wealth from becoming political power."], "reasoning": "Continuity and Change", "skill": "Argumentation", "stem": "Which of the following arguments about Tokugawa social order is best supported by the shi-no-ko-sho hierarchy?", "stimulus": "The Tokugawa shogunate formalized the shi-no-ko-sho hierarchy: warriors (shi) ranked first, followed by peasants (no), artisans (ko), and merchants (sho) at the bottom — even though successful merchants often grew wealthier than the samurai above them.", "stimulus_words": 36, "themes": ["SIO", "CDI"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "The Troubles were a succession crisis of a familiar type: old dynasty fails, interregnum of war and famine, then a new house recentralizes power. The Qing conquest of Ming China followed the same arc a generation later.", "id": "wh-fresh-u3-033", "key": "B", "option_explanations": {"A": "Wrong: the Romanovs were Russian boyars chosen by a Russian assembly; no foreign imposition occurred.", "B": "Right: dynastic collapse followed by recentralization under a new house recurs across the period's land empires.", "C": "Wrong: no democratic revolutions swept Eurasia in the 1600s; this is anachronistic.", "D": "Wrong: the pope played no role in Michael Romanov's election."}, "options": ["(A) A supposed inherent and permanent Russian inability to establish stable government without rulers imposed from abroad by stronger foreign military powers.", "(B) A recurring cycle in land-based empires: dynastic crisis followed by recentralization under a new house, as in China's Ming-to-Qing transition.", "(C) The spread of democratic revolutions across Eurasia in the 1600s.", "(D) A papal campaign to restore Catholic monarchs throughout Europe."], "reasoning": "Comparison", "skill": "Contextualization", "stem": "The restoration of the Russian monarchy in 1613 is best understood in the context of which broader pattern?", "stimulus": "After the death of Ivan IV (1584), Russia endured the Time of Troubles (1598-1613): famine, invasion by Polish and Swedish armies, rival claimants to the throne, and peasant uprisings — until a national assembly elected Michael Romanov as tsar in 1613.", "stimulus_words": 41, "themes": ["GOV", "CDI"], "type": "mcq", "unit": 3, "visual_needs_url": false}]
+[
+  {
+    "difficulty": "hard",
+    "explanation": "Forcing nobles to shave and dress like Westerners attacked the visible markers of the old boyar culture. The tax was an enforcement tool, and the stated goal — not being 'a mockery among enlightened peoples' — was European acceptance.",
+    "flags": [
+      "UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."
+    ],
+    "id": "wh-fresh-u3-023",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the tax punished non-compliance; the decree's language shows the aim was cultural transformation, not income.",
+      "B": "Wrong: Peter subordinated the church to the state but did not abolish it.",
+      "C": "Wrong: peasants were explicitly exempted, and serfdom tightened under Peter rather than loosening.",
+      "D": "Right: the decree attacked traditional elite culture and announced Russia's turn toward Europe."
+    },
+    "options": [
+      "(A) The program's sole purpose was to raise state revenue through the beard tax collected from every bearded man passing through the town gates.",
+      "(B) The program abolished the Russian Orthodox Church.",
+      "(C) The program granted full political rights to Russian peasants.",
+      "(D) The program used visible cultural change to break the hold of traditional elites and signal Russia's reorientation toward Europe."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "stem": "Peter's decree best reflects which of the following about his program of westernization?",
+    "stimulus": "Decree of Peter the Great, 1705, adapted from pre-1900 translations: 'Henceforth no Russian subject, excepting clergy and peasants, shall wear a beard or the traditional long kaftan. Whoever appears bearded at the town gates shall pay a tax and receive a token. Let all adopt the dress of the German and Saxon lands, that Russia may cease to be a mockery among enlightened peoples.'",
+    "stimulus_words": 64,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "By making rank depend on state service instead of birth, Peter turned the nobility into servants of the crown. Westernization modernized the instruments of autocracy; it did not create constitutional limits.",
+    "flags": [
+      "UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."
+    ],
+    "id": "wh-fresh-u3-024",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: service-based rank made the elite's status depend on the tsar, concentrating power upward.",
+      "B": "Wrong: no such parliament was created; this describes the opposite of Peter's Russia.",
+      "C": "Wrong: Peter built Russia's first large standing army rather than abolishing it.",
+      "D": "Wrong: the reforms reduced boyar independence instead of granting it."
+    },
+    "options": [
+      "(A) The Table of Ranks, which tied noble status to army or bureaucratic service and made the elite dependent on the tsar.",
+      "(B) The establishment of a freely elected parliament with full legislative authority over the tsar, his ministers, and state finances.",
+      "(C) The abolition of the standing army in favor of noble-led militias.",
+      "(D) The granting of political independence to the boyar aristocracy."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that Peter's reforms strengthened autocratic state power rather than limiting it. Which of the following best supports this claim?",
+    "stimulus": "Decree of Peter the Great, 1705, adapted from pre-1900 translations: 'Henceforth no Russian subject, excepting clergy and peasants, shall wear a beard or the traditional long kaftan. Whoever appears bearded at the town gates shall pay a tax and receive a token. Let all adopt the dress of the German and Saxon lands, that Russia may cease to be a mockery among enlightened peoples.'",
+    "stimulus_words": 64,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "A huge army needed men and money. The state's answer was to fasten serfs to their estates so landlords could deliver both taxes and conscripts — westernized warfare built on intensified unfreedom.",
+    "flags": [
+      "UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."
+    ],
+    "id": "wh-fresh-u3-025",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: serf emancipation came in 1861, more than a century later.",
+      "B": "Wrong: the nobility was reorganized into state service, not abolished.",
+      "C": "Right: the fiscal-military demands of a standing army drove the state to bind peasants tighter to the land.",
+      "D": "Wrong: Peter fought the Great Northern War against Sweden for over twenty years; withdrawal is the opposite of his policy."
+    },
+    "options": [
+      "(A) The emancipation of the serfs, who were legally freed from their landlords specifically in order to serve as soldiers in the new standing army.",
+      "(B) The abolition of the Russian nobility as a social class.",
+      "(C) The tightening of serfdom, as the state bound peasants to the land to guarantee tax revenue and military recruits.",
+      "(D) Russia's withdrawal from all European wars."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "stem": "Peter's military reforms, which created a massive standing army, most directly contributed to which of the following?",
+    "stimulus": "Decree of Peter the Great, 1705, adapted from pre-1900 translations: 'Henceforth no Russian subject, excepting clergy and peasants, shall wear a beard or the traditional long kaftan. Whoever appears bearded at the town gates shall pay a tax and receive a token. Let all adopt the dress of the German and Saxon lands, that Russia may cease to be a mockery among enlightened peoples.'",
+    "stimulus_words": 64,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Siberia's value was fur, and its conquest followed the land-empire pattern: armed frontiersmen advanced, outposts were planted, and native peoples were folded into a tribute system — expansion for revenue and security, not for sea lanes.",
+    "id": "wh-fresh-u3-026",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: Russia had no Atlantic seaboard and sought no sea route to Asia; the map shows overland expansion.",
+      "B": "Right: the map's fur outposts and yasak zones show a land empire expanding for a valuable export and strategic depth.",
+      "C": "Wrong: the church followed the fur traders; converting the Ottomans was never the project.",
+      "D": "Wrong: no such alliance or partition existed; Russia and Qing China were rivals on the Amur frontier."
+    },
+    "options": [
+      "(A) A European search for direct sea routes to Asian markets, which Russia pursued by constructing a powerful Atlantic fleet and naval bases.",
+      "(B) A land-based empire's drive to secure furs and strategic depth, using Cossack bands and fur tribute like other expanding land empires.",
+      "(C) A campaign by the Russian Orthodox Church to convert the Ottoman Empire.",
+      "(D) An alliance with the Qing dynasty to partition the Japanese islands."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "stem": "Russian expansion across Siberia, shown on the map, is best understood in the context of which of the following?",
+    "stimulus": "Map of Russian territorial growth from 1547 to 1725, showing the stages by which the empire expanded eastward from Muscovy across Siberia to the Pacific Ocean.",
+    "stimulus_words": 26,
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+    "image_license": "CC BY-SA 3.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Like indigenous peoples elsewhere after sustained European contact, Siberian groups suffered epidemics against which they had no immunity, while tribute demands in furs distorted their hunting economies toward Russian needs.",
+    "id": "wh-fresh-u3-027",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the church sent Russian clergy; it did not elevate native Siberians to bishoprics.",
+      "B": "Wrong: the movement was Russians going east, not Siberians migrating to the Balkans.",
+      "C": "Wrong: industrialization came centuries later; the 1600s economy was fur and tribute.",
+      "D": "Right: disease and the fur-tribute system devastated indigenous populations and reshaped their economies."
+    },
+    "options": [
+      "(A) Their mass appointment as bishops, abbots, and senior officials within the rapidly expanding hierarchy of the Russian Orthodox Church.",
+      "(B) Their mass migration from Siberia to the Balkan Peninsula.",
+      "(C) The rapid industrialization of Siberian towns in the 1600s.",
+      "(D) Population decline from newly introduced Eurasian diseases and disruption as the yasak fur-tribute system redirected their labor."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The eastward expansion shown on the map most directly resulted in which of the following for Siberia's indigenous peoples?",
+    "stimulus": "Map of Russian territorial growth from 1547 to 1725, showing the stages by which the empire expanded eastward from Muscovy across Siberia to the Pacific Ocean.",
+    "stimulus_words": 26,
+    "themes": [
+      "ENV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+    "image_license": "CC BY-SA 3.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The hajj was the most prestigious act a Muslim ruler could perform, and founding mosques and schools made his devotion visible at home. Both announced that Songhai's king belonged to the global community of Islam.",
+    "id": "wh-fresh-u3-028",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: manuscript sales show commercial vitality, not the king's religious legitimation.",
+      "B": "Right: pilgrimage and religious endowments displayed Askia's piety and linked Songhai to the wider Islamic world.",
+      "C": "Wrong: 'proves' overstates the evidence; the passage shows Islamic judges existed, not that no law existed before.",
+      "D": "Wrong: the passage says books outsold other goods in Timbuktu; it makes no comparison with Cairo."
+    },
+    "options": [
+      "(A) The sale of North African manuscripts in Timbuktu's markets.",
+      "(B) Askia's pilgrimage to Mecca and his endowment of mosques and schools, a public display of the piety that legitimized his kingship.",
+      "(C) The presence of Islamic judges in Timbuktu, which proves that Songhai possessed no laws, courts, or legal traditions of any kind before the arrival of Islam.",
+      "(D) The book trade's profits, which exceeded the wealth of Cairo's merchants."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that Askia Muhammad used Islam to legitimize and strengthen Songhai rule. Which detail from the passage best supports this claim?",
+    "stimulus": "Leo Africanus, Description of Africa (c. 1526), adapted from pre-1900 editions: 'In Timbuktu there are many judges, scholars, and priests, all supported by the king, who shows great respect to men of learning. Manuscripts brought from North Africa are sold here, and the book trade is more profitable than any other merchandise. The king, Askia Muhammad, made the pilgrimage to Mecca and endowed mosques and schools upon his return.'",
+    "stimulus_words": 69,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Songhai sat astride the routes carrying West African gold north and Saharan salt south. Taxing that flow filled the treasury that paid for the scholars, judges, and mosques Leo Africanus admired.",
+    "id": "wh-fresh-u3-029",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: control of the gold-salt caravan trade funded the patronage that produced Timbuktu's scholarly culture.",
+      "B": "Wrong: Songhai never conquered Mecca; the claim invents a military feat.",
+      "C": "Wrong: the Portuguese traded on the Atlantic coast; they did not fund Islamic universities inland.",
+      "D": "Wrong: taxing North African trade was the revenue base; banning it would have bankrupted the state."
+    },
+    "options": [
+      "(A) Askia's patronage of scholars and mosques was funded by taxes on the gold and salt caravans passing through Songhai's trading cities.",
+      "(B) Songhai armies marched across the Sahara to conquer Mecca, seizing permanent control of pilgrimage revenues and the holy cities of Arabia.",
+      "(C) Portuguese merchants financed Timbuktu's universities in order to spread Christianity.",
+      "(D) Songhai banned all trade with North Africa to preserve the purity of Islam."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian argues that trans-Saharan trade revenues enabled Songhai's Islamic cultural flowering. Which of the following best supports this argument?",
+    "stimulus": "Leo Africanus, Description of Africa (c. 1526), adapted from pre-1900 editions: 'In Timbuktu there are many judges, scholars, and priests, all supported by the king, who shows great respect to men of learning. Manuscripts brought from North Africa are sold here, and the book trade is more profitable than any other merchandise. The king, Askia Muhammad, made the pilgrimage to Mecca and endowed mosques and schools upon his return.'",
+    "stimulus_words": 69,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Both the Tokugawa and the Qing practiced regulated engagement, not isolation: foreigners could trade, but only at one supervised port. The common student error is reading 'closed country' as zero contact.",
+    "id": "wh-fresh-u3-030",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: a fifteenth-century conquest has no bearing on trade regulation.",
+      "B": "Wrong: the Spanish restricted but never fully expelled foreign merchants from Manila.",
+      "C": "Right: both systems confined foreign trade to a single supervised port instead of ending it.",
+      "D": "Wrong: Peter the Great invited foreign experts in; this is the opposite policy."
+    },
+    "options": [
+      "(A) The Ottoman conquest of Constantinople in 1453.",
+      "(B) The Spanish expulsion of every foreign merchant from Manila.",
+      "(C) The Qing restriction of European trade to the single supervised port of Canton; both systems confined foreign contact to one controlled port.",
+      "(D) The Russian decision to throw open St. Petersburg and its Baltic ports to unrestricted foreign settlement, commerce, and missionary activity by all denominations."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The arrangement shown at Nagasaki is most similar to which of the following?",
+    "stimulus": "Historic Japanese map of Nagasaki Bay showing European (Dutch) trading ships anchored in the harbor and the small artificial island of Dejima near the city — the confined trading post of Dutch merchants under the Tokugawa shogunate.",
+    "stimulus_words": 37,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Alternate attendance was a financial leash: the pomp of traveling to Edo with a great retinue consumed daimyo revenues, and wives and heirs living in Edo guaranteed good behavior.",
+    "id": "wh-fresh-u3-031",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: forced spending plus hostage families kept the daimyo obedient and too poor to rebel.",
+      "B": "Wrong: the domains survived; the shogunate controlled the daimyo rather than replacing them.",
+      "C": "Wrong: Christianity was persecuted under the Tokugawa, not imposed on the daimyo.",
+      "D": "Wrong: the system's whole purpose was to prevent daimyo independence."
+    },
+    "options": [
+      "(A) Forcing daimyo into costly processions and Edo residences that drained rebellious wealth, while holding their families hostage in the capital.",
+      "(B) Abolishing the great daimyo domains entirely and replacing every daimyo with loyal bureaucrats appointed directly by the shogunate in Edo.",
+      "(C) Requiring all daimyo to convert to Christianity.",
+      "(D) Granting the daimyo full independence from oversight by Edo."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The sankin-kotai system of the Tokugawa shogunate most directly strengthened Tokugawa control by:",
+    "stimulus": "Historic Japanese map of Nagasaki Bay showing European (Dutch) trading ships anchored in the harbor and the small artificial island of Dejima near the city — the confined trading post of Dutch merchants under the Tokugawa shogunate.",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Ranking poor samurai above rich merchants shows that status served politics, not economics. By fixing everyone in a hereditary order topped by warriors, the shogunate protected the class on which its own power rested.",
+    "id": "wh-fresh-u3-032",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: if wealth set status, merchants would rank first; the passage shows the opposite.",
+      "B": "Wrong: the samurai remained the ruling class; nothing was abolished.",
+      "C": "Wrong: peasants ranked second, below the warriors.",
+      "D": "Right: the hierarchy froze ranks so that samurai political dominance could not be challenged by merchant wealth."
+    },
+    "options": [
+      "(A) Tokugawa Japan was a fully commercialized society in which accumulated wealth alone determined a person's official status and rank.",
+      "(B) The hierarchy abolished the samurai class and replaced it with a merchant oligarchy.",
+      "(C) Peasants enjoyed the highest prestige in Tokugawa society because they produced the rice tax.",
+      "(D) The shogunate froze social ranks to preserve samurai dominance and keep merchants' wealth from becoming political power."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about Tokugawa social order is best supported by the shi-no-ko-sho hierarchy?",
+    "stimulus": "The Tokugawa shogunate formalized the shi-no-ko-sho hierarchy: warriors (shi) ranked first, followed by peasants (no), artisans (ko), and merchants (sho) at the bottom — even though successful merchants often grew wealthier than the samurai above them.",
+    "stimulus_words": 36,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The Troubles were a succession crisis of a familiar type: old dynasty fails, interregnum of war and famine, then a new house recentralizes power. The Qing conquest of Ming China followed the same arc a generation later.",
+    "id": "wh-fresh-u3-033",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Romanovs were Russian boyars chosen by a Russian assembly; no foreign imposition occurred.",
+      "B": "Right: dynastic collapse followed by recentralization under a new house recurs across the period's land empires.",
+      "C": "Wrong: no democratic revolutions swept Eurasia in the 1600s; this is anachronistic.",
+      "D": "Wrong: the pope played no role in Michael Romanov's election."
+    },
+    "options": [
+      "(A) A supposed inherent and permanent Russian inability to establish stable government without rulers imposed from abroad by stronger foreign military powers.",
+      "(B) A recurring cycle in land-based empires: dynastic crisis followed by recentralization under a new house, as in China's Ming-to-Qing transition.",
+      "(C) The spread of democratic revolutions across Eurasia in the 1600s.",
+      "(D) A papal campaign to restore Catholic monarchs throughout Europe."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "stem": "The restoration of the Russian monarchy in 1613 is best understood in the context of which broader pattern?",
+    "stimulus": "After the death of Ivan IV (1584), Russia endured the Time of Troubles (1598-1613): famine, invasion by Polish and Swedish armies, rival claimants to the throne, and peasant uprisings — until a national assembly elected Michael Romanov as tsar in 1613.",
+    "stimulus_words": 41,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  }
+]

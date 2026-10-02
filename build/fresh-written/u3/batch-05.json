@@ -1,1 +1,329 @@
-[{"difficulty": "medium", "explanation": "Luther posted in Latin for scholars, but printers quickly issued German translations by the thousand. Without the press, the theses would have remained a local academic dispute.", "id": "wh-fresh-u3-045", "key": "D", "option_explanations": {"A": "Wrong: the papacy condemned Luther; endorsement is the opposite of what happened.", "B": "Wrong: the Ottomans never conquered Wittenberg; this scrambles the map.", "C": "Wrong: Luther never traveled to Persia; the theses spread through German print shops.", "D": "Right: cheap print carried the theses beyond Wittenberg's university within weeks."}, "options": ["(A) The pope's enthusiastic endorsement of Luther's proposals.", "(B) The Ottoman conquest of Wittenberg in 1517.", "(C) Luther's personal long journey to deliver printed copies of the theses to the Safavid court in Persia for the personal review of the shah.", "(D) The printing press, which reproduced pamphlets cheaply and carried reformist ideas far beyond the university where the theses were posted."], "reasoning": "Causation", "skill": "Sourcing and Situation", "stem": "The historical situation that best explains the rapid spread of Luther's theses is:", "stimulus": "Martin Luther, Ninety-five Theses (1517), adapted from pre-1900 translations: 'When our Lord and Master Jesus Christ said, Repent, he willed the entire life of believers to be one of repentance. Those who believe they can be certain of salvation because they hold indulgence letters will be eternally damned, together with their teachers.' Posted for academic debate, printed copies spread across Germany within weeks.", "stimulus_words": 63, "themes": ["CDI", "TEC"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "Augsburg handed princes the church: its property, its appointments, and the right to enforce one confession. Religion became an instrument of territorial state-building in the princes' hands.", "id": "wh-fresh-u3-046", "key": "B", "option_explanations": {"A": "Wrong: the settlement limited papal power by legalizing Lutheran princes' control of their churches.", "B": "Right: cuius regio, eius religio gave princes authority over religion within their territories.", "C": "Wrong: by entrenching princely autonomy, Augsburg deepened the empire's fragmentation.", "D": "Wrong: the Ottomans played no part in this German religious settlement."}, "options": ["(A) The pope's supreme and unquestioned authority over all religious life, doctrine, clergy appointments, and church property in Germany.", "(B) The power of territorial princes, who gained control over churches, church lands, and religious uniformity in their states.", "(C) The political unity of the Holy Roman Empire under its emperor.", "(D) The Ottoman Empire's influence in central Europe."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The Peace of Augsburg (1555), which established that each German prince could determine the religion of his own territory — cuius regio, eius religio — most directly strengthened which of the following?", "stimulus": "Martin Luther, Ninety-five Theses (1517), adapted from pre-1900 translations: 'When our Lord and Master Jesus Christ said, Repent, he willed the entire life of believers to be one of repentance. Those who believe they can be certain of salvation because they hold indulgence letters will be eternally damned, together with their teachers.' Posted for academic debate, printed copies spread across Germany within weeks.", "stimulus_words": 63, "themes": ["GOV", "CDI"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Print collapsed the cost of copying and broke the clergy's near-monopoly on the written word. Vernacular pamphlets let ordinary townspeople read — or hear read — arguments once confined to universities.", "id": "wh-fresh-u3-047", "key": "A", "option_explanations": {"A": "Right: cheap vernacular print moved reformist ideas beyond the Latin-reading scholarly world.", "B": "Wrong: Luther was among history's most printed authors; he embraced the press.", "C": "Wrong: the church tried to suppress Protestant printing but never destroyed 'every text' — the absolute language is the giveaway.", "D": "Wrong: Gutenberg's press dates to the 1450s, decades before 1517."}, "options": ["(A) Printed pamphlets and vernacular Bibles carried reformist ideas well beyond the Latin-literate scholars who read manuscripts.", "(B) Luther opposed the printing press on religious principle and stubbornly circulated his many writings only in handwritten manuscript copies.", "(C) The Catholic Church used printing to destroy every Protestant text before 1520.", "(D) The printing press was invented after the Reformation had already ended."], "reasoning": "Causation", "skill": "Claims and Evidence in Sources", "stem": "A historian claims that the printing press was essential to the Reformation's success. Which of the following best supports this claim?", "stimulus": "Martin Luther, Ninety-five Theses (1517), adapted from pre-1900 translations: 'When our Lord and Master Jesus Christ said, Repent, he willed the entire life of believers to be one of repentance. Those who believe they can be certain of salvation because they hold indulgence letters will be eternally damned, together with their teachers.' Posted for academic debate, printed copies spread across Germany within weeks.", "stimulus_words": 63, "themes": ["TEC", "CDI"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "While Europe split, Catholicism went global on Portuguese and Spanish ships. The Jesuits in Goa, Japan, and Beijing were the missionary arm of a church that was losing ground at home and gaining it abroad.", "id": "wh-fresh-u3-048", "key": "C", "option_explanations": {"A": "Wrong: the passage shows Jesuits on three continents; confinement to Europe is the opposite.", "B": "Wrong: the passage explicitly says Jesuits advised rulers from Goa to Beijing.", "C": "Right: Iberian empires carried the Catholic revival worldwide even as the Reformation divided Europe.", "D": "Wrong: South America was colonized by Catholic Spain and Portugal, not by Protestants."}, "options": ["(A) The permanent and complete confinement of Catholicism within the borders of Europe following the devastating territorial and spiritual losses of the Reformation.", "(B) The Jesuit order's refusal to cooperate with any secular rulers.", "(C) A global Catholic revival carried by Iberian maritime empires, giving missionaries access to three continents even as Protestantism divided Europe.", "(D) The Protestant colonization of South America."], "reasoning": "Comparison", "skill": "Contextualization", "stem": "The Jesuit missions described are best understood in the context of which of the following?", "stimulus": "The Council of Trent (1545-1563) reaffirmed Catholic doctrines challenged by Protestants, ended the sale of indulgences, and required bishops to reside in their dioceses and priests to train in seminaries. Meanwhile the newly founded Jesuit order (1540) opened schools across Europe and sent missionaries to the Americas, Africa, and Asia — preaching, teaching, and advising rulers from Goa to Beijing.", "stimulus_words": 60, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Trent abolished real abuses while reaffirming doctrine, and the Jesuits carried a reformed Catholicism worldwide. The Counter-Reformation was both housecleaning and counteroffensive.", "id": "wh-fresh-u3-049", "key": "B", "option_explanations": {"A": "Wrong: this is the common one-sided view; the passage documents reforms the 'persecution-only' story leaves out.", "B": "Right: the passage shows internal reform (indulgences, seminaries) alongside global missionary expansion.", "C": "Wrong: Trent reaffirmed the doctrines Luther attacked; it did not concede them.", "D": "Wrong: Jesuit missions spanned the globe; converting the sultans was never their founding purpose."}, "options": ["(A) The Catholic Church answered the Reformation solely by persecuting Protestants, stubbornly refusing to change any of its own practices or institutions.", "(B) The Church combined real internal reform — ending indulgences, training clergy — with renewed global expansion through orders like the Jesuits.", "(C) The Council of Trent accepted the central theological claims of Martin Luther.", "(D) The Jesuit order was founded for the specific purpose of converting the Ottoman sultans."], "reasoning": "Continuity and Change", "skill": "Argumentation", "stem": "Which of the following arguments about the Counter-Reformation is best supported by the passage?", "stimulus": "The Council of Trent (1545-1563) reaffirmed Catholic doctrines challenged by Protestants, ended the sale of indulgences, and required bishops to reside in their dioceses and priests to train in seminaries. Meanwhile the newly founded Jesuit order (1540) opened schools across Europe and sent missionaries to the Americas, Africa, and Asia — preaching, teaching, and advising rulers from Goa to Beijing.", "stimulus_words": 60, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Every row of the table ties rule to the sacred: caliphate, Imams, divine light, Heaven's Mandate, natural order, Third Rome. Different faiths, same technique — sacralized kingship.", "id": "wh-fresh-u3-050", "key": "D", "option_explanations": {"A": "Wrong: only the Mughals (via Timur) leaned on Chinggisid prestige; it is not in the table.", "B": "Wrong: no ruler here was elected; this is anachronistic.", "C": "Wrong: the table shows the opposite — every legitimation claim is religious or cosmological.", "D": "Right: all six rulers grounded authority in religious or cosmic sanction fitted to their subjects' beliefs."}, "options": ["(A) Claiming direct descent from Genghis Khan.", "(B) Winning office through democratic elections.", "(C) Completely rejecting all religious claims and traditions in favor of purely secular and rational systems of law.", "(D) Grounding political authority in religious or cosmic sanction adapted to the beliefs of their subjects."], "reasoning": "Comparison", "skill": "Making Connections", "stem": "Based on the table, which of the following legitimation strategies was shared by the greatest number of these rulers?", "stimulus": "Table comparing strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.", "stimulus_words": 87, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "The table's variety is the point: no single creed worked everywhere, so each dynasty sacralized itself in the local idiom. Legitimation was bespoke, not one-size-fits-all.", "id": "wh-fresh-u3-051", "key": "B", "option_explanations": {"A": "Wrong: the table displays six different justifications; 'exactly the same' contradicts it.", "B": "Right: each ruler adapted sacred claims to local traditions, making religion a flexible tool of state-building.", "C": "Wrong: armies mattered, but the table documents heavy investment in sacred claims.", "D": "Wrong: Protestantism appears nowhere in the table."}, "options": ["(A) Every empire in the period used exactly the same religious justification, sacred language, public rituals, and clerical hierarchy to legitimize its rule.", "(B) Rulers tailored divine sanction to local traditions — Shi'a Islam in Persia, Sunni Islam in Ottoman lands, Confucian cosmology in China.", "(C) Religious legitimation was unimportant, since all of these rulers relied on military force alone.", "(D) Protestant Christianity was the dominant legitimating faith across Eurasia in this period."], "reasoning": "Comparison", "skill": "Argumentation", "stem": "Which of the following arguments about early modern legitimation is best supported by the table?", "stimulus": "Table comparing strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.", "stimulus_words": 87, "themes": ["CDI", "SIO"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "Both are rulers spending state resources on visible religious foundations — mosques, schools — turning personal piety into public proof of legitimacy.", "id": "wh-fresh-u3-052", "key": "A", "option_explanations": {"A": "Right: Ottoman mosques and Askia's Timbuktu endowments are both visible religious patronage by rulers.", "B": "Wrong: these were policies of social control, not religious patronage.", "C": "Wrong: these were personnel systems for staffing the state, not displays of piety.", "D": "Wrong: these were European religious settlements, not acts of ruler patronage."}, "options": ["(A) Ottoman mosque-building and Askia Muhammad's endowment of mosques and schools in Timbuktu.", "(B) The Tokugawa closing of Japan to Christian missionaries and the Qing queue decree imposed on Han Chinese men.", "(C) The Ottoman devshirme levy and Peter the Great's Table of Ranks.", "(D) The Peace of Augsburg and the Council of Trent."], "reasoning": "Comparison", "skill": "Claims and Evidence in Sources", "stem": "A historian claims that religious legitimation required rulers to make their piety visible through patronage. Which pairing best supports this claim?", "stimulus": "Table comparing strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.", "stimulus_words": 87, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "medium", "explanation": "If the king answers only to God, then nobles, parlements, and Huguenots have no lawful ground to resist him. Divine right was the ideological counterpart to Versailles and the standing army.", "id": "wh-fresh-u3-053", "key": "D", "option_explanations": {"A": "Wrong: divine right rejected any sharing of power; no such assembly existed.", "B": "Wrong: Louis revoked the Edict of Nantes in 1685, ending tolerance — the opposite.", "C": "Wrong: French kings guarded their independence from Rome (Gallicanism); sovereignty moved toward the crown, not the pope.", "D": "Right: the doctrine made the monarch accountable to God alone, removing any lawful basis for resistance."}, "options": ["(A) Requiring the king to share all power with a freely elected national assembly representing all the people and provinces of France.", "(B) Establishing religious tolerance as the fundamental law of France.", "(C) Transferring sovereignty from the French crown to the pope in Rome.", "(D) Justifying the concentration of authority in the monarch and delegitimizing resistance from nobles or religious dissenters."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The doctrine of divine right most directly served Louis XIV's state-building by:", "stimulus": "In seventeenth-century France, Bishop Bossuet defended the divine right of kings: the monarch, he wrote, was God's lieutenant on earth, accountable to God alone. Louis XIV invoked this doctrine while building the palace of Versailles, maintaining a large standing army, and curbing the independent power of the nobility.", "stimulus_words": 48, "themes": ["GOV", "CDI"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "The same expensive armies produced the same institutional answers on opposite ends of Eurasia. This was convergent state-building under shared military-fiscal pressure, not European invention diffusing outward.", "id": "wh-fresh-u3-054", "key": "B", "option_explanations": {"A": "Wrong: the Ottomans and Mughals built these institutions independently; the pattern is parallel, not copied.", "B": "Right: shared gunpowder-warfare costs drove parallel bureaucratization across Eurasia.", "C": "Wrong: Jesuits advised individual rulers but did not transplant French administration across Asia.", "D": "Wrong: monarchies dominated the 1700s; no such abolition occurred."}, "options": ["(A) A uniquely European invention of modern government that the great land empires of Asia later copied, imitated, and adapted to their own societies.", "(B) Parallel Eurasian responses to the fiscal-military pressures of gunpowder warfare: rulers needed reliable revenue and loyal administrators.", "(C) The direct export of French administrative models to Asia by Jesuit missionaries.", "(D) The worldwide abolition of monarchies during the 1700s."], "reasoning": "Comparison", "skill": "Contextualization", "stem": "The pattern described is best understood in the context of which of the following?", "stimulus": "By 1700, states as different as France, Prussia, Russia, the Ottoman Empire, and Mughal India all maintained standing armies, centralized tax systems, and professional or semi-professional bureaucracies.", "stimulus_words": 27, "themes": ["GOV", "TEC"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "The passage lists what was banned and what continued side by side. The shogunate's target was uncontrollable foreign influence — especially Christianity — not foreign knowledge itself, which it kept importing through Dutch books.", "id": "wh-fresh-u3-055", "key": "C", "option_explanations": {"A": "Wrong: this is the classic misconception; the passage documents continuing trade, book imports, and Dutch reports.", "B": "Wrong: sakoku was a Tokugawa decision; the Qing imposed nothing on Japan.", "C": "Right: the shogunate banned destabilizing influences while keeping supervised channels for trade and information.", "D": "Wrong: importing European science books shows the opposite of lost interest."}, "options": ["(A) Sakoku was a total and absolute isolation that completely cut Japan off from all foreign contact, trade, visiting ships, and outside knowledge for more than two entire centuries.", "(B) Sakoku was imposed on Japan by the Qing dynasty of China.", "(C) Sakoku was pragmatic controlled contact: the shogunate banned missionaries and unsupervised trade but kept supervised channels for commerce and information.", "(D) Sakoku ended all Japanese interest in foreign science and technology."], "reasoning": "Comparison", "skill": "Argumentation", "stem": "Which of the following interpretations of sakoku is best supported by the passage?", "stimulus": "Tokugawa Japan (1630s-1850s) expelled Portuguese missionaries, banned Japanese from traveling abroad, and proclaimed the policy of sakoku, or 'closed country' — yet it maintained regulated trade with Dutch and Chinese merchants at Nagasaki, imported European books on science and medicine, and followed world events through Dutch reports.", "stimulus_words": 47, "themes": ["ECN", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}]
+[
+  {
+    "difficulty": "medium",
+    "explanation": "Luther posted in Latin for scholars, but printers quickly issued German translations by the thousand. Without the press, the theses would have remained a local academic dispute.",
+    "id": "wh-fresh-u3-045",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the papacy condemned Luther; endorsement is the opposite of what happened.",
+      "B": "Wrong: the Ottomans never conquered Wittenberg; this scrambles the map.",
+      "C": "Wrong: Luther never traveled to Persia; the theses spread through German print shops.",
+      "D": "Right: cheap print carried the theses beyond Wittenberg's university within weeks."
+    },
+    "options": [
+      "(A) The pope's enthusiastic endorsement of Luther's proposals.",
+      "(B) The Ottoman conquest of Wittenberg in 1517.",
+      "(C) Luther's personal long journey to deliver printed copies of the theses to the Safavid court in Persia for the personal review of the shah.",
+      "(D) The printing press, which reproduced pamphlets cheaply and carried reformist ideas far beyond the university where the theses were posted."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "stem": "The historical situation that best explains the rapid spread of Luther's theses is:",
+    "stimulus": "Martin Luther, Ninety-five Theses (1517), adapted from pre-1900 translations: 'When our Lord and Master Jesus Christ said, Repent, he willed the entire life of believers to be one of repentance. Those who believe they can be certain of salvation because they hold indulgence letters will be eternally damned, together with their teachers.' Posted for academic debate, printed copies spread across Germany within weeks.",
+    "stimulus_words": 63,
+    "themes": [
+      "CDI",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Augsburg handed princes the church: its property, its appointments, and the right to enforce one confession. Religion became an instrument of territorial state-building in the princes' hands.",
+    "id": "wh-fresh-u3-046",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the settlement limited papal power by legalizing Lutheran princes' control of their churches.",
+      "B": "Right: cuius regio, eius religio gave princes authority over religion within their territories.",
+      "C": "Wrong: by entrenching princely autonomy, Augsburg deepened the empire's fragmentation.",
+      "D": "Wrong: the Ottomans played no part in this German religious settlement."
+    },
+    "options": [
+      "(A) The pope's supreme and unquestioned authority over all religious life, doctrine, clergy appointments, and church property in Germany.",
+      "(B) The power of territorial princes, who gained control over churches, church lands, and religious uniformity in their states.",
+      "(C) The political unity of the Holy Roman Empire under its emperor.",
+      "(D) The Ottoman Empire's influence in central Europe."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The Peace of Augsburg (1555), which established that each German prince could determine the religion of his own territory — cuius regio, eius religio — most directly strengthened which of the following?",
+    "stimulus": "Martin Luther, Ninety-five Theses (1517), adapted from pre-1900 translations: 'When our Lord and Master Jesus Christ said, Repent, he willed the entire life of believers to be one of repentance. Those who believe they can be certain of salvation because they hold indulgence letters will be eternally damned, together with their teachers.' Posted for academic debate, printed copies spread across Germany within weeks.",
+    "stimulus_words": 63,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Print collapsed the cost of copying and broke the clergy's near-monopoly on the written word. Vernacular pamphlets let ordinary townspeople read — or hear read — arguments once confined to universities.",
+    "id": "wh-fresh-u3-047",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: cheap vernacular print moved reformist ideas beyond the Latin-reading scholarly world.",
+      "B": "Wrong: Luther was among history's most printed authors; he embraced the press.",
+      "C": "Wrong: the church tried to suppress Protestant printing but never destroyed 'every text' — the absolute language is the giveaway.",
+      "D": "Wrong: Gutenberg's press dates to the 1450s, decades before 1517."
+    },
+    "options": [
+      "(A) Printed pamphlets and vernacular Bibles carried reformist ideas well beyond the Latin-literate scholars who read manuscripts.",
+      "(B) Luther opposed the printing press on religious principle and stubbornly circulated his many writings only in handwritten manuscript copies.",
+      "(C) The Catholic Church used printing to destroy every Protestant text before 1520.",
+      "(D) The printing press was invented after the Reformation had already ended."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that the printing press was essential to the Reformation's success. Which of the following best supports this claim?",
+    "stimulus": "Martin Luther, Ninety-five Theses (1517), adapted from pre-1900 translations: 'When our Lord and Master Jesus Christ said, Repent, he willed the entire life of believers to be one of repentance. Those who believe they can be certain of salvation because they hold indulgence letters will be eternally damned, together with their teachers.' Posted for academic debate, printed copies spread across Germany within weeks.",
+    "stimulus_words": 63,
+    "themes": [
+      "TEC",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "While Europe split, Catholicism went global on Portuguese and Spanish ships. The Jesuits in Goa, Japan, and Beijing were the missionary arm of a church that was losing ground at home and gaining it abroad.",
+    "id": "wh-fresh-u3-048",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the passage shows Jesuits on three continents; confinement to Europe is the opposite.",
+      "B": "Wrong: the passage explicitly says Jesuits advised rulers from Goa to Beijing.",
+      "C": "Right: Iberian empires carried the Catholic revival worldwide even as the Reformation divided Europe.",
+      "D": "Wrong: South America was colonized by Catholic Spain and Portugal, not by Protestants."
+    },
+    "options": [
+      "(A) The permanent and complete confinement of Catholicism within the borders of Europe following the devastating territorial and spiritual losses of the Reformation.",
+      "(B) The Jesuit order's refusal to cooperate with any secular rulers.",
+      "(C) A global Catholic revival carried by Iberian maritime empires, giving missionaries access to three continents even as Protestantism divided Europe.",
+      "(D) The Protestant colonization of South America."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "stem": "The Jesuit missions described are best understood in the context of which of the following?",
+    "stimulus": "The Council of Trent (1545-1563) reaffirmed Catholic doctrines challenged by Protestants, ended the sale of indulgences, and required bishops to reside in their dioceses and priests to train in seminaries. Meanwhile the newly founded Jesuit order (1540) opened schools across Europe and sent missionaries to the Americas, Africa, and Asia — preaching, teaching, and advising rulers from Goa to Beijing.",
+    "stimulus_words": 60,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Trent abolished real abuses while reaffirming doctrine, and the Jesuits carried a reformed Catholicism worldwide. The Counter-Reformation was both housecleaning and counteroffensive.",
+    "id": "wh-fresh-u3-049",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: this is the common one-sided view; the passage documents reforms the 'persecution-only' story leaves out.",
+      "B": "Right: the passage shows internal reform (indulgences, seminaries) alongside global missionary expansion.",
+      "C": "Wrong: Trent reaffirmed the doctrines Luther attacked; it did not concede them.",
+      "D": "Wrong: Jesuit missions spanned the globe; converting the sultans was never their founding purpose."
+    },
+    "options": [
+      "(A) The Catholic Church answered the Reformation solely by persecuting Protestants, stubbornly refusing to change any of its own practices or institutions.",
+      "(B) The Church combined real internal reform — ending indulgences, training clergy — with renewed global expansion through orders like the Jesuits.",
+      "(C) The Council of Trent accepted the central theological claims of Martin Luther.",
+      "(D) The Jesuit order was founded for the specific purpose of converting the Ottoman sultans."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about the Counter-Reformation is best supported by the passage?",
+    "stimulus": "The Council of Trent (1545-1563) reaffirmed Catholic doctrines challenged by Protestants, ended the sale of indulgences, and required bishops to reside in their dioceses and priests to train in seminaries. Meanwhile the newly founded Jesuit order (1540) opened schools across Europe and sent missionaries to the Americas, Africa, and Asia — preaching, teaching, and advising rulers from Goa to Beijing.",
+    "stimulus_words": 60,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Every row of the table ties rule to the sacred: caliphate, Imams, divine light, Heaven's Mandate, natural order, Third Rome. Different faiths, same technique — sacralized kingship.",
+    "id": "wh-fresh-u3-050",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: only the Mughals (via Timur) leaned on Chinggisid prestige; it is not in the table.",
+      "B": "Wrong: no ruler here was elected; this is anachronistic.",
+      "C": "Wrong: the table shows the opposite — every legitimation claim is religious or cosmological.",
+      "D": "Right: all six rulers grounded authority in religious or cosmic sanction fitted to their subjects' beliefs."
+    },
+    "options": [
+      "(A) Claiming direct descent from Genghis Khan.",
+      "(B) Winning office through democratic elections.",
+      "(C) Completely rejecting all religious claims and traditions in favor of purely secular and rational systems of law.",
+      "(D) Grounding political authority in religious or cosmic sanction adapted to the beliefs of their subjects."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "Based on the table, which of the following legitimation strategies was shared by the greatest number of these rulers?",
+    "stimulus": "Text excerpt: strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.",
+    "stimulus_words": 87,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The table's variety is the point: no single creed worked everywhere, so each dynasty sacralized itself in the local idiom. Legitimation was bespoke, not one-size-fits-all.",
+    "id": "wh-fresh-u3-051",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the table displays six different justifications; 'exactly the same' contradicts it.",
+      "B": "Right: each ruler adapted sacred claims to local traditions, making religion a flexible tool of state-building.",
+      "C": "Wrong: armies mattered, but the table documents heavy investment in sacred claims.",
+      "D": "Wrong: Protestantism appears nowhere in the table."
+    },
+    "options": [
+      "(A) Every empire in the period used exactly the same religious justification, sacred language, public rituals, and clerical hierarchy to legitimize its rule.",
+      "(B) Rulers tailored divine sanction to local traditions — Shi'a Islam in Persia, Sunni Islam in Ottoman lands, Confucian cosmology in China.",
+      "(C) Religious legitimation was unimportant, since all of these rulers relied on military force alone.",
+      "(D) Protestant Christianity was the dominant legitimating faith across Eurasia in this period."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about early modern legitimation is best supported by the table?",
+    "stimulus": "Text excerpt: strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.",
+    "stimulus_words": 87,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Both are rulers spending state resources on visible religious foundations — mosques, schools — turning personal piety into public proof of legitimacy.",
+    "id": "wh-fresh-u3-052",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: Ottoman mosques and Askia's Timbuktu endowments are both visible religious patronage by rulers.",
+      "B": "Wrong: these were policies of social control, not religious patronage.",
+      "C": "Wrong: these were personnel systems for staffing the state, not displays of piety.",
+      "D": "Wrong: these were European religious settlements, not acts of ruler patronage."
+    },
+    "options": [
+      "(A) Ottoman mosque-building and Askia Muhammad's endowment of mosques and schools in Timbuktu.",
+      "(B) The Tokugawa closing of Japan to Christian missionaries and the Qing queue decree imposed on Han Chinese men.",
+      "(C) The Ottoman devshirme levy and Peter the Great's Table of Ranks.",
+      "(D) The Peace of Augsburg and the Council of Trent."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that religious legitimation required rulers to make their piety visible through patronage. Which pairing best supports this claim?",
+    "stimulus": "Text excerpt: strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.",
+    "stimulus_words": 87,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "If the king answers only to God, then nobles, parlements, and Huguenots have no lawful ground to resist him. Divine right was the ideological counterpart to Versailles and the standing army.",
+    "id": "wh-fresh-u3-053",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: divine right rejected any sharing of power; no such assembly existed.",
+      "B": "Wrong: Louis revoked the Edict of Nantes in 1685, ending tolerance — the opposite.",
+      "C": "Wrong: French kings guarded their independence from Rome (Gallicanism); sovereignty moved toward the crown, not the pope.",
+      "D": "Right: the doctrine made the monarch accountable to God alone, removing any lawful basis for resistance."
+    },
+    "options": [
+      "(A) Requiring the king to share all power with a freely elected national assembly representing all the people and provinces of France.",
+      "(B) Establishing religious tolerance as the fundamental law of France.",
+      "(C) Transferring sovereignty from the French crown to the pope in Rome.",
+      "(D) Justifying the concentration of authority in the monarch and delegitimizing resistance from nobles or religious dissenters."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The doctrine of divine right most directly served Louis XIV's state-building by:",
+    "stimulus": "In seventeenth-century France, Bishop Bossuet defended the divine right of kings: the monarch, he wrote, was God's lieutenant on earth, accountable to God alone. Louis XIV invoked this doctrine while building the palace of Versailles, maintaining a large standing army, and curbing the independent power of the nobility.",
+    "stimulus_words": 48,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The same expensive armies produced the same institutional answers on opposite ends of Eurasia. This was convergent state-building under shared military-fiscal pressure, not European invention diffusing outward.",
+    "id": "wh-fresh-u3-054",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the Ottomans and Mughals built these institutions independently; the pattern is parallel, not copied.",
+      "B": "Right: shared gunpowder-warfare costs drove parallel bureaucratization across Eurasia.",
+      "C": "Wrong: Jesuits advised individual rulers but did not transplant French administration across Asia.",
+      "D": "Wrong: monarchies dominated the 1700s; no such abolition occurred."
+    },
+    "options": [
+      "(A) A uniquely European invention of modern government that the great land empires of Asia later copied, imitated, and adapted to their own societies.",
+      "(B) Parallel Eurasian responses to the fiscal-military pressures of gunpowder warfare: rulers needed reliable revenue and loyal administrators.",
+      "(C) The direct export of French administrative models to Asia by Jesuit missionaries.",
+      "(D) The worldwide abolition of monarchies during the 1700s."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "stem": "The pattern described is best understood in the context of which of the following?",
+    "stimulus": "By 1700, states as different as France, Prussia, Russia, the Ottoman Empire, and Mughal India all maintained standing armies, centralized tax systems, and professional or semi-professional bureaucracies.",
+    "stimulus_words": 27,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage lists what was banned and what continued side by side. The shogunate's target was uncontrollable foreign influence — especially Christianity — not foreign knowledge itself, which it kept importing through Dutch books.",
+    "id": "wh-fresh-u3-055",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: this is the classic misconception; the passage documents continuing trade, book imports, and Dutch reports.",
+      "B": "Wrong: sakoku was a Tokugawa decision; the Qing imposed nothing on Japan.",
+      "C": "Right: the shogunate banned destabilizing influences while keeping supervised channels for trade and information.",
+      "D": "Wrong: importing European science books shows the opposite of lost interest."
+    },
+    "options": [
+      "(A) Sakoku was a total and absolute isolation that completely cut Japan off from all foreign contact, trade, visiting ships, and outside knowledge for more than two entire centuries.",
+      "(B) Sakoku was imposed on Japan by the Qing dynasty of China.",
+      "(C) Sakoku was pragmatic controlled contact: the shogunate banned missionaries and unsupervised trade but kept supervised channels for commerce and information.",
+      "(D) Sakoku ended all Japanese interest in foreign science and technology."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Argumentation",
+    "stem": "Which of the following interpretations of sakoku is best supported by the passage?",
+    "stimulus": "Tokugawa Japan (1630s-1850s) expelled Portuguese missionaries, banned Japanese from traveling abroad, and proclaimed the policy of sakoku, or 'closed country' — yet it maintained regulated trade with Dutch and Chinese merchants at Nagasaki, imported European books on science and medicine, and followed world events through Dutch reports.",
+    "stimulus_words": 47,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  }
+]

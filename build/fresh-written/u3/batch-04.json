@@ -1,1 +1,336 @@
-[{"difficulty": "medium", "explanation": "Devshirme graduates owed everything to the sultan; examination graduates owed their rank to the imperial system. In both cases the ruler gained officials independent of old noble families.", "id": "wh-fresh-u3-034", "key": "D", "option_explanations": {"A": "Wrong: both systems are presented as alternatives to hereditary privilege, not examples of it.", "B": "Wrong: neither system involved Shi'a Islam; the Ottomans were Sunni and China was Confucian.", "C": "Wrong: Peter the Great ruled Russia, not the Ottoman or Chinese empires.", "D": "Right: both recruited on state-controlled criteria, freeing rulers from dependence on traditional nobilities."}, "options": ["(A) Both filled government offices through hereditary noble privilege, with administrative ranks and tax exemptions automatically passing from father to eldest son.", "(B) Both required officials to convert to Shi'a Islam.", "(C) Both were dismantled by Peter the Great.", "(D) Both created administrative elites whose advancement depended on the state rather than inherited status, reducing dependence on old nobilities."], "reasoning": "Comparison", "skill": "Making Connections", "stem": "The two bureaucratic systems described are most similar in which of the following ways?", "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.", "stimulus_words": 72, "themes": ["GOV", "SIO"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "Palace schooling raised devshirme boys inside the sultan's household, while the classics taught that proper order meant obedience to the emperor. Both were curricula of loyalty.", "id": "wh-fresh-u3-035", "key": "A", "option_explanations": {"A": "Right: palace training and Confucian moral education both socialized officials into obedience to the throne.", "B": "Wrong: the passage stresses that neither status was hereditary — that is the point of both systems.", "C": "Wrong: the passage mentions no naval duties for either group.", "D": "Wrong: both systems operated through the 1600s and beyond; neither was abolished in the 1500s."}, "options": ["(A) The palace-school training of devshirme recruits and examinations grounded in Confucian classics that emphasized obedience to authority.", "(B) The supposedly hereditary status of Ottoman viziers and Chinese scholar-officials, with the highest offices passing directly from father to son.", "(C) The naval duties assigned to Ottoman administrators and Chinese scholars.", "(D) The abolition of both bureaucratic systems during the 1500s."], "reasoning": "Comparison", "skill": "Claims and Evidence in Sources", "stem": "A historian claims that both the Ottoman and Chinese systems used education to manufacture loyalty to the throne. Which pairing of details from the passage best supports this claim?", "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.", "stimulus_words": 72, "themes": ["GOV", "CDI"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "The passage's implicit argument is functional: rulers who could appoint and promote their own trained officials could govern directly, instead of bargaining with nobles who held power by birth.", "id": "wh-fresh-u3-036", "key": "B", "option_explanations": {"A": "Wrong: the officials described depended on the ruler; they were instruments of central power, not rivals to it.", "B": "Right: state-dependent bureaucracies let rulers tax and administer directly rather than through hereditary nobles.", "C": "Wrong: the passage's two examples are Ottoman and Chinese — both non-European.", "D": "Wrong: the passage discusses administration, not military downsizing."}, "options": ["(A) Centralized bureaucracies weakened empires by creating rival centers of power.", "(B) Bureaucracies of state-dependent officials let empires tax and administer vast territories more effectively than rule through hereditary nobles.", "(C) Only European states developed professional bureaucracies during this period.", "(D) The palace schools and imperial examinations were designed primarily to drastically shrink the size and reduce the enormous cost of the empire's standing armies."], "reasoning": "Causation", "skill": "Argumentation", "stem": "Which of the following arguments about early modern state-building is best supported by the passage?", "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.", "stimulus_words": 72, "themes": ["GOV", "ECN"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "hard", "explanation": "Muskets and cannon rewarded disciplined infantry paid by the state and devalued the mounted aristocratic warrior. The samurai survived as a status group precisely by becoming the administrators of a peaceful realm.", "id": "wh-fresh-u3-037", "key": "C", "option_explanations": {"A": "Wrong: firearms undermined heavy cavalry; they did not enhance it.", "B": "Wrong: the janissaries were famous for their firearms — the passage says so directly.", "C": "Right: gunpowder elevated state-paid firearm infantry and pushed traditional warriors toward administrative roles.", "D": "Wrong: the samurai persisted as a hereditary class throughout the Tokugawa period; they changed function, not existence."}, "options": ["(A) The growing battlefield dominance of heavily armored noble cavalry.", "(B) The abandonment of firearms by the Ottoman army.", "(C) The rise of firearm infantry such as janissary musketeers, and the gradual transformation of warriors like the samurai into peacetime administrators.", "(D) The total disappearance of Japan's hereditary warrior class and its complete replacement by armies of peasant conscript soldiers by the year 1600."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The spread of gunpowder weaponry most directly contributed to which of the following changes among these military elites?", "stimulus": "Three military elites, c. 1600-1700. Ottoman janissaries: Christian-born converts armed with muskets and artillery, paid in cash from the central treasury. Safavid ghulams: Georgian and Armenian converts organized by Shah Abbas into musketeer and artillery corps loyal to the shah. Tokugawa samurai: a hereditary warrior class that, under two centuries of peace, increasingly served as domain bureaucrats and scholars rather than battlefield soldiers.", "stimulus_words": 63, "themes": ["TEC", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "The janissaries repeatedly mutinied and removed sultans who threatened their privileges — the classic kingmaker problem: the force that protects the throne can also seize it.", "id": "wh-fresh-u3-038", "key": "A", "option_explanations": {"A": "Right: janissary revolts deposing sultans are direct evidence of military elites becoming kingmakers.", "B": "Wrong: an 'unbroken record of obedience' would weaken, not support, the claim — and it is historically false.", "C": "Wrong: the samurai did not disband in 1603; the Tokugawa period was just beginning.", "D": "Wrong: the ghulams were firearm troops by design, as the passage states."}, "options": ["(A) Janissary revolts that deposed Ottoman sultans, demonstrating that the sultan's own troops could overthrow him.", "(B) The janissaries' unbroken record of perfect obedience to every sultan throughout the entire long span of Ottoman history.", "(C) The samurai's voluntary disbandment of their class in 1603.", "(D) The ghulams' refusal to adopt firearms."], "reasoning": "Continuity and Change", "skill": "Claims and Evidence in Sources", "stem": "A historian claims that rulers who created loyal military elites also had to guard against those elites becoming kingmakers. Which of the following would best support this claim?", "stimulus": "Three military elites, c. 1600-1700. Ottoman janissaries: Christian-born converts armed with muskets and artillery, paid in cash from the central treasury. Safavid ghulams: Georgian and Armenian converts organized by Shah Abbas into musketeer and artillery corps loyal to the shah. Tokugawa samurai: a hereditary warrior class that, under two centuries of peace, increasingly served as domain bureaucrats and scholars rather than battlefield soldiers.", "stimulus_words": 63, "themes": ["GOV", "SIO"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Timars, zamindars, and intendants look different, but all answered the same fiscal-military problem: turning peasant agriculture into money and soldiers for the central state.", "id": "wh-fresh-u3-039", "key": "D", "option_explanations": {"A": "Wrong: two of the three systems worked through intermediaries; none eliminated them.", "B": "Wrong: all three taxed land, not overseas trade.", "C": "Wrong: timar holders were a military landholding class; the nobility's role was reshaped, not abolished.", "D": "Right: each system channeled agrarian surplus to the state to fund armies and administration."}, "options": ["(A) Each eliminated every intermediary between the ruler and the peasantry, creating a system of direct centralized rule over every village and district.", "(B) Each was funded by taxes on overseas colonial trade.", "(C) Each abolished the nobility's role in government.", "(D) Each was a state's effort to secure reliable land revenue for armies and administration, via grants, intermediaries, or royal bureaucrats."], "reasoning": "Comparison", "skill": "Making Connections", "stem": "The three systems in the table are most similar in which of the following ways?", "stimulus": "Table comparing land-tax collection, c. 1600-1700. Ottoman Empire: timar cavalrymen received land-revenue grants in exchange for military service. Mughal Empire: zamindar intermediaries collected peasant land taxes and remitted a share to the treasury. France: royal intendants, appointed bureaucrats, supervised tax collection in the provinces, bypassing local nobles.", "stimulus_words": 47, "themes": ["ECN", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "When the collector keeps the surplus, the incentive is to squeeze. States got predictable income; peasants got unpredictable exactions, which is why revenue disputes sparked so many rural revolts.", "id": "wh-fresh-u3-040", "key": "B", "option_explanations": {"A": "Wrong: intermediary collection was notoriously burdensome; 'no burden' contradicts the economics of the system.", "B": "Right: intermediaries profited from the margin between assessment and extraction, producing over-taxation and unrest.", "C": "Wrong: land taxes continued and grew; nothing was abolished.", "D": "Wrong: the system entrenched local elites rather than removing them."}, "options": ["(A) A perfectly efficient and completely honest system of tax collection that placed no real burden whatsoever on the empire's peasant cultivators.", "(B) Short-term state revenue but routine peasant over-taxation, as intermediaries profited by extracting above the official assessment.", "(C) The immediate abolition of all land taxes.", "(D) The complete disappearance of local elites from rural society."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The use of intermediaries such as zamindars and tax farmers most directly produced which of the following consequences?", "stimulus": "Table comparing land-tax collection, c. 1600-1700. Ottoman Empire: timar cavalrymen received land-revenue grants in exchange for military service. Mughal Empire: zamindar intermediaries collected peasant land taxes and remitted a share to the treasury. France: royal intendants, appointed bureaucrats, supervised tax collection in the provinces, bypassing local nobles.", "stimulus_words": 47, "themes": ["ECN", "SIO"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "medium", "explanation": "A mosque plus schools, hospital, and soup kitchen did three jobs at once: honored God, served the city, and stamped Suleyman's name on all of it. Legitimation you could pray in, study in, and eat in.", "id": "wh-fresh-u3-041", "key": "A", "option_explanations": {"A": "Right: the complex fused piety, public welfare, and an unmistakable display of imperial power.", "B": "Wrong: the complex is a religious and charitable foundation, not a fortification.", "C": "Wrong: the buildings were imperial foundations; the passage stresses they were built at the sultan's expense.", "D": "Wrong: Sinan's great dome consciously rivaled and drew upon Hagia Sophia, not rejected it."}, "options": ["(A) Monumental religious architecture let the sultan display piety, provide public services, and make imperial power visible in daily life.", "(B) The complex was designed primarily as a military fortress to defend Istanbul against attack.", "(C) The schools, hospital, and soup kitchen show that religious institutions operated fully independently of the Ottoman state and its officials.", "(D) The complex demonstrates the Ottoman rejection of earlier Byzantine architectural traditions."], "reasoning": "Causation", "skill": "Argumentation", "stem": "Which of the following arguments about Ottoman imperial power is best supported by the Suleymaniye complex?", "stimulus": "Photograph of the Suleymaniye Mosque complex in Istanbul, completed in 1557 under Suleyman the Magnificent. The grand domed mosque, designed by the architect Sinan, stands amid madrasas (schools), a hospital, a soup kitchen for the poor, and baths — all built at imperial expense.", "stimulus_words": 44, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "Both complexes turned architecture into political theology: enormous, ordered, impossible to ignore, they told every visitor that the dynasty's power was as permanent as stone.", "id": "wh-fresh-u3-042", "key": "C", "option_explanations": {"A": "Wrong: Dejima was an instrument of trade control, not a monument to dynastic glory.", "B": "Wrong: the beard tax was a cultural regulation, not architectural legitimation.", "C": "Right: both used vast ceremonial architecture to center the ruler and display command of resources.", "D": "Wrong: Augsburg was a legal settlement, not a building project."}, "options": ["(A) The small Dejima trading post in Nagasaki Bay, which the Tokugawa shogunate used to strictly confine Dutch merchants to a tiny artificial island.", "(B) The Russian beard tax, which regulated the personal appearance of nobles.", "(C) The Forbidden City in Beijing, whose vast palace complex centered the emperor and displayed the dynasty's command of resources and labor.", "(D) The Peace of Augsburg, which settled religious divisions among German princes."], "reasoning": "Comparison", "skill": "Making Connections", "stem": "The Suleymaniye complex served Ottoman legitimation in ways most comparable to which of the following?", "stimulus": "Photograph of the Suleymaniye Mosque complex in Istanbul, completed in 1557 under Suleyman the Magnificent. The grand domed mosque, designed by the architect Sinan, stands amid madrasas (schools), a hospital, a soup kitchen for the poor, and baths — all built at imperial expense.", "stimulus_words": 44, "themes": ["CDI", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": true}, {"difficulty": "hard", "explanation": "Gunpowder weapons were expensive — cannon foundries, powder mills, and paid infantry required treasuries and bureaucracies. That is why the winners of the military revolution were big centralized states: Ottomans, Safavids, Mughals, and their peers.", "id": "wh-fresh-u3-043", "key": "A", "option_explanations": {"A": "Right: only centralized states could afford the artillery and standing infantry the new warfare demanded.", "B": "Wrong: the changes described belong to the 1500s-1600s, three centuries before industrial mass production.", "C": "Wrong: standing armies expanded in this period; they were not abolished.", "D": "Wrong: feudal levies declined as gunpowder armies rose — the opposite of the passage."}, "options": ["(A) The rise of the gunpowder empires, whose centralized states alone could afford the artillery and standing infantry smaller states and nomads could not.", "(B) The Industrial Revolution's mass production of rifles, cannon, and gunpowder in the vast steam-powered factories of nineteenth-century Europe.", "(C) The abolition of standing armies across early modern Eurasia.", "(D) The return of medieval-style feudal levies as the dominant military force."], "reasoning": "Comparison", "skill": "Contextualization", "stem": "The military changes described are best understood in the context of which broader development?", "stimulus": "By 1500, bronze cannon and handheld firearms had spread across Eurasia. Fortress walls built to resist catapults crumbled under artillery bombardment, and nomadic horse archers — dominant in warfare for centuries — could not stand against disciplined infantry armed with muskets.", "stimulus_words": 41, "themes": ["TEC", "GOV"], "type": "mcq", "unit": 3, "visual_needs_url": false}, {"difficulty": "medium", "explanation": "Expensive armies created a fiscal imperative: rulers who could not tax regularly could not fight regularly. The 'military revolution' drove the growth of bureaucracies, intendants, and revenue systems across Eurasia.", "id": "wh-fresh-u3-044", "key": "D", "option_explanations": {"A": "Wrong: costly armies required more revenue and more officials, not less.", "B": "Wrong: standing armies were built for expansion and competition, not for abandoning it.", "C": "Wrong: rulers centralized military finance precisely to escape dependence on feudal lords.", "D": "Right: paying for gunpowder armies forced rulers to build systematic taxation and administration."}, "options": ["(A) Sharply reduce taxes and drastically shrink their bureaucracies, administrations, and standing military forces.", "(B) Abandon all attempts at territorial expansion.", "(C) Return military funding to local feudal lords.", "(D) Develop more systematic and intrusive methods of taxation and administration to pay for warfare."], "reasoning": "Causation", "skill": "Developments and Processes", "stem": "The expansion of standing gunpowder armies most directly caused rulers to:", "stimulus": "Across the period 1450-1750, rulers from France's Louis XIV to the Ottoman sultans and Mughal emperors expanded standing armies equipped with gunpowder weapons — forces far more expensive than the feudal levies and tribal cavalry of earlier centuries.", "stimulus_words": 38, "themes": ["GOV", "ECN"], "type": "mcq", "unit": 3, "visual_needs_url": false}]
+[
+  {
+    "difficulty": "medium",
+    "explanation": "Devshirme graduates owed everything to the sultan; examination graduates owed their rank to the imperial system. In both cases the ruler gained officials independent of old noble families.",
+    "id": "wh-fresh-u3-034",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: both systems are presented as alternatives to hereditary privilege, not examples of it.",
+      "B": "Wrong: neither system involved Shi'a Islam; the Ottomans were Sunni and China was Confucian.",
+      "C": "Wrong: Peter the Great ruled Russia, not the Ottoman or Chinese empires.",
+      "D": "Right: both recruited on state-controlled criteria, freeing rulers from dependence on traditional nobilities."
+    },
+    "options": [
+      "(A) Both filled government offices through hereditary noble privilege, with administrative ranks and tax exemptions automatically passing from father to eldest son.",
+      "(B) Both required officials to convert to Shi'a Islam.",
+      "(C) Both were dismantled by Peter the Great.",
+      "(D) Both created administrative elites whose advancement depended on the state rather than inherited status, reducing dependence on old nobilities."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The two bureaucratic systems described are most similar in which of the following ways?",
+    "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.",
+    "stimulus_words": 72,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Palace schooling raised devshirme boys inside the sultan's household, while the classics taught that proper order meant obedience to the emperor. Both were curricula of loyalty.",
+    "id": "wh-fresh-u3-035",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: palace training and Confucian moral education both socialized officials into obedience to the throne.",
+      "B": "Wrong: the passage stresses that neither status was hereditary — that is the point of both systems.",
+      "C": "Wrong: the passage mentions no naval duties for either group.",
+      "D": "Wrong: both systems operated through the 1600s and beyond; neither was abolished in the 1500s."
+    },
+    "options": [
+      "(A) The palace-school training of devshirme recruits and examinations grounded in Confucian classics that emphasized obedience to authority.",
+      "(B) The supposedly hereditary status of Ottoman viziers and Chinese scholar-officials, with the highest offices passing directly from father to son.",
+      "(C) The naval duties assigned to Ottoman administrators and Chinese scholars.",
+      "(D) The abolition of both bureaucratic systems during the 1500s."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that both the Ottoman and Chinese systems used education to manufacture loyalty to the throne. Which pairing of details from the passage best supports this claim?",
+    "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.",
+    "stimulus_words": 72,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage's implicit argument is functional: rulers who could appoint and promote their own trained officials could govern directly, instead of bargaining with nobles who held power by birth.",
+    "id": "wh-fresh-u3-036",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the officials described depended on the ruler; they were instruments of central power, not rivals to it.",
+      "B": "Right: state-dependent bureaucracies let rulers tax and administer directly rather than through hereditary nobles.",
+      "C": "Wrong: the passage's two examples are Ottoman and Chinese — both non-European.",
+      "D": "Wrong: the passage discusses administration, not military downsizing."
+    },
+    "options": [
+      "(A) Centralized bureaucracies weakened empires by creating rival centers of power.",
+      "(B) Bureaucracies of state-dependent officials let empires tax and administer vast territories more effectively than rule through hereditary nobles.",
+      "(C) Only European states developed professional bureaucracies during this period.",
+      "(D) The palace schools and imperial examinations were designed primarily to drastically shrink the size and reduce the enormous cost of the empire's standing armies."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about early modern state-building is best supported by the passage?",
+    "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.",
+    "stimulus_words": 72,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Muskets and cannon rewarded disciplined infantry paid by the state and devalued the mounted aristocratic warrior. The samurai survived as a status group precisely by becoming the administrators of a peaceful realm.",
+    "id": "wh-fresh-u3-037",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: firearms undermined heavy cavalry; they did not enhance it.",
+      "B": "Wrong: the janissaries were famous for their firearms — the passage says so directly.",
+      "C": "Right: gunpowder elevated state-paid firearm infantry and pushed traditional warriors toward administrative roles.",
+      "D": "Wrong: the samurai persisted as a hereditary class throughout the Tokugawa period; they changed function, not existence."
+    },
+    "options": [
+      "(A) The growing battlefield dominance of heavily armored noble cavalry.",
+      "(B) The abandonment of firearms by the Ottoman army.",
+      "(C) The rise of firearm infantry such as janissary musketeers, and the gradual transformation of warriors like the samurai into peacetime administrators.",
+      "(D) The total disappearance of Japan's hereditary warrior class and its complete replacement by armies of peasant conscript soldiers by the year 1600."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The spread of gunpowder weaponry most directly contributed to which of the following changes among these military elites?",
+    "stimulus": "Three military elites, c. 1600-1700. Ottoman janissaries: Christian-born converts armed with muskets and artillery, paid in cash from the central treasury. Safavid ghulams: Georgian and Armenian converts organized by Shah Abbas into musketeer and artillery corps loyal to the shah. Tokugawa samurai: a hereditary warrior class that, under two centuries of peace, increasingly served as domain bureaucrats and scholars rather than battlefield soldiers.",
+    "stimulus_words": 63,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The janissaries repeatedly mutinied and removed sultans who threatened their privileges — the classic kingmaker problem: the force that protects the throne can also seize it.",
+    "id": "wh-fresh-u3-038",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: janissary revolts deposing sultans are direct evidence of military elites becoming kingmakers.",
+      "B": "Wrong: an 'unbroken record of obedience' would weaken, not support, the claim — and it is historically false.",
+      "C": "Wrong: the samurai did not disband in 1603; the Tokugawa period was just beginning.",
+      "D": "Wrong: the ghulams were firearm troops by design, as the passage states."
+    },
+    "options": [
+      "(A) Janissary revolts that deposed Ottoman sultans, demonstrating that the sultan's own troops could overthrow him.",
+      "(B) The janissaries' unbroken record of perfect obedience to every sultan throughout the entire long span of Ottoman history.",
+      "(C) The samurai's voluntary disbandment of their class in 1603.",
+      "(D) The ghulams' refusal to adopt firearms."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that rulers who created loyal military elites also had to guard against those elites becoming kingmakers. Which of the following would best support this claim?",
+    "stimulus": "Three military elites, c. 1600-1700. Ottoman janissaries: Christian-born converts armed with muskets and artillery, paid in cash from the central treasury. Safavid ghulams: Georgian and Armenian converts organized by Shah Abbas into musketeer and artillery corps loyal to the shah. Tokugawa samurai: a hereditary warrior class that, under two centuries of peace, increasingly served as domain bureaucrats and scholars rather than battlefield soldiers.",
+    "stimulus_words": 63,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Timars, zamindars, and intendants look different, but all answered the same fiscal-military problem: turning peasant agriculture into money and soldiers for the central state.",
+    "id": "wh-fresh-u3-039",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: two of the three systems worked through intermediaries; none eliminated them.",
+      "B": "Wrong: all three taxed land, not overseas trade.",
+      "C": "Wrong: timar holders were a military landholding class; the nobility's role was reshaped, not abolished.",
+      "D": "Right: each system channeled agrarian surplus to the state to fund armies and administration."
+    },
+    "options": [
+      "(A) Each eliminated every intermediary between the ruler and the peasantry, creating a system of direct centralized rule over every village and district.",
+      "(B) Each was funded by taxes on overseas colonial trade.",
+      "(C) Each abolished the nobility's role in government.",
+      "(D) Each was a state's effort to secure reliable land revenue for armies and administration, via grants, intermediaries, or royal bureaucrats."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The three systems in the table are most similar in which of the following ways?",
+    "stimulus": "Text excerpt: land-tax collection systems, c. 1600-1700. Ottoman Empire: timar cavalrymen received land-revenue grants in exchange for military service. Mughal Empire: zamindar intermediaries collected peasant land taxes and remitted a share to the treasury. France: royal intendants, appointed bureaucrats, supervised tax collection in the provinces, bypassing local nobles.",
+    "stimulus_words": 48,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "When the collector keeps the surplus, the incentive is to squeeze. States got predictable income; peasants got unpredictable exactions, which is why revenue disputes sparked so many rural revolts.",
+    "id": "wh-fresh-u3-040",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: intermediary collection was notoriously burdensome; 'no burden' contradicts the economics of the system.",
+      "B": "Right: intermediaries profited from the margin between assessment and extraction, producing over-taxation and unrest.",
+      "C": "Wrong: land taxes continued and grew; nothing was abolished.",
+      "D": "Wrong: the system entrenched local elites rather than removing them."
+    },
+    "options": [
+      "(A) A perfectly efficient and completely honest system of tax collection that placed no real burden whatsoever on the empire's peasant cultivators.",
+      "(B) Short-term state revenue but routine peasant over-taxation, as intermediaries profited by extracting above the official assessment.",
+      "(C) The immediate abolition of all land taxes.",
+      "(D) The complete disappearance of local elites from rural society."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The use of intermediaries such as zamindars and tax farmers most directly produced which of the following consequences?",
+    "stimulus": "Text excerpt: land-tax collection systems, c. 1600-1700. Ottoman Empire: timar cavalrymen received land-revenue grants in exchange for military service. Mughal Empire: zamindar intermediaries collected peasant land taxes and remitted a share to the treasury. France: royal intendants, appointed bureaucrats, supervised tax collection in the provinces, bypassing local nobles.",
+    "stimulus_words": 48,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 3
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "A mosque plus schools, hospital, and soup kitchen did three jobs at once: honored God, served the city, and stamped Suleyman's name on all of it. Legitimation you could pray in, study in, and eat in.",
+    "id": "wh-fresh-u3-041",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: the complex fused piety, public welfare, and an unmistakable display of imperial power.",
+      "B": "Wrong: the complex is a religious and charitable foundation, not a fortification.",
+      "C": "Wrong: the buildings were imperial foundations; the passage stresses they were built at the sultan's expense.",
+      "D": "Wrong: Sinan's great dome consciously rivaled and drew upon Hagia Sophia, not rejected it."
+    },
+    "options": [
+      "(A) Monumental religious architecture let the sultan display piety, provide public services, and make imperial power visible in daily life.",
+      "(B) The complex was designed primarily as a military fortress to defend Istanbul against attack.",
+      "(C) The schools, hospital, and soup kitchen show that religious institutions operated fully independently of the Ottoman state and its officials.",
+      "(D) The complex demonstrates the Ottoman rejection of earlier Byzantine architectural traditions."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about Ottoman imperial power is best supported by the Suleymaniye complex?",
+    "stimulus": "Photograph of the Suleymaniye Mosque in Istanbul, completed in 1557 under Suleyman the Magnificent: the grand domed mosque designed by the architect Sinan, its great dome and four minarets rising above the city on its hilltop site.",
+    "stimulus_words": 37,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Both complexes turned architecture into political theology: enormous, ordered, impossible to ignore, they told every visitor that the dynasty's power was as permanent as stone.",
+    "id": "wh-fresh-u3-042",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: Dejima was an instrument of trade control, not a monument to dynastic glory.",
+      "B": "Wrong: the beard tax was a cultural regulation, not architectural legitimation.",
+      "C": "Right: both used vast ceremonial architecture to center the ruler and display command of resources.",
+      "D": "Wrong: Augsburg was a legal settlement, not a building project."
+    },
+    "options": [
+      "(A) The small Dejima trading post in Nagasaki Bay, which the Tokugawa shogunate used to strictly confine Dutch merchants to a tiny artificial island.",
+      "(B) The Russian beard tax, which regulated the personal appearance of nobles.",
+      "(C) The Forbidden City in Beijing, whose vast palace complex centered the emperor and displayed the dynasty's command of resources and labor.",
+      "(D) The Peace of Augsburg, which settled religious divisions among German princes."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The Suleymaniye complex served Ottoman legitimation in ways most comparable to which of the following?",
+    "stimulus": "Photograph of the Suleymaniye Mosque in Istanbul, completed in 1557 under Suleyman the Magnificent: the grand domed mosque designed by the architect Sinan, its great dome and four minarets rising above the city on its hilltop site.",
+    "stimulus_words": 37,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg",
+    "image_license": "CC BY 4.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Gunpowder weapons were expensive — cannon foundries, powder mills, and paid infantry required treasuries and bureaucracies. That is why the winners of the military revolution were big centralized states: Ottomans, Safavids, Mughals, and their peers.",
+    "id": "wh-fresh-u3-043",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: only centralized states could afford the artillery and standing infantry the new warfare demanded.",
+      "B": "Wrong: the changes described belong to the 1500s-1600s, three centuries before industrial mass production.",
+      "C": "Wrong: standing armies expanded in this period; they were not abolished.",
+      "D": "Wrong: feudal levies declined as gunpowder armies rose — the opposite of the passage."
+    },
+    "options": [
+      "(A) The rise of the gunpowder empires, whose centralized states alone could afford the artillery and standing infantry smaller states and nomads could not.",
+      "(B) The Industrial Revolution's mass production of rifles, cannon, and gunpowder in the vast steam-powered factories of nineteenth-century Europe.",
+      "(C) The abolition of standing armies across early modern Eurasia.",
+      "(D) The return of medieval-style feudal levies as the dominant military force."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "stem": "The military changes described are best understood in the context of which broader development?",
+    "stimulus": "By 1500, bronze cannon and handheld firearms had spread across Eurasia. Fortress walls built to resist catapults crumbled under artillery bombardment, and nomadic horse archers — dominant in warfare for centuries — could not stand against disciplined infantry armed with muskets.",
+    "stimulus_words": 41,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Expensive armies created a fiscal imperative: rulers who could not tax regularly could not fight regularly. The 'military revolution' drove the growth of bureaucracies, intendants, and revenue systems across Eurasia.",
+    "id": "wh-fresh-u3-044",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: costly armies required more revenue and more officials, not less.",
+      "B": "Wrong: standing armies were built for expansion and competition, not for abandoning it.",
+      "C": "Wrong: rulers centralized military finance precisely to escape dependence on feudal lords.",
+      "D": "Right: paying for gunpowder armies forced rulers to build systematic taxation and administration."
+    },
+    "options": [
+      "(A) Sharply reduce taxes and drastically shrink their bureaucracies, administrations, and standing military forces.",
+      "(B) Abandon all attempts at territorial expansion.",
+      "(C) Return military funding to local feudal lords.",
+      "(D) Develop more systematic and intrusive methods of taxation and administration to pay for warfare."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The expansion of standing gunpowder armies most directly caused rulers to:",
+    "stimulus": "Across the period 1450-1750, rulers from France's Louis XIV to the Ottoman sultans and Mughal emperors expanded standing armies equipped with gunpowder weapons — forces far more expensive than the feudal levies and tribal cavalry of earlier centuries.",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 3,
+    "visual_needs_url": false
+  }
+]
