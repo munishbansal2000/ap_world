@@ -86,7 +86,7 @@
   },
   {
     "difficulty": "medium",
-    "explanation": "The chart shows exports rising from roughly 25 percent of world GDP to roughly 60 percent, which is more than a doubling. The dip in 2009 is followed by recovery, and the chart measures merchandise (goods) exports, not a shift to services.",
+    "explanation": "The chart shows trade (exports and imports of goods and services) rising from roughly 25 percent of world GDP to roughly 60 percent, which is more than a doubling. The dip in 2009 is followed by recovery, and the chart measures the overall volume of trade, not a shift to services.",
     "id": "wh-fresh-u9-004",
     "key": "A",
     "option_explanations": {
@@ -104,7 +104,7 @@
     "reasoning": "Continuity and Change",
     "skill": "Claims and Evidence in Sources",
     "stem": "Which claim about economic globalization is best supported by the chart?",
-    "stimulus": "Line chart titled 'World merchandise exports as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
+    "stimulus": "Line chart titled 'World trade (exports and imports of goods and services) as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
     "stimulus_words": 47,
     "themes": [
       "ECN",
@@ -134,7 +134,7 @@
     "reasoning": "Causation",
     "skill": "Claims and Evidence in Sources",
     "stem": "A historian argues that institutions created after World War II laid the groundwork for the trend shown. Which evidence best supports that argument?",
-    "stimulus": "Line chart titled 'World merchandise exports as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
+    "stimulus": "Line chart titled 'World trade (exports and imports of goods and services) as a share of world GDP, 1960-2020.' The line rises from about 25 percent in 1960 to about 60 percent in 2008, dips sharply in 2009, then recovers to near its earlier peak by 2020. Note below: 'Data: World Bank, 2024.'",
     "stimulus_words": 47,
     "themes": [
       "ECN"
