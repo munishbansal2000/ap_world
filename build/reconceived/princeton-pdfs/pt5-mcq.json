@@ -1458,10 +1458,10 @@
     "reasoning": "Causation",
     "skill": "Sourcing and Situation",
     "source_id": "princeton-pdf5-u8-44",
-    "source_stimulus_words": 35,
+    "source_stimulus_words": 14,
     "stem": "The map presents the cable routes as one British system binding London to its Asian empire. Britain's investment in this network best illustrates which of the following about nineteenth-century imperialism?",
-    "stimulus": "Manufacturing as a percentage of gross domestic product (GDP). In 1945: Argentina 24.7, Brazil 17.2, Chile 23.1, Colombia 10.5, Mexico 19.1. In 1980: Argentina 24.7, Brazil 30.2, Chile 22.3, Colombia 18.2, Mexico 24.1.",
-    "stimulus_words": 33,
+    "stimulus": "[Map reconstructed from its caption] A map of British undersea telegraph cables, circa 1870. Bold lines trace the cable routes from Britain across the Mediterranean to Alexandria in Egypt, then overland through Egypt to Suez, down the Red Sea to Aden, and across the Arabian Sea to Karachi and Bombay in India, with onward lines to Madras, Singapore, and Australia; a branch runs up the Persian Gulf. The map presents the whole network as a single British system binding London to its empire in Asia.",
+    "stimulus_words": 85,
     "themes": [
       "ECN",
       "GOV",
