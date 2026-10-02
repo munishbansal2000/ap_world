@@ -1,0 +1,27 @@
+{
+  "id": "leq-12",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    5,
+    6
+  ],
+  "themes": [
+    "SIO",
+    "ECN"
+  ],
+  "target_reasoning_process": "comparison",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1750-c. 1900, Great Britain industrialized early while other states industrialized later, often more rapidly and under different conditions. Develop an argument that compares the processes and social consequences of industrialization in Great Britain and in one other industrializing state in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the global spread of industrial technology, competition among states, different resource endowments, or the social disruptions of urbanization.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Britain's textile mills and coal/steam base vs. Japan's state-led Meiji industrialization, Germany's tariff-protected heavy industry, Russia's railway-driven industrialization under Witte, or the United States' continental scale.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must support explicit comparisons of processes (how industrialization happened) and consequences (urbanization, labor conditions, class formation) in both states.",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Comparison: identifies similarities and differences in both process and consequences, and explains them (e.g., timing, state role, resources).",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Britain's gradual, market-driven industrialization and Japan's rapid, state-directed industrialization produced similar social consequences - crowded cities, harsh factory labor, and new working classes - but differed fundamentally in process: Britain industrialized from commercial advantage over generations, while Japan compressed the transformation into decades through deliberate state policy.",
+  "evidence_directions": "Strong responses compare the same dimensions in both cases (e.g., role of the state, pace, labor conditions) rather than narrating one country then the other. Common pairings: Britain-Japan, Britain-Germany, Britain-Russia, Britain-United States.",
+  "source_inspiration": "princeton-epub: princeton-pt3-leq4 (reworked as comparison)"
+}

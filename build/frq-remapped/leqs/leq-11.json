@@ -1,0 +1,27 @@
+{
+  "id": "leq-11",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    5,
+    6
+  ],
+  "themes": [
+    "SIO",
+    "ECN"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "Industrialization reshaped work, family life, and public life in the eighteenth and nineteenth centuries. Develop an argument that evaluates the extent to which industrialization changed the social and economic roles of women in the period c. 1750-c. 1900.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: pre-industrial gender divisions of labor, the ideology of separate spheres, urbanization, or early feminist and labor movements.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: women in textile mills and domestic service, the 'cult of domesticity,' exclusion from skilled trades and unions, women's education reform, early suffrage and labor organizing, footbinding's decline in China.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to show both change (new wage work, organizing, education) and continuity (domestic ideology, legal subordination, wage gaps).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: evaluates the degree of change in women's roles, weighing new opportunities against persistent constraints.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Industrialization drew unprecedented numbers of women into wage labor and helped spark movements for education and rights, but it did not overturn patriarchal order: the ideology of domesticity, exclusion from skilled and political life, and unequal pay persisted through the century.",
+  "evidence_directions": "Strong responses specify both the new (factory employment, reform movements, shifting family economies) and the persistent (separate spheres, coverture-like legal limits, union exclusion). Answers limited to one country can still score if the evaluation is complete.",
+  "source_inspiration": "fivesteps: fivesteps-frq-006 + fivesteps-frq-040 (merged - overlapping women/industrialization prompts)"
+}

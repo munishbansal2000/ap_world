@@ -1,0 +1,27 @@
+{
+  "id": "leq-14",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    6,
+    7
+  ],
+  "themes": [
+    "SIO",
+    "GOV"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "The nineteenth and twentieth centuries saw major social and political reforms, including labor laws, public health measures, and expanded political rights. Develop an argument that evaluates the extent to which industrialization caused these reforms.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: urbanization and crowded industrial cities, Enlightenment and liberal ideas, mass politics and nationalism, or the crises of the World Wars.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: British Factory Acts and public health laws, trade union legalization, expansion of suffrage, Bismarck's social insurance, Progressive Era reforms, abolition of serfdom in Russia (1861).",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the causal claim (e.g., showing how industrial conditions created pressure for a specific reform, or how a reform had non-industrial causes).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: evaluates industrialization's causal role against other causes such as democratic ideals, wars, religious movements, or elite self-interest.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Industrialization created the conditions - dangerous factories, slum epidemics, and an organized working class - that made reform urgent, but it did not cause reform by itself; democratic ideals, political competition, and the shocks of war were equally necessary to turn industrial grievances into law.",
+  "evidence_directions": "Strong responses link specific industrial conditions to specific reforms while crediting non-industrial causes (e.g., suffrage driven by democratic ideology and wartime service, not factories alone). Listing reforms without causal analysis earns only the examples point.",
+  "source_inspiration": "fivesteps: fivesteps-frq-008"
+}

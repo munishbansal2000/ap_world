@@ -1,0 +1,28 @@
+{
+  "id": "leq-15",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    7,
+    8,
+    9
+  ],
+  "themes": [
+    "SIO",
+    "GOV"
+  ],
+  "target_reasoning_process": "comparison",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the twentieth century, movements for women's equality prompted varied responses from states around the world. Develop an argument that compares how two states responded to movements for women's equality in the period c. 1900-c. 2001.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the global spread of feminist movements, the effects of the World Wars on women's employment, decolonization, or communist and nationalist ideologies.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: suffrage in Britain and the United States, Kemalist reforms in Turkey, the 1949 revolution and the Marriage Law in China, Soviet policies and their Stalin-era reversal, Iran's White Revolution and the 1979 reversal, Indian constitutional equality.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must support an explicit comparison of the two states' responses (policies adopted, motives, extent of change).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Comparison: identifies similarities and differences in state responses and explains them (e.g., ideology, religion, regime type, nationalist goals).",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "Turkey and China both used women's emancipation as tools of state-led modernization, granting suffrage and reforming family law from above, but they differed in durability and depth: Kemalist reforms faced religious and rural resistance that limited their reach, while the Chinese Communist state tied women's liberation to revolution and enforced it more thoroughly, if still incompletely.",
+  "evidence_directions": "Strong responses compare state motives and outcomes directly (e.g., top-down modernization in Turkey vs. revolutionary transformation in China; Western democracies' gradual suffrage vs. communist decrees). Parallel narratives without comparison earn only partial reasoning credit.",
+  "source_inspiration": "princeton-epub: princeton-pt1-leq4"
+}

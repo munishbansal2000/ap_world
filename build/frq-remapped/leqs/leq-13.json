@@ -1,0 +1,26 @@
+{
+  "id": "leq-13",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    6
+  ],
+  "themes": [
+    "GOV",
+    "ECN"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the nineteenth century, European empires pressed into China through trade, diplomacy, and military force. Develop an argument that evaluates the extent to which European imperialism transformed China's government and political order in the period c. 1750-c. 1900.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the Qing dynasty's eighteenth-century strength, the Canton system, European industrial and military advantages, or internal Qing crises (population pressure, rebellions).",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: the Opium Wars and unequal treaties, the Taiping Rebellion, the Self-Strengthening Movement, the Hundred Days' Reform, the Boxer Rebellion, the survival of the Confucian bureaucracy until 1912.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to weigh transformation (treaty ports, reform movements, dynastic weakening) against continuity (bureaucratic persistence, failed reforms, Qing survival).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: evaluates the degree of political transformation, distinguishing imperialism's effects from China's internal crises.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "European imperialism battered the Qing state through defeat, indemnities, and treaty ports, and it provoked serious reform movements, but it did not transform China's political order in the nineteenth century: the Confucian bureaucracy survived, reforms were defeated or superficial, and the dynasty's deepest wounds came from internal rebellion.",
+  "evidence_directions": "Strong responses separate external pressure (Opium Wars, spheres of influence) from internal crisis (Taiping, population strain) and judge which mattered more for political change. The Qing's fall in 1912 lies just outside the period and should not anchor the argument.",
+  "source_inspiration": "princeton-epub: princeton-pt3-leq2"
+}
