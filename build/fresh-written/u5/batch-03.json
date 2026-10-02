@@ -1,0 +1,293 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "With the Spanish king a French prisoner, Americans could claim sovereignty 'in the king's name' through local juntas. When Ferdinand returned in 1814 and tried to rule absolutely, those juntas chose full independence. The map's 1810–1825 clustering follows directly from the Peninsular War.",
+    "id": "wh-fresh-u5-021",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Britain never invaded South America; it traded with and eventually recognized the new republics.",
+      "B": "Correct. The 1808 crisis of legitimacy is the trigger visible in the map's timing.",
+      "C": "Wrong. The United States did not finance or arm the independence armies.",
+      "D": "Wrong. Enlightenment ideas mattered, but the wars began with a concrete political crisis, not books alone."
+    },
+    "options": [
+      "(A) British armies invaded South America and installed the independence leaders",
+      "(B) Napoleon's 1808 invasion of Spain deposed Ferdinand VII, creating a crisis of legitimacy that creole juntas exploited",
+      "(C) The United States financed and armed all the independence armies",
+      "(D) Enlightenment books alone caused the wars, spreading so widely that no political crisis or triggering event was needed at all"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "Which development best explains why Spanish American independence movements began when they did?",
+    "stimulus": "Map: 'Latin American independence, 1810–1825.' Shows Mexico (Hidalgo's revolt 1810; independence 1821 under Iturbide), Gran Colombia (Bolívar; Boyacá 1819), Peru (San Martín enters Lima 1821), the Andes crossing (San Martín, 1817) and Maipú (1818) in Chile, and Brazil (independence 1822 under Pedro I). Arrows trace Bolívar's northern campaigns and San Martín's southern campaigns; a star marks their Guayaquil meeting, 1822.",
+    "stimulus_words": 60,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Bolívar, San Martín, and Iturbide were American-born elites seeking political power, not social revolution. Unlike Haiti — where the enslaved destroyed the plantation order — Spanish American independence transferred power from peninsulares to creoles while slavery, debt peonage, and great estates endured.",
+    "id": "wh-fresh-u5-022",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Most Spanish American republics retained slavery for decades after independence.",
+      "B": "Wrong. The movements were led by creole elites, not by enslaved people.",
+      "C": "Wrong. The map shows lasting new states across the continent.",
+      "D": "Correct. Elite leadership explains the conservative social outcome."
+    },
+    "options": [
+      "(A) they abolished slavery immediately and completely at the moment of independence in every new Spanish American republic without exception",
+      "(B) they were led by enslaved people who overthrew the planter class",
+      "(C) they produced no lasting independent states",
+      "(D) they were led by creole elites who broke with Spain but largely preserved slavery and the colonial social hierarchy"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "Compared with the Haitian Revolution, the Spanish American independence movements were distinctive in that:",
+    "stimulus": "Map: 'Latin American independence, 1810–1825.' Shows Mexico (Hidalgo's revolt 1810; independence 1821 under Iturbide), Gran Colombia (Bolívar; Boyacá 1819), Peru (San Martín enters Lima 1821), the Andes crossing (San Martín, 1817) and Maipú (1818) in Chile, and Brazil (independence 1822 under Pedro I). Arrows trace Bolívar's northern campaigns and San Martín's southern campaigns; a star marks their Guayaquil meeting, 1822.",
+    "stimulus_words": 60,
+    "themes": [
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Montesquieu's distinctive contribution was the separation of powers as a guard against tyranny; the Constitution's three-branch design is its direct application. Locke's influence shows in consent and rights language, but the structural claim points to Montesquieu.",
+    "id": "wh-fresh-u5-023",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The three-branch structure is Montesquieu's signature idea made institutional.",
+      "B": "Wrong. This is Locke's language of consent — it supports Locke's influence, not Montesquieu's.",
+      "C": "Wrong. The Constitution created no monarchy; this describes a different system entirely.",
+      "D": "Wrong. Locke died in 1704, more than eighty years before the Convention."
+    },
+    "options": [
+      "(A) The Constitution divides the federal government into legislative, executive, and judicial branches, matching Montesquieu's three powers",
+      "(B) The Declaration of Independence says governments derive their 'just powers from the consent of the governed,' which is Locke's central political idea",
+      "(C) The Constitution established a hereditary monarchy with a prime minister",
+      "(D) Locke personally advised the delegates at the Constitutional Convention"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that the United States Constitution's structure reflects Montesquieu's influence more directly than Locke's. Which evidence best supports this claim?",
+    "stimulus": "A) John Locke, Second Treatise of Government (1689): 'Men being by nature all free, equal, and independent, no one can be put out of this estate and subjected to the political power of another without his own consent.' B) Montesquieu, The Spirit of the Laws (1748): 'There would be an end of everything, were the same man or the same body to exercise the powers of enacting laws, executing public resolutions, and trying causes of individuals.'",
+    "stimulus_words": 76,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "American founders quoted Locke on consent and built Montesquieu's separated powers into the Constitution. French revolutionaries, especially Jacobins, invoked Rousseau's general will to justify popular sovereignty. The Enlightenment was a toolbox, and different revolutions reached for different tools.",
+    "id": "wh-fresh-u5-024",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The two revolutions emphasized different thinkers and produced different institutions.",
+      "B": "Wrong. Rousseau had no hand in the American Constitution; he died in 1778.",
+      "C": "Correct. The pairing shows the Enlightenment's internal variety mapped onto different revolutions.",
+      "D": "Wrong. Enlightenment ideas were the revolutions' shared vocabulary, not their enemy."
+    },
+    "options": [
+      "(A) American and French revolutionaries drew on an identical set of Enlightenment ideas",
+      "(B) Rousseau wrote the American Constitution while Locke wrote French laws",
+      "(C) different Enlightenment thinkers supplied different revolutions: Locke's consent and Montesquieu's checks shaped America, while Rousseau's general will shaped France",
+      "(D) Enlightenment thinkers uniformly opposed all revolutions"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The pairing of these two excerpts best illustrates which broader pattern of the revolutionary era?",
+    "stimulus": "A) John Locke, Second Treatise of Government (1689): 'Men being by nature all free, equal, and independent, no one can be put out of this estate and subjected to the political power of another without his own consent.' B) Montesquieu, The Spirit of the Laws (1748): 'There would be an end of everything, were the same man or the same body to exercise the powers of enacting laws, executing public resolutions, and trying causes of individuals.'",
+    "stimulus_words": 76,
+    "themes": [
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "1848 saw revolutions across Europe demanding constitutions and rights; in America, many Seneca Falls organizers — like Lucretia Mott and Elizabeth Cady Stanton — came straight from abolitionist activism. The convention applied the era's democratic language to women.",
+    "id": "wh-fresh-u5-025",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Women's suffrage was not won until 1920, seventy-two years later.",
+      "B": "Correct. The 1848 timing and the abolitionist roots of the organizers place it in a transatlantic democratic moment.",
+      "C": "Wrong. Factory acts regulated hours and child labor; they did not address women's political rights.",
+      "D": "Wrong. The organizers, rhetoric, and timing all tie it to wider reform currents."
+    },
+    "options": [
+      "(A) the achievement of women's suffrage, which the 1848 convention was celebrating as a recently completed national victory for women across the United States",
+      "(B) the transatlantic revolutionary year of 1848, when democratic demands swept Europe and American reformers drew on abolitionist networks",
+      "(C) British factory acts, which had already solved women's workplace problems",
+      "(D) an isolated American event with no connection to wider reform movements"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "stem": "The Seneca Falls convention is best understood in the context of:",
+    "stimulus": "We hold these truths to be self-evident: that all men and women are created equal. The history of mankind is a history of repeated injuries and usurpations on the part of man toward woman, having in direct object the establishment of an absolute tyranny over her. — Declaration of Sentiments, Seneca Falls, New York, 1848",
+    "stimulus_words": 55,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The Sentiments follows the 1776 template point for point: the self-evident truths preamble, then a list of grievances ('the history of mankind is a history of repeated injuries...'). The mimicry was the argument — if 1776 justified rebellion against tyranny, the same logic condemned men's 'absolute tyranny' over women.",
+    "id": "wh-fresh-u5-026",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The borrowed structure and phrasing are the evidence of deliberate echoing.",
+      "B": "Wrong. The 1776 signers were long dead; Seneca Falls was a new generation.",
+      "C": "Wrong. The convention demanded women's rights, not a second war with Britain.",
+      "D": "Wrong. The document is in English and addressed to Americans."
+    },
+    "options": [
+      "(A) It copies the 1776 structure and phrasing — 'We hold these truths to be self-evident' — substituting 'men and women' for 'men'",
+      "(B) It was signed by several signers of the 1776 Declaration",
+      "(C) It demanded a second full political independence from Britain, seventy years after the first one, complete with a new Continental Congress",
+      "(D) It was written in French to honor Lafayette"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims the Declaration of Sentiments deliberately echoed the 1776 Declaration of Independence. Which evidence best supports this claim?",
+    "stimulus": "We hold these truths to be self-evident: that all men and women are created equal. The history of mankind is a history of repeated injuries and usurpations on the part of man toward woman, having in direct object the establishment of an absolute tyranny over her. — Declaration of Sentiments, Seneca Falls, New York, 1848",
+    "stimulus_words": 55,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Steam power let owners gather hundreds of workers and machines under one roof, breaking from the putting-out system. The image shows the factory system's essentials: centralized machinery, supervised labor, and child workers — the social world industrialization created.",
+    "id": "wh-fresh-u5-027",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The factory system destroyed artisan independence; artisans became wage workers.",
+      "B": "Wrong. Factories drove explosive urban growth as workers moved to mill towns.",
+      "C": "Wrong. The machines required constant tending — the image is full of human workers.",
+      "D": "Correct. Concentration, supervision, and machine discipline are exactly what the engraving depicts."
+    },
+    "options": [
+      "(A) The growth of independent artisan workshops",
+      "(B) The decline of cities as workers returned to farms",
+      "(C) The replacement of human labor by fully automatic machinery",
+      "(D) The concentration of workers in large factories under machine-driven discipline, creating a new industrial working class"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "This image best illustrates which effect of early industrialization?",
+    "stimulus": "Engraving: 'Interior of a Lancashire cotton mill, c. 1830.' A large multi-story room is filled with rows of spinning mules; dozens of workers, including small children, tend the machines while overseers watch. Tall windows light the floor; leather belts and iron drive shafts run overhead from a central steam engine.",
+    "stimulus_words": 50,
+    "themes": [
+      "ECN",
+      "TEC",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "After losing Greece and facing Egyptian and Russian threats, Ottoman statesmen concluded the empire must adopt European-style administration, law, and armies to survive. The Tanzimat was defensive modernization — reform to preserve the state, not revolution to remake it.",
+    "id": "wh-fresh-u5-028",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The Ottomans were losing — to Russia, to Egypt's Mehmet Ali, and to Greek nationalists.",
+      "B": "Wrong. The reforms were secularizing and Westernizing, not a return to strict religious law.",
+      "C": "Correct. Defeat and nationalist secession are the context that made reform urgent.",
+      "D": "Wrong. The French Revolution never touched Ottoman territory; the sultan remained in power."
+    },
+    "options": [
+      "(A) the Ottoman Empire's unbroken string of military victories over the European powers, including Russia, throughout the early 19th century",
+      "(B) a religious movement to restore strict Islamic law across the empire",
+      "(C) Ottoman military defeats, nationalist secessions such as Greece (1821–30), and European pressure to modernize or collapse",
+      "(D) the French Revolution's direct overthrow of the Ottoman sultan"
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "stem": "The Tanzimat reforms are best understood in the context of:",
+    "stimulus": "In 1839 the Ottoman sultan proclaimed the Gülhane Edict, promising security of life and property, fairer taxation, regular military conscription, and equality before the law for all subjects regardless of religion. The edict opened the Tanzimat ('reorganization') era of Ottoman reform.",
+    "stimulus_words": 41,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Hidalgo was captured and executed within a year, and his successor Morelos too. When independence finally came, it was Iturbide's conservative bargain with Spanish officials — keeping the army, the Church, and inequality intact. The image's peasant army fought; the creole elite inherited.",
+    "id": "wh-fresh-u5-029",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Peasant-led revolts were crushed; independence was secured by creole officers.",
+      "B": "Correct. The sequence shows popular energy being captured and redirected by elites.",
+      "C": "Wrong. Spain fought Mexican independence for eleven years; nothing was voluntary.",
+      "D": "Wrong. Peasants gained no land; the hacienda system survived independence."
+    },
+    "options": [
+      "(A) Indigenous peasants themselves personally led every Latin American independence movement to final military victory across the continent",
+      "(B) Popular revolts opened the crisis, but creole elites steered independence toward outcomes that preserved the social hierarchy",
+      "(C) Spain voluntarily granted Mexico independence after Hidalgo's speech",
+      "(D) Mexican independence immediately gave land to the peasants who fought for it"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "stem": "Hidalgo's revolt began as a mass peasant uprising, yet Mexican independence (1821) was finally secured by the creole officer Agustín de Iturbide. This sequence best illustrates which broader pattern?",
+    "stimulus": "Mural detail (20th-century, based on 19th-century prints): Miguel Hidalgo, a parish priest in a black cassock, rings a church bell before a crowd of Indigenous peasants armed with machetes, spears, and farm tools; a banner of the Virgin of Guadalupe flies above them. Caption: 'El Grito de Dolores, September 16, 1810.'",
+    "stimulus_words": 51,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": true
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Independence leaders were landowners and officers whose fortunes rested on forced labor. They wanted political independence from Spain, not a social revolution that might turn against them — so slavery endured for decades and great estates stayed intact.",
+    "id": "wh-fresh-u5-030",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Elite self-interest in the existing labor system is the mechanism that preserved hierarchy.",
+      "B": "Wrong. European powers did not intervene militarily to impose social structures on the new republics.",
+      "C": "Wrong. Bolívar's egalitarian decrees were largely ignored or reversed; equality was not achieved.",
+      "D": "Wrong. A clear social order survived — estates, peonage, and slavery persisted."
+    },
+    "options": [
+      "(A) Creole leaders depended on forced labor for their wealth and feared empowering the Indigenous, enslaved, and mixed-race majority",
+      "(B) European powers militarily imposed the old colonial hierarchy on the new republics",
+      "(C) Bolívar decreed full social equality and it was completely achieved",
+      "(D) The wars destroyed the colonial economy so totally that plantations, mines, and cities all vanished and no social order of any kind survived"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "Which of the following best explains why Latin American independence preserved much of the colonial social hierarchy?",
+    "stimulus": "Simón Bolívar, who freed much of South America, grew embittered by the 1820s: the new republics kept slavery, the Catholic Church kept its privileges, and caudillos — military strongmen — seized power. 'We have plowed the sea,' he reportedly said near the end of his life.",
+    "stimulus_words": 46,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5
+  }
+]
