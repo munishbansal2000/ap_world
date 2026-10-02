@@ -1,0 +1,362 @@
+[
+  {
+    "id": "wh-barrons-u5-001",
+    "source_id": "barrons-u5-001",
+    "unit": 5,
+    "stimulus": "Writing in exile in 1815, Simón Bolívar reflected on the future of Spanish America: 'We are a young people... we are, moreover, neither Indian nor European, but a species midway between the legitimate proprietors of this country and the Spanish usurpers.' He struggled to say what form of government such a people could sustain.\n\nThe uncertainty was practical, not just philosophical. Bolívar had seen the first Venezuelan republic collapse into faction and caudillo rule, and he doubted that Spanish America's deeply divided societies — peninsulares, creoles, mestizos, Indigenous peoples, enslaved Africans — could sustain the federal democracies admired in the United States. His answer, eventually, was strong centralized authority: a president for life, a hereditary senate — proposals that alarmed the very liberals who had fought beside him.",
+    "stem": "The author's description of Americans as 'neither Indian nor European, but a species midway' most directly reflects",
+    "options": [
+      "(A) a call for the restoration of the Inca Empire",
+      "(B) an argument that Americans should return to Europe",
+      "(C) a rejection of Enlightenment political ideas",
+      "(D) The emergence of a distinct creole identity"
+    ],
+    "key": "D",
+    "explanation": "Bolívar was giving voice to creole consciousness: American-born Spaniards who were not peninsulares (European-born) yet not Indigenous either, and who felt the Spanish treated them as second-class. That in-between identity became the social foundation of the independence movements.",
+    "option_explanations": {
+      "A": "Wrong. Bolívar was a creole leader, not an advocate of restoring the Inca state.",
+      "B": "Wrong. He was arguing for American self-government, not a return to Europe.",
+      "C": "Wrong. The letter is steeped in Enlightenment ideas about liberty and legitimate government.",
+      "D": "Correct. The 'midway' formulation captures the creole sense of being a distinct American people."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 128,
+    "source_stimulus_words": 231
+  },
+  {
+    "id": "wh-barrons-u5-002",
+    "source_id": "barrons-u5-002",
+    "unit": 5,
+    "stimulus": "In his 1815 'Jamaica Letter,' Simón Bolívar denounced Spain's commercial treatment of its American colonies: they were forbidden to trade with any nation but Spain, forced to buy Spanish goods at Spanish prices, and barred from developing their own industries.\n\nThe system was mercantilism applied across an ocean. Colonial ports could legally receive only Spanish ships; colonists could sell their produce — cacao, sugar, hides — only to Spanish merchants, who resold European manufactures at monopoly prices. Smuggling flourished everywhere — the British and Dutch Caribbean lived off it — but the legal structure funneled colonial wealth to Seville and Cádiz, and colonial grievance with it.",
+    "stem": "The commercial grievance underlying the passage was that Spain",
+    "options": [
+      "(A) encouraged colonial manufacturing that competed with Spanish industry",
+      "(B) forced its colonies to trade only with Spain and buy only Spanish goods",
+      "(C) allowed its colonies complete freedom of trade with all nations",
+      "(D) refused to tax colonial commerce at all"
+    ],
+    "key": "B",
+    "explanation": "Spain ran its empire on mercantilist principles: colonies existed to enrich the mother country. The fleet system and trade monopoly meant Americans could legally buy from and sell to Spain alone — a stranglehold that creole merchants and producers resented bitterly.",
+    "option_explanations": {
+      "A": "Wrong. Spain actively suppressed colonial industries that might compete with its own.",
+      "B": "Correct. The colonial trade monopoly is the textbook mercantilist grievance.",
+      "C": "Wrong. Free trade was precisely what Spain denied its colonies.",
+      "D": "Wrong. Spain taxed colonial trade heavily; revenue was the point of the system."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 106,
+    "source_stimulus_words": 231
+  },
+  {
+    "id": "wh-barrons-u5-003",
+    "source_id": "barrons-u5-003",
+    "unit": 5,
+    "stimulus": "After winning independence for much of northern South America, Simón Bolívar attempted to hold the liberated territories together in a single large republic — Gran Colombia, founded in 1819. Within a decade of his death in 1830, it had broken apart into Venezuela, Colombia, and Ecuador.\n\nThe project collapsed almost as soon as its author died. Regional caudillos — Páez in Venezuela, Flores in Ecuador, Santander in New Granada — pulled their territories out of the union, and by 1831 Gran Colombia was three states. Bolívar died in December 1830, reportedly disillusioned, having watched the continent he liberated fracture along the lines of its colonial administrations and strongmen's ambitions.",
+    "stem": "The political project most closely associated with the author after independence was",
+    "options": [
+      "(A) a restored Spanish viceroyalty loyal to Ferdinand VII",
+      "(B) a permanent pan-American empire under his personal rule",
+      "(C) the annexation of South America by the United States",
+      "(D) The short-lived republic of Gran Colombia"
+    ],
+    "key": "D",
+    "explanation": "Bolívar dreamed of a united Spanish America strong enough to stand beside the great powers. Gran Colombia was his attempt — but regional rivalries and his own authoritarian turn tore it apart. Its collapse into separate states is the central irony of his legacy: the Liberator could free nations but not unite them.",
+    "option_explanations": {
+      "A": "Wrong. Bolívar spent his life fighting Spanish rule, not restoring it.",
+      "B": "Wrong. He sought a republic, not a personal empire, and it did not survive him.",
+      "C": "Wrong. The United States annexed no part of South America.",
+      "D": "Correct. Gran Colombia (1819–1831) was Bolívar's unity project, and its breakup defined his legacy."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 109,
+    "source_stimulus_words": 231
+  },
+  {
+    "id": "wh-barrons-u6-001",
+    "source_id": "barrons-u6-001",
+    "unit": 6,
+    "stimulus": "A painting commemorates the 1896 Battle of Adowa, where Ethiopian forces defeated an Italian invasion. Ethiopia's emperor Menelik II had spent years stockpiling modern rifles and artillery and managed to unite Ethiopia's regional armies — perhaps 100,000 strong — for the battle.",
+    "stem": "Ethiopia's success at Adowa is best explained by which of the following?",
+    "options": [
+      "(A) The absence of any central Ethiopian government",
+      "(B) Modern firearms plus Menelik II's unification of regional forces",
+      "(C) The Italian army's refusal to use modern weapons",
+      "(D) Direct military intervention by Britain on Ethiopia's side"
+    ],
+    "key": "B",
+    "explanation": "Adowa was not a miracle — it was preparation. Menelik bought modern rifles from French and Russian dealers, built up artillery, and forged the fractious regional lords into a single host that outnumbered the Italians. An African state that modernized its military on its own terms could beat a European invader.",
+    "option_explanations": {
+      "A": "Wrong. Menelik's centralizing leadership was essential to assembling the army.",
+      "B": "Correct. Modern arms plus political unity explain the victory.",
+      "C": "Wrong. The Italians were well-armed with modern weapons; they were simply outmaneuvered and outnumbered.",
+      "D": "Wrong. No foreign power fought for Ethiopia; this was an Ethiopian achievement."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 42,
+    "source_stimulus_words": 23
+  },
+  {
+    "id": "wh-barrons-u6-002",
+    "source_id": "barrons-u6-002",
+    "unit": 6,
+    "stimulus": "An Ethiopian painting of the 1896 Battle of Adowa, completed in the 1940s, shows the victorious Ethiopian army in a style resembling religious icons, with Saint George floating above the battle. The 1940s were the years of Italy's second invasion and occupation of Ethiopia (1936–1941).",
+    "stem": "In the context of the 1940s, the painting most likely served to",
+    "options": [
+      "(A) Rally Ethiopian national memory against Italian aggression",
+      "(B) celebrate the Italian conquest of Ethiopia",
+      "(C) document the battle for the Italian military archives in Rome",
+      "(D) promote conversion to Catholicism"
+    ],
+    "key": "A",
+    "explanation": "Painted while Italy was occupying Ethiopia again, the image reached back to 1896 — the first Italian defeat — as proof that Ethiopians had beaten Italy before and could do it again. Commemorative art like this turns a past victory into a resource for present resistance.",
+    "option_explanations": {
+      "A": "Correct. The painting mobilizes the memory of Adowa against the ongoing occupation.",
+      "B": "Wrong. An Ethiopian artist in the 1940s would not celebrate the power occupying his country.",
+      "C": "Wrong. The icon-like style and Ethiopian perspective show this is national commemoration, not enemy documentation.",
+      "D": "Wrong. Saint George here is the patron of Ethiopian Orthodox Christianity, not a Catholic missionary symbol."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 23
+  },
+  {
+    "id": "wh-barrons-u6-003",
+    "source_id": "barrons-u6-003",
+    "unit": 6,
+    "stimulus": "By 1914, only two African states had avoided European colonization: Ethiopia, which defeated Italy at Adowa in 1896, and Liberia, a small West African republic. The two countries' paths to independence could hardly have been more different.",
+    "stem": "Unlike Ethiopia, Liberia avoided colonization mainly because",
+    "options": [
+      "(A) it was hidden from European mapmakers",
+      "(B) Founded by formerly enslaved Americans under U.S. protection",
+      "(C) it defeated a European army in a major pitched battle",
+      "(D) it possessed no natural resources that Europeans wanted"
+    ],
+    "key": "B",
+    "explanation": "Liberia began as a colony of the American Colonization Society, settled by free Black Americans, and declared independence in 1847. Its survival owed less to military strength than to American sponsorship — no European power wanted to seize a state under Washington's informal protection.",
+    "option_explanations": {
+      "A": "Wrong. Liberia was well known to Europeans — that was the point of its American connection.",
+      "B": "Correct. U.S. patronage, not battlefield victory, shielded Liberia.",
+      "C": "Wrong. Liberia fought no Adowa-like battle; its independence was diplomatic.",
+      "D": "Wrong. Liberia had resources Europeans valued; protection, not poverty, saved it."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 37,
+    "source_stimulus_words": 23
+  },
+  {
+    "id": "wh-barrons-u6-004",
+    "source_id": "barrons-u6-004",
+    "unit": 6,
+    "stimulus": "In the early 1800s, Britain bought enormous quantities of Chinese tea, silk, and porcelain — but China bought almost nothing from Britain in return. Silver flowed steadily east to pay for the difference, draining British coffers.",
+    "stem": "Britain's need to sell opium in China arose most directly from which of the following?",
+    "options": [
+      "(A) Chinese government subsidies paid to British merchants",
+      "(B) A British surplus of opium with no other possible buyers",
+      "(C) Strong Chinese popular demand for British textiles",
+      "(D) A persistent British trade deficit with China"
+    ],
+    "key": "D",
+    "explanation": "The opium trade was a solution to a payments problem. Britain's appetite for tea created a hemorrhage of silver to China; selling Indian-grown opium to Chinese smugglers reversed the flow. The drug trade was, at bottom, an answer to the trade imbalance.",
+    "option_explanations": {
+      "A": "Wrong. China subsidized nothing; it restricted foreign trade.",
+      "B": "Wrong. Opium was grown in British India precisely because China was the target market.",
+      "C": "Wrong. China had little interest in British manufactures — that was the problem.",
+      "D": "Correct. The deficit in legal trade drove Britain to an illegal one."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 36,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u6-005",
+    "source_id": "barrons-u6-005",
+    "unit": 6,
+    "stimulus": "Before the Opium Wars, all legal European trade with China funneled through a single port — Guangzhou (Canton) — where a licensed guild of Chinese merchants, the Cohong, handled every transaction with foreigners.",
+    "stem": "This arrangement, known as the Canton system, is best described as",
+    "options": [
+      "(A) an open-door policy welcoming merchants to every Chinese city",
+      "(B) confining foreign merchants to one port and licensed intermediaries",
+      "(C) a complete Chinese ban on all contact with foreigners",
+      "(D) a European-run free-trade zone on the Chinese coast"
+    ],
+    "key": "B",
+    "explanation": "The Qing did not close China, but they controlled contact tightly: one port, one guild of intermediaries, strict rules. The Canton system let China take the profits of trade while minimizing foreign influence — which is exactly what frustrated British merchants.",
+    "option_explanations": {
+      "A": "Wrong. The 'open door' came later, imposed by foreign powers after China's defeats.",
+      "B": "Correct. Single-port trade through the Cohong was the system's defining feature.",
+      "C": "Wrong. Trade was restricted, not banned — Guangzhou did enormous business.",
+      "D": "Wrong. The system was Chinese-run and restrictive, the opposite of a free-trade zone."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 33,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u6-006",
+    "source_id": "barrons-u6-006",
+    "unit": 6,
+    "stimulus": "After losing the Opium Wars of the 1840s and 1850s, China signed a series of 'unequal treaties' with Britain, France, and other powers. Foreigners in the treaty ports lived under their own laws, foreign warships patrolled Chinese rivers, and China lost control of its own tariff rates.",
+    "stem": "The 'unequal treaties' imposed on China included which of the following provisions?",
+    "options": [
+      "(A) Extraterritoriality, exempting foreigners in China from Chinese law",
+      "(B) The complete withdrawal of all foreigners from Chinese territory",
+      "(C) Chinese control over tariffs on foreign goods",
+      "(D) The abolition of the Chinese imperial examination system"
+    ],
+    "key": "A",
+    "explanation": "Extraterritoriality was the humiliating core of the unequal treaties: a Briton accused of a crime in Shanghai would be tried by a British court, not a Chinese one. Combined with fixed low tariffs and foreign gunboats, it hollowed out Qing sovereignty without formal colonization.",
+    "option_explanations": {
+      "A": "Correct. Legal immunity for foreigners symbolized China's lost sovereignty.",
+      "B": "Wrong. Foreigners poured in after the treaties; they did not withdraw.",
+      "C": "Wrong. Treaty tariffs were fixed at low rates favorable to foreigners — China lost tariff autonomy.",
+      "D": "Wrong. The examinations were abolished in 1905 for domestic reasons, not by treaty."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 47,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u6-007",
+    "source_id": "barrons-u6-007",
+    "unit": 6,
+    "stimulus": "A mid-1800s Japanese writer complained that the shogun's government no longer enforced the law requiring 'barbarian ships' to be driven from Japan's coasts: 'Now the English regularly appear and anchor off our shores, and we do not lift a finger to drive them away. Will the barbarians have any respect for our laws?' Men who thought this way — the sonnō jōi ('revere the emperor, expel the barbarian') movement — would help topple the shogunate within a decade, though the Japan they built kept the Western guns they had once denounced.",
+    "stem": "The author's complaint that the shogunate fails to expel foreigners suggests he belonged to which of the following groups?",
+    "options": [
+      "(A) Christian missionaries seeking converts",
+      "(B) Samurai activists of the 'expel the barbarian' movement",
+      "(C) Dutch merchants trading at Nagasaki",
+      "(D) Tokugawa officials defending the shogunate's policies"
+    ],
+    "key": "B",
+    "explanation": "The passage attacks the bakufu for weakness — the classic stance of the sonnō jōi ('revere the emperor, expel the barbarian') loyalists. These samurai activists blamed the shogunate for Japan's humiliation and eventually helped overthrow it in the Meiji Restoration.",
+    "option_explanations": {
+      "A": "Wrong. Missionaries wanted Japan opened to Christianity, not closed to barbarians.",
+      "B": "Correct. Criticism of bakufu weakness toward foreigners is the loyalist signature.",
+      "C": "Wrong. Dutch merchants benefited from trade; they would not demand expulsion of foreigners.",
+      "D": "Wrong. A defender of the shogunate would justify its policies, not denounce them as cowardly."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 91,
+    "source_stimulus_words": 172
+  },
+  {
+    "id": "wh-barrons-u6-008",
+    "source_id": "barrons-u6-008",
+    "unit": 6,
+    "stimulus": "A mid-1800s Japanese writer warned that if Japan kept yielding to Western demands, it would lose the respect of foreigners and the independence of the nation. Japanese readers of the time watched with alarm as China — defeated in the Opium Wars — was forced to open treaty ports and grant foreigners legal immunity. China's fate was the cautionary tale Japanese writers returned to again and again: a great civilization reduced to 'carving the melon' among the powers, its sovereignty shredded by treaties it had signed at gunpoint.",
+    "stem": "The fate the author most feared for Japan was",
+    "options": [
+      "(A) being colonized by Russia alone",
+      "(B) the voluntary conversion of Japan to Christianity",
+      "(C) invasion and conquest by Korea",
+      "(D) Suffering China's fate: defeat and 'unequal treaties'"
+    ],
+    "key": "D",
+    "explanation": "China was the cautionary tale on every Japanese patriot's mind: a great Asian civilization humbled by gunboats and carved into spheres of influence. The author's urgency comes from the belief that Japan would be next unless it acted.",
+    "option_explanations": {
+      "A": "Wrong. Russia was a concern, but the feared pattern was the general Western treaty-port system, exemplified by China.",
+      "B": "Wrong. Christianity was a minor issue compared to the threat to national sovereignty.",
+      "C": "Wrong. Korea posed no such threat to Japan in this period.",
+      "D": "Correct. China's post-Opium War humiliation was the model of what Japan had to avoid."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 88,
+    "source_stimulus_words": 172
+  },
+  {
+    "id": "wh-barrons-u6-009",
+    "source_id": "barrons-u6-009",
+    "unit": 6,
+    "stimulus": "After 1868, Japan's new Meiji government abolished the Tokugawa shogunate, sent students and missions abroad to study Western institutions, built railways and telegraphs, created a conscript army with modern rifles, and opened state-sponsored factories.\n\nThe slogan of the new regime was 'rich country, strong army' — and the program was breathtaking in scope: the feudal domains were abolished and replaced with prefectures, the samurai class was disarmed and pensioned off, universal education was decreed, and a constitution was eventually granted. Within a generation, the country that had been bullied into opening its ports defeated China (1895) and Russia (1905) in war — the first Asian power to beat European empires at their own game.",
+    "stem": "The Meiji government's response to the Western threat is best summarized by which of the following?",
+    "options": [
+      "(A) Abolishing the emperor and declaring a republic",
+      "(B) 'Rich country, strong army': rapid industrialization",
+      "(C) Restoring the Tokugawa policy of complete national seclusion",
+      "(D) Inviting Western powers to govern Japan jointly"
+    ],
+    "key": "B",
+    "explanation": "The Meiji leaders concluded that Japan could resist the West only by adopting its tools: fukoku kyōhei ('rich country, strong army') meant state-led industrialization and a modern military. Within decades Japan had reversed the power dynamic — defeating China in 1895 and Russia in 1905.",
+    "option_explanations": {
+      "A": "Wrong. The emperor was restored as the symbolic center of the new state, not abolished.",
+      "B": "Correct. State-directed modernization was the Meiji answer to the Western challenge.",
+      "C": "Wrong. Seclusion was abandoned; the Meiji era was defined by engagement with the outside world.",
+      "D": "Wrong. Japan modernized to avoid foreign domination, not to invite it."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 114,
+    "source_stimulus_words": 172
+  }
+]

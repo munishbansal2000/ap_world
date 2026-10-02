@@ -1,0 +1,362 @@
+[
+  {
+    "id": "wh-barrons-u3-001",
+    "source_id": "barrons-u3-001",
+    "unit": 3,
+    "stimulus": "A 17th-century Japanese manual for merchants urges readers to live honestly, honor their parents and relatives, treat everyone with courtesy, avoid selfishness, and never lie. It presents commerce as an activity that must be conducted within strict moral bounds, warning that profit pursued without virtue brings disgrace.\n\nThe hierarchy was borrowed from Confucian thought, which ranked occupations by their contribution to society: samurai, who governed, first; then peasants, who grew the food; then artisans, who made things; and last the merchants, who merely moved goods about for profit. In practice, Tokugawa Japan's long peace made merchants indispensable — samurai stipends paid in rice had to be converted to cash, and the great merchant houses of Osaka became the bankers of the warrior class — but the formal ranking never changed, whatever the balance of wealth.",
+    "stem": "The social order assumed by the passage is best described as",
+    "options": [
+      "(A) an egalitarian society with no formal ranks",
+      "(B) A Confucian hierarchy of samurai, peasants, artisans, merchants",
+      "(C) a feudal order based solely on who owned the most land overall",
+      "(D) a caste system determined entirely by ritual purity"
+    ],
+    "key": "B",
+    "explanation": "Tokugawa Japan organized society into the Confucian-inspired shi-nō-kō-shō hierarchy: warriors (samurai) at the top, then peasants, artisans, and merchants at the bottom. The manual's anxious insistence that merchants behave virtuously makes sense in a world where their occupation ranked lowest even as their wealth grew.",
+    "option_explanations": {
+      "A": "Wrong. Tokugawa Japan was one of the most rigidly stratified societies of the early modern world.",
+      "B": "Correct. The passage's moralizing reflects the low formal status of merchants in the Confucian social order.",
+      "C": "Wrong. Landholding mattered, but the formal hierarchy was defined by Confucian occupational categories, not acreage alone.",
+      "D": "Wrong. Ritual purity as the basis of caste is characteristic of India, not Tokugawa Japan."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 135,
+    "source_stimulus_words": 325
+  },
+  {
+    "id": "wh-barrons-u3-002",
+    "source_id": "barrons-u3-002",
+    "unit": 3,
+    "stimulus": "In 17th-century Japan, merchants sat at the bottom of the official social hierarchy — below samurai, peasants, and artisans — because Confucian thought regarded commerce as unproductive. Yet the same merchants grew rich financing the very samurai who outranked them, lending to indebted lords and dominating the rice and money markets of Osaka and Edo.\n\nThe difference shaped two societies. In Europe, wealthy merchants bought titles, married into the nobility, and eventually helped make revolutions — the Dutch and English bourgeoisie claimed political power outright. In Japan, a merchant's money could buy comfort but not status: sumptuary laws restricted what merchants might wear and how grandly they might build, lest their wealth embarrass their social betters. Influence had to be exercised quietly, through loans and ledgers rather than titles and offices.",
+    "stem": "Unlike merchants in early modern Europe, Japanese merchants of this era",
+    "options": [
+      "(A) governed their own independent city-states free of any lord's authority entirely",
+      "(B) were required to serve as soldiers in the samurai armies",
+      "(C) ranked below peasants in the formal social hierarchy despite their growing wealth",
+      "(D) were forbidden to lend money at interest under any circumstances"
+    ],
+    "key": "C",
+    "explanation": "In much of Europe, wealthy merchants converted money into prestige and political power. In Confucian-influenced Japan, the formal order ranked them last — beneath even peasants — no matter how rich they became. Their influence had to operate informally, through moneylending and finance, rather than through recognized status.",
+    "option_explanations": {
+      "A": "Wrong. Independent merchant city-states were a European (especially Italian and German) phenomenon, not a Japanese one.",
+      "B": "Wrong. Military service was the samurai's role; merchants were not soldiers.",
+      "C": "Correct. The shi-nō-kō-shō hierarchy placed merchants lowest, creating a status-wealth mismatch.",
+      "D": "Wrong. Moneylending was central to merchant wealth; it was status, not lending, that was restricted."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 131,
+    "source_stimulus_words": 325
+  },
+  {
+    "id": "wh-barrons-u3-003",
+    "source_id": "barrons-u3-003",
+    "unit": 3,
+    "stimulus": "A 17th-century Japanese manual for merchants urges readers to live honestly, honor their parents, avoid selfishness and ostentation, and accumulate wealth quietly through thrift and modesty — never through aggressive self-promotion or ruthless dealing.\n\nThe manual belongs to a whole genre of Tokugawa merchant writings — house codes and business maxims — that tried to give commerce a moral foundation. Their solution was to redefine the merchant's work in Confucian terms: profit honestly earned through diligence and frugality was not greed but a kind of service, sustaining one's household and fulfilling one's duties to family and community. The merchant could be virtuous precisely by being a good merchant — thrifty, honest, and unostentatious. The manual's moralizing, then, was not hypocrisy but strategy: a way to make peace between the demands of profit and the demands of honor in a society that officially despised both.",
+    "stem": "The tension at the heart of the passage is best described as",
+    "options": [
+      "(A) between loyalty to the shogun and loyalty to the emperor",
+      "(B) between Japanese tradition and Christian missionary teaching",
+      "(C) Between Confucian frugality and the merchant's pursuit of profit",
+      "(D) between Buddhist monastic discipline and the samurai's warrior code"
+    ],
+    "key": "C",
+    "explanation": "The author is a merchant writing for merchants, yet his values are Confucian: modesty, thrift, filial piety. The manual is an attempt to reconcile a profitable occupation with a moral philosophy that distrusted profit-seeking — to be a good merchant and a virtuous Confucian at the same time.",
+    "option_explanations": {
+      "A": "Wrong. The shogun-emperor rivalry is a political question the passage does not address.",
+      "B": "Wrong. Christian missionaries had been expelled from Japan; they play no role here.",
+      "C": "Correct. The passage tries to make commerce morally respectable within a Confucian value system.",
+      "D": "Wrong. Neither Buddhist monks nor samurai warfare are the passage's subject."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 144,
+    "source_stimulus_words": 325
+  },
+  {
+    "id": "wh-barrons-u3-004",
+    "source_id": "barrons-u3-004",
+    "unit": 3,
+    "stimulus": "An illustration from the Baburnama — the memoirs of Babur, founder of the Mughal dynasty — depicts his 1526 victory at the Battle of Panipat over the Sultan of Delhi. Babur's smaller force used field artillery and musketeers, weapons still new to Indian warfare.",
+    "stem": "Babur's victory at Panipat is most often attributed by historians to which of the following?",
+    "options": [
+      "(A) The defection of the Delhi Sultanate's war elephants to his side",
+      "(B) His use of field artillery and muskets combined with mobile cavalry tactics",
+      "(C) His alliance with the Portuguese navy, which bombarded the Sultan's forces",
+      "(D) A much larger army than his opponent's"
+    ],
+    "key": "B",
+    "explanation": "Babur's decisive edge was gunpowder: carts lashed together as field fortifications, musketeers (tufang), and artillery, coordinated with Central Asian cavalry maneuvers. The Delhi Sultan's larger army, built around elephants and traditional cavalry, could not cope with this combination.",
+    "option_explanations": {
+      "A": "Wrong. The Sultan's elephants panicked under artillery fire, but they did not defect to Babur.",
+      "B": "Correct. Panipat is a classic case of gunpowder weapons transforming battlefield outcomes.",
+      "C": "Wrong. Portugal had no alliance with Babur and played no role at Panipat.",
+      "D": "Wrong. Babur was significantly outnumbered; technology and tactics, not numbers, decided the battle."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 44,
+    "source_stimulus_words": 23
+  },
+  {
+    "id": "wh-barrons-u3-005",
+    "source_id": "barrons-u3-005",
+    "unit": 3,
+    "stimulus": "The Baburnama illustrations were painted in the imperial workshop of Akbar — Babur's grandson — decades after the events they depict. Court artists produced them as part of a lavish illustrated copy of the founder's memoirs, made for the emperor's library.",
+    "stem": "This context suggests the illustrations were intended mainly to",
+    "options": [
+      "(A) glorify the dynasty's founder and legitimize Mughal rule",
+      "(B) provide accurate military manuals for Mughal generals",
+      "(C) document the daily life of common soldiers",
+      "(D) criticize Babur's reliance on foreign gunners"
+    ],
+    "key": "A",
+    "explanation": "Imperial workshops produced art that served the throne. An illustrated life of the dynasty's founder, commissioned by his grandson, presented Babur as a heroic figure — which in turn made Akbar's own rule look like the continuation of a glorious lineage. Court chronicles were instruments of legitimation.",
+    "option_explanations": {
+      "A": "Correct. Dynastic histories commissioned by rulers advertise the dynasty's greatness.",
+      "B": "Wrong. These are narrative court paintings, not technical military handbooks.",
+      "C": "Wrong. The focus is on Babur and his deeds, not the everyday experience of ordinary soldiers.",
+      "D": "Wrong. Nothing in the court context suggests criticism of the founder; the tone is celebratory."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 41,
+    "source_stimulus_words": 23
+  },
+  {
+    "id": "wh-barrons-u3-006",
+    "source_id": "barrons-u3-006",
+    "unit": 3,
+    "stimulus": "Babur wrote his memoirs in Chagatai Turkic, the language of his Central Asian homeland. A generation later, his grandson Akbar's court conducted administration in Persian, the prestigious literary language of Islamic civilization, while ruling a largely non-Muslim Indian population.",
+    "stem": "This combination best illustrates",
+    "options": [
+      "(A) the Mughals' complete rejection of everything Persian",
+      "(B) the spread of Arabic as India's common administrative tongue",
+      "(C) the Mughal court's adoption of Sanskrit for government business",
+      "(D) Turkic Central Asian origins layered with Persianate court culture"
+    ],
+    "key": "D",
+    "explanation": "The Mughals were Timurid Turks from Central Asia who ruled India in a Persianate idiom — Persian administration, Persian poetry, Persian-style miniature painting. Babur's Turkic memoirs and Akbar's Persian court show two cultural layers coexisting: the dynasty's steppe origins and the high culture it adopted.",
+    "option_explanations": {
+      "A": "Wrong. The Mughals embraced Persian culture; they did not reject it.",
+      "B": "Wrong. Arabic was a religious and scholarly language, not the Mughal administrative tongue.",
+      "C": "Wrong. Sanskrit was not the language of Mughal government.",
+      "D": "Correct. Mughal culture fused Turkic roots with the Persianate traditions of Islamic civilization."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 39,
+    "source_stimulus_words": 23
+  },
+  {
+    "id": "wh-barrons-u4-001",
+    "source_id": "barrons-u4-001",
+    "unit": 4,
+    "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nThe description inverts the traditional story of inevitable European dominance. In the 1600s, the Dutch at New Amsterdam and the English at Jamestown and Plymouth depended on Indigenous trade, Indigenous food, and Indigenous alliances for survival — and Indigenous nations played the rival colonies against each other. European power in North America was, for most of the century, a marginal affair conducted on Indigenous terms.",
+    "stem": "The passage's description implies which of the following about power relations in 1600s North America?",
+    "options": [
+      "(A) Indigenous peoples had been entirely displaced from all coastal regions",
+      "(B) European colonies were economically self-sufficient from the moment of founding",
+      "(C) Indigenous nations often held the balance of power, and Europeans depended on their alliances",
+      "(D) Europeans quickly established unchallenged military dominance over the whole continent"
+    ],
+    "key": "C",
+    "explanation": "The passage reverses the usual picture: it is the Europeans who are weak, confined to enclaves, while Indigenous politics 'determined events and outcomes.' In the 1600s, groups like the Iroquois, Powhatans, and Pueblos were the dominant powers in their regions, and colonists survived by navigating Indigenous alliances.",
+    "option_explanations": {
+      "A": "Wrong. Indigenous peoples remained the demographic and political majority in most regions.",
+      "B": "Wrong. Early colonies depended heavily on Indigenous food, knowledge, and trade.",
+      "C": "Correct. The passage describes a world where Native nations set the terms and Europeans adapted.",
+      "D": "Wrong. Unchallenged European dominance came much later; the passage describes European weakness."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 111,
+    "source_stimulus_words": 120
+  },
+  {
+    "id": "wh-barrons-u4-002",
+    "source_id": "barrons-u4-002",
+    "unit": 4,
+    "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nOlder histories told the colonial story from the colonists' viewpoint: Europeans acting, Indigenous peoples reacting. Since the 1980s, ethnohistorians — Richard White's 'middle ground' is the landmark study — have reconstructed the encounter as a negotiation between powers, in which Native nations were often the stronger party. The passage's language of European weakness and Indigenous primacy is the signature of that revisionist turn.",
+    "stem": "The author's interpretation reflects which broader shift in the writing of colonial history?",
+    "options": [
+      "(A) From passive victims to political agents",
+      "(B) From economic explanations of colonization to purely military ones",
+      "(C) From local studies to histories focused only on European diplomacy",
+      "(D) From archaeological evidence to exclusively written records"
+    ],
+    "key": "A",
+    "explanation": "Older histories often cast Native Americans as a tragic backdrop to European expansion. The newer scholarship represented here restores them as central political actors — diplomats, strategists, and power-brokers whose decisions shaped colonial outcomes.",
+    "option_explanations": {
+      "A": "Correct. The passage exemplifies the 'agency' turn in Native American history.",
+      "B": "Wrong. The passage blends political and economic analysis; it does not abandon economics for military history.",
+      "C": "Wrong. The passage decenters European diplomacy rather than focusing on it.",
+      "D": "Wrong. The shift described is interpretive, not a change in the type of evidence used."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 109,
+    "source_stimulus_words": 120
+  },
+  {
+    "id": "wh-barrons-u4-003",
+    "source_id": "barrons-u4-003",
+    "unit": 4,
+    "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nThe author's case rests on evidence of Indigenous leverage: the fur trade's dependence on Native hunters and middlemen, the colonists' reliance on Native food in early years, and the diplomatic record showing Native nations extracting concessions from competing European powers. Archaeology has added its own testimony — the scale and sophistication of pre-contact Native societies — undermining the older image of a sparsely peopled wilderness awaiting European energy.",
+    "stem": "Which of the following pieces of evidence would most strengthen the author's interpretation?",
+    "options": [
+      "(A) Records of Dutch officials complaining that they could not control Iroquois diplomacy",
+      "(B) A census showing rapid growth in the European colonial population",
+      "(C) A European map claiming vast interior territories for a colonial charter company",
+      "(D) A sermon praising the work of colonial missionaries"
+    ],
+    "key": "A",
+    "explanation": "The author's claim is about the limits of European power. Direct testimony from frustrated colonists — admitting they could not dictate terms to Indigenous nations — would confirm exactly that dynamic. Claims on a map show ambition, not control.",
+    "option_explanations": {
+      "A": "Correct. Colonial admissions of powerlessness directly support the interpretation.",
+      "B": "Wrong. Population growth alone does not show who held political power.",
+      "C": "Wrong. A map asserts claims; it does not prove those claims were effective.",
+      "D": "Wrong. Missionary self-praise says nothing about the balance of political power."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 114,
+    "source_stimulus_words": 120
+  },
+  {
+    "id": "wh-barrons-u3-007",
+    "source_id": "barrons-u3-007",
+    "unit": 3,
+    "stimulus": "Two travelers describe royal courts they visited in the 1500s. One, a North African writing in Italy, describes the king of Timbuktu's magnificent, well-ordered court, where visitors must kneel and bow before the king. The other, a Habsburg ambassador, describes the Ottoman sultan's court in similar terms of elaborate ceremony and strict protocol around the ruler's person.\n\nThe two authors could hardly have differed more. The first was Leo Africanus — born al-Hasan al-Wazzan in the Muslim world, captured by Christian corsairs, presented to Pope Leo X, baptized, and set to describing Africa for Italian readers. The second was Ogier de Busbecq, the Habsburg emperor's ambassador to the court of Süleyman the Magnificent, writing letters home to friends in the Netherlands. Each described wonders his readers had never seen — and each, inevitably, translated what he saw into terms his readers would recognize, filtering foreign courts through familiar categories. Historians now read such accounts the way the authors' contemporaries could not — not as transparent windows onto foreign courts, but as documents of the encounter itself, shaped as much by the traveler's baggage as by what he witnessed.",
+    "stem": "Both passages are travelers' descriptions of foreign courts. A historian comparing them should keep in mind that such accounts",
+    "options": [
+      "(A) never describe ceremonies accurately",
+      "(B) were written mainly for the rulers they describe",
+      "(C) Blend observation with cultural expectations",
+      "(D) are always more reliable than official court records"
+    ],
+    "key": "C",
+    "explanation": "Travelers see through the lens of home. The North African convert writing for an Italian audience and the Habsburg ambassador judging the Ottomans against European courts both filter what they witness — noticing what surprises them, missing what seems normal, and shaping details for readers back home. Their accounts are valuable but never transparent windows.",
+    "option_explanations": {
+      "A": "Wrong. 'Never' is far too strong — travelers often recorded ceremonies carefully.",
+      "B": "Wrong. These accounts were written for audiences at home, not for the rulers described.",
+      "C": "Correct. Cross-cultural observation always mixes reporting with interpretation.",
+      "D": "Wrong. No source type is automatically more reliable; each must be evaluated on its own."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 188,
+    "source_stimulus_words": 455
+  },
+  {
+    "id": "wh-barrons-u3-008",
+    "source_id": "barrons-u3-008",
+    "unit": 3,
+    "stimulus": "The first author was born a Muslim in North Africa, was captured and taken to Italy, converted to Christianity, and wrote his description of Timbuktu in Italian for a European readership. His account mixes admiration for the city's learning and order with matter-of-fact notes on practices — such as the enslavement of captives — that might disturb his readers.\n\nHis 'Description of Africa' (1526) became Europe's standard reference on the continent for two centuries — which is why modern historians handle it with care. It is among the earliest detailed accounts of Timbuktu's wealth, scholarship, and trade, and it is irreplaceable. But it was written by a North African Muslim turned Christian convert in Rome, explaining his former world to patrons who had never left Italy. What he emphasized, what he softened, and what he left out all bear the marks of that in-between position: admiration for Islamic learning sits alongside notes, offered almost in passing, on practices his readers would find disturbing. The lesson for historians is a general one: the most valuable sources are often those written from inside two worlds at once — and those are precisely the sources that must be read with the author's divided loyalties in mind.",
+    "stem": "The author's background matters to a historian mainly because it",
+    "options": [
+      "(A) makes his account worthless for studying West Africa",
+      "(B) Raises questions about his intended audience",
+      "(C) proves that everything he wrote about Timbuktu was invented",
+      "(D) shows that he could not speak any African languages"
+    ],
+    "key": "B",
+    "explanation": "Leo Africanus wrote between two worlds: his North African experience and his Italian Christian audience. Knowing this, a historian asks which details he emphasized, softened, or explained for readers in Rome — not to dismiss him, but to read him critically. Sourcing means asking who is speaking and to whom.",
+    "option_explanations": {
+      "A": "Wrong. His account remains one of the most important early descriptions of the region.",
+      "B": "Correct. Audience shapes emphasis; the author's in-between position is the key sourcing question.",
+      "C": "Wrong. A complicated background is a reason for careful reading, not for assuming fabrication.",
+      "D": "Wrong. He was North African-born and traveled widely; there is no basis for this claim."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 203,
+    "source_stimulus_words": 455
+  },
+  {
+    "id": "wh-barrons-u3-009",
+    "source_id": "barrons-u3-009",
+    "unit": 3,
+    "stimulus": "The Habsburg ambassador to the Ottoman court wrote disapprovingly of the sultan's haughty manner — yet he expressed open admiration for one Ottoman practice: that men of humble birth could rise to the highest offices through talent and service, unlike in his own empire, where noble birth decided nearly everything.\n\nBusbecq spelled out the contrast for his readers at home: in the Ottoman Empire, he wrote, a man was judged by his merit, so that 'those who hold the highest offices' had often risen from shepherds' huts — while in his own world, birth decided everything and talent went begging. His favorite example was Ibrahim Pasha, the shepherd's son who became Süleyman's grand vizier. Whether the Ottoman system was quite as open as Busbecq claimed is debated — the devshirme levy that fed it was itself a form of bondage — but his admiration reveals as much about Habsburg frustrations with hereditary privilege as about Ottoman realities. The devshirme system behind the meritocracy — the periodic levy of Christian boys, converted to Islam and trained for imperial service — complicates the admiring picture: mobility purchased, for some, at the price of freedom.",
+    "stem": "The author's admiration centers on which feature of the Ottoman system?",
+    "options": [
+      "(A) The sultan's personal modesty and humility",
+      "(B) The exclusion of Christians from all government offices",
+      "(C) The absence of any standing army",
+      "(D) Advancement by merit and service rather than birth"
+    ],
+    "key": "D",
+    "explanation": "What struck the ambassador was Ottoman meritocracy: through the devshirme levy and palace service, even a shepherd's son could become a grand vizier. Coming from a Habsburg world of hereditary aristocracy, he found this both startling and — grudgingly — admirable.",
+    "option_explanations": {
+      "A": "Wrong. He found the sultan personally haughty; modesty is not what he admired.",
+      "B": "Wrong. Christians entered Ottoman service through the devshirme; they were not excluded.",
+      "C": "Wrong. The Janissaries were a standing professional army — one of the empire's defining institutions.",
+      "D": "Correct. Merit-based advancement is exactly what the ambassador praises."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 192,
+    "source_stimulus_words": 455
+  }
+]

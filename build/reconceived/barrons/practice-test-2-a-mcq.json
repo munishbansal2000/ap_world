@@ -1,0 +1,849 @@
+[
+  {
+    "id": "wh-barrons-u6-030",
+    "source_id": "barrons-u6-030",
+    "unit": 6,
+    "stimulus": "In 1829, India's British governor-general Lord William Bentinck outlawed sati — the practice of a widow burning herself on her husband's funeral pyre. He acted despite knowing that interfering in Hindu custom risked angering Indians and destabilizing British rule.\n\nThe pressure for action had been building for years. Evangelicals like William Wilberforce denounced sati in Parliament; utilitarians like James Mill called it a test case for rational government; and crucially, Indian reformers — above all Rammohan Roy, who campaigned against the practice after his own sister-in-law was burned — gave the British Indian allies. Bentinck's Regulation XVII (1829) declared sati 'illegal, and punishable by the Criminal Courts.' Enforcement was uneven, but the regulation marked the moment the Company claimed the right to remake Indian society.",
+    "stem": "Bentinck's 1829 ban on sati is best understood as",
+    "options": [
+      "(A) a measure with no supporters among the British",
+      "(B) an order issued by the Mughal emperor",
+      "(C) A rare Company intervention in religious custom",
+      "(D) the beginning of a campaign to ban every Hindu practice"
+    ],
+    "key": "C",
+    "explanation": "The East India Company normally avoided religious interference as bad for business. Sati was the exception: evangelicals and utilitarians in Britain — backed by Indian reformers like Rammohan Roy — made it a moral crusade, and Bentinck, a reforming governor-general, acted. The ban shows how metropolitan pressure could override the Company's usual caution.",
+    "option_explanations": {
+      "A": "Wrong. The ban had strong backing from evangelicals, utilitarians, and Indian reformers.",
+      "B": "Wrong. The Mughal emperor had no such authority; this was a British colonial act.",
+      "C": "Correct. The ban was exceptional, driven by British reformist pressure plus Indian reformers.",
+      "D": "Wrong. The Company continued its general policy of non-interference in religion."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 125,
+    "source_stimulus_words": 226
+  },
+  {
+    "id": "wh-barrons-u4-007",
+    "source_id": "barrons-u4-007",
+    "unit": 4,
+    "stimulus": "George Simpson, a 19th-century governor of the Hudson's Bay Company, managed a vast commercial empire in northern North America whose wealth came overwhelmingly from a single commodity, traded with Indigenous trappers and shipped to European markets.\n\nThe charter — granted by Charles II to his cousin Prince Rupert and 'the Governor and Company of Adventurers of England trading into Hudson's Bay' — gave the Company a monopoly over all trade in the Hudson Bay drainage basin, a territory called Rupert's Land covering nearly four million square kilometers. Within it the Company could make laws, build forts, maintain ships of war, and make peace or war with non-Christian peoples. For two centuries the Hudson's Bay Company was the government of western Canada in all but name.",
+    "stem": "The Hudson's Bay Company, Simpson's employer, operated under",
+    "options": [
+      "(A) no legal authority whatsoever",
+      "(B) A 1670 royal charter",
+      "(C) a democratic constitution voted by its employees",
+      "(D) a charter from the French king"
+    ],
+    "key": "B",
+    "explanation": "Charles II's 1670 charter gave the 'Governor and Company of Adventurers' a monopoly over Rupert's Land — the entire Hudson Bay watershed, a huge slice of North America. The HBC was a state within a state: it traded, governed, and made war under its charter for two centuries.",
+    "option_explanations": {
+      "A": "Wrong. The charter was precisely the legal basis of its power.",
+      "B": "Correct. The 1670 charter created one of history's most powerful chartered companies.",
+      "C": "Wrong. The Company was a hierarchical commercial enterprise, not a democracy.",
+      "D": "Wrong. The charter was English; the French had their own rival traders."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 125,
+    "source_stimulus_words": 226
+  },
+  {
+    "id": "wh-barrons-u6-031",
+    "source_id": "barrons-u6-031",
+    "unit": 6,
+    "stimulus": "The East India Company usually avoided interfering in Indian religious customs. Officials argued that meddling would provoke rebellion, disrupt trade, and threaten the profits and stability on which British power depended.\n\nThe policy was born of early disasters: the Company learned that meddling in religion and custom produced exactly the unrest that threatened revenue. Officials were instructed to respect 'the religious prejudices of the natives' — not from tolerance but from prudence. The Company's servants collected the land revenue; they did not run a civilizing mission. That is what made Bentinck's sati ban so controversial within the Company itself: it broke the rule that had kept the peace, and critics warned — with 1857 seeming to prove them right — that interference would end in rebellion.",
+    "stem": "The Company's usual reluctance to interfere in Indian customs was motivated mainly by",
+    "options": [
+      "(A) A complete lack of any opinions about India",
+      "(B) Orders issued by Indian rulers",
+      "(C) Fear of provoking rebellion and threatening profits",
+      "(D) Deep admiration for every Indian custom"
+    ],
+    "key": "C",
+    "explanation": "The Company was a business before it was a government. Non-interference was risk management: keep the peace, keep the revenue flowing. Bentinck's sati ban was controversial precisely because it broke this rule — and officials worried, with 1857 in hindsight seeming to vindicate them, about where interference might lead.",
+    "option_explanations": {
+      "A": "Wrong. The British had many opinions; they suppressed them for commercial reasons.",
+      "B": "Wrong. Indian rulers did not dictate Company policy.",
+      "C": "Correct. Profit and stability, not principle, dictated the hands-off policy.",
+      "D": "Wrong. Officials often disapproved of Indian customs; they tolerated them for pragmatic reasons."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 126,
+    "source_stimulus_words": 226
+  },
+  {
+    "id": "wh-barrons-u4-008",
+    "source_id": "barrons-u4-008",
+    "unit": 4,
+    "stimulus": "The British East India Company and the Hudson's Bay Company were both private enterprises granted royal charters: monopoly trading rights over vast territories, in exchange for which they governed, taxed, and defended those lands at their own expense.\n\nThe model was everywhere in the age of expansion: the Dutch East India Company ruled Indonesia, the Royal African Company traded in enslaved people, the Virginia Company founded Jamestown. Investors bought shares; the company raised armies, built forts, and governed territories — all for private profit under a sovereign's flag. When the companies grew too powerful or too corrupt, states absorbed them: the Crown took over the East India Company's Indian empire after 1857 and bought out the Hudson's Bay Company's territorial claims in 1869.",
+    "stem": "The use of chartered companies for colonization is best described as",
+    "options": [
+      "(A) government by missionary societies",
+      "(B) colonization conducted with no real expectation of profit",
+      "(C) Shifting empire's costs to private investors for monopoly rights",
+      "(D) direct rule by the monarch personally"
+    ],
+    "key": "C",
+    "explanation": "Chartered companies were empire on the cheap: the crown granted a monopoly, investors put up the capital, and the company bore the costs of conquest and administration. If it failed, shareholders — not taxpayers — absorbed the loss. The model built much of the early British and Dutch empires.",
+    "option_explanations": {
+      "A": "Wrong. Missionaries might follow, but companies were commercial, not clerical.",
+      "B": "Wrong. Profit was the entire motive; the charter was the incentive.",
+      "C": "Correct. Risk-shifting to private capital was the chartered company's logic.",
+      "D": "Wrong. The point was precisely to avoid direct royal administration."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 123,
+    "source_stimulus_words": 226
+  },
+  {
+    "id": "wh-barrons-u1-022",
+    "source_id": "barrons-u1-022",
+    "unit": 1,
+    "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel carrying groundwater from an upland aquifer to lowland fields, with vertical shafts dug at intervals for construction and maintenance. Similar systems appear from Persia to North Africa to western China.",
+    "visual_reconstructed": true,
+    "stem": "The qanat technology originated in ancient Persia and later appeared from North Africa to China. Its spread best illustrates",
+    "options": [
+      "(A) European colonial engineering projects",
+      "(B) the agricultural methods of the Green Revolution",
+      "(C) the diffusion of useful technologies across Afro-Eurasia",
+      "(D) the independent invention of identical systems in every region"
+    ],
+    "key": "C",
+    "explanation": "The qanat's distribution maps the routes of contact: Persian engineers, Arab conquerors, and Silk Road travelers carried the technique across deserts and empires. Useful ideas traveled with people — and arid lands everywhere had the same water problem waiting for the same solution.",
+    "option_explanations": {
+      "A": "Wrong. Qanats predate European colonialism by more than two thousand years.",
+      "B": "Wrong. The Green Revolution was a 20th-century program of seeds and chemicals.",
+      "C": "Correct. The qanat's wide distribution shows technology spreading through cultural contact.",
+      "D": "Wrong. The systems are too similar in design for independent invention to be likely."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 40,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-023",
+    "source_id": "barrons-u1-023",
+    "unit": 1,
+    "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel, sometimes many kilometers long, carrying groundwater from upland aquifers to lowland fields, with vertical shafts at intervals. Digging it required surveyors, engineers, and coordinated teams of laborers working for months or years.",
+    "visual_reconstructed": true,
+    "stem": "Building a qanat required coordinated labor over long distances. This suggests the builders",
+    "options": [
+      "(A) Were isolated individuals working alone",
+      "(B) Used no tools of any kind",
+      "(C) Built the tunnels entirely by accident",
+      "(D) Organized authority to direct workers"
+    ],
+    "key": "D",
+    "explanation": "A qanat is a collective-action project: it needs surveying to find the right gradient, engineering to keep tunnels aligned over kilometers, and sustained labor to dig and maintain. No lone individual builds one. The infrastructure implies organization — whether a state, a temple, or a village council.",
+    "option_explanations": {
+      "A": "Wrong. The scale of the work rules out solitary builders.",
+      "B": "Wrong. Tunneling through rock and earth obviously required tools.",
+      "C": "Wrong. The precise engineering of qanats cannot be accidental.",
+      "D": "Correct. Large-scale infrastructure requires coordinated authority."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 42,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-024",
+    "source_id": "barrons-u1-024",
+    "unit": 1,
+    "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel carrying groundwater from an upland aquifer to fields in an arid lowland. The tunnel minimizes evaporation — critical in desert climates — and delivers a steady supply of water where no river flows.",
+    "visual_reconstructed": true,
+    "stem": "Qanats were most valuable in which environments?",
+    "options": [
+      "(A) Frozen tundra with permafrost",
+      "(B) Regions with abundant rivers and rainfall",
+      "(C) Arid lands with reachable groundwater",
+      "(D) Tropical rainforests with heavy rainfall"
+    ],
+    "key": "C",
+    "explanation": "The qanat is a desert technology: it taps aquifers beneath dry piedmonts and delivers water underground, protected from the sun. Where rivers ran freely, nobody needed one; where rain fell abundantly, it was pointless. Its geography — Persia, Central Asia, North Africa — is the geography of aridity.",
+    "option_explanations": {
+      "A": "Wrong. Frozen ground makes tunneling impractical and water needs different.",
+      "B": "Wrong. Abundant rivers make underground water-tunnels unnecessary.",
+      "C": "Correct. Qanats solve the specific problem of arid lands with accessible groundwater.",
+      "D": "Wrong. Rainforests have the opposite problem: too much water, not too little."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 43,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-025",
+    "source_id": "barrons-u1-025",
+    "unit": 1,
+    "stimulus": "Medieval Muslim jurists divided the world into dar al-Islam — the 'house of Islam,' lands under Muslim rule — and dar al-harb — the 'house of war,' lands not yet under Muslim rule, against which jihad could in principle be waged.\n\nThe division was a legal theory, not a map: jurists debated endlessly which lands belonged in which 'house,' and rulers routinely made truces, alliances, and commercial treaties across the boundary. The classical doctrine also assumed a single Muslim polity waging jihad under a caliph — a condition that rarely held even in the theory's heyday, as rival Muslim rulers fought each other as readily as they fought outsiders.",
+    "stem": "The legal framework underlying classical discussions of jihad divided the world into",
+    "options": [
+      "(A) Europe and Asia",
+      "(B) the saved and the damned as purely spiritual categories",
+      "(C) dar al-Islam (house of Islam) and dar al-harb (house of war)",
+      "(D) heaven and hell, with no territorial meaning"
+    ],
+    "key": "C",
+    "explanation": "Classical Islamic legal theory mapped the world territorially: where Islamic law ruled versus where it did not. The dar al-Islam/dar al-harb distinction gave jurists a framework for thinking about war, peace treaties, and relations with non-Muslim powers — a legal geography of the world.",
+    "option_explanations": {
+      "A": "Wrong. The categories were legal-religious, not continental.",
+      "B": "Wrong. The distinction had concrete territorial and legal consequences.",
+      "C": "Correct. This territorial division structured classical jihad doctrine.",
+      "D": "Wrong. The division was about earthly political geography, not the afterlife."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 109,
+    "source_stimulus_words": 172
+  },
+  {
+    "id": "wh-barrons-u1-026",
+    "source_id": "barrons-u1-026",
+    "unit": 1,
+    "stimulus": "Medieval Muslim jurists disagreed about jihad: some argued it was fundamentally defensive — to protect the Muslim community — while most held that the obligation did not lapse until the whole world was brought under Islamic rule. Both positions were argued from the same scriptural sources.\n\nThe debate reveals the flexibility of the legal tradition: the same Qur'anic verses and prophetic reports could support both readings, and which reading prevailed often depended on circumstance. Rulers facing invasion found the defensive interpretation convenient; rulers seeking expansion preferred the universal one. The disagreement itself — conducted in the same sources, with the same methods — is evidence of a legal culture that argued from texts rather than simply obeying them.",
+    "stem": "This disagreement among jurists best shows",
+    "options": [
+      "(A) Real internal debate in Islamic law, not a monolithic doctrine",
+      "(B) that no Muslims ever engaged in warfare",
+      "(C) that all Muslims agreed completely about jihad",
+      "(D) that the concept of jihad was invented by European scholars"
+    ],
+    "key": "A",
+    "explanation": "The jurists' disagreement is evidence of a living legal tradition: scholars reasoning from shared texts to different conclusions about war and peace. Treating 'the Muslim view' as one thing flattens a centuries-long argument among intelligent people who took the question with utmost seriousness.",
+    "option_explanations": {
+      "A": "Correct. The debate itself proves doctrinal pluralism within Islamic jurisprudence.",
+      "B": "Wrong. The jurists debated the terms of warfare; they did not deny its existence.",
+      "C": "Wrong. The passage describes disagreement, not unanimity.",
+      "D": "Wrong. Jihad doctrine developed within Islamic legal thought, not in Europe."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 118,
+    "source_stimulus_words": 172
+  },
+  {
+    "id": "wh-barrons-u1-027",
+    "source_id": "barrons-u1-027",
+    "unit": 1,
+    "stimulus": "During the Crusades, Muslim and Christian rulers preached holy war against each other — yet in the ports and markets of the Levant, Muslim, Christian, and Jewish merchants continued to trade, lend, and even partner with one another throughout the fighting.\n\nThe explanation lies in the separation of spheres. Holy war was the business of rulers and clerics, proclaimed in sermons and legal opinions; trade was the business of merchants, governed by contracts, partnerships, and the practical need for goods. Italian city-states signed commercial treaties with Muslim rulers even as popes preached crusades, and the customs houses of Alexandria collected their duties through every war. Ideology set the rhetoric; interest kept the ships sailing.",
+    "stem": "The coexistence of holy-war rhetoric with ongoing commerce is best explained by",
+    "options": [
+      "(A) Practical needs of trade overriding official hostilities",
+      "(B) the absence of any real religious differences at all",
+      "(C) decisive European military victories",
+      "(D) the complete end of all warfare"
+    ],
+    "key": "A",
+    "explanation": "Ideology belongs to preachers and princes; merchants need customers. The Levantine trade was too profitable to abandon, so business went on across religious lines even as armies fought. Daily economic life has its own logic, and it frequently defies the slogans of the powerful.",
+    "option_explanations": {
+      "A": "Correct. Commercial pragmatism routinely cut across religious-political hostility.",
+      "B": "Wrong. Real religious differences existed; commerce simply worked around them.",
+      "C": "Wrong. Trade continued regardless of who was winning battles.",
+      "D": "Wrong. Warfare continued alongside the commerce."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Comparison",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 114,
+    "source_stimulus_words": 172
+  },
+  {
+    "id": "wh-barrons-u2-006",
+    "source_id": "barrons-u2-006",
+    "unit": 2,
+    "stimulus": "A chart shows the flow of major goods across the Indian Ocean trade network, c. 1200–1450: spices and textiles moving west from India and Southeast Asia, horses moving east from Arabia, porcelain and silk moving west from China, and gold and ivory moving north from East Africa.",
+    "stem": "The trade system shown depended most critically on sailors' knowledge of",
+    "options": [
+      "(A) The Arctic ice caps",
+      "(B) Steam engine technology",
+      "(C) The seasonal monsoon winds",
+      "(D) The Atlantic Ocean currents"
+    ],
+    "key": "C",
+    "explanation": "The Indian Ocean trade was a wind-powered system. The summer monsoon blew from the southwest, the winter monsoon from the northeast; merchants timed their voyages to ride each wind in turn, often waiting months in port cities for the reversal. Mastering the monsoon rhythm was the foundation of the whole network.",
+    "option_explanations": {
+      "A": "Wrong. Arctic ice is irrelevant to tropical ocean trade.",
+      "B": "Wrong. Steamships came centuries later; this was the age of sail.",
+      "C": "Correct. Monsoon knowledge made scheduled long-distance sailing possible.",
+      "D": "Wrong. Atlantic currents belong to a different ocean and a later era."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 47,
+    "source_stimulus_words": 14
+  },
+  {
+    "id": "wh-barrons-u2-007",
+    "source_id": "barrons-u2-007",
+    "unit": 2,
+    "stimulus": "The workhorse of the Indian Ocean trade network, c. 1200–1450, was a sewn-plank wooden ship with a distinctive triangular sail, built from East Africa to India to Arabia and capable of long open-water voyages.",
+    "stem": "The ships most characteristic of this trade network were",
+    "options": [
+      "(A) Dhows with lateen sails of the western Indian Ocean",
+      "(B) Spanish galleons of the Atlantic",
+      "(C) Viking longships of the North Atlantic world",
+      "(D) Steamships of the 1800s"
+    ],
+    "key": "A",
+    "explanation": "The dhow — with its lateen (triangular) sail that could catch winds from many angles — was the Indian Ocean's signature vessel for a thousand years. Built without nails, sewn with cord, it was perfectly adapted to monsoon sailing and shallow harbors.",
+    "option_explanations": {
+      "A": "Correct. The dhow was the defining ship of the Indian Ocean system.",
+      "B": "Wrong. Galleons belonged to the 16th-century Atlantic world.",
+      "C": "Wrong. Longships belonged to the North Atlantic world of the Vikings.",
+      "D": "Wrong. Steamships are a 19th-century technology."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 34,
+    "source_stimulus_words": 14
+  },
+  {
+    "id": "wh-barrons-u2-008",
+    "source_id": "barrons-u2-008",
+    "unit": 2,
+    "stimulus": "The Indian Ocean trade network, c. 1200–1450, is famous for creating far-flung merchant communities: Arabs settled in Indian ports, Gujaratis in East Africa, Persians in Southeast Asia — each maintaining ties to a homeland while putting down roots abroad.",
+    "stem": "An example of the merchant diaspora communities created by this system would be",
+    "options": [
+      "(A) Arab and Gujarati merchants settled in East African ports",
+      "(B) port cities with no foreign residents at all anywhere",
+      "(C) European colonial administrations",
+      "(D) the banning of all migration by local rulers"
+    ],
+    "key": "A",
+    "explanation": "Trade needed trusted intermediaries, so merchants settled abroad in enclaves — marrying locally, building mosques and temples, and linking their adopted cities to home ports. These diaspora communities were the human infrastructure of the Indian Ocean economy.",
+    "option_explanations": {
+      "A": "Correct. Settled foreign merchant communities are the classic diaspora pattern.",
+      "B": "Wrong. The ports were famously cosmopolitan, not closed.",
+      "C": "Wrong. Colonial administrations came centuries later.",
+      "D": "Wrong. Rulers generally welcomed the merchants and their customs revenues."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 39,
+    "source_stimulus_words": 14
+  },
+  {
+    "id": "wh-barrons-u2-009",
+    "source_id": "barrons-u2-009",
+    "unit": 2,
+    "stimulus": "For centuries, the Indian Ocean trade network operated largely free of European interference. That changed in the early 1500s, when Portuguese fleets seized Goa, Malacca, and Hormuz and began intercepting the merchant ships of others.",
+    "stem": "The Portuguese disrupted this system in the early 1500s mainly by",
+    "options": [
+      "(A) Seizing key ports and forcing ships to buy Portuguese passes",
+      "(B) outlawing all trade in the Indian Ocean",
+      "(C) converting every single merchant in Asia to Christianity",
+      "(D) draining the Indian Ocean of water"
+    ],
+    "key": "A",
+    "explanation": "Portugal could not police the whole ocean, so it taxed it: the cartaz system required Asian ships to buy Portuguese licenses and call at Portuguese ports. Backed by fortified bases at strategic chokepoints, it was armed protection-racketeering on an oceanic scale.",
+    "option_explanations": {
+      "A": "Correct. The cartaz system was Portugal's instrument of commercial control.",
+      "B": "Wrong. Portugal wanted to profit from trade, not abolish it.",
+      "C": "Wrong. Mass conversion was never achieved and was not the mechanism of disruption.",
+      "D": "Wrong. This is not a serious option."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 35,
+    "source_stimulus_words": 14
+  },
+  {
+    "id": "wh-barrons-u1-028",
+    "source_id": "barrons-u1-028",
+    "unit": 1,
+    "stimulus": "A map shows the Mongol Empire divided into four large khanates: the Yuan dynasty ruling China, the Ilkhanate in Persia, the Chagatai Khanate in Central Asia, and the Golden Horde across Russia and the western steppe. The once-unified empire founded by Genghis Khan has become four separate states.",
+    "visual_reconstructed": true,
+    "stem": "The fragmentation shown on the map resulted most directly from",
+    "options": [
+      "(A) conquest of the empire by European armies",
+      "(B) a volcanic eruption that destroyed the capital",
+      "(C) succession disputes after Möngke Khan's death and the resulting Toluid civil war",
+      "(D) a unified, peaceful decision by all the Mongols to divide power equally"
+    ],
+    "key": "C",
+    "explanation": "The Mongols had no stable rule of succession. When Great Khan Möngke died in 1259, his brothers Kublai and Ariq Böke fought a four-year civil war; meanwhile Berke of the Golden Horde went to war with Hulegu of the Ilkhanate. The empire never reunited — the khanates went their separate ways.",
+    "option_explanations": {
+      "A": "Wrong. No European army conquered the Mongol Empire.",
+      "B": "Wrong. There was no such eruption; the cause was political.",
+      "C": "Correct. Succession warfare in the 1260s broke the empire permanently.",
+      "D": "Wrong. The division was the product of civil war, not consensus."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 48,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-029",
+    "source_id": "barrons-u1-029",
+    "unit": 1,
+    "stimulus": "A map shows the Mongol Empire divided into four rival khanates — Yuan China, the Ilkhanate, the Chagatai Khanate, and the Golden Horde — where a single unified empire had once guaranteed safe passage for merchants across Eurasia.",
+    "visual_reconstructed": true,
+    "stem": "The process shown contributed to which change in Eurasian trade?",
+    "options": [
+      "(A) The invention of the Silk Road",
+      "(B) The unification of all Eurasian currencies under one system",
+      "(C) Weaker overland security, pushing Europe toward sea routes",
+      "(D) The complete end of all Eurasian trade"
+    ],
+    "key": "C",
+    "explanation": "The Pax Mongolica had made the overland routes safe and cheap. When the empire fragmented into warring khanates, the roads grew dangerous and expensive — one reason Europeans began dreaming of, and eventually finding, an ocean route to the riches of Asia.",
+    "option_explanations": {
+      "A": "Wrong. The Silk Road long predated the Mongols.",
+      "B": "Wrong. No such monetary unification occurred.",
+      "C": "Correct. Fragmentation raised the costs and risks of overland trade.",
+      "D": "Wrong. Trade continued; it became harder, not extinct."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 38,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-030",
+    "source_id": "barrons-u1-030",
+    "unit": 1,
+    "stimulus": "The Mongol rulers of the Golden Horde — the khanate controlling Russia and the western steppe — converted to Islam in the 1300s under leaders like Özbeg Khan, even as their cousins in China patronized Buddhism and their cousins in Persia also became Muslims.",
+    "stem": "The conversion of the Golden Horde's rulers to Islam best illustrates which Mongol trait?",
+    "options": [
+      "(A) Hostility to every form of religion",
+      "(B) Imposing Buddhism on the Russian population",
+      "(C) Religious adaptability — adopting the faiths of conquered majorities",
+      "(D) Forcing all subjects to convert to Mongolian shamanism by law"
+    ],
+    "key": "C",
+    "explanation": "The Mongols were religious pragmatists. Ruling Muslim-majority populations in the Horde and the Ilkhanate, their khans found conversion politically useful; in Buddhist-leaning China, they patronized Buddhism instead. Each khanate adapted to its own subjects — flexibility as a strategy of rule.",
+    "option_explanations": {
+      "A": "Wrong. The Mongols patronized religions; they were not hostile to faith.",
+      "B": "Wrong. The Golden Horde became Muslim, not Buddhist, and Russians kept Orthodoxy.",
+      "C": "Correct. Mongol rulers adopted the religions of the peoples they governed.",
+      "D": "Wrong. The Mongols never imposed shamanism on their subjects."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 44,
+    "source_stimulus_words": 0,
+    "visual_reconstructed": true
+  },
+  {
+    "id": "wh-barrons-u1-031",
+    "source_id": "barrons-u1-031",
+    "unit": 1,
+    "stimulus": "After conquering China, Kublai Khan founded the Yuan dynasty (1271–1368). Though the Yuan adopted much of Chinese administration, they distrusted the scholar-official class that had staffed earlier dynasties and suspended the institution that produced it.",
+    "stem": "Under the Yuan dynasty, the traditional Chinese civil-service examinations were",
+    "options": [
+      "(A) expanded so that only Mongolian nomads could ever take them",
+      "(B) left completely unchanged in every respect",
+      "(C) replaced by democratic elections",
+      "(D) suspended for decades, weakening the scholar-official class's power"
+    ],
+    "key": "D",
+    "explanation": "The examinations were the ladder of the Chinese elite — and the Mongols kicked it away, suspending the exams from the 1240s until 1315. Without exams, scholar-officials lost their route to power, and the Yuan staffed administration with Central Asians, Muslims, and others loyal to the new regime.",
+    "option_explanations": {
+      "A": "Wrong. The exams were suspended, not reserved for nomads.",
+      "B": "Wrong. Suspension was a radical break with Chinese tradition.",
+      "C": "Wrong. Democratic elections are a modern anachronism here.",
+      "D": "Correct. The long suspension broke the scholar-officials' monopoly on office."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 35,
+    "source_stimulus_words": 0,
+    "visual_reconstructed": true
+  },
+  {
+    "id": "wh-barrons-u5-004",
+    "source_id": "barrons-u5-004",
+    "unit": 5,
+    "stimulus": "In 1791, Olympe de Gouges published her 'Declaration of the Rights of Woman and of the Female Citizen' — a deliberate, article-by-article parallel to the revolutionary 'Declaration of the Rights of Man.' Where the original proclaimed the rights of 'man,' hers substituted 'woman,' exposing every exclusion.\n\nThe parallel was exact and therefore damning: seventeen articles, each mirroring the original's language — 'Woman is born free and remains equal to man in rights.' The strategy forced readers to confront the original's universal claims: if the rights of man were truly natural and inalienable, on what grounds could half of humanity be excluded? The revolution's leaders had no good answer, which is partly why they eventually silenced the questioner.",
+    "stem": "The main strategy of de Gouges's Declaration was to",
+    "options": [
+      "(A) Mirroring the Declaration of the Rights of Man against itself",
+      "(B) praise the National Assembly for its treatment of women",
+      "(C) call for the restoration of the French monarchy",
+      "(D) demand political rights for men only"
+    ],
+    "key": "A",
+    "explanation": "De Gouges weaponized the revolution's own language: by copying the Declaration's structure and inserting women, she forced readers to confront the gap between universalist rhetoric and male-only reality. It was political jujitsu — using the revolution's text against its authors.",
+    "option_explanations": {
+      "A": "Correct. Parallel-text mimicry was her rhetorical strategy.",
+      "B": "Wrong. The text criticizes the Assembly's exclusion of women; it does not praise it.",
+      "C": "Wrong. She was a revolutionary, not a royalist.",
+      "D": "Wrong. Her entire purpose was to claim rights for women."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 117,
+    "source_stimulus_words": 183
+  },
+  {
+    "id": "wh-barrons-u5-005",
+    "source_id": "barrons-u5-005",
+    "unit": 5,
+    "stimulus": "Olympe de Gouges, author of the 1791 'Declaration of the Rights of Woman,' was arrested during the Terror and sent to the guillotine in November 1793 — one of a number of outspoken women silenced as the revolution turned against its own.\n\nHer real offense was political, not literary. De Gouges had attacked Robespierre and the Montagnards, defended the Girondins, and — fatally — proposed a plebiscite on the form of government, which the revolutionary tribunal read as royalism. At her trial she was denied a lawyer. The Terror devoured its critics indiscriminately, but women who entered politics faced an additional charge simply for speaking in public at all.",
+    "stem": "De Gouges was executed in 1793 mainly because",
+    "options": [
+      "(A) she refused to write anything political",
+      "(B) she had spied for a foreign power",
+      "(C) she was the only person demanding the king's restoration",
+      "(D) Her writings attacking the ruling Jacobins"
+    ],
+    "key": "D",
+    "explanation": "The Terror devoured dissenters, including feminist ones. De Gouges's Girondist sympathies and her attacks on Robespierre's faction made her a target; her feminism was part of the indictment but her factional politics sealed her fate. The revolution that proclaimed liberty executed the woman who asked whether liberty included her.",
+    "option_explanations": {
+      "A": "Wrong. She was executed precisely because she wrote so much.",
+      "B": "Wrong. She was no foreign spy; she was a French political writer.",
+      "C": "Wrong. She was a republican, not a royalist.",
+      "D": "Correct. Political opposition to the Jacobins, expressed in print, led to her execution."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 109,
+    "source_stimulus_words": 183
+  },
+  {
+    "id": "wh-barrons-u5-006",
+    "source_id": "barrons-u5-006",
+    "unit": 5,
+    "stimulus": "Algerian women fought prominently in the war of independence (1954–1962) as couriers, bombers, and organizers. After independence, many hoped the new nation would enshrine gender equality — but in 1984 Algeria adopted a Family Code preserving male guardianship, unequal divorce rights, and polygamy.\n\nThe disappointment was political. The FLN's wartime promises of emancipation gave way, after 1962, to a conservative state that needed the support of traditional and religious constituencies. The 1984 Family Code — making women legal minors under male guardianship, preserving polygamy and unequal divorce — was the price of that alliance. Algerian feminists, many of them veterans of the war, spent the next decades fighting the code article by article.",
+    "stem": "The hopes of Algerian women after independence were disappointed in part by",
+    "options": [
+      "(A) the recolonization of Algeria by France",
+      "(B) the 1984 Family Code, which preserved patriarchal legal norms",
+      "(C) the immediate achievement of full and complete gender equality",
+      "(D) the abolition of all Algerian laws"
+    ],
+    "key": "B",
+    "explanation": "The Family Code was the FLN regime's bargain with conservative forces: independence had been won with women's help, but the new state's family law kept women legal minors in marriage and divorce. It became the focus of Algerian feminist struggle for decades — the revolution's unfinished business.",
+    "option_explanations": {
+      "A": "Wrong. France did not recolonize Algeria.",
+      "B": "Correct. The 1984 Code entrenched the inequality independence had promised to end.",
+      "C": "Wrong. Full equality was precisely what did not happen.",
+      "D": "Wrong. Laws were not abolished; a discriminatory one was enacted."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 113,
+    "source_stimulus_words": 183
+  },
+  {
+    "id": "wh-barrons-u8-007",
+    "source_id": "barrons-u8-007",
+    "unit": 8,
+    "stimulus": "During Algeria's war of independence (1954–1962), women served the FLN as couriers smuggling weapons through French checkpoints, as bombers in the Battle of Algiers, and as organizers, nurses, and fundraisers — roles the French had never imagined Algerian women playing.\n\nThe FLN deliberately deployed women where the French least expected them: young, European-looking Algerian women could pass French checkpoints carrying bombs in shopping bags — the Battle of Algiers (1956–57) made this tactic infamous. Women also ran the underground's logistics: safe houses, communications, fundraising. Their prominence embarrassed the French claim to be defending 'civilization,' and it created expectations — of equality after independence — that the new Algerian state would largely disappoint.",
+    "stem": "During the Algerian war itself, women participated prominently as",
+    "options": [
+      "(A) generals in the French army",
+      "(B) neutral observers with no role in the fighting",
+      "(C) soldiers of the Ottoman Empire",
+      "(D) FLN couriers, bombers, and organizers"
+    ],
+    "key": "D",
+    "explanation": "The war temporarily shattered gender norms: women like Djamila Bouhired became icons of the struggle, moving through checkpoints precisely because the French did not suspect them. Their prominence makes their postwar marginalization — the 1984 Family Code and all — the sharper tragedy.",
+    "option_explanations": {
+      "A": "Wrong. Algerian women fought against the French, not as French generals.",
+      "B": "Wrong. They were central participants, not bystanders.",
+      "C": "Wrong. The Ottoman Empire was long gone by 1954.",
+      "D": "Correct. Women's wartime roles were extensive and celebrated at the time."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 112,
+    "source_stimulus_words": 183
+  },
+  {
+    "id": "wh-barrons-u9-016",
+    "source_id": "barrons-u9-016",
+    "unit": 9,
+    "stimulus": "The Uruguayan writer Eduardo Galeano opened his 1971 book 'Open Veins of Latin America' with a stark claim: 'The division of labor among nations is that some specialize in winning and others in losing. Our part of the world, known today as Latin America, was precocious: it has specialized in losing.'\n\nDependency theory emerged in the 1960s among Latin American economists — Raúl Prebisch at the UN Economic Commission for Latin America above all — who argued that the world economy was structured to enrich the industrial 'center' at the expense of the raw-material 'periphery.' Galeano's book was the theory's most passionate popular statement: a five-century indictment arguing that Latin America's poverty was not a stage of development but the product of development elsewhere.",
+    "stem": "Galeano's argument belongs to which school of thought?",
+    "options": [
+      "(A) Dependency theory",
+      "(B) Modernization theory, blaming internal backwardness",
+      "(C) Fascism, glorifying the authoritarian state",
+      "(D) Isolationism, avoiding foreign entanglements"
+    ],
+    "key": "A",
+    "explanation": "'Open Veins' is the classic popular statement of dependency theory: Latin America is poor not because it failed to develop, but because its development was organized to serve others — silver to Spain, sugar and coffee to world markets, profits to foreign corporations. Underdevelopment, in this view, is produced, not natural.",
+    "option_explanations": {
+      "A": "Correct. Galeano's 'losing' is dependency theory's core claim.",
+      "B": "Wrong. Modernization theory blames internal backwardness; Galeano blames external exploitation.",
+      "C": "Wrong. Galeano was a leftist; fascism is ideologically opposite.",
+      "D": "Wrong. Isolationism is about foreign policy withdrawal, not economic analysis."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 124,
+    "source_stimulus_words": 242
+  },
+  {
+    "id": "wh-barrons-u9-017",
+    "source_id": "barrons-u9-017",
+    "unit": 9,
+    "stimulus": "In 'Open Veins of Latin America,' Eduardo Galeano traced the region's poverty to five centuries of extraction, beginning with the silver mines of Potosí — where, he wrote, the wealth of an empire was dug from a mountain by forced Indigenous labor while the silver itself flowed to Spain.\n\nThe figures in Galeano's telling are staggering: the mountain's silver — dug by the mita's forced Indigenous labor under lethal conditions — funded Spain's European wars and flowed onward to pay for Asian luxuries, while miners died by the thousands from mercury poisoning, cave-ins, and exhaustion. 'One could build a bridge of silver from Potosí to Spain,' went the saying, 'and another of bones back again.' For Galeano, the two bridges are the whole of Latin American history in miniature.",
+    "stem": "As a central historical example, Galeano traces Latin America's 'losing' back to",
+    "options": [
+      "(A) The California gold rush of 1849",
+      "(B) The silver mines of Potosí",
+      "(C) The Industrial Revolution in England",
+      "(D) The French Revolution of 1789"
+    ],
+    "key": "B",
+    "explanation": "Potosí is Galeano's primal scene: the richest silver mine in history, worked by the mita's forced labor, funding Spain's empire while leaving Bolivia impoverished. For dependency theorists, Potosí proves the pattern — fabulous natural wealth producing fabulous foreign fortunes and local misery.",
+    "option_explanations": {
+      "A": "Wrong. The California gold rush postdates and lies outside his argument.",
+      "B": "Correct. Potosí is the book's central symbol of extractive colonialism.",
+      "C": "Wrong. England's industrialization is not Galeano's subject.",
+      "D": "Wrong. The French Revolution is not his explanatory example."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 129,
+    "source_stimulus_words": 242
+  },
+  {
+    "id": "wh-barrons-u3-011",
+    "source_id": "barrons-u3-011",
+    "unit": 3,
+    "stimulus": "In the 1600s, Russia exacted the yasak — a fur tribute — from the native peoples of Siberia. As Russian trappers pushed east, fur-bearing animals grew scarce, and native communities struggled to meet quotas fixed in better times.\n\nThe yasak was Russia's Siberian fur tribute: native communities were assessed annual quotas of sable and other pelts, enforced by Cossack collectors who took hostages to ensure payment. Like the Spanish encomienda, it converted conquest into revenue — furs flowing to Moscow as silver flowed to Seville. And like the encomienda, it devastated the peoples it bound: overhunting depleted the animals, the quotas stayed fixed, and communities faced ruin trying to meet demands set in more abundant times. Moscow's treasury depended on the tribute: in some years fur accounted for a tenth or more of state revenue, making the yasak not a frontier curiosity but a pillar of the early Russian fiscal state.",
+    "stem": "The fur-tribute system described most closely resembles which of the following?",
+    "options": [
+      "(A) Democratic taxation with representation",
+      "(B) The abolition of tribute payments",
+      "(C) The Spanish encomienda",
+      "(D) Modern free-trade agreements"
+    ],
+    "key": "C",
+    "explanation": "The yasak and the encomienda were cousins: both were colonial systems for extracting wealth from Indigenous peoples through legalized coercion — furs in Siberia, labor and goods in Spanish America. Both enriched the empire while impoverishing the communities they bound.",
+    "option_explanations": {
+      "A": "Wrong. Siberian natives had no representation in the system that taxed them.",
+      "B": "Wrong. The yasak imposed tribute; it did not abolish it.",
+      "C": "Correct. Both systems extracted native wealth through colonial coercion.",
+      "D": "Wrong. Free trade is voluntary exchange; the yasak was compelled tribute."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 151,
+    "source_stimulus_words": 309
+  },
+  {
+    "id": "wh-barrons-u3-012",
+    "source_id": "barrons-u3-012",
+    "unit": 3,
+    "stimulus": "In the 1600s, Russian Cossacks and fur trappers pushed across Siberia with astonishing speed, reaching the Pacific Ocean by the late 1630s — a continental crossing achieved in roughly sixty years.\n\nThe advance was led by promyshlenniki — fur trappers — and Cossacks, moving river by river across the taiga: Yermak's crossing of the Urals in 1581 opened the door, and by 1639 Ivan Moskvitin reached the Pacific. Forts (ostrogs) planted the flag; the yasak filled the treasury. Sable — 'soft gold' — financed much of the early Russian state. It was an empire built not primarily by settlers or soldiers, but by hunters following the fur frontier east. By the time the trappers reached the Pacific, the sable frontier was already moving on — the animals depleted behind them, the hunters pushing ever eastward in a pattern that would repeat across Siberia for a century.",
+    "stem": "Russian expansion across Siberia in the 1600s is best characterized as",
+    "options": [
+      "(A) a peaceful scientific expedition",
+      "(B) A rapid fur-driven advance to the Pacific",
+      "(C) a slow agricultural colonization by peasant farmers",
+      "(D) a naval conquest of the Siberian coast"
+    ],
+    "key": "B",
+    "explanation": "Siberia was conquered for sable: the fur trade's profits pulled trappers, Cossacks, and tax collectors eastward at a pace that stunned contemporaries. It was an empire built by hunters and tribute-takers, not by settlers — agriculture followed much later.",
+    "option_explanations": {
+      "A": "Wrong. It was a violent, extractive expansion, not a scientific mission.",
+      "B": "Correct. The fur rush drove one of history's fastest continental expansions.",
+      "C": "Wrong. Farming came later; the 1600s advance was about furs.",
+      "D": "Wrong. The conquest was overland, not naval."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 146,
+    "source_stimulus_words": 309
+  },
+  {
+    "id": "wh-barrons-u4-009",
+    "source_id": "barrons-u4-009",
+    "unit": 4,
+    "stimulus": "High in the Andes, the mercury mine at Huancavelica employed thousands of Indigenous workers under the mita draft. The mercury they produced was shipped south to Potosí — not to be sold as a curiosity, but as an essential ingredient in the refining of silver.\n\nThe patio process — mixing crushed silver ore with mercury, salt, and water, then trampling the slurry for weeks — was the chemical foundation of Spanish America's silver boom. Potosí's mines produced the ore; Huancavelica produced the mercury that made the ore pay. The two mines were linked by the mita: the same draft system that sent workers underground at Potosí sent them into Huancavelica's mercury shafts, where the fumes poisoned miners slowly and horribly. Silver and mercury, twin pillars of the colonial economy, were twin engines of Indigenous mortality.",
+    "stem": "The mercury mined at Huancavelica was essential to",
+    "options": [
+      "(A) the manufacture of gunpowder for colonial armies",
+      "(B) the minting of copper coins",
+      "(C) the construction of Spanish galleons",
+      "(D) the patio process of refining silver ore at Potosí"
+    ],
+    "key": "D",
+    "explanation": "Silver ore at Potosí was refined by amalgamation: crushed ore was mixed with mercury, which bonded with the silver so it could be separated and the mercury then burned off. Without Huancavelica's mercury, Potosí's silver boom — the engine of the Spanish colonial economy — would have stalled.",
+    "option_explanations": {
+      "A": "Wrong. Gunpowder uses saltpeter, sulfur, and charcoal — not mercury.",
+      "B": "Wrong. Copper coinage did not depend on mercury.",
+      "C": "Wrong. Shipbuilding used timber, not mercury.",
+      "D": "Correct. Mercury amalgamation was the chemical key to Potosí silver production."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 135,
+    "source_stimulus_words": 309
+  },
+  {
+    "id": "wh-barrons-u4-010",
+    "source_id": "barrons-u4-010",
+    "unit": 4,
+    "stimulus": "Spanish America used two great systems of Indigenous labor: the encomienda, which granted individual colonists the right to exact labor and tribute from a community, and the mita, which drafted workers on a rotating basis for state enterprises — above all the silver mines.\n\nThe two systems differed in form. The encomienda was a grant: the crown 'entrusted' (encomendó) a community's labor and tribute to a colonist, who owed Christian instruction in return — a fiction that masked exploitation. The mita was a draft: communities owed the state rotating contingents of workers for mines and public works, a system the Spanish adapted from the Inca mit'a. Over time the encomienda faded and the mita endured — because the crown's silver mines needed the mita, and the crown always got what it needed.",
+    "stem": "Unlike the encomienda, the mita",
+    "options": [
+      "(A) drafted workers on rotation for state projects like the mines",
+      "(B) gave Indigenous workers complete freedom of movement at last",
+      "(C) applied only to enslaved African laborers",
+      "(D) was a system of private land ownership"
+    ],
+    "key": "A",
+    "explanation": "The encomienda privatized exploitation — a grant to a colonist. The mita was a state labor draft, inherited from the Inca mit'a: communities owed the crown rotating contingents of workers. Both were coercive, but they organized coercion differently — one through private grants, the other through public obligation.",
+    "option_explanations": {
+      "A": "Correct. Rotational state drafts for mines and public works define the mita.",
+      "B": "Wrong. The mita compelled labor; it did not free workers.",
+      "C": "Wrong. The mita drafted Indigenous Andeans; African slavery was a separate system.",
+      "D": "Wrong. The mita concerned labor service, not land titles."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 132,
+    "source_stimulus_words": 309
+  }
+]

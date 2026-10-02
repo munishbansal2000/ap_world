@@ -1,0 +1,812 @@
+[
+  {
+    "id": "wh-barrons-u6-019",
+    "source_id": "barrons-u6-019",
+    "unit": 6,
+    "stimulus": "A British reporter in 1857 called the Cawnpore killings an outrage by a 'subject race' against its masters. An Indian academic historian later wrote that while nothing justified the massacre, it had to be understood within a larger pattern of British violence and contempt toward Indians.\n\nThe 'mutiny' school stresses the revolt's military origins — sepoy grievances over pay, cartridges, and annexations — and its limited aims: most rebels proclaimed the Mughal emperor or local rulers, not an Indian nation. The 'uprising' school stresses its breadth — peasants, artisans, and dispossessed landlords joining across northern India — and reads it as anti-colonial resistance. The evidence supports both readings, which is why the argument endures: 1857 was a sepoy mutiny that became something larger, and the name a historian chooses announces which half of that story is thought to matter more.",
+    "stem": "The contrast between the two passages reflects which ongoing historical debate?",
+    "options": [
+      "(A) Whether 1857 was a 'mutiny' or an anti-colonial uprising",
+      "(B) Whether India was ever actually colonized",
+      "(C) Whether the British introduced railways to India",
+      "(D) Whether Cawnpore is located in India"
+    ],
+    "key": "A",
+    "explanation": "The two passages embody the two historiographies: the colonial 'mutiny' narrative, focused on British victimhood, versus the nationalist 'uprising' narrative, which places the violence in the context of colonial oppression. Historians still argue over which frame — and which name — the events deserve.",
+    "option_explanations": {
+      "A": "Correct. The passages map directly onto the mutiny-vs-uprising debate.",
+      "B": "Wrong. Both passages take British colonization as a given.",
+      "C": "Wrong. Railways are irrelevant to the interpretive disagreement.",
+      "D": "Wrong. The location is not in dispute."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 140,
+    "source_stimulus_words": 322
+  },
+  {
+    "id": "wh-barrons-u6-020",
+    "source_id": "barrons-u6-020",
+    "unit": 6,
+    "stimulus": "The 1857 revolt was crushed by 1858. The British East India Company was dissolved, India came under direct Crown rule, and the rebels' figurehead — the aged Mughal emperor Bahadur Shah Zafar — was put on trial by the British.\n\nThe trial was political theater staged as justice. Zafar — a poet-emperor in his eighties, proclaimed leader by rebels he barely controlled — was charged with treason and murder, convicted, and exiled to Rangoon in Burma, where he died in 1862 and was buried in an unmarked grave. With him ended the Mughal dynasty, and with it the fiction that Britain ruled India through Indian sovereigns: direct Crown rule, proclaimed in 1858, replaced Company and emperor alike. The British, having destroyed the symbol, spent the next ninety years ruling in its shadow — governing an India whose nationalists would make 1857, and its last emperor, into martyrs of the freedom struggle.",
+    "stem": "In the aftermath of the revolt, the last Mughal emperor, Bahadur Shah Zafar, was",
+    "options": [
+      "(A) restored to full power over India",
+      "(B) appointed viceroy of India",
+      "(C) left entirely undisturbed in Delhi",
+      "(D) tried by the British and exiled to Burma"
+    ],
+    "key": "D",
+    "explanation": "Zafar, in his eighties, had been proclaimed emperor by the rebels. The British tried him for treason, then exiled him to Rangoon, where he died in 1862. His removal was symbolic: the Mughal dynasty that had ruled India for three centuries was formally extinguished, and Crown rule began.",
+    "option_explanations": {
+      "A": "Wrong. The British abolished his throne; they did not restore it.",
+      "B": "Wrong. The viceroy was a British official, not the former emperor.",
+      "C": "Wrong. He was arrested, tried, and deported.",
+      "D": "Correct. Trial and exile to Burma ended the Mughal line."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 151,
+    "source_stimulus_words": 322
+  },
+  {
+    "id": "wh-barrons-u6-021",
+    "source_id": "barrons-u6-021",
+    "unit": 6,
+    "stimulus": "A chart of world GDP (1600–1870) shows Britain's share of the global total rising from 1.8 percent in 1600 to 9.1 percent in 1870, while China's share — once the world's largest — fell sharply over the same period.",
+    "stem": "Britain's rising share of world GDP is best explained by",
+    "options": [
+      "(A) Britain's conquest and annexation of China",
+      "(B) a steep decline in the world's population",
+      "(C) Britain's abandonment of industry in favor of farming",
+      "(D) Britain's early industrialization"
+    ],
+    "key": "D",
+    "explanation": "The Industrial Revolution — mechanized textiles, coal, iron, steam — let Britain produce vastly more per worker than any agrarian economy could. The chart's British surge is the statistical signature of industrialization: output growing far faster than population.",
+    "option_explanations": {
+      "A": "Wrong. Britain never conquered China.",
+      "B": "Wrong. World population grew rapidly in this period; it did not decline.",
+      "C": "Wrong. This is the opposite of what happened.",
+      "D": "Correct. Industrialization explains Britain's disproportionate GDP growth."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 39,
+    "source_stimulus_words": 73
+  },
+  {
+    "id": "wh-barrons-u6-022",
+    "source_id": "barrons-u6-022",
+    "unit": 6,
+    "stimulus": "A chart of world GDP (1600–1870) shows Western Europe's share of the global economy surging after 1700 while China's and India's shares declined — a pattern historians call the 'Great Divergence.'",
+    "stem": "The pattern shown in the chart is central to which scholarly debate?",
+    "options": [
+      "(A) The 'Great Divergence' debate on Europe's economic lead over Asia",
+      "(B) The debate over the deep political causes of World War I",
+      "(C) The debate over the economic fall of the Roman Empire",
+      "(D) The debate over the origins of agriculture"
+    ],
+    "key": "A",
+    "explanation": "Kenneth Pomeranz and others have argued intensely over the chart's pattern: did Europe pull ahead only after 1800 (coal and colonies), or was the divergence centuries older (institutions, culture)? The GDP figures are the shared evidence; the explanations are the debate.",
+    "option_explanations": {
+      "A": "Correct. The chart is the empirical core of the Great Divergence literature.",
+      "B": "Wrong. World War I is a 20th-century political question, not an economic-divergence one.",
+      "C": "Wrong. Rome fell a millennium before this chart begins.",
+      "D": "Wrong. Agriculture originated thousands of years before this period."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 31,
+    "source_stimulus_words": 73
+  },
+  {
+    "id": "wh-barrons-u6-023",
+    "source_id": "barrons-u6-023",
+    "unit": 6,
+    "stimulus": "A chart of world GDP (1600–1870) shows India's share of the global economy shrinking as Britain's grew — the same period in which the British East India Company extended its commercial and then political control over the subcontinent.",
+    "stem": "One major economic consequence for India of the development described was",
+    "options": [
+      "(A) India's industrialization ahead of Britain's",
+      "(B) The end of all agricultural production in India",
+      "(C) India's colonization of Britain",
+      "(D) The ruin of India's handloom textile industry"
+    ],
+    "key": "D",
+    "explanation": "India had been the world's great textile exporter; British industrial cottons, backed by Company power and tariff policy, reversed the flow. Indian weavers were ruined by the millions — the classic 'deindustrialization' that nationalist historians cite as the economic cost of colonialism.",
+    "option_explanations": {
+      "A": "Wrong. India industrialized much later than Britain.",
+      "B": "Wrong. Indian agriculture continued; it was manufacturing that collapsed.",
+      "C": "Wrong. This reverses the actual direction of colonization.",
+      "D": "Correct. The destruction of handloom weaving is the textbook case of colonial deindustrialization."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 38,
+    "source_stimulus_words": 73
+  },
+  {
+    "id": "wh-barrons-u6-024",
+    "source_id": "barrons-u6-024",
+    "unit": 6,
+    "stimulus": "In the 1800s, Britain's textile mills depended heavily on cotton — first from the American South, and increasingly from India and Egypt after the 1860s.",
+    "stem": "During the American Civil War, Britain's need for Indian cotton increased sharply because",
+    "options": [
+      "(A) Britain stopped manufacturing textiles",
+      "(B) cotton was declared illegal",
+      "(C) The Union blockade of Southern cotton",
+      "(D) India suddenly stopped growing cotton"
+    ],
+    "key": "C",
+    "explanation": "The 'cotton famine' of the 1860s: with Southern ports blockaded, Lancashire's mills starved for raw cotton, and prices soared. Indian (and Egyptian) growers rushed to fill the gap — a wartime shock that permanently reoriented the global cotton trade toward new suppliers.",
+    "option_explanations": {
+      "A": "Wrong. British mills kept running; they needed new sources of supply.",
+      "B": "Wrong. Cotton was never illegal.",
+      "C": "Correct. The blockade created the cotton famine that boosted Indian exports.",
+      "D": "Wrong. Indian cotton production expanded, it did not stop."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 25,
+    "source_stimulus_words": 73
+  },
+  {
+    "id": "wh-barrons-u6-025",
+    "source_id": "barrons-u6-025",
+    "unit": 6,
+    "stimulus": "In the late 1800s, thousands of Chinese laborers who had come to the United States to work on railroads and in mines faced violent hostility. Labor unions denounced them as unfair competition, politicians demanded their exclusion, and Congress responded with the Chinese Exclusion Act of 1882.\n\nThe hostility had been building for decades. In California, Denis Kearney's Workingmen's Party made 'The Chinese Must Go' its slogan; mobs drove Chinese miners from their camps and burned Chinatowns. The Exclusion Act — the first American law to ban immigration by nationality — suspended Chinese labor immigration for ten years, was later extended indefinitely, barred Chinese immigrants from citizenship, and was not repealed until 1943, when China became a wartime ally. The law's repeal in 1943 — a wartime gesture to an ally — changed little in practice: a token quota of 105 Chinese immigrants a year kept exclusion effectively alive until 1965.",
+    "stem": "Opposition to Chinese immigrants in the United States was fueled in part by",
+    "options": [
+      "(A) labor unions' claims that Chinese workers depressed wages",
+      "(B) Chinese immigrants' refusal to do any work",
+      "(C) a Chinese military invasion of California",
+      "(D) Chinese immigrants' dominance of plantation ownership"
+    ],
+    "key": "A",
+    "explanation": "The Workingmen's Party and other labor organizations made the Chinese scapegoats for falling wages and unemployment, with the slogan 'The Chinese must go.' Economic anxiety, wrapped in racism, produced the first U.S. law banning immigration by nationality.",
+    "option_explanations": {
+      "A": "Correct. Wage-competition fears were the economic engine of exclusion.",
+      "B": "Wrong. Chinese immigrants were sought precisely because they worked hard for low pay.",
+      "C": "Wrong. There was no such invasion.",
+      "D": "Wrong. Chinese immigrants were laborers, not plantation owners."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 150,
+    "source_stimulus_words": 358
+  },
+  {
+    "id": "wh-barrons-u6-026",
+    "source_id": "barrons-u6-026",
+    "unit": 6,
+    "stimulus": "In the 1800s, hundreds of thousands of Chinese and Indian laborers migrated across the Pacific and Indian Oceans under indenture contracts — to Peru's guano islands, Caribbean sugar plantations, and North American railroads — often in harsh, coercive conditions.\n\nThe scale was enormous: hundreds of thousands of Chinese laborers to Cuba and Peru, over a million Indians to the Caribbean, Mauritius, Fiji, and East Africa. Recruitment was often deceptive — 'crimps' lured or kidnapped workers — and the contracts bound migrants for years at fixed wages under penal sanctions. Abolitionists denounced the system as slavery under another name; its defenders called it free contract. Historians still argue over where on the spectrum between slavery and free labor the 'coolie' trade belongs — which is why it is so often linked to abolition: it was the system that tested whether emancipation ended bondage or merely renamed it.",
+    "stem": "This migration is often linked to which of the following?",
+    "options": [
+      "(A) The invention of the airplane and air travel",
+      "(B) Replacing slave labor after abolition of the Atlantic trade",
+      "(C) The global spread of democratic government ideals",
+      "(D) A steep decline in all global trade"
+    ],
+    "key": "B",
+    "explanation": "As slavery was abolished across the 1800s, plantation owners and colonial governments needed replacement workers. The 'coolie trade' — indentured Asian labor — filled the gap: legally free but often recruited by deception and bound by punishing contracts, it has been called a new system of slavery.",
+    "option_explanations": {
+      "A": "Wrong. Airplanes came decades later; these migrants traveled by ship.",
+      "B": "Correct. Indentured migration was the post-abolition answer to plantation labor demand.",
+      "C": "Wrong. These migrants were not seeking democracy; they were recruited as labor.",
+      "D": "Wrong. Global trade was expanding, not declining."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 146,
+    "source_stimulus_words": 358
+  },
+  {
+    "id": "wh-barrons-u7-001",
+    "source_id": "barrons-u7-001",
+    "unit": 7,
+    "stimulus": "Australia's Immigration Restriction Act of 1901 — the legal cornerstone of the White Australia Policy — required any immigrant to pass a dictation test: officials could demand they write fifty words in any European language the officer chose.\n\nThe test was never meant to be passed. Officers administered it in languages the applicant could not possibly know — Scottish Gaelic for a Chinese merchant, for example — and between 1901 and 1958 no immigrant the authorities wished to exclude ever passed. The Act was the new Commonwealth's first major law, and its oblique design was deliberate: excluding by race without naming it avoided offending Britain and sidestepped diplomatic protests from the powers whose subjects were barred. The policy's architects were explicit about its purpose: Australia was to be a white man's country, its living standards protected by keeping out the cheap non-European labor that employers wanted and unions feared.",
+    "stem": "The Immigration Restriction Act enforced its exclusions mainly through",
+    "options": [
+      "(A) a lottery system open to all nationalities",
+      "(B) religious tests for church membership",
+      "(C) A rigged dictation test",
+      "(D) a complete ban on all immigration to Australia"
+    ],
+    "key": "C",
+    "explanation": "The dictation test was a masterpiece of bureaucratic racism: by letting the officer pick the language — say, Gaelic for a Chinese applicant — it guaranteed failure for anyone deemed undesirable, all without ever writing the word 'race' into the law.",
+    "option_explanations": {
+      "A": "Wrong. There was no lottery; admission was discretionary and discriminatory.",
+      "B": "Wrong. The test was linguistic, not religious.",
+      "C": "Correct. The dictation test was the policy's flexible exclusion mechanism.",
+      "D": "Wrong. Europeans were welcomed; the ban targeted non-Europeans selectively."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 149,
+    "source_stimulus_words": 358
+  },
+  {
+    "id": "wh-barrons-u7-002",
+    "source_id": "barrons-u7-002",
+    "unit": 7,
+    "stimulus": "Australia's Immigration Restriction Act of 1901 used a dictation test to exclude non-European immigrants without naming race in the law. The White Australia Policy it inaugurated lasted for most of the 20th century.\n\nThe Act was the new Commonwealth of Australia's first major legislation — a deliberate statement of the kind of nation Australia meant to be. Its mechanism was oblique by design: rather than naming race, which might offend Britain or invite diplomatic protest, it empowered officers to exclude any immigrant who failed a dictation test of fifty words in 'any prescribed language' the officer chose. In practice, an officer simply chose a language the applicant could not know — Scottish Gaelic for a Chinese merchant was a notorious early case. Between 1901 and 1958, no immigrant whom the authorities wanted to exclude ever passed. What replaced it — first a trickle of displaced Europeans, then, after 1973, formal non-discrimination — remade Australia into one of the world's most diverse societies, a transformation few in 1901 could have imagined.",
+    "stem": "The policy inaugurated by this act was dismantled",
+    "options": [
+      "(A) Gradually, in the 1960s–1970s",
+      "(B) immediately in 1902, the year after it passed",
+      "(C) never — it remains fully in force today",
+      "(D) by direct order of the British government in 1914"
+    ],
+    "key": "A",
+    "explanation": "Postwar labor shortages, changing racial attitudes, and engagement with Asia made the policy untenable. Reforms under Harold Holt and Gough Whitlam removed race as a criterion, ending White Australia — though debates over immigration restriction continued in new forms.",
+    "option_explanations": {
+      "A": "Correct. Dismantling was gradual, culminating in the 1970s.",
+      "B": "Wrong. The policy endured for over sixty years.",
+      "C": "Wrong. Race-based exclusion was formally ended.",
+      "D": "Wrong. The change was driven by Australian politics, not British orders."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 170,
+    "source_stimulus_words": 358
+  },
+  {
+    "id": "wh-barrons-u6-027",
+    "source_id": "barrons-u6-027",
+    "unit": 6,
+    "stimulus": "A photograph from the 1880s shows African hunters harvesting elephant ivory in the Congo basin. At the time, the Congo was not a colony of Belgium — it was the personal property of Belgium's King Leopold II, who ruled it as the 'Congo Free State.'",
+    "stem": "The colony shown was unusual in this period because it was",
+    "options": [
+      "(A) A French colony in central Africa",
+      "(B) Administered by the United Nations trusteeship",
+      "(C) The personal property of King Leopold II",
+      "(D) An independent African kingdom"
+    ],
+    "key": "C",
+    "explanation": "Leopold II acquired the Congo as a private venture at the Berlin Conference, ruling some 2.3 million square kilometers as his personal estate. The arrangement — a king owning a colony as private property — was unique in the age of imperialism and enabled exploitation without even nominal state oversight.",
+    "option_explanations": {
+      "A": "Wrong. The Congo was Belgian — indeed, personally Leopold's — not French.",
+      "B": "Wrong. The United Nations did not exist until 1945.",
+      "C": "Correct. The Congo Free State was Leopold's personal possession from 1885 to 1908.",
+      "D": "Wrong. African sovereignty had been extinguished by Leopold's claim."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 9
+  },
+  {
+    "id": "wh-barrons-u6-028",
+    "source_id": "barrons-u6-028",
+    "unit": 6,
+    "stimulus": "In Leopold II's Congo Free State, ivory was soon eclipsed by an even more valuable commodity: wild rubber, demanded by the bicycle and automobile industries. Villages were assigned rubber quotas enforced by Leopold's private army, the Force Publique.",
+    "stem": "To enforce rubber quotas, Leopold's agents commonly",
+    "options": [
+      "(A) Paid generous wages to attract willing voluntary workers",
+      "(B) Relied entirely on willing volunteers",
+      "(C) Imported European workers to do the harvesting",
+      "(D) Terrorized villages with hostage-taking and brutal punishments"
+    ],
+    "key": "D",
+    "explanation": "The quota system ran on terror: the Force Publique seized women as hostages, flogged shortfalls with the chicotte (hippopotamus-hide whip), and cut off hands — the notorious mutilations — as proof that bullets had not been wasted. Millions died from violence, overwork, and disease.",
+    "option_explanations": {
+      "A": "Wrong. Forced labor, not wage incentives, drove the system.",
+      "B": "Wrong. Nothing about the Congo Free State's labor was voluntary.",
+      "C": "Wrong. Europeans supervised; Africans did the forced harvesting.",
+      "D": "Correct. Systematic terror was the enforcement mechanism of the rubber regime."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 38,
+    "source_stimulus_words": 9
+  },
+  {
+    "id": "wh-barrons-u6-029",
+    "source_id": "barrons-u6-029",
+    "unit": 6,
+    "stimulus": "A photograph from the 1880s shows African hunters harvesting ivory in the Congo — an image that reveals nothing of the forced-labor regime behind it. In the early 1900s, reports of mutilations, hostage-taking, and mass death in Leopold II's Congo Free State began reaching Europe.",
+    "stem": "News of the abuses in the Congo led to which of the following?",
+    "options": [
+      "(A) Increased European investment in Leopold's private colony",
+      "(B) Leopold being celebrated internationally as a humanitarian",
+      "(C) The immediate independence of the Congo",
+      "(D) An international campaign against Leopold's rule"
+    ],
+    "key": "D",
+    "explanation": "E.D. Morel's Congo Reform Association, armed with Roger Casement's official report and missionary testimony, made the Congo the first great international human-rights campaign. The pressure became unbearable, and in 1908 Leopold was forced to hand his private estate to the Belgian government — though Belgian colonial rule that followed was itself harsh.",
+    "option_explanations": {
+      "A": "Wrong. The scandal dried up support; it did not attract investment.",
+      "B": "Wrong. Leopold's humanitarian pose was destroyed by the revelations.",
+      "C": "Wrong. Independence did not come until 1960.",
+      "D": "Correct. The reform campaign ended Leopold's personal rule in 1908."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 9
+  },
+  {
+    "id": "wh-barrons-u7-003",
+    "source_id": "barrons-u7-003",
+    "unit": 7,
+    "stimulus": "The Senegalese poet Léopold Sédar Senghor wrote in French: 'New York! I say New York, let black blood flow into your blood. Let it wash the rust from your steel joints, like an oil of life...' Senghor was a leading figure of negritude, a movement of francophone Black writers.",
+    "stem": "The negritude movement, to which the poet belonged, is best described as",
+    "options": [
+      "(A) A French government propaganda office",
+      "(B) A movement to abandon all traditional African customs",
+      "(C) An American jazz ensemble of the 1920s",
+      "(D) A Black francophone movement affirming African culture"
+    ],
+    "key": "D",
+    "explanation": "Negritude — founded by Senghor, Aimé Césaire, and Léon Damas in 1930s Paris — answered colonial claims of African inferiority by celebrating Blackness: African art, rhythm, emotion, and history. It was cultural decolonization before political decolonization, and it shaped a generation of African leaders (Senghor became Senegal's first president).",
+    "option_explanations": {
+      "A": "Wrong. It was an independent intellectual movement, often critical of France.",
+      "B": "Wrong. Negritude celebrated African traditions; it did not abandon them.",
+      "C": "Wrong. Senghor admired jazz, but negritude was a literary and political movement.",
+      "D": "Correct. Negritude was Black cultural self-affirmation against colonial racism."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 49,
+    "source_stimulus_words": 106
+  },
+  {
+    "id": "wh-barrons-u7-004",
+    "source_id": "barrons-u7-004",
+    "unit": 7,
+    "stimulus": "The Senegalese poet Léopold Sédar Senghor addressed New York in pulsing, musical verse celebrating Black vitality — 'let black blood flow into your blood' — written in the 1940s and steeped in the rhythms of jazz-age Black culture on both sides of the Atlantic.",
+    "stem": "Senghor's celebration of Black culture paralleled which contemporaneous movement?",
+    "options": [
+      "(A) The Harlem Renaissance in the United States",
+      "(B) The Italian Futurists",
+      "(C) Soviet socialist realism",
+      "(D) The British Arts and Crafts movement"
+    ],
+    "key": "A",
+    "explanation": "The Harlem Renaissance (1920s) and negritude (1930s–40s) were sister movements: Black artists in New York and Paris simultaneously reclaiming African heritage and asserting modern Black identity. Writers on both sides of the Atlantic read and influenced each other.",
+    "option_explanations": {
+      "A": "Correct. Both movements were flowerings of modern Black cultural self-assertion.",
+      "B": "Wrong. Futurism celebrated machines and war, not Black identity.",
+      "C": "Wrong. Socialist realism was Soviet state art, unrelated to negritude.",
+      "D": "Wrong. Arts and Crafts was a 19th-century British design movement."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 44,
+    "source_stimulus_words": 106
+  },
+  {
+    "id": "wh-barrons-u7-005",
+    "source_id": "barrons-u7-005",
+    "unit": 7,
+    "stimulus": "Léopold Sédar Senghor was born in Senegal, educated in French colonial schools, won a scholarship to Paris, became a French citizen and professor, served in the French army, and eventually became the first president of independent Senegal — all while writing poetry in French about Africa and the Black world.",
+    "stem": "The poet's ability to write in French about New York reflects which aspect of his life?",
+    "options": [
+      "(A) His birth into a New York literary family",
+      "(B) His decision to reject formal schooling entirely",
+      "(C) His years working as a merchant sailor",
+      "(D) A French colonial education on three continents"
+    ],
+    "key": "D",
+    "explanation": "Senghor embodied the colonial paradox: France educated him to be French, and he used that French education — the language, the literary forms, the Parisian networks — to affirm African identity and eventually lead Senegal to independence. His life maps the circuits of empire: colony to metropole and back.",
+    "option_explanations": {
+      "A": "Wrong. Senghor was born in Senegal, not New York.",
+      "B": "Wrong. He was among the most formally educated Africans of his generation.",
+      "C": "Wrong. He was a teacher, soldier, and statesman — not a sailor.",
+      "D": "Correct. Colonial education created the mobile, French-speaking intellectual."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 50,
+    "source_stimulus_words": 106
+  },
+  {
+    "id": "wh-barrons-u7-006",
+    "source_id": "barrons-u7-006",
+    "unit": 7,
+    "stimulus": "France's colonial doctrine of 'assimilation' held that colonial subjects could become French by adopting French language, culture, and values — measuring civilization by Frenchness. The negritude writers, educated in that very system, answered it with poetry affirming the worth of African cultures on their own terms.",
+    "stem": "Negritude differed from the French colonial ideal of 'assimilation' in that it",
+    "options": [
+      "(A) Supported the continuation of French colonialism",
+      "(B) rejected the use of the French language",
+      "(C) Valued African cultures on their own terms",
+      "(D) demanded that all Africans move to France"
+    ],
+    "key": "C",
+    "explanation": "Assimilation said: become French to become civilized. Negritude replied: African cultures are already valuable; Blackness needs no apology. It was a direct philosophical challenge to the premise of the civilizing mission — mounted, ironically, in impeccable French.",
+    "option_explanations": {
+      "A": "Wrong. Negritude's logic pointed toward decolonization, not its defense.",
+      "B": "Wrong. Negritude's founders wrote in French; they reclaimed the language rather than rejecting it.",
+      "C": "Correct. Negritude inverted assimilation's hierarchy of cultures.",
+      "D": "Wrong. Negritude was about African dignity, not emigration."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 46,
+    "source_stimulus_words": 106
+  },
+  {
+    "id": "wh-barrons-u7-007",
+    "source_id": "barrons-u7-007",
+    "unit": 7,
+    "stimulus": "Literacy among Russian speakers rose from 24 percent in 1897 to 45 percent in 1917, 56 percent in 1926, 75 percent in 1937, and effectively 100 percent by 1955 — one of the fastest literacy expansions in history, driven overwhelmingly by Soviet state campaigns after 1917.",
+    "stem": "The Soviet campaign behind the post-1917 literacy gains was known as",
+    "options": [
+      "(A) the Great Purge",
+      "(B) the New Economic Policy's tax in kind",
+      "(C) the Five-Year Plan for steel production",
+      "(D) likbez — the campaign to 'liquidate illiteracy'"
+    ],
+    "key": "D",
+    "explanation": "Likbez (likvidatsiya bezgramotnosti) mobilized the whole society — Komsomol youth, trade unions, the army — to teach reading in villages, factories, and barracks. The Bolsheviks treated literacy as both an economic necessity and a political one: a literate population could be industrialized — and indoctrinated.",
+    "option_explanations": {
+      "A": "Wrong. The Purge was political terror, not an education program.",
+      "B": "Wrong. The NEP tax concerned grain requisitioning, not literacy.",
+      "C": "Wrong. Steel plans were about heavy industry, not reading.",
+      "D": "Correct. Likbez was the mass literacy campaign of the 1920s–30s."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 46,
+    "source_stimulus_words": 37
+  },
+  {
+    "id": "wh-barrons-u7-008",
+    "source_id": "barrons-u7-008",
+    "unit": 7,
+    "stimulus": "Literacy among Russian speakers rose from 24 percent in 1897 to effectively 100 percent by 1955. Before the campaigns, illiteracy was concentrated in the countryside — and within peasant households, it was concentrated among women, whose schooling had been considered unnecessary.",
+    "stem": "Within the peasantry, the literacy campaign especially transformed the lives of",
+    "options": [
+      "(A) Foreign diplomats stationed in Moscow at the time",
+      "(B) Women, whose literacy had lagged far behind men's",
+      "(C) Orthodox priests in the villages",
+      "(D) Former nobles of the old regime"
+    ],
+    "key": "B",
+    "explanation": "Peasant girls had been the least-schooled group in Russia; the Soviet campaigns, backed by the women's department (Zhenotdel), brought millions of women into schools for the first time. Literacy opened jobs, party membership, and public life — a genuine social revolution within the larger one.",
+    "option_explanations": {
+      "A": "Wrong. Foreign diplomats are irrelevant to Soviet domestic literacy.",
+      "B": "Correct. The gender gap in literacy was where the campaign's impact was most dramatic.",
+      "C": "Wrong. Priests were already among the most literate Russians.",
+      "D": "Wrong. Former nobles were literate and politically suspect, not campaign targets."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 41,
+    "source_stimulus_words": 37
+  },
+  {
+    "id": "wh-barrons-u7-009",
+    "source_id": "barrons-u7-009",
+    "unit": 7,
+    "stimulus": "Soviet literacy campaigns taught tens of millions to read — using primers that praised tractors, collective farms, and Lenin, and channeling graduates into youth organizations like the Young Pioneers, where political education continued alongside schooling.",
+    "stem": "Soviet schools combined literacy with which of the following?",
+    "options": [
+      "(A) Political indoctrination through the Young Pioneers and Party curriculum",
+      "(B) Religious instruction in Orthodox Christianity and church scripture",
+      "(C) Complete freedom of the student press",
+      "(D) Instruction conducted only in foreign languages"
+    ],
+    "key": "A",
+    "explanation": "The regime never separated the 'how' of reading from the 'what': primers carried political messages, teachers were expected to build socialism, and the Pioneers and Komsomol extended the school's ideological work into leisure. Literacy created readers; the system decided what they would read.",
+    "option_explanations": {
+      "A": "Correct. Education was deliberately fused with political indoctrination.",
+      "B": "Wrong. The Soviet state was officially atheist and suppressed religious teaching.",
+      "C": "Wrong. No independent student press existed under Soviet censorship.",
+      "D": "Wrong. Instruction was in Russian and local languages, not foreign ones."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 35,
+    "source_stimulus_words": 37
+  },
+  {
+    "id": "wh-barrons-u7-010",
+    "source_id": "barrons-u7-010",
+    "unit": 7,
+    "stimulus": "Literacy among Russian speakers rose from 24 percent in 1897 to effectively 100 percent by 1955. Historians disagree about what this achievement means: some cite it as proof that the Soviet system delivered real modernization; others argue that no social achievement can redeem the regime's terror and repression.",
+    "stem": "The chart's data features in which historiographical debate?",
+    "options": [
+      "(A) Whether literacy causes revolutions",
+      "(B) Whether the Soviet Union even had any schools at all",
+      "(C) Whether Soviet achievements complicate the totalitarian view",
+      "(D) Whether Russia was ever actually communist"
+    ],
+    "key": "C",
+    "explanation": "This is the totalitarian-versus-revisionist debate in miniature. The 'totalitarian' school stresses terror and control; revisionists point to genuine modernization — literacy, industrialization, women's emancipation — and ask whether the Soviet experience can be reduced to repression alone. The literacy figures are ammunition for both sides.",
+    "option_explanations": {
+      "A": "Wrong. The debate is about evaluating the regime, not about literacy causing revolt.",
+      "B": "Wrong. The existence of Soviet schools is not in question.",
+      "C": "Correct. The data sits at the center of the totalitarian/revisionist argument.",
+      "D": "Wrong. No serious historian disputes that the USSR was communist-ruled."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 48,
+    "source_stimulus_words": 37
+  },
+  {
+    "id": "wh-barrons-u8-004",
+    "source_id": "barrons-u8-004",
+    "unit": 8,
+    "stimulus": "In 1955, Indonesia's President Sukarno opened the Bandung Conference of Asian and African nations, urging the newly independent countries to preserve peace, complete their 'revolutions,' and refuse to become pawns of the great powers.",
+    "stem": "The Bandung Conference helped popularize which concept?",
+    "options": [
+      "(A) The 'Third World' as a bloc apart from the Cold War rivals",
+      "(B) The 'Third Reich' of Nazi Germany",
+      "(C) The 'Third Estate' of revolutionary France",
+      "(D) The 'Third International' of world communism in Moscow"
+    ],
+    "key": "A",
+    "explanation": "Bandung gathered twenty-nine nations that belonged to neither Cold War camp, giving institutional form to the idea — coined by Alfred Sauvy in 1952 — of a 'Third World': the decolonizing nations as a collective political force with interests of their own.",
+    "option_explanations": {
+      "A": "Correct. Bandung was the Third World's founding moment as a political identity.",
+      "B": "Wrong. The Third Reich was Nazi Germany, unrelated to Bandung.",
+      "C": "Wrong. The Third Estate was the commoners of revolutionary France.",
+      "D": "Wrong. The Third International was the communist Comintern."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 34,
+    "source_stimulus_words": 99
+  },
+  {
+    "id": "wh-barrons-u8-005",
+    "source_id": "barrons-u8-005",
+    "unit": 8,
+    "stimulus": "Sukarno told the Bandung Conference that 'our revolutions will not be allowed to run their course' unless the new nations preserved their independence. A decade earlier, he had proclaimed Indonesia's independence from the Netherlands in 1945 and led the armed struggle that forced the Dutch to recognize it in 1949.",
+    "stem": "Sukarno himself had led which revolution?",
+    "options": [
+      "(A) The Russian Revolution of 1917",
+      "(B) The Cuban Revolution of 1959",
+      "(C) The American Revolution of 1776",
+      "(D) Indonesia's struggle against the Dutch"
+    ],
+    "key": "D",
+    "explanation": "Sukarno was not theorizing about other people's revolutions — he had led one. His proclamation of Indonesian independence and the four-year war against Dutch attempts to reclaim the colony made him the archetype of the nationalist leader addressing Bandung.",
+    "option_explanations": {
+      "A": "Wrong. Sukarno had no role in Russia's revolution.",
+      "B": "Wrong. The Cuban Revolution was led by Castro, a decade later.",
+      "C": "Wrong. The American Revolution predated Sukarno by nearly two centuries.",
+      "D": "Correct. The Indonesian National Revolution was Sukarno's own struggle."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 50,
+    "source_stimulus_words": 99
+  },
+  {
+    "id": "wh-barrons-u8-006",
+    "source_id": "barrons-u8-006",
+    "unit": 8,
+    "stimulus": "At Bandung in 1955, Sukarno urged newly independent nations to stay neutral in the Cold War. In practice, leaders like Sukarno, Nkrumah, and Nasser accepted economic and military aid from both Washington and Moscow while avoiding formal alliances with either.",
+    "stem": "In practice, nonalignment often meant",
+    "options": [
+      "(A) Aid from both superpowers, no alliances",
+      "(B) refusing all contact with both superpowers",
+      "(C) secretly joining NATO",
+      "(D) colonizing neighboring states"
+    ],
+    "key": "A",
+    "explanation": "Nonalignment was less a moral posture than a bargaining strategy: by refusing to commit, Third World leaders could play the superpowers against each other for dams, weapons, and development aid. Neutrality, in practice, meant keeping both doors open.",
+    "option_explanations": {
+      "A": "Correct. Aid-maximizing neutrality was the working definition of nonalignment.",
+      "B": "Wrong. Nonaligned states traded and negotiated with both sides constantly.",
+      "C": "Wrong. Joining NATO would have been alignment, not nonalignment.",
+      "D": "Wrong. Nonaligned states were the products of decolonization, not new colonizers."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 40,
+    "source_stimulus_words": 99
+  },
+  {
+    "id": "wh-barrons-u2-003",
+    "source_id": "barrons-u2-003",
+    "unit": 2,
+    "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long... I cannot come home with nothing.' The letter, preserved in the Cairo Geniza — a storeroom of discarded documents in a Cairo synagogue — shows a trader stranded abroad by the slow rhythms of monsoon commerce.",
+    "stem": "Letters like this one, preserved in the Cairo Geniza, are especially valuable to historians because they",
+    "options": [
+      "(A) record the formal laws issued by the Fatimid caliphs in Cairo",
+      "(B) list the exact prices of every traded good",
+      "(C) prove that trade never crossed religious lines",
+      "(D) Reveal merchants' everyday lives, invisible in official chronicles"
+    ],
+    "key": "D",
+    "explanation": "Chronicles record kings and battles; the Geniza records marriages, debts, quarrels, and lonely merchants. These discarded scraps let historians see the human texture of the Indian Ocean trade — the family strains, the waiting wives, the business anxieties — that official histories never mention.",
+    "option_explanations": {
+      "A": "Wrong. These are private papers, not government law codes.",
+      "B": "Wrong. Prices appear sporadically, not as systematic lists.",
+      "C": "Wrong. The letter itself shows a Jewish merchant trading in a Muslim-majority commercial world.",
+      "D": "Correct. The Geniza's value is social history: ordinary life preserved by accident."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 63,
+    "source_stimulus_words": 92
+  },
+  {
+    "id": "wh-barrons-u2-004",
+    "source_id": "barrons-u2-004",
+    "unit": 2,
+    "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long... I cannot come home with nothing.' He had been stranded abroad for months, unable to sail until the winds turned.",
+    "stem": "The long absences described were structured by which of the following?",
+    "options": [
+      "(A) The Mongol invasions of the Middle East",
+      "(B) The monsoon wind cycle",
+      "(C) The weekly observance of the Jewish Sabbath",
+      "(D) The military campaigns of the Crusades"
+    ],
+    "key": "B",
+    "explanation": "Indian Ocean sailing ran on the monsoons: summer winds carried ships east, winter winds carried them west. Miss your sailing window and you waited months for the winds to turn — which is why merchants spent long, involuntary seasons abroad, straining marriages like the one in the letter.",
+    "option_explanations": {
+      "A": "Wrong. The Mongol invasions came later and were overland.",
+      "B": "Correct. The monsoon rhythm governed the merchant's comings and goings.",
+      "C": "Wrong. The Sabbath is weekly; the absences lasted months.",
+      "D": "Wrong. The Crusades affected the Mediterranean, not the timing of Indian Ocean voyages."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 47,
+    "source_stimulus_words": 92
+  },
+  {
+    "id": "wh-barrons-u2-005",
+    "source_id": "barrons-u2-005",
+    "unit": 2,
+    "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long.' He discusses the possibility of divorce openly, as a legal procedure available within his community's religious law.",
+    "stem": "The letter's discussion of divorce reflects which feature of Jewish family law?",
+    "options": [
+      "(A) Jewish law forbade all remarriage after divorce",
+      "(B) A husband's formal bill of divorce (get)",
+      "(C) Divorce was completely impossible in Judaism",
+      "(D) Wives could end marriages unilaterally without any legal process"
+    ],
+    "key": "B",
+    "explanation": "Jewish law permitted divorce but regulated it: the husband delivered a get, a formal bill of divorce. That is why the merchant writes as he does — he cannot simply vanish; ending the marriage requires his legal act. The letter shows religious law structuring even a painful personal decision.",
+    "option_explanations": {
+      "A": "Wrong. Remarriage after divorce was permitted.",
+      "B": "Correct. The get procedure is the legal framework behind the letter.",
+      "C": "Wrong. Judaism allowed divorce; the letter discusses it as a real option.",
+      "D": "Wrong. The wife needed the husband's formal act — which is precisely her vulnerability here."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 44,
+    "source_stimulus_words": 92
+  }
+]

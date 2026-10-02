@@ -1,0 +1,849 @@
+[
+  {
+    "id": "wh-barrons-u9-007",
+    "source_id": "barrons-u9-007",
+    "unit": 9,
+    "stimulus": "India's constitution abolished 'untouchability,' and later laws criminalized a long list of caste-based abuses — forcing degrading labor on Dalits, insulting them, or denying them access to public spaces. A companion government report, however, documented that such abuses continued to occur regularly across the country.\n\nThe system it resembles grew from the same history. After independence, India wrote into its constitution both the abolition of untouchability and 'reservations' — quotas in legislatures, universities, and government employment for Scheduled Castes and Tribes. Like American affirmative action, reservations were meant as compensation: centuries of exclusion could not be undone by merely declaring equality. And like affirmative action, they became fiercely controversial — defended as necessary redress, attacked as entrenching the very categories they were meant to dissolve. The Indian debate, like the American one, ultimately turns on a question no law can settle by itself: whether justice means treating everyone identically from now on, or compensating for the centuries when they were not.",
+    "stem": "India's reservation system for Scheduled Castes — reserved seats in legislatures, universities, and government jobs — is most comparable to which of the following?",
+    "options": [
+      "(A) Progressive income taxation",
+      "(B) Military conscription",
+      "(C) Affirmative-action programs",
+      "(D) Immigration quotas limiting entry by nationality"
+    ],
+    "key": "C",
+    "explanation": "Reservations, like affirmative action, use state power to open doors that history had closed — setting aside places in education and employment for groups long subjected to discrimination. Both policies accept that formal legal equality alone does not undo entrenched disadvantage.",
+    "option_explanations": {
+      "A": "Wrong. Progressive taxation redistributes income; it does not reserve positions for excluded groups.",
+      "B": "Wrong. Conscription compels military service; it has nothing to do with remedying discrimination.",
+      "C": "Correct. Both systems compensate for historical exclusion through preferential access.",
+      "D": "Wrong. Immigration quotas restrict entry; reservations expand access."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 161,
+    "source_stimulus_words": 379
+  },
+  {
+    "id": "wh-barrons-u9-008",
+    "source_id": "barrons-u9-008",
+    "unit": 9,
+    "stimulus": "India's constitution abolished 'untouchability,' and later laws criminalized a long list of caste-based abuses. Yet government reports continued to document caste violence, and the rise of assertive Hindu nationalist politics in recent decades has coincided with renewed attacks on Dalits and religious minorities.\n\nThe constitutional promise was sweeping. Article 17 abolished 'untouchability' outright and made enforcing it a punishable offense; Article 15 banned discrimination on grounds of religion, race, caste, sex, or place of birth. The framers — led by B.R. Ambedkar, himself born into an untouchable community — intended a social revolution by law. But the laws collided with village realities: caste violence, social boycotts, and everyday humiliations persisted, enforced not by the state but by custom, and custom proved harder to legislate away. Ambedkar himself warned that political equality without social and economic equality would be a fragile achievement — a warning the decades since have repeatedly confirmed.",
+    "stem": "India's 1950 constitution addressed the practices targeted by the anti-untouchability laws by",
+    "options": [
+      "(A) mandating Hindi as the country's only official language",
+      "(B) Abolishing 'untouchability' and banning caste discrimination",
+      "(C) establishing Hinduism as the state religion",
+      "(D) restoring the princely states to full sovereignty"
+    ],
+    "key": "B",
+    "explanation": "Article 17 of the Indian constitution abolished untouchability outright and made its practice punishable — one of the most radical social commitments any new nation had written into its founding document. The gap between that promise and continued caste violence is the central tension of the sources.",
+    "option_explanations": {
+      "A": "Wrong. India recognized many official languages; Hindi was never made the sole one.",
+      "B": "Correct. The constitution made caste discrimination illegal from the republic's birth.",
+      "C": "Wrong. India defined itself as a secular state, not a Hindu one.",
+      "D": "Wrong. The princely states were integrated into India, not restored."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 150,
+    "source_stimulus_words": 379
+  },
+  {
+    "id": "wh-barrons-u9-009",
+    "source_id": "barrons-u9-009",
+    "unit": 9,
+    "stimulus": "India's laws against caste discrimination resemble the U.S. civil rights legislation of the 1960s: both proclaimed legal equality for long-oppressed groups, and both were followed by decades in which discrimination persisted despite the new laws.\n\nThe American parallel is the civil rights legislation of the 1960s — the Civil Rights Act of 1964 and the Voting Rights Act of 1965, which outlawed segregation and Black disenfranchisement. In both countries, formal equality was proclaimed from above while substantive equality was resisted below: de facto segregation, economic exclusion, and violence adapted and survived. In both, too, the new laws drew fire from opposite directions — denounced as government overreach by beneficiaries of the old order, and as insufficient by the people they were meant to help. Both cases suggest the same broader lesson: law can move faster than the societies it governs, and the gap between statute and custom is where the real struggle happens.",
+    "stem": "Like the U.S. civil rights legislation it resembles, the Indian law illustrates which broader historical pattern?",
+    "options": [
+      "(A) Legislation always ends discrimination immediately and completely",
+      "(B) Courts never enforce anti-discrimination laws",
+      "(C) Constitutions are incapable of addressing social problems",
+      "(D) Legal equality can be proclaimed far faster than social attitudes change"
+    ],
+    "key": "D",
+    "explanation": "Both India and the United States show the same pattern: the law moves first, society follows slowly. Statutes can desegregate schools or criminalize caste abuse, but prejudices embedded over centuries do not vanish by decree — which is why both countries needed decades of further struggle after their landmark laws.",
+    "option_explanations": {
+      "A": "Wrong. Both histories disprove this — discrimination outlived the laws.",
+      "B": "Wrong. Courts in both countries did enforce these laws, unevenly but really.",
+      "C": "Wrong. Constitutions can and do address social problems; the issue is speed, not capacity.",
+      "D": "Correct. The law-society gap is the shared lesson of both cases."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 153,
+    "source_stimulus_words": 379
+  },
+  {
+    "id": "wh-barrons-u9-010",
+    "source_id": "barrons-u9-010",
+    "unit": 9,
+    "stimulus": "A chart shows estimated numbers of people living with HIV/AIDS by region in the early 2000s. Sub-Saharan Africa accounts for the large majority of cases worldwide; South and Southeast Asia account for a substantial minority; North America, Western Europe, and Oceania account for small shares of the global total.",
+    "visual_reconstructed": true,
+    "stem": "Which of the following conclusions is NOT supported by the chart?",
+    "options": [
+      "(A) Western Europe and North America had far fewer cases than sub-Saharan Africa",
+      "(B) The chart proves that HIV/AIDS originated in Africa",
+      "(C) Asia accounted for a substantial minority of global cases",
+      "(D) Sub-Saharan Africa had the largest number of people living with HIV/AIDS"
+    ],
+    "key": "D",
+    "explanation": "The chart maps where cases were, not where the virus came from. Showing that a region has the most cases says nothing about origins — a disease can arrive from elsewhere and still hit one region hardest. Conclusions A, B, and D stay within what the data actually measures; C leaps beyond it.",
+    "option_explanations": {
+      "A": "Wrong as the answer because it IS supported — the Western shares are visibly small.",
+      "B": "Correct. A distribution chart cannot establish where a disease originated.",
+      "C": "Wrong as the answer because it IS supported — Asia's share is substantial.",
+      "D": "Wrong as the answer because it IS supported — Africa's bar dominates the chart."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 49,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u9-011",
+    "source_id": "barrons-u9-011",
+    "unit": 9,
+    "stimulus": "In the 1980s and 1990s, HIV/AIDS killed millions while public responses lagged: governments were slow to fund research, public discussion was muted, and the disease was widely associated in popular imagination with gay men, sex workers, and injecting drug users.",
+    "stem": "Public-health historians often argue that the early response to HIV/AIDS was slowed mainly by",
+    "options": [
+      "(A) a worldwide legal ban on discussing the disease",
+      "(B) the disease's confinement to a single country",
+      "(C) stigma linking the disease to marginalized groups, which muted the response",
+      "(D) the complete absence of any scientific understanding of viruses at the time"
+    ],
+    "key": "C",
+    "explanation": "Because the first visible victims belonged to stigmatized groups, the epidemic was treated as someone else's problem. Politicians avoided the issue, funding lagged, and moral panic substituted for public-health planning — a delay measured in millions of lives. The history of the response is inseparable from the history of the stigma.",
+    "option_explanations": {
+      "A": "Wrong. There was no such ban — the problem was reluctance, not prohibition.",
+      "B": "Wrong. HIV/AIDS was a global pandemic from the start.",
+      "C": "Correct. Stigma shaped policy: marginalized victims meant muted response.",
+      "D": "Wrong. Virology was well established; scientists identified HIV by 1984."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 40,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u9-012",
+    "source_id": "barrons-u9-012",
+    "unit": 9,
+    "stimulus": "A chart shows estimated numbers of people living with HIV/AIDS by region in the early 2000s. Sub-Saharan Africa accounts for the large majority of cases worldwide; South and Southeast Asia account for a substantial minority; North America, Western Europe, and Oceania account for small shares.",
+    "visual_reconstructed": true,
+    "stem": "To measure how deadly the epidemic was in each region — not just how widespread — the chart would most need to add",
+    "options": [
+      "(A) the number of hospitals in each region",
+      "(B) each region's average temperature",
+      "(C) the number of languages spoken in each region",
+      "(D) Deaths from AIDS-related illnesses in each region"
+    ],
+    "key": "D",
+    "explanation": "The chart measures prevalence — how many people are living with the disease. Deadliness is a different question, answered by mortality data. A region could have many cases but good treatment (lower deaths) or fewer cases but no treatment (higher deaths); only death figures reveal which.",
+    "option_explanations": {
+      "A": "Wrong. Hospital counts hint at capacity but do not measure deadliness directly.",
+      "B": "Wrong. Temperature is irrelevant to measuring the epidemic's toll.",
+      "C": "Wrong. Linguistic diversity has no bearing on mortality.",
+      "D": "Correct. Mortality data distinguishes how deadly the epidemic was from how widespread."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-012",
+    "source_id": "barrons-u1-012",
+    "unit": 1,
+    "stimulus": "A map of Mesoamerica (southern Mexico, Guatemala, Belize, and Honduras) marks the locations of major pre-Columbian centers — including Teotihuacan, Monte Albán, Tikal, Palenque, and Copán — with arrows indicating trade routes connecting them across the region.",
+    "visual_reconstructed": true,
+    "stem": "The arrows connecting cities on the map most directly indicate which of the following?",
+    "options": [
+      "(A) Networks of exchange linking Mesoamerican centers",
+      "(B) The routes marched by Spanish conquistadors",
+      "(C) Migrations of peoples out of Mesoamerica toward South America",
+      "(D) The paths by which European diseases spread"
+    ],
+    "key": "A",
+    "explanation": "Long before Europeans arrived, Mesoamerican cities were tied together by trade: obsidian, cacao, jade, salt, and pottery moved along established routes between highlands and lowlands. The arrows represent those Indigenous exchange networks — evidence that these societies were connected, not isolated.",
+    "option_explanations": {
+      "A": "Correct. The arrows depict pre-Columbian trade networks among Mesoamerican cities.",
+      "B": "Wrong. Conquistador routes came centuries after these cities' prime and are not what the map shows.",
+      "C": "Wrong. The arrows connect cities within Mesoamerica; they do not show outward migration.",
+      "D": "Wrong. European diseases arrived after 1492; the map depicts the pre-Columbian world."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 37,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-013",
+    "source_id": "barrons-u1-013",
+    "unit": 1,
+    "stimulus": "A map of Mesoamerica marks major pre-Columbian centers — Teotihuacan, Monte Albán, Tikal, Palenque, Copán — with arrows showing trade routes between them. Across these cities, archaeologists find recurring features: stepped pyramids, ritual ball courts, and similar religious iconography.",
+    "visual_reconstructed": true,
+    "stem": "The shared features visible across the sites on the map are often traced by archaeologists to the influence of which earlier culture?",
+    "options": [
+      "(A) The Spanish colonizers of the 1500s",
+      "(B) The Mississippian peoples of North America",
+      "(C) The Olmec, seen as Mesoamerica's 'mother culture'",
+      "(D) The Inca of the South American Andes"
+    ],
+    "key": "C",
+    "explanation": "The Olmec flourished on the Gulf Coast centuries before Teotihuacan or the Maya cities, and their artistic and religious motifs — colossal heads, jaguar imagery, pyramid platforms — echo through later Mesoamerican cultures. That is why scholars call the Olmec a 'mother culture': later societies built on their foundations.",
+    "option_explanations": {
+      "A": "Wrong. The shared features predate the Spanish arrival by many centuries.",
+      "B": "Wrong. Mississippian peoples lived in North America, outside the Mesoamerican tradition.",
+      "C": "Correct. Olmec influence underlies the shared Mesoamerican tradition.",
+      "D": "Wrong. The Inca were Andean, with no direct role in Mesoamerican cultural origins."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 39,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-014",
+    "source_id": "barrons-u1-014",
+    "unit": 1,
+    "stimulus": "A map of Mesoamerica marks major pre-Columbian centers — Teotihuacan, Monte Albán, Tikal, Palenque, Copán — with arrows showing trade routes between them. Staple foods like maize and beans moved along these routes, but so did rarer goods reserved for elites.",
+    "visual_reconstructed": true,
+    "stem": "In addition to foodstuffs, long-distance trade among the cities shown most likely included which of the following prestige goods?",
+    "options": [
+      "(A) Coffee and sugar from plantations",
+      "(B) Jade, obsidian, cacao, quetzal feathers",
+      "(C) Chinese silk and porcelain",
+      "(D) Horses and iron tools from Europe"
+    ],
+    "key": "B",
+    "explanation": "Mesoamerican elites displayed status through exotic materials: jade for ornaments, obsidian for blades and mirrors, cacao beans as both drink and currency, and iridescent quetzal feathers for headdresses. Control over these prestige goods was a source of political power — which is why they traveled so far.",
+    "option_explanations": {
+      "A": "Wrong. Coffee and sugar are Old World crops introduced by colonizers.",
+      "B": "Correct. These were the classic Mesoamerican prestige goods.",
+      "C": "Wrong. Silk and porcelain are Chinese products, unknown in the pre-Columbian Americas.",
+      "D": "Wrong. Horses and iron arrived with Europeans after 1492."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 41,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-015",
+    "source_id": "barrons-u1-015",
+    "unit": 1,
+    "stimulus": "A map of Mesoamerica marks major Maya cities — Tikal, Palenque, Copán — whose ruling dynasties collapsed between roughly 800 and 1000 CE, their monuments left unfinished. Yet Maya peoples, languages, and villages persisted across the region, and northern cities like Chichén Itzá rose afterward.",
+    "visual_reconstructed": true,
+    "stem": "Recent scholarship on the Classic Maya 'collapse' increasingly emphasizes that it was",
+    "options": [
+      "(A) caused entirely by the Spanish invasion",
+      "(B) a complete and permanent abandonment of every Maya city",
+      "(C) unrelated to any environmental factors",
+      "(D) a political fragmentation of city-states; Maya peoples endured"
+    ],
+    "key": "D",
+    "explanation": "What 'collapsed' was a political system — the divine kingship of Classic-period city-states — not a people. Millions of Maya descendants live in the region today, and cities in the northern lowlands thrived after the southern dynasties fell. The old image of a vanished civilization has given way to a story of political transformation.",
+    "option_explanations": {
+      "A": "Wrong. The Classic collapse happened centuries before the Spanish arrived.",
+      "B": "Wrong. Many cities were reoccupied or remained inhabited, and northern centers rose later.",
+      "C": "Wrong. Evidence for drought and environmental stress is part of the current explanation.",
+      "D": "Correct. The collapse was political; Maya peoples and cultures endured."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u1-016",
+    "source_id": "barrons-u1-016",
+    "unit": 1,
+    "stimulus": "A historian argues that early gunpowder weapons developed differently in Europe and China because the two regions faced different military problems: Europe's fragmented states fought protracted sieges where heavy cannon were useful, while China's rulers worried more about mobile nomadic cavalry on the northern frontier, against which early cannon were clumsy and ineffective.",
+    "stem": "The passage's argument is most relevant to debates about which of the following?",
+    "options": [
+      "(A) Whether China possessed any real military technology at all",
+      "(B) Whether naval warfare mattered in this period",
+      "(C) Whether divided Europe innovated militarily faster than unified China",
+      "(D) Whether gunpowder was invented in Europe"
+    ],
+    "key": "C",
+    "explanation": "The passage reframes the gunpowder story: it was not European genius versus Chinese stagnation, but different strategic environments producing different rational choices. Constant competition among Europe's many states rewarded siege artillery; China's continental empire needed answers to horsemen, not walls. The argument feeds the larger debate over why a divided Europe industrialized warfare faster.",
+    "option_explanations": {
+      "A": "Wrong. The passage discusses Chinese military choices, not Chinese incapacity.",
+      "B": "Wrong. Naval warfare is not the passage's subject.",
+      "C": "Correct. The passage links political fragmentation to divergent military development.",
+      "D": "Wrong. Gunpowder was invented in China; the passage assumes this."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 53,
+    "source_stimulus_words": 114
+  },
+  {
+    "id": "wh-barrons-u1-017",
+    "source_id": "barrons-u1-017",
+    "unit": 1,
+    "stimulus": "A historian argues that China's rulers invested less in early gunpowder artillery not from cultural blindness but because their most dangerous enemies were mobile nomadic horsemen of the northern steppe — against whom heavy, slow-firing cannon were nearly useless.\n\nThe transmission routes ran both ways across Eurasia: gunpowder recipes and casting techniques traveled west with the Mongol conquests, while improved European cannon designs later flowed back east. What the Islamic world did not import wholesale was the institutional package — standing, drilled infantry armies — that eventually made gunpowder decisive in Europe.",
+    "stem": "According to historians who defend the rationality of China's choices, Ming military investment focused instead on",
+    "options": [
+      "(A) Defending the northern frontier against nomadic cavalry",
+      "(B) Building a blue-water navy to conquer Europe outright",
+      "(C) Developing nuclear weapons",
+      "(D) Abandoning all military spending"
+    ],
+    "key": "A",
+    "explanation": "China's existential threat came from the steppe, not from walled European-style cities. Against fast-moving horsemen, the Ming needed walls, frontier garrisons, and mobile cavalry of their own — not siege guns. Judged against the actual threat, China's military spending was rational, not backward.",
+    "option_explanations": {
+      "A": "Correct. The steppe threat, not siege warfare, defined China's military needs.",
+      "B": "Wrong. Ming China built no navy for conquering Europe.",
+      "C": "Wrong. Nuclear weapons are a 20th-century anachronism.",
+      "D": "Wrong. Ming China spent enormously on frontier defense, including the Great Wall system."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 92,
+    "source_stimulus_words": 114
+  },
+  {
+    "id": "wh-barrons-u1-018",
+    "source_id": "barrons-u1-018",
+    "unit": 1,
+    "stimulus": "In the 1950s, the historian Joseph Needham asked a famous question: why did modern science and the Industrial Revolution arise in Europe, when China had led the world in technological invention — paper, printing, gunpowder, the compass — for centuries beforehand?\n\nNeedham — a Cambridge biochemist turned historian of Chinese science — spent decades documenting China's technological lead: the 'four great inventions' of paper, printing, gunpowder, and the compass, plus clocks, seismographs, and deep-drilling techniques centuries ahead of Europe. The question assumes the divergence needs explaining: given the head start, why did the breakthrough to modern science and industry happen at the other end of Eurasia?",
+    "stem": "The scholarly debate underlying this question is often called",
+    "options": [
+      "(A) The Turner frontier thesis on American democracy",
+      "(B) The Whig interpretation of history as inevitable progress",
+      "(C) The Needham question on China's early lead",
+      "(D) The Pirenne thesis on trade and the Middle Ages"
+    ],
+    "key": "C",
+    "explanation": "Needham's question launched decades of debate: was it Europe's political fragmentation, China's bureaucratic empire, coal and colonies, or something else that let the West pull ahead? The gunpowder argument in the passage is one entry in that larger argument about divergence.",
+    "option_explanations": {
+      "A": "Wrong. Turner's thesis is about the American frontier shaping democracy.",
+      "B": "Wrong. The Whig interpretation is about writing history as inevitable progress, not about China.",
+      "C": "Correct. Needham's question frames the whole East-West divergence debate.",
+      "D": "Wrong. The Pirenne thesis concerns the end of Mediterranean trade and the Middle Ages."
+    },
+    "skill": "Argumentation",
+    "reasoning": "Comparison",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 106,
+    "source_stimulus_words": 114
+  },
+  {
+    "id": "wh-barrons-u1-019",
+    "source_id": "barrons-u1-019",
+    "unit": 1,
+    "stimulus": "The Qur'an forbids wine, gambling, and idols as 'an infamy of Satan's handiwork.' Yet Persian poetry of the Islamic golden age is full of wine: one famous verse urges the reader, 'When once you hear the roses are in bloom, then is the time, my love, to pour the wine.'",
+    "stem": "The contrast between the two verses best illustrates which of the following about premodern Islamic societies?",
+    "options": [
+      "(A) A gap between religious prescriptions and social practice",
+      "(B) All Muslims strictly obeyed every religious rule at all times",
+      "(C) Persian poetry was banned by religious authorities",
+      "(D) The Qur'an encouraged the drinking of wine"
+    ],
+    "key": "A",
+    "explanation": "Islamic civilization contained both the jurist's prohibition and the courtier's wine cup. Caliphs who patronized scholars of religious law also patronized poets who celebrated drink. The pairing shows a society where official norms and lived practice diverged — as they do in most societies.",
+    "option_explanations": {
+      "A": "Correct. The verses document the distance between legal ideal and social reality.",
+      "B": "Wrong. The wine poem itself disproves universal obedience.",
+      "C": "Wrong. Persian wine poetry flourished openly; it was not suppressed.",
+      "D": "Wrong. The Qur'anic verse clearly forbids wine."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 50,
+    "source_stimulus_words": 59
+  },
+  {
+    "id": "wh-barrons-u1-020",
+    "source_id": "barrons-u1-020",
+    "unit": 1,
+    "stimulus": "A verse from the Qur'an opens with the address 'O ye who believe!' before forbidding wine, gambling, and idols as 'an infamy of Satan's handiwork,' urging the faithful to leave such things aside 'in order that ye may succeed.'",
+    "stem": "The verse's form of address — 'O ye who believe!' — suggests the passage functioned primarily as",
+    "options": [
+      "(A) a diplomatic letter addressed to a foreign king",
+      "(B) a merchant's commercial contract",
+      "(C) a military order to an army",
+      "(D) communal moral instruction for the Muslim community"
+    ],
+    "key": "D",
+    "explanation": "The direct address to the community of believers marks this as communal legislation: God speaking to Muslims as a body about how they should live. The form tells us the audience and the purpose — shaping the moral conduct of the faithful, not conducting diplomacy or business.",
+    "option_explanations": {
+      "A": "Wrong. Nothing in the form or content suggests diplomacy with outsiders.",
+      "B": "Wrong. The verse regulates conduct; it records no transaction.",
+      "C": "Wrong. This is moral instruction, not a battlefield command.",
+      "D": "Correct. The address identifies the audience as the believing community and the purpose as moral guidance."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 39,
+    "source_stimulus_words": 59
+  },
+  {
+    "id": "wh-barrons-u1-021",
+    "source_id": "barrons-u1-021",
+    "unit": 1,
+    "stimulus": "The Qur'an forbids wine as 'an infamy of Satan's handiwork.' Yet Persian poets of the Islamic golden age — many of them devout Muslims — wrote celebrated verses praising wine and revelry, and their poems were copied, recited, and treasured across the Islamic world.",
+    "stem": "The existence of this wine poetry alongside the Qur'anic prohibition suggests",
+    "options": [
+      "(A) Wine was legally sold inside mosques with clerical approval",
+      "(B) Diverse currents in Islamic civilization defying legal norms",
+      "(C) Persian poets were all non-Muslims outside Islamic law",
+      "(D) The Qur'an was unknown in Persia until modern times"
+    ],
+    "key": "B",
+    "explanation": "The same civilization produced both the prohibition and the poetry celebrating what was prohibited. Islamic culture was not monolithic: jurists, mystics, courtiers, and poets inhabited the same world and often disagreed about how to live in it. The wine verse is evidence of that internal diversity.",
+    "option_explanations": {
+      "A": "Wrong. Nothing suggests wine was sold in mosques; the poetry belongs to court and literary culture.",
+      "B": "Correct. The coexistence of norm and defiance reveals a plural culture.",
+      "C": "Wrong. Most Persian wine poets were Muslims writing within Islamic civilization.",
+      "D": "Wrong. The Qur'an was central to Persian religious and intellectual life."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 44,
+    "source_stimulus_words": 59
+  },
+  {
+    "id": "wh-barrons-u6-014",
+    "source_id": "barrons-u6-014",
+    "unit": 6,
+    "stimulus": "A chart of the British East India Company's army in India shows native troops (sepoys) growing from 69,661 in 1793 to 195,572 in 1815, while European troops grew from 18,768 to 31,611 — leaving Indians outnumbering Europeans by more than six to one.",
+    "stem": "The most striking feature of the data is the ratio of native to European troops. This pattern best reflects which British strategy?",
+    "options": [
+      "(A) Recruiting Europeans from within India's own population",
+      "(B) Garrisoning India cheaply with sepoys under European officers",
+      "(C) Excluding Indians from all military service",
+      "(D) Preparing to grant India independence soon"
+    ],
+    "key": "B",
+    "explanation": "Shipping British soldiers to India was expensive and they died in large numbers from disease. Recruiting sepoys — trained and officered by Europeans — gave the Company a huge army at a fraction of the cost. The chart shows that strategy succeeding spectacularly, and becoming the foundation of British power in India.",
+    "option_explanations": {
+      "A": "Wrong. The European troops were recruited in Britain and shipped to India.",
+      "B": "Correct. The sepoy system was a cost-saving strategy for maintaining empire.",
+      "C": "Wrong. Indians were the bulk of the army; they were not excluded.",
+      "D": "Wrong. The buildup served to entrench British control, not to end it."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 43,
+    "source_stimulus_words": 33
+  },
+  {
+    "id": "wh-barrons-u6-015",
+    "source_id": "barrons-u6-015",
+    "unit": 6,
+    "stimulus": "A chart of the British East India Company's army in India shows native troops (sepoys) growing from 69,661 in 1793 to 195,572 in 1815, while European troops grew from 18,768 to 31,611 — leaving Indians outnumbering Europeans by more than six to one.",
+    "stem": "The policy shown in the chart created which vulnerability for British rule?",
+    "options": [
+      "(A) Dependence on sepoy loyalty, exposed in 1857",
+      "(B) Military spending so excessive that it bankrupted Britain",
+      "(C) A chronic shortage of soldiers in India",
+      "(D) The immediate independence of India"
+    ],
+    "key": "A",
+    "explanation": "An empire whose army is six-sevenths native has made a bargain: cheap power in exchange for dependence on the very people it rules. When the sepoys mutinied in 1857, the British discovered how fragile that bargain was — the instrument of their control became the instrument of rebellion.",
+    "option_explanations": {
+      "A": "Correct. The 1857 revolt revealed the danger of relying on sepoy loyalty.",
+      "B": "Wrong. The sepoy system saved money; that was its purpose.",
+      "C": "Wrong. The chart shows numbers growing, not shrinking.",
+      "D": "Wrong. India did not become independent until 1947."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 43,
+    "source_stimulus_words": 33
+  },
+  {
+    "id": "wh-barrons-u6-016",
+    "source_id": "barrons-u6-016",
+    "unit": 6,
+    "stimulus": "In 1857, sepoys of the British East India Company's army mutinied, beginning a massive revolt across northern India. The spark was a rumor about the new Enfield rifle cartridges issued to the troops.",
+    "stem": "The 1857 revolt was triggered most immediately by",
+    "options": [
+      "(A) an invasion of India by Russia",
+      "(B) the abolition of the caste system",
+      "(C) Rumors that new cartridges were greased with cow and pig fat",
+      "(D) a British decision to disband all sepoy regiments entirely"
+    ],
+    "key": "C",
+    "explanation": "Loading the Enfield rifle required biting the cartridge open — and the rumor that the grease contained cow fat (sacred to Hindus) and pig fat (forbidden to Muslims) united both communities in outrage. The cartridges were the spark; deeper grievances about pay, status, and annexations were the fuel.",
+    "option_explanations": {
+      "A": "Wrong. Russia never invaded India.",
+      "B": "Wrong. The caste system was not abolished in this period.",
+      "C": "Correct. The greased-cartridge rumor ignited the mutiny.",
+      "D": "Wrong. The regiments were not disbanded; they rebelled."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 33,
+    "source_stimulus_words": 33
+  },
+  {
+    "id": "wh-barrons-u9-013",
+    "source_id": "barrons-u9-013",
+    "unit": 9,
+    "stimulus": "A photograph shows a McDonald's restaurant sign in an Arabic-speaking country: the golden arches are unchanged, but the restaurant's name is written in Arabic script, and the menu includes items adapted to local tastes.",
+    "visual_reconstructed": true,
+    "stem": "The translation of the sign into Arabic best illustrates which of the following?",
+    "options": [
+      "(A) A government ban on the English language",
+      "(B) Glocalization — global brands adapting to local cultures",
+      "(C) The disappearance of all local culture",
+      "(D) Arab ownership of the McDonald's corporation itself"
+    ],
+    "key": "B",
+    "explanation": "Multinationals do not simply impose identical products everywhere; they localize — translating signs, adjusting menus, hiring local franchisees — to sell better. The Arabic arches show globalization as a two-way negotiation: the brand goes global by going local.",
+    "option_explanations": {
+      "A": "Wrong. English remains widely used; the sign reflects marketing, not a ban.",
+      "B": "Correct. Adapting the global brand to local language is textbook glocalization.",
+      "C": "Wrong. The Arabic script shows local culture shaping the brand, not vanishing.",
+      "D": "Wrong. McDonald's remains an American corporation; local franchisees do not own it."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 34,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u9-014",
+    "source_id": "barrons-u9-014",
+    "unit": 9,
+    "stimulus": "By the early 2000s, American fast-food chains, film studios, and clothing brands operated in nearly every country on earth. Their golden arches, logos, and characters became some of the most widely recognized symbols in the world.",
+    "stem": "The spread of companies like these has provoked which of the following reactions?",
+    "options": [
+      "(A) Universal celebration with no criticism anywhere",
+      "(B) The collapse of every local business in every single country",
+      "(C) The end of all international trade",
+      "(D) Anti-globalization protests defending local cultures and economies"
+    ],
+    "key": "D",
+    "explanation": "The global reach of American brands made them symbols — and targets. From French farmers dismantling a McDonald's to campaigns against sweatshop labor, critics have treated multinationals as the face of cultural homogenization and economic inequality, making them focal points of the anti-globalization movement.",
+    "option_explanations": {
+      "A": "Wrong. These companies have faced sustained, organized criticism worldwide.",
+      "B": "Wrong. Local businesses adapted, competed, and often thrived; none of this was total.",
+      "C": "Wrong. Trade continued to grow; protesting globalization is not ending it.",
+      "D": "Correct. Multinationals became the primary targets of anti-globalization activism."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 36,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u9-015",
+    "source_id": "barrons-u9-015",
+    "unit": 9,
+    "stimulus": "Critics call the worldwide spread of American brands 'cultural imperialism' — the steamrolling of local cultures by U.S. mass culture. Defenders reply that the picture is more complicated: local consumers are not passive, and foreign products are constantly reshaped by the people who buy them.",
+    "stem": "Scholars who defend the spread of global brands against the 'cultural imperialism' charge argue that",
+    "options": [
+      "(A) Multinational corporations never adapt their products to local markets",
+      "(B) Local consumers actively adapt foreign products, creating hybrid cultures",
+      "(C) globalization has no cultural effects of any kind",
+      "(D) all local cultures have already completely disappeared"
+    ],
+    "key": "B",
+    "explanation": "The hybridization argument grants consumers agency: teenagers in Tokyo, Cairo, or São Paulo take American music, food, and fashion and remix them with local traditions into something new. Cultures are not blank slates that get overwritten; they are workshops that rework whatever arrives.",
+    "option_explanations": {
+      "A": "Wrong. Corporate localization — the Arabic menu boards — is well documented.",
+      "B": "Correct. Hybridization theory emphasizes local agency in cultural exchange.",
+      "C": "Wrong. Defenders acknowledge cultural effects; they dispute the imperialism framing.",
+      "D": "Wrong. This is the critics' fear stated as fact; defenders deny it."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 0
+  },
+  {
+    "id": "wh-barrons-u4-004",
+    "source_id": "barrons-u4-004",
+    "unit": 4,
+    "stimulus": "Two images: a portrait of Leonard Parkinson, a Maroon resistance fighter in Jamaica (c. 1796), and a map showing Cossack hosts scattered along the frontiers of the former Russian Empire. Maroons were communities of escaped enslaved people; Cossacks were frontier horsemen on the steppe borderlands.",
+    "stem": "Societies like those shown were able to form mainly because",
+    "options": [
+      "(A) they possessed industrial-era weapons",
+      "(B) Central states could not project power into frontier zones",
+      "(C) European empires actively encouraged their formation",
+      "(D) they received massive foreign military aid"
+    ],
+    "key": "B",
+    "explanation": "Maroons survived in Jamaica's mountains because British power could not reach them; Cossacks thrived on the steppe because Moscow's reach was thin. Frontier societies are born in the gaps of state power — where mountains, forests, or distance make control too costly to enforce.",
+    "option_explanations": {
+      "A": "Wrong. Both predate industrial weaponry by generations.",
+      "B": "Correct. Weak state reach in frontier zones created the space for autonomous societies.",
+      "C": "Wrong. Empires hunted Maroons and eventually absorbed Cossacks; they did not sponsor them.",
+      "D": "Wrong. These societies were self-sustaining; foreign aid is an anachronistic concept here."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 45,
+    "source_stimulus_words": 18
+  },
+  {
+    "id": "wh-barrons-u4-005",
+    "source_id": "barrons-u4-005",
+    "unit": 4,
+    "stimulus": "A portrait shows Leonard Parkinson, a Maroon resistance fighter in Jamaica (c. 1796). Maroon communities across the Caribbean and the Americas were founded by Africans who escaped enslavement and built free societies in mountains and forests.",
+    "stem": "The largest and most famous maroon society in the Americas was",
+    "options": [
+      "(A) A maroon republic in the mountains of Jamaica",
+      "(B) Palmares in Brazil",
+      "(C) A maroon state in the swamps of Florida",
+      "(D) A maroon kingdom in the Andes"
+    ],
+    "key": "B",
+    "explanation": "Palmares, in the Brazilian interior, grew to perhaps 20,000 people and held off Portuguese expeditions for nearly a century under leaders like Zumbi. It was the greatest of the maroon societies — a functioning African-Brazilian state built by people who refused enslavement.",
+    "option_explanations": {
+      "A": "Wrong. Jamaica did have maroon communities, but none approached Palmares in size or fame.",
+      "B": "Correct. Palmares (c. 1605–1694) was the largest maroon society in the Americas.",
+      "C": "Wrong. Florida's Fort Mose was a small Spanish-allied settlement, not the largest maroon society.",
+      "D": "Wrong. No major maroon kingdom existed in the Andes."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 36,
+    "source_stimulus_words": 18
+  },
+  {
+    "id": "wh-barrons-u4-006",
+    "source_id": "barrons-u4-006",
+    "unit": 4,
+    "stimulus": "A portrait shows Leonard Parkinson, a Maroon resistance fighter in Jamaica (c. 1796), and a map shows Cossack hosts along the frontiers of the Russian Empire. Both Maroons and Cossacks began as frontier peoples living beyond the full control of great states.",
+    "stem": "Over time, the Russian state dealt with the Cossack hosts mainly by",
+    "options": [
+      "(A) deporting them to the Americas",
+      "(B) absorbing them as military servitors of the empire",
+      "(C) exterminating them completely",
+      "(D) granting them full and permanent independence"
+    ],
+    "key": "B",
+    "explanation": "The tsars tamed the frontier by hiring it: Cossack hosts were enrolled as the empire's border guards and shock cavalry, rewarded with land and privileges in exchange for military service. Autonomy was traded for a place in the imperial order — absorption, not annihilation.",
+    "option_explanations": {
+      "A": "Wrong. No such deportation occurred.",
+      "B": "Correct. Co-optation as military servitors was the tsarist solution to the Cossacks.",
+      "C": "Wrong. The Cossacks survived as distinct communities into the 20th century.",
+      "D": "Wrong. Cossack autonomy steadily shrank; independence was never granted."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 42,
+    "source_stimulus_words": 18
+  },
+  {
+    "id": "wh-barrons-u3-010",
+    "source_id": "barrons-u3-010",
+    "unit": 3,
+    "stimulus": "A map shows the major Cossack hosts of the former Russian Empire — the Don, Kuban, Terek, Ural, Siberian, and others — scattered along the empire's southern and eastern frontiers, each labeled with its host name and general territory.",
+    "stem": "Which of the following important aspects of Cossack history can NOT be learned from the map alone?",
+    "options": [
+      "(A) The general location of the Cossack hosts",
+      "(B) That the hosts were spread across frontier regions",
+      "(C) The names of the major hosts",
+      "(D) The great Cossack revolts, like Pugachev's"
+    ],
+    "key": "D",
+    "explanation": "Maps show space, not events. The map tells you where the hosts were and what they were called, but nothing about what they did — the revolts of Razin and Pugachev, the wars, the negotiations with tsars. For actions in time, you need narrative sources, not just geography.",
+    "option_explanations": {
+      "A": "Wrong. Locations are exactly what the map does show.",
+      "B": "Wrong. The frontier distribution is visible on the map.",
+      "C": "Wrong. The host names are labeled on the map.",
+      "D": "Correct. Rebellions are events in time; a static map cannot show them."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 39,
+    "source_stimulus_words": 18
+  },
+  {
+    "id": "wh-barrons-u6-017",
+    "source_id": "barrons-u6-017",
+    "unit": 6,
+    "stimulus": "In 1857, Indian rebels seized the city of Cawnpore (Kanpur) and killed the British men, women, and children there. A British reporter called it an outrage by a 'subject race' against their masters; an Indian historian later described it as part of a larger cycle of violence in which British rule itself was brutal.\n\nThe reinterpretation began with V.D. Savarkar's 'The Indian War of Independence of 1857' (1909), written in London and banned by the British — a ban that only amplified its influence. Savarkar portrayed the revolt as a planned national uprising, Hindus and Muslims fighting side by side against foreign rule. Later historians have debated how 'national' the uprising truly was — many rebels fought for local rulers, religious causes, or personal grievances — but the nationalist frame endured: 1857 became the founding epic of the freedom movement, commemorated in textbooks, films, and monuments.",
+    "stem": "In later Indian nationalist historiography, the events of 1857 were reinterpreted as",
+    "options": [
+      "(A) a minor mutiny of no real historical significance",
+      "(B) a British victory worth celebrating",
+      "(C) a religious crusade against Islam",
+      "(D) India's 'First War of Independence' against colonial rule"
+    ],
+    "key": "D",
+    "explanation": "British histories called 1857 a 'mutiny' — a breakdown of military discipline. Indian nationalists, beginning with V.D. Savarkar's 1909 history, renamed it the First War of Independence: a national uprising against foreign rule. The name you give the event reveals whose history you are writing.",
+    "option_explanations": {
+      "A": "Wrong. Nationalists elevated 1857, they did not minimize it.",
+      "B": "Wrong. Celebrating a British victory is the colonial view, not the nationalist one.",
+      "C": "Wrong. The revolt united Hindus and Muslims against the British; it was not anti-Islamic.",
+      "D": "Correct. The nationalist reframing made 1857 the founding epic of the freedom struggle."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 146,
+    "source_stimulus_words": 322
+  },
+  {
+    "id": "wh-barrons-u6-018",
+    "source_id": "barrons-u6-018",
+    "unit": 6,
+    "stimulus": "In 1857, Indian rebels seized Cawnpore and killed the British civilians there. British newspapers covered the killings in lurid detail, dwelling on the deaths of women and children and presenting the rebels as savages who had betrayed their benevolent rulers.\n\nThe Times' correspondent William Howard Russell sent home graphic dispatches, and the illustrated papers printed lurid engravings of suffering memsahibs. In Britain, the coverage produced what historians call a 'mutiny mania' — public meetings demanding vengeance, verses celebrating retribution, and political pressure that pushed commanders toward exemplary brutality. It is a recurring pattern in imperial history: atrocity stories, true and embellished, manufactured the public consent for atrocities in return. The frenzy eventually embarrassed even its makers: when the scale of British reprisals became known, some of the same papers that had demanded vengeance fell conspicuously silent.",
+    "stem": "British newspapers' coverage of Cawnpore was used in Britain to justify",
+    "options": [
+      "(A) an alliance with the Mughal emperor",
+      "(B) brutal reprisals against Indian rebels and civilians",
+      "(C) the immediate granting of Indian independence",
+      "(D) the abolition of the British army"
+    ],
+    "key": "B",
+    "explanation": "The Cawnpore story, amplified and embellished by the press, created a thirst for revenge in Britain. It licensed a campaign of retribution — mass executions, the blowing of rebels from cannon, the burning of villages — far beyond what military necessity required. Atrocity narratives have political uses.",
+    "option_explanations": {
+      "A": "Wrong. The British deposed and exiled the Mughal emperor; they did not ally with him.",
+      "B": "Correct. The press coverage manufactured consent for savage reprisals.",
+      "C": "Wrong. The coverage hardened British opinion against Indian self-rule, not for it.",
+      "D": "Wrong. The army was expanded and reorganized, not abolished."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 136,
+    "source_stimulus_words": 322
+  }
+]

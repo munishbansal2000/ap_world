@@ -1,0 +1,392 @@
+[
+  {
+    "id": "wh-barrons-u6-010",
+    "source_id": "barrons-u6-010",
+    "unit": 6,
+    "stimulus": "Britain's Lord Lugard defended colonial rule as a 'dual mandate': Europe was in Africa, he wrote, not from pure philanthropy but 'for the mutual benefit of her own industrial classes, and of the native races in their progress to a higher plane.' A French colonial theorist made a similar case that empire served both France and its subjects.\n\nLugard set out the doctrine in 'The Dual Mandate in British Tropical Africa' (1922), the most influential statement of British colonial theory. The 'mandate' was deliberately double: to develop Africa's resources for the benefit of 'mankind' — in practice, European industry — and simultaneously to raise African peoples 'to a higher plane' through benevolent administration. The pairing was the point: it answered critics who called empire mere plunder by insisting that profit and philanthropy advanced together.",
+    "stem": "An argument like the 'dual mandate' was most useful to colonial officials for which of the following purposes?",
+    "options": [
+      "(A) Documenting native customs for anthropologists",
+      "(B) Persuading home audiences that empire served a moral purpose",
+      "(C) Proving to investors that colonies were unprofitable",
+      "(D) Encouraging the immediate decolonization of Africa"
+    ],
+    "key": "B",
+    "explanation": "The 'dual mandate' was a legitimation strategy. By claiming that empire benefited the colonized as well as the colonizer, officials could answer domestic critics who called colonialism mere exploitation — dressing economic interest in the language of duty and uplift.",
+    "option_explanations": {
+      "A": "Wrong. This is political justification, not ethnographic research.",
+      "B": "Correct. The rhetoric of mutual benefit justified empire to metropolitan audiences.",
+      "C": "Wrong. Colonial officials argued colonies were valuable, not worthless.",
+      "D": "Wrong. The argument defended continued colonial rule, not its end."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 134,
+    "source_stimulus_words": 316
+  },
+  {
+    "id": "wh-barrons-u6-011",
+    "source_id": "barrons-u6-011",
+    "unit": 6,
+    "stimulus": "Britain's Lord Lugard and a French colonial theorist both argued that Africans were not yet capable of self-government and benefited from benevolent European administration — a 'dual mandate' serving colonizer and colonized alike.\n\nThe nationalist generation knew these texts intimately — many had read Lugard in colonial schools. Their reply was that the 'dual mandate' described empire as its rulers wished to see it, not as Africans experienced it: forced labor, hut taxes, land seizures, and racial bars in the civil service. Leaders like Nkrumah and Senghor argued that no reform of colonialism could substitute for its end, because the promised benevolence was always conditional on African subordination. The 'dual mandate' thus did double duty: it justified empire to humanitarians at home while assuring Africans that their subordination was temporary and benevolent — a promise the nationalists, reading the same texts, found hollow.",
+    "stem": "A West African nationalist of the 1940s would most likely have responded to these claims by arguing that",
+    "options": [
+      "(A) European rule was even more benevolent than the authors had claimed",
+      "(B) Africans were indeed incapable of governing themselves",
+      "(C) colonialism should be extended to new territories",
+      "(D) Colonial benevolence talk masked exploitation and denied self-government"
+    ],
+    "key": "D",
+    "explanation": "Nationalists like Nkrumah and Azikiwe attacked exactly this paternalism: the claim that Africans needed European tutelage was, in their view, the ideological cover for denying them freedom. The 'dual mandate' was read as proof that empire could not reform itself — it had to end.",
+    "option_explanations": {
+      "A": "Wrong. Nationalists argued colonialism was worse than its defenders admitted, not better.",
+      "B": "Wrong. African incapacity was the colonial claim; nationalists rejected it entirely.",
+      "C": "Wrong. Nationalists sought independence, not more colonialism.",
+      "D": "Correct. The nationalist counter-argument unmasked benevolence as a justification for continued rule."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 143,
+    "source_stimulus_words": 316
+  },
+  {
+    "id": "wh-barrons-u6-012",
+    "source_id": "barrons-u6-012",
+    "unit": 6,
+    "stimulus": "Lord Lugard, Britain's leading colonial theorist, argued that African societies should be governed through their own chiefs and institutions, with British officials supervising from above rather than replacing native authority outright.\n\nLugard worked out the doctrine in northern Nigeria, where a handful of British officials faced the vast Sokoto Caliphate: too few to govern directly, they preserved the emirates, ruling through the emirs under British 'advisers.' It was cheap, it flattered traditional authority, and it froze African societies into an idealized 'tribal' form convenient for administration. Where no suitable chiefs existed, the British simply invented them — creating 'warrant chiefs' whose authority came from the colonial office rather than from their own people. Indirect rule's legacy outlasted empire: the chiefs it empowered — and invented — became key players in postcolonial politics, for better and for worse, across much of Anglophone Africa.",
+    "stem": "Lugard is best known for advocating which colonial policy?",
+    "options": [
+      "(A) Immediate independence for all colonies",
+      "(B) Settler-only governments with no native participation",
+      "(C) Indirect rule through existing African chiefs and institutions",
+      "(D) The complete cultural assimilation of Africans into French citizenship"
+    ],
+    "key": "C",
+    "explanation": "Lugard's 'Dual Mandate' made him the prophet of indirect rule: govern cheaply by co-opting existing authorities — emirs in northern Nigeria, for example — instead of building a costly European bureaucracy. It became the signature British method in Africa.",
+    "option_explanations": {
+      "A": "Wrong. Lugard defended empire; he did not advocate ending it.",
+      "B": "Wrong. Indirect rule depended on native authorities; it was not settler-only government.",
+      "C": "Correct. Indirect rule is Lugard's signature doctrine.",
+      "D": "Wrong. Assimilation was the French ideal; Lugard's Britain preferred to rule through difference."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 142,
+    "source_stimulus_words": 316
+  },
+  {
+    "id": "wh-barrons-u6-013",
+    "source_id": "barrons-u6-013",
+    "unit": 6,
+    "stimulus": "A British colonial theorist advocated ruling Africans through their own chiefs with minimal interference, while a French counterpart argued for drawing colonial subjects toward French language, law, and eventual citizenship.\n\nThe contrast shaped two empires. Where Lugard's Britain governed through chiefs and native courts, keeping Africans at arm's length from European institutions, France proclaimed a 'civilizing mission': colonial subjects were to be remade as Frenchmen through French schools, French law, and — for a select few — full citizenship. The Senegalese deputy Blaise Diagne even sat in the French parliament. In practice both systems served empire and both fell far short of their rhetoric — but they imagined the colonial relationship in opposite ways: Britain through difference preserved, France through difference erased. The irony is that both approaches produced similar results on the ground: African societies administered for European benefit, with the rhetoric of uplift covering the machinery of extraction.",
+    "stem": "The difference between the two authors' views reflects which broader contrast?",
+    "options": [
+      "(A) British indirect rule versus French assimilationist policy",
+      "(B) Belgian versus Portuguese colonial methods",
+      "(C) Settler colonies versus trading-post empires",
+      "(D) Nineteenth-century versus twentieth-century imperialism"
+    ],
+    "key": "A",
+    "explanation": "The classic contrast in colonial studies: Britain typically ruled through indigenous institutions (indirect rule), while France proclaimed a 'civilizing mission' of assimilation — making Africans culturally French. Both served empire, but they imagined the relationship between ruler and ruled very differently.",
+    "option_explanations": {
+      "A": "Correct. Indirect rule vs. assimilation is the standard British-French contrast.",
+      "B": "Wrong. Neither author is Belgian or Portuguese.",
+      "C": "Wrong. Both authors discuss governing large subject populations, not settler/trading-post models.",
+      "D": "Wrong. Both wrote in the same era; the difference is national doctrine, not century."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 150,
+    "source_stimulus_words": 316
+  },
+  {
+    "id": "wh-barrons-u9-001",
+    "source_id": "barrons-u9-001",
+    "unit": 9,
+    "stimulus": "A chart of annual energy consumption (in millions of tons of oil equivalent) shows the world total rising from 3,813 in 1965 to 10,565 in 2005. China's consumption grew from 182 to 1,429; India's from 53 to 236; the United States' from 1,284 to 2,117; Japan's from 149 to 489; and Egypt's from 8 to 38.",
+    "stem": "A limitation of this chart for comparing living standards across countries is that it",
+    "options": [
+      "(A) measures energy in units that cannot be compared",
+      "(B) reports total consumption without adjusting for population size",
+      "(C) omits China from the data entirely, skewing the results",
+      "(D) covers too short a period to show any trend"
+    ],
+    "key": "B",
+    "explanation": "Totals flatter populous countries: China's huge consumption partly reflects its huge population. To compare how much energy the average person uses — a rough proxy for living standards — you need per-capita figures. The chart as given cannot tell you whether an American or a Chinese citizen uses more energy.",
+    "option_explanations": {
+      "A": "Wrong. The units are consistent across countries and years.",
+      "B": "Correct. Without population data, totals cannot measure per-person consumption.",
+      "C": "Wrong. China is prominently included in the chart.",
+      "D": "Wrong. Forty years is ample to show a trend."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 56,
+    "source_stimulus_words": 122
+  },
+  {
+    "id": "wh-barrons-u9-002",
+    "source_id": "barrons-u9-002",
+    "unit": 9,
+    "stimulus": "Two charts track the period 1965–2011: one shows world energy consumption roughly tripling, the other shows atmospheric carbon dioxide concentrations climbing steeply along a nearly identical curve.\n\nThe pairing is the visual shorthand of the climate debate: energy use and CO₂ rising together across the decades of postwar industrialization, with the steepest climbs coming as developing economies — above all China after 2000 — industrialized on fossil fuels.",
+    "stem": "The correlation shown by the two charts is most often cited in debates over which of the following?",
+    "options": [
+      "(A) Whether international oil prices should be regulated",
+      "(B) Whether rich and poor nations should face the same emissions limits",
+      "(C) Whether nuclear power plants are safe to operate",
+      "(D) Whether deforestation is the main cause of desertification worldwide"
+    ],
+    "key": "B",
+    "explanation": "The charts sit at the heart of the climate-justice debate: if fossil-fueled growth drove the CO2 rise, who should cut back now? Developing nations argue the early industrializers filled the atmosphere first and should bear the cost; wealthy nations press for universal limits. The data fuels both sides.",
+    "option_explanations": {
+      "A": "Wrong. Oil-price regulation is an economic question, not the climate-equity debate.",
+      "B": "Correct. The energy-CO2 link is the factual basis of the burden-sharing debate.",
+      "C": "Wrong. Nuclear safety is a separate issue from the fossil-fuel correlation.",
+      "D": "Wrong. Desertification debates center on land use, not these charts."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 68,
+    "source_stimulus_words": 122
+  },
+  {
+    "id": "wh-barrons-u9-003",
+    "source_id": "barrons-u9-003",
+    "unit": 9,
+    "stimulus": "Two charts track the period 1965–2011: one shows world energy consumption roughly tripling, the other shows atmospheric carbon dioxide concentrations climbing steeply along a nearly identical curve.\n\nThe caution is methodological: two curves rising together demonstrate correlation, not causation — and they say nothing about which came first, what other variables were involved, or whether the relationship would hold outside the period shown.",
+    "stem": "A historian of science would caution that the charts alone",
+    "options": [
+      "(A) show that world energy use actually declined",
+      "(B) Show correlation, needing more evidence to establish causation",
+      "(C) prove nothing at all about the relationship between energy and carbon dioxide",
+      "(D) disprove any role for fossil fuels in the carbon dioxide rise"
+    ],
+    "key": "B",
+    "explanation": "Two curves moving together is a clue, not a proof. Scientists established the causal link through other evidence — the isotopic fingerprint of fossil-fuel carbon in the atmosphere, laboratory physics of greenhouse gases — not from the correlation alone. Good historical thinking applies the same caution: correlation invites explanation; it does not supply it.",
+    "option_explanations": {
+      "A": "Wrong. The energy chart clearly shows consumption rising, not declining.",
+      "B": "Correct. Correlation requires a mechanism, confirmed by independent evidence, before it becomes causation.",
+      "C": "Wrong. The correlation is real evidence; it is just not sufficient on its own.",
+      "D": "Wrong. The charts are consistent with fossil fuels driving the rise, not against it."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "TEC"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 63,
+    "source_stimulus_words": 122
+  },
+  {
+    "id": "wh-barrons-u8-001",
+    "source_id": "barrons-u8-001",
+    "unit": 8,
+    "stimulus": "Two political cartoons — one American from early 1945 about the Yalta Conference, one British from 1946 titled 'Path to Peace' — both depict the Soviet Union menacingly expanding its control over Eastern Europe while Western leaders look on uneasily.",
+    "stem": "Because both cartoons were published in the United States and Britain, a historian should recognize that they",
+    "options": [
+      "(A) present a Western view of Soviet actions, not a neutral account",
+      "(B) were censored by the Soviet government before publication",
+      "(C) prove Stalin's intentions conclusively",
+      "(D) had no political viewpoint of their own"
+    ],
+    "key": "A",
+    "explanation": "Cartoons are arguments, not photographs. Published in American newspapers and the British magazine Punch, these images show how the West saw Stalin's moves — as threatening expansion. A Soviet cartoonist of 1946 would have drawn the same events very differently. Sourcing means reading the perspective, not just the picture.",
+    "option_explanations": {
+      "A": "Correct. The cartoons' origin defines their point of view.",
+      "B": "Wrong. They were published in the West, beyond Soviet censorship.",
+      "C": "Wrong. A cartoon expresses an interpretation; it cannot prove intentions.",
+      "D": "Wrong. Political cartoons are inherently opinionated."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 40,
+    "source_stimulus_words": 19
+  },
+  {
+    "id": "wh-barrons-u8-002",
+    "source_id": "barrons-u8-002",
+    "unit": 8,
+    "stimulus": "In August 1946, the British magazine Punch published a cartoon titled 'Path to Peace.' The image shows the road ahead blocked by Soviet obstruction and intimidation in Eastern Europe, with Western leaders uncertain how to proceed.",
+    "stem": "The cartoon's title, 'Path to Peace,' is best understood as",
+    "options": [
+      "(A) a sincere celebration of Soviet-American friendship",
+      "(B) a reference to the founding of the United Nations",
+      "(C) an advertisement for a new highway project",
+      "(D) Ironic: the actual path was leading toward confrontation"
+    ],
+    "key": "D",
+    "explanation": "The title says 'peace' while the image shows anything but — that gap is the joke, and the warning. By 1946, cartoonists like Berryman were telling Western audiences that Soviet behavior was closing off the road to a peaceful settlement, whatever the diplomats claimed.",
+    "option_explanations": {
+      "A": "Wrong. Nothing in the image celebrates friendship; it depicts intimidation.",
+      "B": "Wrong. The UN is not the cartoon's subject; Soviet expansion is.",
+      "C": "Wrong. This is a political metaphor, not a literal road notice.",
+      "D": "Correct. The cheerful title clashes with the menacing image — classic cartoon irony."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 36,
+    "source_stimulus_words": 19
+  },
+  {
+    "id": "wh-barrons-u8-003",
+    "source_id": "barrons-u8-003",
+    "unit": 8,
+    "stimulus": "Two political cartoons — one American from early 1945 about the Yalta Conference, one British from 1946 titled 'Path to Peace' — both depict the Soviet Union menacingly expanding its control over Eastern Europe while Western leaders look on uneasily.",
+    "stem": "The concerns expressed in the cartoons most directly foreshadow which U.S. policy development?",
+    "options": [
+      "(A) The Truman Doctrine and the containment of Soviet expansion",
+      "(B) The Marshall Plan's economic loans to Latin America",
+      "(C) American isolationism in the 1930s",
+      "(D) The U.S. decision to join the League of Nations"
+    ],
+    "key": "A",
+    "explanation": "The cartoons' alarm about Soviet domination of Eastern Europe became official policy in 1947: the Truman Doctrine pledged American support to peoples resisting subjugation, and containment made stopping Soviet expansion the organizing principle of U.S. foreign policy for four decades.",
+    "option_explanations": {
+      "A": "Correct. Containment was the policy answer to exactly these fears.",
+      "B": "Wrong. The Marshall Plan aided Western Europe, not Latin America.",
+      "C": "Wrong. The 1930s predate the Cold War; isolationism was its opposite.",
+      "D": "Wrong. The United States never joined the League of Nations."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 40,
+    "source_stimulus_words": 19
+  },
+  {
+    "id": "wh-barrons-u9-004",
+    "source_id": "barrons-u9-004",
+    "unit": 9,
+    "stimulus": "In 1966, a group of American women founded the National Organization for Women (NOW), declaring their intent 'to break through the silken curtain of prejudice and discrimination against women in government, industry, the professions, the churches, the political parties, the judiciary, the labor unions, in education, science, medicine, law, religion and every other field.'\n\nThe immediate spark was the Equal Employment Opportunity Commission's refusal to enforce the ban on sex discrimination in the Civil Rights Act of 1964 — a provision many congressmen had assumed was a joke. Betty Friedan and the other founders, most of them professional women who had hit the wall of workplace discrimination, concluded that women needed their own NAACP: a pressure group that would picket, sue, and lobby. Within a few years NOW was the organizational backbone of the second-wave feminist movement.",
+    "stem": "The founding of NOW is best understood as part of which broader development?",
+    "options": [
+      "(A) A movement to restrict women to domestic roles",
+      "(B) The anti-war movement's opposition to the draft",
+      "(C) Second-wave feminism's push beyond suffrage",
+      "(D) The campaign for women's suffrage in the early 1900s"
+    ],
+    "key": "C",
+    "explanation": "NOW's founders argued that winning the vote had not brought equality: discrimination persisted in workplaces, schools, and law. Their 'silken curtain' speech launched the organizational phase of second-wave feminism, which demanded equal treatment across every sphere of life, not just the ballot box.",
+    "option_explanations": {
+      "A": "Wrong. NOW fought precisely against confining women to domestic roles.",
+      "B": "Wrong. Opposition to the draft was a separate movement, though some activists overlapped.",
+      "C": "Correct. NOW epitomizes second-wave feminism's expansion from suffrage to comprehensive equality.",
+      "D": "Wrong. Suffrage was the first wave's goal, achieved in the U.S. in 1920 — decades earlier."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 137,
+    "source_stimulus_words": 226
+  },
+  {
+    "id": "wh-barrons-u9-005",
+    "source_id": "barrons-u9-005",
+    "unit": 9,
+    "stimulus": "The founders of the National Organization for Women (1966) argued that the decline of 'muscular strength' as a requirement for productive work had removed the last practical justification for treating women as second-class workers and citizens.\n\nThe claim was deliberately materialist. Earlier arguments for women's rights had rested on natural rights or moral claims; NOW's founders added economics: industrial and office work ran on literacy, dexterity, and education, not brawn. If physical strength no longer determined who could do productive work, then the remaining barriers — help-wanted ads segregated by sex, marriage bars, quotas in professional schools — stood exposed as pure prejudice rather than practical necessity.",
+    "stem": "The argument described in the passage rests on which of the following claims?",
+    "options": [
+      "(A) Women were naturally stronger than men",
+      "(B) All jobs in the modern economy required heavy lifting back then",
+      "(C) The government had banned women from working",
+      "(D) Economic change had made physical strength irrelevant to most work"
+    ],
+    "key": "D",
+    "explanation": "NOW's point was historical: whatever justification physical differences once offered for a gendered division of labor, the modern service and knowledge economy had erased it. With brains mattering more than brawn, excluding women from professions and power had no functional basis left.",
+    "option_explanations": {
+      "A": "Wrong. The argument is about the irrelevance of strength, not female superiority in it.",
+      "B": "Wrong. This is the opposite of the passage's claim.",
+      "C": "Wrong. No such ban existed; the issue was discrimination, not prohibition.",
+      "D": "Correct. The passage ties equality demands to the changing nature of work."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN"
+    ],
+    "difficulty": "medium",
+    "type": "mcq",
+    "stimulus_words": 107,
+    "source_stimulus_words": 226
+  },
+  {
+    "id": "wh-barrons-u9-006",
+    "source_id": "barrons-u9-006",
+    "unit": 9,
+    "stimulus": "In 1966, the National Organization for Women demanded equality for women 'in government, industry, the professions, the churches, the political parties, the judiciary, the labor unions, in education, science, medicine, law, religion and every other field' — far beyond the vote that earlier feminists had sought.\n\nThe contrast marks the difference between first- and second-wave feminism. The late-1800s movement, led by figures like Susan B. Anthony and Emmeline Pankhurst, concentrated its fire on the vote as the key that would unlock everything else. By 1966 the vote was nearly fifty years old in America — and NOW's founders argued it had unlocked far too little. The new demand was equality 'in every field': not just the ballot but the workplace, the bedroom, and the law that governed both.",
+    "stem": "Compared with the main thrust of feminist thinking in the late 1800s and early 1900s, the document shows",
+    "options": [
+      "(A) An expansion from basic rights to equality in every sphere",
+      "(B) a complete rejection of everything earlier feminists had achieved",
+      "(C) a narrower focus concerned only with voting rights",
+      "(D) an abandonment of interest in legal equality"
+    ],
+    "key": "A",
+    "explanation": "First-wave feminism centered on suffrage and basic legal rights. NOW's sweeping list — professions, churches, unions, science — shows the second wave building on that foundation and demanding that equality reach everywhere the first wave had not yet carried it.",
+    "option_explanations": {
+      "A": "Correct. The document widens feminism's scope from the ballot box to all of society.",
+      "B": "Wrong. Later feminists built on earlier victories; they did not repudiate them.",
+      "C": "Wrong. The passage explicitly goes far beyond voting rights.",
+      "D": "Wrong. Legal equality remained central; the document demands more of it, not less."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "SIO"
+    ],
+    "difficulty": "hard",
+    "type": "mcq",
+    "stimulus_words": 128,
+    "source_stimulus_words": 226
+  }
+]
