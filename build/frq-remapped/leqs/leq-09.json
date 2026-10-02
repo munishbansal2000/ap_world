@@ -1,0 +1,26 @@
+{
+  "id": "leq-09",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    4
+  ],
+  "themes": [
+    "CDI",
+    "GOV"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the sixteenth century, the Protestant Reformation divided Western Christianity and sparked religious conflict. Develop an argument that evaluates the extent to which the Reformation transformed Christianity in the period c. 1450-c. 1750.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: late medieval church corruption and reform movements, the printing press, the wars of religion, or the Catholic Counter-Reformation.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Lutheran and Calvinist doctrine, the Peace of Augsburg and cuius regio, the Council of Trent and Jesuit missions, the Thirty Years' War, the continued global expansion of Catholicism.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to show both transformation (new denominations, religious wars, state churches) and continuity (Catholic dominance, shared core doctrines, Counter-Reformation renewal).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: evaluates the degree of transformation by weighing what changed in Christianity against what persisted.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "The Reformation permanently transformed Christianity's institutional landscape by creating competing churches and tying religion to state power, yet much continued: Catholicism remained the world's largest Christian tradition, expanded globally through missions, and Protestants and Catholics shared most core doctrines.",
+  "evidence_directions": "Strong responses balance institutional rupture (new churches, religious wars, state confessionalization) against continuities (Counter-Reformation Catholicism, shared theology, global Catholic missions). Answers confined to Europe ignore the global dimension of the period.",
+  "source_inspiration": "princeton-epub: princeton-pt2-leq3"
+}

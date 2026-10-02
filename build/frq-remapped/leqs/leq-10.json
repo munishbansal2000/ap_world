@@ -1,0 +1,26 @@
+{
+  "id": "leq-10",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    5
+  ],
+  "themes": [
+    "GOV",
+    "ECN"
+  ],
+  "target_reasoning_process": "causation",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "Industrialization began in some states in the late eighteenth century and spread unevenly across the world. Develop an argument that evaluates the extent to which state policies and government actions caused industrialization to begin and spread in the period c. 1750-c. 1900.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: Enlightenment ideas about political economy, competition among states, existing commercial and agricultural revolutions, or the global demand for manufactured goods.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: British enclosure acts and patent law, Meiji state-led industrialization in Japan, Prussian/German tariffs and railways, Sergei Witte's policies in Russia, Ottoman or Egyptian reform efforts (Tanzimat, Muhammad Ali).",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the causal claim (e.g., showing how a specific policy promoted or failed to promote industry).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: evaluates the role of the state against other causes such as private capital, natural resources, labor supply, or market demand.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "State action was often decisive - Meiji Japan and Bismarckian Germany industrialized rapidly because governments built infrastructure, protected markets, and imported expertise - but states could not industrialize by decree alone; private enterprise, coal and capital, and existing commercial networks were equally necessary.",
+  "evidence_directions": "Strong responses contrast state-led cases (Japan, Germany, Russia) with market-led ones (Britain) and failures (Ottoman reforms, Egypt under Muhammad Ali). One-sided 'governments caused it all' or 'governments did nothing' answers miss the evaluation.",
+  "source_inspiration": "fivesteps: fivesteps-frq-007"
+}

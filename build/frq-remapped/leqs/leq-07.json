@@ -1,0 +1,26 @@
+{
+  "id": "leq-07",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    4
+  ],
+  "themes": [
+    "ECN",
+    "GOV"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "In the period c. 1450-c. 1750, European states built overseas empires that reorganized commerce across the Atlantic and Indian Oceans. Develop an argument that evaluates the extent to which European empire-building transformed long-distance trade in this period.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: pre-1450 Indian Ocean and Silk Road trade dominated by Asian and Muslim merchants, European maritime technology, mercantilist policies, or the silver trade.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: the Atlantic system and triangular trade, joint-stock companies (VOC, EIC), Spanish silver flows from Potosi, the continued role of Gujarati and Arab merchants in the Indian Ocean, Chinese and Ottoman regulation of European traders.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must address both change (new Atlantic routes, company monopolies) and continuity (persistence of Asian merchant networks, European marginality in Asia's interior).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: evaluates the degree of transformation by weighing European-created systems against trade patterns that persisted.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "European empires created genuinely new commercial systems in the Atlantic, including the plantation complex and company monopolies, but they transformed rather than replaced global trade: across the Indian Ocean, established Asian merchant networks continued to dominate, and Europeans remained dependent on Asian markets and intermediaries.",
+  "evidence_directions": "Strong responses avoid a Europe-centered story by crediting the persistence of Indian Ocean commerce and limits on European power in Asia (e.g., the Canton system, Mughal control). Answers that treat European dominance as total should be marked down.",
+  "source_inspiration": "princeton-epub: princeton-pt3-leq3"
+}

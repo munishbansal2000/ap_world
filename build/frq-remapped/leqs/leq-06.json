@@ -1,0 +1,27 @@
+{
+  "id": "leq-06",
+  "format": "leq",
+  "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+  "units": [
+    4
+  ],
+  "themes": [
+    "ENV",
+    "SIO",
+    "ECN"
+  ],
+  "target_reasoning_process": "continuity and change",
+  "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+  "prompt": "After 1492, the Columbian Exchange moved plants, animals, people, and diseases between the Americas, Europe, and Africa. Develop an argument that evaluates the extent to which the Columbian Exchange transformed the societies of the Americas in the period c. 1450-c. 1750.",
+  "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: European colonization of the Americas, the transatlantic slave trade, the demographic collapse from epidemic disease, or pre-contact American societies.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: smallpox and demographic collapse, the plantation system and enslaved African labor, maize/potato/tomato transfers, horses transforming Plains societies, silver mining at Potosi, indigenous resistance and adaptation.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to show transformation AND continuity (e.g., disease transformed demographics while indigenous communities adapted and persisted).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Continuity and change: analyzes the degree of transformation, distinguishing what changed from what persisted or adapted.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+  },
+  "sample_thesis": "The Columbian Exchange transformed the Americas profoundly through catastrophic disease, new crops and animals, and coerced labor systems, yet the transformation was not total: indigenous peoples adapted European introductions to their own purposes and sustained communities and cultures through centuries of pressure.",
+  "evidence_directions": "Strong responses quantify or specify the change (demographic collapse, plantation slavery, silver economies) while crediting indigenous agency and adaptation. Responses that describe only destruction or only exchange miss the evaluative task.",
+  "source_inspiration": "fivesteps: fivesteps-frq-035"
+}
