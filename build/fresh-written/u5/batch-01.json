@@ -106,8 +106,8 @@
     "reasoning": "Causation",
     "skill": "Claims and Evidence in Sources",
     "stem": "Which of the following pieces of evidence would best support Bolívar's claim that American-born Spaniards occupied a distinct, in-between position?",
-    "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815",
-    "stimulus_words": 75,
+    "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815 (paraphrased)",
+    "stimulus_words": 76,
     "themes": [
       "SIO",
       "CDI"
@@ -135,8 +135,8 @@
     "reasoning": "Causation",
     "skill": "Contextualization",
     "stem": "Bolívar wrote the Jamaica Letter in 1815 while in exile. This situation is best explained by which broader development?",
-    "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815",
-    "stimulus_words": 75,
+    "stimulus": "We are neither Indians nor Europeans, but a species in between the legitimate proprietors of the country and the Spanish usurpers. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we dispute with the natives for titles of ownership, and at the same time we are struggling to maintain ourselves in the country that gave us birth against the opposition of the invaders. — Simón Bolívar, Jamaica Letter, 1815 (paraphrased)",
+    "stimulus_words": 76,
     "themes": [
       "GOV",
       "CDI"
@@ -223,8 +223,8 @@
     "reasoning": "Causation",
     "skill": "Sourcing and Situation",
     "stem": "Wollstonecraft's primary purpose in this passage was to:",
-    "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792",
-    "stimulus_words": 64,
+    "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792 (paraphrased from the Introduction)",
+    "stimulus_words": 68,
     "themes": [
       "SIO",
       "CDI"
@@ -252,8 +252,8 @@
     "reasoning": "Continuity and Change",
     "skill": "Contextualization",
     "stem": "Wollstonecraft's argument is best understood in the context of:",
-    "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792",
-    "stimulus_words": 64,
+    "stimulus": "If women share the same natural rights as men, why are they denied education and kept in ignorance? I argue that women are rendered weak and wretched not by nature, but by a false system of education. Let women be educated as rational beings, and they will become better wives, mothers, and citizens. — Mary Wollstonecraft, A Vindication of the Rights of Woman, 1792 (paraphrased from the Introduction)",
+    "stimulus_words": 68,
     "themes": [
       "CDI",
       "SIO"

@@ -136,8 +136,8 @@
     "reasoning": "Comparison",
     "skill": "Making Connections",
     "stem": "Taken together, the two excerpts best illustrate which broader historical development?",
-    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No whiteman of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
-    "stimulus_words": 84,
+    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
+    "stimulus_words": 85,
     "themes": [
       "CDI",
       "SIO"
@@ -165,8 +165,8 @@
     "reasoning": "Continuity and Change",
     "skill": "Argumentation",
     "stem": "Which of the following is the best-supported argument about the American Revolution's relationship to equality?",
-    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No whiteman of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
-    "stimulus_words": 84,
+    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
+    "stimulus_words": 85,
     "themes": [
       "SIO",
       "CDI"
@@ -252,8 +252,8 @@
     "reasoning": "Causation",
     "skill": "Developments and Processes",
     "stem": "Which sequence best explains how French government policies shaped the course of the Haitian Revolution?",
-    "stimulus": "A contemporary engraving (c. 1802) shows Toussaint Louverture in the uniform of a French general — epaulettes, sash, and plumed hat — seated with his hand resting on his sword. The caption reads 'Toussaint Louverture, Chef des Noirs' (Leader of the Blacks). He had been born enslaved in Saint-Domingue and rose to command its armies.",
-    "stimulus_words": 55,
+    "stimulus": "A contemporary hand-coloured engraving (Paris: Chez Jean, 1802) shows Toussaint Louverture in full military dress, mounted on a rearing horse with his sword raised aloft. The caption reads 'Toussaint Louverture, Chef des Noirs Insurgés de Saint Domingue' (Chief of the Black Insurgents of Saint-Domingue). He had been born enslaved in Saint-Domingue and rose to command its armies.",
+    "stimulus_words": 57,
     "themes": [
       "GOV",
       "SIO"
@@ -282,8 +282,8 @@
     "reasoning": "Causation",
     "skill": "Argumentation",
     "stem": "Which of the following is the best-supported argument about the causes of the Haitian Revolution?",
-    "stimulus": "A contemporary engraving (c. 1802) shows Toussaint Louverture in the uniform of a French general — epaulettes, sash, and plumed hat — seated with his hand resting on his sword. The caption reads 'Toussaint Louverture, Chef des Noirs' (Leader of the Blacks). He had been born enslaved in Saint-Domingue and rose to command its armies.",
-    "stimulus_words": 55,
+    "stimulus": "A contemporary hand-coloured engraving (Paris: Chez Jean, 1802) shows Toussaint Louverture in full military dress, mounted on a rearing horse with his sword raised aloft. The caption reads 'Toussaint Louverture, Chef des Noirs Insurgés de Saint Domingue' (Chief of the Black Insurgents of Saint-Domingue). He had been born enslaved in Saint-Domingue and rose to command its armies.",
+    "stimulus_words": 57,
     "themes": [
       "SIO",
       "CDI"
