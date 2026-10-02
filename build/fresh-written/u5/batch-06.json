@@ -1,320 +1,320 @@
 [
-  {
-    "difficulty": "medium",
-    "explanation": "The Canton System looks like Chinese strength — foreigners confined to one port — but the opium arrows reveal the vulnerability: a growing trade imbalance and addiction crisis. The map captures the moment before the 1839–42 war, when pressure was building but the old order still stood.",
-    "id": "wh-fresh-u5-051",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. China was not colonized; it still dictated trade terms at Canton in this period.",
-      "B": "Correct. Controlled trade plus mounting opium pressure is the map's story.",
-      "C": "Wrong. The map's own note says the Opium Wars come later (1839–1842).",
-      "D": "Wrong. The opium arrows show exactly how commercially interested Britain was."
-    },
-    "options": [
-      "(A) China had already been fully conquered, colonized, and directly ruled by the European powers well before 1800, much like India",
-      "(B) Qing China still set the terms of trade at Canton, but British opium imports were building pressure toward war",
-      "(C) The Opium Wars had already been fought and lost by the time shown",
-      "(D) Britain had no commercial interest in China during this period"
-    ],
-    "reasoning": "Causation",
-    "skill": "Contextualization",
-    "stem": "This map is most useful for understanding which broader context?",
-    "stimulus": "Map: 'Western pressure on Qing China, c. 1800–1840.' Canton (Guangzhou) is marked as the single legal port for foreign trade under the Canton System; arrows show British opium shipments flowing from India to Canton. The White Lotus rebellion zone (1796–1804) is shaded across Hubei, Sichuan, and Shaanxi. Note: 'The Opium Wars (1839–1842) come later — this map shows the background.'",
-    "stimulus_words": 60,
-    "themes": [
-      "ECN",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+ {
+  "difficulty": "medium",
+  "explanation": "The Canton System looks like Chinese strength — foreigners confined to one port — but the opium arrows reveal the vulnerability: a growing trade imbalance and addiction crisis. The map captures the moment before the 1839–42 war, when pressure was building but the old order still stood.",
+  "id": "wh-fresh-u5-051",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. China was not colonized; it still dictated trade terms at Canton in this period.",
+   "B": "Correct. Controlled trade plus mounting opium pressure is the map's story.",
+   "C": "Wrong. The map's own note says the Opium Wars come later (1839–1842).",
+   "D": "Wrong. The opium arrows show exactly how commercially interested Britain was."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The eight-year rebellion drained the Qing treasury and exposed military decay, all from domestic causes. It belongs on this map because Qing decline had deep internal roots — the dynasty was already fragile when the Opium Wars later struck from outside.",
-    "id": "wh-fresh-u5-052",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. The rebellion was a domestic Chinese movement; Britain did not fund it.",
-      "B": "Wrong. The Qing crushed the rebellion; the Ming was not restored.",
-      "C": "Wrong. It lasted eight years, killed around 100,000 rebels, and nearly bankrupted the dynasty.",
-      "D": "Correct. Internal crisis preceding external pressure is the development the shading illustrates."
-    },
-    "options": [
-      "(A) A British-funded and British-armed rebellion deliberately designed by London opium merchants in the 1790s to force China open to foreign trade",
-      "(B) The successful restoration of the Ming dynasty",
-      "(C) A minor tax protest that the Qing ignored",
-      "(D) How internal crisis — overpopulation, corruption, fiscal strain — was weakening the Qing from within before Western military pressure peaked"
-    ],
-    "reasoning": "Causation",
-    "skill": "Developments and Processes",
-    "stem": "The shaded White Lotus zone on the map best illustrates which development?",
-    "stimulus": "Map: 'Western pressure on Qing China, c. 1800–1840.' Canton (Guangzhou) is marked as the single legal port for foreign trade under the Canton System; arrows show British opium shipments flowing from India to Canton. The White Lotus rebellion zone (1796–1804) is shaded across Hubei, Sichuan, and Shaanxi. Note: 'The Opium Wars (1839–1842) come later — this map shows the background.'",
-    "stimulus_words": 60,
-    "themes": [
-      "GOV",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
+  "options": [
+   "(A) China had already been fully conquered, colonized, and directly ruled by the European powers well before 1800, much like India",
+   "(B) Qing China still set the terms of trade at Canton, but British opium imports were building pressure toward war",
+   "(C) The Opium Wars had already been fought and lost by the time shown",
+   "(D) Britain had no commercial interest in China during this period"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "stem": "This map is most useful for understanding which broader context?",
+  "stimulus": "Map: 'Western pressure on Qing China, c. 1800–1840.' Canton (Guangzhou) is marked as the single legal port for foreign trade under the Canton System; arrows show British opium shipments flowing from India to Canton. The White Lotus rebellion zone (1796–1804) is shaded across Hubei, Sichuan, and Shaanxi. Note: 'The Opium Wars (1839–1842) come later — this map shows the background.'",
+  "stimulus_words": 60,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5,
+  "visual_needs_url": true
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The eight-year rebellion drained the Qing treasury and exposed military decay, all from domestic causes. It belongs on this map because Qing decline had deep internal roots — the dynasty was already fragile when the Opium Wars later struck from outside.",
+  "id": "wh-fresh-u5-052",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The rebellion was a domestic Chinese movement; Britain did not fund it.",
+   "B": "Wrong. The Qing crushed the rebellion; the Ming was not restored.",
+   "C": "Wrong. It lasted eight years, killed around 100,000 rebels, and nearly bankrupted the dynasty.",
+   "D": "Correct. Internal crisis preceding external pressure is the development the shading illustrates."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Lafayette, who had fought in America, and others brought the American model — a written constitution grounded in consent — into French debate. The 1791 constitution was an adaptation, not a copy: it kept a king, showing how models travel and change.",
-    "id": "wh-fresh-u5-053",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The American example was the available model that French reformers adapted.",
-      "B": "Wrong. No Americans served as advisors to the National Assembly.",
-      "C": "Wrong. The French kept a constitutional monarchy — a fundamentally different design.",
-      "D": "Wrong. The excerpts' shared language of consent shows the connection directly."
-    },
-    "options": [
-      "(A) French reformers looking to the American example of written, consent-based constitutional government and adapting it to a monarchy",
-      "(B) Americans directly advising the French National Assembly on its constitution",
-      "(C) The French copying the American Constitution word for word",
-      "(D) No connection between the American and French revolutions"
-    ],
-    "reasoning": "Causation",
-    "skill": "Sourcing and Situation",
-    "stem": "The historical situation behind excerpt B is best explained by:",
-    "stimulus": "A) United States Declaration of Independence (1776): 'Governments are instituted among Men, deriving their just powers from the consent of the governed.' B) French Constitution of 1791 (paraphrased): France became a constitutional monarchy — the king kept executive power, but an elected Legislative Assembly made the laws, and active (taxpaying) male citizens could vote.",
-    "stimulus_words": 54,
-    "themes": [
-      "CDI",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) A British-funded and British-armed rebellion deliberately designed by London opium merchants in the 1790s to force China open to foreign trade",
+   "(B) The successful restoration of the Ming dynasty",
+   "(C) A minor tax protest that the Qing ignored",
+   "(D) How internal crisis — overpopulation, corruption, fiscal strain — was weakening the Qing from within before Western military pressure peaked"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "stem": "The shaded White Lotus zone on the map best illustrates which development?",
+  "stimulus": "Map: 'Western pressure on Qing China, c. 1800–1840.' Canton (Guangzhou) is marked as the single legal port for foreign trade under the Canton System; arrows show British opium shipments flowing from India to Canton. The White Lotus rebellion zone (1796–1804) is shaded across Hubei, Sichuan, and Shaanxi. Note: 'The Opium Wars (1839–1842) come later — this map shows the background.'",
+  "stimulus_words": 60,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5,
+  "visual_needs_url": true
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Lafayette, who had fought in America, and others brought the American model — a written constitution grounded in consent — into French debate. The 1791 constitution was an adaptation, not a copy: it kept a king, showing how models travel and change.",
+  "id": "wh-fresh-u5-053",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The American example was the available model that French reformers adapted.",
+   "B": "Wrong. Americans held no formal advisory role in writing the 1791 constitution — Jefferson's informal advice to Lafayette concerned the 1789 Declaration of the Rights of Man, not the constitution. The influence shown in the excerpts was ideological: a written, consent-based model adapted to a monarchy.",
+   "C": "Wrong. The French kept a constitutional monarchy — a fundamentally different design.",
+   "D": "Wrong. The excerpts' shared language of consent shows the connection directly."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Both revolutions spoke the language of consent and rights, but France faced entrenched privilege, foreign war, and deeper social divisions, radicalizing its revolution. The comparison shows that ideas alone don't determine outcomes — social structure and circumstances shape what revolutions become.",
-    "id": "wh-fresh-u5-054",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. France cycled through republic, Terror, empire, and restored monarchy over the next decades.",
-      "B": "Wrong. France kept a king and built different institutions; the designs were not identical.",
-      "C": "Correct. Shared vocabulary, divergent outcomes — the contrast the excerpts invite.",
-      "D": "Wrong. The United States had no equivalent of the Terror in the 1790s."
-    },
-    "options": [
-      "(A) Both revolutions produced stable governments within a few years",
-      "(B) France copied the American Constitution exactly word for word and therefore got completely identical political results in every respect, including slavery",
-      "(C) Similar Enlightenment starting points produced sharply different outcomes: a durable American republic versus France's cycle of republic, Terror, and empire",
-      "(D) The United States experienced its own Reign of Terror in the 1790s"
-    ],
-    "reasoning": "Comparison",
-    "skill": "Making Connections",
-    "stem": "Comparing the outcomes of the American and French revolutions, which statement is best supported?",
-    "stimulus": "A) United States Declaration of Independence (1776): 'Governments are instituted among Men, deriving their just powers from the consent of the governed.' B) French Constitution of 1791 (paraphrased): France became a constitutional monarchy — the king kept executive power, but an elected Legislative Assembly made the laws, and active (taxpaying) male citizens could vote.",
-    "stimulus_words": 54,
-    "themes": [
-      "GOV",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) French reformers looking to the American example of written, consent-based constitutional government and adapting it to a monarchy",
+   "(B) Americans directly advising the French National Assembly on its constitution",
+   "(C) The French copying the American Constitution word for word",
+   "(D) No connection between the American and French revolutions"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "stem": "The historical situation behind excerpt B is best explained by:",
+  "stimulus": "A) United States Declaration of Independence (1776): 'Governments are instituted among Men, deriving their just powers from the consent of the governed.' B) French Constitution of 1791 (paraphrased): France became a constitutional monarchy — the king kept executive power, but an elected Legislative Assembly made the laws, and active (taxpaying) male citizens could vote.",
+  "stimulus_words": 54,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Both revolutions spoke the language of consent and rights, but France faced entrenched privilege, foreign war, and deeper social divisions, radicalizing its revolution. The comparison shows that ideas alone don't determine outcomes — social structure and circumstances shape what revolutions become.",
+  "id": "wh-fresh-u5-054",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. France cycled through republic, Terror, empire, and restored monarchy over the next decades.",
+   "B": "Wrong. France kept a king and built different institutions; the designs were not identical.",
+   "C": "Correct. Shared vocabulary, divergent outcomes — the contrast the excerpts invite.",
+   "D": "Wrong. The United States had no equivalent of the Terror in the 1790s."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "No enslaved population had ever defeated three European empires. Slaveholders from Virginia to Brazil read Haiti as a warning and tightened control, while enslaved people read it as proof that freedom could be seized. The revolution's meaning was made as much by its audience as by its armies.",
-    "id": "wh-fresh-u5-055",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. It reshaped Louisiana's fate, terrified slaveholders, and inspired the enslaved hemisphere-wide.",
-      "B": "Correct. Military victory plus its demonstration effect is Haiti's global significance.",
-      "C": "Wrong. Haiti permanently abolished slavery; Dessalines's 1805 constitution banned it forever.",
-      "D": "Wrong. France recognized Haiti only in 1825, and only in exchange for a crushing indemnity."
-    },
-    "options": [
-      "(A) It had no impact beyond the island itself",
-      "(B) It proved enslaved people could defeat European empires, terrifying slaveholders and inspiring the enslaved across the Americas",
-      "(C) It restored slavery under a new Black planter class",
-      "(D) European powers immediately recognized, celebrated, and traded freely with independent Haiti as a fully equal sister nation in 1804"
-    ],
-    "reasoning": "Causation",
-    "skill": "Argumentation",
-    "stem": "Which of the following is the best-supported argument about the Haitian Revolution's global significance?",
-    "stimulus": "On January 1, 1804, Jean-Jacques Dessalines proclaimed Haiti's independence, creating the first Black republic and the second independent nation in the Americas. It was born of the only successful revolt of enslaved people in recorded history — enslaved Africans had defeated the armies of France, Britain, and Spain.",
-    "stimulus_words": 48,
-    "themes": [
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Both revolutions produced stable governments within a few years",
+   "(B) France copied the American Constitution exactly word for word and therefore got completely identical political results in every respect, including slavery",
+   "(C) Similar Enlightenment starting points produced sharply different outcomes: a durable American republic versus France's cycle of republic, Terror, and empire",
+   "(D) The United States experienced its own Reign of Terror in the 1790s"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "stem": "Comparing the outcomes of the American and French revolutions, which statement is best supported?",
+  "stimulus": "A) United States Declaration of Independence (1776): 'Governments are instituted among Men, deriving their just powers from the consent of the governed.' B) French Constitution of 1791 (paraphrased): France became a constitutional monarchy — the king kept executive power, but an elected Legislative Assembly made the laws, and active (taxpaying) male citizens could vote.",
+  "stimulus_words": 54,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "No enslaved population had ever defeated three European empires. Slaveholders from Virginia to Brazil read Haiti as a warning and tightened control, while enslaved people read it as proof that freedom could be seized. The revolution's meaning was made as much by its audience as by its armies.",
+  "id": "wh-fresh-u5-055",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. It reshaped Louisiana's fate, terrified slaveholders, and inspired the enslaved hemisphere-wide.",
+   "B": "Correct. Military victory plus its demonstration effect is Haiti's global significance.",
+   "C": "Wrong. Haiti permanently abolished slavery; Dessalines's 1805 constitution banned it forever.",
+   "D": "Wrong. France recognized Haiti only in 1825, and only in exchange for a crushing indemnity."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The claim is about fear, and the legal crackdown is its footprint: Virginia and others banned Black gatherings, limited manumission, and policed literacy precisely because Haiti showed what organized enslaved people could do. Repression is evidence of alarm.",
-    "id": "wh-fresh-u5-056",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. Slaveholders denounced the revolution; celebration is the opposite of the historical record.",
-      "B": "Wrong. The United States embargoed Haitian trade; commerce did not expand.",
-      "C": "Wrong. Slave codes tightened markedly across the American South and Caribbean after 1804.",
-      "D": "Correct. Tighter slave codes are direct evidence that slaveholders felt threatened."
-    },
-    "options": [
-      "(A) Slaveholders publicly celebrated the Haitian Revolution as a triumph",
-      "(B) Trade between Haiti and the US South expanded rapidly and profitably immediately after independence, greatly enriching Southern planters",
-      "(C) No laws regarding slavery changed anywhere in the Americas after 1804",
-      "(D) Southern US states and Caribbean colonies tightened slave codes and restricted Black literacy, assembly, and movement after 1804"
-    ],
-    "reasoning": "Causation",
-    "skill": "Claims and Evidence in Sources",
-    "stem": "A historian claims that Haiti's example alarmed slaveholders across the Americas. Which evidence best supports this claim?",
-    "stimulus": "On January 1, 1804, Jean-Jacques Dessalines proclaimed Haiti's independence, creating the first Black republic and the second independent nation in the Americas. It was born of the only successful revolt of enslaved people in recorded history — enslaved Africans had defeated the armies of France, Britain, and Spain.",
-    "stimulus_words": 48,
-    "themes": [
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) It had no impact beyond the island itself",
+   "(B) It proved enslaved people could defeat European empires, terrifying slaveholders and inspiring the enslaved across the Americas",
+   "(C) It restored slavery under a new Black planter class",
+   "(D) European powers immediately recognized, celebrated, and traded freely with independent Haiti as a fully equal sister nation in 1804"
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "stem": "Which of the following is the best-supported argument about the Haitian Revolution's global significance?",
+  "stimulus": "On January 1, 1804, Jean-Jacques Dessalines proclaimed Haiti's independence, creating the first Black republic and the second independent nation in the Americas. It was born of the only successful revolt of enslaved people in recorded history — enslaved Africans had defeated the armies of France, Britain, and Spain.",
+  "stimulus_words": 48,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The claim is about fear, and the legal crackdown is its footprint: Virginia and others banned Black gatherings, limited manumission, and policed literacy precisely because Haiti showed what organized enslaved people could do. Repression is evidence of alarm.",
+  "id": "wh-fresh-u5-056",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Slaveholders denounced the revolution; celebration is the opposite of the historical record.",
+   "B": "Wrong. The United States embargoed Haitian trade; commerce did not expand.",
+   "C": "Wrong. Slave codes tightened markedly across the American South and Caribbean after 1804.",
+   "D": "Correct. Tighter slave codes are direct evidence that slaveholders felt threatened."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The 1848 Frankfurt Parliament offered a liberal united Germany and failed. Bismarck's Prussia then united Germany through three wars (1864–71) under a Prussian king — nationalism harnessed by conservative state power, not by revolution from below.",
-    "id": "wh-fresh-u5-057",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. 'Blood and iron' meant unification by Prussian arms, and that is what happened.",
-      "B": "Wrong. The democratic revolution of 1848 failed; unification came through war.",
-      "C": "Wrong. Bismarck engineered unification; he did not oppose it.",
-      "D": "Wrong. Prussia fought Austria in 1866 and excluded it from the new Germany."
-    },
-    "options": [
-      "(A) Unification imposed 'from above' by Prussian military power, after the democratic revolutions of 1848 had failed",
-      "(B) Unification achieved entirely through peaceful democratic revolution and popular votes, with no wars or armies involved at all",
-      "(C) Bismarck's opposition to any German unification",
-      "(D) Austrian leadership of the unification process"
-    ],
-    "reasoning": "Causation",
-    "skill": "Developments and Processes",
-    "stem": "Bismarck's statement best illustrates which process behind German unification (1871)?",
-    "stimulus": "In 1862, Prussia's chief minister Otto von Bismarck told a parliamentary committee that Germany's great questions would not be settled by 'speeches and majority votes' but by 'blood and iron' — war and military power.",
-    "stimulus_words": 35,
-    "themes": [
-      "GOV",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Slaveholders publicly celebrated the Haitian Revolution as a triumph",
+   "(B) Trade between Haiti and the US South expanded rapidly and profitably immediately after independence, greatly enriching Southern planters",
+   "(C) No laws regarding slavery changed anywhere in the Americas after 1804",
+   "(D) Southern US states and Caribbean colonies tightened slave codes and restricted Black literacy, assembly, and movement after 1804"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "stem": "A historian claims that Haiti's example alarmed slaveholders across the Americas. Which evidence best supports this claim?",
+  "stimulus": "On January 1, 1804, Jean-Jacques Dessalines proclaimed Haiti's independence, creating the first Black republic and the second independent nation in the Americas. It was born of the only successful revolt of enslaved people in recorded history — enslaved Africans had defeated the armies of France, Britain, and Spain.",
+  "stimulus_words": 48,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The 1848 Frankfurt Parliament offered a liberal united Germany and failed. Bismarck's Prussia then united Germany through three wars (1864–71) under a Prussian king — nationalism harnessed by conservative state power, not by revolution from below.",
+  "id": "wh-fresh-u5-057",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. 'Blood and iron' meant unification by Prussian arms, and that is what happened.",
+   "B": "Wrong. The democratic revolution of 1848 failed; unification came through war.",
+   "C": "Wrong. Bismarck engineered unification; he did not oppose it.",
+   "D": "Wrong. Prussia fought Austria in 1866 and excluded it from the new Germany."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "If abolition had been immediate, there would be no 1834–38 apprenticeship to explain. The system's existence — plus compensation to enslavers, not the enslaved — shows emancipation as a negotiated, phased retreat from slavery rather than a clean break.",
-    "id": "wh-fresh-u5-058",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. Full freedom did not come until 1838, after the apprenticeship period.",
-      "B": "Wrong. Apprenticeship applied in the Caribbean colonies, not in Britain itself.",
-      "C": "Correct. Four more years of bound plantation labor is the evidence of gradualism.",
-      "D": "Wrong. Enslavers received £20 million in compensation — one of the largest state payouts of the era."
-    },
-    "options": [
-      "(A) The Act freed every enslaved person immediately and completely in 1833",
-      "(B) The apprenticeship system applied only within Britain itself, not the colonies",
-      "(C) The 'apprenticeship' system kept most formerly enslaved people bound to plantation labor for four more years after 1833",
-      "(D) Enslavers received no compensation and protested the Act unanimously"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Claims and Evidence in Sources",
-    "stem": "A historian claims that British abolition was a gradual process rather than a single moment of liberation. Which evidence best supports this claim?",
-    "stimulus": "Britain's Slavery Abolition Act (1833) freed enslaved children under six immediately — but required all other enslaved people to serve as 'apprentices' to their former enslavers, working most of the week unpaid, until full freedom in 1838. Enslavers, meanwhile, received £20 million in government compensation.",
-    "stimulus_words": 45,
-    "themes": [
-      "SIO",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) Unification imposed 'from above' by Prussian military power, after the democratic revolutions of 1848 had failed",
+   "(B) Unification achieved entirely through peaceful democratic revolution and popular votes, with no wars or armies involved at all",
+   "(C) Bismarck's opposition to any German unification",
+   "(D) Austrian leadership of the unification process"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "stem": "Bismarck's statement best illustrates which process behind German unification (1871)?",
+  "stimulus": "In 1862, Prussia's chief minister Otto von Bismarck told a parliamentary committee that Germany's great questions would not be settled by 'speeches and majority votes' but by 'blood and iron' — war and military power.",
+  "stimulus_words": 35,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "If abolition had been immediate, there would be no 1834–38 apprenticeship to explain. The system's existence — plus compensation to enslavers, not the enslaved — shows emancipation as a negotiated, phased retreat from slavery rather than a clean break.",
+  "id": "wh-fresh-u5-058",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Full freedom did not come until 1838, after the apprenticeship period.",
+   "B": "Wrong. Apprenticeship applied in the Caribbean colonies, not in Britain itself.",
+   "C": "Correct. Four more years of bound plantation labor is the evidence of gradualism.",
+   "D": "Wrong. Enslavers received £20 million in compensation — one of the largest state payouts of the era."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Rousseau wrote as an outsider critic: if authority is legitimate only when it expresses the general will, then kings ruling by birth and tradition are illegitimate. French Jacobins later quoted him to justify popular sovereignty — and the Terror.",
-    "id": "wh-fresh-u5-059",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Rousseau attacked hereditary authority; the general will replaces divine right.",
-      "B": "Correct. The passage's argument is that legitimacy comes from the people's collective will.",
-      "C": "Wrong. He was a Genevan outsider and critic, not a royal administrator.",
-      "D": "Wrong. He wrote in 1762, before industrial factories and trade unions existed."
-    },
-    "options": [
-      "(A) defend the divine right of absolute monarchs",
-      "(B) argue that legitimate political authority comes from the people's general will, challenging existing governments",
-      "(C) serve as an official instruction manual for French royal administrators directly governing the provinces on the king's behalf",
-      "(D) organize factory workers into trade unions"
-    ],
-    "reasoning": "Causation",
-    "skill": "Sourcing and Situation",
-    "stem": "Rousseau's purpose in writing The Social Contract was most likely to:",
-    "stimulus": "'Man is born free, and everywhere he is in chains,' wrote Jean-Jacques Rousseau in The Social Contract (1762). 'Each of us puts his person and all his power in common under the supreme direction of the general will' — so that legitimate government rests on the people's collective will, not on kings or tradition.",
-    "stimulus_words": 54,
-    "themes": [
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) The Act freed every enslaved person immediately and completely in 1833",
+   "(B) The apprenticeship system applied only within Britain itself, not the colonies",
+   "(C) The 'apprenticeship' system kept most formerly enslaved people bound to plantation labor for four more years after 1833",
+   "(D) Enslavers received no compensation and protested the Act unanimously"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "stem": "A historian claims that British abolition was a gradual process rather than a single moment of liberation. Which evidence best supports this claim?",
+  "stimulus": "Britain's Slavery Abolition Act (1833) freed enslaved children under six immediately — but required all other enslaved people to serve as 'apprentices' to their former enslavers, working most of the week unpaid, until full freedom in 1838. Enslavers, meanwhile, received £20 million in government compensation.",
+  "stimulus_words": 45,
+  "themes": [
+   "SIO",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Rousseau wrote as an outsider critic: if authority is legitimate only when it expresses the general will, then kings ruling by birth and tradition are illegitimate. French Jacobins later quoted him to justify popular sovereignty — and the Terror.",
+  "id": "wh-fresh-u5-059",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Rousseau attacked hereditary authority; the general will replaces divine right.",
+   "B": "Correct. The passage's argument is that legitimacy comes from the people's collective will.",
+   "C": "Wrong. He was a Genevan outsider and critic, not a royal administrator.",
+   "D": "Wrong. He wrote in 1762, before industrial factories and trade unions existed."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The stimulus explains creole motives: resentment upward at peninsulares, fear downward of the majority. Independence gave creoles the offices they wanted without a social revolution — the opposite of Haiti, where the enslaved seized freedom by destroying the planter order itself.",
-    "id": "wh-fresh-u5-060",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. Creoles sought political power for themselves, not social revolution.",
-      "B": "Wrong. Peninsulares were the colonial loyalists; creoles led the break.",
-      "C": "Wrong. Indigenous peoples fought in the armies but did not command the movements.",
-      "D": "Correct. Upward resentment plus downward fear explains creole conservatism versus Haiti's radicalism."
-    },
-    "options": [
-      "(A) Creoles sought to overturn the entire social order, just as Haiti's rebels did",
-      "(B) Peninsulares led the independence movements against Spain",
-      "(C) Indigenous peoples commanded the independence armies",
-      "(D) Creoles wanted independence from Spain but also protection from the lower classes, so they preserved hierarchy — while Haiti's enslaved rebels destroyed it"
-    ],
-    "reasoning": "Comparison",
-    "skill": "Making Connections",
-    "stem": "Comparing creole leadership of Spanish American independence with the leadership of the Haitian Revolution, which contrast is best supported?",
-    "stimulus": "In Spanish America, peninsulares — Spaniards born in Spain — monopolized the highest colonial offices, while creoles — American-born people of Spanish descent — grew wealthy as landowners and merchants but were shut out of top power. Both groups feared revolt by the Indigenous, enslaved, and mixed-race majority beneath them.",
-    "stimulus_words": 50,
-    "themes": [
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+  "options": [
+   "(A) defend the divine right of absolute monarchs",
+   "(B) argue that legitimate political authority comes from the people's general will, challenging existing governments",
+   "(C) serve as an official instruction manual for French royal administrators directly governing the provinces on the king's behalf",
+   "(D) organize factory workers into trade unions"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "stem": "Rousseau's purpose in writing The Social Contract was most likely to:",
+  "stimulus": "'Man is born free, and everywhere he is in chains,' wrote Jean-Jacques Rousseau in The Social Contract (1762). 'Each of us puts his person and all his power in common under the supreme direction of the general will' — so that legitimate government rests on the people's collective will, not on kings or tradition.",
+  "stimulus_words": 54,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The stimulus explains creole motives: resentment upward at peninsulares, fear downward of the majority. Independence gave creoles the offices they wanted without a social revolution — the opposite of Haiti, where the enslaved seized freedom by destroying the planter order itself.",
+  "id": "wh-fresh-u5-060",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Creoles sought political power for themselves, not social revolution.",
+   "B": "Wrong. Peninsulares were the colonial loyalists; creoles led the break.",
+   "C": "Wrong. Indigenous peoples fought in the armies but did not command the movements.",
+   "D": "Correct. Upward resentment plus downward fear explains creole conservatism versus Haiti's radicalism."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The map's spread — from Philadelphia to Port-au-Prince to Canton — shows how widely the age of revolution reached, while the White Lotus marker warns against a single story. Everywhere, liberation was partial: American republics kept slavery, French universalism excluded women, Latin American independence preserved hierarchy. Expansion and exclusion advanced together.",
-    "id": "wh-fresh-u5-061",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Uneven expansion of rights — with persistent exclusions — is the era's signature pattern.",
-      "B": "Wrong. No revolution fully achieved its ideals; slavery, patriarchy, and hierarchy all survived.",
-      "C": "Wrong. The map documents upheavals on four continents.",
-      "D": "Wrong. The map's non-European markers (Haiti, Spanish America, China) refute a Europe-only story."
-    },
-    "options": [
-      "(A) Revolutions expanded political participation unevenly — empowering some groups while excluding others, such as women and enslaved people",
-      "(B) Every single revolution fully and completely achieved its stated ideals of liberty and equality for all people in every country without exception",
-      "(C) The era saw no meaningful political change anywhere",
-      "(D) Revolution was a purely European phenomenon with no global reach"
-    ],
-    "reasoning": "Continuity and Change",
-    "skill": "Argumentation",
-    "stem": "Which of the following is the best-supported argument about the revolutions of 1750–1900, based on the map and the era as a whole?",
-    "stimulus": "World map: 'Revolutionary upheavals, 1776–1848.' Markers show: North America 1776, France 1789, Haiti 1804, Spanish America 1810–25, Greece 1821–30, Europe 1830 and 1848. A separate symbol marks the White Lotus Rebellion in China (1796–1804), labeled 'peasant revolt — not Enlightenment-inspired.' Legend: 'The revolutionary era was global, but not uniform.'",
-    "stimulus_words": 49,
-    "themes": [
-      "SIO",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 5,
-    "visual_needs_url": true
-  }
+  "options": [
+   "(A) Creoles sought to overturn the entire social order, just as Haiti's rebels did",
+   "(B) Peninsulares led the independence movements against Spain",
+   "(C) Indigenous peoples commanded the independence armies",
+   "(D) Creoles wanted independence from Spain but also protection from the lower classes, so they preserved hierarchy — while Haiti's enslaved rebels destroyed it"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "stem": "Comparing creole leadership of Spanish American independence with the leadership of the Haitian Revolution, which contrast is best supported?",
+  "stimulus": "In Spanish America, peninsulares — Spaniards born in Spain — monopolized the highest colonial offices, while creoles — American-born people of Spanish descent — grew wealthy as landowners and merchants but were shut out of top power. Both groups feared revolt by the Indigenous, enslaved, and mixed-race majority beneath them.",
+  "stimulus_words": 50,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The map's spread — from Philadelphia to Port-au-Prince to Canton — shows how widely the age of revolution reached, while the White Lotus marker warns against a single story. Everywhere, liberation was partial: American republics kept slavery, French universalism excluded women, Latin American independence preserved hierarchy. Expansion and exclusion advanced together.",
+  "id": "wh-fresh-u5-061",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Uneven expansion of rights — with persistent exclusions — is the era's signature pattern.",
+   "B": "Wrong. No revolution fully achieved its ideals; slavery, patriarchy, and hierarchy all survived.",
+   "C": "Wrong. The map documents upheavals on four continents.",
+   "D": "Wrong. The map's non-European markers (Haiti, Spanish America, China) refute a Europe-only story."
+  },
+  "options": [
+   "(A) Revolutions expanded political participation unevenly — empowering some groups while excluding others, such as women and enslaved people",
+   "(B) Every single revolution fully and completely achieved its stated ideals of liberty and equality for all people in every country without exception",
+   "(C) The era saw no meaningful political change anywhere",
+   "(D) Revolution was a purely European phenomenon with no global reach"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Argumentation",
+  "stem": "Which of the following is the best-supported argument about the revolutions of 1750–1900, based on the map and the era as a whole?",
+  "stimulus": "World map: 'Revolutionary upheavals, 1776–1848.' Markers show: North America 1776, France 1789, Haiti 1804, Spanish America 1810–25, Greece 1821–30, Europe 1830 and 1848. A separate symbol marks the White Lotus Rebellion in China (1796–1804), labeled 'peasant revolt — not Enlightenment-inspired.' Legend: 'The revolutionary era was global, but not uniform.'",
+  "stimulus_words": 49,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5,
+  "visual_needs_url": true
+ }
 ]
