@@ -2,7 +2,7 @@
   {
     "id": "wh-fresh-u2-001",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 001-003. Ibn Battuta, a Moroccan scholar, wrote of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+    "stimulus": "Shared stimulus for items 001-003. Adapted from Ibn Battuta's account of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
     "stimulus_words": 71,
     "stem": "Ibn Battuta's observations in the excerpt most directly reflect which of the following about his historical situation?",
     "options": [
@@ -21,14 +21,17 @@
     },
     "skill": "Sourcing and Situation",
     "reasoning": "Continuity and Change",
-    "themes": ["SIO", "CDI"],
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
   {
     "id": "wh-fresh-u2-002",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 001-003. Ibn Battuta, a Moroccan scholar, wrote of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+    "stimulus": "Shared stimulus for items 001-003. Adapted from Ibn Battuta's account of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
     "stimulus_words": 71,
     "stem": "Which of the following arguments about Islam in Mali is best supported by the excerpt?",
     "options": [
@@ -47,14 +50,17 @@
     },
     "skill": "Argumentation",
     "reasoning": "Continuity and Change",
-    "themes": ["CDI", "SIO"],
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
   {
     "id": "wh-fresh-u2-003",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 001-003. Ibn Battuta, a Moroccan scholar, wrote of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+    "stimulus": "Shared stimulus for items 001-003. Adapted from Ibn Battuta's account of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
     "stimulus_words": 71,
     "stem": "The sultan's ability to reward courtiers with gold, as described in the excerpt, is best understood in which broader context?",
     "options": [
@@ -73,14 +79,17 @@
     },
     "skill": "Contextualization",
     "reasoning": "Causation",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
   {
     "id": "wh-fresh-u2-004",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 004-006. Marco Polo, a Venetian merchant, described the city of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
+    "stimulus": "Shared stimulus for items 004-006. Adapted from Marco Polo's description of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
     "stimulus_words": 65,
     "stem": "Polo's description most strongly suggests that he wrote for an audience that would be impressed by which of the following?",
     "options": [
@@ -99,14 +108,17 @@
     },
     "skill": "Sourcing and Situation",
     "reasoning": "Comparison",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
   {
     "id": "wh-fresh-u2-005",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 004-006. Marco Polo, a Venetian merchant, described the city of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
+    "stimulus": "Shared stimulus for items 004-006. Adapted from Marco Polo's description of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
     "stimulus_words": 65,
     "stem": "Which of the following best explains the commercial development described in the excerpt?",
     "options": [
@@ -125,14 +137,17 @@
     },
     "skill": "Developments and Processes",
     "reasoning": "Causation",
-    "themes": ["ECN", "TEC"],
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
   {
     "id": "wh-fresh-u2-006",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 004-006. Marco Polo, a Venetian merchant, described the city of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
+    "stimulus": "Shared stimulus for items 004-006. Adapted from Marco Polo's description of Hangzhou after visiting China in the late 1200s: 'The city has twelve thousand bridges. Its people live by trade and crafts. The markets overflow with pepper, ginger, and silks from every province. All payments, great and small, are made with the Great Khan's paper money, and no one dares refuse it.'",
     "stimulus_words": 65,
     "stem": "A historian claims that Yuan China had the most monetized economy in the world at the time. Which evidence from the excerpt best supports that claim?",
     "options": [
@@ -151,7 +166,9 @@
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Causation",
-    "themes": ["ECN"],
+    "themes": [
+      "ECN"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -178,7 +195,10 @@
     },
     "skill": "Making Connections",
     "reasoning": "Comparison",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
@@ -205,7 +225,10 @@
     },
     "skill": "Contextualization",
     "reasoning": "Causation",
-    "themes": ["ECN", "TEC"],
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -232,7 +255,10 @@
     },
     "skill": "Developments and Processes",
     "reasoning": "Causation",
-    "themes": ["ENV", "ECN"],
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -259,7 +285,10 @@
     },
     "skill": "Argumentation",
     "reasoning": "Causation",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   }
