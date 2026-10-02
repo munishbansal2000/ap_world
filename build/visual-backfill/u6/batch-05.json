@@ -1,0 +1,347 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "The cartoon shows five rival powers literally slicing up a pie labeled CHINE while a Chinese official protests helplessly. It captures the spheres-of-influence system of the 1890s: rather than formally colonizing China, the industrial powers seized ports, railway concessions, and mining rights in competing zones, confident the Qing government was too weak to resist.",
+    "id": "wh-vis-u6-041",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/China%2C_the_cake_of_kings_and_emperors%2C_Le_Petit_Journal_1898.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The pie labeled CHINE being cut by rival powers depicts the scramble for spheres of influence: ports, railways, and mining concessions seized by competing industrial nations while the Qing proved too weak to stop them.",
+      "B": "Incorrect. China was never formally partitioned into colonies; the cartoon's slices represent spheres of influence, not colonies with foreign governors. Reading the pie as literal colonization is the common error.",
+      "C": "Incorrect. The knives and the protesting Chinese official show rivalry and coercion, not cooperation; the powers competed fiercely over China.",
+      "D": "Incorrect. Japan won the First Sino-Japanese War (1894-1895), and a Japanese figure is shown as one of those cutting the pie, not as an expelled power."
+    },
+    "options": [
+      "(A) The carving of China into spheres of influence, as rival powers seized ports and railways while the weakened Qing could not resist them",
+      "(B) The formal partition of China into European colonies, each one ruled directly by a foreign governor after the Qing dynasty collapsed in 1898",
+      "(C) A cooperative agreement among the great powers to respect Chinese sovereignty and withdraw every foreign soldier and concession from Chinese territory",
+      "(D) The Qing government's successful expulsion of all foreign powers from China after its decisive victory in the First Sino-Japanese War"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What development in late nineteenth-century imperialism does this cartoon illustrate?",
+    "stimulus": "A French color cartoon by Henri Meyer published in Le Petit Journal on January 16, 1898, titled \"En Chine — Le gâteau des Rois et... des Empereurs\" (\"In China — the cake of Kings and... of Emperors\"). It shows Queen Victoria of Britain, Kaiser Wilhelm II of Germany, a Russian officer, Marianne (France), and a Japanese man gathered around a huge pie labeled \"CHINE,\" each cutting into it with a knife, while a Chinese official raises his hands in protest.",
+    "stimulus_words": 80,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The engraving shows a bomb exploding among police at a public rally for the eight-hour day. Haymarket became the symbol of Gilded Age labor conflict: a mass movement of industrial workers demanding shorter hours met with employer resistance, police violence, and a crackdown that blamed anarchists and set the labor movement back for years.",
+    "id": "wh-vis-u6-042",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/HaymarketRiot-Harpers.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. The image shows the opposite: a bomb exploding among police at a labor rally, evidence of bitter conflict rather than peaceful acceptance.",
+      "B": "Correct. The rally for the eight-hour day and its violent end capture the era's pattern: organized workers striking for better conditions, met by employer resistance and police force.",
+      "C": "Incorrect. Authorities in the Gilded Age typically sided with employers, using police, militia, and court injunctions against strikers, not protecting them.",
+      "D": "Incorrect. Unions were legal, and this rally was held openly in a public square; the issue was their weakness and the hostility they faced, not illegality."
+    },
+    "options": [
+      "(A) That American employers in the 1880s generally accepted unions' demands and negotiated shorter working hours without conflict",
+      "(B) That the rise of labor produced violent confrontations, as workers' strikes met resistance from employers and police",
+      "(C) That the federal government consistently sided with striking workers against their employers throughout the Gilded Age",
+      "(D) That labor unions had been outlawed entirely in the United States before 1886, forcing workers to meet only in secret"
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The rally shown here was part of a nationwide campaign for the eight-hour workday. What does the violent outcome of this event reveal about industrialization in the United States?",
+    "stimulus": "An engraving by Thure de Thulstrup published in Harper's Weekly on May 15, 1886, depicting the Haymarket Riot in Chicago. It shows a bomb exploding amid a line of police officers in a darkened street; to the left stands a speaker's wagon from which labor leaders had been addressing a rally for the eight-hour workday.",
+    "stimulus_words": 55,
+    "themes": [
+      "ECN",
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The skulls were collected from the Great Plains to be ground into fertilizer: the visible product of the commercial slaughter that reduced some 30 million bison to a few hundred. Railroads opened the herds to hide hunters, industrial markets bought the hides, and the U.S. Army encouraged the killing to destroy the Plains peoples' food supply. Historians use such images to show industrialization's environmental and human costs together.",
+    "id": "wh-vis-u6-043",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bison_skull_pile-restored.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The slaughter was commercial and deliberate, driven by hide markets, railroads, and policy, not by natural climate change.",
+      "B": "Incorrect. The commercial hunters were overwhelmingly white hide hunters; Plains peoples hunted bison for subsistence and were devastated by the herds' destruction.",
+      "C": "Correct. The mountain of skulls is the physical evidence of how railroads, commercial hunting, and government policy together wiped out the herds and wrecked the Plains peoples' economies.",
+      "D": "Incorrect. By the 1890s the bison were near extinction, with only a few hundred left; recovery came much later and only through deliberate conservation."
+    },
+    "options": [
+      "(A) That the bison were driven to near extinction purely by natural climate change, without any human involvement at all",
+      "(B) That Native peoples of the Plains were the main commercial hunters of bison and collected the skulls to sell for fertilizer",
+      "(C) That railroads and commercial hunters, with government backing, wiped out the bison herds and Plains peoples' livelihood",
+      "(D) That early conservation laws had already restored bison herds to their original numbers by the 1890s"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Historians use photographs like this one as evidence for which consequence of industrialization?",
+    "stimulus": "A photograph taken around 1892 showing a mountain of bison skulls piled many feet high, with two men standing at its base for scale. The skulls were collected from the Great Plains to be ground into fertilizer.",
+    "stimulus_words": 37,
+    "themes": [
+      "ENV",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The photograph shows the inside of a Japanese government project: the Meiji state built Tomioka with French machinery and French technicians, then ran it as a model factory to train workers and produce machine-reeled silk for export. A country adopting Western industry on its own terms to stay independent — the visual opposite of a colonized people.",
+    "id": "wh-vis-u6-044",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tomioka_Silk_Mill_Machine.JPG",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The government-built mill using French machinery and technicians, shown here in operation, reflects the Meiji strategy: import Western technology through state-led projects while keeping ownership and sovereignty Japanese.",
+      "B": "Incorrect. Japan was never colonized; the mill was built, owned, and operated by the Japanese government, which hired the French technicians.",
+      "C": "Incorrect. The rows of French reeling machines visible in the photograph are Western industrial technology, the opposite of rejection.",
+      "D": "Incorrect. Tomioka was a state-run model factory, a centerpiece of the government's industrialization program, not a private merchant venture."
+    },
+    "options": [
+      "(A) State-directed industrialization, importing Western technology and experts while keeping control in Japanese hands",
+      "(B) That Japan had been colonized by France, which built and owned the country's first modern factories",
+      "(C) That the Meiji government rejected all Western technology and built the mill using only traditional Japanese methods",
+      "(D) That Japanese industrialization was driven entirely by private merchants, with no involvement from the government at all"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this mill reveal about the Meiji government's approach to industrialization?",
+    "stimulus": "Photograph of the interior of the Tomioka Silk Mill: long rows of silk-reeling machines. The mill was built by the Meiji government in 1872 as a model factory, equipped with French machinery and run under French technicians, to produce machine-reeled silk for export.",
+    "stimulus_words": 43,
+    "themes": [
+      "TEC",
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "After the 1857 rebellion was crushed, the British deposed the 82-year-old emperor, tried him for treason, and exiled him to Rangoon. His humiliation marked the formal end of the Mughal dynasty, and the 1858 Government of India Act ended East India Company rule, placing India directly under the Crown. The photograph, taken by a British officer, documents the old order's extinction.",
+    "id": "wh-vis-u6-045",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bahadur_Shah_Zafar.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The emperor had sided with the rebels; the British deposed and exiled him rather than restoring his power.",
+      "B": "Incorrect. The rebellion was crushed, and this photograph of the emperor in captivity documents its failure, not its success.",
+      "C": "Incorrect. The photographer was the British officer Robert Tytler, recording a defeated prisoner; the image served British, not rebel, purposes.",
+      "D": "Correct. The deposition and exile of the last Mughal emperor ended the dynasty, and the rebellion's aftermath brought direct Crown rule to replace the East India Company."
+    },
+    "options": [
+      "(A) That the British restored the Mughal emperor to full power as a reward for his loyalty during the rebellion",
+      "(B) That the rebellion succeeded in expelling the British from India and restoring Mughal rule over the subcontinent",
+      "(C) That the photograph was commissioned by the emperor himself to rally further resistance against British rule",
+      "(D) That the British ended the Mughal dynasty and replaced Company rule with direct rule by the Crown"
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the subject of this photograph reveal about the consequences of the 1857 rebellion?",
+    "stimulus": "A photograph taken in May 1858 by Robert Tytler showing Bahadur Shah Zafar, the last Mughal emperor, seated in captivity. He was 82 years old. After the suppression of the 1857 rebellion, the British tried him, deposed him, and exiled him to Rangoon in Burma, where he died.",
+    "stimulus_words": 48,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Lord Elgin ordered the burning of the emperor's beloved palace as calculated punishment for the Qing's murder of allied prisoners. The destruction was exemplary: by annihilating a supreme symbol of the dynasty, Britain humiliated the Qing court into signing the Convention of Peking (1860), which legalized the opium trade, opened new treaty ports, and ceded Kowloon. Beato's photograph preserves the ruin as a monument to how imperialism enforced its demands.",
+    "id": "wh-vis-u6-046",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belvedere_of_the_God_of_Literature%2C_Summer_Palace%2C_Beijing%2C_6%E2%80%9318_October%2C_1860.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The deliberate burning of the imperial palace was exemplary punishment designed to humiliate the Qing and coerce acceptance of the unequal treaties imposed after the war.",
+      "B": "Incorrect. The burning was ordered deliberately in October 1860 during the Second Opium War, not an accident and not during the First Opium War.",
+      "C": "Incorrect. British troops carried out the burning on Lord Elgin's orders; Qing officials tried in vain to save the palace.",
+      "D": "Incorrect. No naval base was built; the purpose was punishment and humiliation, followed by the treaty settlement that expanded foreign privileges."
+    },
+    "options": [
+      "(A) That imperial powers used calculated cultural destruction to humiliate the Qing and force the unequal treaties",
+      "(B) That the palace was destroyed by accident when a fire spread from a nearby battlefield during the First Opium War",
+      "(C) That Qing officials burned their own palace to keep its treasures from falling into foreign hands",
+      "(D) That the burning was ordered to clear the land for a new British naval base outside Beijing"
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The British ordered the burning of the Summer Palace as punishment after Qing forces tortured and killed British and French prisoners during the Second Opium War. What does this deliberate destruction illustrate about nineteenth-century imperialism?",
+    "stimulus": "A photograph by Felice Beato taken between October 6 and 18, 1860, showing the \"Belvedere of the God of Literature,\" a pavilion in the Yuanmingyuan (the Old Summer Palace) near Beijing. It was one of the few structures still standing: days earlier, British troops under Lord Elgin had burned the vast palace complex to the ground.",
+    "stimulus_words": 56,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The Klondike gold rush pulled roughly 100,000 prospectors toward the Yukon, most traveling the brutal Chilkoot trail with a year's supplies on their backs. The photograph's Indigenous packers show that Native peoples were not bystanders: Tlingit men earned wages carrying prospectors' goods even as the stampede overran their lands and disrupted their economy, a pattern repeated in resource rushes worldwide.",
+    "id": "wh-vis-u6-047",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Klondikers_with_Indian_packers_near_the_summit_of_Chilkoot_Pass%2C_Alaska%2C_1897_%28LAROCHE_105%29.jpeg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. The migration was private and self-funded; the government's only role shown is the supply requirement, not organization or transport.",
+      "B": "Correct. The line of climbers shows mass long-distance migration pulled by a resource rush, and the Indigenous packers show Native peoples drawn into the new wage economy even as the rush disrupted their lands.",
+      "C": "Incorrect. The Indigenous packers visible in the photograph directly contradict this; the gold rush deeply disrupted Tlingit life and territory.",
+      "D": "Incorrect. Very few prospectors struck it rich; most found little or nothing after the grueling journey, and many returned poorer than they came."
+    },
+    "options": [
+      "(A) That the gold rush was organized and funded by the Canadian government, which transported prospectors to the goldfields",
+      "(B) That resource rushes pulled mass long-distance migration, drawing Indigenous people into wage labor even as the rush overran their lands",
+      "(C) That Indigenous peoples of the region were completely untouched by the Klondike gold rush and continued their traditional economy unchanged",
+      "(D) That nearly all the prospectors who climbed the pass struck it rich and returned home wealthy"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this photograph show about migration during the industrial era?",
+    "stimulus": "A photograph taken in 1897 by Frank La Roche near the summit of the Chilkoot Pass in Alaska. It shows a line of prospectors climbing a steep, rocky trail with heavy packs. Among them are Indigenous (Tlingit) packers hired to carry supplies: Canadian authorities required every prospector to haul in a year's worth of provisions before entering the Yukon.",
+    "stimulus_words": 59,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Carnegie Steel hired 300 Pinkerton agents as a private army to retake the Homestead mill from the Amalgamated union; when strikers met the barges with gunfire, a full battle followed. The Pinkertons surrendered, but the governor then sent 8,000 state militiamen to occupy the town, the strike collapsed, and the union was destroyed. The image shows both halves of the workers' dilemma: corporate private force first, state force behind it.",
+    "id": "wh-vis-u6-048",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_at_the_Landing_Homestead_Strike_of_1892.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. Federal and state troops were deployed against strikers in this era, not to protect them; at Homestead it was the state militia that finally broke the strike.",
+      "B": "Incorrect. Carnegie stayed in Scotland and refused to negotiate; his manager Henry Frick was determined to break the union, and no settlement was reached.",
+      "C": "Correct. The Pinkerton barges show employers using private armed force, and the aftermath, state militiamen occupying Homestead and crushing the strike, shows where government power fell.",
+      "D": "Incorrect. The Pinkertons were private security men hired by the company, not federal marshals, and they came to break the strike, not to punish the company."
+    },
+    "options": [
+      "(A) That the federal government sent regular army troops to protect striking workers from company violence",
+      "(B) That Andrew Carnegie personally negotiated a settlement with the union that ended the strike peacefully",
+      "(C) That employers fought unions with private armies, and the state ultimately sided with the employers",
+      "(D) That the Pinkerton agents shown were federal marshals enforcing a court order against the Carnegie company"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image reveal about labor conflict in industrial America?",
+    "stimulus": "An 1893 illustration by Arthur G. Burgoyne titled \"The Battle at the Landing.\" It shows the Homestead Strike of July 1892: barges carrying 300 Pinkerton agents hired by Carnegie Steel approach the shore of the Monongahela River while armed striking steelworkers mass on the bank; the company's great steel mill with its smokestacks looms behind them. The day-long battle left dead on both sides.",
+    "stimulus_words": 64,
+    "themes": [
+      "ECN",
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Dadd's illustration shows the industrial firepower gap in action: Kitchener's men, protected by a thorn barricade and armed with Maxim machine guns, Lee-Metford rifles, and artillery, mowed down Mahdist charges before they could close. Roughly 10,000 Mahdists died against fewer than 50 British dead. The reconquest of the Sudan, avenging Gordon's death at Khartoum in 1885, showed how industrial weaponry made European empire in Africa possible.",
+    "id": "wh-vis-u6-049",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Battle_of_Omdurman_Frank_Dadd_1898.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The kneeling riflemen firing from behind cover at distant charging masses visualizes the firepower mismatch: industrial weapons let a small force annihilate a far larger army and retake the Sudan.",
+      "B": "Incorrect. The Mahdists fought bravely but with spears and old rifles against machine guns and artillery; the weapon gap, not cavalry tactics, decided the battle.",
+      "C": "Incorrect. The battle was decided at range by sustained firepower; the Mahdist charges were broken up long before reaching British lines.",
+      "D": "Incorrect. Omdurman was a crushing British victory, the opposite of Adwa; the illustration celebrates imperial firepower, not African resistance."
+    },
+    "options": [
+      "(A) How machine guns and modern rifles let small European-led forces defeat far larger armies, enabling the reconquest of colonies",
+      "(B) That the Mahdist army possessed the same modern weapons as the British and was defeated only by superior British cavalry tactics",
+      "(C) That the battle was decided by hand-to-hand combat after both sides ran out of ammunition early in the fighting",
+      "(D) That the image depicts an African victory over a European army, similar to Ethiopia's victory at Adwa in 1896"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "At Omdurman, Kitchener's force of about 25,000 killed roughly 10,000 Mahdists while losing fewer than 50 men. What does the scene in this image help explain?",
+    "stimulus": "An illustration by Frank Dadd published in September 1898 showing the Battle of Omdurman in the Sudan. In the foreground, British and Egyptian soldiers kneel behind a thorn-bush barricade (zariba) firing volleys of rifle fire; in the distance, thousands of Mahdist warriors charge across open ground toward them.",
+    "stimulus_words": 48,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The Bhor Ghat incline was the engineering key to the Great Indian Peninsula Railway: climbing the Western Ghats linked Bombay's port to the cotton districts of the Deccan. Built with British capital and Indian labor, the line's purpose was to carry raw cotton to the docks for shipment to Lancashire's mills, especially during the American Civil War cotton boom, a textbook case of colonial infrastructure serving the metropole's industry.",
+    "id": "wh-vis-u6-050",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_reversing_station%2C_Bhore_Ghaut%2C_1869.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The railway was financed by British capital under a government guarantee and controlled by British companies, not by Indian merchants.",
+      "B": "Incorrect. Tourist traffic was trivial; the line was built for freight, above all the cotton exports that paid for the massive engineering works.",
+      "C": "Incorrect. The line ran inland from Bombay to the Deccan; it never connected to China, and opium traveled to China by sea.",
+      "D": "Correct. The switchback climb through the Ghats existed to join the cotton-growing interior to Bombay's port, funneling raw material to Britain's factories on British-owned rails."
+    },
+    "options": [
+      "(A) That Indian merchants financed and controlled the railway network to serve India's own domestic markets",
+      "(B) That the railway was built mainly to carry British tourists to hill stations in the Western Ghats",
+      "(C) That the line connected Indian cities to China in order to expand the opium trade overland",
+      "(D) That colonial railways carried raw cotton inland to the ports for export to Britain's factories"
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image show about the role of railways in colonial economies?",
+    "stimulus": "An 1869 engraving of the reversing station on the Bhor Ghat incline in India. A railway line with a train climbs in switchbacks through steep, rugged mountains of the Western Ghats. The line was part of the Great Indian Peninsula Railway, built with British capital and Indian labor to connect the port of Bombay with the cotton-growing districts of the Deccan interior.",
+    "stimulus_words": 62,
+    "themes": [
+      "TEC",
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
+  }
+]
