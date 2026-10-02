@@ -17,7 +17,7 @@
       "(D) Powers with no contact at all"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u8-008",
     "source_stimulus_words": 157,
     "stem": "The US and USSR cooperated against Japan in 1945 while American officers were already maneuvering to limit Soviet gains in Korea. What does this reveal about their relationship?",
@@ -48,7 +48,7 @@
       "(D) Each superpower built a rival regime in its zone and neither would yield"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-009",
     "source_stimulus_words": 157,
     "stem": "The 38th parallel was meant as a temporary surrender line. Why did it become a permanent border?",
@@ -80,7 +80,7 @@
       "(D) Isolationism"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-010",
     "source_stimulus_words": 157,
     "stem": "The US drew a line in Korea partly to limit how much territory the Soviets would occupy. Which later doctrine formalized this approach?",
@@ -112,7 +112,7 @@
       "(D) Matrilineal descent is standard Islamic law"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u1-029",
     "source_stimulus_words": 199,
     "stem": "Ibn Battuta is astonished that Malians trace descent through the maternal uncle rather than the father. What does his surprise reveal?",
@@ -144,7 +144,7 @@
       "(D) He judged Malian Islam against Middle Eastern urban norms and read local custom as religious failure"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u1-030",
     "source_stimulus_words": 199,
     "stem": "Battuta praises Malian prayer and Quranic study, yet condemns their unveiled women and easy male-female companionship. What does this combination reveal about him as a source?",
@@ -176,7 +176,7 @@
       "(D) Pilgrims returning from Ethiopian shrines carried Islam back to the Malian royal court"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-031",
     "source_stimulus_words": 199,
     "stem": "Why did trans-Saharan merchants succeed in spreading Islam to Mali where no armies went?",
@@ -208,7 +208,7 @@
       "(D) Apartheid was a mild and tolerant system before Sharpeville radicalized the government"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u8-011",
     "source_stimulus_words": 173,
     "stem": "Brutus writes that Sharpeville's importance is not that seventy died, but that it 'epitomized oppression.' Why does he insist the massacre revealed rather than created the reality?",
@@ -240,7 +240,7 @@
       "(D) They applied to white citizens"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-012",
     "source_stimulus_words": 173,
     "stem": "The Sharpeville protesters were demonstrating against the pass laws. What did the pass laws do?",
@@ -272,7 +272,7 @@
       "(D) It peacefully ended white minority rule through the ballot box"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-013",
     "source_stimulus_words": 173,
     "stem": "In 1994 South Africa held its first election open to all races, and Nelson Mandela became president. Why was this a world-historical event?",
@@ -304,7 +304,7 @@
       "(D) The First Fleet carried tourists"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u5-015",
     "source_stimulus_words": 0,
     "stem": "The First Fleet (1788) carried marines, officials, and hundreds of male and female convicts. Why did Britain need a penal colony on the other side of the world?",
@@ -335,7 +335,7 @@
       "(D) Britain supplied the colony generously"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u5-016",
     "source_stimulus_words": 0,
     "stem": "The First Fleet's colony nearly starved in its first years despite bringing farmers and seed. What does this show about settler colonialism?",
@@ -365,7 +365,7 @@
       "(D) An administrative record useful for studying logistics and hardship"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u5-017",
     "source_stimulus_words": 0,
     "stem": "The First Fleet chart lists convicts, marines, supplies, and livestock. What kind of historical source is it, and what is it most useful for?",
@@ -395,7 +395,7 @@
       "(D) The rapid extinction of Buddhism"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-032",
     "source_stimulus_words": 0,
     "stem": "The map shows Buddhism spreading from India to Sri Lanka, Central Asia, China, Korea, and Japan. What pattern does this show?",
@@ -427,7 +427,7 @@
       "(D) Christopher Columbus"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-033",
     "source_stimulus_words": 0,
     "stem": "Buddhism reached Sri Lanka, Central Asia, and China within centuries of the Buddha's death. Who first sponsored its spread beyond India?",
@@ -457,7 +457,7 @@
       "(D) They opposed the spread of Buddhism, keeping scriptures secret from travelers"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-034",
     "source_stimulus_words": 0,
     "stem": "Buddhist monasteries dotted the Silk Road oasis towns. What role did they play in the religion's spread?",
@@ -489,7 +489,7 @@
       "(D) He wanted to copy the English Parliament"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-006",
     "source_stimulus_words": 109,
     "stem": "Peter created the Table of Ranks, making noble status depend on state service rather than birth. What was he trying to do?",
@@ -521,7 +521,7 @@
       "(D) He wanted to introduce democracy"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-007",
     "source_stimulus_words": 109,
     "stem": "Peter taxed beards and forced Western dress at court. What did these cultural decrees signify?",
@@ -552,7 +552,7 @@
       "(D) No European country had serfdom"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-008",
     "source_stimulus_words": 109,
     "stem": "Peter westernized the army, administration, and culture, yet kept and extended serfdom. Why didn't his reforms touch serfdom?",
@@ -584,7 +584,7 @@
       "(D) To recruit young soldiers for the army from among the factory child workers"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u6-017",
     "source_stimulus_words": 139,
     "stem": "Parliament's Sadler Committee (1831-32) collected testimony like Joshua Drake's about children working brutal hours for pennies. What was its purpose?",
@@ -615,7 +615,7 @@
       "(D) Factory wages were generous"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u6-018",
     "source_stimulus_words": 139,
     "stem": "Drake says 'necessity compels' him to send his children to the mills. What economic reality does this describe?",
@@ -646,7 +646,7 @@
       "(D) They applied only to agriculture"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u6-019",
     "source_stimulus_words": 139,
     "stem": "Britain's Factory Acts (1833, 1844, 1847) limited child labor and the working day. What did they represent?",
@@ -676,7 +676,7 @@
       "(D) The king personally ordered it"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u6-020",
     "source_stimulus_words": 139,
     "stem": "Britain's Combination Acts (1799-1800) banned workers' unions, yet by the 1870s unions were legal. Why did Parliament give way?",
@@ -708,7 +708,7 @@
       "(D) To prevent cheating and guarantee merit-based selection"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-035",
     "source_stimulus_words": 0,
     "stem": "A painting of the imperial examinations (c. 960-1279) shows candidates writing alone in tiny isolated cells, searched before entry. Why were the exams conducted this way?",
@@ -740,7 +740,7 @@
       "(D) It produced military officers"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-036",
     "source_stimulus_words": 0,
     "stem": "The exams tested Confucian classics, poetry, and calligraphy, not law, engineering, or science. What was the effect on China's bureaucracy?",
@@ -770,7 +770,7 @@
       "(D) Merit-based exams threatened the clans' hereditary monopoly on office"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-037",
     "source_stimulus_words": 0,
     "stem": "Japan's Fujiwara clan dominated the court through hereditary office-holding. Why would they oppose Chinese-style merit examinations?",
@@ -801,7 +801,7 @@
       "(D) Poor families did not want office"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-038",
     "source_stimulus_words": 0,
     "stem": "The exams offered social mobility, yet most successful candidates came from wealthy families. Why?",
@@ -833,7 +833,7 @@
       "(D) He wanted more examinations"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-039",
     "source_stimulus_words": 0,
     "stem": "Mao abolished university entrance examinations during the Cultural Revolution. Why would a revolutionary leader oppose merit exams?",

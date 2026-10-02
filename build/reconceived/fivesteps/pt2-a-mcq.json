@@ -17,7 +17,7 @@
       "(D) To praise American commanders"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u7-022",
     "source_stimulus_words": 225,
     "stem": "The broadcast addresses American GIs as 'Yankee brothers,' pities them, and insists Japanese defenses are invulnerable. What was the strategic purpose?",
@@ -49,7 +49,7 @@
       "(D) They were banned after a month"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Making Connections",
     "source_id": "fivesteps-u7-023",
     "source_stimulus_words": 225,
     "stem": "Both Japan and Germany broadcast English-language programs to Allied troops. What did these programs share?",
@@ -80,7 +80,7 @@
       "(D) Teaching infantry tactics"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u7-024",
     "source_stimulus_words": 225,
     "stem": "The broadcast repeatedly blames 'your superiors' for sending GIs to die in a hopeless attack. What psychological tactic is this?",
@@ -112,7 +112,7 @@
       "(D) Mali controlled such vast gold that one caravan disrupted distant markets"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u1-040",
     "source_stimulus_words": 209,
     "stem": "Mansa Musa's hajj caravan spent so much gold that the price of gold fell in Cairo. What does this reveal about Mali's economy?",
@@ -144,7 +144,7 @@
       "(D) To staff the empire's courts and administration with trained legal officials"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-041",
     "source_stimulus_words": 209,
     "stem": "Mansa Musa returned from the hajj with Maliki jurists and Quranic scholars. Why did an emperor want foreign legal scholars?",
@@ -176,7 +176,7 @@
       "(D) Commercial routes also transmit religions, ideas, and scholarship"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u2-008",
     "source_stimulus_words": 209,
     "stem": "The same Saharan routes that carried gold and salt also carried Islam, books, and scholars into West Africa. What does this show about trade networks?",
@@ -208,7 +208,7 @@
       "(D) It attacks the British army as cruel, incompetent, and unworthy of the Indians' respect"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u6-021",
     "source_stimulus_words": 270,
     "stem": "Kipling wrote 'Gunga Din' while defending the British Empire in India. How does the poem reflect imperial attitudes?",
@@ -238,7 +238,7 @@
       "(D) The poem is really a boast about the narrator's own battlefield heroism"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u6-022",
     "source_stimulus_words": 270,
     "stem": "The narrator closes by admitting he once 'beat and cursed' Gunga Din. What does this admission change about the final tribute?",
@@ -270,7 +270,7 @@
       "(D) Fiction reveals nothing about real attitudes"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u6-023",
     "source_stimulus_words": 270,
     "stem": "Kipling also wrote 'The White Man's Burden' urging imperialism. How can 'Gunga Din' seem to criticize imperial arrogance?",
@@ -301,7 +301,7 @@
       "(D) It claimed stronger races naturally dominate weaker ones, making conquest natural"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u6-024",
     "source_stimulus_words": 270,
     "stem": "Social Darwinists applied 'survival of the fittest' to nations and races. How did this justify imperialism?",
@@ -332,7 +332,7 @@
       "(D) The Spanish colonial perspective"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u6-025",
     "source_stimulus_words": 0,
     "stem": "An American cartoon of the 1900s shows the United States lifting up grateful Cubans and Filipinos toward prosperity. What perspective does this reflect?",
@@ -363,7 +363,7 @@
       "(D) The treaty was never ratified"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u6-026",
     "source_stimulus_words": 0,
     "stem": "The Treaty of Paris (1898) gave the United States the Philippines, sparking fierce Senate debate. What was the anti-imperialists' main argument?",
@@ -394,7 +394,7 @@
       "(D) Ignoring Latin America entirely"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u6-027",
     "source_stimulus_words": 0,
     "stem": "Taft preferred 'dollar diplomacy' to Roosevelt's big stick in Latin America. What did this mean in practice?",
@@ -426,7 +426,7 @@
       "(D) Women are capable of the same intellectual and political achievements as men"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-042",
     "source_stimulus_words": 244,
     "stem": "Castiglione lists women philosophers, poets, and rulers who governed with prudence and justice. What is he arguing?",
@@ -458,7 +458,7 @@
       "(D) Humanists ignored the classics"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-043",
     "source_stimulus_words": 244,
     "stem": "Castiglione invokes Plato to defend women's capacities. How does this show Renaissance humanism at work?",
@@ -490,7 +490,7 @@
       "(D) Islamic law required female equality"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-044",
     "source_stimulus_words": 244,
     "stem": "Mongol women could own property, initiate divorce, and manage camps. What about nomadic pastoral life explains this relative freedom?",
@@ -522,7 +522,7 @@
       "(D) The triumph of communism"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u9-016",
     "source_stimulus_words": 5,
     "stem": "Sociologists call the spread of identical standardized business models worldwide 'McDonaldization.' What does a McDonald's in Shenzhen, China, illustrate?",
@@ -552,7 +552,7 @@
       "(D) International trade has ended"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u9-017",
     "source_stimulus_words": 5,
     "stem": "When pandemic lockdowns closed factories in Shenzhen, car plants in Germany idled for lack of parts. What does this show?",
@@ -584,7 +584,7 @@
       "(D) The Tiananmen protests succeeded, forcing Beijing to accept sweeping democratic reforms"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u9-018",
     "source_stimulus_words": 5,
     "stem": "'Engagement' theory held that trading with authoritarian states would liberalize them. Which event contradicts this?",
@@ -616,7 +616,7 @@
       "(D) They purchased their offices"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-009",
     "source_stimulus_words": 370,
     "stem": "The passage praises Ottoman promotion by merit. Where did many of these merit-promoted officials come from?",
@@ -647,7 +647,7 @@
       "(D) Merit played no role at all"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-010",
     "source_stimulus_words": 370,
     "stem": "China's civil service examinations were merit-based in theory, yet most passers came from wealthy families. What does this show?",
@@ -678,7 +678,7 @@
       "(D) Logistics played no role in Ottoman success"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-011",
     "source_stimulus_words": 370,
     "stem": "The passage marvels at Ottoman soldiers living on bare weighed rations during long campaigns. Why did such logistics matter?",
@@ -709,7 +709,7 @@
       "(D) They never changed at all, remaining loyal slave-soldiers for three full centuries"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u3-012",
     "source_stimulus_words": 370,
     "stem": "By the 1600s the Janissaries had become a hereditary caste that extorted payments from sultans and resisted military reform. What does this show about the corps the passage praises?",
@@ -741,7 +741,7 @@
       "(D) They were written in the 1800s"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u1-042",
     "source_stimulus_words": 293,
     "stem": "Marco Polo and William of Rubruck describe Mongol life in vivid detail. What should historians keep in mind when using these sources?",
@@ -773,7 +773,7 @@
       "(D) Women's essential economic labor gave them status and leverage"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-043",
     "source_stimulus_words": 293,
     "stem": "Rubruck lists Mongol women's work: driving wagons, loading dwellings, milking, making felt and cheese. What does this show?",
@@ -805,7 +805,7 @@
       "(D) The Mongols never used bows"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-044",
     "source_stimulus_words": 293,
     "stem": "Mongol warriors trained with the bow from childhood. What made the Mongol composite bow so effective?",
@@ -837,7 +837,7 @@
       "(D) The end of Christianity, as the Mongols suppressed churches and monasteries across Eurasia"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-045",
     "source_stimulus_words": 293,
     "stem": "Mongol conquests killed millions, yet historians also credit the Pax Mongolica. With what?",
@@ -869,7 +869,7 @@
       "(D) Memorized history played no role"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-046",
     "source_stimulus_words": 294,
     "stem": "Quipucamayus memorized speeches and histories alongside their knot records, and were exempt from all tribute and labor service. What does this show about the Inca state?",

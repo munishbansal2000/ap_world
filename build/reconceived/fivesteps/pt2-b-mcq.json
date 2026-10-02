@@ -17,7 +17,7 @@
       "(D) Only alphabets can run an empire"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u1-047",
     "source_stimulus_words": 294,
     "stem": "The Inca ran a vast empire without any form of writing. What does the quipu system prove?",
@@ -48,7 +48,7 @@
       "(D) Memorized history played no role in the system; only the knots mattered"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u1-048",
     "source_stimulus_words": 294,
     "stem": "Quipucamayu knowledge passed from father to son, and keepers constantly fingered their cords to remember. What does this suggest about Inca record-keeping?",
@@ -79,7 +79,7 @@
       "(D) It recorded only tax payments and nothing else of any administrative value"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-049",
     "source_stimulus_words": 294,
     "stem": "Quipus recorded numbers through knots but could not record words. What was the system's fundamental limitation?",
@@ -111,7 +111,7 @@
       "(D) The Revolution's universal rights must include women or it betrays itself"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-018",
     "source_stimulus_words": 286,
     "stem": "In 1791 Olympe de Gouges wrote the Declaration of the Rights of Woman, mirroring the Revolution's Declaration of the Rights of Man. What was her argument?",
@@ -143,7 +143,7 @@
       "(D) She supported the slave system"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-019",
     "source_stimulus_words": 286,
     "stem": "De Gouges asks why blonds do not claim superiority over brunettes. What is her rhetorical move?",
@@ -175,7 +175,7 @@
       "(D) The Revolution executed a woman for demanding its rights apply to all"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-020",
     "source_stimulus_words": 286,
     "stem": "Olympe de Gouges was guillotined in 1793. What does her execution reveal about the French Revolution?",
@@ -207,7 +207,7 @@
       "(D) It failed to achieve independence"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u5-021",
     "source_stimulus_words": 286,
     "stem": "Why is the Haitian Revolution (1791-1804) unique among Atlantic revolutions?",
@@ -239,7 +239,7 @@
       "(D) Colonial society had a fractured identity, belonging fully to neither world"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-022",
     "source_stimulus_words": 338,
     "stem": "Bolivar writes that Americans are 'neither Indian nor European, but a species midway between.' What problem was he describing?",
@@ -271,7 +271,7 @@
       "(D) There was no tension in his position"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-023",
     "source_stimulus_words": 338,
     "stem": "Bolivar calls Indigenous peoples the 'legitimate proprietors' yet led a criollo movement that kept them subordinated. What tension does this reveal?",
@@ -303,7 +303,7 @@
       "(D) He praised feudal privilege"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-024",
     "source_stimulus_words": 338,
     "stem": "Bolivar describes the conquistadors' agreement with the Spanish king as 'our social contract.' What is he doing with this Enlightenment language?",
@@ -335,7 +335,7 @@
       "(D) The diseases were new to everyone"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u2-009",
     "source_stimulus_words": 124,
     "stem": "Diamond argues that farming and cities created crowd diseases in the Old World. Why did these diseases devastate the Americas after 1492?",
@@ -367,7 +367,7 @@
       "(D) Environmental advantages gave Eurasians the tools of dominance"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u2-010",
     "source_stimulus_words": 124,
     "stem": "Diamond's Guns, Germs, and Steel argues that geography, not race, explains Eurasian dominance. What is his core claim?",
@@ -399,7 +399,7 @@
       "(D) Rats played no role in the plague"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u2-011",
     "source_stimulus_words": 124,
     "stem": "The passage says plague reached Europe in 1346 via trade routes from Central Asia. What does this show?",
@@ -431,7 +431,7 @@
       "(D) Europe sank beneath the sea, permanently ending its role in global trade networks"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-045",
     "source_stimulus_words": 68,
     "stem": "Boorstin says the 'dominant Island of the Earth' was displaced by a 'dominant Ocean.' What shift is he describing?",
@@ -463,7 +463,7 @@
       "(D) Sail design was irrelevant to exploration; only cannons and hull size mattered"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-046",
     "source_stimulus_words": 68,
     "stem": "The caravel combined square sails with lateen sails. Why did this matter for exploration?",
@@ -495,7 +495,7 @@
       "(D) Trade surpluses would be paid in gold and silver, the measure of power"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-047",
     "source_stimulus_words": 68,
     "stem": "Mercantilists believed a nation must export more than it imports. Why?",
@@ -527,7 +527,7 @@
       "(D) The galleons sailed only once"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-048",
     "source_stimulus_words": 68,
     "stem": "The Manila galleons carried Chinese porcelain to Mexico and Mexican silver to Asia for 250 years. What does this show?",
@@ -559,7 +559,7 @@
       "(D) The rigid centrally planned economy, through market mechanisms"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-014",
     "source_stimulus_words": 279,
     "stem": "Gorbachev called for perestroika, 'restructuring.' What was he trying to restructure?",
@@ -591,7 +591,7 @@
       "(D) The Soviet economy was larger than America's and far more productive in every sector"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-015",
     "source_stimulus_words": 279,
     "stem": "Reagan's military buildup in the 1980s pressured the Soviet economy. Why couldn't the USSR keep up?",
@@ -623,7 +623,7 @@
       "(D) Its failure destroyed the Party's authority and doomed the Union"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-016",
     "source_stimulus_words": 279,
     "stem": "In August 1991 Soviet hardliners tried to overthrow Gorbachev. What was the coup's effect?",
@@ -655,7 +655,7 @@
       "(D) Market reform was safe but political reform fatal, so the Party kept politics closed"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-017",
     "source_stimulus_words": 279,
     "stem": "China liberalized its economy but kept one-party rule; the USSR liberalized politics and collapsed. What lesson did Beijing draw?",
@@ -687,7 +687,7 @@
       "(D) It was never actually proposed"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-025",
     "source_stimulus_words": 240,
     "stem": "UN Resolution 181 (1947) proposed the partition of Palestine. What happened to the plan?",
@@ -719,7 +719,7 @@
       "(D) The UN wanted Jerusalem as its permanent capital and world headquarters"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-018",
     "source_stimulus_words": 240,
     "stem": "The partition plan placed Jerusalem under a special international regime rather than assigning it to either state. Why?",
@@ -751,7 +751,7 @@
       "(D) India remained united"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u8-019",
     "source_stimulus_words": 240,
     "stem": "British India was partitioned in a matter of weeks in 1947. What resulted from the haste?",
@@ -783,7 +783,7 @@
       "(D) Africans do not age"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u9-019",
     "source_stimulus_words": 0,
     "stem": "The chart shows life expectancy rising worldwide but lowest in sub-Saharan Africa. What best explains the gap?",
@@ -813,7 +813,7 @@
       "(D) Vaccines cause Alzheimer's"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u9-020",
     "source_stimulus_words": 0,
     "stem": "As life expectancy rises in wealthy countries, rates of heart disease and Alzheimer's increase. Why?",
@@ -844,7 +844,7 @@
       "(D) Cold weather spreads malaria"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u9-021",
     "source_stimulus_words": 0,
     "stem": "Malaria kills hundreds of thousands yearly, mostly in Africa. Why has it persisted there?",

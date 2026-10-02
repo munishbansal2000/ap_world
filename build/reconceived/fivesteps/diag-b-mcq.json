@@ -17,7 +17,7 @@
       "(D) Spain and Portugal ignored the papal line entirely"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-008",
     "source_stimulus_words": 0,
     "stem": "The map shows the 1494 papal line of demarcation granting Spain claims west of the line and Portugal claims east, with Brazil falling on Portugal's side. What does the line reveal about the pope's authority in 1494?",
@@ -48,7 +48,7 @@
       "(D) All the treasure ships sank at sea"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u2-004",
     "source_stimulus_words": 0,
     "stem": "Zheng He's treasure fleets dwarfed anything in Europe, yet the Ming court abandoned oceanic voyages after the 1430s. What did the court gain from the voyages that made trade profits unnecessary?",
@@ -80,7 +80,7 @@
       "(D) Europeans deliberately hid the Americas from Asian merchants to monopolize trade"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u1-011",
     "source_stimulus_words": 0,
     "stem": "Before 1492, the Americas were isolated from Afro-Eurasian trade networks. What was the fundamental reason?",
@@ -112,7 +112,7 @@
       "(D) Inflation always benefits the nation experiencing it by increasing tax revenues and trade"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-009",
     "source_stimulus_words": 0,
     "stem": "Spain shipped tons of American silver to Europe, yet Spanish prices soared and its industry lagged. What does this illustrate about mercantilist assumptions?",
@@ -144,7 +144,7 @@
       "(D) A writer's moment in time and personal experience shape judgment of the same event"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u5-001",
     "source_stimulus_words": 208,
     "stem": "Wordsworth wrote as a young witness of 1789; Dickens wrote decades later, after the Terror. What does their difference illustrate about historical interpretation?",
@@ -176,7 +176,7 @@
       "(D) The French Revolution overturned the entire social order; the American kept its elites"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Making Connections",
     "source_id": "fivesteps-u5-002",
     "source_stimulus_words": 208,
     "stem": "Both the American and French Revolutions protested unfair taxation. In which crucial respect did the French Revolution differ from the American?",
@@ -208,7 +208,7 @@
       "(D) The Terror was an unintended accident"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u5-003",
     "source_stimulus_words": 208,
     "stem": "Robespierre justified the Terror as the necessary companion of virtue. What logic did this express?",
@@ -240,7 +240,7 @@
       "(D) By opposing all forms of government"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u5-004",
     "source_stimulus_words": 208,
     "stem": "How did Enlightenment social-contract ideas undermine absolute monarchy?",
@@ -272,7 +272,7 @@
       "(D) Bubbles symbolize strength and permanence, unlike fragile glass"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u7-004",
     "source_stimulus_words": 2,
     "stem": "A 1919 cartoon titled 'Blowing Bubbles' shows Woodrow Wilson blowing a large, fragile soap bubble labeled 'League of Nations.' What criticism does the bubble metaphor convey?",
@@ -303,7 +303,7 @@
       "(D) Great powers should be excluded from the organization to keep it impartial"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-005",
     "source_stimulus_words": 2,
     "stem": "The League failed in part because the United States never joined. What structural lesson did the UN's founders take from this?",
@@ -333,7 +333,7 @@
       "(D) The myth supported the treaty's legitimacy and justified the war-guilt clause"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-006",
     "source_stimulus_words": 2,
     "stem": "Many Germans believed their army had been 'stabbed in the back' by civilians rather than defeated in the field. How did the Treaty of Versailles feed this belief?",
@@ -365,7 +365,7 @@
       "(D) The slave market had collapsed entirely"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-010",
     "source_stimulus_words": 230,
     "stem": "The caravan's price list values young women and children highest and bearded adult men lowest. What does this reveal about the Arab slave trade's demand?",
@@ -396,7 +396,7 @@
       "(D) Saharan caravans traded only in salt and gold and never carried captives"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-011",
     "source_stimulus_words": 230,
     "stem": "The caravan set out from Algeria with sixteen men and sixty-four camels, and returned with four hundred captives. What does this reveal about the Saharan slave trade's economics?",
@@ -428,7 +428,7 @@
       "(D) Labeling captives as idolaters made their enslavement religiously permissible"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-012",
     "source_stimulus_words": 230,
     "stem": "Islamic law forbade enslaving fellow Muslims. How did the raiders' summons to hunt the 'idolatrous Koholanes' function?",
@@ -460,7 +460,7 @@
       "(D) The two systems were identical in every respect, from capture methods to hereditary bondage"
     ],
     "reasoning": "Comparison",
-    "skill": "Comparison",
+    "skill": "Making Connections",
     "source_id": "fivesteps-u4-013",
     "source_stimulus_words": 230,
     "stem": "Islamic tradition encouraged freeing slaves, and freed slaves in the Muslim world could rise as soldiers, officials, or family members. What does this imply about the difference from Atlantic plantation slavery?",
@@ -492,7 +492,7 @@
       "(D) Restoration of Ottoman rule"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-007",
     "source_stimulus_words": 11,
     "stem": "The post-WWI map shows former Ottoman lands labeled as French and British 'mandates.' What did mandate status theoretically mean?",
@@ -522,7 +522,7 @@
       "(D) The mandates were administered by Arab governments"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u7-008",
     "source_stimulus_words": 11,
     "stem": "Wilson's Fourteen Points promised self-determination, yet Arabs who revolted against the Ottomans received mandates instead of independence. What does this contradiction illustrate?",
@@ -552,7 +552,7 @@
       "(D) The two promises were identical and compatible, both envisioning one unified Arab state"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-009",
     "source_stimulus_words": 11,
     "stem": "During WWI Britain encouraged Arab revolt with hints of independence while also issuing the Balfour Declaration supporting a Jewish national home. What resulted from these contradictory pledges?",
@@ -582,7 +582,7 @@
       "(D) Italy withdrew from European affairs"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-010",
     "source_stimulus_words": 11,
     "stem": "Italy called its WWI outcome a 'mutilated victory,' having gained little territory. How did this resentment shape Italian politics?",
@@ -613,7 +613,7 @@
       "(D) Nothing; the period was uneventful"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u7-011",
     "source_stimulus_words": 0,
     "stem": "Stalin presented this chart in 1939 to show rising agricultural output from 1933 to 1937. What major event does the chart's triumphant narrative conceal?",
@@ -645,7 +645,7 @@
       "(D) Western agents forged all Soviet data"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Sourcing and Situation",
     "source_id": "fivesteps-u7-012",
     "source_stimulus_words": 0,
     "stem": "Why do historians treat Soviet production statistics from the 1930s with skepticism?",
@@ -677,7 +677,7 @@
       "(D) They were members of a religious sect"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-013",
     "source_stimulus_words": 0,
     "stem": "Collectivization targeted the kulaks 'as a class.' Who were the kulaks, and what happened to them?",
@@ -709,7 +709,7 @@
       "(D) The state paid peasants fairly for their animals"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u7-014",
     "source_stimulus_words": 0,
     "stem": "Forced into collectives, peasants slaughtered their own livestock rather than surrender it. What does this reveal about collectivization's effects?",
@@ -741,7 +741,7 @@
       "(D) The court was unaware Britain existed"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Claims and Evidence in Sources",
     "source_id": "fivesteps-u4-014",
     "source_stimulus_words": 97,
     "stem": "Qianlong treats the British embassy as a tribute mission and lectures George III on future loyalty. What does this reveal about the Qing worldview?",
@@ -772,7 +772,7 @@
       "(D) Britain conquered Beijing in 1793"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-015",
     "source_stimulus_words": 97,
     "stem": "Since China wanted no British manufactures, Britain paid for tea and silk in silver, draining its reserves. How did Britain eventually balance this trade deficit?",
@@ -803,7 +803,7 @@
       "(D) To profit from commerce while strictly controlling foreign contact"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-016",
     "source_stimulus_words": 97,
     "stem": "Under the Canton system, foreign merchants could trade only at Canton and only through licensed Chinese merchant houses. What was the system's purpose?",
@@ -834,7 +834,7 @@
       "(D) The world's silver streamed to China, financing Spanish America's mining boom"
     ],
     "reasoning": "Causation",
-    "skill": "Causation",
+    "skill": "Developments and Processes",
     "source_id": "fivesteps-u4-017",
     "source_stimulus_words": 97,
     "stem": "China accepted mainly silver in payment for its tea, silk, and porcelain. What was the global effect of this policy?",
