@@ -135,3 +135,16 @@ AP World History knowledge, then compare against the recorded key.
 | Key mismatches | 0 |
 | Items repaired | 1 (stimulus-only repair, key unchanged: wh-princeton-pdf5-u8-002) |
 | Post-repair re-derivation | confirmed (key C) |
+
+---
+
+# U2 Post-Rewrite Re-Audit — 4 items (2026-10-02)
+
+**Auditor:** clean-context (never saw books or drafting). Items wh-fresh-u2-007/011/014/016 had
+option sets rewritten AFTER their original blind audit; re-derived cold here.
+**Result: 4 audited · 4 key matches · 0 mismatches · 0 repairs.**
+
+- **wh-fresh-u2-007 — MATCH (key A).** Silk Road map labels goods at origins both ways. (A) is the only option the origin labels support; (B) contradicts them; (C) invents admirals/monopolies the map never names; (D) contradicts the busy labeled routes (Mongols secured them).
+- **wh-fresh-u2-011 — MATCH (key A).** Mongol 1290 map: Polo's route crosses several khanates — the only map evidence of one traveler moving Europe→China under Mongol protection. (B)/(C) are not on the map; (D) contradicts the route shown.
+- **wh-fresh-u2-014 — MATCH (key D).** Black Death map: white arrows mark land AND maritime trade routes; plague advances along them from Crimea/Levant into Europe. Same networks moved goods and pathogens. (A)/(C) contradict the arrows; (B) reverses the direction shown.
+- **wh-fresh-u2-016 — MATCH (key C).** Map shows plague entering from the Levant/Crimea and sweeping across Europe, Russia, North Africa — Eurasian scope. (A) misreads the origin; (B) false about labels; (D) absurd (map shows no economic data).
