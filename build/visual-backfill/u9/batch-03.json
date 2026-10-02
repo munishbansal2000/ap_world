@@ -1,0 +1,376 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The two images show a lake mostly gone within two decades — not from climate or accident, but from a deliberate state plan: diverting the Amu Darya and Syr Darya to irrigate cotton in the desert, which starved the sea and wrecked its fishery.",
+  "id": "wh-vis-u9-023",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Aral_Sea_1989-2008.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Earthquakes act in moments; this shrinkage unfolded steadily over decades, which a single quake cannot explain.",
+   "B": "Wrong. Sea-level rise would add water, not remove it — and the Aral is an inland lake, unaffected by ocean levels.",
+   "C": "Correct. Soviet planners diverted the sea's two feeder rivers for cotton irrigation, shrinking the lake to a fraction of its size and destroying its fishing economy.",
+   "D": "Wrong. The Amazon is in South America; the Aral Sea is in Central Asia — the wrong continent entirely."
+  },
+  "options": [
+   "(A) A single earthquake that drained the sea in the 1990s.",
+   "(B) Rising global sea levels flooding the surrounding land.",
+   "(C) Soviet-era irrigation projects that diverted the sea's feeder rivers to grow cotton in the desert.",
+   "(D) The construction of hydroelectric dams on the Amazon River, which diverted so much water that a Central Asian lake thousands of miles away dried up."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The change shown resulted primarily from",
+  "stimulus": "Two satellite images of the Aral Sea, Central Asia: 1989 (left) shows a large dark-blue lake; 2008 (right) shows mostly pale dry seabed with only small green remnants of water.",
+  "stimulus_words": 30,
+  "themes": [
+   "ENV",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The hole grew through the 1980s and 1990s to larger than North America, then stopped growing after about 2000 — right after the 1987 Montreal Protocol phased out CFCs. The timing suggests the treaty worked, though the chart shows stabilization, not full recovery.",
+  "id": "wh-vis-u9-024",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ozone_hole_area.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The line ends around 20 million square kilometers, still larger than Antarctica — the hole was very much still there in 2004.",
+   "B": "Wrong. If treaties had no effect, the hole would have kept climbing; instead its growth leveled off after the CFC phase-out began.",
+   "C": "Wrong. After about 2000 the line plateaus rather than climbing; the rapid growth of the 1980s–1990s did not continue.",
+   "D": "Correct. The plateau beginning around 2000, after the 1987 Montreal Protocol's CFC phase-out, is consistent with coordinated international regulation halting the damage."
+  },
+  "options": [
+   "(A) The ozone hole disappeared completely by 2004.",
+   "(B) International treaties had no effect on the ozone hole.",
+   "(C) The ozone hole kept growing rapidly through 2004, doubling in size every few years with no sign of ever slowing down or stabilizing at any point in the record.",
+   "(D) The 1987 Montreal Protocol's phase-out of CFCs coincided with the ozone hole's growth leveling off, suggesting coordinated regulation can work."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The chart best supports which conclusion about international environmental action?",
+  "stimulus": "Line chart, 1979–2004: the average area of the Antarctic ozone hole grows from near zero to about 25 million square kilometers — larger than North America — then levels off after about 2000. (The vertical bars show each year's minimum-to-maximum range.)",
+  "stimulus_words": 41,
+  "themes": [
+   "ENV",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The solar array sits beside working crop fields — not replacing the farm but added to it — showing how renewable generation is being adopted incrementally within existing land uses.",
+  "id": "wh-vis-u9-025",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Photovoltaic_Panels_Reap_Solar_Energy_on_Farms_%2820240809-USDA-RD-DCK-0324%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Panels and crops share the landscape: the photo shows renewable energy being added alongside conventional farming, not replacing it wholesale.",
+   "B": "Wrong. The fields around the panels are clearly still being farmed; one array does not equal the end of American agriculture.",
+   "C": "Wrong. A single solar installation does not show fossil fuels abandoned; the US still drew most of its energy from fossil fuels in 2024.",
+   "D": "Wrong. The panels are visibly built right next to farmland, so no such ban is in evidence."
+  },
+  "options": [
+   "(A) The adoption of renewable generation alongside conventional land uses such as farming.",
+   "(B) The replacement of all American farms by solar power stations, as agricultural land across the country was converted entirely to energy production.",
+   "(C) The abandonment of fossil fuels by the United States.",
+   "(D) Government bans on building solar panels near farmland."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scene best illustrates which trend in recent energy use?",
+  "stimulus": "Aerial photograph, United States, 2024 (USDA): a ground-mounted array of solar panels sits beside farm buildings and crop fields.",
+  "stimulus_words": 19,
+  "themes": [
+   "ENV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Greenpeace — an international NGO — staged a theatrical protest (a coal-filled mining cart) at the seat of German government power, demanding the chancellor phase out coal: activism targeting national policy on a global issue.",
+  "id": "wh-vis-u9-026",
+  "image_license": "CC0 1.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Protest_of_Greenpeace_with_coal_in_front_of_the_German_Chancellery_07.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The government is the target of the protest, not its organizer; the activists wear Greenpeace jackets, not official uniforms.",
+   "B": "Correct. A transnational NGO used a staged, media-friendly action at the Chancellery to pressure Germany's leader to abandon coal — NGOs as political actors in the globalized era.",
+   "C": "Wrong. The sign demands an end to coal ('Out of coal!'), the opposite of what a miners' union seeking jobs would want.",
+   "D": "Wrong. This is a protest against coal, not an official celebration of it."
+  },
+  "options": [
+   "(A) The German government's protest against Greenpeace.",
+   "(B) Transnational activist organizations pressuring national governments to abandon fossil fuels.",
+   "(C) A coal miners' union demanding more mining jobs, with workers asking Mrs. Merkel to open new coal mines across Germany.",
+   "(D) An official government ceremony celebrating coal."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The action shown best illustrates which feature of environmental politics in the globalized era?",
+  "stimulus": "Photograph, Berlin: Greenpeace activists in green jackets stand beside a mining cart heaped with coal lumps in front of the German Chancellery. A large yellow sign reads (in German): 'Out of coal, Mrs. Merkel!'",
+  "stimulus_words": 34,
+  "themes": [
+   "ENV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Thousands of students marched in Milan as part of a coordinated global school strike — the same movement, slogans, and tactics appearing in cities worldwide, organized across borders through social media.",
+  "id": "wh-vis-u9-027",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Students_marching%2C_School_strikes_for_climate_-_Fridays_For_Future_in_Milan%2C_Italy_-_24_May%2C_2019-05-24.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The marchers are protesters with handmade signs, not a government tourism board; nothing here promotes travel.",
+   "B": "Wrong. The signs are about the planet and the climate; 'Italians first — the Earth' plays on a political slogan but the march's subject is environmental, not immigration.",
+   "C": "Correct. The Milan march was one node of the Fridays for Future school strikes — a youth climate movement replicated in cities worldwide and coordinated transnationally.",
+   "D": "Wrong. The signs criticize the status quo ('the planet is fragile, hard to recover'), not celebrate industry."
+  },
+  "options": [
+   "(A) An Italian government campaign to promote tourism, using student marches and colorful signs to attract visitors to the city of Milan.",
+   "(B) A protest against immigration policy in Italy.",
+   "(C) A transnational youth movement using shared symbols and tactics to pressure leaders on climate change across national borders.",
+   "(D) A celebration of Italy's industrial achievements."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The event shown best illustrates which development of the twenty-first century?",
+  "stimulus": "Photograph, Milan, Italy, May 24, 2019: thousands of mostly young marchers fill a city street carrying handmade signs, including one in front reading 'Prima la terra' ('The Earth first') and others about the planet's fragility.",
+  "stimulus_words": 35,
+  "themes": [
+   "ENV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Before 1960 no country shown topped 4 tonnes per hectare; afterward, yields multiplied — but the Netherlands approached 10 tonnes while Spain stalled near 3. The Green Revolution was real and radically uneven.",
+  "id": "wh-vis-u9-028",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Long-term_wheat_yields_in_Europe%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Yields multiplied several times over after 1960; the steep post-1960 climb is the most obvious feature of the chart.",
+   "B": "Wrong. The lines fan out enormously — the Netherlands near 10 tonnes, Spain near 3 — so yields clearly diverged.",
+   "C": "Wrong. The lines climb steeply upward after 1960, the opposite of a decline.",
+   "D": "Correct. The post-1960 takeoff documents the Green Revolution's yield explosion, while the wide spread between countries shows its gains were unevenly distributed."
+  },
+  "options": [
+   "(A) European wheat yields have barely changed since 1850.",
+   "(B) Every European country achieved roughly the same yields by 2000, with Spain, Greece, and the Netherlands all harvesting about 9 tonnes per hectare.",
+   "(C) Wheat yields declined after 1960 because of soil exhaustion.",
+   "(D) New seeds, fertilizers, and methods multiplied yields after 1960, but the gains were very uneven across countries."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The chart best supports which claim about the Green Revolution?",
+  "stimulus": "Line chart of wheat yields (tonnes per hectare) in European countries, 1850–2023. Yields stay below 4 tonnes until about 1960, then climb steeply; the Netherlands and Belgium approach 9–10 tonnes, while Spain and Greece reach only about 3 tonnes.",
+  "stimulus_words": 39,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The darkest blues (6–7 tonnes per hectare) sit over northwestern Europe; China is mid-range, the US lighter, and much of Africa white or hatched — the Green Revolution's benefits mapped onto existing wealth and infrastructure.",
+  "id": "wh-vis-u9-029",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wheat_yields%2C_World%2C_2023.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. High yields cluster in wealthy, intensive-farming regions (northwestern Europe), while much of sub-Saharan Africa shows very low yields or no data — an uneven geography of gain.",
+   "B": "Wrong. The map's whole point is variation: dark blue Europe versus pale Africa shows anything but equal gains.",
+   "C": "Wrong. Africa is the palest region on the map, with the lowest yields, not the highest.",
+   "D": "Wrong. High yields in the dark-blue countries depended on heavy fertilizer use; the map does not show inputs becoming unnecessary."
+  },
+  "options": [
+   "(A) produced the highest yields in wealthy regions with intensive farming, while much of Africa saw little gain.",
+   "(B) raised yields equally on every continent.",
+   "(C) made Africa the world's highest-yielding wheat region, with sub-Saharan countries harvesting far more per hectare than Western Europe.",
+   "(D) eliminated the need for fertilizers worldwide."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map suggests that the agricultural advances of the Green Revolution",
+  "stimulus": "World map, 2023: countries shaded by wheat yield (tonnes per hectare). The darkest shades (6–7 tonnes) cover northwestern Europe; China is medium-dark; the United States is light; much of sub-Saharan Africa is white or hatched (very low yields or no data).",
+  "stimulus_words": 41,
+  "themes": [
+   "ENV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The yield maps show spectacular gains; this map shows their price — enormous chemical inputs, concentrated in China and Europe, while African farmers used almost none. The Green Revolution's bounty came with pollution, cost, and unequal access.",
+  "id": "wh-vis-u9-030",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fertilizer_use_in_kg_per_hectare_of_arable_land%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The high-yield countries on the other maps are precisely the dark, heavy-fertilizer countries here; inputs were central, not unnecessary.",
+   "B": "Correct. Heavy fertilizer use underpins the high yields — and the map's near-white Africa shows the inputs were unaffordable or unavailable to many poor farmers, the core of the Green Revolution critique.",
+   "C": "Wrong. China is among the darkest countries and Africa among the lightest — the reverse of this claim.",
+   "D": "Wrong. The map shows 2015 use at very high levels in China and Europe, not a worldwide decline."
+  },
+  "options": [
+   "(A) Fertilizers were unnecessary for the yield gains shown in the other maps, which came entirely from better weather, traditional seeds, and old-fashioned farming methods alone.",
+   "(B) High yields depended on heavy chemical inputs, raising concerns about pollution, cost, and dependence — inputs poor farmers often could not afford.",
+   "(C) African farmers used more fertilizer per hectare than Chinese farmers.",
+   "(D) Fertilizer use declined worldwide after 2000."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Taken together with the wheat-yield maps, this map best supports which point in debates over the Green Revolution?",
+  "stimulus": "World map, 2015: countries shaded by fertilizer use (kilograms per hectare of arable land). China is among the darkest; Western Europe is dark; most of sub-Saharan Africa is nearly white (very low use).",
+  "stimulus_words": 33,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Borlaug's dwarf wheat — high-yielding and disease-resistant — was planted across Mexico, India, and Pakistan in the 1960s–70s, multiplying harvests just as experts predicted famine. He received the 1970 Nobel Peace Prize for it.",
+  "id": "wh-vis-u9-031",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Norman_Borlaug_%282004%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Chemical fertilizer came from the Haber-Bosch process (early 1900s), half a century before Borlaug's wheat work.",
+   "B": "Wrong. Borlaug's methods relied on fertilizers and pesticides; he never campaigned to ban them.",
+   "C": "Correct. Borlaug's high-yield wheat varieties dramatically raised food production in the developing world, heading off predicted famines — the achievement that won him the Nobel Peace Prize.",
+   "D": "Wrong. His work was aimed precisely at developing countries (Mexico, India, Pakistan), where its impact was greatest."
+  },
+  "options": [
+   "(A) invented chemical fertilizer in the nineteenth century, personally creating the Haber-Bosch process that made all of modern agriculture possible.",
+   "(B) led the campaign to ban pesticides worldwide.",
+   "(C) helped avert predicted mass famines by sharply raising food production in developing countries through high-yield wheat.",
+   "(D) proved that only wealthy countries could increase crop yields."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Borlaug developed high-yield, disease-resistant wheat varieties adopted in Mexico, India, and Pakistan in the 1960s. He is most significant to world history because his work",
+  "stimulus": "Photograph, 2004: Norman Borlaug (1914–2009), the American agronomist celebrated as the 'father of the Green Revolution,' at age 90.",
+  "stimulus_words": 19,
+  "themes": [
+   "ENV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The image makes smallpox's horror concrete — and the WHO campaign it illustrates wiped the disease out entirely by 1980, the only human disease ever eradicated: proof that coordinated global institutions could solve a planetary problem.",
+  "id": "wh-vis-u9-032",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Child_with_Smallpox_Bangladesh.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The child's suffering shows smallpox was a grave, often fatal threat — which is why eradication mattered.",
+   "B": "Wrong. Bangladesh was one of the last strongholds of the disease; the campaign's final victories were won in poor countries, not just rich ones.",
+   "C": "Wrong. Smallpox was declared eradicated in 1980 and no longer kills anyone; the campaign succeeded completely.",
+   "D": "Correct. The WHO's 1967–1980 campaign eliminated smallpox worldwide — the only human disease ever eradicated — demonstrating what coordinated international action could achieve."
+  },
+  "options": [
+   "(A) Smallpox was never a serious threat to human life.",
+   "(B) Only wealthy countries benefited from the eradication campaign.",
+   "(C) The campaign failed because the disease still kills millions today, with smallpox remaining one of the world's deadliest infections in the 2020s.",
+   "(D) Coordinated international institutions could mobilize science and funding to solve a worldwide health crisis."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Images like this one were used by the World Health Organization to build support for its global smallpox eradication campaign (1967–1980). The campaign's success best illustrates which broader point about the post-1945 world?",
+  "stimulus": "Photograph, Bangladesh, 1973: a young child covered in the dense, painful blisters of smallpox.",
+  "stimulus_words": 14,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "For decades the lines barely moved; then, after the WHO's intensified 1967 campaign, Africa's line plunged from ~40 countries to near zero within five years, and the last case was recorded in Somalia in 1977. Eradication was a campaign achievement, not a gradual drift.",
+  "id": "wh-vis-u9-033",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Smallpox-countries-endemic-eradication-desktop.png",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The steep, synchronized collapse after 1967 — versus decades of near-stasis before — shows that the intensified global campaign, not slow background progress, drove the disease to extinction.",
+   "B": "Wrong. The chart's annotations tie every turning point to WHO programs; the disease did not vanish on its own.",
+   "C": "Wrong. The 1959 program produced little visible change; the dramatic drop follows the 1967 intensified campaign, eight years later.",
+   "D": "Wrong. Africa's line stays near 45 endemic countries until the late 1960s — the last region to fall, not the first."
+  },
+  "options": [
+   "(A) A coordinated, intensified global campaign — not gradual progress — drove smallpox to extinction within about a decade.",
+   "(B) Smallpox faded away on its own without organized human effort.",
+   "(C) The 1959 WHO program alone eliminated the disease immediately.",
+   "(D) Africa eliminated smallpox before any international campaign began, with the continent already free of the disease by the early 1950s."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The timing of the declines shown best supports which conclusion?",
+  "stimulus": "Line chart, 1920–1980: number of countries where smallpox was endemic, by region. Africa's line stays near 45 countries until the late 1960s, then plunges to near zero by 1972; Asia and the Americas also fall steeply. Annotations mark: 1959 — WHO begins global program; 1967 — WHO begins intensified campaign; 1977 — last case in Somalia; 1980 — declared eradicated.",
+  "stimulus_words": 60,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ }
+]

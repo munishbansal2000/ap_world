@@ -1,0 +1,410 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "Oral polio drops given in the field — by international 'STOP' teams working with local staff — are the classic instrument of global disease campaigns: cheap, easy to administer, and aimed at wiping out a preventable disease population-wide.",
+  "id": "wh-vis-u9-034",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Vaccination-polio-india.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Oral polio drops are a vaccine, not an antibiotic; antibiotics treat bacterial infections and do nothing against viruses like polio.",
+   "B": "Correct. The photo shows a mass immunization effort in the field — international health workers and local assistants vaccinating children against a preventable disease.",
+   "C": "Wrong. This is a free, open-air, door-to-door style campaign, the opposite of an exclusive hospital treatment.",
+   "D": "Wrong. The workers are administering a modern vaccine, not traditional remedies."
+  },
+  "options": [
+   "(A) The use of antibiotics to cure viral infections, since penicillin and similar drugs are the standard medical treatment for polio and other viruses.",
+   "(B) Mass immunization campaigns, often organized with international support, targeting preventable diseases in developing countries.",
+   "(C) A hospital-based treatment available only to the wealthy.",
+   "(D) Traditional healers replacing modern medicine."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scene best illustrates which approach to disease in the global age?",
+  "stimulus": "Photograph, India: a health worker gives oral polio vaccine drops to a young boy while an assistant steadies him; a vaccine carrier sits on the wooden table.",
+  "stimulus_words": 27,
+  "themes": [
+   "SIO",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Before antibiotics, a simple bacterial infection could kill; after penicillin's mass production, pneumonia, wound infections, and childbed fever became routinely curable — a major reason death rates collapsed in the twentieth century.",
+  "id": "wh-vis-u9-035",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Antibiotics kill bacteria, not viruses; polio and smallpox are viral and were conquered by vaccines, not penicillin.",
+   "B": "Wrong. Humans used herbal and other remedies for millennia; penicillin was the first modern antibiotic, not the first medicine.",
+   "C": "Correct. Mass-produced penicillin made once-deadly bacterial infections treatable, driving a large share of the twentieth century's mortality decline.",
+   "D": "Wrong. Antibiotics treat infections; they do not prevent them the way vaccines do, so vaccination remained essential."
+  },
+  "options": [
+   "(A) provided a cure for viral diseases such as polio and smallpox, wiping out those epidemics decades before vaccines for them were ever developed.",
+   "(B) were the first medicines ever used by humans.",
+   "(C) made bacterial infections — once major killers — widely treatable, contributing to the twentieth century's plunge in death rates.",
+   "(D) eliminated the need for vaccines."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Fleming's discovery, mass-produced during World War II, is most significant because antibiotics",
+  "stimulus": "Color photograph, 1940s: Alexander Fleming, the discoverer of penicillin, at his laboratory bench holding a petri dish among culture plates and flasks.",
+  "stimulus_words": 22,
+  "themes": [
+   "SIO",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The map's darkest reds (10–20%+) are confined to southern Africa while nearly the whole rest of the world is below 0.5%: HIV/AIDS became a disease of poverty and inequality, concentrated where health systems were weakest.",
+  "id": "wh-vis-u9-036",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/World_map_of_HIV_prevalence%2C_2023.png",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The map shows extreme concentration in southern Africa and near-zero rates elsewhere — the opposite of even distribution.",
+   "B": "Wrong. North America and Europe are among the palest regions (below 0.2%); the highest rates are in poor southern African countries.",
+   "C": "Wrong. Tens of millions still live with HIV; the map documents its 2023 prevalence, not its eradication.",
+   "D": "Correct. Despite medical advances, HIV remained brutally concentrated in southern Africa — a newer epidemic layered onto older patterns of global health inequality."
+  },
+  "options": [
+   "(A) HIV was distributed evenly around the world by 2023, with every region and continent showing roughly the same share of the population living with the virus.",
+   "(B) Wealthy countries had the highest HIV rates.",
+   "(C) HIV had been eradicated by 2023.",
+   "(D) Newer epidemics like HIV/AIDS remained brutally concentrated in poorer regions, especially southern Africa, even as other diseases were conquered."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map best supports which claim about disease in the global age?",
+  "stimulus": "World map, 2023: share of the population aged 15–49 living with HIV. The darkest shades (10–20% or more) cover southern Africa — South Africa, Eswatini, Lesotho, Botswana, Zimbabwe; nearly everywhere else is below 0.5%.",
+  "stimulus_words": 34,
+  "themes": [
+   "SIO",
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Child death is now rare in wealthy countries (below 0.5%) but still reaches 10–20% in parts of West and Central Africa, with South Asia in between: the great health gains of the modern era were real but distributed by wealth.",
+  "id": "wh-vis-u9-037",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Child_mortality_rate_%28UN_IGME_data_world_map%29%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The stark gradient — pale rich world, dark West and Central Africa — shows child survival still tracking poverty despite overall global progress.",
+   "B": "Wrong. Rates range from under 0.5% to 10–20%; the map's entire message is how unequal they are.",
+   "C": "Wrong. The palest (lowest-mortality) countries are North America, Europe, and Australia — the wealthy world, not the reverse.",
+   "D": "Wrong. Vaccines and other interventions drove the historic fall in child deaths; the map shows where that fall is incomplete, not that it never happened."
+  },
+  "options": [
+   "(A) Life-saving gains reached some regions far more than others, with child survival still closely tied to poverty.",
+   "(B) Child mortality is now the same everywhere in the world.",
+   "(C) Wealthy countries have the highest child mortality rates.",
+   "(D) Vaccines had no effect on child survival, since immunization programs never reached the developing world at any point in the twentieth century."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The pattern shown best illustrates which limitation of twentieth-century health advances?",
+  "stimulus": "World map, 2023: share of newborns dying before age five. The darkest shades (10–20%) cover West and Central Africa (Niger, Chad, Nigeria, CAR, Sierra Leone); South Asia is 2–5%; North America, Europe, and Australia are below 0.5%.",
+  "stimulus_words": 37,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Every regional line climbs — most steeply after 1900 — and the lowest line gains the most, compressing the gap between regions: a story of global convergence in survival. The brief dip around 2020 (the COVID-19 pandemic) shows even long-run progress can be knocked back.",
+  "id": "wh-vis-u9-038",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Life_expectancy_by_world_region_since_1770%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The lines climb steeply from 1900 onward, roughly tripling — the chart's entire story is dramatic change, not flatness.",
+   "B": "Correct. All regions rise, the poorest most of all (narrowing gaps), and the small dip around 2020 marks the pandemic's interruption of the trend.",
+   "C": "Wrong. The lowest line — the poorest region — shows the largest gains; progress was fastest where life expectancy started lowest.",
+   "D": "Wrong. Birth rates do not change life expectancy at birth; the dip reflects excess deaths — the COVID-19 pandemic — not fewer births."
+  },
+  "options": [
+   "(A) Life expectancy has been flat for most of human history, including the entire twentieth century, with no region on earth gaining more than a year or two since 1900.",
+   "(B) Life expectancy rose worldwide in the modern era, with the poorest regions gaining the most — though the dip around 2020 shows progress can be interrupted.",
+   "(C) Only wealthy regions saw any gains in life expectancy after 1900.",
+   "(D) The dip around 2020 was caused by declining birth rates."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which conclusion is best supported by the chart?",
+  "stimulus": "Line chart, 1770–2023: each colored line traces a world region's life expectancy at birth. All lines rise, especially after 1900; the lowest line climbs the most, narrowing the gap between regions; around 2020 several lines dip briefly.",
+  "stimulus_words": 37,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The UN's medium-fertility projection shows India passing China around 2023 and peaking near 1.7 billion, China falling to about 600 million by 2100, and Nigeria surging to about 450 million: the demographic future belongs to South Asia and Africa, not East Asia.",
+  "id": "wh-vis-u9-039",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/2024_Our_World_In_Data_Population%2C_1800_to_2100_chart_with_future_projections_based_on_UN%27s_medium-fertility_scenario.png",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. India's line stays above China's after about 2023 and keeps rising for decades; China does not retake the lead.",
+   "B": "Wrong. China, Japan, and Brazil all decline in the projection; only India, Nigeria, and the US keep growing to 2100.",
+   "C": "Correct. The chart's projections concentrate future growth in India and Nigeria (South Asia and Africa) while China's population shrinks steeply.",
+   "D": "Wrong. Nigeria reaches about 450 million by 2100 — large, but far below India's roughly 1.5 billion."
+  },
+  "options": [
+   "(A) China will remain the world's most populous country through 2100, staying well ahead of India and every other country in each decade shown in the projection.",
+   "(B) Every large country's population will keep growing through 2100.",
+   "(C) Future population growth will be concentrated in South Asia and Africa, while China's population is projected to shrink dramatically.",
+   "(D) Nigeria's population will surpass India's by 2050."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The projections best support which claim about the future of population growth?",
+  "stimulus": "Line chart, 1800–2100, of the most populous countries (UN medium-fertility projection). India overtakes China around 2023 and peaks near 1.7 billion around 2060; China declines steeply to about 600 million by 2100; Nigeria climbs to about 450 million; Japan, Brazil, and others level off or decline.",
+  "stimulus_words": 46,
+  "themes": [
+   "SIO",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In 1975 about 84% of young men but only 69% of young women could read and write; by 2022 both were around 90% — schooling expanded for everyone, but girls' gains were larger, nearly erasing the gap.",
+  "id": "wh-vis-u9-040",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Literacy-rate-of-young-men-and-women-line.png",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Both lines climb steadily for nearly fifty years; attendance and literacy expanded, not declined.",
+   "B": "Wrong. A roughly 3-point gap remains in 2022; the gap narrowed dramatically but was not eliminated by 1990 — or even by 2022.",
+   "C": "Wrong. Rising literacy means more reading and writing, not less; digital media did not reverse the trend.",
+   "D": "Correct. The female line rises faster than the male line, closing a 15-point gap to about 3 points — the signature of mass schooling reaching girls."
+  },
+  "options": [
+   "(A) A decline in school attendance worldwide.",
+   "(B) The elimination of all gender differences in education by 1990, when girls' literacy caught up with boys' completely and the gap vanished forever.",
+   "(C) Literacy falling as digital media replaced reading.",
+   "(D) The massive expansion of schooling, especially for girls, narrowing the gender gap in basic education."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The trend shown best reflects which social change of the late twentieth century?",
+  "stimulus": "Line chart, 1975–2022: literacy rates of young men and women (ages 15–24) worldwide. Men's rate rises from about 84% to about 93%; women's from about 69% to about 90%, nearly closing a 15-point gap.",
+  "stimulus_words": 34,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Nearly 380 million tonnes of new plastic in a single year — led by polypropylene and polyethylene — shows an economy built on cheap petrochemicals: the material base of disposable consumer culture, and a mounting waste crisis.",
+  "id": "wh-vis-u9-041",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Primary_plastic_production_by_polymer_type%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The sheer volume — hundreds of millions of tonnes of petroleum-derived polymers — documents how deeply mass consumption depends on cheap fossil-fuel materials.",
+   "B": "Wrong. The chart shows 2015 production of conventional plastics at record scale; biodegradable alternatives were a negligible share.",
+   "C": "Wrong. Producing ~380 million tonnes in one year shows a booming industry, not a declining one.",
+   "D": "Wrong. The chart is titled 'primary' (virgin) plastic production; it measures new plastic, not recycled material."
+  },
+  "options": [
+   "(A) The dependence of mass consumer culture on cheap, fossil-fuel-derived materials.",
+   "(B) The replacement of plastics by biodegradable materials by 2015, when eco-friendly substitutes had already taken over nearly the entire market.",
+   "(C) The decline of the petrochemical industry after 1980.",
+   "(D) That most plastic was produced from recycled material."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The scale of production shown best illustrates which feature of the late-twentieth-century economy?",
+  "stimulus": "Bar chart, 2015: global primary plastic production by polymer type, in millions of tonnes — polypropylene 68, LDPE 64, PP&A fibers 59, HDPE 52, PVC 38, PET 33, and others, totaling roughly 390 million tonnes.",
+  "stimulus_words": 35,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The UN does not rule anyone: it is a membership organization whose agencies and forums coordinate responses to war, poverty, disease, and environmental threats — the institutional scaffolding of the globalized era.",
+  "id": "wh-vis-u9-042",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/United_Nations_Building_NY.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The UN has no sovereignty over states; members join voluntarily and the General Assembly's resolutions are generally non-binding.",
+   "B": "Correct. The headquarters houses the institution states built after 1945 to manage shared problems collectively — peacekeeping, development, health, and the environment.",
+   "C": "Wrong. Peacekeeping is only one UN function; its agencies work on refugees, health, food, children, and much more.",
+   "D": "Wrong. The UN coexists with regional bodies like the EU and African Union; it did not replace them."
+  },
+  "options": [
+   "(A) serving as a world government that directly rules member states, with the authority to overrule national governments and impose its own laws.",
+   "(B) providing a forum where states coordinate on peace, development, and shared problems like health and the environment.",
+   "(C) managing only military operations and nothing else.",
+   "(D) replacing all regional organizations such as the EU."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The complex shown was built to house an institution created in 1945. Its role in the globalized era is best described as",
+  "stimulus": "Photograph: the United Nations headquarters in New York City — the glass Secretariat tower and the curved General Assembly building.",
+  "stimulus_words": 20,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "With the Cold War's end, the planned economies of Eastern Europe opened to markets and foreign investment, the EU expanded eastward, and the 1990s became the high-water mark of trade liberalization — the wall's fall is the symbolic starting gun.",
+  "id": "wh-vis-u9-043",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The 1990s saw trade barriers fall worldwide (WTO founded 1995); the wall's fall accelerated trade, it did not end it.",
+   "B": "Wrong. The EU expanded after 1989, adding Eastern European members; it did not dissolve.",
+   "C": "Correct. The collapse of the Soviet bloc removed the Cold War's economic division, opening Eastern Europe to markets and unleashing the 1990s wave of globalization.",
+   "D": "Wrong. Korea remains divided; the wall that fell divided Germany, not Korea."
+  },
+  "options": [
+   "(A) ended all international trade, closing borders worldwide and bringing the global exchange of goods to a complete standstill.",
+   "(B) caused the European Union to dissolve.",
+   "(C) opened Eastern Europe to market economies and accelerated the integration of the world economy in the 1990s.",
+   "(D) led to the immediate reunification of Korea."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The event shown is most significant for the history of globalization because the end of the Cold War",
+  "stimulus": "Photograph, Berlin, November 1989: crowds stand atop the Berlin Wall at the Brandenburg Gate, waving signs reading 'OVER PEACE WEST & EAST.'",
+  "stimulus_words": 22,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Ivy Mike — the first thermonuclear weapon, hundreds of times more powerful than the Hiroshima bomb — showed that a single weapon could now destroy a city entirely, making nuclear war a civilization-ending prospect and driving arms-control diplomacy.",
+  "id": "wh-vis-u9-044",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/IvyMike2.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Atmospheric testing continued for another decade (until the 1963 Partial Test Ban Treaty); one test did not end testing.",
+   "B": "Wrong. Hydrogen bombs have never been used in war; the Korean War ended in 1953 with conventional weapons.",
+   "C": "Wrong. The test intensified the arms race — both superpowers built thermonuclear arsenals and spent more, not less, on weapons.",
+   "D": "Correct. The 10.4-megaton blast proved weapons of effectively unlimited power were possible, locking in a bilateral arms race and the fear of global annihilation that defined Cold War diplomacy."
+  },
+  "options": [
+   "(A) The end of all nuclear weapons testing.",
+   "(B) The use of hydrogen bombs in the Korean War.",
+   "(C) A decline in military spending by both superpowers, who decided nuclear weapons were unnecessary and dismantled their arsenals after 1952.",
+   "(D) A nuclear arms race that made the threat of annihilation global, spurring arms-control efforts and international institutions."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The test shown contributed most directly to which development of the Cold War era?",
+  "stimulus": "Photograph, November 1952: the mushroom cloud of the Ivy Mike test at Enewetak Atoll — the first hydrogen bomb, with a yield of 10.4 megatons.",
+  "stimulus_words": 25,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Night lights track electrification and urban economic activity: the bright belts of North America, Europe, and Japan versus the darkness over most of Africa visualize the development gap of the 1990s more vividly than any statistic.",
+  "id": "wh-vis-u9-045",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Earth%27s_City_Lights_by_DMSP%2C_1994-1995_%28large%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The brilliant North America, Europe, and Japan against a mostly dark Africa show electrified wealth concentrated in some regions while others remained dim — uneven development made visible.",
+   "B": "Wrong. Africa is the darkest continent in the image; its cities were smaller and far less electrified than those of the bright regions.",
+   "C": "Wrong. The image's whole message is inequality of light — some regions blaze while others are nearly dark.",
+   "D": "Wrong. City lights primarily record electrification and economic activity; two equally populous cities can differ enormously in brightness depending on wealth."
+  },
+  "options": [
+   "(A) Starkly uneven development: electrification and urban wealth concentrated in North America, Europe, and Japan while much of Africa remained dim.",
+   "(B) That Africa had the world's largest and brightest cities in the 1990s, with its urban centers outshining those of North America, Europe, and Japan in the satellite image.",
+   "(C) Equal levels of electrification on every continent.",
+   "(D) That city lights measure population density rather than wealth."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The image best illustrates which feature of the world economy in the 1990s?",
+  "stimulus": "NASA composite of Earth's city lights, 1994–1995 (Defense Meteorological Satellite Program). North America, Europe, and Japan blaze with light; India and coastal China glow dimly; most of Africa is dark.",
+  "stimulus_words": 30,
+  "themes": [
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ }
+]

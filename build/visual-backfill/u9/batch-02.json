@@ -1,0 +1,376 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "The signs ('MY LIFE IS NOT FOR SALE,' 'FAIR TRADE,' 'STOP WTO') show protesters who did not reject trade itself but rejected the WTO's version of it — rules they believed served corporations at the expense of workers, the environment, and poor countries.",
+    "id": "wh-vis-u9-012",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/WTO-Seattle-PuppetMarchers-28_or_29Nov1999.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. 'STOP WTO' is the opposite of supporting the WTO; the marchers were there to oppose the organization, not cheer it.",
+      "B": "Wrong. The 'FAIR TRADE' sign shows they wanted trade on different terms, not an American withdrawal from the world economy.",
+      "C": "Wrong. Nothing in the signs celebrates corporations; the puppet's 'MY LIFE IS NOT FOR SALE' message attacks corporate power.",
+      "D": "Correct. The protesters targeted trade-liberalization rules as corporate-friendly and demanded trade governed by labor, environmental, and development standards instead."
+    },
+    "options": [
+      "(A) Support for the WTO's efforts to remove all barriers to trade.",
+      "(B) A demand that the United States withdraw from the global economy entirely.",
+      "(C) Celebration of multinational corporations for creating jobs around the world, with the marchers carrying puppets and signs to thank companies like Nike, McDonald's, and Shell for investing in poor countries.",
+      "(D) Opposition to trade-liberalization rules seen as favoring corporations over workers, the environment, and poorer countries — demanding 'fair' rather than merely 'free' trade."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The protesters' message best represents which response to globalization?",
+    "stimulus": "Photograph, Seattle, 1999: protesters march against a meeting of the World Trade Organization. A giant puppet carries a sign reading 'MY LIFE IS NOT FOR SALE' and 'FAIR TRADE'; another marcher's sign reads 'STOP WTO.'",
+    "stimulus_words": 35,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "China's line is the steepest on the chart: from about $2,000 per person in 1990 — among the lowest shown — to about $24,000 by 2024, overtaking Mexico around 2022. No other economy shown closed the gap so fast.",
+    "id": "wh-vis-u9-013",
+    "image_license": "CC BY 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Graph_of_Major_Developing_Economies_by_Real_GDP_per_capita_at_PPP%2C_from_1990%2C_OWID.png",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. China's trajectory is uniquely steep — starting near the bottom in 1990 and finishing at the top of this group — the textbook case of rapid catch-up growth.",
+      "B": "Wrong. India ends around $10,000, far below China (~$24,000) and Mexico (~$22,000); it was never the richest of the group.",
+      "C": "Wrong. The lines fan out dramatically: China soars while Pakistan barely moves, so growth rates clearly differed.",
+      "D": "Wrong. Mexico's line fluctuates but ends higher (about $22,000) than it started (about $17,000); it did not shrink steadily."
+    },
+    "options": [
+      "(A) China experienced exceptionally rapid catch-up growth, moving from among the poorest shown in 1990 to the richest by the 2020s.",
+      "(B) India had the highest GDP per capita of the group throughout the period, staying well ahead of China, Mexico, and Brazil from 1990 to 2024.",
+      "(C) All of these economies grew at roughly the same rate after 1990.",
+      "(D) Mexico's economy shrank steadily from 1990 to 2024."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which statement is best supported by the chart?",
+    "stimulus": "Line chart, 1990–2024: GDP per capita (adjusted for price differences) for major developing economies. China's line climbs steeply from about $2,000 to about $24,000, passing Mexico around 2022; India's rises steadily to about $10,000; Indonesia reaches about $15,000; Pakistan, the lowest, reaches only about $5,500.",
+    "stimulus_words": 45,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "A crowded McDonald's in Moscow — in a country where American brands were absent before 1990 — is a vivid snapshot of cultural globalization: the same consumer brands, menus, and business formats appearing on streets worldwide after the Cold War.",
+    "id": "wh-vis-u9-014",
+    "image_license": "CC BY 2.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/McDonalds_Moscow_Pushkinskaya_2013_%2814982067455%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The restaurant is open, packed with customers, and clearly operating — the opposite of a ban.",
+      "B": "Correct. An American fast-food chain thriving in Moscow shows how consumer culture and corporate brands diffused into formerly closed markets after the Cold War.",
+      "C": "Wrong. The photo is about Russia, not the United States, and it shows fast food expanding, not declining.",
+      "D": "Wrong. This was a genuine McDonald's restaurant (the first in the USSR opened in 1990), not a knockoff."
+    },
+    "options": [
+      "(A) The Russian government's ban on foreign restaurants, which forced McDonald's to operate in secret without any advertising or signage.",
+      "(B) The worldwide diffusion of American consumer brands and business models into formerly closed markets after the Cold War.",
+      "(C) The decline of fast food in the United States.",
+      "(D) A Russian company copying McDonald's without permission."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The scene best illustrates which feature of globalization after the Cold War?",
+    "stimulus": "Photograph, 2013: the crowded interior of a McDonald's restaurant in Moscow, Russia — customers line up and eat in the familiar red-and-beige dining room.",
+    "stimulus_words": 24,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The long rise (315 to 425 ppm) documents the human-caused buildup of CO2, while the regular seasonal sawtooth — peaking in May, dipping in September–October — reflects Northern Hemisphere plants absorbing CO2 each growing season. The two patterns have different causes, and the chart shows both.",
+    "id": "wh-vis-u9-015",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mauna_Loa_CO2_monthly_mean_concentration.svg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The curve rises in every decade shown, reaching about 425 ppm by 2025; nothing in the chart shows a decline.",
+      "B": "Wrong. The seasonal cycle is natural (plants breathing), but it does not cancel out the long-term rise, which comes on top of it.",
+      "C": "Correct. The steady multi-decade climb is the human-driven trend; the yearly sawtooth is the seasonal signature of Northern Hemisphere vegetation.",
+      "D": "Wrong. The chart shows about 315 ppm in 1960 and about 425 ppm in 2025 — concentrations were much lower in 1960."
+    },
+    "options": [
+      "(A) CO2 levels have fallen since the 1990s because of emissions cuts.",
+      "(B) The seasonal ups and downs prove that human activity does not affect CO2 levels, since the yearly cycle shows nature fully controls the atmosphere on its own.",
+      "(C) Atmospheric CO2 has risen continuously since 1958, with a yearly cycle driven by the Northern Hemisphere's growing season.",
+      "(D) CO2 concentrations were higher in 1960 than in 2025."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which conclusion is best supported by the chart?",
+    "stimulus": "Line chart of monthly mean atmospheric CO2 measured at Mauna Loa, Hawaii, 1958–2025. The curve rises steadily from about 315 to about 425 parts per million, with a regular seasonal sawtooth. An inset shows the seasonal pattern: CO2 peaks in May and dips in September–October.",
+    "stimulus_words": 45,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Early bands are dominated by Europe and the United States; after about 2000 China's band becomes the largest while the US and EU bands shrink slightly — the geography of emissions followed the geography of industrialization.",
+    "id": "wh-vis-u9-016",
+    "image_license": "CC BY 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Global_annual_CO2_emissions_by_world_region_since_1750.svg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. China's (red) band is clearly the largest in recent years; the US band is smaller and has recently shrunk.",
+      "B": "Wrong. The total (the top of the stack) keeps climbing to about 40 billion tonnes; only the US and EU bands show slight recent declines.",
+      "C": "Wrong. Before 1950 the largest bands are Europe and the United States — Europe was the dominant early emitter.",
+      "D": "Correct. The stack shows emissions leadership passing from the early-industrialized West to developing Asia, with China becoming the largest single band after 2000."
+    },
+    "options": [
+      "(A) The United States remains by far the largest emitter shown.",
+      "(B) Total global CO2 emissions have fallen steadily since 2000, as the chart's shrinking bands for the United States and Europe clearly demonstrate across every region.",
+      "(C) Europe never contributed significantly to global emissions.",
+      "(D) The center of fossil-fuel emissions shifted from the early-industrialized West to developing Asia, especially China, in the late twentieth century."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The chart best supports which claim about emissions in the global age?",
+    "stimulus": "Stacked area chart of annual CO2 emissions from fossil fuels and industry by world region, 1750–2024. Before 1950 the bands are dominated by Europe and the United States; after 2000 China's band (red) becomes the largest; in recent years the US and EU bands shrink slightly while the total keeps growing toward 40 billion tonnes.",
+    "stimulus_words": 55,
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Almost the entire map is warmer than the 1951–1980 baseline, but the warming is not even: the deepest reds (over 2°C) blanket the Arctic and northern Russia — the well-documented pattern of Arctic amplification.",
+    "id": "wh-vis-u9-017",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Global_Temperature_Anomalies_from_1880_to_2022_%28SVS5060_-_GISTEMP-2022-TemperatureAnomalyBothCelsiusFahrenheit_00899_print%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The map shows near-universal warming with the most intense warming concentrated in the far north — exactly the Arctic amplification pattern.",
+      "B": "Wrong. The color scale ranges from pale yellow to deep red; warming is clearly stronger in some places (the Arctic) than others.",
+      "C": "Wrong. The tropics are pale yellow (moderate warming) while the Arctic is deep red — the poles warmed more, not the tropics.",
+      "D": "Wrong. Nearly the whole map is shaded warm relative to the 1951–1980 average; almost nowhere cooled."
+    },
+    "options": [
+      "(A) Warming is global but strongest in the far north, a pattern known as Arctic amplification.",
+      "(B) Warming has been uniform across the entire planet.",
+      "(C) The tropics have warmed far more than the polar regions.",
+      "(D) Most of the planet has cooled relative to the 1951–1980 average, with only a few small regions near the Arctic showing any warming at all."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the map show about recent warming?",
+    "stimulus": "NASA map of global surface temperature anomaly, 2018–2022, compared with the 1951–1980 average. Nearly the whole map is shaded warm (yellow to red); the deepest red — more than 2°C (3.6°F) above average — covers the Arctic and northern Russia.",
+    "stimulus_words": 40,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Each dominant source took many decades to rise and fall — biomass ruled for a century, coal for a century, oil is still near 35% after 150 years — and fossil fuels together still supply the great bulk of energy. Transitions are slow, not sudden.",
+    "id": "wh-vis-u9-018",
+    "image_license": "CC BY 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Share_of_global_primary_energy_consumption_by_source%2C_OWID.svg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Wind, solar, hydro, and the other non-fossil sources are thin slivers at the bottom; fossil fuels (oil, coal, gas) still dominate.",
+      "B": "Correct. The chart's long, overlapping curves show each source rising and fading over many decades, with fossil fuels still dominant in 2017.",
+      "C": "Wrong. Coal dominated only roughly from the mid-1800s to the mid-1900s; before that biomass ruled, and after that oil overtook it.",
+      "D": "Wrong. Oil was used from the 1860s but took until the 1960s to pass coal — about a century, not an instant."
+    },
+    "options": [
+      "(A) Renewable sources such as wind and solar already supply most of the world's energy, having fully replaced coal, oil, and natural gas by 2017.",
+      "(B) Fossil fuels displaced biomass and still dominate, and each energy transition has taken many decades.",
+      "(C) Coal has always been the world's dominant energy source.",
+      "(D) Oil replaced coal almost immediately after it was discovered."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which conclusion about energy in the modern era is best supported?",
+    "stimulus": "Line chart, 1800–2017: shares of global primary energy consumption by source. Traditional biofuels (wood, dung) fall from nearly 100% to under 10%; coal peaks around 1910 at over half; crude oil rises after 1950 to about 35%; natural gas grows to over 20%; nuclear, hydro, wind, and solar together remain a small slice.",
+    "stimulus_words": 53,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The photo pairs the old (a traditional windmill) with the contested modern option (a nuclear plant): nuclear power emits little CO2 but carries accident, waste, and proliferation fears — which is exactly why its role in the energy transition is debated.",
+    "id": "wh-vis-u9-019",
+    "image_license": "CC BY 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The cooling tower belongs to a nuclear plant generating on an industrial scale; a single historic windmill cannot match its output.",
+      "B": "Wrong. Belgium has not banned energy production; the nuclear plant behind the windmill is clearly operating.",
+      "C": "Correct. The image stages the energy debate visually — a low-carbon but risky technology (nuclear) beside an older renewable one — mirroring arguments over nuclear's place in a post-fossil future.",
+      "D": "Wrong. Nuclear plants produce long-lived radioactive waste and carry accident risks; the debate exists precisely because they are not hazard-free."
+    },
+    "options": [
+      "(A) Proof that traditional windmills generate more electricity than nuclear plants, which is why Belgium replaced all of its reactors with historic windmills.",
+      "(B) The Belgian government's decision to ban all forms of energy production.",
+      "(C) Whether nuclear power — a low-carbon but risky and controversial source — should be part of the shift away from fossil fuels.",
+      "(D) Evidence that nuclear plants produce no waste and pose no danger."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The juxtaposition in the photograph best reflects which debate about energy in the global age?",
+    "stimulus": "Photograph, Doel, Belgium: an old-fashioned Dutch windmill stands in the foreground while a huge nuclear power plant cooling tower releases steam behind it.",
+    "stimulus_words": 23,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "A ruined reactor so dangerous it had to be permanently entombed under a giant arch — with a memorial to the disaster — shows why nuclear accidents weigh so heavily in energy politics: the costs and contamination last for generations.",
+    "id": "wh-vis-u9-020",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chernobyl_reactor_4.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The reactor was entombed, not repaired; it will never operate again, which is precisely the point of the confinement arch.",
+      "B": "Wrong. The memorial and the exclusion zone around the plant testify to lasting regional effects, not a quick recovery.",
+      "C": "Wrong. Radioactive contamination at Chernobyl will remain dangerous for centuries; the arch exists because the waste does not become safe quickly.",
+      "D": "Correct. The need for a permanent, enormously expensive containment structure — plus a memorial — demonstrates the decades-long burden a severe accident imposes."
+    },
+    "options": [
+      "(A) Damaged nuclear reactors can be quickly repaired and put back into service within months, making major accidents only brief interruptions in power generation.",
+      "(B) The disaster had no lasting effects on the surrounding region.",
+      "(C) Nuclear waste becomes safe within a few years of an accident.",
+      "(D) Nuclear accidents can impose enormous, decades-long containment and cleanup costs that shape public opposition to nuclear power."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The structure shown was built in response to the 1986 Chernobyl disaster. Its existence best illustrates which point in debates over nuclear energy?",
+    "stimulus": "Photograph, Chernobyl, Ukraine: the giant New Safe Confinement arch built over the destroyed Reactor 4, with a memorial sculpture of hands cradling a reactor in the foreground.",
+    "stimulus_words": 27,
+    "themes": [
+      "ENV",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The diagram shows sunlight coming in freely while outgoing heat radiation is partly caught and sent back down — the blanket mechanism that lifts Earth's average surface temperature from a frigid −18°C to a livable 15°C.",
+    "id": "wh-vis-u9-021",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Greenhouse_effect_with_energy_flows_shown_by_altitude.svg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The gray wedge labeled 'longwave radiation redirected by greenhouse gases' shows heat from the surface being intercepted and sent back downward.",
+      "B": "Wrong. The yellow 'Warming: Sunlight' band shows sunlight arriving unimpeded; greenhouse gases act on outgoing heat, not incoming light.",
+      "C": "Wrong. The gases do not create heat; they hold in heat the surface already emitted.",
+      "D": "Wrong. Reflecting sunlight away would cool the planet; the diagram shows the gases keeping heat in, the opposite process."
+    },
+    "options": [
+      "(A) intercepting some of the heat radiating from Earth's surface and sending it back downward.",
+      "(B) blocking incoming sunlight from reaching the surface, acting like a giant shade that keeps solar energy from ever warming the Earth at all.",
+      "(C) generating new heat through chemical reactions in the atmosphere.",
+      "(D) reflecting sunlight back into space like a mirror."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "According to the diagram, greenhouse gases warm the planet mainly by",
+    "stimulus": "Diagram of energy flow through the atmosphere. Sunlight warms the surface; the surface gives off longwave (heat) radiation, part of which escapes to space and part of which is redirected back downward by greenhouse gases. Text notes: without greenhouse gases the surface would average −18°C; with them, 15°C.",
+    "stimulus_words": 48,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 9
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The geometric fishbone clearings with smoke are the signature of organized settler agriculture: roads cut into the forest, then land cleared along them for crops and cattle — the main driver of Amazon deforestation.",
+    "id": "wh-vis-u9-022",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. Cities would appear as dense built-up areas, not as branching geometric clearings spread across the forest.",
+      "B": "Correct. The regular fishbone pattern of roads and fields, with smoke from burning, matches large-scale conversion of rainforest to farmland and cattle pasture.",
+      "C": "Wrong. Natural fires do not carve geometric road-and-field patterns; the regularity of the clearings shows deliberate human clearing.",
+      "D": "Wrong. Indigenous firewood gathering does not produce industrial-scale geometric clearings visible from space."
+    },
+    "options": [
+      "(A) The growth of Brazilian cities spreading into the rainforest, as urban neighborhoods and suburbs expanded outward along new highways.",
+      "(B) The conversion of Amazon forest to cattle pasture and farmland by settlers and ranchers.",
+      "(C) Natural wildfires occurring without human involvement.",
+      "(D) Small-scale firewood gathering by Indigenous communities."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The pattern of clearing shown is most directly associated with which process?",
+    "stimulus": "NASA satellite image, Rondônia, Brazil, August 2007: dark green intact rainforest is cut by large tan and brown clearings in a branching 'fishbone' pattern; wisps of smoke rise from several clearings.",
+    "stimulus_words": 31,
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 9
+  }
+]

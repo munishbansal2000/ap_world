@@ -1,0 +1,376 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The map shows trade as a share of GDP, not in absolute dollars. Small economies that live by trade (the Netherlands, Singapore) have very high ratios, while huge diversified economies (the US, Brazil, Japan) have low ratios even though their total trade is enormous.",
+  "id": "wh-vis-u9-001",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Trade_%E2%80%93_exports_plus_imports_%E2%80%93_as_share_of_GDP%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The darkest shading sits on small, trade-dependent economies, while the lightest shading sits on large continental economies — so trade's relative weight is greatest where the domestic market is smallest.",
+   "B": "Wrong. The United States and China trade enormous absolute volumes, but the map shows trade as a share of GDP, on which they score low — the opposite of what this option claims.",
+   "C": "Wrong. The pattern follows economic size and structure, not wealth: wealthy Singapore is dark, but so is middle-income Malaysia, while wealthy Japan is light.",
+   "D": "Wrong. The map explicitly measures trade as a share of GDP (a ratio), not in absolute dollars; confusing the two is the central misreading the map punishes."
+  },
+  "options": [
+   "(A) Trade matters most, relative to the size of the economy, for small open economies rather than for large continental ones.",
+   "(B) The United States and China dominate world trade because their trade-to-GDP ratios are the highest in the world, far above those of small European states.",
+   "(C) Poorer countries are uniformly more dependent on trade than wealthier countries are.",
+   "(D) The map measures each country's trade in absolute dollar terms, so the darkest countries are the biggest traders."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The pattern shown in the map best supports which of the following claims about trade in the globalized economy?",
+  "stimulus": "World map, 2017, shaded by the 'trade openness index' — exports plus imports of goods and services as a share of GDP. The darkest shades fall on small, trade-oriented economies such as the Netherlands, Belgium, Singapore, and Malaysia; the lightest shades fall on large continental economies such as the United States, Brazil, Japan, and Australia.",
+  "stimulus_words": 55,
+  "themes": [
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The long-run trend is unmistakably upward — trade more than doubled as a share of world GDP — with only two brief reversals (the 2009 financial crisis and the 2020 pandemic) before the climb resumed.",
+  "id": "wh-vis-u9-002",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. It mistakes the two brief dips for the trend; after each dip the line recovered and reached new highs, ending above 60%.",
+   "B": "Correct. The steady multi-decade rise documents deepening economic integration, with the 2009 and 2020 dips as short-lived crisis interruptions.",
+   "C": "Wrong. Global GDP grew enormously over this period; the ratio rose because trade grew even faster, not because the denominator shrank.",
+   "D": "Wrong. Widespread protectionism after 2000 would have pushed the line down, but it mostly kept rising — the opposite of what the chart shows."
+  },
+  "options": [
+   "(A) Global trade peaked around 2008 and has been in steady decline ever since, as the chart's falling line after the financial crisis clearly demonstrates.",
+   "(B) The world economy became steadily more integrated through trade from 1970 to 2022, interrupted only briefly by major crises.",
+   "(C) Trade grew as a share of GDP mainly because global GDP was shrinking over this period.",
+   "(D) The chart shows that most governments adopted strongly protectionist policies after 2000."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which of the following conclusions is best supported by the chart?",
+  "stimulus": "Line chart, 1970–2022: world trade (exports plus imports of goods and services) as a share of global GDP. The line climbs from about 25% in 1970 to over 60% by 2022, with sharp but temporary dips around 2009 and 2020.",
+  "stimulus_words": 40,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Containerization's breakthrough was standardization: identical boxes could move seamlessly between ship, rail, and truck with minimal handling, collapsing freight costs and making far-flung supply chains economical.",
+  "id": "wh-vis-u9-003",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Container ships carry freight, not passengers, and no ship has ever outpaced airplanes for passenger travel.",
+   "B": "Wrong. Containerization cut shipping costs; it had nothing to do with raising tariff rates, which are set by governments.",
+   "C": "Correct. The uniform container is the point of the photo — interchangeable boxes that eliminated slow, labor-intensive break-bulk loading and made global supply chains cheap.",
+   "D": "Wrong. Containerization did the opposite: cranes replaced armies of longshoremen, sharply reducing dock labor needs."
+  },
+  "options": [
+   "(A) making cargo ships faster than airplanes for long-distance passenger travel, finally letting ocean liners outpace jets on transatlantic routes.",
+   "(B) allowing governments to collect much higher tariff revenues at every port.",
+   "(C) standardizing cargo into interchangeable boxes, which slashed the cost and time of loading, shipping, and transferring goods.",
+   "(D) requiring larger crews of dockworkers at each port of call."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The technology shown most directly contributed to globalization after 1950 by",
+  "stimulus": "Aerial photograph, 2023: the container ship Maersk Hanoi docked at Port Koper, its hull stacked high and deep with brightly colored standardized shipping containers while tall gantry cranes load and unload the vessel.",
+  "stimulus_words": 33,
+  "themes": [
+   "ECN",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The cranes, container stacks, and auto terminal are purpose-built infrastructure for high-volume trans-Pacific trade in manufactures — the physical footprint of the supply chains that containerization made possible.",
+  "id": "wh-vis-u9-004",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Aerial_view_of_shipping_containers%2C_and_big_container_cranes_at_Tacoma%27s_container_port_-a.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The port is crowded with containers and thousands of cars, the opposite of empty; the photo shows trade thriving, not manufacturing vanishing.",
+   "B": "Wrong. This is a civilian commercial port — container cranes and car lots, not warships or naval installations.",
+   "C": "Wrong. The mountains of containers prove ocean freight dominates heavy goods; air freight is far too costly for cars and containerized cargo.",
+   "D": "Correct. Every element — gantry cranes, container yards, the auto lot — is specialized infrastructure for moving manufactures at global scale."
+  },
+  "options": [
+   "(A) The decline of American manufacturing, which left Pacific ports empty of cargo.",
+   "(B) The use of commercial ports mainly as naval military bases during the Cold War, when warships, submarines, and military supply convoys dominated harbors like Tacoma.",
+   "(C) The replacement of container shipping by air freight for heavy manufactured goods.",
+   "(D) The growth of specialized logistics networks that move huge volumes of manufactured goods — including finished automobiles — across the Pacific."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The infrastructure visible in the photograph best illustrates which development of the late twentieth century?",
+  "stimulus": "Aerial photograph of the Port of Tacoma: green gantry cranes tower over long rows of stacked shipping containers, and a vast lot beside the terminal holds thousands of parked new automobiles.",
+  "stimulus_words": 31,
+  "themes": [
+   "ECN",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The map counts passengers per country of airline registration, so huge wealthy or populous economies (US, China, EU states) dominate while most of Africa is pale — air travel enabled globalization but remained concentrated where incomes and domestic markets were largest.",
+  "id": "wh-vis-u9-005",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Air_passengers_carried%2C_World%2C_2010.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The darkest shading sits on the largest, wealthiest economies while most of Africa and Central Asia are pale — exactly an unevenly shared feature of globalization.",
+   "B": "Wrong. An even spread would show similar shading everywhere; the map shows the opposite, with extreme concentration in a few countries.",
+   "C": "Wrong. Africa is the palest region on the map, not the darkest; having many countries did not produce many passengers.",
+   "D": "Wrong. The subtitle says passengers are counted each time they travel, and billions of people never flew at all in 2010 — the map measures trips, not the share of humanity flying."
+  },
+  "options": [
+   "(A) Air travel was concentrated in the world's largest and wealthiest economies, making it an unevenly shared feature of globalization.",
+   "(B) Air travel had spread evenly across the world by 2010.",
+   "(C) African airlines carried the most passengers because Africa contains the most countries, giving the continent an unbeatable advantage in total flights.",
+   "(D) The map proves that most of the world's population flew internationally in 2010."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The distribution shown best supports which claim about air travel in the early twenty-first century?",
+  "stimulus": "World map, 2010: countries shaded by airline passengers (domestic plus international) carried by airlines registered in each country. The United States is darkest, near the top of the scale; China is next darkest; most of Africa is in the lightest shades.",
+  "stimulus_words": 41,
+  "themes": [
+   "TEC",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Total users exploded from near zero to about 3.4 billion, and by 2015 the biggest regional segment was East Asia & Pacific — the internet had become a mass global medium centered in Asia, not a North American one.",
+  "id": "wh-vis-u9-006",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Internet_users_by_world_region%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. North America's segment is one of the smaller ones by 2015; East Asia & Pacific and Europe are both larger.",
+   "B": "Correct. The chart shows explosive worldwide growth with East Asia & Pacific as the largest user base by 2015 — diffusion far beyond the internet's wealthy-country origins.",
+   "C": "Wrong. Europe & Central Asia's segment grows steadily throughout; nothing in the chart shows a European decline.",
+   "D": "Wrong. About 3.4 billion users out of roughly 7.3 billion people is under half the world — massive growth, but not universal access."
+  },
+  "options": [
+   "(A) North America has always accounted for most of the world's internet users, since the internet was invented there and Americans adopted it first and fastest.",
+   "(B) The internet diffused far beyond its early wealthy-country base, with the greatest absolute number of users in East Asia & Pacific by 2015.",
+   "(C) Internet use declined in Europe after 2010.",
+   "(D) The chart shows that internet access had become universal in developing regions by 2015."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which conclusion about the spread of the internet is best supported by the chart?",
+  "stimulus": "Stacked area chart, 1996–2015: worldwide internet users rise from near zero to about 3.4 billion. By 2015 the largest segment is East Asia & Pacific, followed by Europe & Central Asia; North America's segment is much smaller.",
+  "stimulus_words": 37,
+  "themes": [
+   "TEC",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The steepest climbs are in the developing world — Sub-Saharan Africa went from 2 to 89 and South Asia from under 1 to 84 per 100 people — because mobile networks were built where landlines never existed, letting whole populations skip the landline era.",
+  "id": "wh-vis-u9-007",
+  "image_license": "CC BY 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mobile_phone_subscriptions_per_100_people_by_world_region%2C_OWID_chart.png",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. North America started higher but grew the least in proportional terms; the dramatic gains are in Africa, South Asia, and the Middle East.",
+   "B": "Wrong. Ninety percent of people in the United States own a cell phone, so a reading limited to wealthy countries misses the story.",
+   "C": "Correct. The developing regions show the fastest proportional growth — the classic leapfrog pattern, as mobiles arrived where landlines never had.",
+   "D": "Wrong. The chart's own note explains that numbers above 100 mean some people own more than one device, not that everyone owns one."
+  },
+  "options": [
+   "(A) Mobile phone adoption was led by North America and Europe throughout the period.",
+   "(B) Only wealthy countries experienced significant mobile phone growth between 2000 and 2023, while the developing world was largely left without any phones at all.",
+   "(C) Mobile phones spread fastest in developing regions, where many people adopted them without ever having landline phones.",
+   "(D) A figure above 100 means that every person in the region owns at least one mobile phone."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The data best support which of the following statements about mobile phones and globalization?",
+  "stimulus": "Seven small charts show mobile phone subscriptions per 100 people, 2000 to 2023, by world region. Sub-Saharan Africa rose from 2 to 89; South Asia from under 1 to 84; the Middle East & North Africa from 4 to 119. Every region rose sharply, and several ended above 100 — meaning many people own more than one device.",
+  "stimulus_words": 58,
+  "themes": [
+   "TEC",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Daily digital media time more than doubled in a decade, and the growth came overwhelmingly from the mobile segment after 2011 — the smartphone era reorganized how Americans spend their hours.",
+  "id": "wh-vis-u9-008",
+  "image_license": "CC BY 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Daily_hours_spent_with_digital_media%2C_OWID.svg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Total time more than doubled, from under 3 hours to over 6 — consumption grew dramatically, it did not shrink.",
+   "B": "Wrong. Screen-based digital media is exactly what the chart measures, and it grew; nothing here shows a turn away from screens.",
+   "C": "Wrong. The desktop segment stays roughly flat while the mobile segment explodes — by 2018 mobile dominates, not the desktop.",
+   "D": "Correct. The doubling of total hours, driven by the yellow mobile segment after 2011, shows daily life migrating onto networked digital media via smartphones."
+  },
+  "options": [
+   "(A) The decline of screen-based entertainment in the United States, as Americans abandoned televisions, computers, and phones for outdoor activities and hobbies.",
+   "(B) A decrease in total media consumption as Americans spent more time offline.",
+   "(C) Americans spending most of their digital time on desktop computers by 2018.",
+   "(D) The shift of daily life and culture onto networked digital media, increasingly accessed through smartphones."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The trend shown best illustrates which broader change of the early twenty-first century?",
+  "stimulus": "Stacked bar chart, United States, 2008–2018: average daily hours adults spent with digital media (web pages, video, social media apps). The total rises from under 3 hours to over 6; the mobile segment (top, yellow) grows the most, especially after 2011.",
+  "stimulus_words": 41,
+  "themes": [
+   "TEC",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The map shows the EU at its post-Cold War maximum extent — 27 members including the former Eastern bloc — but pointedly excludes the UK (which left in 2020), Norway, and Switzerland: integration deepened dramatically yet remained voluntary and reversible.",
+  "id": "wh-vis-u9-009",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Member_States_of_the_European_Union_2020_%28polar_stereographic_projection%29_EN.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Twenty-seven shaded members, including Poland, Czechia, Hungary, and Romania, show integration's post-1991 deepening — while the unshaded UK shows a member can also leave.",
+   "B": "Wrong. Norway, Switzerland, the UK, and the Balkans are unshaded, so the map directly contradicts any claim that every European country joined.",
+   "C": "Wrong. The map covers Europe only; no Asian or African territory is shaded as a member.",
+   "D": "Wrong. The EU is a voluntary union of sovereign states, not a colonial empire; nothing in the map suggests nineteenth-century-style colonies."
+  },
+  "options": [
+   "(A) The deepening of regional integration in Europe after the Cold War — and its limits, since states like the United Kingdom have left or stayed out.",
+   "(B) The unification of every country on the European continent under a single European government, with Brussels directly ruling all of Europe from one central capital.",
+   "(C) The expansion of the European Union into Asia and Africa.",
+   "(D) The return of Europe to the colonial empires of the nineteenth century."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The map best illustrates which of the following developments?",
+  "stimulus": "Map of Europe, 2020: 27 countries are shaded green as member states of the European Union, including former Eastern-bloc states such as Poland, Czechia, Hungary, and Romania; the United Kingdom, Norway, and Switzerland are unshaded.",
+  "stimulus_words": 35,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Android went from near zero to over 300 million units per quarter while iOS held a distant second; Symbian, BlackBerry, and Windows were all driven out — the market consolidated onto two platforms, one dominant.",
+  "id": "wh-vis-u9-010",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The purple iOS line stays far below the blue Android line throughout; Apple never outsold the rest combined.",
+   "B": "Correct. The chart shows Android's rise to dominance, iOS as the only other survivor, and the collapse of Symbian, BlackBerry, and Windows.",
+   "C": "Wrong. Symbian led only in 2007–2010 and then collapsed to near zero; by 2018 it had vanished from the chart.",
+   "D": "Wrong. Total sales exploded after 2010 — Android alone went from near zero to over 300 million units per quarter."
+  },
+  "options": [
+   "(A) Apple sold more smartphones than all other makers combined.",
+   "(B) The smartphone market consolidated around two platforms, with Android dominant, while earlier leaders were driven out.",
+   "(C) Symbian remained the world's most popular smartphone system through 2018, outselling Android and iOS combined in every quarter shown on the chart.",
+   "(D) Worldwide smartphone sales declined steadily after 2012."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The chart best supports which claim about communications technology in the 2010s?",
+  "stimulus": "Line chart of worldwide smartphone sales by operating system, quarterly 2007–2018 (thousands of units). Android (blue) surges from near zero around 2010 to over 300 million units per quarter by 2016; iOS (purple) holds a distant second; Symbian, the early leader, collapses; BlackBerry and Windows fade to near zero.",
+  "stimulus_words": 49,
+  "themes": [
+   "TEC",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The euro — one currency across many sovereign states — is the most visible symbol of how far European integration went: members surrendered their national currencies to cut the costs of cross-border trade and travel.",
+  "id": "wh-vis-u9-011",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Euro_coins_and_banknotes.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The euro is used in about 20 European countries, not on every continent; it is a regional currency, not a world one.",
+   "B": "Wrong. Many EU members (such as Sweden, Poland, and Denmark) kept their national currencies; the eurozone is a subset of the EU.",
+   "C": "Correct. Sharing one currency is a deeper commitment than a trade deal — it required states to give up monetary sovereignty to integrate their economies.",
+   "D": "Wrong. The photo shows physical cash in wide circulation; whatever the growth of digital payments, paper euros had not been replaced."
+  },
+  "options": [
+   "(A) The creation of a single world currency used on every continent, replacing the dollar, yen, and pound in all international transactions worldwide.",
+   "(B) The adoption of the euro by every member state of the European Union.",
+   "(C) The deepening of regional economic integration, as member states gave up national currencies to lower the costs of trade and travel.",
+   "(D) The replacement of paper money by digital payments throughout Europe."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The adoption of the currency shown best exemplifies which aspect of late-twentieth-century globalization?",
+  "stimulus": "Photograph of euro banknotes (5, 10, 20, 50, 100, and 200) and coins — the shared currency used across much of the European Union, marked with the circle of EU stars.",
+  "stimulus_words": 31,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ }
+]
