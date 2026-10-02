@@ -1,0 +1,313 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The map shows both red overland routes across Central Asia and blue sea routes across the Indian Ocean operating at the same time, linking regions as far apart as Europe, East Africa, and China. This pattern of overlapping land and sea connections is what made Afro-Eurasian exchange a set of interregional networks rather than a single road.",
+    "id": "wh-vis-u2-001",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Silk_route.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. The map shows routes centered on Asia, Africa, and the Middle East; nothing on the map indicates European control of these networks.",
+      "B": "Correct. The map displays overland routes (red) and maritime routes (blue) functioning together across Afro-Eurasia, which is the defining feature of the period's interregional trade networks.",
+      "C": "Incorrect. The sea routes pass through many intermediate stops — East Africa, Arabia, India, Southeast Asia — rather than running directly from China to Europe.",
+      "D": "Incorrect. The blue sea routes across the Indian Ocean are just as prominent as the red land routes, so trade did not depend entirely on overland caravans."
+    },
+    "options": [
+      "(A) European merchants controlled both the overland and the maritime trade networks.",
+      "(B) Overland and maritime routes formed overlapping networks connecting distant Afro-Eurasian regions.",
+      "(C) Sea routes linked China directly to Europe, bypassing every intermediate port and merchant along the way.",
+      "(D) Long-distance trade depended entirely on overland caravan routes through Central Asia."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The pattern of routes shown on the map best supports which claim about exchange in Afro-Eurasia during this period?",
+    "stimulus": "This map shows Afro-Eurasia in the period c. 1200–c. 1450. Red lines trace overland routes across Central Asia linking China to the Middle East and Europe; blue lines trace sea routes across the Indian Ocean linking East Africa, Arabia, India, Southeast Asia, and China.",
+    "stimulus_words": 44,
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The map's labels and arrows show salt (sel) originating at Saharan sources like Taghaza and moving south to West African cities, while gold (or) originates in the southern regions and moves north toward Sijilmasa and North Africa. This two-way flow of salt for gold was the economic core of trans-Saharan trade.",
+    "id": "wh-vis-u2-002",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Commerce_transsaharien.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The arrows on the map show salt flowing south from desert sources and gold flowing north from the savanna, matching the classic salt-for-gold exchange.",
+      "B": "Incorrect. The map labels bulk goods such as salt and dates alongside luxuries, and shows them reaching West African cities, not only North African elites.",
+      "C": "Incorrect. The map places the gold (or) labels in the southern regions with arrows pointing north, not the reverse.",
+      "D": "Incorrect. The map explicitly labels gold, ivory, and kola nuts originating in the south and moving north — West Africa exported valuable goods."
+    },
+    "options": [
+      "(A) Saharan salt moved south into West Africa while gold moved north to the Mediterranean.",
+      "(B) The trade involved only luxury goods consumed by North African elites.",
+      "(C) Gold was mined in North Africa and carried south by Berber caravans to trade for West African salt.",
+      "(D) West African cities imported goods but exported nothing of value in return."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Based on the labels and arrows on the map, which exchange best characterizes trans-Saharan trade in this period?",
+    "stimulus": "This hand-drawn map of trans-Saharan trade labels goods in French. “Sel” (salt) is marked at desert sources such as Taghaza, with arrows pointing south toward cities like Timbuktu (Tombouctou), Gao, Djenné, and Niani; “or” (gold) is marked in the southern savanna regions, with arrows pointing north toward Sijilmasa and North Africa. Other labeled goods include dates (dattes), kola nuts, ivory (ivoire), copper (cuivre), and enslaved people (esclaves).",
+    "stimulus_words": 67,
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The dashed routes do not run straight across the desert; they hop from town to town — Sijilmasa to Taghaza to Timbuktu to Koumbi Saleh — connecting the shaded southern gold zones (Bambuk, Bouré, Lobi) with northern cities (Fez, Tunis, Kairouan). These intermediate oasis and market towns were where caravans rested, resupplied, and exchanged goods.",
+    "id": "wh-vis-u2-003",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Trans-Saharan_routes_early.svg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The routes on the map are segmented through many intermediate towns such as Taghaza, Timbuktu, and Gao, not drawn as single direct crossings.",
+      "B": "Incorrect. The shaded gold-producing zones (Bambuk, Bouré, Lobi) are all in the south, below the Sahara, not in North Africa.",
+      "C": "Correct. The map shows routes passing through a sequence of named towns between the southern gold zones and the northern cities, which is how the trade was actually organized.",
+      "D": "Incorrect. The map names southern towns and cities — Timbuktu, Gao, Koumbi Saleh, Djenné — that anchored the trade."
+    },
+    "options": [
+      "(A) Traders crossed the Sahara in single uninterrupted journeys from the goldfields to the Mediterranean.",
+      "(B) Gold was mined in North Africa and carried south to West African kingdoms.",
+      "(C) The routes linked West African goldfields to North African cities through oasis and market towns.",
+      "(D) West Africa had no towns or cities participating in long-distance trade."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which conclusion about the organization of trans-Saharan trade is best supported by this map?",
+    "stimulus": "This map shows early trans-Saharan trade routes as dashed lines. In the south, the gold-producing zones of Bambuk, Bouré, and Lobi are shaded; in the north are cities such as Sijilmasa, Fez, Marrakech, Tunis, and Kairouan. The routes pass through desert towns including Taghaza, Timbuktu, Gao, and Koumbi Saleh.",
+    "stimulus_words": 49,
+    "themes": [
+      "ECN",
+      "ENV",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The map draws Mali's routes in three directions: north across the Sahara to Morocco and Europe, northeast to Egypt, and east toward the Red Sea and Ethiopia. This multi-directional pattern shows Mali was plugged into several interregional networks at once, which is also how Islam and Islamic scholarship reached cities like Timbuktu.",
+    "id": "wh-vis-u2-004",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Niger_saharan_medieval_trade_routes.PNG",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The routes radiate from Mali toward North Africa, Egypt, and the Red Sea region, showing integration into multiple interregional networks.",
+      "B": "Incorrect. The routes linking Mali to North Africa and Egypt were the very channels along which Islam spread into West Africa.",
+      "C": "Incorrect. The map explicitly shows routes leaving West Africa for Morocco, Egypt, and the Red Sea, far beyond neighboring states.",
+      "D": "Incorrect. The map shows trade routes connecting Mali to Egypt, not Mali's political control over it."
+    },
+    "options": [
+      "(A) Mali was integrated into interregional networks linking the Mediterranean and the Red Sea.",
+      "(B) The routes show that Islam never spread beyond the cities of North Africa.",
+      "(C) Mali's trade was confined to local exchanges with neighboring West African states and kingdoms.",
+      "(D) Mali conquered Egypt and established direct political rule over North Africa."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The map best illustrates which development in West Africa during the period c. 1200–c. 1450?",
+    "stimulus": "This map shows the Empire of Mali in the 1200s–1400s with trade routes radiating outward: north across the Sahara to Morocco and toward Europe, northeast to Egypt, and east toward the Red Sea and Ethiopia. Neighboring states shown include Ghana and Kanem-Bornu.",
+    "stimulus_words": 42,
+    "themes": [
+      "ECN",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The note's declared value (two guan), uniform printed text, and the printed claim that it circulates in all provinces show a state-backed currency. The death penalty for counterfeiting proves the state monopolized its issue. Paper money was lighter and easier to move in large amounts than strings of metal coins, which lowered the cost and risk of doing business across the Yuan Empire's vast markets.",
+    "id": "wh-vis-u2-005",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The note pictures its own value as two strings of metal coins, showing coinage remained the standard of value; nothing on the note suggests coins were abolished.",
+      "B": "Incorrect. The printed death penalty for counterfeiting shows the state monopolized note issue; private merchants could not print competing currencies.",
+      "C": "Correct. The standardized printing, declared value, official text, and claim of empire-wide circulation identify this as a government-issued currency designed to ease commercial transactions.",
+      "D": "Incorrect. The note's own text says it may circulate in all provinces, not just for tax payments."
+    },
+    "options": [
+      "(A) The Yuan dynasty abolished metal coinage throughout China.",
+      "(B) Chinese merchants privately printed their own competing paper currencies.",
+      "(C) The Yuan state issued standardized paper currency, facilitating large-scale commerce.",
+      "(D) Paper money was used only to pay government taxes and never circulated in ordinary market trade."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The features of this banknote best support which claim about China's economy under the Mongols?",
+    "stimulus": "This photograph, taken at the Tokyo Currency Museum, shows a Yuan dynasty banknote printed in 1287. The note's printed Chinese characters declare it a \"Zhiyuan circulating treasure note\" worth two guan — two strings of cash coins, pictured as two coin-strings. Smaller printed text states that the note may circulate in all provinces without expiry and that counterfeiters will be put to death.",
+    "stimulus_words": 63,
+    "themes": [
+      "ECN",
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "A carved block exists for one purpose: to be inked and pressed repeatedly, producing identical copies. The reversed characters and the coin-string image are mirror images, exactly as a printing block requires. This shows the Yuan state could manufacture uniform currency in large quantities using China's printing technology.",
+    "id": "wh-vis-u2-006",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. China had used woodblock printing since the Tang dynasty, long before any European contact with the technique.",
+      "B": "Incorrect. Handwritten notes would not require a carved block; the block's existence points to mechanical reproduction.",
+      "C": "Correct. The mirror-image carving is characteristic of a printing block, which produces many identical notes — evidence of mass production by the state.",
+      "D": "Incorrect. Woodblock printing was developed in China centuries before this period; the block is a Chinese product for Chinese currency."
+    },
+    "options": [
+      "(A) Printing technology was unknown in China before European contact.",
+      "(B) Each banknote was individually handwritten by government scribes.",
+      "(C) It was mass-produced with printing technology so the state could issue uniform notes.",
+      "(D) The printing blocks were carved in Europe and then imported to China for this purpose."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the existence of this object indicate about Yuan paper currency?",
+    "stimulus": "This photograph, taken at the Tokyo Currency Museum, shows a Yuan dynasty banknote of 1287 (right) beside the carved wooden printing block used to produce it (left). The block's characters and coin-string image are carved in reverse, as mirror images of the printed note.",
+    "stimulus_words": 44,
+    "themes": [
+      "TEC",
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "A lone friar traveling from Constantinople to the Mongol imperial capital at Karakorum and returning home alive was only possible because Mongol rule had secured the overland corridor across Asia: the Mongols protected travelers, maintained relay stations, and received foreign envoys. This is the Pax Mongolica in action.",
+    "id": "wh-vis-u2-007",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Route_rubrouck_1253_55.JPG",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. Rubruck was a friar, not a soldier, and his route crosses lands held by the Mongols, not conquered by Europeans.",
+      "B": "Incorrect. The route on the map is entirely overland, crossing Central Asia — it never approaches the sea route around Africa.",
+      "C": "Incorrect. The line traces a west-to-east-and-back journey by a European friar; the Mongol invasions of Europe (1240s) moved in the opposite direction.",
+      "D": "Correct. A European friar completing a round trip to the Mongol capital within two years shows the routes were secure under Mongol rule."
+    },
+    "options": [
+      "(A) European armies conquered Central Asia in the thirteenth century.",
+      "(B) Europeans could reach Asia only by sailing around Africa.",
+      "(C) The line traces the route of the Mongol invasions of Europe.",
+      "(D) Mongol rule made Asian travel safe for European journeys."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This journey best illustrates which consequence of Mongol rule in the thirteenth century?",
+    "stimulus": "This map traces the 1253–1255 journey of William of Rubruck, a Franciscan friar sent by King Louis IX of France. The route runs from Constantinople across the Black Sea region, through Central Asia, to Karakorum — the imperial capital of the Mongol Empire — and back again.",
+    "stimulus_words": 47,
+    "themes": [
+      "GOV",
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The map uses four different colors for four distinct realms, so the empire was no longer politically united — yet the four khanates sit side by side spanning the entire width of Eurasia from Eastern Europe to the Pacific. Merchants, envoys, and ideas continued to move across these Mongol-ruled lands even as the khans quarreled, which is why the period still functioned as an integrated exchange zone.",
+    "id": "wh-vis-u2-008",
+    "image_license": "CC BY 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/MongolEmpireDivisions1300.png",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The four separate colors for the Golden Horde, Ilkhanate, Chagatai, and Yuan realms show the empire had divided.",
+      "B": "Incorrect. The khanates share borders across the whole of Eurasia, and trade, diplomacy, and the movement of artisans continued between them.",
+      "C": "Incorrect. The map clearly shows the Yuan dynasty controlling China (green) and the Ilkhanate controlling Persia (purple) around 1300.",
+      "D": "Correct. The four colors show political division, while the unbroken spread of Mongol-ruled territory across Eurasia shows the lands remained a connected zone for movement and exchange."
+    },
+    "options": [
+      "(A) The Mongol Empire remained a single unified state under the authority of one khan.",
+      "(B) The four khanates became fully isolated, with no trade, diplomacy, or exchange between them at all.",
+      "(C) By 1300 the Mongols had been driven out of China and Persia.",
+      "(D) Divided into four khanates, Mongol-ruled lands still formed a continuous zone across Eurasia."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which claim about the Mongol world around 1300 is best supported by this map?",
+    "stimulus": "This map shows the Mongol world around 1300, divided into four color-coded realms: the Golden Horde in the northwest (yellow), the Ilkhanate in Persia and the Middle East (purple), the Chagatai Khanate in Central Asia (gray), and the Yuan dynasty in China (green).",
+    "stimulus_words": 43,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The miniature was painted at the Persian Ilkhanid court itself, and it shows Mongol troops operating a traction trebuchet — a sophisticated siege engine developed by Chinese and Muslim engineers, not by steppe nomads. The Mongols' willingness to adopt this technology from conquered peoples explains how a nomadic army learned to reduce the great walled cities of China, Persia, and Russia.",
+    "id": "wh-vis-u2-009",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mongol_siege_Jami_al-Tawarikh_Edinburgh_extract.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. The image directly contradicts this: it depicts Mongols actively besieging a walled city with heavy artillery.",
+      "B": "Correct. The trebuchet was a product of sedentary engineering traditions; the image documents the Mongols employing it, which is evidence of their adoption of conquered peoples' military technology.",
+      "C": "Incorrect. The soldiers' dress and the manuscript's origin at the Mongol Ilkhanid court identify the besiegers as Mongols, not Europeans.",
+      "D": "Incorrect. Counterweight and traction artillery developed in China and the Mediterranean world, not among steppe pastoralists."
+    },
+    "options": [
+      "(A) Mongol armies avoided attacking fortified cities, preferring only open battles on the steppe.",
+      "(B) The Mongols adopted siege technology from conquered sedentary peoples and used it to take walled cities.",
+      "(C) The image shows a European crusader army attacking a Mongol fortress in Eastern Europe.",
+      "(D) The Mongols invented the trebuchet independently on the steppe without learning it from sedentary peoples."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This image best supports which claim about Mongol warfare in the thirteenth century?",
+    "stimulus": "This miniature from Rashid al-Din's Jami al-Tawarikh (a Persian history written at the Mongol Ilkhanid court) shows Mongol soldiers operating a large traction trebuchet, hurling stones at a walled city's defenders.",
+    "stimulus_words": 31,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  }
+]

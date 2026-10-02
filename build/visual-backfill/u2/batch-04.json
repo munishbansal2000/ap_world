@@ -1,0 +1,275 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The brass instrument is covered in Arabic inscriptions and calendrical scales — it is an astrolabe, made in the Mamluk Sultanate in 1282. Astrolabes modeled the heavens and let navigators determine latitude and time; they were products of the Islamic world's advanced astronomy. European sailors later adopted the astrolabe, making this a clear case of technology diffusing from the Islamic world to Europe and aiding the era's expanding maritime trade.",
+    "id": "wh-vis-u2-028",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mamluk_era_astrolabe%2C_1282.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The 1282 date and Arabic inscriptions show Muslims making sophisticated astrolabes before Europeans adopted the technology.",
+      "B": "Incorrect. An astrolabe is an astronomical and navigational instrument, not a printing device.",
+      "C": "Incorrect. The astrolabe developed in the Hellenistic and Islamic worlds; the inscriptions here are Arabic, not Chinese.",
+      "D": "Correct. The Arabic-inscribed 1282 astrolabe is a product of Islamic astronomy whose navigational uses later spread to European sailors."
+    },
+    "options": [
+      "(A) European scholars taught Muslim craftsmen how to design and build complex astrolabes like this one.",
+      "(B) The instrument was used to print books and to manufacture large quantities of paper money.",
+      "(C) The astrolabe was invented in China and carried west across Eurasia by the Mongol armies.",
+      "(D) Islamic astronomical and navigational technology, later adopted by Europeans, aided sea trade."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This instrument, made in the Mamluk Sultanate in 1282, best illustrates which development?",
+    "stimulus": "This photograph shows a brass astrolabe — a circular astronomical instrument with a rotating star map (rete) and sighting rule — covered in Arabic inscriptions. It was made in the Mamluk Sultanate in 1282.",
+    "stimulus_words": 34,
+    "themes": [
+      "TEC",
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The object is a small bronze cannon of Chinese design — yet it was found in Java, Indonesia, thousands of kilometers from China. Gunpowder weapons originated in China, and their appearance in Southeast Asia reflects the transmission of Chinese military technology through Mongol-era contacts, including the Mongol invasion of Java in 1293. Technology traveled the same networks as goods.",
+    "id": "wh-vis-u2-029",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/A_bowl-mouthed_cannon_found_in_Java%2C_from_Julian_Permata_colllection.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. Europeans did not reach Java with firearms until the 1500s, centuries after this type of weapon appeared there.",
+      "B": "Correct. A Chinese-style gunpowder weapon found in Java is physical evidence that gunpowder technology diffused from China to Southeast Asia in this period.",
+      "C": "Incorrect. The cannon's form follows Chinese gunpowder-weapon design; gunpowder originated in China, not Java.",
+      "D": "Incorrect. It is a functional bronze firearm, not a ritual or ceremonial object."
+    },
+    "options": [
+      "(A) European traders introduced firearms to Java in the 1200s.",
+      "(B) Chinese gunpowder weapons diffused to Java in the Mongol era.",
+      "(C) Gunpowder weapons were invented independently on the island of Java.",
+      "(D) The cannon was a ceremonial object with no military function."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This small bronze cannon, found in Java, best supports which claim?",
+    "stimulus": "This photograph shows a small bronze bowl-mouthed cannon with a loop handle — a Chinese-style gunpowder weapon — that was found on the island of Java, Indonesia.",
+    "stimulus_words": 27,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The bronze barrel carries an inscription in Chinese characters, identifying it as a Yuan dynasty firearm. Gunpowder was a Chinese invention, and by the Yuan period the Chinese were casting bronze guns. The Mongols adopted gunpowder weapons from the Chinese and carried the technology westward across Eurasia, where it eventually transformed warfare far beyond China.",
+    "id": "wh-vis-u2-030",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Yuan_Bronze_Cannon.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. Firearms of this type were in use in China and Eurasia centuries before Europeans reached the Americas.",
+      "B": "Incorrect. The object is a bronze gun barrel displayed in a museum — a weapon, not a musical instrument.",
+      "C": "Correct. The Chinese-inscribed Yuan bronze gun is evidence that gunpowder artillery was developed in China and then spread westward, including through Mongol armies.",
+      "D": "Incorrect. Gunpowder was invented in China; Europeans encountered it later, after it had spread across Eurasia."
+    },
+    "options": [
+      "(A) Cannons were first used in warfare in the Americas.",
+      "(B) The object is a bronze musical instrument used in Yuan court ceremonies and rituals.",
+      "(C) Gunpowder weapons were developed in China and later spread westward.",
+      "(D) Gunpowder was a European invention that the Chinese copied."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This Yuan dynasty bronze cannon best illustrates which technological development?",
+    "stimulus": "This museum photograph shows a Yuan dynasty bronze hand-cannon: a cast bronze gun barrel bearing an inscription in Chinese characters, mounted on a display stand.",
+    "stimulus_words": 25,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The scroll was commissioned by the Japanese samurai Takezaki Suenaga around 1293 to record his role in repelling the Mongol invasions of 1274 and 1281 — it is a Japanese source depicting the invaders. The painting shows Mongol warriors advancing with pavise shields and bows while an explosive bomb bursts near the samurai. The image thus documents two things at once: the Mongols deployed gunpowder weapons as far as Japan, and Japan nevertheless remained unconquered — the limit of Mongol expansion.",
+    "id": "wh-vis-u2-031",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The Japanese scroll shows Mongol invaders using explosive bombs, yet Japan was never conquered — evidence of both Mongol military reach and its limits.",
+      "B": "Incorrect. The scroll was commissioned by a Japanese samurai and painted by Japanese artists; it is a Japanese, not a Mongol, source.",
+      "C": "Incorrect. The bombs are Mongol weapons bursting among the Japanese defenders; no Europeans were involved in these battles.",
+      "D": "Incorrect. The invasions failed: storms (the 'kamikaze') and Japanese resistance defeated both the 1274 and 1281 expeditions."
+    },
+    "options": [
+      "(A) The Mongols used gunpowder bombs against Japan, but the invasions failed — showing the limits of Mongol expansion.",
+      "(B) The scroll is a Mongol court painting celebrating the successful conquest of Japan in 1281.",
+      "(C) The exploding bombs prove that European allies supplied Japan with advanced gunpowder weapons and military advisors.",
+      "(D) Japan was conquered by the Mongols in 1281 and became a tributary Yuan province."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This scene from the Mōko Shūrai Ekotoba (c. 1293) best supports which claim?",
+    "stimulus": "This Japanese handscroll painting depicts a battle of the Mongol invasions of Japan: Mongol warriors advance with large shields and bows while an explosive bomb bursts in the air near a mounted samurai.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "No contemporary portrait of Genghis Khan survives; this image comes from an album of Yuan emperors painted at the Mongol court in China, in the formal style of Chinese imperial portraiture — frontal pose, silk medium, restrained brushwork. That the Mongol dynasty chose to memorialize its founder in Chinese court style shows a deliberate strategy: presenting the khan as a legitimate Chinese-style emperor to rule China.",
+    "id": "wh-vis-u2-032",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The Chinese imperial portrait style, used for a Mongol khan in a Yuan dynastic album, shows the Mongols adopting Chinese forms of political legitimation.",
+      "B": "Incorrect. It is a formal court portrait in an imperial album, a political image — not a religious icon.",
+      "C": "Incorrect. The portrait is posthumous, painted at the Yuan court long after his death in the Chinese imperial style — not a lifetime European work.",
+      "D": "Incorrect. The very use of Chinese court painting conventions for the dynastic founder shows engagement with Chinese culture, not rejection of it."
+    },
+    "options": [
+      "(A) Mongol rulers adopted Chinese imperial artistic conventions to legitimize their dynasty.",
+      "(B) The image is a Buddhist religious icon of Genghis Khan as a deity.",
+      "(C) The portrait was painted from life by a European artist at Genghis Khan's court in Mongolia.",
+      "(D) The portrait shows that the Mongols rejected all Chinese cultural forms."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This posthumous portrait of Genghis Khan, from a Yuan imperial album, best illustrates which Mongol practice?",
+    "stimulus": "This formal portrait of Genghis Khan comes from an album of Yuan emperors. He wears a Mongol robe (deel) and fur-trimmed hood, but the painting uses the formal frontal style of Chinese imperial court portraiture.",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The painting was made around 1280 by the Chinese court artist Liu Guandao, and it shows Kublai Khan's entourage on a hunt: riders shooting bows from horseback, falcons, and hunting dogs. The hunt was the central ritual of steppe life and Mongol military training. That the Yuan emperor is depicted practicing it — in a Chinese painting — shows the dynasty preserved its nomadic heritage while ruling China, and that Chinese and Mongol cultures were in close contact at court.",
+    "id": "wh-vis-u2-033",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Liu-Kuan-Tao-Jagd.JPG",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The mounted hunt with bows, falcons, and dogs is the classic steppe tradition, shown here practiced by the Yuan court — continuity of Mongol culture within China.",
+      "B": "Incorrect. The hunt scene demonstrates the opposite: the Yuan court actively maintained steppe customs.",
+      "C": "Incorrect. The painting is by the Chinese artist Liu Guandao, working at the Mongol court around 1280 — a Chinese work, not a European one.",
+      "D": "Incorrect. The painting depicts the emperor's own hunting party; hunting was a prized imperial activity, not a banned one."
+    },
+    "options": [
+      "(A) The Yuan court kept Mongol steppe traditions in China.",
+      "(B) The Mongols abandoned all steppe customs after conquering China.",
+      "(C) The painting is a European work showing a medieval hunting party.",
+      "(D) Hunting was banned under Yuan law as a wasteful nomadic practice."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This Chinese court painting of Kublai Khan's hunting party (c. 1280) best illustrates which development?",
+    "stimulus": "This Chinese painting by the court artist Liu Guandao (c. 1280) shows Kublai Khan's hunting party: mounted archers shooting from horseback, attendants with falcons, and hunting dogs.",
+    "stimulus_words": 27,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Marco Polo died in 1324, but this engraved portrait was made in the 1500s — roughly three centuries later — by an artist who never saw him. It therefore cannot tell historians what Polo actually looked like; instead it reveals how Renaissance-era Europeans imagined the famous traveler. Recognizing an image's date and context is essential to judging what it can and cannot prove.",
+    "id": "wh-vis-u2-034",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Marco_Polo_portrait.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. A portrait made ~300 years after its subject's death is evidence about later European imagination, not about Polo's actual appearance.",
+      "B": "Incorrect. Because the artist worked centuries after Polo's death without ever seeing him, the portrait cannot be a reliable record of his features.",
+      "C": "Incorrect. The engraving style is European and dates to the 1500s; it was not produced in Yuan China.",
+      "D": "Incorrect. The portrait's existence reflects Polo's fame from his travels; it says nothing against the reality of his journey, which is documented in his account and other sources."
+    },
+    "options": [
+      "(A) Created centuries after Polo's death, it reflects later European imagination, not his appearance.",
+      "(B) It provides reliable, firsthand evidence of exactly what Marco Polo looked like during his lifetime.",
+      "(C) It was painted in China during Polo's years of service at the Mongol Yuan court.",
+      "(D) It proves that Marco Polo never actually traveled to Asia and invented his stories."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This engraved portrait of Marco Polo, made in the sixteenth century, is most useful to historians as evidence of which of the following?",
+    "stimulus": "This engraved portrait depicts Marco Polo as an elderly bearded man in sixteenth-century European dress. It was produced in Europe in the 1500s, about three hundred years after Polo's travels in Asia (1271–1295).",
+    "stimulus_words": 33,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The vase's pale green glaze and inlaid chrysanthemum design are hallmarks of Goryeo celadon, the luxury ceramic of medieval Korea, prized across East Asia. Goryeo Korea was deeply tied into the Yuan-era regional economy — as a Mongol ally and trading partner — and its refined crafts circulated among elites in China and Japan. The vase is evidence that Korea participated in, rather than stood apart from, the period's East Asian exchange networks.",
+    "id": "wh-vis-u2-035",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Vase_with_chrysanthemum_design_in_inlay%2C_Korea%2C_Goryeo_dynasty%2C_1300s_AD%2C_ceramic%2C_celadon_glaze_-_Tokyo_National_Museum_-_Tokyo%2C_Japan_-_DSC08179.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. Goryeo Korea traded actively with Yuan China and Japan; celadon itself was a prized export ware.",
+      "B": "Correct. The refined Goryeo celadon vase shows Korea producing luxury goods for elite consumption within the era's East Asian exchange networks.",
+      "C": "Incorrect. Celadon was perfected in Korea (building on Chinese techniques); it was not a Japanese invention.",
+      "D": "Incorrect. The inlaid chrysanthemum design and celadon glaze are characteristic Goryeo Korean work, now held in the Tokyo National Museum."
+    },
+    "options": [
+      "(A) Korea was completely isolated from all regional trade in this period.",
+      "(B) Korea produced luxury goods and took part in East Asian trade.",
+      "(C) Celadon pottery was invented in Japan and imported into Korea.",
+      "(D) The vase was manufactured in China and only later brought to Korea."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This Goryeo dynasty celadon vase (1300s) best illustrates which development in East Asia?",
+    "stimulus": "This photograph shows a Korean celadon vase from the Goryeo dynasty (1300s): a pale green-glazed vessel with an inlaid chrysanthemum design, now in the Tokyo National Museum.",
+    "stimulus_words": 27,
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 2
+  }
+]

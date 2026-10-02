@@ -1,0 +1,310 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The tower's carved bands are Arabic calligraphy — Quranic verses and proclamations — wrapped around a victory monument in Delhi. The Qutb Minar was begun around 1199 by Qutb al-Din Aibak, the Turkic general who founded the Delhi Sultanate. Raising an Islamic victory tower inscribed in Arabic was how the new Muslim rulers announced their authority over northern India.",
+    "id": "wh-vis-u2-019",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Qutb_Minar_17.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The tower was commissioned by Muslim rulers; its Islamic calligraphy and mosque complex mark Muslim, not Hindu, rule.",
+      "B": "Incorrect. The inscriptions are in Arabic, not Chinese, and the monument proclaims Islamic rather than Chinese authority.",
+      "C": "Incorrect. The Arabic bands are Quranic and proclamatory inscriptions of an Islamic state, not Buddhist texts.",
+      "D": "Correct. The Arabic-inscribed victory tower in Delhi is a monument of the Turkic Muslim rulers who established the Delhi Sultanate in northern India."
+    },
+    "options": [
+      "(A) Hindu kings built the tower to celebrate the defeat of Muslim invaders.",
+      "(B) Chinese emperors ruled Delhi and inscribed the tower in Chinese characters.",
+      "(C) The inscriptions show that Buddhism was the official state religion of the Delhi Sultanate.",
+      "(D) Turkic Muslim rulers established authority in northern India through Islamic monuments."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The Qutb Minar in Delhi, shown here, best illustrates which development in South Asia?",
+    "stimulus": "This photograph looks up the Qutb Minar in Delhi — a towering minaret whose stone surface is carved with bands of Arabic calligraphy. It was begun around 1199 under the rulers of the Delhi Sultanate.",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The gate's pointed arch and the Arabic calligraphy over the doorway identify it as a mosque, yet it stands in Quanzhou (Zayton), one of Yuan China's greatest seaports. The Qingjing Mosque was founded by Arab merchants in 1009 and rebuilt under the Yuan. Its presence proves that Muslim traders from the Indian Ocean world didn't just visit China — they settled, built, and worshipped there.",
+    "id": "wh-vis-u2-020",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Quanzhou_Qingjing_Si_20120229-03.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. An Arabic-inscribed mosque in a major Chinese port is direct evidence of a settled Muslim merchant community created by Indian Ocean trade.",
+      "B": "Incorrect. The building is an active historic mosque; Islam was practiced openly by these merchant communities, not banned.",
+      "C": "Incorrect. The mosque's existence in Quanzhou proves Arab and Persian merchants did reach and settle in China.",
+      "D": "Incorrect. The pointed arch and Arabic calligraphy over the door identify it as a mosque, not a Buddhist temple."
+    },
+    "options": [
+      "(A) Muslim merchants formed settled communities in Chinese port cities.",
+      "(B) Islam was banned in China, so no mosques could be built there.",
+      "(C) Arab merchants never traveled as far as China.",
+      "(D) The building is a Buddhist temple with Chinese architectural features."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The Qingjing Mosque in Quanzhou, China, best illustrates which phenomenon?",
+    "stimulus": "This photograph shows the stone gate of the Qingjing Mosque in Quanzhou, a major Chinese seaport. The gate has a pointed Islamic arch, and Arabic calligraphy is inscribed above the doorway.",
+    "stimulus_words": 31,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The stele's title, carved in Chinese, announces the spread of the 'Jingjiao' (the Church of the East) in China, and a Christian cross surmounts the inscription — yet the cross is framed by Chinese-style carved dragons and clouds. Erected in 781 in Chang'an, the monument shows Christianity traveling the Silk Road to Tang China and being presented in Chinese visual language: a foreign religion naturalized through local artistic forms.",
+    "id": "wh-vis-u2-021",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nestorian_stele_1.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The monument's very existence — a Christian stele erected in the Tang capital — shows a foreign religion establishing itself in China.",
+      "B": "Incorrect. The stele stands in China and is carved in Chinese styles; it was made in China, not Europe.",
+      "C": "Correct. The Christian cross combined with Chinese dragons and Chinese text documents both the religion's arrival via Silk Road networks and its adaptation to Chinese culture.",
+      "D": "Incorrect. The cross at the top and the title's reference to the Jingjiao (Church of the East) identify it as Christian, not Buddhist."
+    },
+    "options": [
+      "(A) The stele proves that China rejected all foreign religions during this period.",
+      "(B) The stele was carved in Europe and shipped across Eurasia to China by Christian missionaries.",
+      "(C) Christianity spread to China along Silk Road networks and took Chinese artistic forms.",
+      "(D) The monument is a Buddhist stele with no connection to any other religion."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The top of the Nestorian Stele (erected 781 in Chang'an) best supports which claim?",
+    "stimulus": "This photograph shows the top of a stone stele: a Christian cross is carved above a Chinese inscription, and the inscription panel is framed by Chinese-style carved dragons and scrolling clouds.",
+    "stimulus_words": 31,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The aerial view shows the Great Enclosure's massive circular walls built of precisely fitted stone with no mortar — a technique requiring enormous organized labor. Great Zimbabwe was built by Shona-speaking Africans (not foreigners, as early colonial writers wrongly claimed), and its wealth came from controlling the gold and ivory trade between the interior and the Swahili coast. Monumental stonework on this scale is the signature of a wealthy, complex state.",
+    "id": "wh-vis-u2-022",
+    "image_license": "CC BY-SA 2.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Great_Zimbabwe_-_aerial_view.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. Great Zimbabwe lies far inland in southern Africa; it was a trading city, not a European coastal fort.",
+      "B": "Correct. The scale and sophistication of the dry-stone construction indicate a wealthy, organized African society, sustained by its position in the gold trade.",
+      "C": "Incorrect. Archaeology has established that Great Zimbabwe was built by Shona-speaking Africans; the foreign-builder claim was a colonial-era myth.",
+      "D": "Incorrect. The walls enclosed a royal and ceremonial precinct of a trading state; their scale reflects wealth and organization, not defense against ocean raids."
+    },
+    "options": [
+      "(A) The walls are the remains of a European coastal fort built by explorers.",
+      "(B) A wealthy, organized African society, sustained by the gold trade, built this stone city.",
+      "(C) Foreign merchants from outside Africa built Great Zimbabwe as their fortified trading headquarters.",
+      "(D) The enclosure was built to defend the city against attacks from the sea."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The aerial view of Great Zimbabwe's Great Enclosure best supports which claim?",
+    "stimulus": "This aerial photograph shows the Great Enclosure at Great Zimbabwe: massive circular walls of carefully fitted stone laid without mortar, enclosing a large area.",
+    "stimulus_words": 24,
+    "themes": [
+      "GOV",
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The museum label identifies these as coins minted at Kilwa under Sultan Ali bin al-Hassan in the 1100s. A city-state that mints its own currency has a government capable of guaranteeing value and an economy with enough commercial activity to need standardized money. Kilwa's wealth came from taxing and trading the gold flowing from the interior to the Indian Ocean — coinage is the fingerprint of that commercial sophistication.",
+    "id": "wh-vis-u2-023",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pesa_ya_sarafu.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. Minting coins is an act of an independent ruler; it demonstrates Kilwa's sovereignty, not colonization.",
+      "B": "Correct. Locally minted coinage demonstrates both state authority and a commercial economy complex enough to require standardized currency.",
+      "C": "Incorrect. Minted coinage is evidence of a monetized economy, the opposite of simple barter.",
+      "D": "Incorrect. The museum label explicitly identifies these as Kilwa coins of Sultan Ali bin al-Hassan — an African minting, not a European one."
+    },
+    "options": [
+      "(A) The coins prove that Kilwa had been colonized and directly ruled by a foreign imperial power.",
+      "(B) Swahili city-states had sophisticated commercial economies and issued their own coinage.",
+      "(C) Kilwa's economy relied entirely on barter, without any form of money.",
+      "(D) The coins were minted in Europe and imported to East Africa by long-distance traders."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "These coins, displayed in a Tanzanian museum, best illustrate which feature of the Swahili coast?",
+    "stimulus": "This photograph shows a museum display of small copper coins. The label reads (in Swahili and English): “Kilwa coins, belonging to Sultan Ali b' al Hassan, known to have minted many coins, in the 12th Century.”",
+    "stimulus_words": 36,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The photograph shows the interior of Kilwa's Great Mosque — among the largest mosques in sub-Saharan Africa — built of coral rag stone with rows of arches and domes. A building of this scale required both a large Muslim population and great wealth; both came from Kilwa's position as the leading Swahili port in the Indian Ocean gold trade. Monumental religious architecture here is inseparable from commercial prosperity and Islamic identity.",
+    "id": "wh-vis-u2-024",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The Great Mosque predates Portuguese arrival by centuries; it was built by Kilwa's Muslim rulers, not Europeans.",
+      "B": "Incorrect. The arches, domes, and scale identify this as a mosque — an Islamic building, not a Christian church.",
+      "C": "Incorrect. Kilwa was one of the greatest Swahili trading cities; the mosque itself is proof of urban and commercial development.",
+      "D": "Correct. The scale of the coral-stone mosque reflects a wealthy, established Muslim community funded by Indian Ocean trade."
+    },
+    "options": [
+      "(A) The mosque was built by Portuguese colonists in the 1500s.",
+      "(B) The building is a Christian church showing European influence on the Swahili coast.",
+      "(C) The Swahili coast had no significant cities or trade in this period.",
+      "(D) Islam was rooted on the Swahili coast, where trade wealth built great mosques."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The interior of the Great Mosque of Kilwa best supports which claim?",
+    "stimulus": "This photograph shows the interior of the Great Mosque of Kilwa (in present-day Tanzania): rows of coral-stone pillars and arches supporting domed ceilings, on a monumental scale.",
+    "stimulus_words": 27,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Bete Giyorgis is carved downward into solid volcanic rock — the photograph shows the church sitting in a trench cut from the surrounding stone, its roof at ground level. These monolithic churches were commissioned by the Zagwe kings of Ethiopia around 1200 as a 'New Jerusalem' for pilgrims. Their existence shows Ethiopia's ancient, independent Christian tradition flourishing entirely apart from European Christianity.",
+    "id": "wh-vis-u2-025",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bete_Giyorgis_03.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The churches were commissioned by Ethiopian Zagwe kings around 1200, centuries before significant European contact.",
+      "B": "Incorrect. The cross-shaped plan and church architecture identify it as Christian, not Islamic.",
+      "C": "Incorrect. Lalibela's eleven monolithic churches are among the clearest evidence that medieval Ethiopia was a Christian kingdom.",
+      "D": "Correct. The rock-hewn, cross-shaped church is the product of Ethiopia's own Christian kingdom and building tradition, independent of Europe."
+    },
+    "options": [
+      "(A) The church was built by European missionaries who first arrived in Ethiopia in the 1800s.",
+      "(B) The building is a mosque from Ethiopia's Islamic period.",
+      "(C) Ethiopia was a Muslim kingdom with no Christian heritage.",
+      "(D) Ethiopia had a distinctive, independent Christian tradition with its own architecture."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The Church of Bete Giyorgis at Lalibela, Ethiopia, best illustrates which development?",
+    "stimulus": "This photograph shows the Church of Bete Giyorgis at Lalibela: a cross-shaped church carved downward out of solid rock, sitting in a deep trench cut from the surrounding stone. It was commissioned by Ethiopia's Zagwe kings around 1200.",
+    "stimulus_words": 38,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Angkor Wat's five lotus-bud towers represent Mount Meru, the center of the Hindu cosmos, and the temple was dedicated to the Hindu god Vishnu. Yet it was built by Khmer kings in Cambodia, not by Indians. The temple-mountain form shows Indian religious and architectural ideas traveling to Southeast Asia and being adopted — and monumentalized — by local rulers for their own legitimacy.",
+    "id": "wh-vis-u2-026",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. Angkor Wat was commissioned by the Khmer king Suryavarman II; Indian influence came through cultural diffusion, not conquest.",
+      "B": "Incorrect. Angkor Wat is a Hindu temple dedicated to Vishnu; it has no connection to the spread of Islam.",
+      "C": "Incorrect. The towers are lotus-bud temple-mountain spires of a Hindu temple complex, not Buddhist stupas (though Buddhists later used the site).",
+      "D": "Correct. The Hindu temple-mountain design, built by Khmer rulers, shows Indian religious ideas adopted and adapted in Southeast Asia."
+    },
+    "options": [
+      "(A) Indian armies conquered Cambodia and built the temple as a fortified colonial outpost.",
+      "(B) The temple demonstrates the spread of Islam into Southeast Asia.",
+      "(C) The towers show that Angkor Wat was originally built as a Buddhist stupa.",
+      "(D) Indian Hindu religious and architectural ideas were adopted in Southeast Asia."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The design of Angkor Wat best supports which claim about cultural exchange?",
+    "stimulus": "This photograph shows Angkor Wat in Cambodia: a vast stone temple complex with five lotus-bud towers arranged as a temple-mountain, reflected in a surrounding reservoir. It was built in the 1100s by the Khmer king Suryavarman II as a Hindu temple to Vishnu.",
+    "stimulus_words": 43,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The vases are Chinese porcelain, but their defining feature — the deep blue decoration — came from cobalt pigment imported from Persia; China had no native source of this blue. The David Vases, dated by inscription to 1351, are the world's most famous Yuan blue-and-white pieces. They embody exchange twice over: Persian materials fused with Chinese craftsmanship, producing luxury goods that were then traded across the Indian Ocean world.",
+    "id": "wh-vis-u2-027",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_David_Vases%2C_1351.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. These are large, elaborately decorated altar vases dated 1351 — luxury objects for temples and elites, not peasant wares.",
+      "B": "Incorrect. Porcelain was invented in China; Europeans did not produce true porcelain until the 1700s.",
+      "C": "Correct. The blue-and-white technique depended on Persian cobalt, so the vases themselves are products of interregional exchange — in their materials as well as their trade.",
+      "D": "Incorrect. The vases' own dated inscription places them in 1351, during the Yuan dynasty."
+    },
+    "options": [
+      "(A) The vases were inexpensive everyday wares produced for ordinary Chinese peasants and their village households.",
+      "(B) Porcelain was a European invention that Chinese potters later copied and improved.",
+      "(C) Chinese luxury goods depended on interregional trade: Persian cobalt produced the vases' blue decoration.",
+      "(D) Blue-and-white porcelain was not produced anywhere in the world until after 1600."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The David Vases (dated 1351) best illustrate which aspect of Afro-Eurasian exchange?",
+    "stimulus": "This photograph shows the David Vases: a pair of large Chinese porcelain altar vases decorated in underglaze cobalt blue with dragons, with elephant-head handles and a dated inscription of 1351 on the neck.",
+    "stimulus_words": 33,
+    "themes": [
+      "ECN",
+      "TEC",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 2
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "The tablet is an official object: it bears an inscription in Phags-pa script (the writing system created for the Mongol administration under Kublai Khan) and was issued by the state. Paizas functioned as safe-conduct passes — the bearer could claim lodging, provisions, and protection at relay stations. Issuing such passes was how the Mongol government turned a conquered empire into a usable corridor for merchants, envoys, and travelers.",
+    "id": "wh-vis-u2-010",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_%28Paiza%29_with_Inscription_in_Phakpa_Script_MET_DT7052.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. The Phags-pa inscription is an administrative script of the Mongol state, marking this as a government document rather than a devotional object.",
+      "B": "Incorrect. It is a flat iron tablet with an inscription, not a coin; it carried authority, not monetary value.",
+      "C": "Incorrect. Paizas were granted to merchants, envoys, and travelers of many backgrounds — extending protection to non-Mongols was precisely their commercial purpose.",
+      "D": "Correct. The official inscription and state-issued form identify this as a travel pass; such passes guaranteed protection and support, which made long-distance movement across the empire practical."
+    },
+    "options": [
+      "(A) The object is a bronze religious amulet carried by Buddhist monks traveling on pilgrimage across Asia.",
+      "(B) The Mongols used iron tablets like this one as everyday currency in their markets.",
+      "(C) Only Mongol soldiers were permitted to travel within the empire.",
+      "(D) The Mongol government issued passes protecting travelers and encouraging long-distance trade."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This object, a Mongol safe-conduct pass (paiza), best illustrates which Mongol policy?",
+    "stimulus": "This iron tablet, held by the Metropolitan Museum of Art, is a Mongol safe-conduct pass (paiza). It is topped by a carved dragon head, has a ring for suspension, and bears an inscription in Phags-pa script — the writing system created for the Mongol administration.",
+    "stimulus_words": 45,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The engraving shows the Great Khan's fleet as large multi-masted ships with lug sails sailing among the islands of Southeast Asia — ocean-going vessels, not riverboats. Marco Polo's account describes traveling with such a fleet, which is why the 1903 edition illustrated it: Chinese junks carried trade across the open sea between China and Southeast Asia.",
+    "id": "wh-vis-u2-011",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Kaan%27s_Fleet_passing_through_the_Indian_Archipelago.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The multi-masted ships with lug sails sailing among open-sea islands are ocean-going junks on the sea routes between China and Southeast Asia.",
+      "B": "Incorrect. The ships are shown at open sea among islands, not on rivers or hugging a coastline.",
+      "C": "Incorrect. The dragon prows and lug sails mark these as Chinese junks; the caravel was a later European design.",
+      "D": "Incorrect. The size, multiple masts, and ocean setting show large seagoing vessels, not small riverboats."
+    },
+    "options": [
+      "(A) Chinese ocean-going junks sailed the sea routes between China and Southeast Asia.",
+      "(B) Chinese ships of this period were limited to rivers and coastal waters.",
+      "(C) The drawing depicts a European caravel, the ship that dominated Indian Ocean trade.",
+      "(D) The vessels shown were small riverboats unsuited to carrying trade cargoes."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The scene shown in this illustration best supports which claim about maritime trade in this period?",
+    "stimulus": "An engraving from the 1903 Yule-Cordier edition of Marco Polo's travels, illustrating the Great Khan's fleet passing through the islands of Southeast Asia. It shows large Chinese ocean-going junks: multi-masted ships with lug sails, high decorated sterns, and carved dragon prows.",
+    "stimulus_words": 41,
+    "themes": [
+      "TEC",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The route runs from Tangier through Egypt, Mecca, Persia, India, and down the Swahili coast to Kilwa — nearly all of it through lands ruled by Muslims. Ibn Battuta, a Moroccan scholar, could travel this entire distance finding mosques, judges, lodging, and fellow Arabic-speakers, which shows how Islam created a connected cultural and legal zone across Africa and Asia.",
+    "id": "wh-vis-u2-012",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ibn_Battuta_1325-1332.png",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The route crosses North Africa, Arabia, Persia, and the Indian Ocean — it never approaches the Atlantic.",
+      "B": "Incorrect. Almost none of the route passes through Christian-ruled territory; it runs through the Mamluk, Delhi Sultanate, and Swahili Muslim realms.",
+      "C": "Correct. The route stays within Muslim-ruled lands from North Africa to East Africa and India, demonstrating the geographic and cultural unity of the Dar al-Islam.",
+      "D": "Incorrect. The map documents an African and Asian journey; it says nothing about European dominance of these networks."
+    },
+    "options": [
+      "(A) The map traces a voyage across the Atlantic Ocean to the Americas.",
+      "(B) He traveled mostly through Christian-ruled lands, showing Europe's control of Afro-Eurasian travel routes at the time.",
+      "(C) His route stayed almost entirely within the Dar al-Islam, showing Islam's connected zone across Africa and Asia.",
+      "(D) His journey demonstrates European dominance of Indian Ocean trade in the 1300s."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Ibn Battuta's first long journey (1325–1332), shown on this map, best illustrates which development?",
+    "stimulus": "This map traces Ibn Battuta's first journey: from Tangier (Morocco) across North Africa to Egypt, on to Mecca, through Persia and India, and then down the Swahili coast of East Africa as far as Kilwa.",
+    "stimulus_words": 35,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The route runs from Sijilmasa in Morocco south through the salt-mining center of Taghaza to Timbuktu and Gao — the established caravan road across the Sahara. A Moroccan scholar making this journey shows that Mali's cities were reachable, well-known destinations within the Islamic world's travel networks, which is exactly how Mali was drawn into trans-Saharan commerce and Islamic scholarship.",
+    "id": "wh-vis-u2-013",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ibn_Battuta_1349-1354.png",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The mapped route follows the known trans-Saharan caravan road, showing Mali's cities were integrated into North African trade and Islamic travel networks.",
+      "B": "Incorrect. The route demonstrates regular contact — a famous traveler journeyed there and back — which is the opposite of isolation.",
+      "C": "Incorrect. The entire route on the map is overland, crossing the Sahara from Morocco to Mali.",
+      "D": "Incorrect. Ibn Battuta was a scholar and traveler, not a conqueror, and the map traces a journey, not a military campaign."
+    },
+    "options": [
+      "(A) Mali's cities were linked to North Africa by caravan routes, integrating Mali into trans-Saharan trade networks.",
+      "(B) Mali was isolated from interregional trade and remained completely unknown to North African travelers and geographers.",
+      "(C) Ibn Battuta reached Mali by sailing down the Atlantic coast of Africa.",
+      "(D) The map traces a Moroccan military invasion that conquered the Mali Empire and ended its independence."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Ibn Battuta's later journey (1349–1354), shown on this map, best illustrates which development?",
+    "stimulus": "This map traces Ibn Battuta's journey from Sijilmasa (Morocco) south across the Sahara — through the salt mines of Taghaza — to the Mali Empire's cities of Timbuktu and Gao, and back.",
+    "stimulus_words": 32,
+    "themes": [
+      "ECN",
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The main map shows dozens of linked trading cities around the North and Baltic Seas, and the inset gives the ground plan of the Steelyard — the walled Hanseatic compound in London with its own warehouses, living quarters, and chapel. Permanent enclaves like this let German merchants store goods securely, live under their own rules, and trade year-round in foreign cities.",
+    "id": "wh-vis-u2-014",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/C._1400_Northern_Europe_Hanseatic_League.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The inset is labeled as the plan of the Stahlhof (Steelyard), the Hanseatic merchants' compound — a commercial site, not a church.",
+      "B": "Incorrect. The map shows a league of many independent cities (Lübeck, Novgorod, Bruges, London, and others), not a single unified country.",
+      "C": "Correct. The inset plan of the London Steelyard is direct evidence of a permanent, self-contained Hanseatic trading post abroad.",
+      "D": "Incorrect. A permanent walled compound with warehouses shows year-round resident trade, not occasional fair visits."
+    },
+    "options": [
+      "(A) The inset drawing is the detailed floor plan of a cathedral built by the merchants in London.",
+      "(B) The Hanseatic League was a single centralized country with one capital city.",
+      "(C) Hanseatic merchants maintained permanent, self-governing trading enclaves in foreign cities.",
+      "(D) Hanseatic merchants traded only at seasonal fairs and never settled abroad in permanent communities."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The inset on this map (the plan labeled “Stahlhof zu London”) best supports which claim about Hanseatic trade?",
+    "stimulus": "This map shows the network of Hanseatic trading cities around the North and Baltic Seas circa 1400. An inset in the corner gives the detailed ground plan of the “Stahlhof zu London” — the Steelyard, the Hanseatic merchants' walled compound in London.",
+    "stimulus_words": 42,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The color coding separates the networks: Venetian routes (blue) run through Alexandria and the eastern Mediterranean, Genoese routes (red) run through the Black Sea, and Hanseatic routes (black) cover northern Europe, with dotted overland and river routes linking the systems. This shows a division of commercial labor in which the Italian city-states controlled the channels carrying Asian goods into Europe — the wealth that made Venice and Genoa dominant.",
+    "id": "wh-vis-u2-015",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Late_Medieval_Trade_Routes.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. The Genoese (red) routes run through the Black Sea and the Mediterranean, not around Africa — the Cape route came later.",
+      "B": "Incorrect. The map depicts the period before Ottoman dominance of these routes; the labeled networks are Venetian, Genoese, and Hanseatic.",
+      "C": "Correct. The blue Venetian and red Genoese routes converge on Alexandria and the Black Sea — the entry points for Asian goods — while the black Hanseatic routes cover the north.",
+      "D": "Incorrect. The map's legend assigns Venice the blue Mediterranean routes; the black northern routes belong to the Hanseatic League."
+    },
+    "options": [
+      "(A) Genoese ships reached Asia by sailing around the southern tip of Africa.",
+      "(B) The map shows Ottoman merchants controlling Europe's trade with Asia.",
+      "(C) Asian goods reached Europe via Alexandria and the Black Sea; the Hansa ran northern trade.",
+      "(D) Venice's trade was confined to the Baltic Sea, and Genoa handled all Mediterranean commerce."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The color-coded routes on this map best support which claim about European trade in the later Middle Ages?",
+    "stimulus": "This map shows late medieval European trade routes: Hanseatic routes in black, Venetian routes in blue, Genoese routes in red, and overland/river routes as dotted lines. Key nodes include Alexandria in Egypt and the Black Sea ports.",
+    "stimulus_words": 37,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The coin is solid gold, and its imagery — St. Mark presenting a banner to the kneeling doge on one side, Christ in a mandorla on the other — proclaims Venetian authority. Venice began minting the gold ducat in 1284 precisely because its eastern trade generated huge volumes of high-value transactions that silver coinage handled poorly. A trusted gold coin that merchants accepted everywhere was itself a tool of commercial expansion.",
+    "id": "wh-vis-u2-016",
+    "image_license": "CC BY-SA 2.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Medieval_Venetian_ducat_%28FindID_805820%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Incorrect. Gold coins were minted precisely for large transactions, including international trade — the scale bar shows a coin meant to carry significant value in small size.",
+      "B": "Correct. The gold content and official Venetian imagery show a state-issued high-value currency created to serve long-distance commerce.",
+      "C": "Incorrect. The figures of St. Mark and the doge are unmistakably Venetian; this is a European coin, not a Chinese one.",
+      "D": "Incorrect. The very existence of a sophisticated minted gold coinage disproves reliance on barter."
+    },
+    "options": [
+      "(A) Gold coins in this period were used only for small local market purchases, not for major trade.",
+      "(B) Venice created a trusted high-value gold currency to serve its long-distance commerce.",
+      "(C) The coin is a Chinese currency that reached Europe through the Silk Road.",
+      "(D) Venice conducted its trade entirely through barter, without coined money."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "This gold coin, a Venetian ducat, best illustrates which feature of the Italian city-states' commercial revolution?",
+    "stimulus": "This photograph shows both sides of a medieval Venetian gold ducat next to a centimeter scale. One side depicts St. Mark presenting a banner to the kneeling doge of Venice; the other shows Christ enthroned within an almond-shaped frame.",
+    "stimulus_words": 39,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The stone towers with crenellations are a Genoese fortress, built in the European military style, standing on the Crimean coast of the Black Sea. Caffa was Genoa's great Black Sea colony: from here Genoese merchants funneled silk, spices, grain, and enslaved people between Asia and the Mediterranean. It was also the port through which the Black Death reached Europe in 1347 — the same networks that carried goods carried disease.",
+    "id": "wh-vis-u2-017",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/THEODOSIA_01.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Incorrect. Fortresses guard against land attack; Caffa's walls protected the Genoese trading enclave and its warehouses, the source of its wealth.",
+      "B": "Incorrect. The architecture is a European (Genoese) fortress, not a Mongol construction; the Mongols besieged Caffa but did not build it.",
+      "C": "Correct. The European-style fortress on the Black Sea coast is physical evidence of Genoa's fortified commercial colony, which linked Asian trade to the Mediterranean — and through which the plague entered Europe.",
+      "D": "Incorrect. Caffa (Theodosia) is in Crimea on the Black Sea, thousands of kilometers from Italy — its distance from home is the point."
+    },
+    "options": [
+      "(A) The fortress shows that Caffa's wealth came from defending against naval attack, not from trade or commerce.",
+      "(B) The fortress was built by the Mongols to defend against European invasion.",
+      "(C) Italian merchants kept fortified trading colonies on the Black Sea, linking Asian and Mediterranean trade.",
+      "(D) Caffa was a port city located on the Italian peninsula itself, near the city of Genoa."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "These ruins — the Genoese fortress at Caffa (Theodosia) on the Black Sea — best support which claim about this period?",
+    "stimulus": "This photograph shows the stone towers and walls of a medieval fortress in the European style, standing on a hill above the sea at Theodosia (Caffa) in Crimea, on the Black Sea coast.",
+    "stimulus_words": 33,
+    "themes": [
+      "ECN",
+      "GOV",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 2
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The mosque is unmistakably Islamic in function — a large congregational mosque — but its materials and form are West African: sun-dried mud brick, massive tapering pillars, and the wooden toron beams studding the facade. Built in Timbuktu around 1327 under Mansa Musa, it shows Islam taking root in Mali expressed through indigenous Sudanic building traditions rather than imported Arab forms.",
+    "id": "wh-vis-u2-018",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Djinguereber_Mosque%2C_Timbuktu%2C_Mali.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Incorrect. A grand congregational mosque in Timbuktu is evidence of Islam's deep establishment, not its rejection.",
+      "B": "Incorrect. The wooden beams (toron) are permanent features of Sudanic mud architecture used for maintenance, not scaffolding for stonework.",
+      "C": "Incorrect. The mosque was commissioned by Mansa Musa, the Muslim ruler of Mali; it was an African initiative, not a foreign imposition.",
+      "D": "Correct. The mud-brick construction and toron beams are local Sudanic techniques applied to an Islamic religious building — evidence of cultural blending."
+    },
+    "options": [
+      "(A) The building shows that Mali's rulers rejected Islam in favor of older traditions.",
+      "(B) The wooden beams are scaffolding left over from European-style stone construction methods.",
+      "(C) The mosque was built by Arab conquerors who ruled Timbuktu as a colony.",
+      "(D) Islam in Mali was expressed through local West African building traditions."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The architecture of the Djinguereber Mosque in Timbuktu (built c. 1327) best supports which claim?",
+    "stimulus": "This photograph shows the Djinguereber Mosque in Timbuktu, Mali: a large mosque built of sun-dried mud brick with massive pillars, and wooden beams (toron) projecting from its walls and towers.",
+    "stimulus_words": 30,
+    "themes": [
+      "CDI",
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 2
+  }
+]
