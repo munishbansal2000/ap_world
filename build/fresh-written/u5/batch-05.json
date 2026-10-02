@@ -1,289 +1,309 @@
 [
- {
-  "difficulty": "medium",
-  "explanation": "Napoleon had retaken Louisiana to supply a restored plantation colony in Saint-Domingue. When yellow fever and Dessalines's armies destroyed his expeditionary force, the whole American project collapsed — so he sold the territory to Jefferson for cash for his European wars.",
-  "id": "wh-fresh-u5-041",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. The inset's note on the 1801–1803 defeat is the causal link the map provides.",
-   "B": "Wrong. Napoleon fought the Haitian rebels; he did not fund them.",
-   "C": "Wrong. The territory was purchased for $15 million, not conquered.",
-   "D": "Wrong. The map labels the territory as purchased from France in 1803."
+  {
+    "difficulty": "medium",
+    "explanation": "Napoleon had retaken Louisiana to supply a restored plantation colony in Saint-Domingue. When yellow fever and Dessalines's armies destroyed his expeditionary force, the whole American project collapsed — so he sold the territory to Jefferson for cash for his European wars.",
+    "id": "wh-fresh-u5-041",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The inset's note on the 1801–1803 defeat is the causal link the map provides.",
+      "B": "Wrong. Napoleon fought the Haitian rebels; he did not fund them.",
+      "C": "Wrong. The territory was purchased for $15 million, not conquered.",
+      "D": "Wrong. The map labels the territory as purchased from France in 1803."
+    },
+    "options": [
+      "(A) Defeat in Saint-Domingue convinced Napoleon to abandon his American empire project and sell Louisiana to the United States",
+      "(B) Napoleon sold Louisiana in order to raise money to fund and arm the Haitian rebels and their navy in their fight against the British",
+      "(C) The United States conquered Louisiana by force from France",
+      "(D) France retained Louisiana and never actually sold the territory"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "This account best supports which causal explanation for the Louisiana Purchase?",
+    "stimulus": "The Louisiana Purchase, 1803: France sold the Louisiana Territory — stretching from the Mississippi River to the Rocky Mountains — to the United States for $15 million, doubling the country's size. Background: French forces in Saint-Domingue (Haiti) were defeated by revolution and disease, 1801–1803; Haitian independence followed in 1804.",
+    "stimulus_words": 49,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Defeat in Saint-Domingue convinced Napoleon to abandon his American empire project and sell Louisiana to the United States",
-   "(B) Napoleon sold Louisiana in order to raise money to fund and arm the Haitian rebels and their navy in their fight against the British",
-   "(C) The United States conquered Louisiana by force from France",
-   "(D) France retained Louisiana and never actually sold the territory"
-  ],
-  "reasoning": "Causation",
-  "skill": "Developments and Processes",
-  "stem": "This account best supports which causal explanation for the Louisiana Purchase?",
-  "stimulus": "The Louisiana Purchase, 1803: France sold the Louisiana Territory — stretching from the Mississippi River to the Rocky Mountains — to the United States for $15 million, doubling the country's size. Background: French forces in Saint-Domingue (Haiti) were defeated by revolution and disease, 1801–1803; Haitian independence followed in 1804.",
-  "stimulus_words": 49,
-  "themes": [
-   "GOV",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Haitian connection is the point: without the Haitian Revolution there is no sale, and without the sale the United States does not double in size or gain the Mississippi. A revolt of enslaved Africans in the Caribbean directly enabled American continental expansion — the Atlantic revolutions were one intertwined story.",
-  "id": "wh-fresh-u5-042",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. The map shows France losing its American empire, not strengthening it.",
-   "B": "Wrong. The background note explicitly connects the Caribbean defeat to the sale.",
-   "C": "Correct. The map visualizes the Atlantic world's interconnection.",
-   "D": "Wrong. Haiti bought nothing; it was the United States that purchased Louisiana."
+  {
+    "difficulty": "hard",
+    "explanation": "The Haitian connection is the point: without the Haitian Revolution there is no sale, and without the sale the United States does not double in size or gain the Mississippi. A revolt of enslaved Africans in the Caribbean directly enabled American continental expansion — the Atlantic revolutions were one intertwined story.",
+    "id": "wh-fresh-u5-042",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. The map shows France losing its American empire, not strengthening it.",
+      "B": "Wrong. The background note explicitly connects the Caribbean defeat to the sale.",
+      "C": "Correct. The map visualizes the Atlantic world's interconnection.",
+      "D": "Wrong. Haiti bought nothing; it was the United States that purchased Louisiana."
+    },
+    "options": [
+      "(A) European empires in the Americas grew steadily stronger and larger throughout the entire revolutionary period without interruption",
+      "(B) The purchase had no connection to events in the Caribbean",
+      "(C) A Caribbean slave revolt could reshape the map of North America, showing how connected the Atlantic world had become",
+      "(D) Haiti purchased Louisiana from France as its first colony"
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "The Louisiana Purchase best illustrates which broader pattern of the revolutionary era?",
+    "stimulus": "The Louisiana Purchase, 1803: France sold the Louisiana Territory — stretching from the Mississippi River to the Rocky Mountains — to the United States for $15 million, doubling the country's size. Background: French forces in Saint-Domingue (Haiti) were defeated by revolution and disease, 1801–1803; Haitian independence followed in 1804.",
+    "stimulus_words": 49,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) European empires in the Americas grew steadily stronger and larger throughout the entire revolutionary period without interruption",
-   "(B) The purchase had no connection to events in the Caribbean",
-   "(C) A Caribbean slave revolt could reshape the map of North America, showing how connected the Atlantic world had become",
-   "(D) Haiti purchased Louisiana from France as its first colony"
-  ],
-  "reasoning": "Causation",
-  "skill": "Making Connections",
-  "stem": "The Louisiana Purchase best illustrates which broader pattern of the revolutionary era?",
-  "stimulus": "The Louisiana Purchase, 1803: France sold the Louisiana Territory — stretching from the Mississippi River to the Rocky Mountains — to the United States for $15 million, doubling the country's size. Background: French forces in Saint-Domingue (Haiti) were defeated by revolution and disease, 1801–1803; Haitian independence followed in 1804.",
-  "stimulus_words": 49,
-  "themes": [
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The claim says 'all.' The Code's marriage law is direct counterevidence: half the adult population was placed under husbands' legal authority. A claim of universal liberation cannot survive the legal subordination of women.",
-  "id": "wh-fresh-u5-043",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. This supports the claim rather than weakening it.",
-   "B": "Correct. Legal subordination of married women directly contradicts 'liberated all.'",
-   "C": "Wrong. Print runs say nothing about who was actually liberated.",
-   "D": "Wrong. Women's participation is true but does not weaken a claim about liberation's limits."
+  {
+    "difficulty": "hard",
+    "explanation": "The claim says 'all.' The Code's marriage law is direct counterevidence: half the adult population was placed under husbands' legal authority. A claim of universal liberation cannot survive the legal subordination of women.",
+    "id": "wh-fresh-u5-043",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. This supports the claim rather than weakening it.",
+      "B": "Correct. Legal subordination of married women directly contradicts 'liberated all.'",
+      "C": "Wrong. Print runs say nothing about who was actually liberated.",
+      "D": "Wrong. Women's participation is true but does not weaken a claim about liberation's limits."
+    },
+    "options": [
+      "(A) The Code abolished feudal dues and made all men equal before the law",
+      "(B) The Napoleonic Code legally subordinated married women to their husbands in property, contracts, and divorce",
+      "(C) The Declaration of the Rights of Man was printed in thousands of copies, posted in every French village, and read aloud publicly",
+      "(D) Women participated in the march on Versailles in 1789"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims: 'The French Revolution liberated all French people.' Which evidence best weakens this claim?",
+    "stimulus": "A) Declaration of the Rights of Man and of the Citizen (1789), Article 1: 'Men are born and remain free and equal in rights.' B) Napoleonic Code (1804), on marriage: 'The husband owes protection to his wife; the wife owes obedience to her husband.' A married woman could not own property, sign contracts, or seek divorce on the same terms as a man.",
+    "stimulus_words": 63,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) The Code abolished feudal dues and made all men equal before the law",
-   "(B) The Napoleonic Code legally subordinated married women to their husbands in property, contracts, and divorce",
-   "(C) The Declaration of the Rights of Man was printed in thousands of copies, posted in every French village, and read aloud publicly",
-   "(D) Women participated in the march on Versailles in 1789"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Claims and Evidence in Sources",
-  "stem": "A historian claims: 'The French Revolution liberated all French people.' Which evidence best weakens this claim?",
-  "stimulus": "A) Declaration of the Rights of Man and of the Citizen (1789), Article 1: 'Men are born and remain free and equal in rights.' B) Napoleonic Code (1804), on marriage: 'The husband owes protection to his wife; the wife owes obedience to her husband.' A married woman could not own property, sign contracts, or seek divorce on the same terms as a man.",
-  "stimulus_words": 63,
-  "themes": [
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The Revolution spoke universally but legislated for men — women were denied the vote, Olympe de Gouges was executed, and the Code codified wifely obedience. The pairing shows how universalist language coexisted with, and even masked, the preservation of patriarchy.",
-  "id": "wh-fresh-u5-044",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. Women were denied the vote and placed under husbands' legal authority.",
-   "B": "Wrong. Women marched, petitioned, and were then deliberately restricted — they were deeply affected.",
-   "C": "Wrong. The Code was promulgated in 1804, fifteen years after the Revolution began.",
-   "D": "Correct. The excerpts together reveal the gendered limits of revolutionary universalism."
+  {
+    "difficulty": "hard",
+    "explanation": "The Revolution spoke universally but legislated for men — women were denied the vote, Olympe de Gouges was executed, and the Code codified wifely obedience. The pairing shows how universalist language coexisted with, and even masked, the preservation of patriarchy.",
+    "id": "wh-fresh-u5-044",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Women were denied the vote and placed under husbands' legal authority.",
+      "B": "Wrong. Women marched, petitioned, and were then deliberately restricted — they were deeply affected.",
+      "C": "Wrong. The Code was promulgated in 1804, fifteen years after the Revolution began.",
+      "D": "Correct. The excerpts together reveal the gendered limits of revolutionary universalism."
+    },
+    "options": [
+      "(A) The Revolution achieved complete equality between women and men",
+      "(B) Women were entirely unaffected by the Revolution, positively or negatively",
+      "(C) The Napoleonic Code was written before the Revolution began and simply reflects the laws of the old regime without any changes",
+      "(D) 'Universal' rights were in practice gendered: 'man' and 'citizen' meant men, and the Code entrenched women's legal dependence"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Taken together, the two excerpts best support which argument about revolutionary universalism?",
+    "stimulus": "A) Declaration of the Rights of Man and of the Citizen (1789), Article 1: 'Men are born and remain free and equal in rights.' B) Napoleonic Code (1804), on marriage: 'The husband owes protection to his wife; the wife owes obedience to her husband.' A married woman could not own property, sign contracts, or seek divorce on the same terms as a man.",
+    "stimulus_words": 63,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) The Revolution achieved complete equality between women and men",
-   "(B) Women were entirely unaffected by the Revolution, positively or negatively",
-   "(C) The Napoleonic Code was written before the Revolution began and simply reflects the laws of the old regime without any changes",
-   "(D) 'Universal' rights were in practice gendered: 'man' and 'citizen' meant men, and the Code entrenched women's legal dependence"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Argumentation",
-  "stem": "Taken together, the two excerpts best support which argument about revolutionary universalism?",
-  "stimulus": "A) Declaration of the Rights of Man and of the Citizen (1789), Article 1: 'Men are born and remain free and equal in rights.' B) Napoleonic Code (1804), on marriage: 'The husband owes protection to his wife; the wife owes obedience to her husband.' A married woman could not own property, sign contracts, or seek divorce on the same terms as a man.",
-  "stimulus_words": 63,
-  "themes": [
-   "SIO",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "medium",
-  "explanation": "After Napoleon's fall, the Holy Alliance powers discussed helping Spain recover its colonies; Britain's trade interests and the US Monroe Doctrine blocked them. Spanish American independence survived because the Atlantic balance of power, not just battlefield victories, protected it. The 1810–1830 window sits inside the post-Vienna conservative order and the Monroe Doctrine response.",
-  "id": "wh-fresh-u5-045",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. The map's 1810–1830 window sits inside the post-Vienna conservative order and the Monroe Doctrine response.",
-   "B": "Wrong. The movements came after the French Revolution (1789) and were shaped by it.",
-   "C": "Wrong. European governments were hostile to the rebels; Britain helped only through trade and recognition.",
-   "D": "Wrong. The United States never fought Spain for South American independence."
+  {
+    "difficulty": "medium",
+    "explanation": "After Napoleon's fall, the Holy Alliance powers discussed helping Spain recover its colonies; Britain's trade interests and the US Monroe Doctrine blocked them. Spanish American independence survived because the Atlantic balance of power, not just battlefield victories, protected it. The 1810–1830 window sits inside the post-Vienna conservative order and the Monroe Doctrine response.",
+    "id": "wh-fresh-u5-045",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The map's 1810–1830 window sits inside the post-Vienna conservative order and the Monroe Doctrine response.",
+      "B": "Wrong. The movements came after the French Revolution (1789) and were shaped by it.",
+      "C": "Wrong. European governments were hostile to the rebels; Britain helped only through trade and recognition.",
+      "D": "Wrong. The United States never fought Spain for South American independence."
+    },
+    "options": [
+      "(A) They were completed while Europe's conservative powers threatened to restore colonial rule, prompting the 1823 US Monroe Doctrine",
+      "(B) They occurred before the French Revolution and were unaffected by it",
+      "(C) European governments actively funded, armed, and diplomatically recognized the independence armies from the very beginning of the wars in 1810",
+      "(D) The United States fought Spain directly to liberate South America"
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "stem": "These independence movements are best understood in which broader context?",
+    "stimulus": "South American independence, 1810–1830: Bolívar campaigned in the north — Boyacá (1819), Carabobo (1821); San Martín campaigned in the south — crossing the Andes (1817), taking Lima (1821); the two generals met at Guayaquil in 1822. The Republic of Gran Colombia (1819–1830) united the north, but by 1830 it had broken apart into Venezuela, Colombia, and Ecuador.",
+    "stimulus_words": 57,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) They were completed while Europe's conservative powers threatened to restore colonial rule, prompting the 1823 US Monroe Doctrine",
-   "(B) They occurred before the French Revolution and were unaffected by it",
-   "(C) European governments actively funded, armed, and diplomatically recognized the independence armies from the very beginning of the wars in 1810",
-   "(D) The United States fought Spain directly to liberate South America"
-  ],
-  "reasoning": "Causation",
-  "skill": "Contextualization",
-  "stem": "These independence movements are best understood in which broader context?",
-  "stimulus": "South American independence, 1810–1830: Bolívar campaigned in the north — Boyacá (1819), Carabobo (1821); San Martín campaigned in the south — crossing the Andes (1817), taking Lima (1821); the two generals met at Guayaquil in 1822. The Republic of Gran Colombia (1819–1830) united the north, but by 1830 it had broken apart into Venezuela, Colombia, and Ecuador.",
-  "stimulus_words": 57,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "medium",
-  "explanation": "Bolívar's dream of a united Spanish America collapsed within a decade of victory: Venezuela and Ecuador seceded, and strongmen carved out personal fiefdoms. Independence destroyed Spanish authority but did not create stable new nations — the 1830 breakup described above is the evidence of fragmentation.",
-  "id": "wh-fresh-u5-046",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The dashed lines show the opposite — Gran Colombia broke apart by 1830.",
-   "B": "Correct. The map's dashed breakup lines are the evidence of fragmentation.",
-   "C": "Wrong. Spain never reconquered the mainland republics.",
-   "D": "Wrong. Gran Colombia dissolved in 1830–31 into three separate states."
+  {
+    "difficulty": "medium",
+    "explanation": "Bolívar's dream of a united Spanish America collapsed within a decade of victory: Venezuela and Ecuador seceded, and strongmen carved out personal fiefdoms. Independence destroyed Spanish authority but did not create stable new nations — the 1830 breakup described above is the evidence of fragmentation.",
+    "id": "wh-fresh-u5-046",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The dashed lines show the opposite — Gran Colombia broke apart by 1830.",
+      "B": "Correct. The map's dashed breakup lines are the evidence of fragmentation.",
+      "C": "Wrong. Spain never reconquered the mainland republics.",
+      "D": "Wrong. Gran Colombia dissolved in 1830–31 into three separate states."
+    },
+    "options": [
+      "(A) Latin America united permanently into a single great federation, with its capital at Panama, that still exists with the same borders today",
+      "(B) Regional rivalries, weak central authority, and caudillo conflicts fragmented Bolívar's republic into separate states",
+      "(C) Spain successfully reconquered all of its former colonies",
+      "(D) Gran Colombia still exists today under the same borders"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "Gran Colombia's breakup by 1830 best illustrates which outcome of the independence wars?",
+    "stimulus": "South American independence, 1810–1830: Bolívar campaigned in the north — Boyacá (1819), Carabobo (1821); San Martín campaigned in the south — crossing the Andes (1817), taking Lima (1821); the two generals met at Guayaquil in 1822. The Republic of Gran Colombia (1819–1830) united the north, but by 1830 it had broken apart into Venezuela, Colombia, and Ecuador.",
+    "stimulus_words": 57,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Latin America united permanently into a single great federation, with its capital at Panama, that still exists with the same borders today",
-   "(B) Regional rivalries, weak central authority, and caudillo conflicts fragmented Bolívar's republic into separate states",
-   "(C) Spain successfully reconquered all of its former colonies",
-   "(D) Gran Colombia still exists today under the same borders"
-  ],
-  "reasoning": "Causation",
-  "skill": "Developments and Processes",
-  "stem": "Gran Colombia's breakup by 1830 best illustrates which outcome of the independence wars?",
-  "stimulus": "South American independence, 1810–1830: Bolívar campaigned in the north — Boyacá (1819), Carabobo (1821); San Martín campaigned in the south — crossing the Andes (1817), taking Lima (1821); the two generals met at Guayaquil in 1822. The Republic of Gran Colombia (1819–1830) united the north, but by 1830 it had broken apart into Venezuela, Colombia, and Ecuador.",
-  "stimulus_words": 57,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "medium",
-  "explanation": "Locke and Rousseau wrote of natural rights while assuming male citizens. Wollstonecraft's move — accepting their premises and extending the conclusion to women — became a template: abolitionists, Seneca Falls organizers, and later feminists all reused Enlightenment universalism against its original limits.",
-  "id": "wh-fresh-u5-047",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Most Enlightenment thinkers, including Rousseau, assumed women's subordinate role.",
-   "B": "Wrong. Her work directly influenced the 1848 Seneca Falls convention and later feminist movements.",
-   "C": "Correct. Turning the philosophes' own logic against their exclusions is her signature contribution.",
-   "D": "Wrong. She argued for equality through reason and education, not female superiority."
+  {
+    "difficulty": "medium",
+    "explanation": "Locke and Rousseau wrote of natural rights while assuming male citizens. Wollstonecraft's move — accepting their premises and extending the conclusion to women — became a template: abolitionists, Seneca Falls organizers, and later feminists all reused Enlightenment universalism against its original limits.",
+    "id": "wh-fresh-u5-047",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Most Enlightenment thinkers, including Rousseau, assumed women's subordinate role.",
+      "B": "Wrong. Her work directly influenced the 1848 Seneca Falls convention and later feminist movements.",
+      "C": "Correct. Turning the philosophes' own logic against their exclusions is her signature contribution.",
+      "D": "Wrong. She argued for equality through reason and education, not female superiority."
+    },
+    "options": [
+      "(A) Enlightenment thinkers unanimously agreed that women deserved equal rights",
+      "(B) Her writings had no influence on any later movement",
+      "(C) Reformers could take Enlightenment ideas — natural rights, reason, education — and turn them against exclusions the original thinkers had accepted",
+      "(D) She argued that women were naturally superior to men"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "stem": "Wollstonecraft's argument best illustrates which broader pattern?",
+    "stimulus": "In A Vindication of the Rights of Woman (1792), Mary Wollstonecraft argued that women's supposed inferiority was not natural but produced by denying them education. 'If women share the same natural rights as men,' she wrote in effect, 'then educating them as rational beings will make them better citizens' — applying Enlightenment faith in reason directly to gender.",
+    "stimulus_words": 58,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Enlightenment thinkers unanimously agreed that women deserved equal rights",
-   "(B) Her writings had no influence on any later movement",
-   "(C) Reformers could take Enlightenment ideas — natural rights, reason, education — and turn them against exclusions the original thinkers had accepted",
-   "(D) She argued that women were naturally superior to men"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Making Connections",
-  "stem": "Wollstonecraft's argument best illustrates which broader pattern?",
-  "stimulus": "In A Vindication of the Rights of Woman (1792), Mary Wollstonecraft argued that women's supposed inferiority was not natural but produced by denying them education. 'If women share the same natural rights as men,' she wrote in effect, 'then educating them as rational beings will make them better citizens' — applying Enlightenment faith in reason directly to gender.",
-  "stimulus_words": 58,
-  "themes": [
-   "CDI",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "medium",
-  "explanation": "The system worked while the great powers stayed united — interventions in the 1820s succeeded. But repression stored up pressure: 1830 shook France and Belgium, 1848 nearly toppled every continental regime, and nationalism eventually united Italy and Germany anyway. Containment delayed; it did not cure.",
-  "id": "wh-fresh-u5-048",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. Nationalism and liberalism returned in 1830 and 1848 and ultimately redrew the map.",
-   "B": "Wrong. The order faced serious challenges in 1820–21, 1830, and the massive 1848 wave.",
-   "C": "Wrong. The Industrial Revolution began in Britain for economic and technological reasons, not because of diplomacy.",
-   "D": "Correct. A generation of stability followed by breakthrough is the accurate long-term picture."
+  {
+    "difficulty": "medium",
+    "explanation": "The system worked while the great powers stayed united — interventions in the 1820s succeeded. But repression stored up pressure: 1830 shook France and Belgium, 1848 nearly toppled every continental regime, and nationalism eventually united Italy and Germany anyway. Containment delayed; it did not cure.",
+    "id": "wh-fresh-u5-048",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Nationalism and liberalism returned in 1830 and 1848 and ultimately redrew the map.",
+      "B": "Wrong. The order faced serious challenges in 1820–21, 1830, and the massive 1848 wave.",
+      "C": "Wrong. The Industrial Revolution began in Britain for economic and technological reasons, not because of diplomacy.",
+      "D": "Correct. A generation of stability followed by breakthrough is the accurate long-term picture."
+    },
+    "options": [
+      "(A) It permanently eliminated nationalism, liberalism, and all democratic ideas from European politics forever and for the rest of the century",
+      "(B) It was never seriously challenged before 1900",
+      "(C) It directly caused the Industrial Revolution in Britain",
+      "(D) It suppressed revolts for a generation but could not prevent the revolutionary wave of 1848 or the national unifications that followed"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following is the best-supported argument about the long-term effectiveness of this conservative order?",
+    "stimulus": "After 1815, the great powers built a conservative international order: the Congress System met to coordinate policy, and Austrian, French, or Russian armies intervened to crush liberal and nationalist revolts — in Naples (1821), Spain (1823), and elsewhere.",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) It permanently eliminated nationalism, liberalism, and all democratic ideas from European politics forever and for the rest of the century",
-   "(B) It was never seriously challenged before 1900",
-   "(C) It directly caused the Industrial Revolution in Britain",
-   "(D) It suppressed revolts for a generation but could not prevent the revolutionary wave of 1848 or the national unifications that followed"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Argumentation",
-  "stem": "Which of the following is the best-supported argument about the long-term effectiveness of this conservative order?",
-  "stimulus": "After 1815, the great powers built a conservative international order: the Congress System met to coordinate policy, and Austrian, French, or Russian armies intervened to crush liberal and nationalist revolts — in Naples (1821), Spain (1823), and elsewhere.",
-  "stimulus_words": 38,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "The claim is about worsening conditions, and the inspectors' reports are direct evidence: extreme hours, child labor, and injury rates in the first factory decades. Later reforms and rising wages came after — the claim concerns the initial phase, which the reports describe.",
-  "id": "wh-fresh-u5-049",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. The documented hours, child labor, and injuries are exactly the evidence the claim needs.",
-   "B": "Wrong. Wages were stagnant or falling for many workers in the early industrial decades.",
-   "C": "Wrong. Mills were owned by capitalists; workers owned only their labor.",
-   "D": "Wrong. The reports condemned conditions — that is why Parliament passed the Factory Acts."
+  {
+    "difficulty": "hard",
+    "explanation": "The claim is about worsening conditions, and the inspectors' reports are direct evidence: extreme hours, child labor, and injury rates in the first factory decades. Later reforms and rising wages came after — the claim concerns the initial phase, which the reports describe.",
+    "id": "wh-fresh-u5-049",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The documented hours, child labor, and injuries are exactly the evidence the claim needs.",
+      "B": "Wrong. Wages were stagnant or falling for many workers in the early industrial decades.",
+      "C": "Wrong. Mills were owned by capitalists; workers owned only their labor.",
+      "D": "Wrong. The reports condemned conditions — that is why Parliament passed the Factory Acts."
+    },
+    "options": [
+      "(A) Parliamentary reports documenting 12- to 14-hour days, child labor, and dangerous machinery before reform laws",
+      "(B) Wages for all workers rose immediately and steadily from 1760 onward",
+      "(C) Factory workers collectively owned the mills where they labored",
+      "(D) The parliamentary investigations concluded that factory conditions were comfortable, healthy, and better than farm life"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that early industrialization initially made many workers' lives worse. Which evidence best supports this claim?",
+    "stimulus": "British parliamentary investigations of the 1830s–40s — including the Sadler Committee (1832) and mine inspectors' reports — documented children as young as eight working 12- to 14-hour days in textile mills and coal mines, frequent injuries from unfenced machinery, and stunted, sickly young workers. Parliament responded with Factory Acts limiting hours and child labor.",
+    "stimulus_words": 54,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Parliamentary reports documenting 12- to 14-hour days, child labor, and dangerous machinery before reform laws",
-   "(B) Wages for all workers rose immediately and steadily from 1760 onward",
-   "(C) Factory workers collectively owned the mills where they labored",
-   "(D) The parliamentary investigations concluded that factory conditions were comfortable, healthy, and better than farm life"
-  ],
-  "reasoning": "Causation",
-  "skill": "Claims and Evidence in Sources",
-  "stem": "A historian claims that early industrialization initially made many workers' lives worse. Which evidence best supports this claim?",
-  "stimulus": "British parliamentary investigations of the 1830s–40s — including the Sadler Committee (1832) and mine inspectors' reports — documented children as young as eight working 12- to 14-hour days in textile mills and coal mines, frequent injuries from unfenced machinery, and stunted, sickly young workers. Parliament responded with Factory Acts limiting hours and child labor.",
-  "stimulus_words": 54,
-  "themes": [
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Liberalism answered the revolutions' demand for rights, conservatism answered the fear of revolutionary chaos, and socialism answered the factory system's inequalities. None of the three makes sense without the political and economic revolutions that provoked them — ideologies were the era's arguments with itself.",
-  "id": "wh-fresh-u5-050",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The three disagreed fundamentally about government, property, and rights.",
-   "B": "Correct. Each ideology maps onto one of the era's two great transformations.",
-   "C": "Wrong. Conservatism existed to oppose revolution and defend tradition.",
-   "D": "Wrong. Socialism emerged as a critique of industrial capitalism in the 19th century."
-  },
-  "options": [
-   "(A) All three ideologies agreed on the proper role of government",
-   "(B) Each ideology was a response to the era's twin transformations — political revolution and industrialization",
-   "(C) Conservatism actively supported revolutionary change",
-   "(D) Socialism developed before factories existed and ignored industrialization"
-  ],
-  "reasoning": "Causation",
-  "skill": "Argumentation",
-  "stem": "Which argument about these ideologies is best supported by the historical context?",
-  "stimulus": "The upheavals of 1750–1900 generated competing ideologies: liberalism demanded constitutional rights and free markets; conservatism defended order, tradition, and established churches; socialism condemned industrial capitalism and demanded workers' power.",
-  "stimulus_words": 29,
-  "themes": [
-   "CDI",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 5
- }
+  {
+    "difficulty": "hard",
+    "explanation": "Liberalism answered the revolutions' demand for rights, conservatism answered the fear of revolutionary chaos, and socialism answered the factory system's inequalities. None of the three makes sense without the political and economic revolutions that provoked them — ideologies were the era's arguments with itself.",
+    "id": "wh-fresh-u5-050",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The three disagreed fundamentally about government, property, and rights.",
+      "B": "Correct. Each ideology maps onto one of the era's two great transformations.",
+      "C": "Wrong. Conservatism existed to oppose revolution and defend tradition.",
+      "D": "Wrong. Socialism emerged as a critique of industrial capitalism in the 19th century."
+    },
+    "options": [
+      "(A) All three ideologies agreed on the proper role of government",
+      "(B) Each ideology was a response to the era's twin transformations — political revolution and industrialization",
+      "(C) Conservatism actively supported revolutionary change",
+      "(D) Socialism developed before factories existed and ignored industrialization"
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which argument about these ideologies is best supported by the historical context?",
+    "stimulus": "The upheavals of 1750–1900 generated competing ideologies: liberalism demanded constitutional rights and free markets; conservatism defended order, tradition, and established churches; socialism condemned industrial capitalism and demanded workers' power.",
+    "stimulus_words": 29,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  }
 ]

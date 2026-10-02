@@ -30,7 +30,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -63,7 +65,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -96,7 +100,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -129,7 +135,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
     "image_license": "CC BY-SA 3.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -162,7 +170,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
     "image_license": "CC BY-SA 3.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -192,7 +202,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -222,7 +234,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -255,7 +269,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -288,7 +304,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -318,7 +336,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -348,6 +368,8 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

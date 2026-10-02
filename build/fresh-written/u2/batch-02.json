@@ -30,7 +30,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-012",
@@ -63,7 +65,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-013",
@@ -96,7 +100,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-014",
@@ -129,7 +135,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-015",
@@ -162,7 +170,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-016",
@@ -195,7 +205,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-017",
@@ -224,7 +236,9 @@
       "CDI"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-018",
@@ -252,7 +266,9 @@
       "ECN"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-019",
@@ -281,7 +297,9 @@
       "CDI"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-020",
@@ -310,6 +328,8 @@
       "SIO"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

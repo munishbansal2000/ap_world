@@ -30,7 +30,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unknown%2C_Turkey%2C_16th_Century_-_Ferman_with_a_Tughra_-_Google_Art_Project.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -63,7 +65,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unknown%2C_Turkey%2C_16th_Century_-_Ferman_with_a_Tughra_-_Google_Art_Project.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -96,7 +100,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unknown%2C_Turkey%2C_16th_Century_-_Ferman_with_a_Tughra_-_Google_Art_Project.jpg",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -126,7 +132,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -156,7 +164,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -186,7 +196,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -219,7 +231,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -252,7 +266,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -285,7 +301,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -315,7 +333,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -348,6 +368,8 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/OttomanEmpireIn1683.png",
     "image_license": "Public domain",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

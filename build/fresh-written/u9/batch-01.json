@@ -26,7 +26,9 @@
       "SIO"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -54,7 +56,9 @@
       "ECN"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -82,7 +86,9 @@
       "CDI"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -115,7 +121,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png",
     "image_license": "CC BY 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -147,7 +155,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png",
     "image_license": "CC BY 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -176,7 +186,9 @@
       "CDI"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -204,7 +216,9 @@
       "CDI"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -237,7 +251,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
     "image_license": "CC BY 2.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -270,6 +286,8 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
     "image_license": "CC BY 2.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

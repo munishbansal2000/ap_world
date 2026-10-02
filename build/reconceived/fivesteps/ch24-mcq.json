@@ -1,162 +1,162 @@
 [
- {
-  "difficulty": "hard",
-  "explanation": "Eleanor Roosevelt chaired the UN Commission on Human Rights, the body that drafted the Declaration in 1946-48. (A) is wrong because the UDHR is a non-binding declaration; it created no court and no enforcement powers. (B) is wrong because its rights are declared universal, applying to all people. (C) is wrong because the General Assembly adopted it 48-0, with eight abstentions.",
-  "id": "wh-fivesteps-u9-007",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. The UDHR is a declaration of principles, not a binding treaty; it created no court or enforcement mechanism.",
-   "B": "Wrong. The Declaration proclaims rights for all members of the human family, not only the Allies.",
-   "C": "Wrong. The General Assembly adopted the Declaration 48-0 with eight abstentions; it was not rejected.",
-   "D": "Correct. Eleanor Roosevelt chaired the UN Commission on Human Rights that drafted the Declaration."
+  {
+    "difficulty": "hard",
+    "explanation": "Eleanor Roosevelt chaired the UN Commission on Human Rights, the body that drafted the Declaration in 1946-48. (A) is wrong because the UDHR is a non-binding declaration; it created no court and no enforcement powers. (B) is wrong because its rights are declared universal, applying to all people. (C) is wrong because the General Assembly adopted it 48-0, with eight abstentions.",
+    "id": "wh-fivesteps-u9-007",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The UDHR is a declaration of principles, not a binding treaty; it created no court or enforcement mechanism.",
+      "B": "Wrong. The Declaration proclaims rights for all members of the human family, not only the Allies.",
+      "C": "Wrong. The General Assembly adopted the Declaration 48-0 with eight abstentions; it was not rejected.",
+      "D": "Correct. Eleanor Roosevelt chaired the UN Commission on Human Rights that drafted the Declaration."
+    },
+    "options": [
+      "(A) It established a binding world court with enforcement powers",
+      "(B) It applied only to the Allied powers",
+      "(C) It was rejected by the General Assembly",
+      "(D) Eleanor Roosevelt chaired its drafting committee"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "source_id": "fivesteps-u9-008",
+    "source_stimulus_words": 325,
+    "stem": "Which statement about the Universal Declaration of Human Rights (1948) is most accurate?",
+    "stimulus": "",
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) It established a binding world court with enforcement powers",
-   "(B) It applied only to the Allied powers",
-   "(C) It was rejected by the General Assembly",
-   "(D) Eleanor Roosevelt chaired its drafting committee"
-  ],
-  "reasoning": "Contextualization",
-  "skill": "Contextualization",
-  "source_id": "fivesteps-u9-008",
-  "source_stimulus_words": 325,
-  "stem": "Which statement about the Universal Declaration of Human Rights (1948) is most accurate?",
-  "stimulus": "",
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "In her 1958 remarks on the Declaration's tenth anniversary, Roosevelt located human rights in 'small places, close to home' — the neighborhood, the school, the factory, farm, or office where every person lives daily life. (B) is wrong because she contrasted lived daily practice with distant institutions like courts. (C) is wrong because the Security Council is the opposite of a 'small place.' (D) is wrong because she meant the places where people actually live, not places beyond government.",
-  "id": "wh-fivesteps-u9-008",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. Roosevelt named the neighborhood, the school, the workplace — the small places of daily life — as where rights begin.",
-   "B": "Wrong. She contrasted daily lived practice with distant institutions like international courts.",
-   "C": "Wrong. The Security Council is a great-power chamber, the opposite of a 'small place, close to home.'",
-   "D": "Wrong. She meant the ordinary places where people live, not regions beyond any government's reach."
+  {
+    "difficulty": "hard",
+    "explanation": "In her 1958 remarks on the Declaration's tenth anniversary, Roosevelt located human rights in 'small places, close to home' — the neighborhood, the school, the factory, farm, or office where every person lives daily life. (B) is wrong because she contrasted lived daily practice with distant institutions like courts. (C) is wrong because the Security Council is the opposite of a 'small place.' (D) is wrong because she meant the places where people actually live, not places beyond government.",
+    "id": "wh-fivesteps-u9-008",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Roosevelt named the neighborhood, the school, the workplace — the small places of daily life — as where rights begin.",
+      "B": "Wrong. She contrasted daily lived practice with distant institutions like international courts.",
+      "C": "Wrong. The Security Council is a great-power chamber, the opposite of a 'small place, close to home.'",
+      "D": "Wrong. She meant the ordinary places where people live, not regions beyond any government's reach."
+    },
+    "options": [
+      "(A) Neighborhoods, schools, and workplaces of daily life",
+      "(B) The courtrooms of international tribunals at The Hague",
+      "(C) The chambers of the UN Security Council",
+      "(D) Remote regions beyond the reach of any government"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "source_id": "fivesteps-u9-009",
+    "source_stimulus_words": 325,
+    "stem": "Roosevelt's phrase 'small places, close to home' referred to which of the following?",
+    "stimulus": "",
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) Neighborhoods, schools, and workplaces of daily life",
-   "(B) The courtrooms of international tribunals at The Hague",
-   "(C) The chambers of the UN Security Council",
-   "(D) Remote regions beyond the reach of any government"
-  ],
-  "reasoning": "Contextualization",
-  "skill": "Contextualization",
-  "source_id": "fivesteps-u9-009",
-  "source_stimulus_words": 325,
-  "stem": "Roosevelt's phrase 'small places, close to home' referred to which of the following?",
-  "stimulus": "",
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "Though not legally binding, the UDHR supplied a ready-made vocabulary of universal rights — equality, dignity, non-discrimination — that new states wove into constitutions to signal modernity and win international legitimacy. (A) is wrong because the UDHR was a declaration, not a binding treaty; states could not be compelled by it. (B) is wrong because many new states eagerly adopted rights language rather than rejecting it. (C) is wrong because the Declaration proclaimed itself a 'common standard of achievement for all peoples and all nations,' not a Europe-only document.",
-  "id": "wh-fivesteps-u9-009",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. The UDHR was a declaration of principles, not a legally binding treaty enforceable against states.",
-   "B": "Wrong. Many newly independent states eagerly incorporated rights language rather than rejecting it.",
-   "C": "Wrong. The Declaration proclaimed itself a common standard for all peoples and nations, not a Europe-only text.",
-   "D": "Correct. New states adopted the Declaration's vocabulary of universal rights to claim modernity and international legitimacy."
+  {
+    "difficulty": "hard",
+    "explanation": "Though not legally binding, the UDHR supplied a ready-made vocabulary of universal rights — equality, dignity, non-discrimination — that new states wove into constitutions to signal modernity and win international legitimacy. (A) is wrong because the UDHR was a declaration, not a binding treaty; states could not be compelled by it. (B) is wrong because many new states eagerly adopted rights language rather than rejecting it. (C) is wrong because the Declaration proclaimed itself a 'common standard of achievement for all peoples and all nations,' not a Europe-only document.",
+    "id": "wh-fivesteps-u9-009",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. The UDHR was a declaration of principles, not a legally binding treaty enforceable against states.",
+      "B": "Wrong. Many newly independent states eagerly incorporated rights language rather than rejecting it.",
+      "C": "Wrong. The Declaration proclaimed itself a common standard for all peoples and nations, not a Europe-only text.",
+      "D": "Correct. New states adopted the Declaration's vocabulary of universal rights to claim modernity and international legitimacy."
+    },
+    "options": [
+      "(A) It was a binding treaty that compelled all states to obey it",
+      "(B) Newly independent states universally rejected its principles",
+      "(C) It applied only to European nations",
+      "(D) A model vocabulary of rights that new states adopted"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": "fivesteps-u9-010",
+    "source_stimulus_words": 325,
+    "stem": "Many newly independent nations after 1945 wrote bills of rights into their constitutions. What influence did the UDHR exert on them?",
+    "stimulus": "Paraphrase of Eleanor Roosevelt's 1958 remarks on human rights, delivered on the tenth anniversary of the Universal Declaration: Where do universal rights begin? In small places, close to home — places so small and so close that they cannot be seen on any maps of the world. Yet they are the world of the individual person: the neighborhood he lives in, the school or college he attends, the factory, farm, or office where he works. These are the places where every man, woman, and child seeks equal justice, equal opportunity, and equal dignity without discrimination. Unless these rights have meaning there, they have little meaning anywhere. Without concerted citizen action to uphold them close to home, we shall look in vain for progress in the larger world. The Declaration itself, adopted in 1948, opens by recalling that disregard for human rights produced barbarous acts that outraged the conscience of mankind, and proclaims a common standard of achievement for all peoples and nations.",
+    "stimulus_words": 162,
+    "themes": [
+      "CDI",
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) It was a binding treaty that compelled all states to obey it",
-   "(B) Newly independent states universally rejected its principles",
-   "(C) It applied only to European nations",
-   "(D) A model vocabulary of rights that new states adopted"
-  ],
-  "reasoning": "Causation",
-  "skill": "Developments and Processes",
-  "source_id": "fivesteps-u9-010",
-  "source_stimulus_words": 325,
-  "stem": "Many newly independent nations after 1945 wrote bills of rights into their constitutions. What influence did the UDHR exert on them?",
-  "stimulus": "Paraphrase of Eleanor Roosevelt's 1958 remarks on human rights, delivered on the tenth anniversary of the Universal Declaration: Where do universal rights begin? In small places, close to home — places so small and so close that they cannot be seen on any maps of the world. Yet they are the world of the individual person: the neighborhood he lives in, the school or college he attends, the factory, farm, or office where he works. These are the places where every man, woman, and child seeks equal justice, equal opportunity, and equal dignity without discrimination. Unless these rights have meaning there, they have little meaning anywhere. Without concerted citizen action to uphold them close to home, we shall look in vain for progress in the larger world. The Declaration itself, adopted in 1948, opens by recalling that disregard for human rights produced barbarous acts that outraged the conscience of mankind, and proclaims a common standard of achievement for all peoples and nations.",
-  "stimulus_words": 162,
-  "themes": [
-   "CDI",
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "hard",
-  "explanation": "Liberation theologians such as Gustavo Gutierrez argued that God takes the side of the poor, so the Church must move beyond charity to active struggle against the structures — military regimes, latifundia, foreign exploitation — that produced poverty. Base communities put that into practice through collective Bible study tied to social action. (A) is wrong because the movement sought justice through organized popular action, not withdrawal from politics. (B) is wrong because it treated poverty as an injustice to be fought, not a divine decree. (D) is wrong because its focus was squarely on transforming this world, not only on salvation in the next.",
-  "id": "wh-fivesteps-u9-010",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Liberation Theology demanded Church engagement with political and economic injustice, not withdrawal from it.",
-   "B": "Wrong. The movement treated poverty as a human-made injustice to be fought, not as God's unchallengeable will.",
-   "C": "Correct. Its central claim was that the gospel requires active struggle for justice on behalf of the poor and oppressed.",
-   "D": "Wrong. Its focus was transforming conditions in this world, not only on the afterlife."
+  {
+    "difficulty": "hard",
+    "explanation": "Liberation theologians such as Gustavo Gutierrez argued that God takes the side of the poor, so the Church must move beyond charity to active struggle against the structures — military regimes, latifundia, foreign exploitation — that produced poverty. Base communities put that into practice through collective Bible study tied to social action. (A) is wrong because the movement sought justice through organized popular action, not withdrawal from politics. (B) is wrong because it treated poverty as an injustice to be fought, not a divine decree. (D) is wrong because its focus was squarely on transforming this world, not only on salvation in the next.",
+    "id": "wh-fivesteps-u9-010",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Liberation Theology demanded Church engagement with political and economic injustice, not withdrawal from it.",
+      "B": "Wrong. The movement treated poverty as a human-made injustice to be fought, not as God's unchallengeable will.",
+      "C": "Correct. Its central claim was that the gospel requires active struggle for justice on behalf of the poor and oppressed.",
+      "D": "Wrong. Its focus was transforming conditions in this world, not only on the afterlife."
+    },
+    "options": [
+      "(A) The Church should withdraw entirely from politics",
+      "(B) Poverty is God's will and should not be challenged",
+      "(C) Active struggle for social justice for the poor",
+      "(D) Theology should concern itself only with the afterlife"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": "fivesteps-u9-011",
+    "source_stimulus_words": 325,
+    "stem": "Latin American Liberation Theology of the 1960s-70s organized 'base communities' where the poor studied scripture together and took social action. What was the movement's central claim?",
+    "stimulus": "Paraphrase of Eleanor Roosevelt's 1958 remarks on human rights, delivered on the tenth anniversary of the Universal Declaration: Where do universal rights begin? In small places, close to home — places so small and so close that they cannot be seen on any maps of the world. Yet they are the world of the individual person: the neighborhood he lives in, the school or college he attends, the factory, farm, or office where he works. These are the places where every man, woman, and child seeks equal justice, equal opportunity, and equal dignity without discrimination. Unless these rights have meaning there, they have little meaning anywhere. Without concerted citizen action to uphold them close to home, we shall look in vain for progress in the larger world. The Declaration itself, adopted in 1948, opens by recalling that disregard for human rights produced barbarous acts that outraged the conscience of mankind, and proclaims a common standard of achievement for all peoples and nations.",
+    "stimulus_words": 162,
+    "themes": [
+      "CDI",
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 9
   },
-  "options": [
-   "(A) The Church should withdraw entirely from politics",
-   "(B) Poverty is God's will and should not be challenged",
-   "(C) Active struggle for social justice for the poor",
-   "(D) Theology should concern itself only with the afterlife"
-  ],
-  "reasoning": "Causation",
-  "skill": "Claims and Evidence in Sources",
-  "source_id": "fivesteps-u9-011",
-  "source_stimulus_words": 325,
-  "stem": "Latin American Liberation Theology of the 1960s-70s organized 'base communities' where the poor studied scripture together and took social action. What was the movement's central claim?",
-  "stimulus": "Paraphrase of Eleanor Roosevelt's 1958 remarks on human rights, delivered on the tenth anniversary of the Universal Declaration: Where do universal rights begin? In small places, close to home — places so small and so close that they cannot be seen on any maps of the world. Yet they are the world of the individual person: the neighborhood he lives in, the school or college he attends, the factory, farm, or office where he works. These are the places where every man, woman, and child seeks equal justice, equal opportunity, and equal dignity without discrimination. Unless these rights have meaning there, they have little meaning anywhere. Without concerted citizen action to uphold them close to home, we shall look in vain for progress in the larger world. The Declaration itself, adopted in 1948, opens by recalling that disregard for human rights produced barbarous acts that outraged the conscience of mankind, and proclaims a common standard of achievement for all peoples and nations.",
-  "stimulus_words": 162,
-  "themes": [
-   "CDI",
-   "SIO",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 9
- },
- {
-  "difficulty": "medium",
-  "explanation": "Western Europe built welfare states on top of market economies — private enterprise plus pensions, health care, and unemployment insurance — while the USSR ran a command economy with state ownership of nearly everything. (B) is wrong because Western Europe kept private property; abolishing it was the Soviet approach. (C) is wrong because welfare states expanded the state's economic role. (D) is wrong because pensions and health coverage were the welfare state's signature achievements.",
-  "id": "wh-fivesteps-u9-011",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. Western European welfare states combined market economies with extensive social protections — the fundamental contrast with Soviet command planning.",
-   "B": "Wrong. Abolishing private property describes the Soviet model, not Western Europe's.",
-   "C": "Wrong. Welfare states increased, not rejected, the state's role in economic life.",
-   "D": "Wrong. Pensions and health coverage were central to the Western European welfare state."
-  },
-  "options": [
-   "(A) Market economies with broad social protections",
-   "(B) They abolished all private property",
-   "(C) They rejected any state role in the economy",
-   "(D) They provided no pensions or health coverage"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Making Connections",
-  "source_id": "fivesteps-u9-012",
-  "source_stimulus_words": 0,
-  "stem": "Postwar Western European welfare states differed from the Soviet model most fundamentally in which way?",
-  "stimulus": "",
-  "stimulus_words": 0,
-  "themes": [
-   "CDI",
-   "GOV",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 9
- }
+  {
+    "difficulty": "medium",
+    "explanation": "Western Europe built welfare states on top of market economies — private enterprise plus pensions, health care, and unemployment insurance — while the USSR ran a command economy with state ownership of nearly everything. (B) is wrong because Western Europe kept private property; abolishing it was the Soviet approach. (C) is wrong because welfare states expanded the state's economic role. (D) is wrong because pensions and health coverage were the welfare state's signature achievements.",
+    "id": "wh-fivesteps-u9-011",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Western European welfare states combined market economies with extensive social protections — the fundamental contrast with Soviet command planning.",
+      "B": "Wrong. Abolishing private property describes the Soviet model, not Western Europe's.",
+      "C": "Wrong. Welfare states increased, not rejected, the state's role in economic life.",
+      "D": "Wrong. Pensions and health coverage were central to the Western European welfare state."
+    },
+    "options": [
+      "(A) Market economies with broad social protections",
+      "(B) They abolished all private property",
+      "(C) They rejected any state role in the economy",
+      "(D) They provided no pensions or health coverage"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "source_id": "fivesteps-u9-012",
+    "source_stimulus_words": 0,
+    "stem": "Postwar Western European welfare states differed from the Soviet model most fundamentally in which way?",
+    "stimulus": "",
+    "stimulus_words": 0,
+    "themes": [
+      "CDI",
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 9
+  }
 ]

@@ -26,7 +26,9 @@
       "CDI"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-002",
@@ -55,7 +57,9 @@
       "SIO"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-003",
@@ -84,7 +88,9 @@
       "CDI"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-004",
@@ -113,7 +119,9 @@
       "CDI"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-005",
@@ -142,7 +150,9 @@
       "TEC"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-006",
@@ -170,7 +180,9 @@
       "ECN"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-007",
@@ -203,7 +215,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-008",
@@ -236,7 +250,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-009",
@@ -269,7 +285,9 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "id": "wh-fresh-u2-010",
@@ -302,6 +320,8 @@
     "type": "mcq",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

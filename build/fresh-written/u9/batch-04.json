@@ -25,7 +25,9 @@
       "CDI"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -58,7 +60,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -91,7 +95,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -120,7 +126,9 @@
       "ECN"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -149,7 +157,9 @@
       "ECN"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -177,7 +187,9 @@
       "CDI"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -206,7 +218,9 @@
       "SIO"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -234,6 +248,8 @@
       "CDI"
     ],
     "type": "mcq",
-    "unit": 9
+    "unit": 9,
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

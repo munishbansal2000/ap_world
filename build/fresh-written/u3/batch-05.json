@@ -27,7 +27,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -57,7 +59,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -87,7 +91,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -117,7 +123,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -147,7 +155,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -176,7 +186,9 @@
       "GOV"
     ],
     "type": "mcq",
-    "unit": 3
+    "unit": 3,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -205,7 +217,9 @@
       "SIO"
     ],
     "type": "mcq",
-    "unit": 3
+    "unit": 3,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -234,7 +248,9 @@
       "GOV"
     ],
     "type": "mcq",
-    "unit": 3
+    "unit": 3,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -264,7 +280,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -294,7 +312,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -324,6 +344,8 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]

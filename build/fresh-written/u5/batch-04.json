@@ -1,315 +1,335 @@
 [
- {
-  "difficulty": "medium",
-  "explanation": "The image's visual argument is plain: two idle estates ride while the productive Third Estate suffers. Published in 1789 as the Estates-General met, it sided with the commoners' demand that privilege, not just poverty, was the problem.",
-  "id": "wh-fresh-u5-031",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. The bent peasant carrying the comfortable riders is a critique of the privileged estates' exemptions.",
-   "B": "Wrong. The print sympathizes with the peasant; nothing suggests laziness.",
-   "C": "Wrong. The print attacks the tax system that exempted the First and Second Estates.",
-   "D": "Wrong. The image demands the burden be lifted, not reversed onto the nobility."
+  {
+    "difficulty": "medium",
+    "explanation": "The image's visual argument is plain: two idle estates ride while the productive Third Estate suffers. Published in 1789 as the Estates-General met, it sided with the commoners' demand that privilege, not just poverty, was the problem.",
+    "id": "wh-fresh-u5-031",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The bent peasant carrying the comfortable riders is a critique of the privileged estates' exemptions.",
+      "B": "Wrong. The print sympathizes with the peasant; nothing suggests laziness.",
+      "C": "Wrong. The print attacks the tax system that exempted the First and Second Estates.",
+      "D": "Wrong. The image demands the burden be lifted, not reversed onto the nobility."
+    },
+    "options": [
+      "(A) the tax exemptions and privileges of the clergy and nobility unjustly burdened ordinary French people",
+      "(B) the Third Estate was lazy and deserved its heavy burdens",
+      "(C) the king's tax policies were fair and well-designed",
+      "(D) the exhausted nobility should be forced to carry the well-fed peasantry on its back instead, as revenge for centuries of oppression"
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "stem": "The point of view of the print's creator was most likely that:",
+    "stimulus": "French print, 1789: 'The Third Estate carrying the clergy and nobility.' A bent peasant figure, labeled the Third Estate, staggers under the weight of a plump clergyman (First Estate) riding on his back alongside a sword-bearing nobleman (Second Estate); the peasant groans while the two riders look comfortable. Chains and tax papers litter the ground.",
+    "stimulus_words": 55,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9volution_fran%C3%A7aise._Ancien_R%C3%A9gime._Caricature_sur_les_Trois-Ordres_Le_Tiers-Etat_portant_sur_son_dos_le_Clerg%C3%A9_et_la%2C_G.23830.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) the tax exemptions and privileges of the clergy and nobility unjustly burdened ordinary French people",
-   "(B) the Third Estate was lazy and deserved its heavy burdens",
-   "(C) the king's tax policies were fair and well-designed",
-   "(D) the exhausted nobility should be forced to carry the well-fed peasantry on its back instead, as revenge for centuries of oppression"
-  ],
-  "reasoning": "Causation",
-  "skill": "Sourcing and Situation",
-  "stem": "The point of view of the print's creator was most likely that:",
-  "stimulus": "French print, 1789: 'The Third Estate carrying the clergy and nobility.' A bent peasant figure, labeled the Third Estate, staggers under the weight of a plump clergyman (First Estate) riding on his back alongside a sword-bearing nobleman (Second Estate); the peasant groans while the two riders look comfortable. Chains and tax papers litter the ground.",
-  "stimulus_words": 55,
-  "themes": [
-   "SIO",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": false,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9volution_fran%C3%A7aise._Ancien_R%C3%A9gime._Caricature_sur_les_Trois-Ordres_Le_Tiers-Etat_portant_sur_son_dos_le_Clerg%C3%A9_et_la%2C_G.23830.jpg",
-  "image_license": "CC0",
-  "image_verified": "2026-10-02"
- },
- {
-  "difficulty": "hard",
-  "explanation": "The claim is about money. France's debt — swollen by aiding American independence — forced the king to call the Estates-General in 1789 to raise taxes, and the privileged estates' refusal to pay made the crisis political. Bankruptcy, not books, summoned the revolution.",
-  "id": "wh-fresh-u5-032",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. This supports the role of ideas, not the fiscal-crisis claim.",
-   "B": "Wrong. Napoleon's empire came a decade later and is irrelevant to 1789's causes.",
-   "C": "Correct. Debt plus tax exemption is the fiscal mechanism behind the Revolution's outbreak.",
-   "D": "Wrong. A cartoon cannot prove ideas alone caused anything; it is itself evidence of popular anger at privilege."
+  {
+    "difficulty": "hard",
+    "explanation": "The claim is about money. France's debt — swollen by aiding American independence — forced the king to call the Estates-General in 1789 to raise taxes, and the privileged estates' refusal to pay made the crisis political. Bankruptcy, not books, summoned the revolution.",
+    "id": "wh-fresh-u5-032",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. This supports the role of ideas, not the fiscal-crisis claim.",
+      "B": "Wrong. Napoleon's empire came a decade later and is irrelevant to 1789's causes.",
+      "C": "Correct. Debt plus tax exemption is the fiscal mechanism behind the Revolution's outbreak.",
+      "D": "Wrong. A cartoon cannot prove ideas alone caused anything; it is itself evidence of popular anger at privilege."
+    },
+    "options": [
+      "(A) Philosophes' books were bestsellers among Parisian lawyers",
+      "(B) Napoleon later built a large empire across Europe",
+      "(C) The monarchy was bankrupt from war debts, above all the American war, while the First and Second Estates paid almost no taxes",
+      "(D) The Third Estate cartoon by itself proves that Enlightenment ideas alone caused the Revolution, making any fiscal explanation unnecessary"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that France's fiscal crisis — not only Enlightenment ideas — drove the Revolution. Which evidence best supports this claim?",
+    "stimulus": "French print, 1789: 'The Third Estate carrying the clergy and nobility.' A bent peasant figure, labeled the Third Estate, staggers under the weight of a plump clergyman (First Estate) riding on his back alongside a sword-bearing nobleman (Second Estate); the peasant groans while the two riders look comfortable. Chains and tax papers litter the ground.",
+    "stimulus_words": 55,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9volution_fran%C3%A7aise._Ancien_R%C3%A9gime._Caricature_sur_les_Trois-Ordres_Le_Tiers-Etat_portant_sur_son_dos_le_Clerg%C3%A9_et_la%2C_G.23830.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Philosophes' books were bestsellers among Parisian lawyers",
-   "(B) Napoleon later built a large empire across Europe",
-   "(C) The monarchy was bankrupt from war debts, above all the American war, while the First and Second Estates paid almost no taxes",
-   "(D) The Third Estate cartoon by itself proves that Enlightenment ideas alone caused the Revolution, making any fiscal explanation unnecessary"
-  ],
-  "reasoning": "Causation",
-  "skill": "Claims and Evidence in Sources",
-  "stem": "A historian claims that France's fiscal crisis — not only Enlightenment ideas — drove the Revolution. Which evidence best supports this claim?",
-  "stimulus": "French print, 1789: 'The Third Estate carrying the clergy and nobility.' A bent peasant figure, labeled the Third Estate, staggers under the weight of a plump clergyman (First Estate) riding on his back alongside a sword-bearing nobleman (Second Estate); the peasant groans while the two riders look comfortable. Chains and tax papers litter the ground.",
-  "stimulus_words": 55,
-  "themes": [
-   "ECN",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": false,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9volution_fran%C3%A7aise._Ancien_R%C3%A9gime._Caricature_sur_les_Trois-Ordres_Le_Tiers-Etat_portant_sur_son_dos_le_Clerg%C3%A9_et_la%2C_G.23830.jpg",
-  "image_license": "CC0",
-  "image_verified": "2026-10-02"
- },
- {
-  "difficulty": "medium",
-  "explanation": "Killing the king marked the point of no return: the republic at war with Europe turned to the Terror to defend itself, and the Terror's excesses produced the backlash that let General Bonaparte seize power. The engraving captures the Revolution devouring its own starting point.",
-  "id": "wh-fresh-u5-033",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. The monarchy was not restored until 1814, after Napoleon's fall.",
-   "B": "Correct. The execution sits in the middle of the radicalization-reaction sequence.",
-   "C": "Wrong. Napoleon seized power in 1799, six years after the execution.",
-   "D": "Wrong. The Terror (1793–94) followed the Revolution's outbreak, not the reverse."
+  {
+    "difficulty": "medium",
+    "explanation": "Killing the king marked the point of no return: the republic at war with Europe turned to the Terror to defend itself, and the Terror's excesses produced the backlash that let General Bonaparte seize power. The engraving captures the Revolution devouring its own starting point.",
+    "id": "wh-fresh-u5-033",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. The monarchy was not restored until 1814, after Napoleon's fall.",
+      "B": "Correct. The execution sits in the middle of the radicalization-reaction sequence.",
+      "C": "Wrong. Napoleon seized power in 1799, six years after the execution.",
+      "D": "Wrong. The Terror (1793–94) followed the Revolution's outbreak, not the reverse."
+    },
+    "options": [
+      "(A) The execution immediately restored the monarchy to full power and brought the Revolution to a complete and final end that same year",
+      "(B) The Revolution's radicalization — war, the Terror (1793–94), and then the reaction that opened the way for Napoleon's 1799 coup",
+      "(C) Napoleon ordered the execution as his first act in power",
+      "(D) The Reign of Terror occurred before 1789 and caused the Revolution"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "The execution shown here is best understood as part of which sequence of developments?",
+    "stimulus": "Contemporary engraving (Swebach-Desfontaines, 1793): 'Supplice de Louis XVI, Place de la Révolution, le 21 Janvier 1793.' The guillotine scaffold rises over the vast square before the Garde-Meuble; Louis XVI stands on the scaffold with his executioners while mounted soldiers and a huge crowd ring the scene.",
+    "stimulus_words": 46,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/N%C2%B078_Supplice_de_Louis_XVI%2C_place_de_la_r%C3%A9volution._Le_21_Janvier_1793_ou_Ier_Pluvi%C3%B4se_An_Ier_de_la_R%C3%A9publique._G.28718.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) The execution immediately restored the monarchy to full power and brought the Revolution to a complete and final end that same year",
-   "(B) The Revolution's radicalization — war, the Terror (1793–94), and then the reaction that opened the way for Napoleon's 1799 coup",
-   "(C) Napoleon ordered the execution as his first act in power",
-   "(D) The Reign of Terror occurred before 1789 and caused the Revolution"
-  ],
-  "reasoning": "Causation",
-  "skill": "Developments and Processes",
-  "stem": "The execution shown here is best understood as part of which sequence of developments?",
-  "stimulus": "Contemporary engraving (Swebach-Desfontaines, 1793): 'Supplice de Louis XVI, Place de la Révolution, le 21 Janvier 1793.' The guillotine scaffold rises over the vast square before the Garde-Meuble; Louis XVI stands on the scaffold with his executioners while mounted soldiers and a huge crowd ring the scene.",
-  "stimulus_words": 46,
-  "themes": [
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": false,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/N%C2%B078_Supplice_de_Louis_XVI%2C_place_de_la_r%C3%A9volution._Le_21_Janvier_1793_ou_Ier_Pluvi%C3%B4se_An_Ier_de_la_R%C3%A9publique._G.28718.jpg",
-  "image_license": "CC0",
-  "image_verified": "2026-10-02"
- },
- {
-  "difficulty": "hard",
-  "explanation": "Napoleon kept the Revolution's legal and administrative reforms and spread them across Europe via the Code, but he made himself emperor, censored the press, and in 1802 restored slavery in the colonies. 'Preserved and betrayed' fits better than either extreme.",
-  "id": "wh-fresh-u5-034",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. He destroyed the republic, free press, and colonial emancipation — major reversals.",
-   "B": "Wrong. He kept the Napoleonic Code, merit-based careers, and legal equality; feudalism did not return.",
-   "C": "Wrong. He rose through the Revolution's armies and kept its administrative reforms.",
-   "D": "Correct. The mixed record — Code and equality alongside empire and censorship — is the accurate picture."
+  {
+    "difficulty": "hard",
+    "explanation": "Napoleon kept the Revolution's legal and administrative reforms and spread them across Europe via the Code, but he made himself emperor, censored the press, and in 1802 restored slavery in the colonies. 'Preserved and betrayed' fits better than either extreme.",
+    "id": "wh-fresh-u5-034",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. He destroyed the republic, free press, and colonial emancipation — major reversals.",
+      "B": "Wrong. He kept the Napoleonic Code, merit-based careers, and legal equality; feudalism did not return.",
+      "C": "Wrong. He rose through the Revolution's armies and kept its administrative reforms.",
+      "D": "Correct. The mixed record — Code and equality alongside empire and censorship — is the accurate picture."
+    },
+    "options": [
+      "(A) He was the pure continuation of the Revolution, changing none of its principles",
+      "(B) He fully restored feudalism, brought back the old hereditary nobility, and returned the Catholic Church to its complete pre-revolutionary power in France",
+      "(C) He had no connection to the Revolution and ruled as a traditional absolute monarch",
+      "(D) He preserved some revolutionary gains — legal equality and the Code — while destroying others, such as the republic and colonial emancipation"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following is the best-supported argument about Napoleon's relationship to the French Revolution's principles?",
+    "stimulus": "Contemporary engraving (Swebach-Desfontaines, 1793): 'Supplice de Louis XVI, Place de la Révolution, le 21 Janvier 1793.' The guillotine scaffold rises over the vast square before the Garde-Meuble; Louis XVI stands on the scaffold with his executioners while mounted soldiers and a huge crowd ring the scene.",
+    "stimulus_words": 46,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/N%C2%B078_Supplice_de_Louis_XVI%2C_place_de_la_r%C3%A9volution._Le_21_Janvier_1793_ou_Ier_Pluvi%C3%B4se_An_Ier_de_la_R%C3%A9publique._G.28718.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) He was the pure continuation of the Revolution, changing none of its principles",
-   "(B) He fully restored feudalism, brought back the old hereditary nobility, and returned the Catholic Church to its complete pre-revolutionary power in France",
-   "(C) He had no connection to the Revolution and ruled as a traditional absolute monarch",
-   "(D) He preserved some revolutionary gains — legal equality and the Code — while destroying others, such as the republic and colonial emancipation"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Argumentation",
-  "stem": "Which of the following is the best-supported argument about Napoleon's relationship to the French Revolution's principles?",
-  "stimulus": "Contemporary engraving (Swebach-Desfontaines, 1793): 'Supplice de Louis XVI, Place de la Révolution, le 21 Janvier 1793.' The guillotine scaffold rises over the vast square before the Garde-Meuble; Louis XVI stands on the scaffold with his executioners while mounted soldiers and a huge crowd ring the scene.",
-  "stimulus_words": 46,
-  "themes": [
-   "GOV",
-   "CDI"
-  ],
-  "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": false,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/N%C2%B078_Supplice_de_Louis_XVI%2C_place_de_la_r%C3%A9volution._Le_21_Janvier_1793_ou_Ier_Pluvi%C3%B4se_An_Ier_de_la_R%C3%A9publique._G.28718.jpg",
-  "image_license": "CC0",
-  "image_verified": "2026-10-02"
- },
- {
-  "difficulty": "hard",
-  "explanation": "The two excerpts show both pressures: organized moral-political campaigning at home and rebellion in the colonies. The 1831 Baptist War, coming just before the 1833 act, convinced many in Britain that slavery was becoming ungovernable — neither pressure alone explains the timing.",
-  "id": "wh-fresh-u5-035",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. This ignores the colonial revolts entirely, contradicting the 'multiple pressures' claim.",
-   "B": "Correct. Parliamentary campaigning plus enslaved resistance covers the two main pressures.",
-   "C": "Wrong. Planters resisted abolition fiercely; nothing was voluntary.",
-   "D": "Wrong. This is muddled — falling prices hurt planters, and Parliament did not act from pity for them."
+  {
+    "difficulty": "hard",
+    "explanation": "The two excerpts show both pressures: organized moral-political campaigning at home and rebellion in the colonies. The 1831 Baptist War, coming just before the 1833 act, convinced many in Britain that slavery was becoming ungovernable — neither pressure alone explains the timing.",
+    "id": "wh-fresh-u5-035",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. This ignores the colonial revolts entirely, contradicting the 'multiple pressures' claim.",
+      "B": "Correct. Parliamentary campaigning plus enslaved resistance covers the two main pressures.",
+      "C": "Wrong. Planters resisted abolition fiercely; nothing was voluntary.",
+      "D": "Wrong. This is muddled — falling prices hurt planters, and Parliament did not act from pity for them."
+    },
+    "options": [
+      "(A) Parliament's moral debates alone, since enslaved people never resisted",
+      "(B) Abolitionist campaigning in Britain together with enslaved people's revolts, which raised the cost and risk of slavery",
+      "(C) The voluntary decision of Caribbean planters to free their workers out of generosity",
+      "(D) A decline in sugar prices that made Parliament pity the planters"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that British abolition resulted from multiple pressures, not a single cause. Which combination of evidence best supports this claim?",
+    "stimulus": "A) British abolitionist arguments, c. 1807 (summary): abolitionists condemned the African slave trade as morally indefensible and urged Parliament to abolish it outright. B) Testimony from Jamaica's Baptist War (1831), paraphrased from rebel statements: 'We heard the King had made us free and the planters were hiding it. We will not work as slaves any longer.'",
+    "stimulus_words": 56,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Parliament's moral debates alone, since enslaved people never resisted",
-   "(B) Abolitionist campaigning in Britain together with enslaved people's revolts, which raised the cost and risk of slavery",
-   "(C) The voluntary decision of Caribbean planters to free their workers out of generosity",
-   "(D) A decline in sugar prices that made Parliament pity the planters"
-  ],
-  "reasoning": "Causation",
-  "skill": "Claims and Evidence in Sources",
-  "stem": "A historian claims that British abolition resulted from multiple pressures, not a single cause. Which combination of evidence best supports this claim?",
-  "stimulus": "A) British abolitionist arguments, c. 1807 (summary): abolitionists condemned the African slave trade as morally indefensible and urged Parliament to abolish it outright. B) Testimony from Jamaica's Baptist War (1831), paraphrased from rebel statements: 'We heard the King had made us free and the planters were hiding it. We will not work as slaves any longer.'",
-  "stimulus_words": 56,
-  "themes": [
-   "SIO",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Historians argue over whether industrial capitalism made slavery unprofitable, incompatible with free-labor ideology, or simply beside the point next to moral politics. The debate belongs to the Industrial Revolution era, when Britain was redefining what kinds of labor a modern economy should use.",
-  "id": "wh-fresh-u5-036",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. The abolition debate is inseparable from Britain's economic transformation and its free-labor ideals.",
-   "B": "Wrong. The French Revolution was four decades past; 1833 abolition needs an 1830s context.",
-   "C": "Wrong. The American Civil War (1861–65) came after British abolition, not before.",
-   "D": "Wrong. Russia freed its serfs in 1861, nearly thirty years after Britain acted."
+  {
+    "difficulty": "hard",
+    "explanation": "Historians argue over whether industrial capitalism made slavery unprofitable, incompatible with free-labor ideology, or simply beside the point next to moral politics. The debate belongs to the Industrial Revolution era, when Britain was redefining what kinds of labor a modern economy should use.",
+    "id": "wh-fresh-u5-036",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The abolition debate is inseparable from Britain's economic transformation and its free-labor ideals.",
+      "B": "Wrong. The French Revolution was four decades past; 1833 abolition needs an 1830s context.",
+      "C": "Wrong. The American Civil War (1861–65) came after British abolition, not before.",
+      "D": "Wrong. Russia freed its serfs in 1861, nearly thirty years after Britain acted."
+    },
+    "options": [
+      "(A) Britain's shift toward industrial capitalism and the era's arguments over free versus forced labor",
+      "(B) the French Revolution's immediate and direct influence on the British Parliament in the 1830s, decades after 1789",
+      "(C) the American Civil War, which forced Britain to act",
+      "(D) Russia's emancipation of the serfs, which Britain copied"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "stem": "The historical debate over why Britain abolished slavery is best understood in the context of:",
+    "stimulus": "A) British abolitionist arguments, c. 1807 (summary): abolitionists condemned the African slave trade as morally indefensible and urged Parliament to abolish it outright. B) Testimony from Jamaica's Baptist War (1831), paraphrased from rebel statements: 'We heard the King had made us free and the planters were hiding it. We will not work as slaves any longer.'",
+    "stimulus_words": 56,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Britain's shift toward industrial capitalism and the era's arguments over free versus forced labor",
-   "(B) the French Revolution's immediate and direct influence on the British Parliament in the 1830s, decades after 1789",
-   "(C) the American Civil War, which forced Britain to act",
-   "(D) Russia's emancipation of the serfs, which Britain copied"
-  ],
-  "reasoning": "Continuity and Change",
-  "skill": "Contextualization",
-  "stem": "The historical debate over why Britain abolished slavery is best understood in the context of:",
-  "stimulus": "A) British abolitionist arguments, c. 1807 (summary): abolitionists condemned the African slave trade as morally indefensible and urged Parliament to abolish it outright. B) Testimony from Jamaica's Baptist War (1831), paraphrased from rebel statements: 'We heard the King had made us free and the planters were hiding it. We will not work as slaves any longer.'",
-  "stimulus_words": 56,
-  "themes": [
-   "ECN",
-   "SIO"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Neither emancipation came from the freedpeople seizing the state; both were decreed from above — by the tsar and by wartime amendment. And both stopped short of economic freedom: serfs paid for their allotments for decades, while formerly enslaved Americans got no land, shaping inequality long afterward.",
-  "id": "wh-fresh-u5-037",
-  "key": "D",
-  "option_explanations": {
-   "A": "Wrong. Both were acts of the state, not successful revolts against it.",
-   "B": "Wrong. Neither delivered economic independence — redemption payments in Russia, landlessness in America.",
-   "C": "Wrong. No foreign army imposed either emancipation.",
-   "D": "Correct. Top-down decree plus constrained economic outcomes describes both cases."
+  {
+    "difficulty": "hard",
+    "explanation": "Neither emancipation came from the freedpeople seizing the state; both were decreed from above — by the tsar and by wartime amendment. And both stopped short of economic freedom: serfs paid for their allotments for decades, while formerly enslaved Americans got no land, shaping inequality long afterward.",
+    "id": "wh-fresh-u5-037",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong. Both were acts of the state, not successful revolts against it.",
+      "B": "Wrong. Neither delivered economic independence — redemption payments in Russia, landlessness in America.",
+      "C": "Wrong. No foreign army imposed either emancipation.",
+      "D": "Correct. Top-down decree plus constrained economic outcomes describes both cases."
+    },
+    "options": [
+      "(A) slave revolts that overthrew the government from below",
+      "(B) genuine popular revolutions from below that immediately gave freedpeople full economic independence, including free land, tools, and capital",
+      "(C) grants of freedom won by foreign military intervention",
+      "(D) top-down emancipations freeing millions but constraining freedpeople — redemption payments in Russia, landlessness in America"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "Comparing the Russian emancipation of 1861 with the American emancipation of 1865, both are best described as:",
+    "stimulus": "Approximate numbers freed by 19th-century emancipations: Russian serfs, 1861 — about 23 million; enslaved people in the United States, 1865 — about 4 million; enslaved people in the British colonies, 1833–38 — about 800,000; enslaved people in Brazil, 1888 — about 700,000.",
+    "stimulus_words": 42,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) slave revolts that overthrew the government from below",
-   "(B) genuine popular revolutions from below that immediately gave freedpeople full economic independence, including free land, tools, and capital",
-   "(C) grants of freedom won by foreign military intervention",
-   "(D) top-down emancipations freeing millions but constraining freedpeople — redemption payments in Russia, landlessness in America"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Making Connections",
-  "stem": "Comparing the Russian emancipation of 1861 with the American emancipation of 1865, both are best described as:",
-  "stimulus": "Approximate numbers freed by 19th-century emancipations: Russian serfs, 1861 — about 23 million; enslaved people in the United States, 1865 — about 4 million; enslaved people in the British colonies, 1833–38 — about 800,000; enslaved people in Brazil, 1888 — about 700,000.",
-  "stimulus_words": 42,
-  "themes": [
-   "SIO",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "medium",
-  "explanation": "Nationalist feeling — newspapers, volunteers like Garibaldi's, student movements — created the demand, but unification was executed 'from above' by existing states using war: Piedmont against Austria, Prussia against Austria and France. Ideas mobilized; armies consolidated.",
-  "id": "wh-fresh-u5-038",
-  "key": "C",
-  "option_explanations": {
-   "A": "Wrong. Napoleon's conquests came decades earlier, and his map was dismantled in 1815.",
-   "B": "Wrong. Both unifications involved major wars — against Austria, Denmark, and France.",
-   "C": "Correct. Popular nationalism plus state military power is the combination that worked.",
-   "D": "Wrong. Nationalist movements, newspapers, and volunteers were central to both unifications."
+  {
+    "difficulty": "medium",
+    "explanation": "Nationalist feeling — newspapers, volunteers like Garibaldi's, student movements — created the demand, but unification was executed 'from above' by existing states using war: Piedmont against Austria, Prussia against Austria and France. Ideas mobilized; armies consolidated.",
+    "id": "wh-fresh-u5-038",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong. Napoleon's conquests came decades earlier, and his map was dismantled in 1815.",
+      "B": "Wrong. Both unifications involved major wars — against Austria, Denmark, and France.",
+      "C": "Correct. Popular nationalism plus state military power is the combination that worked.",
+      "D": "Wrong. Nationalist movements, newspapers, and volunteers were central to both unifications."
+    },
+    "options": [
+      "(A) Napoleon personally united both countries during his conquests",
+      "(B) Both unifications were achieved by peaceful democratic votes with no wars",
+      "(C) Movements appealing to shared language and culture combined popular uprisings with the military power of Piedmont and Prussia to absorb or defeat rival states",
+      "(D) Nationalism played no role; the unifications were accidents of diplomacy"
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "stem": "Which development best explains how nationalism contributed to Italian and German unification?",
+    "stimulus": "By 1871, the patchwork of Italian and German states had become two unified nation-states: Italy under the Kingdom of Piedmont-Sardinia (proclaimed 1861) and Germany under Prussian leadership (proclaimed 1871 at Versailles).",
+    "stimulus_words": 31,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) Napoleon personally united both countries during his conquests",
-   "(B) Both unifications were achieved by peaceful democratic votes with no wars",
-   "(C) Movements appealing to shared language and culture combined popular uprisings with the military power of Piedmont and Prussia to absorb or defeat rival states",
-   "(D) Nationalism played no role; the unifications were accidents of diplomacy"
-  ],
-  "reasoning": "Causation",
-  "skill": "Developments and Processes",
-  "stem": "Which development best explains how nationalism contributed to Italian and German unification?",
-  "stimulus": "By 1871, the patchwork of Italian and German states had become two unified nation-states: Italy under the Kingdom of Piedmont-Sardinia (proclaimed 1861) and Germany under Prussian leadership (proclaimed 1871 at Versailles).",
-  "stimulus_words": 31,
-  "themes": [
-   "CDI",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5
- },
- {
-  "difficulty": "hard",
-  "explanation": "Earlier power sources tied mills to fast rivers. A fuel-efficient steam engine freed factory location, which is why Manchester and Birmingham could grow around coal and labor rather than waterfalls. Watt's rotary-motion engine — cylinder, beam, and flywheel driving mill machinery anywhere — is exactly this location-independent power source.",
-  "id": "wh-fresh-u5-039",
-  "key": "A",
-  "option_explanations": {
-   "A": "Correct. Location-independent rotary power is the engine's revolutionary contribution.",
-   "B": "Wrong. Practical railways came decades later, in the 1820s–30s.",
-   "C": "Wrong. Steam-powered factories employed more workers, including children — they did not eliminate them.",
-   "D": "Wrong. The engine burned coal to make steam; electricity came much later."
+  {
+    "difficulty": "hard",
+    "explanation": "Earlier power sources tied mills to fast rivers. A fuel-efficient steam engine freed factory location, which is why Manchester and Birmingham could grow around coal and labor rather than waterfalls. Watt's rotary-motion engine — cylinder, beam, and flywheel driving mill machinery anywhere — is exactly this location-independent power source.",
+    "id": "wh-fresh-u5-039",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Location-independent rotary power is the engine's revolutionary contribution.",
+      "B": "Wrong. Practical railways came decades later, in the 1820s–30s.",
+      "C": "Wrong. Steam-powered factories employed more workers, including children — they did not eliminate them.",
+      "D": "Wrong. The engine burned coal to make steam; electricity came much later."
+    },
+    "options": [
+      "(A) The engine provided reliable rotary power independent of water or wind, letting factories locate in cities near workers and markets",
+      "(B) The engine was immediately used to build steam railroads across every continent in the 1770s, decades before Stephenson, even in Asia",
+      "(C) Watt's engine replaced all human workers in British factories",
+      "(D) The engine was powered by electricity, the era's newest energy source"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "A historian claims that Watt's engine was a key enabling technology of the Industrial Revolution. Which evidence best supports this claim?",
+    "stimulus": "Technical diagram of a Watt steam engine, c. 1780 (from an 1878 engineering history). Labeled parts show the cylinder, the great overhead beam, the flywheel, and the centrifugal governor that regulated its speed — the rotary-motion engine able to drive mill machinery anywhere, not only beside water or a coal mine.",
+    "stimulus_words": 51,
+    "themes": [
+      "TEC",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PSM_V12_D152_Watt_steam_engine_1780.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
-  "options": [
-   "(A) The engine provided reliable rotary power independent of water or wind, letting factories locate in cities near workers and markets",
-   "(B) The engine was immediately used to build steam railroads across every continent in the 1770s, decades before Stephenson, even in Asia",
-   "(C) Watt's engine replaced all human workers in British factories",
-   "(D) The engine was powered by electricity, the era's newest energy source"
-  ],
-  "reasoning": "Causation",
-  "skill": "Claims and Evidence in Sources",
-  "stem": "A historian claims that Watt's engine was a key enabling technology of the Industrial Revolution. Which evidence best supports this claim?",
-  "stimulus": "Technical diagram of a Watt steam engine, c. 1780 (from an 1878 engineering history). Labeled parts show the cylinder, the great overhead beam, the flywheel, and the centrifugal governor that regulated its speed — the rotary-motion engine able to drive mill machinery anywhere, not only beside water or a coal mine.",
-  "stimulus_words": 51,
-  "themes": [
-   "TEC",
-   "ECN"
-  ],
-  "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": false,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PSM_V12_D152_Watt_steam_engine_1780.jpg",
-  "image_license": "Public domain",
-  "image_verified": "2026-10-02"
- },
- {
-  "difficulty": "hard",
-  "explanation": "Britain — the first industrial nation — reformed Parliament only gradually (1832) and never had a revolution, while France revolutionized politically before industrializing. The two transformations of the era were connected but not locked together; each country combined them differently.",
-  "id": "wh-fresh-u5-040",
-  "key": "B",
-  "option_explanations": {
-   "A": "Wrong. France was barely industrialized in 1789; the Revolution's causes were fiscal and political.",
-   "B": "Correct. Britain's example breaks any simple link between the two transformations.",
-   "C": "Wrong. Britain built the first factories under a monarchy with a limited franchise.",
-   "D": "Wrong. Britain industrialized without political revolution — the counterexample disproves 'always.'"
-  },
-  "options": [
-   "(A) The Industrial Revolution caused the French Revolution of 1789",
-   "(B) Britain industrialized without a political revolution, showing that deep economic transformation could occur under an existing political order",
-   "(C) Factories could only be built after democratic governments were established",
-   "(D) Industrialization and political revolution always happened together at the same time in every single country in world history without any exception whatsoever"
-  ],
-  "reasoning": "Comparison",
-  "skill": "Argumentation",
-  "stem": "Which of the following is the best-supported argument about the relationship between the Industrial Revolution and the era's political revolutions?",
-  "stimulus": "Technical diagram of a Watt steam engine, c. 1780 (from an 1878 engineering history). Labeled parts show the cylinder, the great overhead beam, the flywheel, and the centrifugal governor that regulated its speed — the rotary-motion engine able to drive mill machinery anywhere, not only beside water or a coal mine.",
-  "stimulus_words": 51,
-  "themes": [
-   "ECN",
-   "GOV"
-  ],
-  "type": "mcq",
-  "unit": 5,
-  "visual_needs_url": false,
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PSM_V12_D152_Watt_steam_engine_1780.jpg",
-  "image_license": "Public domain",
-  "image_verified": "2026-10-02"
- }
+  {
+    "difficulty": "hard",
+    "explanation": "Britain — the first industrial nation — reformed Parliament only gradually (1832) and never had a revolution, while France revolutionized politically before industrializing. The two transformations of the era were connected but not locked together; each country combined them differently.",
+    "id": "wh-fresh-u5-040",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong. France was barely industrialized in 1789; the Revolution's causes were fiscal and political.",
+      "B": "Correct. Britain's example breaks any simple link between the two transformations.",
+      "C": "Wrong. Britain built the first factories under a monarchy with a limited franchise.",
+      "D": "Wrong. Britain industrialized without political revolution — the counterexample disproves 'always.'"
+    },
+    "options": [
+      "(A) The Industrial Revolution caused the French Revolution of 1789",
+      "(B) Britain industrialized without a political revolution, showing that deep economic transformation could occur under an existing political order",
+      "(C) Factories could only be built after democratic governments were established",
+      "(D) Industrialization and political revolution always happened together at the same time in every single country in world history without any exception whatsoever"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Argumentation",
+    "stem": "Which of the following is the best-supported argument about the relationship between the Industrial Revolution and the era's political revolutions?",
+    "stimulus": "Technical diagram of a Watt steam engine, c. 1780 (from an 1878 engineering history). Labeled parts show the cylinder, the great overhead beam, the flywheel, and the centrifugal governor that regulated its speed — the rotary-motion engine able to drive mill machinery anywhere, not only beside water or a coal mine.",
+    "stimulus_words": 51,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5,
+    "visual_needs_url": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PSM_V12_D152_Watt_steam_engine_1780.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
+  }
 ]

@@ -1,1 +1,251 @@
-[{"difficulty":"medium","explanation":"The United States and Germany — linked by American loans that had propped up German recovery — fell furthest, while less exposed economies fell less. The uneven pattern shows a global economy bound together by credit and trade, so an American crisis became a world crisis.","id":"wh-fresh-u7-010","key":"B","option_explanations":{"A":"Wrong: the table shows wide variation, from −46% to −23% — the impact was not equal.","B":"Right: the steepest drops hit the economies most entangled with American finance and trade, evidence of global interdependence.","C":"Wrong: staying on gold generally made the Depression worse by preventing stimulus; no country shown escaped it.","D":"Wrong: the stock market crash was a trigger, but the table's global pattern points to deeper causes — bank failures, collapsing trade, and the gold standard."},"options":["(A) The Depression struck every industrial economy with exactly equal severity, since all nations shared the same economic system","(B) Economies most tied to American credit and exports suffered the steepest collapses, showing global interdependence","(C) Countries that stayed on the gold standard escaped the Depression entirely","(D) The Depression was caused solely by speculation on the New York stock market"],"reasoning":"Causation","skill":"Argumentation","stem":"Which of the following arguments is best supported by the data in the table?","stimulus":"Table: decline in industrial production, 1929-1932 (historical economic statistics). United States: -46%. Germany: -41%. France: -24%. Britain: -23%.","stimulus_words":18,"themes":["ECN"],"type":"mcq","unit":7},{"difficulty":"hard","explanation":"The same global shock produced different results depending on prior conditions: Germany's fragile Weimar Republic collapsed under mass unemployment, opening the way for Hitler, while America's democratic institutions absorbed the shock through New Deal reform.","id":"wh-fresh-u7-011","key":"C","option_explanations":{"A":"Wrong: the United States, Britain, and France all retained democratic government through the 1930s.","B":"Wrong: no communist party took power in any of these four countries in the 1930s.","C":"Right: identical economic shock, opposite political outcomes — the difference lay in each country's prior political stability.","D":"Wrong: their economies were hit hard (−24% and −23%); the difference was political, not the absence of economic pain."},"options":["(A) Every industrial country abandoned democracy for authoritarian rule","(B) Communist parties seized power in all four countries shown","(C) Economic crisis discredited Weimar democracy and aided the Nazi rise in Germany, while in the United States the crisis produced New Deal reforms within the democratic system","(D) Britain and France experienced no political consequences because their economies were untouched"],"reasoning":"Comparison","skill":"Making Connections","stem":"The uneven impact shown in the table helps explain which of the following contrasting political outcomes of the 1930s?","stimulus":"Table: decline in industrial production, 1929-1932 (historical economic statistics). United States: -46%. Germany: -41%. France: -24%. Britain: -23%.","stimulus_words":18,"themes":["ECN","GOV"],"type":"mcq","unit":7},{"difficulty":"medium","explanation":"In Depression-era Europe, many blamed weak parliaments for unemployment and national humiliation — especially in Germany after Versailles — and feared communist revolution. Fascism's promise of discipline, unity, and restored greatness spoke directly to those anxieties.","id":"wh-fresh-u7-012","key":"B","option_explanations":{"A":"Wrong: fascism attacked democracy and individual freedoms; it promised authority, not participation.","B":"Right: the message targeted the great fears of the early 1930s — economic ruin, national disgrace, and revolution — with a promise of order and revival.","C":"Wrong: fascists violently opposed communists; the speech names communist revolution as a threat, not a partner.","D":"Wrong: fascism was ultranationalist and pro-empire — the opposite of dismantling empires."},"options":["(A) It promised to expand democratic participation and to protect the individual freedoms of all ordinary citizens","(B) It offered national revival and order to people frightened by economic collapse and national humiliation","(C) It called on fascists and communists to share power peacefully","(D) It argued that all nations were equal and that empires should be dismantled"],"reasoning":"Causation","skill":"Argumentation","stem":"Which of the following best explains the appeal of this message to many listeners in the early 1930s?","stimulus":"Paraphrased excerpt from a 1932 speech by a fascist leader: 'Our nation has been humiliated by weak politicians and threatened by communist revolution. Only discipline, sacrifice, and devotion to the fatherland can restore our greatness.'","stimulus_words":35,"themes":["GOV","SIO"],"type":"mcq","unit":7},{"difficulty":"medium","explanation":"Despite opposite political systems, both states faced the same total-war problem: millions of men at the front and factories that still had to run. Both solved it by drawing women into industrial work.","id":"wh-fresh-u7-013","key":"A","option_explanations":{"A":"Right: both appeals answer the same manpower crisis created by mass conscription in a total war.","B":"Wrong: the Soviet appeal comes from an authoritarian state and also calls for voluntary mobilization — the pattern crossed regime types.","C":"Wrong: too strong — many women were pushed out of industrial jobs after the war; the appeals show wartime mobilization, not permanent equality.","D":"Wrong: both appeals recruit women for factory work, not combat (though some Soviet women did serve in combat units)."},"options":["(A) Reflect total-war economies' need for women's labor as men were conscripted","(B) Show that only democratic governments relied on volunteer labor","(C) Prove that the war permanently ended gender inequality in the workplace","(D) Were addressed mainly to women who were already serving in front-line combat units"],"reasoning":"Comparison","skill":"Making Connections","stem":"The two appeals are most similar in that both:","stimulus":"Two paraphrased wartime appeals, 1943. Soviet factory newspaper: 'Women of the Urals — take your husband's place at the lathe! The front needs shells.' American war poster: 'Women workers are needed in war industries — do your part for victory.'","stimulus_words":40,"themes":["SIO","ECN"],"type":"mcq","unit":7},{"difficulty":"medium","explanation":"The appeals are governments actively directing who works where — evidence that total war pushed states deep into managing labor and production, far beyond peacetime roles.","id":"wh-fresh-u7-014","key":"D","option_explanations":{"A":"Wrong: the appeals themselves are state direction of labor — the opposite of leaving production to private business.","B":"Wrong: the American appeal comes from the United States, where no battles were fought, yet mobilization was massive.","C":"Wrong: both appeals urge women into war work; discouraging women's employment came after the war, not during it.","D":"Right: government-run labor mobilization shows the state's hugely expanded economic role in total war."},"options":["(A) Wartime production was left entirely to private businesses without government direction","(B) Economic mobilization for the war affected only countries where battles were fought","(C) Governments actively discouraged women from working so that returning soldiers could reclaim their jobs","(D) States took a vastly expanded role in directing labor and production to meet military needs"],"reasoning":"Causation","skill":"Argumentation","stem":"Which of the following arguments about wartime economies is best supported by the two appeals?","stimulus":"Two paraphrased wartime appeals, 1943. Soviet factory newspaper: 'Women of the Urals — take your husband's place at the lathe! The front needs shells.' American war poster: 'Women workers are needed in war industries — do your part for victory.'","stimulus_words":40,"themes":["SIO","ECN"],"type":"mcq","unit":7},{"difficulty":"hard","explanation":"If ending the war were the only consideration, postwar diplomacy would not have entered the discussion. Evidence that planners weighed the bomb's effect on the Soviet Union shows additional motives were in play.","id":"wh-fresh-u7-015","key":"C","option_explanations":{"A":"Wrong: Japan had received a warning — the Potsdam Declaration in July 1945 demanded surrender or face destruction.","B":"Wrong: Japan's leadership was deeply divided, with hard-liners resisting surrender even after Hiroshima.","C":"Right: discussion of impressing or restraining the Soviets shows the decision involved postwar power politics, not only ending the war.","D":"Wrong: thousands of scientists worked on the Manhattan Project; only after the fact did some petition against its use."},"options":["(A) The bomb was dropped without any prior warning to Japan","(B) Japan's military leaders were unanimously eager to surrender, so the atomic bomb was completely unnecessary to end the war","(C) American planners also discussed how demonstrating the bomb would strengthen the U.S. position toward the Soviet Union in postwar negotiations","(D) Most American scientists refused to work on building the bomb"],"reasoning":"Causation","skill":"Claims and Evidence in Sources","stem":"Which of the following pieces of evidence best weakens the claim that ending the war quickly was the ONLY consideration behind the decision to use the atomic bomb?","stimulus":"Paraphrased excerpt from President Truman's public announcement, August 6, 1945: 'We have used the atomic bomb against Japan to shorten the agony of war and save American lives. We now hold a weapon of revolutionary new destructive power.'","stimulus_words":38,"themes":["GOV","TEC"],"type":"mcq","unit":7},{"difficulty":"hard","explanation":"By stressing a 'revolutionary new destructive power' now held by the United States, the announcement signals that atomic weapons had become a factor in world politics — the starting point of deterrence, arms races, and Cold War diplomacy.","id":"wh-fresh-u7-016","key":"D","option_explanations":{"A":"Wrong: 'revolutionary new destructive power' explicitly marks the bomb as different from conventional weapons.","B":"Wrong: the United States guarded atomic secrets closely after the war rather than sharing them.","C":"Wrong: the emphasis on a revolutionary new power points beyond Japan to the future of warfare itself.","D":"Right: the announcement frames the bomb as a new kind of national power with implications beyond Japan."},"options":["(A) The announcement treats the bomb as merely another conventional weapon","(B) The announcement promises to share atomic secrets equally with all nations at once","(C) The announcement is concerned only with punishing Japan and says nothing at all about future wars or conflicts to come","(D) The announcement presents American atomic weapons as a new source of power that would shape the postwar world"],"reasoning":"Continuity and Change","skill":"Argumentation","stem":"A historian argues that Truman's announcement marks the dawn of the atomic age in international relations. Which statement best supports that interpretation?","stimulus":"Paraphrased excerpt from President Truman's public announcement, August 6, 1945: 'We have used the atomic bomb against Japan to shorten the agony of war and save American lives. We now hold a weapon of revolutionary new destructive power.'","stimulus_words":38,"themes":["GOV","TEC"],"type":"mcq","unit":7},{"difficulty":"hard","explanation":"Versailles kept Germany whole but blamed and billed it, a settlement Germans resented yet could evade. After 1945 the Allies occupied and split Germany itself — control replaced punishment — and built a new collective-security body, the United Nations.","id":"wh-fresh-u7-017","key":"D","option_explanations":{"A":"Wrong: this describes Versailles (1919), not the post-1945 settlement — the map shows Germany divided, not unified.","B":"Wrong: the League was created in 1919; after World War II it was replaced by the United Nations.","C":"Wrong: Germany's colonies were taken in 1919 and never returned.","D":"Right: occupation and division were the new approach — direct Allied control rather than a treaty imposed on a sovereign Germany."},"options":["(A) Left Germany unified while punishing it with heavy reparations","(B) Created the League of Nations to enforce the peace","(C) Returned Germany's overseas colonies","(D) Imposed direct military occupation and the division of Germany instead of a punitive treaty against a unified state"],"reasoning":"Comparison","skill":"Making Connections","stem":"Compared with the Treaty of Versailles settlement of 1919, the post–World War II settlement shown on the map differed most significantly in that it:","stimulus":"Map of Allied-occupied Germany, 1945-1949. Germany is divided into four occupation zones -- American (yellow), British (green), French (blue), and Soviet (red) -- and Berlin, deep inside the Soviet zone, is likewise subdivided among the occupying powers. The Saar is separated as a French protectorate.","stimulus_words":45,"themes":["GOV"],"type":"mcq","unit":7,"image_url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Allied_occupation_in_Germany_%281945-1949%29.png","image_license":"CC BY-SA 4.0","image_verified":"2026-10-02"}]
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The United States and Germany — linked by American loans that had propped up German recovery — fell furthest, while less exposed economies fell less. The uneven pattern shows a global economy bound together by credit and trade, so an American crisis became a world crisis.",
+    "id": "wh-fresh-u7-010",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: the table shows wide variation, from −46% to −23% — the impact was not equal.",
+      "B": "Right: the steepest drops hit the economies most entangled with American finance and trade, evidence of global interdependence.",
+      "C": "Wrong: staying on gold generally made the Depression worse by preventing stimulus; no country shown escaped it.",
+      "D": "Wrong: the stock market crash was a trigger, but the table's global pattern points to deeper causes — bank failures, collapsing trade, and the gold standard."
+    },
+    "options": [
+      "(A) The Depression struck every industrial economy with exactly equal severity, since all nations shared the same economic system",
+      "(B) Economies most tied to American credit and exports suffered the steepest collapses, showing global interdependence",
+      "(C) Countries that stayed on the gold standard escaped the Depression entirely",
+      "(D) The Depression was caused solely by speculation on the New York stock market"
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments is best supported by the data in the table?",
+    "stimulus": "Table: decline in industrial production, 1929-1932 (historical economic statistics). United States: -46%. Germany: -41%. France: -24%. Britain: -23%.",
+    "stimulus_words": 18,
+    "themes": [
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The same global shock produced different results depending on prior conditions: Germany's fragile Weimar Republic collapsed under mass unemployment, opening the way for Hitler, while America's democratic institutions absorbed the shock through New Deal reform.",
+    "id": "wh-fresh-u7-011",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: the United States, Britain, and France all retained democratic government through the 1930s.",
+      "B": "Wrong: no communist party took power in any of these four countries in the 1930s.",
+      "C": "Right: identical economic shock, opposite political outcomes — the difference lay in each country's prior political stability.",
+      "D": "Wrong: their economies were hit hard (−24% and −23%); the difference was political, not the absence of economic pain."
+    },
+    "options": [
+      "(A) Every industrial country abandoned democracy for authoritarian rule",
+      "(B) Communist parties seized power in all four countries shown",
+      "(C) Economic crisis discredited Weimar democracy and aided the Nazi rise in Germany, while in the United States the crisis produced New Deal reforms within the democratic system",
+      "(D) Britain and France experienced no political consequences because their economies were untouched"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The uneven impact shown in the table helps explain which of the following contrasting political outcomes of the 1930s?",
+    "stimulus": "Table: decline in industrial production, 1929-1932 (historical economic statistics). United States: -46%. Germany: -41%. France: -24%. Britain: -23%.",
+    "stimulus_words": 18,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "In Depression-era Europe, many blamed weak parliaments for unemployment and national humiliation — especially in Germany after Versailles — and feared communist revolution. Fascism's promise of discipline, unity, and restored greatness spoke directly to those anxieties.",
+    "id": "wh-fresh-u7-012",
+    "key": "B",
+    "option_explanations": {
+      "A": "Wrong: fascism attacked democracy and individual freedoms; it promised authority, not participation.",
+      "B": "Right: the message targeted the great fears of the early 1930s — economic ruin, national disgrace, and revolution — with a promise of order and revival.",
+      "C": "Wrong: fascists violently opposed communists; the speech names communist revolution as a threat, not a partner.",
+      "D": "Wrong: fascism was ultranationalist and pro-empire — the opposite of dismantling empires."
+    },
+    "options": [
+      "(A) It promised to expand democratic participation and to protect the individual freedoms of all ordinary citizens",
+      "(B) It offered national revival and order to people frightened by economic collapse and national humiliation",
+      "(C) It called on fascists and communists to share power peacefully",
+      "(D) It argued that all nations were equal and that empires should be dismantled"
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following best explains the appeal of this message to many listeners in the early 1930s?",
+    "stimulus": "Paraphrased excerpt from a 1932 speech by a fascist leader: 'Our nation has been humiliated by weak politicians and threatened by communist revolution. Only discipline, sacrifice, and devotion to the fatherland can restore our greatness.'",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Despite opposite political systems, both states faced the same total-war problem: millions of men at the front and factories that still had to run. Both solved it by drawing women into industrial work.",
+    "id": "wh-fresh-u7-013",
+    "key": "A",
+    "option_explanations": {
+      "A": "Right: both appeals answer the same manpower crisis created by mass conscription in a total war.",
+      "B": "Wrong: the Soviet appeal comes from an authoritarian state and also calls for voluntary mobilization — the pattern crossed regime types.",
+      "C": "Wrong: too strong — many women were pushed out of industrial jobs after the war; the appeals show wartime mobilization, not permanent equality.",
+      "D": "Wrong: both appeals recruit women for factory work, not combat (though some Soviet women did serve in combat units)."
+    },
+    "options": [
+      "(A) Reflect total-war economies' need for women's labor as men were conscripted",
+      "(B) Show that only democratic governments relied on volunteer labor",
+      "(C) Prove that the war permanently ended gender inequality in the workplace",
+      "(D) Were addressed mainly to women who were already serving in front-line combat units"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The two appeals are most similar in that both:",
+    "stimulus": "Two paraphrased wartime appeals, 1943. Soviet factory newspaper: 'Women of the Urals — take your husband's place at the lathe! The front needs shells.' American war poster: 'Women workers are needed in war industries — do your part for victory.'",
+    "stimulus_words": 40,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The appeals are governments actively directing who works where — evidence that total war pushed states deep into managing labor and production, far beyond peacetime roles.",
+    "id": "wh-fresh-u7-014",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: the appeals themselves are state direction of labor — the opposite of leaving production to private business.",
+      "B": "Wrong: the American appeal comes from the United States, where no battles were fought, yet mobilization was massive.",
+      "C": "Wrong: both appeals urge women into war work; discouraging women's employment came after the war, not during it.",
+      "D": "Right: government-run labor mobilization shows the state's hugely expanded economic role in total war."
+    },
+    "options": [
+      "(A) Wartime production was left entirely to private businesses without government direction",
+      "(B) Economic mobilization for the war affected only countries where battles were fought",
+      "(C) Governments actively discouraged women from working so that returning soldiers could reclaim their jobs",
+      "(D) States took a vastly expanded role in directing labor and production to meet military needs"
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about wartime economies is best supported by the two appeals?",
+    "stimulus": "Two paraphrased wartime appeals, 1943. Soviet factory newspaper: 'Women of the Urals — take your husband's place at the lathe! The front needs shells.' American war poster: 'Women workers are needed in war industries — do your part for victory.'",
+    "stimulus_words": 40,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "If ending the war were the only consideration, postwar diplomacy would not have entered the discussion. Evidence that planners weighed the bomb's effect on the Soviet Union shows additional motives were in play.",
+    "id": "wh-fresh-u7-015",
+    "key": "C",
+    "option_explanations": {
+      "A": "Wrong: Japan had received a warning — the Potsdam Declaration in July 1945 demanded surrender or face destruction.",
+      "B": "Wrong: Japan's leadership was deeply divided, with hard-liners resisting surrender even after Hiroshima.",
+      "C": "Right: discussion of impressing or restraining the Soviets shows the decision involved postwar power politics, not only ending the war.",
+      "D": "Wrong: thousands of scientists worked on the Manhattan Project; only after the fact did some petition against its use."
+    },
+    "options": [
+      "(A) The bomb was dropped without any prior warning to Japan",
+      "(B) Japan's military leaders were unanimously eager to surrender, so the atomic bomb was completely unnecessary to end the war",
+      "(C) American planners also discussed how demonstrating the bomb would strengthen the U.S. position toward the Soviet Union in postwar negotiations",
+      "(D) Most American scientists refused to work on building the bomb"
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "stem": "Which of the following pieces of evidence best weakens the claim that ending the war quickly was the ONLY consideration behind the decision to use the atomic bomb?",
+    "stimulus": "Paraphrased excerpt from President Truman's public announcement, August 6, 1945: 'We have used the atomic bomb against Japan to shorten the agony of war and save American lives. We now hold a weapon of revolutionary new destructive power.'",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "By stressing a 'revolutionary new destructive power' now held by the United States, the announcement signals that atomic weapons had become a factor in world politics — the starting point of deterrence, arms races, and Cold War diplomacy.",
+    "id": "wh-fresh-u7-016",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: 'revolutionary new destructive power' explicitly marks the bomb as different from conventional weapons.",
+      "B": "Wrong: the United States guarded atomic secrets closely after the war rather than sharing them.",
+      "C": "Wrong: the emphasis on a revolutionary new power points beyond Japan to the future of warfare itself.",
+      "D": "Right: the announcement frames the bomb as a new kind of national power with implications beyond Japan."
+    },
+    "options": [
+      "(A) The announcement treats the bomb as merely another conventional weapon",
+      "(B) The announcement promises to share atomic secrets equally with all nations at once",
+      "(C) The announcement is concerned only with punishing Japan and says nothing at all about future wars or conflicts to come",
+      "(D) The announcement presents American atomic weapons as a new source of power that would shape the postwar world"
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "A historian argues that Truman's announcement marks the dawn of the atomic age in international relations. Which statement best supports that interpretation?",
+    "stimulus": "Paraphrased excerpt from President Truman's public announcement, August 6, 1945: 'We have used the atomic bomb against Japan to shorten the agony of war and save American lives. We now hold a weapon of revolutionary new destructive power.'",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "source_id": "original",
+    "source_stimulus_words": 0
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Versailles kept Germany whole but blamed and billed it, a settlement Germans resented yet could evade. After 1945 the Allies occupied and split Germany itself — control replaced punishment — and built a new collective-security body, the United Nations.",
+    "id": "wh-fresh-u7-017",
+    "key": "D",
+    "option_explanations": {
+      "A": "Wrong: this describes Versailles (1919), not the post-1945 settlement — the map shows Germany divided, not unified.",
+      "B": "Wrong: the League was created in 1919; after World War II it was replaced by the United Nations.",
+      "C": "Wrong: Germany's colonies were taken in 1919 and never returned.",
+      "D": "Right: occupation and division were the new approach — direct Allied control rather than a treaty imposed on a sovereign Germany."
+    },
+    "options": [
+      "(A) Left Germany unified while punishing it with heavy reparations",
+      "(B) Created the League of Nations to enforce the peace",
+      "(C) Returned Germany's overseas colonies",
+      "(D) Imposed direct military occupation and the division of Germany instead of a punitive treaty against a unified state"
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "Compared with the Treaty of Versailles settlement of 1919, the post–World War II settlement shown on the map differed most significantly in that it:",
+    "stimulus": "Map of Allied-occupied Germany, 1945-1949. Germany is divided into four occupation zones -- American (yellow), British (green), French (blue), and Soviet (red) -- and Berlin, deep inside the Soviet zone, is likewise subdivided among the occupying powers. The Saar is separated as a French protectorate.",
+    "stimulus_words": 45,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Allied_occupation_in_Germany_%281945-1949%29.png",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
+  }
+]

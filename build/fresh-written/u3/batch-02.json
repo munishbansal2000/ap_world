@@ -30,7 +30,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -63,7 +65,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -96,7 +100,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -129,7 +135,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -162,7 +170,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
     "image_license": "CC BY-SA 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -195,7 +205,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -228,7 +240,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -261,7 +275,9 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "medium",
@@ -294,7 +310,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
     "image_license": "CC BY 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -327,7 +345,9 @@
     "visual_needs_url": false,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
     "image_license": "CC BY 4.0",
-    "image_verified": "2026-10-02"
+    "image_verified": "2026-10-02",
+    "source_id": "original",
+    "source_stimulus_words": 0
   },
   {
     "difficulty": "hard",
@@ -357,6 +377,8 @@
     ],
     "type": "mcq",
     "unit": 3,
-    "visual_needs_url": false
+    "visual_needs_url": false,
+    "source_id": "original",
+    "source_stimulus_words": 0
   }
 ]
