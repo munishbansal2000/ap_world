@@ -1,159 +1,159 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "The memorial's economic charge is that monks and nuns produce nothing yet consume what farmers and silk-workers make — they 'wait for the farmers to feed them.' That argument only works if one assumes a proper social order requires every person to perform productive labor in their assigned role, the Confucian ideal of each fulfilling their station. (A) is wrong because Confucian political theory grounded legitimacy in moral governance, not in Buddhist ritual. (B) is wrong because the memorial demands monks return to productive life, not that they be taxed at higher rates. (D) is wrong because Confucianism concerned itself with social order and ritual propriety, not with banning religious belief as such.",
-    "id": "wh-fivesteps-u1-006",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. Confucian legitimacy rested on moral governance and the Mandate of Heaven, not on Buddhist ritual performance.",
-      "B": "Wrong. The memorial wants monks returned to farming and weaving, not taxed — taxation is not the remedy it proposes.",
-      "C": "Correct. The charge assumes everyone must do productive work in their social role; idle monks violate that ordered division of labor.",
-      "D": "Wrong. Confucianism did not forbid religious belief outright; its concern was social order and proper ritual conduct."
-    },
-    "options": [
-      "(A) Imperial legitimacy depends on Buddhist ritual",
-      "(B) Monks should pay higher taxes than farmers",
-      "(C) A well-ordered society requires everyone to perform productive work in their social role",
-      "(D) Confucianism forbids all religious belief"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u1-017",
-    "source_stimulus_words": 153,
-    "stem": "The memorial's complaint that monks and nuns 'wait for the farmers to feed them' rests most directly on which Confucian assumption?",
-    "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
-    "stimulus_words": 143,
-    "themes": [
-      "GOV",
-      "CDI",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 1
+ {
+  "difficulty": "hard",
+  "explanation": "The memorial's economic charge is that monks and nuns produce nothing yet consume what farmers and silk-workers make — they 'wait for the farmers to feed them.' That argument only works if one assumes a proper social order requires every person to perform productive labor in their assigned role, the Confucian ideal of each fulfilling their station. (A) is wrong because Confucian political theory grounded legitimacy in moral governance, not in Buddhist ritual. (B) is wrong because the memorial demands monks return to productive life, not that they be taxed at higher rates. (D) is wrong because Confucianism concerned itself with social order and ritual propriety, not with banning religious belief as such.",
+  "id": "wh-fivesteps-u1-006",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Confucian legitimacy rested on moral governance and the Mandate of Heaven, not on Buddhist ritual performance.",
+   "B": "Wrong. The memorial wants monks returned to farming and weaving, not taxed — taxation is not the remedy it proposes.",
+   "C": "Correct. The charge assumes everyone must do productive work in their social role; idle monks violate that ordered division of labor.",
+   "D": "Wrong. Confucianism did not forbid religious belief outright; its concern was social order and proper ritual conduct."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Beyond the economic drain, monasteries gathered thousands of followers whose primary loyalty ran to the Buddhist clergy rather than the throne, and they controlled vast tax-exempt estates — a parallel structure of wealth and allegiance outside imperial command. That made them a political rival, not merely an economic irritant. (A) is wrong because monks did not openly preach armed rebellion; the threat was structural. (B) is wrong because the Tang court was famously cosmopolitan, welcoming foreign merchants, religions, and customs. (D) is wrong because no Tang emperor sought to abandon the throne for the monastery.",
-    "id": "wh-fivesteps-u1-007",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The memorial describes no open preaching of rebellion; the danger it depicts is structural, not insurrectionary.",
-      "B": "Wrong. The Tang court was famously cosmopolitan, hosting foreign merchants, envoys, and religions; foreignness alone was not banned.",
-      "C": "Correct. Tax-exempt monastic estates and mass followings loyal to the clergy formed a rival center of wealth and allegiance outside imperial control.",
-      "D": "Wrong. No Tang emperor attempted to abandon the throne to become a monk."
-    },
-    "options": [
-      "(A) Monks openly preached armed rebellion against the dynasty",
-      "(B) The Tang court banned all foreign religions, merchants, envoys, and customs from the empire",
-      "(C) Monasteries commanded mass loyalty and tax-exempt wealth outside imperial control",
-      "(D) The emperor wished to abdicate and join a monastery"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u1-018",
-    "source_stimulus_words": 153,
-    "stem": "Beyond the economic burden described in the memorial, what political concern made Buddhist monasteries threatening to Tang rulers?",
-    "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
-    "stimulus_words": 143,
-    "themes": [
-      "GOV",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 1
+  "options": [
+   "(A) Imperial legitimacy depends on Buddhist ritual",
+   "(B) Monks should pay higher taxes than farmers",
+   "(C) All must do productive work in their role",
+   "(D) Confucianism forbids all religious belief"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-017",
+  "source_stimulus_words": 153,
+  "stem": "The memorial's complaint that monks and nuns 'wait for the farmers to feed them' rests most directly on which Confucian assumption?",
+  "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
+  "stimulus_words": 143,
+  "themes": [
+   "GOV",
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Beyond the economic drain, monasteries gathered thousands of followers whose primary loyalty ran to the Buddhist clergy rather than the throne, and they controlled vast tax-exempt estates — a parallel structure of wealth and allegiance outside imperial command. That made them a political rival, not merely an economic irritant. (A) is wrong because monks did not openly preach armed rebellion; the threat was structural. (B) is wrong because the Tang court was famously cosmopolitan, welcoming foreign merchants, religions, and customs. (D) is wrong because no Tang emperor sought to abandon the throne for the monastery.",
+  "id": "wh-fivesteps-u1-007",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The memorial describes no open preaching of rebellion; the danger it depicts is structural, not insurrectionary.",
+   "B": "Wrong. The Tang court was famously cosmopolitan, hosting foreign merchants, envoys, and religions; foreignness alone was not banned.",
+   "C": "Correct. Tax-exempt monastic estates and mass followings loyal to the clergy formed a rival center of wealth and allegiance outside imperial control.",
+   "D": "Wrong. No Tang emperor attempted to abandon the throne to become a monk."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Silla's tribute missions to Chang'an were the price of admission to the Chinese world order: by ritually acknowledging Chinese superiority, Silla secured access to Chinese markets, luxury goods, and diplomatic backing while running its own affairs — a mutually useful fiction of hierarchy. (A) is wrong because China withdrew its forces from Korea as part of the arrangement; no occupation sustained it. (B) is wrong because silk and porcelain technology flowed from China outward, not the reverse. (C) is wrong because Silla was the peninsular power seeking Chinese favor, not a raider of China's northern frontier.",
-    "id": "wh-fivesteps-u1-008",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. Chinese forces withdrew from Korea under the tribute arrangement; no military occupation maintained Chinese influence.",
-      "B": "Wrong. Silk manufacture and porcelain technology spread outward from China; China did not adopt them from Korea.",
-      "C": "Wrong. Silla sought Chinese favor through tribute missions; it was not raiding across China's northern border.",
-      "D": "Correct. Tribute was a diplomatic ritual acknowledging Chinese superiority in exchange for trade access and security, while Silla governed itself."
-    },
-    "options": [
-      "(A) A system maintained by permanent Chinese military occupation of Korea",
-      "(B) A cultural program through which China adopted Korean technology",
-      "(C) A defensive alliance against Silla raids on China's frontier",
-      "(D) A diplomatic ritual of acknowledged superiority exchanged for trade access and security"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u1-019",
-    "source_stimulus_words": 153,
-    "stem": "The Silla kingdom's participation in China's tribute system is best understood as which of the following?",
-    "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
-    "stimulus_words": 143,
-    "themes": [
-      "GOV",
-      "ECN",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 1
+  "options": [
+   "(A) Monks openly preached armed rebellion against the dynasty",
+   "(B) The Tang court banned all foreign religions, merchants, envoys, and customs from the empire",
+   "(C) Monasteries commanded mass loyalty and tax-exempt wealth outside imperial control",
+   "(D) The emperor wished to abdicate and join a monastery"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-018",
+  "source_stimulus_words": 153,
+  "stem": "Beyond the economic burden described in the memorial, what political concern made Buddhist monasteries threatening to Tang rulers?",
+  "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
+  "stimulus_words": 143,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Silla's tribute missions to Chang'an were the price of admission to the Chinese world order: by ritually acknowledging Chinese superiority, Silla secured access to Chinese markets, luxury goods, and diplomatic backing while running its own affairs — a mutually useful fiction of hierarchy. (A) is wrong because China withdrew its forces from Korea as part of the arrangement; no occupation sustained it. (B) is wrong because silk and porcelain technology flowed from China outward, not the reverse. (C) is wrong because Silla was the peninsular power seeking Chinese favor, not a raider of China's northern frontier.",
+  "id": "wh-fivesteps-u1-008",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Chinese forces withdrew from Korea under the tribute arrangement; no military occupation maintained Chinese influence.",
+   "B": "Wrong. Silk manufacture and porcelain technology spread outward from China; China did not adopt them from Korea.",
+   "C": "Wrong. Silla sought Chinese favor through tribute missions; it was not raiding across China's northern border.",
+   "D": "Correct. Tribute was a diplomatic ritual acknowledging Chinese superiority in exchange for trade access and security, while Silla governed itself."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "As Ashikaga shogunal authority decayed in the fifteenth century, lesser vassals and provincial deputies overthrew their own superiors and seized their domains — the age of gekokujo, 'the low overthrowing the high.' This produced the Sengoku daimyo, warlords who consolidated taxation and public works within their own territories. (B) is wrong because women lost, not gained, political standing in this era. (C) is wrong because the emperor remained a figurehead while real power devolved downward. (D) is wrong because Sino-Japanese relations were not defined by antagonism in this period.",
-    "id": "wh-fivesteps-u1-009",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Gekokujo — inferiors overthrowing superiors — describes vassals seizing power from declining shogunal authority and ruling as regional warlords.",
-      "B": "Wrong. Women's political standing declined, not rose, during Japan's age of warring states.",
-      "C": "Wrong. The emperor stayed a ceremonial figurehead; power moved down to warlords, not up to the throne.",
-      "D": "Wrong. The fifteenth century was not defined by Sino-Japanese antagonism; the key development was internal political fragmentation."
-    },
-    "options": [
-      "(A) Gekokujo, the overthrow of superiors by their own vassals",
-      "(B) The granting of political equality to women",
-      "(C) The restoration of the emperor as central political figure",
-      "(D) The rise of sustained Sino-Japanese military antagonism"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u1-020",
-    "source_stimulus_words": 0,
-    "stem": "As shogunal authority decayed in fifteenth-century Japan, lesser vassals seized power from their own superiors. This pattern is best described as which of the following?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 1
+  "options": [
+   "(A) A system maintained by permanent Chinese military occupation of Korea",
+   "(B) A cultural program through which China adopted Korean technology",
+   "(C) A defensive alliance against Silla raids on China's frontier",
+   "(D) Acknowledged Chinese superiority in exchange for trade and security"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-019",
+  "source_stimulus_words": 153,
+  "stem": "The Silla kingdom's participation in China's tribute system is best understood as which of the following?",
+  "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
+  "stimulus_words": 143,
+  "themes": [
+   "GOV",
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "As Ashikaga shogunal authority decayed in the fifteenth century, lesser vassals and provincial deputies overthrew their own superiors and seized their domains — the age of gekokujo, 'the low overthrowing the high.' This produced the Sengoku daimyo, warlords who consolidated taxation and public works within their own territories. (B) is wrong because women lost, not gained, political standing in this era. (C) is wrong because the emperor remained a figurehead while real power devolved downward. (D) is wrong because Sino-Japanese relations were not defined by antagonism in this period.",
+  "id": "wh-fivesteps-u1-009",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Gekokujo — inferiors overthrowing superiors — describes vassals seizing power from declining shogunal authority and ruling as regional warlords.",
+   "B": "Wrong. Women's political standing declined, not rose, during Japan's age of warring states.",
+   "C": "Wrong. The emperor stayed a ceremonial figurehead; power moved down to warlords, not up to the throne.",
+   "D": "Wrong. The fifteenth century was not defined by Sino-Japanese antagonism; the key development was internal political fragmentation."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Song emperors elevated civil scholar-officials and distrusted the military, funding defense poorly and paying tribute to the Khitan Liao and later the Jurchen Jin to buy peace. That policy kept the dynasty culturally brilliant but militarily soft, so northern nomadic powers could eventually overwhelm it. (A) is wrong because famine-as-protest does not explain the Song's military collapse. (B) is wrong because the Delhi Sultanate, far to the southwest, did not blockade Song trade routes. (D) is wrong because the opium crisis belongs to the nineteenth century, not the Song.",
-    "id": "wh-fivesteps-u1-010",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. Peasant protest over land policy does not account for the Song's military vulnerability to nomadic conquest.",
-      "B": "Wrong. The Delhi Sultanate did not blockade Song trade routes; it lay far to the southwest of Song territory.",
-      "C": "Correct. The Song privileged civil officials over soldiers and bought peace with tribute payments, leaving the dynasty unable to resist northern invaders.",
-      "D": "Wrong. The opium crisis struck China in the nineteenth century, some six hundred years after the Song fell."
-    },
-    "options": [
-      "(A) Peasant protests against land reform caused empire-wide famine",
-      "(B) The Delhi Sultanate blockaded the Silk Roads with its armies, cutting off all Song trade with the west",
-      "(C) The dynasty privileged civil officials over the military and bought peace with tribute payments",
-      "(D) Widespread opium use caused social and economic collapse"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u1-021",
-    "source_stimulus_words": 0,
-    "stem": "Which Song policy best explains why the dynasty remained vulnerable to northern nomadic powers despite its wealth?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "ENV"
-    ],
-    "type": "mcq",
-    "unit": 1
-  }
+  "options": [
+   "(A) Gekokujo, the overthrow of superiors by their own vassals",
+   "(B) The granting of political equality to women",
+   "(C) The restoration of the emperor as central political figure",
+   "(D) The rise of sustained Sino-Japanese military antagonism"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-020",
+  "source_stimulus_words": 0,
+  "stem": "As shogunal authority decayed in fifteenth-century Japan, lesser vassals seized power from their own superiors. This pattern is best described as which of the following?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Song emperors elevated civil scholar-officials and distrusted the military, funding defense poorly and paying tribute to the Khitan Liao and later the Jurchen Jin to buy peace. That policy kept the dynasty culturally brilliant but militarily soft, so northern nomadic powers could eventually overwhelm it. (A) is wrong because famine-as-protest does not explain the Song's military collapse. (B) is wrong because the Delhi Sultanate, far to the southwest, did not blockade Song trade routes. (D) is wrong because the opium crisis belongs to the nineteenth century, not the Song.",
+  "id": "wh-fivesteps-u1-010",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Peasant protest over land policy does not account for the Song's military vulnerability to nomadic conquest.",
+   "B": "Wrong. The Delhi Sultanate did not blockade Song trade routes; it lay far to the southwest of Song territory.",
+   "C": "Correct. The Song privileged civil officials over soldiers and bought peace with tribute payments, leaving the dynasty unable to resist northern invaders.",
+   "D": "Wrong. The opium crisis struck China in the nineteenth century, some six hundred years after the Song fell."
+  },
+  "options": [
+   "(A) Peasant protests against land reform caused empire-wide famine",
+   "(B) The Delhi Sultanate blockaded the Silk Roads with its armies, cutting off all Song trade with the west",
+   "(C) The dynasty privileged civil officials over the military and bought peace with tribute payments",
+   "(D) Widespread opium use caused social and economic collapse"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-021",
+  "source_stimulus_words": 0,
+  "stem": "Which Song policy best explains why the dynasty remained vulnerable to northern nomadic powers despite its wealth?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 1
+ }
 ]

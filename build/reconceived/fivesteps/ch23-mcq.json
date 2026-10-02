@@ -1,96 +1,96 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "The image places a laptop — the emblem of the digital age — in the hands of a child and an elderly woman outside a rural house in Myanmar, a developing country. It shows digital technology reaching far beyond wealthy cities into the developing world. (A) is wrong because the image celebrates access, not cultural destruction; no indigenous practice is shown being harmed. (B) is wrong because the elderly woman shares the laptop, disproving any young-only claim. (D) is wrong because nothing in the image indicates the laptop is used for business.",
-    "id": "wh-fivesteps-u9-004",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The image shows technology arriving, not indigenous culture being destroyed; no tradition is depicted as harmed.",
-      "B": "Wrong. The elderly woman uses the laptop too, disproving the claim that only the young can master it.",
-      "C": "Correct. A laptop shared by a child and an elder outside a rural Myanmar house shows digital technology spreading into the developing world.",
-      "D": "Wrong. Nothing in the image indicates the laptop serves business purposes."
-    },
-    "options": [
-      "(A) Technology is destroying indigenous cultures",
-      "(B) Only young people can learn to use computers",
-      "(C) Digital technology is spreading deep into the developing world",
-      "(D) Laptops in developing countries are used only for business"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u9-005",
-    "source_stimulus_words": 23,
-    "stem": "Image B is a photograph showing a boy and an elderly woman sharing a laptop in front of a rural house in Myanmar. What does this image best illustrate?",
-    "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
-    "stimulus_words": 36,
-    "themes": [
-      "CDI",
-      "GOV",
-      "TEC"
-    ],
-    "type": "mcq",
-    "unit": 9
+ {
+  "difficulty": "hard",
+  "explanation": "The image places a laptop — the emblem of the digital age — in the hands of a child and an elderly woman outside a rural house in Myanmar, a developing country. It shows digital technology reaching far beyond wealthy cities into the developing world. (A) is wrong because the image celebrates access, not cultural destruction; no indigenous practice is shown being harmed. (B) is wrong because the elderly woman shares the laptop, disproving any young-only claim. (D) is wrong because nothing in the image indicates the laptop is used for business.",
+  "id": "wh-fivesteps-u9-004",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The image shows technology arriving, not indigenous culture being destroyed; no tradition is depicted as harmed.",
+   "B": "Wrong. The elderly woman uses the laptop too, disproving the claim that only the young can master it.",
+   "C": "Correct. A laptop shared by a child and an elder outside a rural Myanmar house shows digital technology spreading into the developing world.",
+   "D": "Wrong. Nothing in the image indicates the laptop serves business purposes."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "The children share physical space but inhabit separate digital worlds — together yet alone. The image warns that devices can erode face-to-face interaction even among people sitting side by side. (B) is wrong because the image says nothing about what the phones cost. (C) is wrong because the children are ignoring the outdoors, not enjoying it. (D) is wrong because the entire point of the image is technology's visible social effect.",
-    "id": "wh-fivesteps-u9-005",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Children sitting together yet each isolated in a phone shows devices eroding face-to-face interaction.",
-      "B": "Wrong. The image gives no information about the price of the smartphones.",
-      "C": "Wrong. The children ignore their outdoor surroundings; they are not shown enjoying them.",
-      "D": "Wrong. The image's whole point is that technology visibly reshapes social interaction."
-    },
-    "options": [
-      "(A) Digital devices can isolate people even in shared physical spaces",
-      "(B) Smartphones are now cheap enough for every child",
-      "(C) Technology encourages children to enjoy the outdoors",
-      "(D) Technology has no effect on social life"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u9-006",
-    "source_stimulus_words": 23,
-    "stem": "Image A shows children sitting together outdoors, each absorbed in a smartphone and not speaking to one another. What social concern does the image raise?",
-    "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
-    "stimulus_words": 36,
-    "themes": [
-      "GOV",
-      "TEC",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 9
+  "options": [
+   "(A) Technology is destroying indigenous cultures",
+   "(B) Only young people can learn to use computers",
+   "(C) Digital technology reaching the developing world",
+   "(D) Laptops in developing countries are used only for business"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u9-005",
+  "source_stimulus_words": 23,
+  "stem": "Image B is a photograph showing a boy and an elderly woman sharing a laptop in front of a rural house in Myanmar. What does this image best illustrate?",
+  "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
+  "stimulus_words": 36,
+  "themes": [
+   "CDI",
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The children share physical space but inhabit separate digital worlds — together yet alone. The image warns that devices can erode face-to-face interaction even among people sitting side by side. (B) is wrong because the image says nothing about what the phones cost. (C) is wrong because the children are ignoring the outdoors, not enjoying it. (D) is wrong because the entire point of the image is technology's visible social effect.",
+  "id": "wh-fivesteps-u9-005",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Children sitting together yet each isolated in a phone shows devices eroding face-to-face interaction.",
+   "B": "Wrong. The image gives no information about the price of the smartphones.",
+   "C": "Wrong. The children ignore their outdoor surroundings; they are not shown enjoying them.",
+   "D": "Wrong. The image's whole point is that technology visibly reshapes social interaction."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Phone networks were built to carry the human voice as audio, not computer data as bits. The modem bridged that gap by modulating digital data into sound for transmission and demodulating it back at the other end — which is why early connections literally sang and screeched. (B) is wrong because the modem did not change the speed of light or the physical limits of wires. (C) is wrong because the modem connected computers to phone lines; it did not replace computers. (D) is wrong because television signals traveled by broadcast and cable, a separate technology.",
-    "id": "wh-fivesteps-u9-006",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The modem converted digital data into audio signals phone lines could carry, and converted them back on receipt.",
-      "B": "Wrong. The modem did not alter the speed of light or the physical limits of copper wire.",
-      "C": "Wrong. The modem linked computers to telephone lines; it did not replace the computer itself.",
-      "D": "Wrong. Television traveled by broadcast and cable systems, not through dial-up modems."
-    },
-    "options": [
-      "(A) It translated digital data into audio signals and back again",
-      "(B) It increased the speed of light through copper wire to accelerate transmission",
-      "(C) It replaced the need for a home computer",
-      "(D) It transmitted television signals into homes"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u9-007",
-    "source_stimulus_words": 23,
-    "stem": "Early home internet connections ran over telephone lines built for voice calls. What problem did the modem solve?",
-    "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
-    "stimulus_words": 36,
-    "themes": [
-      "TEC"
-    ],
-    "type": "mcq",
-    "unit": 9
-  }
+  "options": [
+   "(A) Devices can isolate people sharing a space",
+   "(B) Smartphones are now cheap enough for every child",
+   "(C) Technology encourages children to enjoy the outdoors",
+   "(D) Technology has no effect on social life"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u9-006",
+  "source_stimulus_words": 23,
+  "stem": "Image A shows children sitting together outdoors, each absorbed in a smartphone and not speaking to one another. What social concern does the image raise?",
+  "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
+  "stimulus_words": 36,
+  "themes": [
+   "GOV",
+   "TEC",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Phone networks were built to carry the human voice as audio, not computer data as bits. The modem bridged that gap by modulating digital data into sound for transmission and demodulating it back at the other end — which is why early connections literally sang and screeched. (B) is wrong because the modem did not change the speed of light or the physical limits of wires. (C) is wrong because the modem connected computers to phone lines; it did not replace computers. (D) is wrong because television signals traveled by broadcast and cable, a separate technology.",
+  "id": "wh-fivesteps-u9-006",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The modem converted digital data into audio signals phone lines could carry, and converted them back on receipt.",
+   "B": "Wrong. The modem did not alter the speed of light or the physical limits of copper wire.",
+   "C": "Wrong. The modem linked computers to telephone lines; it did not replace the computer itself.",
+   "D": "Wrong. Television traveled by broadcast and cable systems, not through dial-up modems."
+  },
+  "options": [
+   "(A) It translated digital data into audio signals and back again",
+   "(B) It increased the speed of light through copper wire to accelerate transmission",
+   "(C) It replaced the need for a home computer",
+   "(D) It transmitted television signals into homes"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u9-007",
+  "source_stimulus_words": 23,
+  "stem": "Early home internet connections ran over telephone lines built for voice calls. What problem did the modem solve?",
+  "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
+  "stimulus_words": 36,
+  "themes": [
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 9
+ }
 ]

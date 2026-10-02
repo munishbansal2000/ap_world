@@ -1,94 +1,94 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "The Washington Consensus prescribed privatization, deregulation, open trade, and fiscal discipline — the policy translation of neoliberal faith that free markets allocate resources best and generate growth. (A) is wrong because Marxism condemns markets as exploitative, the opposite of the Consensus. (C) is wrong because mercantilism seeks state-managed trade surpluses, not open markets. (D) is wrong because Keynesianism endorses active government demand management, which the Consensus rejected.",
-    "id": "wh-fivesteps-u9-001",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Marxism holds that markets exploit workers; it is the opposite of the market-celebrating Consensus.",
-      "B": "Correct. Privatization, deregulation, and open trade embody neoliberal faith in free markets as the engine of growth.",
-      "C": "Wrong. Mercantilism pursues state-managed trade surpluses, not open and deregulated markets.",
-      "D": "Wrong. Keynesianism calls for active government management of demand, which the Washington Consensus rejected."
-    },
-    "options": [
-      "(A) Marxism",
-      "(B) Neoliberalism",
-      "(C) Mercantilism",
-      "(D) Keynesianism"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u9-002",
-    "source_stimulus_words": 32,
-    "stem": "The 'Washington Consensus' of the 1990s urged developing nations to privatize state firms, deregulate business, and open their markets to foreign trade. Which economic philosophy did it embody?",
-    "stimulus": "One economist argues that an effective strategy for encouraging democracy is the spread of markets. Another adds that globalization and free trade spur economic growth and bring lower prices on many goods.",
-    "stimulus_words": 32,
-    "themes": [
-      "ECN",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 9
+ {
+  "difficulty": "hard",
+  "explanation": "The 1997 East Asian crisis shook faith in the Consensus: critics argued that the rapid capital-market liberalization it prescribed had made developing economies vulnerable to sudden outflows, and the IMF's austerity prescriptions deepened the recessions. (A) is wrong because the Soviet collapse initially seemed to vindicate market reform, not challenge it. (B) is wrong because the WTO embodied the Consensus's open-trade agenda. (D) is wrong because the euro was a European integration project, not a verdict on development policy.",
+  "id": "wh-fivesteps-u9-001",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The Soviet collapse initially appeared to vindicate the Washington Consensus, not to challenge it.",
+   "B": "Wrong. The WTO's founding extended the open-trade agenda the Consensus promoted.",
+   "C": "Correct. Critics blamed the 1997 crisis partly on hasty capital-market liberalization and faulted IMF austerity for deepening it.",
+   "D": "Wrong. The euro was a European monetary-integration project, not a judgment on the Consensus's development prescriptions."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Since 1978 China has built one of the world's great market economies while the Communist Party has tightened, not loosened, political control — most visibly in 1989 and after. Marketization without democratization directly contradicts the claim that economic freedom produces political freedom. (A) is wrong because South Korea's market economy did accompany a transition to democracy. (B) is wrong because Taiwan similarly democratized as it grew. (C) is wrong because Eastern Europe's market transitions followed the collapse of one-party rule.",
-    "id": "wh-fivesteps-u9-002",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. South Korea's market-led growth did accompany a transition to democratic rule.",
-      "B": "Wrong. Taiwan's economic development accompanied its democratization in the 1980s-90s.",
-      "C": "Wrong. Eastern Europe's market transitions came with the end of one-party communist rule.",
-      "D": "Correct. Four decades of Chinese market reform have coincided with continued — and often tightened — authoritarian rule."
-    },
-    "options": [
-      "(A) South Korea after 1960",
-      "(B) Taiwan after 1970",
-      "(C) Eastern Europe after 1989",
-      "(D) China after 1978"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u9-003",
-    "source_stimulus_words": 32,
-    "stem": "One economist claims that spreading markets is an effective strategy for encouraging democracy. Which case most challenges the claim that market reform leads to political liberalization?",
-    "stimulus": "One economist argues that an effective strategy for encouraging democracy is the spread of markets. Another adds that globalization and free trade spur economic growth and bring lower prices on many goods.",
-    "stimulus_words": 32,
-    "themes": [
-      "ECN",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 9
+  "options": [
+   "(A) The collapse of the Soviet Union",
+   "(B) The founding of the WTO in 1995",
+   "(C) The East Asian financial crisis of 1997",
+   "(D) The adoption of the euro as Europe's common currency"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u9-002",
+  "source_stimulus_words": 32,
+  "stem": "Which development most directly challenged the Washington Consensus in the late 1990s?",
+  "stimulus": "",
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Since 1978 China has built one of the world's great market economies while the Communist Party has tightened, not loosened, political control — most visibly in 1989 and after. Marketization without democratization directly contradicts the claim that economic freedom produces political freedom. (A) is wrong because South Korea's market economy did accompany a transition to democracy. (B) is wrong because Taiwan similarly democratized as it grew. (C) is wrong because Eastern Europe's market transitions followed the collapse of one-party rule.",
+  "id": "wh-fivesteps-u9-002",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. South Korea's market-led growth did accompany a transition to democratic rule.",
+   "B": "Wrong. Taiwan's economic development accompanied its democratization in the 1980s-90s.",
+   "C": "Wrong. Eastern Europe's market transitions came with the end of one-party communist rule.",
+   "D": "Correct. Four decades of Chinese market reform have coincided with continued — and often tightened — authoritarian rule."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Both speakers celebrate open markets and competition; lowering tariffs is the signature policy of that creed, expanding trade and lowering consumer prices. (A) is wrong because nationalizing oil industries replaces markets with state control. (C) is wrong because strict import quotas restrict the free trade both speakers praise. (D) is wrong because government price-fixing violates the market mechanism at the heart of their argument.",
-    "id": "wh-fivesteps-u9-003",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Nationalizing oil industries replaces market allocation with state control — the opposite of their position.",
-      "B": "Correct. Lower tariffs expand free trade and competition, the core of what both speakers advocate.",
-      "C": "Wrong. Strict import quotas restrict trade, contradicting both speakers' praise of open markets.",
-      "D": "Wrong. Government price-fixing overrides the market mechanism both speakers defend."
-    },
-    "options": [
-      "(A) Nationalizing oil industries",
-      "(B) Reducing tariffs between nations",
-      "(C) Imposing strict import quotas",
-      "(D) Fixing prices by government decree"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u9-004",
-    "source_stimulus_words": 32,
-    "stem": "Both speakers praise free trade and open markets. Which policy would both most likely support?",
-    "stimulus": "One economist argues that an effective strategy for encouraging democracy is the spread of markets. Another adds that globalization and free trade spur economic growth and bring lower prices on many goods.",
-    "stimulus_words": 32,
-    "themes": [
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 9
-  }
+  "options": [
+   "(A) South Korea after 1960",
+   "(B) Taiwan after 1970",
+   "(C) Eastern Europe after 1989",
+   "(D) China after 1978"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u9-003",
+  "source_stimulus_words": 32,
+  "stem": "One economist claims that spreading markets is an effective strategy for encouraging democracy. Which case most challenges the claim that market reform leads to political liberalization?",
+  "stimulus": "One economist argues that an effective strategy for encouraging democracy is the spread of markets. Another adds that globalization and free trade spur economic growth and bring lower prices on many goods.",
+  "stimulus_words": 32,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Both speakers celebrate open markets and competition; lowering tariffs is the signature policy of that creed, expanding trade and lowering consumer prices. (A) is wrong because nationalizing oil industries replaces markets with state control. (C) is wrong because strict import quotas restrict the free trade both speakers praise. (D) is wrong because government price-fixing violates the market mechanism at the heart of their argument.",
+  "id": "wh-fivesteps-u9-003",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Nationalizing oil industries replaces market allocation with state control — the opposite of their position.",
+   "B": "Correct. Lower tariffs expand free trade and competition, the core of what both speakers advocate.",
+   "C": "Wrong. Strict import quotas restrict trade, contradicting both speakers' praise of open markets.",
+   "D": "Wrong. Government price-fixing overrides the market mechanism both speakers defend."
+  },
+  "options": [
+   "(A) Nationalizing oil industries",
+   "(B) Reducing tariffs between nations",
+   "(C) Imposing strict import quotas",
+   "(D) Fixing prices by government decree"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u9-004",
+  "source_stimulus_words": 32,
+  "stem": "Both speakers praise free trade and open markets. Which policy would both most likely support?",
+  "stimulus": "One economist argues that an effective strategy for encouraging democracy is the spread of markets. Another adds that globalization and free trade spur economic growth and bring lower prices on many goods.",
+  "stimulus_words": 32,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ }
 ]

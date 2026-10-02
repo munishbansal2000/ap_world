@@ -1,126 +1,126 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "Caribbean sugar plantations were brutally labor-intensive: cane had to be cut by hand and processed immediately, and the work killed enslaved laborers so rapidly that planters constantly imported replacements. As European demand for sugar soared in the 1700s, the Caribbean became the largest single destination for the transatlantic slave trade. (A) is wrong because tobacco drove earlier Chesapeake demand, not the eighteenth-century Caribbean surge. (C) is wrong because wheat was not a Caribbean plantation crop worked by enslaved gangs. (D) is wrong because coffee's great expansion as a slave-grown crop came later and centered elsewhere.",
-    "id": "wh-fivesteps-u4-006",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Tobacco drove earlier demand in the Chesapeake, not the eighteenth-century Caribbean surge.",
-      "B": "Correct. Sugar's labor-intensive cultivation and soaring European demand made the Caribbean the largest destination for enslaved Africans.",
-      "C": "Wrong. Wheat was not grown on Caribbean slave plantations.",
-      "D": "Wrong. Coffee became a major slave-grown crop later and centered in other regions, not the eighteenth-century Caribbean boom."
-    },
-    "options": [
-      "(A) Tobacco",
-      "(B) Sugar",
-      "(C) Wheat",
-      "(D) Coffee"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u4-023",
-    "source_stimulus_words": 0,
-    "stem": "Which crop's expanding cultivation in the eighteenth-century Caribbean most directly drove rising demand for enslaved labor?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "ECN",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 4
+ {
+  "difficulty": "hard",
+  "explanation": "Caribbean sugar plantations were brutally labor-intensive: cane had to be cut by hand and processed immediately, and the work killed enslaved laborers so rapidly that planters constantly imported replacements. As European demand for sugar soared in the 1700s, the Caribbean became the largest single destination for the transatlantic slave trade. (A) is wrong because tobacco drove earlier Chesapeake demand, not the eighteenth-century Caribbean surge. (C) is wrong because wheat was not a Caribbean plantation crop worked by enslaved gangs. (D) is wrong because coffee's great expansion as a slave-grown crop came later and centered elsewhere.",
+  "id": "wh-fivesteps-u4-006",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Tobacco drove earlier demand in the Chesapeake, not the eighteenth-century Caribbean surge.",
+   "B": "Correct. Sugar's labor-intensive cultivation and soaring European demand made the Caribbean the largest destination for enslaved Africans.",
+   "C": "Wrong. Wheat was not grown on Caribbean slave plantations.",
+   "D": "Wrong. Coffee became a major slave-grown crop later and centered in other regions, not the eighteenth-century Caribbean boom."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "The Atlantic crossing, though enormous, was only one branch of a wider world of enslavement: millions more Africans were held within Africa itself — in households, armies, farms, and mines — than ever boarded Atlantic ships. (A) is wrong because the transatlantic trade was historically massive and transformative; 'only one part' does not mean insignificant. (B) is wrong because African slave systems varied widely and differed from Caribbean plantation gang labor. (D) is wrong because African states and merchants were major participants in capturing and holding enslaved people.",
-    "id": "wh-fivesteps-u4-007",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The transatlantic trade was enormous and transformative; being one part of a larger picture does not make it insignificant.",
-      "B": "Wrong. African systems of enslavement varied widely and differed in organization from Caribbean plantation slavery.",
-      "C": "Correct. Millions more Africans were enslaved within Africa than crossed the Atlantic, so the Atlantic trade was one branch of wider slave systems.",
-      "D": "Wrong. African states and merchants were major participants in capturing and holding enslaved people."
-    },
-    "options": [
-      "(A) The transatlantic slave trade was historically insignificant",
-      "(B) All African slavery was organized exactly like Caribbean plantation slavery",
-      "(C) The Atlantic trade was one branch of wider systems of enslavement that held even more people within Africa",
-      "(D) Europeans captured and held more enslaved Africans than Africans did"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u4-024",
-    "source_stimulus_words": 0,
-    "stem": "Historians estimate that more enslaved Africans remained within Africa than were shipped across the Atlantic. What does this best illustrate about the era's slave systems?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 4
+  "options": [
+   "(A) Tobacco",
+   "(B) Sugar",
+   "(C) Wheat",
+   "(D) Coffee"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-023",
+  "source_stimulus_words": 0,
+  "stem": "Which crop's expanding cultivation in the eighteenth-century Caribbean most directly drove rising demand for enslaved labor?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Atlantic crossing, though enormous, was only one branch of a wider world of enslavement: millions more Africans were held within Africa itself — in households, armies, farms, and mines — than ever boarded Atlantic ships. (A) is wrong because the transatlantic trade was historically massive and transformative; 'only one part' does not mean insignificant. (B) is wrong because African slave systems varied widely and differed from Caribbean plantation gang labor. (D) is wrong because African states and merchants were major participants in capturing and holding enslaved people.",
+  "id": "wh-fivesteps-u4-007",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The transatlantic trade was enormous and transformative; being one part of a larger picture does not make it insignificant.",
+   "B": "Wrong. African systems of enslavement varied widely and differed in organization from Caribbean plantation slavery.",
+   "C": "Correct. Millions more Africans were enslaved within Africa than crossed the Atlantic, so the Atlantic trade was one branch of wider slave systems.",
+   "D": "Wrong. African states and merchants were major participants in capturing and holding enslaved people."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Enslaved people preserved African deities and rituals by identifying them with Catholic saints — outwardly practicing the masters' religion while inwardly sustaining their own. That blending of two traditions under coercion is syncretism as cultural resistance. (B) is wrong because the practices show African beliefs surviving, not being abandoned. (C) is wrong because the African content persisted inside the Catholic forms; conversion was not complete. (D) is wrong because these were religious adaptations, not armed uprisings.",
-    "id": "wh-fivesteps-u4-008",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Mapping African spirits onto Catholic saints blended two traditions, preserving African identity under coercion.",
-      "B": "Wrong. The practices show African beliefs surviving inside Catholic forms, not being abandoned.",
-      "C": "Wrong. African deities and rituals persisted within the Catholic overlay; conversion did not erase them.",
-      "D": "Wrong. These were religious and cultural adaptations, not armed rebellions."
-    },
-    "options": [
-      "(A) The preservation of African religious identity by blending it with Catholicism",
-      "(B) The complete abandonment of African religious beliefs",
-      "(C) The total success of Catholic conversion efforts",
-      "(D) The organization of armed rebellion against enslavers"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u4-025",
-    "source_stimulus_words": 0,
-    "stem": "In Brazil, enslaved Africans identified Catholic saints with Yoruba orixas, and in Haiti they mapped African spirits onto Catholic saints. These practices best illustrate which response to enslavement?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 4
+  "options": [
+   "(A) The transatlantic slave trade was historically insignificant",
+   "(B) All African slavery was organized exactly like Caribbean plantation slavery",
+   "(C) Wider systems of enslavement held even more people within Africa",
+   "(D) Europeans captured and held more enslaved Africans than Africans did"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-024",
+  "source_stimulus_words": 0,
+  "stem": "Historians estimate that more enslaved Africans remained within Africa than were shipped across the Atlantic. What does this best illustrate about the era's slave systems?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Enslaved people preserved African deities and rituals by identifying them with Catholic saints — outwardly practicing the masters' religion while inwardly sustaining their own. That blending of two traditions under coercion is syncretism as cultural resistance. (B) is wrong because the practices show African beliefs surviving, not being abandoned. (C) is wrong because the African content persisted inside the Catholic forms; conversion was not complete. (D) is wrong because these were religious adaptations, not armed uprisings.",
+  "id": "wh-fivesteps-u4-008",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Mapping African spirits onto Catholic saints blended two traditions, preserving African identity under coercion.",
+   "B": "Wrong. The practices show African beliefs surviving inside Catholic forms, not being abandoned.",
+   "C": "Wrong. African deities and rituals persisted within the Catholic overlay; conversion did not erase them.",
+   "D": "Wrong. These were religious and cultural adaptations, not armed rebellions."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Cheap European cloth flooded West African markets, and local weavers could not match its price. With manufactured imports readily available, there was little incentive or opportunity to develop local industry — the classic pattern by which the triangular trade discouraged African manufacturing. (A) is wrong because no African industrial revolution followed this trade pattern. (C) is wrong because the trade demonstrably reshaped African production. (D) is wrong because Africa exported raw materials and captives, not finished manufactured goods, in this exchange.",
-    "id": "wh-fivesteps-u4-009",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. The trade pattern discouraged rather than created African industrial development.",
-      "B": "Correct. Cheap imported cloth undercut local weavers, removing the incentive and opportunity to build local manufacturing.",
-      "C": "Wrong. The influx of European manufactures demonstrably reshaped African production.",
-      "D": "Wrong. In this exchange Africa exported raw materials and captives, not finished manufactured goods."
-    },
-    "options": [
-      "(A) It sparked an African industrial revolution",
-      "(B) Local industries could not compete with cheap imports, discouraging manufacturing",
-      "(C) It had no measurable effect on African production",
-      "(D) It increased African exports of finished manufactured goods"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u4-026",
-    "source_stimulus_words": 0,
-    "stem": "European merchants sold cheap manufactured textiles in West Africa while buying raw materials and captives. What was the long-term effect on African textile production?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "ECN",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 4
-  }
+  "options": [
+   "(A) Blending African religion with Catholicism",
+   "(B) The complete abandonment of African religious beliefs",
+   "(C) The total success of Catholic conversion efforts",
+   "(D) The organization of armed rebellion against enslavers"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-025",
+  "source_stimulus_words": 0,
+  "stem": "In Brazil, enslaved Africans identified Catholic saints with Yoruba orixas, and in Haiti they mapped African spirits onto Catholic saints. These practices best illustrate which response to enslavement?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Cheap European cloth flooded West African markets, and local weavers could not match its price. With manufactured imports readily available, there was little incentive or opportunity to develop local industry — the classic pattern by which the triangular trade discouraged African manufacturing. (A) is wrong because no African industrial revolution followed this trade pattern. (C) is wrong because the trade demonstrably reshaped African production. (D) is wrong because Africa exported raw materials and captives, not finished manufactured goods, in this exchange.",
+  "id": "wh-fivesteps-u4-009",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The trade pattern discouraged rather than created African industrial development.",
+   "B": "Correct. Cheap imported cloth undercut local weavers, removing the incentive and opportunity to build local manufacturing.",
+   "C": "Wrong. The influx of European manufactures demonstrably reshaped African production.",
+   "D": "Wrong. In this exchange Africa exported raw materials and captives, not finished manufactured goods."
+  },
+  "options": [
+   "(A) It sparked an African industrial revolution",
+   "(B) Cheap imports undercut local industries",
+   "(C) It had no measurable effect on African production",
+   "(D) It increased African exports of finished manufactured goods"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-026",
+  "source_stimulus_words": 0,
+  "stem": "European merchants sold cheap manufactured textiles in West Africa while buying raw materials and captives. What was the long-term effect on African textile production?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 4
+ }
 ]

@@ -1,159 +1,159 @@
 [
-  {
-    "difficulty": "medium",
-    "explanation": "British capital built the railroads, ports, and mines that carried Argentine wheat and beef, Chilean copper, and Brazilian coffee to world markets — but the profits, the manufactured imports, and the financial control stayed largely in British hands. Latin America exported raw materials and imported finished goods, the classic neocolonial division of labor. (A) is wrong because Latin America industrialized very little in the nineteenth century. (B) is wrong because investment flowed from Britain to Latin America, not the reverse. (C) is wrong because the investments were profit-seeking ventures, not charitable gifts.",
-    "id": "wh-fivesteps-u6-005",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. Latin America saw little nineteenth-century industrialization; it remained a primary-product exporter.",
-      "B": "Wrong. Capital flowed from Britain into Latin America, not the other way around.",
-      "C": "Wrong. These were profit-seeking investments in mines, railroads, and ports, not charitable projects.",
-      "D": "Correct. British-financed infrastructure locked Latin America into exporting raw materials and importing manufactures — neocolonial dependency."
-    },
-    "options": [
-      "(A) Latin America industrialized ahead of Europe",
-      "(B) A flow of investment capital from Latin America to Britain",
-      "(C) Charitable British development aid with no profit motive",
-      "(D) Export of raw materials and import of manufactures under foreign financial control"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u6-009",
-    "source_stimulus_words": 0,
-    "stem": "British investors financed Argentine railroads and Chilean mines in the 1800s. What pattern did this investment create?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "ECN",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 6
+ {
+  "difficulty": "medium",
+  "explanation": "British capital built the railroads, ports, and mines that carried Argentine wheat and beef, Chilean copper, and Brazilian coffee to world markets — but the profits, the manufactured imports, and the financial control stayed largely in British hands. Latin America exported raw materials and imported finished goods, the classic neocolonial division of labor. (A) is wrong because Latin America industrialized very little in the nineteenth century. (B) is wrong because investment flowed from Britain to Latin America, not the reverse. (C) is wrong because the investments were profit-seeking ventures, not charitable gifts.",
+  "id": "wh-fivesteps-u6-005",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Latin America saw little nineteenth-century industrialization; it remained a primary-product exporter.",
+   "B": "Wrong. Capital flowed from Britain into Latin America, not the other way around.",
+   "C": "Wrong. These were profit-seeking investments in mines, railroads, and ports, not charitable projects.",
+   "D": "Correct. British-financed infrastructure locked Latin America into exporting raw materials and importing manufactures — neocolonial dependency."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Balkan Christians had risen before and been crushed; what changed in the 1820s was that Britain, France, and Russia sent fleets and armies to aid the Greeks, each hoping to gain from Ottoman dismemberment. Great Power intervention, not rebel strength alone, secured independence. (A) is wrong because the Ottomans still fielded substantial armies. (B) is wrong because the rebels fought mainly with conventional arms of the day, not industrial weaponry. (C) is wrong because the Sultan fought to keep every province; he never endorsed Balkan independence.",
-    "id": "wh-fivesteps-u6-006",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. The Ottoman Empire still fielded substantial armies in the 1820s; it was not militarily empty.",
-      "B": "Wrong. The rebels fought with conventional arms of the period, not with industrially superior weaponry.",
-      "C": "Wrong. The Sultan resisted every secession; Ottoman policy never supported Balkan independence.",
-      "D": "Correct. British, French, and Russian intervention on the rebels' behalf tipped the balance and secured Greek independence."
-    },
-    "options": [
-      "(A) The Ottoman army had ceased to exist",
-      "(B) The rebels possessed industrially superior weaponry",
-      "(C) The Sultan voluntarily granted independence to the Balkan provinces and withdrew his armies",
-      "(D) Britain, France, and Russia intervened militarily on the rebels' behalf"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u6-010",
-    "source_stimulus_words": 0,
-    "stem": "Why did the nationalist revolts in the Balkans succeed against the Ottomans in the 1820s when earlier uprisings had failed?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 6
+  "options": [
+   "(A) Latin America industrialized ahead of Europe",
+   "(B) A flow of investment capital from Latin America to Britain",
+   "(C) Charitable British development aid with no profit motive",
+   "(D) Raw materials out, manufactures in, under foreign financial control"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-009",
+  "source_stimulus_words": 0,
+  "stem": "British investors financed Argentine railroads and Chilean mines in the 1800s. What pattern did this investment create?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Balkan Christians had risen before and been crushed; what changed in the 1820s was that Britain, France, and Russia sent fleets and armies to aid the Greeks, each hoping to gain from Ottoman dismemberment. Great Power intervention, not rebel strength alone, secured independence. (A) is wrong because the Ottomans still fielded substantial armies. (B) is wrong because the rebels fought mainly with conventional arms of the day, not industrial weaponry. (C) is wrong because the Sultan fought to keep every province; he never endorsed Balkan independence.",
+  "id": "wh-fivesteps-u6-006",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The Ottoman Empire still fielded substantial armies in the 1820s; it was not militarily empty.",
+   "B": "Wrong. The rebels fought with conventional arms of the period, not with industrially superior weaponry.",
+   "C": "Wrong. The Sultan resisted every secession; Ottoman policy never supported Balkan independence.",
+   "D": "Correct. British, French, and Russian intervention on the rebels' behalf tipped the balance and secured Greek independence."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Britain craved Chinese tea, silk, and porcelain, but China wanted almost no British manufactures — so silver flowed steadily east, draining British reserves. Opium, grown in British India, was the one product Chinese consumers would buy in volume, and its sale reversed the silver flow. (A) is wrong because the Chinese government banned opium and fought to suppress it. (C) is wrong because opium was illegal in China; the trade was smuggling, not lawful commerce. (D) is wrong because missionary work was a separate enterprise from the merchants' balance-of-payments motive.",
-    "id": "wh-fivesteps-u6-007",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. The Chinese state banned opium and campaigned to suppress it; there was no official request for imports.",
-      "B": "Correct. Opium was the one commodity that sold in China in volume, reversing Britain's ruinous outflow of silver.",
-      "C": "Wrong. Opium was illegal in China; the trade operated as large-scale smuggling.",
-      "D": "Wrong. Spreading Christianity was a missionary goal, not the merchants' motive for the opium trade."
-    },
-    "options": [
-      "(A) The Chinese government requested opium imports",
-      "(B) Opium reversed Britain's costly outflow of silver to China",
-      "(C) Opium was a legal, taxed import in China",
-      "(D) Merchants wanted to spread Christianity in China"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u6-011",
-    "source_stimulus_words": 0,
-    "stem": "Why did British merchants turn to selling opium in China in the early 1800s?",
-    "stimulus": "A cartoon of the era shows a British officer forcing opium on a Chinese figure, an allusion to the trade imbalance: China bought almost no British manufactured goods, while Britain bought enormous quantities of Chinese tea, silk, and porcelain.",
-    "stimulus_words": 39,
-    "themes": [
-      "ENV",
-      "CDI",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 6
+  "options": [
+   "(A) The Ottoman army had ceased to exist",
+   "(B) The rebels possessed industrially superior weaponry",
+   "(C) The Sultan voluntarily granted independence to the Balkan provinces and withdrew his armies",
+   "(D) Britain, France, and Russia intervened militarily on the rebels' behalf"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-010",
+  "source_stimulus_words": 0,
+  "stem": "Why did the nationalist revolts in the Balkans succeed against the Ottomans in the 1820s when earlier uprisings had failed?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Britain craved Chinese tea, silk, and porcelain, but China wanted almost no British manufactures — so silver flowed steadily east, draining British reserves. Opium, grown in British India, was the one product Chinese consumers would buy in volume, and its sale reversed the silver flow. (A) is wrong because the Chinese government banned opium and fought to suppress it. (C) is wrong because opium was illegal in China; the trade was smuggling, not lawful commerce. (D) is wrong because missionary work was a separate enterprise from the merchants' balance-of-payments motive.",
+  "id": "wh-fivesteps-u6-007",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Chinese state banned opium and campaigned to suppress it; there was no official request for imports.",
+   "B": "Correct. Opium was the one commodity that sold in China in volume, reversing Britain's ruinous outflow of silver.",
+   "C": "Wrong. Opium was illegal in China; the trade operated as large-scale smuggling.",
+   "D": "Wrong. Spreading Christianity was a missionary goal, not the merchants' motive for the opium trade."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Under the treaty-port system, foreign merchants resided in designated ports under their own consular courts (extraterritoriality) and paid tariffs fixed by treaty rather than by Beijing. China kept its emperor and its territory but lost the sovereign right to govern foreigners and set its own trade taxes within its borders. (A) is wrong because the powers took only Hong Kong outright; they did not partition China into colonies. (C) is wrong because the Qing emperor remained on the throne. (D) is wrong because the treaties forced China open to foreign trade rather than sealing it shut.",
-    "id": "wh-fivesteps-u6-008",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Apart from Hong Kong, the powers did not annex Chinese territory or partition China into colonies.",
-      "B": "Correct. Extraterritoriality and treaty-fixed tariffs meant China could not govern foreigners or set trade taxes in its own ports.",
-      "C": "Wrong. The Qing emperor remained on the throne; no democratic parliament replaced him.",
-      "D": "Wrong. The treaties pried China open to foreign commerce; they did not isolate it."
-    },
-    "options": [
-      "(A) China was partitioned into European colonies governed directly by foreign powers",
-      "(B) Foreigners lived under their own laws and treaty-fixed tariffs inside China",
-      "(C) The emperor was replaced by a democratic parliament",
-      "(D) China withdrew from all foreign trade"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u6-012",
-    "source_stimulus_words": 0,
-    "stem": "The Treaty of Nanjing (1842) created 'treaty ports' in China. What did this system mean in practice?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 6
+  "options": [
+   "(A) The Chinese government requested opium imports",
+   "(B) Opium reversed Britain's silver outflow to China",
+   "(C) Opium was a legal, taxed import in China",
+   "(D) Merchants wanted to spread Christianity in China"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-011",
+  "source_stimulus_words": 0,
+  "stem": "Why did British merchants turn to selling opium in China in the early 1800s?",
+  "stimulus": "A cartoon of the era shows a British officer forcing opium on a Chinese figure, an allusion to the trade imbalance: China bought almost no British manufactured goods, while Britain bought enormous quantities of Chinese tea, silk, and porcelain.",
+  "stimulus_words": 39,
+  "themes": [
+   "ENV",
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Under the treaty-port system, foreign merchants resided in designated ports under their own consular courts (extraterritoriality) and paid tariffs fixed by treaty rather than by Beijing. China kept its emperor and its territory but lost the sovereign right to govern foreigners and set its own trade taxes within its borders. (A) is wrong because the powers took only Hong Kong outright; they did not partition China into colonies. (C) is wrong because the Qing emperor remained on the throne. (D) is wrong because the treaties forced China open to foreign trade rather than sealing it shut.",
+  "id": "wh-fivesteps-u6-008",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Apart from Hong Kong, the powers did not annex Chinese territory or partition China into colonies.",
+   "B": "Correct. Extraterritoriality and treaty-fixed tariffs meant China could not govern foreigners or set trade taxes in its own ports.",
+   "C": "Wrong. The Qing emperor remained on the throne; no democratic parliament replaced him.",
+   "D": "Wrong. The treaties pried China open to foreign commerce; they did not isolate it."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Manufactured goods — textiles, machinery, weapons — sold at far higher prices than the cotton, rubber, and minerals exchanged for them, and Western firms controlled the shipping, insurance, banking, and tariff regimes on top of it. The terms of trade thus transferred wealth steadily toward the industrial core. (A) is wrong because raw materials had real value; the issue was their low price relative to finished goods. (B) is wrong because the West sold manufactures at a profit; nothing was given away. (C) is wrong because many non-Western regions did attempt industry but were blocked by Western tariff and financial power, not by principled refusal.",
-    "id": "wh-fivesteps-u6-009",
-    "key": "D",
-    "option_explanations": {
-      "A": "Wrong. Raw materials had real value; the disadvantage lay in their low prices compared with finished manufactures.",
-      "B": "Wrong. The West sold manufactured goods at a profit; it did not distribute them freely.",
-      "C": "Wrong. Many regions attempted industrialization but were thwarted by Western economic and military power, not by their own refusal.",
-      "D": "Correct. Higher-priced manufactures plus Western control of shipping, finance, and tariffs tilted the exchange toward the industrial powers."
-    },
-    "options": [
-      "(A) Raw materials exported by non-Western regions were worthless",
-      "(B) The West distributed manufactured goods for free as part of a civilizing mission to uplift colonial markets",
-      "(C) Non-Western regions refused on principle to build any industry",
-      "(D) Manufactured goods commanded higher prices, and the West controlled shipping, finance, and tariffs"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u6-013",
-    "source_stimulus_words": 0,
-    "stem": "In the nineteenth century, non-Western regions typically exported raw materials and imported manufactured goods. Why did this pattern favor the industrialized West?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "ECN",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 6
-  }
+  "options": [
+   "(A) China was partitioned into European colonies governed directly by foreign powers",
+   "(B) Foreigners lived under their own laws and treaty-fixed tariffs inside China",
+   "(C) The emperor was replaced by a democratic parliament",
+   "(D) China withdrew from all foreign trade"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-012",
+  "source_stimulus_words": 0,
+  "stem": "The Treaty of Nanjing (1842) created 'treaty ports' in China. What did this system mean in practice?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Manufactured goods — textiles, machinery, weapons — sold at far higher prices than the cotton, rubber, and minerals exchanged for them, and Western firms controlled the shipping, insurance, banking, and tariff regimes on top of it. The terms of trade thus transferred wealth steadily toward the industrial core. (A) is wrong because raw materials had real value; the issue was their low price relative to finished goods. (B) is wrong because the West sold manufactures at a profit; nothing was given away. (C) is wrong because many non-Western regions did attempt industry but were blocked by Western tariff and financial power, not by principled refusal.",
+  "id": "wh-fivesteps-u6-009",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Raw materials had real value; the disadvantage lay in their low prices compared with finished manufactures.",
+   "B": "Wrong. The West sold manufactured goods at a profit; it did not distribute them freely.",
+   "C": "Wrong. Many regions attempted industrialization but were thwarted by Western economic and military power, not by their own refusal.",
+   "D": "Correct. Higher-priced manufactures plus Western control of shipping, finance, and tariffs tilted the exchange toward the industrial powers."
+  },
+  "options": [
+   "(A) Raw materials exported by non-Western regions were worthless",
+   "(B) The West distributed manufactured goods for free as part of a civilizing mission to uplift colonial markets",
+   "(C) Non-Western regions refused on principle to build any industry",
+   "(D) Manufactured goods commanded higher prices, and the West controlled shipping, finance, and tariffs"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-013",
+  "source_stimulus_words": 0,
+  "stem": "In the nineteenth century, non-Western regions typically exported raw materials and imported manufactured goods. Why did this pattern favor the industrialized West?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 6
+ }
 ]

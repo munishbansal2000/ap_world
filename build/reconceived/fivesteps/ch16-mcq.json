@@ -1,66 +1,66 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "Criollos were American-born Spaniards of pure Spanish ancestry — wealthy and educated, yet barred from the viceroyalties, audiencias, and bishoprics reserved for peninsulares born in Spain. That glass ceiling turned an otherwise privileged group into revolutionaries. (A) is wrong because criollos were among the wealthiest people in the colonies, not an enslaved class. (C) is wrong because the movement sought independence from Spain, not a restoration of the Aztec empire. (D) is wrong because the grievance was exclusion from high office, not a tax distinction between the two Spanish groups.",
-    "id": "wh-fivesteps-u5-006",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. Criollos were wealthy American-born Spaniards, not an enslaved or oppressed laboring class.",
-      "B": "Correct. Peninsulares monopolized the highest colonial offices, so ambitious criollos found their advancement blocked.",
-      "C": "Wrong. The independence movement aimed to break from Spain, not to restore the Aztec empire.",
-      "D": "Wrong. The criollo grievance was exclusion from high office, not a tax code that favored peninsulares."
-    },
-    "options": [
-      "(A) They were enslaved and sought personal freedom",
-      "(B) Peninsulares monopolized the highest colonial offices, blocking criollo advancement",
-      "(C) They wanted to restore the Aztec empire",
-      "(D) Spain taxed criollos heavily while exempting peninsulares"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u5-010",
-    "source_stimulus_words": 94,
-    "stem": "Criollos were wealthy, American-born Spaniards. Why did many of them support independence from Spain?",
-    "stimulus": "In colonial Latin America, 'caste' came to mean racial lineage. Spanish elites constructed a hierarchy of peninsulares (Spaniards born in Spain), criollos (Spaniards born in the Americas), mestizos, and mulatos. Both the colonial state and the Church demanded heavier taxes and tribute from the lower categories. The obsession with purity of blood reached back to Spain's centuries of reconquest from Muslim rule, when Christian ancestry became a badge of status — an idea transplanted to the Americas and fastened onto skin color and birthplace.",
-    "stimulus_words": 84,
-    "themes": [
-      "CDI",
-      "GOV",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 5
+ {
+  "difficulty": "hard",
+  "explanation": "Criollos were American-born Spaniards of pure Spanish ancestry — wealthy and educated, yet barred from the viceroyalties, audiencias, and bishoprics reserved for peninsulares born in Spain. That glass ceiling turned an otherwise privileged group into revolutionaries. (A) is wrong because criollos were among the wealthiest people in the colonies, not an enslaved class. (C) is wrong because the movement sought independence from Spain, not a restoration of the Aztec empire. (D) is wrong because the grievance was exclusion from high office, not a tax distinction between the two Spanish groups.",
+  "id": "wh-fivesteps-u5-006",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Criollos were wealthy American-born Spaniards, not an enslaved or oppressed laboring class.",
+   "B": "Correct. Peninsulares monopolized the highest colonial offices, so ambitious criollos found their advancement blocked.",
+   "C": "Wrong. The independence movement aimed to break from Spain, not to restore the Aztec empire.",
+   "D": "Wrong. The criollo grievance was exclusion from high office, not a tax code that favored peninsulares."
   },
-  {
-    "difficulty": "hard",
-    "explanation": "Limpieza de sangre — 'purity of blood' — was forged during the Reconquista, when centuries of war against Muslim kingdoms made unmixed Christian ancestry a mark of honor and a qualification for office. Spaniards carried that mental framework to the Americas, where it hardened into the casta system ranking people by birthplace and ancestry. (A) is wrong because the Inquisition's pursuit of Protestants came later and was a different campaign. (C) is wrong because Aztec tribute lists recorded goods owed, not Spanish ideas of blood purity. (D) is wrong because the Jesuit expulsion of 1767 had nothing to do with the origins of the purity obsession.",
-    "id": "wh-fivesteps-u5-007",
-    "key": "B",
-    "option_explanations": {
-      "A": "Wrong. The Inquisition's campaign against Protestants came later; the purity concept predates it by centuries.",
-      "B": "Correct. Centuries of Reconquista warfare made unmixed Christian ancestry a status marker, an idea Spaniards transplanted to the Americas.",
-      "C": "Wrong. Aztec tribute lists recorded goods and labor owed; they did not shape Spanish notions of blood purity.",
-      "D": "Wrong. The 1767 expulsion of the Jesuits was unrelated to the origins of the purity-of-blood obsession."
-    },
-    "options": [
-      "(A) The Inquisition's trials and persecution of Protestants across Europe",
-      "(B) The centuries-long Reconquista against Muslim rule in Iberia",
-      "(C) Aztec tribute lists",
-      "(D) The expulsion of the Jesuits in 1767"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u5-011",
-    "source_stimulus_words": 94,
-    "stem": "Spanish America's obsession with 'purity of blood' originated in which earlier Spanish experience?",
-    "stimulus": "In colonial Latin America, 'caste' came to mean racial lineage. Spanish elites constructed a hierarchy of peninsulares (Spaniards born in Spain), criollos (Spaniards born in the Americas), mestizos, and mulatos. Both the colonial state and the Church demanded heavier taxes and tribute from the lower categories. The obsession with purity of blood reached back to Spain's centuries of reconquest from Muslim rule, when Christian ancestry became a badge of status — an idea transplanted to the Americas and fastened onto skin color and birthplace.",
-    "stimulus_words": 84,
-    "themes": [
-      "CDI",
-      "SIO",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 5
-  }
+  "options": [
+   "(A) They were enslaved and sought personal freedom",
+   "(B) Peninsulares blocked criollos from high office",
+   "(C) They wanted to restore the Aztec empire",
+   "(D) Spain taxed criollos heavily while exempting peninsulares"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-010",
+  "source_stimulus_words": 94,
+  "stem": "Criollos were wealthy, American-born Spaniards. Why did many of them support independence from Spain?",
+  "stimulus": "In colonial Latin America, 'caste' came to mean racial lineage. Spanish elites constructed a hierarchy of peninsulares (Spaniards born in Spain), criollos (Spaniards born in the Americas), mestizos, and mulatos. Both the colonial state and the Church demanded heavier taxes and tribute from the lower categories. The obsession with purity of blood reached back to Spain's centuries of reconquest from Muslim rule, when Christian ancestry became a badge of status — an idea transplanted to the Americas and fastened onto skin color and birthplace.",
+  "stimulus_words": 84,
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Limpieza de sangre — 'purity of blood' — was forged during the Reconquista, when centuries of war against Muslim kingdoms made unmixed Christian ancestry a mark of honor and a qualification for office. Spaniards carried that mental framework to the Americas, where it hardened into the casta system ranking people by birthplace and ancestry. (A) is wrong because the Inquisition's pursuit of Protestants came later and was a different campaign. (C) is wrong because Aztec tribute lists recorded goods owed, not Spanish ideas of blood purity. (D) is wrong because the Jesuit expulsion of 1767 had nothing to do with the origins of the purity obsession.",
+  "id": "wh-fivesteps-u5-007",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Inquisition's campaign against Protestants came later; the purity concept predates it by centuries.",
+   "B": "Correct. Centuries of Reconquista warfare made unmixed Christian ancestry a status marker, an idea Spaniards transplanted to the Americas.",
+   "C": "Wrong. Aztec tribute lists recorded goods and labor owed; they did not shape Spanish notions of blood purity.",
+   "D": "Wrong. The 1767 expulsion of the Jesuits was unrelated to the origins of the purity-of-blood obsession."
+  },
+  "options": [
+   "(A) The Inquisition's trials and persecution of Protestants across Europe",
+   "(B) The centuries-long Reconquista against Muslim rule in Iberia",
+   "(C) Aztec tribute lists",
+   "(D) The expulsion of the Jesuits in 1767"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-011",
+  "source_stimulus_words": 94,
+  "stem": "Spanish America's obsession with 'purity of blood' originated in which earlier Spanish experience?",
+  "stimulus": "In colonial Latin America, 'caste' came to mean racial lineage. Spanish elites constructed a hierarchy of peninsulares (Spaniards born in Spain), criollos (Spaniards born in the Americas), mestizos, and mulatos. Both the colonial state and the Church demanded heavier taxes and tribute from the lower categories. The obsession with purity of blood reached back to Spain's centuries of reconquest from Muslim rule, when Christian ancestry became a badge of status — an idea transplanted to the Americas and fastened onto skin color and birthplace.",
+  "stimulus_words": 84,
+  "themes": [
+   "CDI",
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ }
 ]

@@ -1,94 +1,94 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "Germany's invasion of Poland on September 1, 1939 crossed the line Britain and France had drawn at Munich: both issued ultimatums and declared war on September 3, turning a regional invasion into a world war. (B) is wrong because the USSR remained bound by the Nazi-Soviet Pact until Germany invaded it in 1941. (C) is wrong because the United States stayed neutral until Pearl Harbor in December 1941. (D) is wrong because Poland was overrun within weeks; Germany was not stopped at the border.",
-    "id": "wh-fivesteps-u7-001",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The invasion triggered the British and French ultimatums and their declarations of war on September 3, 1939.",
-      "B": "Wrong. The Soviet Union stayed neutral under the Nazi-Soviet Pact until Germany invaded it in 1941.",
-      "C": "Wrong. The United States remained neutral until the Japanese attack on Pearl Harbor in December 1941.",
-      "D": "Wrong. Poland was conquered within weeks; German forces were not halted at the Polish border."
-    },
-    "options": [
-      "(A) Britain and France declared war on Germany",
-      "(B) The Soviet Union immediately joined Britain and France",
-      "(C) The United States immediately entered the war",
-      "(D) German forces were stopped at the Polish border"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u7-015",
-    "source_stimulus_words": 0,
-    "stem": "The photograph shows German troops and tanks crossing into Poland in September 1939. What did this invasion most directly cause?",
-    "stimulus": "The photograph, dated September 1939, shows German infantry and armored vehicles advancing across the Polish frontier as Polish border posts burn in the background.",
-    "stimulus_words": 24,
-    "themes": [
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 7
+ {
+  "difficulty": "hard",
+  "explanation": "Germany's invasion of Poland on September 1, 1939 crossed the line Britain and France had drawn at Munich: both issued ultimatums and declared war on September 3, turning a regional invasion into a world war. (B) is wrong because the USSR remained bound by the Nazi-Soviet Pact until Germany invaded it in 1941. (C) is wrong because the United States stayed neutral until Pearl Harbor in December 1941. (D) is wrong because Poland was overrun within weeks; Germany was not stopped at the border.",
+  "id": "wh-fivesteps-u7-001",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The invasion triggered the British and French ultimatums and their declarations of war on September 3, 1939.",
+   "B": "Wrong. The Soviet Union stayed neutral under the Nazi-Soviet Pact until Germany invaded it in 1941.",
+   "C": "Wrong. The United States remained neutral until the Japanese attack on Pearl Harbor in December 1941.",
+   "D": "Wrong. Poland was conquered within weeks; German forces were not halted at the Polish border."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Haunted by the slaughter of World War I, British and French leaders believed that meeting Hitler's 'last territorial demand' would satisfy him and preserve peace — the logic of appeasement. (B) is wrong because by 1938 Germany was visibly rearming and strong, not weak. (C) is wrong because the Western powers distrusted Stalin and excluded the USSR from Munich. (D) is wrong because Czechoslovakia fiercely opposed dismemberment; it was sacrificed without its consent.",
-    "id": "wh-fivesteps-u7-002",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. British and French leaders believed conceding the Sudetenland would satisfy Hitler and avert another great war.",
-      "B": "Wrong. By 1938 Germany was openly rearming and demonstrably strong, not weak.",
-      "C": "Wrong. The Western powers distrusted the Soviet Union and excluded it from the Munich negotiations.",
-      "D": "Wrong. Czechoslovakia opposed its own dismemberment; it was sacrificed without being consulted."
-    },
-    "options": [
-      "(A) That satisfying Hitler's demands would preserve peace",
-      "(B) That Germany was too weak to threaten anyone",
-      "(C) That the Soviet Union would stop Hitler if he went further",
-      "(D) That Czechoslovakia wanted to join Germany"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u7-016",
-    "source_stimulus_words": 0,
-    "stem": "At Munich in 1938, Britain and France allowed Germany to annex the Sudetenland. What assumption lay behind this concession?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "CDI",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 7
+  "options": [
+   "(A) Britain and France declared war on Germany",
+   "(B) The Soviet Union immediately joined Britain and France",
+   "(C) The United States immediately entered the war",
+   "(D) German forces were stopped at the Polish border"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-015",
+  "source_stimulus_words": 0,
+  "stem": "The photograph shows German troops and tanks crossing into Poland in September 1939. What did this invasion most directly cause?",
+  "stimulus": "The photograph, dated September 1939, shows German infantry and armored vehicles advancing across the Polish frontier as Polish border posts burn in the background.",
+  "stimulus_words": 24,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Haunted by the slaughter of World War I, British and French leaders believed that meeting Hitler's 'last territorial demand' would satisfy him and preserve peace — the logic of appeasement. (B) is wrong because by 1938 Germany was visibly rearming and strong, not weak. (C) is wrong because the Western powers distrusted Stalin and excluded the USSR from Munich. (D) is wrong because Czechoslovakia fiercely opposed dismemberment; it was sacrificed without its consent.",
+  "id": "wh-fivesteps-u7-002",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. British and French leaders believed conceding the Sudetenland would satisfy Hitler and avert another great war.",
+   "B": "Wrong. By 1938 Germany was openly rearming and demonstrably strong, not weak.",
+   "C": "Wrong. The Western powers distrusted the Soviet Union and excluded it from the Munich negotiations.",
+   "D": "Wrong. Czechoslovakia opposed its own dismemberment; it was sacrificed without being consulted."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Where the Red Army stood in 1945, Soviet power stayed: Moscow installed loyal communist parties, rigged or suppressed genuine elections, and used the army and secret police to crush non-communist opposition, creating the Eastern Bloc. (B) is wrong because Eastern Europeans were denied self-determination; borders and regimes were imposed. (C) is wrong because the region was tied economically and politically to Moscow, not Western Europe. (D) is wrong because these states were not permitted an isolationist option; Soviet control was compulsory.",
-    "id": "wh-fivesteps-u7-003",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. The Red Army's presence let Moscow install loyal communist regimes and suppress opposition across the region.",
-      "B": "Wrong. Eastern Europeans were denied self-determination; regimes and borders were imposed by Moscow.",
-      "C": "Wrong. The region was bound economically and politically to the Soviet Union, not to Western Europe.",
-      "D": "Wrong. Soviet domination was compulsory; no Eastern European state was permitted an isolationist opt-out."
-    },
-    "options": [
-      "(A) The Soviet Union installed loyal communist regimes backed by the Red Army",
-      "(B) They exercised genuine self-determination",
-      "(C) They were tied economically and politically to Western Europe",
-      "(D) They adopted isolationism to avoid future wars"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u7-017",
-    "source_stimulus_words": 0,
-    "stem": "How did the Soviet Union convert its wartime military presence in Eastern Europe into lasting political domination?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "ECN"
-    ],
-    "type": "mcq",
-    "unit": 7
-  }
+  "options": [
+   "(A) That satisfying Hitler's demands would preserve peace",
+   "(B) That Germany was too weak to threaten anyone",
+   "(C) That the Soviet Union would stop Hitler if he went further",
+   "(D) That Czechoslovakia wanted to join Germany"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-016",
+  "source_stimulus_words": 0,
+  "stem": "At Munich in 1938, Britain and France allowed Germany to annex the Sudetenland. What assumption lay behind this concession?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Where the Red Army stood in 1945, Soviet power stayed: Moscow installed loyal communist parties, rigged or suppressed genuine elections, and used the army and secret police to crush non-communist opposition, creating the Eastern Bloc. (B) is wrong because Eastern Europeans were denied self-determination; borders and regimes were imposed. (C) is wrong because the region was tied economically and politically to Moscow, not Western Europe. (D) is wrong because these states were not permitted an isolationist option; Soviet control was compulsory.",
+  "id": "wh-fivesteps-u7-003",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The Red Army's presence let Moscow install loyal communist regimes and suppress opposition across the region.",
+   "B": "Wrong. Eastern Europeans were denied self-determination; regimes and borders were imposed by Moscow.",
+   "C": "Wrong. The region was bound economically and politically to the Soviet Union, not to Western Europe.",
+   "D": "Wrong. Soviet domination was compulsory; no Eastern European state was permitted an isolationist opt-out."
+  },
+  "options": [
+   "(A) Moscow installed loyal regimes backed by the Red Army",
+   "(B) They exercised genuine self-determination",
+   "(C) They were tied economically and politically to Western Europe",
+   "(D) They adopted isolationism to avoid future wars"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-017",
+  "source_stimulus_words": 0,
+  "stem": "How did the Soviet Union convert its wartime military presence in Eastern Europe into lasting political domination?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 7
+ }
 ]

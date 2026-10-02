@@ -1,96 +1,96 @@
 [
-  {
-    "difficulty": "hard",
-    "explanation": "The lit bomb aimed at the 'United India' project represents the explosive force threatening to blow it apart: Jinnah's Muslim League demand for a separate Muslim homeland, Pakistan. The cartoonist doubts a united independent India can survive that pressure. (A) is wrong because the threat in the image comes from within the Indian independence movement, not from British opposition. (B) is wrong because the bomb signals violent division, not interfaith cooperation. (D) is wrong because Japan's wartime threat to India had passed; the cartoon concerns the internal Hindu-Muslim divide.",
-    "id": "wh-fivesteps-u8-001",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. The destructive force in the cartoon comes from inside the independence movement, not from British opposition.",
-      "B": "Wrong. A lit bomb signals violent division, not Hindu-Muslim economic cooperation.",
-      "C": "Correct. The bomb represents Jinnah's demand for a separate Pakistan, threatening to shatter the united-India project.",
-      "D": "Wrong. Japan's wartime threat had passed; the cartoon is about the internal divide over partition."
-    },
-    "options": [
-      "(A) British opposition to Indian independence",
-      "(B) Hindu-Muslim economic cooperation",
-      "(C) Jinnah's demand for a separate Muslim state of Pakistan",
-      "(D) A renewed Japanese invasion of India"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u8-001",
-    "source_stimulus_words": 0,
-    "stem": "A 1940s cartoon shows a figure labeled 'United India' assembling a delicate machine while Muhammad Ali Jinnah holds a lit bomb toward it. What does the bomb most likely represent?",
-    "stimulus": "The cartoon shows a workman labeled 'United India' carefully assembling a complex machine. Beside him, Muhammad Ali Jinnah leans in holding a sputtering, lit bomb directly over the mechanism.",
-    "stimulus_words": 29,
-    "themes": [
-      "CDI",
-      "GOV"
-    ],
-    "type": "mcq",
-    "unit": 8
+ {
+  "difficulty": "hard",
+  "explanation": "The lit bomb aimed at the 'United India' project represents the explosive force threatening to blow it apart: Jinnah's Muslim League demand for a separate Muslim homeland, Pakistan. The cartoonist doubts a united independent India can survive that pressure. (A) is wrong because the threat in the image comes from within the Indian independence movement, not from British opposition. (B) is wrong because the bomb signals violent division, not interfaith cooperation. (D) is wrong because Japan's wartime threat to India had passed; the cartoon concerns the internal Hindu-Muslim divide.",
+  "id": "wh-fivesteps-u8-001",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The destructive force in the cartoon comes from inside the independence movement, not from British opposition.",
+   "B": "Wrong. A lit bomb signals violent division, not Hindu-Muslim economic cooperation.",
+   "C": "Correct. The bomb represents Jinnah's demand for a separate Pakistan, threatening to shatter the united-India project.",
+   "D": "Wrong. Japan's wartime threat had passed; the cartoon is about the internal divide over partition."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "By showing Jinnah deliberately aiming explosives at the united-India project, the cartoonist presents partition not as an accident but as the product of Jinnah's active, willful campaign for a separate Pakistan. (B) is wrong because the image shows Jinnah attacking unity, not defending it. (C) is wrong because the cartoon gives Jinnah agency; the British are not shown forcing his hand. (D) is wrong because the deliberate aiming of the bomb implies intention, not accident.",
-    "id": "wh-fivesteps-u8-002",
-    "key": "A",
-    "option_explanations": {
-      "A": "Correct. Jinnah is depicted as deliberately working to blow apart a united India in pursuit of Pakistan.",
-      "B": "Wrong. The cartoon shows Jinnah attacking the united-India project, not supporting it.",
-      "C": "Wrong. The cartoon grants Jinnah agency; no British figure is shown compelling him.",
-      "D": "Wrong. The carefully aimed bomb implies deliberate intention, not an accidental outcome."
-    },
-    "options": [
-      "(A) Jinnah's campaign for Pakistan was a deliberate force driving toward division",
-      "(B) Jinnah was a champion of a united India",
-      "(C) The British forced partition on an unwilling Jinnah",
-      "(D) Partition happened by historical accident"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u8-002",
-    "source_stimulus_words": 0,
-    "stem": "The cartoonist depicts Muhammad Ali Jinnah actively working against a united India. What does this imply about the cartoonist's view of partition?",
-    "stimulus": "The cartoon shows a workman labeled 'United India' carefully assembling a complex machine. Beside him, Muhammad Ali Jinnah leans in holding a sputtering, lit bomb directly over the mechanism.",
-    "stimulus_words": 29,
-    "themes": [
-      "GOV",
-      "CDI"
-    ],
-    "type": "mcq",
-    "unit": 8
+  "options": [
+   "(A) British opposition to Indian independence",
+   "(B) Hindu-Muslim economic cooperation",
+   "(C) Jinnah's demand for Pakistan",
+   "(D) A renewed Japanese invasion of India"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-001",
+  "source_stimulus_words": 0,
+  "stem": "A 1940s cartoon shows a figure labeled 'United India' assembling a delicate machine while Muhammad Ali Jinnah holds a lit bomb toward it. What does the bomb most likely represent?",
+  "stimulus": "The cartoon shows a workman labeled 'United India' carefully assembling a complex machine. Beside him, Muhammad Ali Jinnah leans in holding a sputtering, lit bomb directly over the mechanism.",
+  "stimulus_words": 29,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "By showing Jinnah deliberately aiming explosives at the united-India project, the cartoonist presents partition not as an accident but as the product of Jinnah's active, willful campaign for a separate Pakistan. (B) is wrong because the image shows Jinnah attacking unity, not defending it. (C) is wrong because the cartoon gives Jinnah agency; the British are not shown forcing his hand. (D) is wrong because the deliberate aiming of the bomb implies intention, not accident.",
+  "id": "wh-fivesteps-u8-002",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Jinnah is depicted as deliberately working to blow apart a united India in pursuit of Pakistan.",
+   "B": "Wrong. The cartoon shows Jinnah attacking the united-India project, not supporting it.",
+   "C": "Wrong. The cartoon grants Jinnah agency; no British figure is shown compelling him.",
+   "D": "Wrong. The carefully aimed bomb implies deliberate intention, not an accidental outcome."
   },
-  {
-    "difficulty": "medium",
-    "explanation": "Drawing the border between India and Pakistan uprooted some 15 million people and unleashed communal slaughter in which hundreds of thousands died — the largest mass migration in human history and one of its bloodiest partitions. (A) is wrong because partition brought violence and chaos, not immediate prosperity. (B) is wrong because India and Pakistan did not reunify; they fought wars instead. (D) is wrong because British troops withdrew rapidly; no British force stayed to keep order.",
-    "id": "wh-fivesteps-u8-003",
-    "key": "C",
-    "option_explanations": {
-      "A": "Wrong. Partition brought communal slaughter and chaos, not immediate peaceful prosperity.",
-      "B": "Wrong. India and Pakistan did not reunify; they fought multiple wars as separate states.",
-      "C": "Correct. Some 15 million people were displaced and hundreds of thousands killed in communal violence.",
-      "D": "Wrong. British forces withdrew quickly in 1947; none remained to keep order."
-    },
-    "options": [
-      "(A) Immediate peaceful prosperity in both new states",
-      "(B) Reunification of India and Pakistan within a decade under a single government",
-      "(C) Mass communal violence and the displacement of some 15 million people",
-      "(D) British troops remaining to keep order"
-    ],
-    "reasoning": "Causation",
-    "skill": "Causation",
-    "source_id": "fivesteps-u8-003",
-    "source_stimulus_words": 0,
-    "stem": "Partition created Pakistan in 1947. What was its most immediate human consequence?",
-    "stimulus": null,
-    "stimulus_words": 0,
-    "themes": [
-      "GOV",
-      "CDI",
-      "SIO"
-    ],
-    "type": "mcq",
-    "unit": 8
-  }
+  "options": [
+   "(A) Jinnah deliberately drove toward division",
+   "(B) Jinnah was a champion of a united India",
+   "(C) The British forced partition on an unwilling Jinnah",
+   "(D) Partition happened by historical accident"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-002",
+  "source_stimulus_words": 0,
+  "stem": "The cartoonist depicts Muhammad Ali Jinnah actively working against a united India. What does this imply about the cartoonist's view of partition?",
+  "stimulus": "The cartoon shows a workman labeled 'United India' carefully assembling a complex machine. Beside him, Muhammad Ali Jinnah leans in holding a sputtering, lit bomb directly over the mechanism.",
+  "stimulus_words": 29,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Drawing the border between India and Pakistan uprooted some 15 million people and unleashed communal slaughter in which hundreds of thousands died — the largest mass migration in human history and one of its bloodiest partitions. (A) is wrong because partition brought violence and chaos, not immediate prosperity. (B) is wrong because India and Pakistan did not reunify; they fought wars instead. (D) is wrong because British troops withdrew rapidly; no British force stayed to keep order.",
+  "id": "wh-fivesteps-u8-003",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Partition brought communal slaughter and chaos, not immediate peaceful prosperity.",
+   "B": "Wrong. India and Pakistan did not reunify; they fought multiple wars as separate states.",
+   "C": "Correct. Some 15 million people were displaced and hundreds of thousands killed in communal violence.",
+   "D": "Wrong. British forces withdrew quickly in 1947; none remained to keep order."
+  },
+  "options": [
+   "(A) Immediate peaceful prosperity in both new states",
+   "(B) Reunification of India and Pakistan within a decade under a single government",
+   "(C) Mass communal violence and the displacement of some 15 million people",
+   "(D) British troops remaining to keep order"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-003",
+  "source_stimulus_words": 0,
+  "stem": "Partition created Pakistan in 1947. What was its most immediate human consequence?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ }
 ]
