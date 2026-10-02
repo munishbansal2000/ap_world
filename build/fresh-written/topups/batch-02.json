@@ -1,0 +1,350 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "The passage presents the railways as British-financed, profit-guaranteed, and oriented toward moving raw materials out and British goods in — with Indian textiles as the casualty. Infrastructure under the Raj served the imperial economy, not Indian industrialization.",
+    "id": "wh-fresh-u6-002",
+    "key": "B",
+    "option_explanations": {
+      "A": "The passage shows British goods displacing Indian textiles, the opposite of developing Indian industry.",
+      "B": "Correct — the railways' financing, guaranteed profits, and trade pattern show infrastructure serving extraction and British manufacturers.",
+      "C": "The Company was dissolved precisely because the rebellion exposed its failure; the crown took over.",
+      "D": "The railways carried British cloth inland; Indian cloth was the product being displaced, not promoted."
+    },
+    "options": [
+      "(A) British rule in India was established primarily to promote the development of a modern, independent Indian industrial economy centered on Indian-owned factories.",
+      "(B) British infrastructure in India primarily served colonial extraction and British manufacturers, undercutting local industry.",
+      "(C) The rebellion of 1857 strengthened the East India Company's authority over India.",
+      "(D) Indian merchants requested the railways so they could expand their exports of finished cloth."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about the British Raj is best supported by the passage?",
+    "stimulus": "After the rebellion of 1857, Britain dissolved the East India Company and began ruling India directly. Railways built with British capital and guaranteed profits carried raw cotton to the ports and British manufactured cloth inland. As cheap Manchester textiles flooded Indian markets, Indian weavers and textile workers lost their livelihoods.",
+    "stimulus_words": 50,
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage traces a direct line: Lin Zexu's crackdown, British military victory, and the Treaty of Nanjing's concessions — ceded territory, opened ports, extraterritoriality. The war forced China to accept British terms of trade.",
+    "id": "wh-fresh-u6-003",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct — the defeat led directly to the Treaty of Nanjing's one-sided terms, which opened China on British terms.",
+      "B": "The dispute was over British opium imports into China, not Chinese purchases of British tea.",
+      "C": "China lost the war and was forced to open ports; it did not close them.",
+      "D": "The treaty granted extraterritoriality and opened ports — it expanded, rather than abolished, the foreign presence."
+    },
+    "options": [
+      "(A) Britain's victory in the Opium Wars forced China into unequal treaties that opened its markets on British terms.",
+      "(B) The Opium Wars were fought because China stubbornly refused to buy British tea and closed all of its markets to British merchants.",
+      "(C) China won the Opium Wars and responded by closing all its ports to foreigners.",
+      "(D) The Treaty of Nanjing abolished the foreign presence in China entirely."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements is best supported by the passage?",
+    "stimulus": "Britain's exports of opium to China reversed the two countries' trade balance, and in 1839 Commissioner Lin Zexu seized and destroyed British opium stocks at Canton. Britain's victory in the First Opium War forced the Treaty of Nanjing in 1842: China ceded Hong Kong, opened five ports to British trade, and granted British subjects extraterritoriality.",
+    "stimulus_words": 55,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage presents two distinct responses to industrialization: Japan's top-down state modernization that borrowed selectively from the West while keeping the emperor, and Europe's worker responses split between union reform and Marxist revolution. Each rejected the simplistic readings offered by the other options.",
+    "id": "wh-fresh-u6-004",
+    "key": "C",
+    "option_explanations": {
+      "A": "Japan's leaders deliberately studied and adopted Western industry, law, and education; the borrowing was selective, not a rejection.",
+      "B": "Marxists called for the revolutionary overthrow of capitalism, while unions generally sought reforms like shorter hours — they did not agree.",
+      "C": "Correct — the passage pairs Japan's selective modernization with the split European response of reformist unionism and revolutionary Marxism.",
+      "D": "Marxism developed in Europe as a critique of industrial capitalism; it did not originate in Japan."
+    },
+    "options": [
+      "(A) Japan rejected all Western models and modernized using only its own traditions.",
+      "(B) European labor unions and Marxists fully agreed with one another that violent revolution was completely unnecessary and that workers should seek only gradual, peaceful reforms through existing national laws alone.",
+      "(C) The Meiji state pursued selective Western-style modernization to strengthen Japan, while European workers responded to factory conditions through both union reform efforts and Marxist revolutionary theory.",
+      "(D) Marxism originated in Japan as a response to the Meiji Restoration."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements is best supported by the passage?",
+    "stimulus": "After 1868 Japan's new leaders abolished the feudal domains, built railways and factories, and sent students to study in Europe and America — while keeping the emperor as the symbol of national unity. In the same decades, European industrial workers formed unions that struck for shorter hours and safer conditions, while Marxists argued that workers should overthrow capitalism entirely rather than merely reform it.",
+    "stimulus_words": 64,
+    "themes": [
+      "GOV",
+      "SIO",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 6
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Truman was the American president addressing Congress — the body that controls spending — in the first year of the Cold War. He framed aid to Greece and Turkey as one battle in a worldwide struggle so that Congress would fund containment of Soviet influence.",
+    "id": "wh-fresh-u8-001",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct — Truman's office, his congressional audience, and his freedom-versus-totalitarianism framing all served the purpose of winning support for containment.",
+      "B": "He asked for economic and military aid, not a declaration of war.",
+      "C": "He addressed the U.S. Congress, not the United Nations, and requested aid funds rather than peacekeepers.",
+      "D": "The speech committed American resources abroad; it was the opposite of a withdrawal from Europe."
+    },
+    "options": [
+      "(A) As president in 1947, he asked Congress to fund aid for Greece and Turkey in order to contain Soviet influence, casting it as a struggle of freedom against totalitarianism.",
+      "(B) He was asking Congress to declare war on the Soviet Union immediately.",
+      "(C) He was addressing the United Nations General Assembly to request that an international peacekeeping force be sent to stabilize the eastern Mediterranean and prevent the spread of communism there.",
+      "(D) He sought to withdraw all American forces and aid from Europe."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "stem": "Truman's historical situation and purpose are best described by which of the following?",
+    "stimulus": "In March 1947 President Harry Truman addressed the U.S. Congress, declaring that the United States must support free peoples resisting subjugation by armed minorities or outside pressure. He asked Congress to approve aid for Greece and Turkey, framing the choice as one between free institutions and totalitarian rule.",
+    "stimulus_words": 48,
+    "themes": [
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage deliberately contrasts two routes to independence — India's negotiated transfer with mass campaigns, and Ghana's movement-led victory a decade later — and notes Ghana's inspirational effect. Decolonization was one broad wave but not one single method.",
+    "id": "wh-fresh-u8-002",
+    "key": "D",
+    "option_explanations": {
+      "A": "India's 1947 independence in Asia shows decolonization was not confined to Africa.",
+      "B": "India's negotiated transfer and Ghana's movement-led path differed in strategy and timing.",
+      "C": "The passage shows a ten-year gap between 1947 and 1957, not a simultaneous grant.",
+      "D": "Correct — different strategies and timelines, with each success encouraging further anti-colonial movements, is exactly what the passage shows."
+    },
+    "options": [
+      "(A) Decolonization occurred only in Africa.",
+      "(B) Both independence movements used exactly the same strategies, negotiated identical settlements with Britain, and achieved exactly the same results in the very same year without any differences.",
+      "(C) Britain granted independence to all of its colonies at the same time.",
+      "(D) Decolonization followed varied paths — negotiated transfer in India, mass-movement victory in Ghana — with each independence inspiring further anti-colonial movements."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The two cases together best support which of the following connections about decolonization?",
+    "stimulus": "India won independence from Britain in 1947 after mass campaigns and negotiations, though partition created Pakistan amid terrible violence. A decade later Ghana, led by Kwame Nkrumah's mass movement, became the first sub-Saharan African colony to win independence — an achievement celebrated across the continent as proof that colonial rule could be ended.",
+    "stimulus_words": 53,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage shows Washington treating communist victory in China as a threat to be contained: refusing recognition and fighting communists in Korea within a year. The Chinese Revolution did not end the Cold War in Asia — it widened it.",
+    "id": "wh-fresh-u8-003",
+    "key": "B",
+    "option_explanations": {
+      "A": "U.S. refusal to recognize the new government and the Korean War show tensions rising, not ending.",
+      "B": "Correct — the revolution pushed the United States to extend containment into Asia, producing intervention in Korea and later Vietnam.",
+      "C": "The passage says the United States refused to recognize the People's Republic.",
+      "D": "The revolution grew from China's own civil war and peasant mobilization, not from American intervention."
+    },
+    "options": [
+      "(A) The Chinese Revolution brought Cold War tensions in Asia to an end.",
+      "(B) The communist victory in China intensified U.S. containment in Asia, extending the Cold War to Korea and later Vietnam.",
+      "(C) The United States immediately recognized the new People's Republic of China and began sending it large-scale economic and military aid.",
+      "(D) The Chinese Revolution was caused by American military intervention inside China."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "stem": "Which of the following connections between the Chinese Revolution and the Cold War is best supported by the passage?",
+    "stimulus": "In 1949 the Chinese Communist Party defeated the Nationalists and proclaimed the People's Republic of China. The United States, which had backed the Nationalists, refused to recognize the new government. Within a year, American forces were fighting communist armies in the Korean War.",
+    "stimulus_words": 43,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage sets up the contrast directly: independence sweeping Africa while South Africa moved the opposite way, codifying racial domination. Apartheid preserved colonial-style racial hierarchy through domestic law after the era of formal empires was ending.",
+    "id": "wh-fresh-u8-004",
+    "key": "C",
+    "option_explanations": {
+      "A": "Apartheid entrenched white-minority rule; it was the opposite of decolonization.",
+      "B": "South Africa stripped Black South Africans of rights rather than granting equality.",
+      "C": "Correct — as colonial rule ended elsewhere, South Africa wrote racial hierarchy into law, continuing colonial patterns of domination.",
+      "D": "Apartheid persisted for decades after the 1960s, ending only in the 1990s."
+    },
+    "options": [
+      "(A) Apartheid was itself a form of decolonization.",
+      "(B) South Africa granted full political equality at independence, like other new African nations.",
+      "(C) While most of Africa moved from colonial rule to independence, South Africa entrenched a domestic system of white-minority rule that echoed colonial racial hierarchies.",
+      "(D) Apartheid ended in the 1960s at the same time that European colonial empires withdrew from Africa, immediately bringing full and equal political rights to all South Africans."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "stem": "South Africa's situation is best connected to the decolonization era in which of the following ways?",
+    "stimulus": "As African nations won independence through the 1950s and 1960s, South Africa's white-minority government tightened apartheid: laws classified every person by race, reserved the best land and jobs for whites, and stripped Black South Africans of citizenship in their own country.",
+    "stimulus_words": 41,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage shows the Plan's dual logic: aid rebuilt economies while American officials openly hoped recovery would weaken communism's appeal, and Moscow's veto on Eastern participation split Europe further. It was economic statecraft, not charity alone.",
+    "id": "wh-fresh-u8-005",
+    "key": "D",
+    "option_explanations": {
+      "A": "American officials explicitly tied the aid to making communism less appealing — the political aim was central.",
+      "B": "The Soviet Union forbade Eastern European states from accepting the aid.",
+      "C": "The Plan was designed to strengthen non-communist economies, not to spread communism.",
+      "D": "Correct — recovery aid doubled as containment strategy, and the Soviet refusal deepened the division of Europe."
+    },
+    "options": [
+      "(A) The Marshall Plan was a purely humanitarian program motivated only by charity toward war victims, with no political or strategic aims of any kind, serving no American interest at all.",
+      "(B) The Soviet Union welcomed Marshall Plan aid for the states of Eastern Europe.",
+      "(C) The Marshall Plan required recipient nations to adopt communist governments.",
+      "(D) The Marshall Plan used economic recovery as a Cold War strategy: stabilizing Western Europe against communism's appeal while deepening the East-West divide."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about the Marshall Plan is best supported by the passage?",
+    "stimulus": "In 1948 the United States began sending billions of dollars in aid to rebuild Western Europe's war-shattered economies. American officials argued that economic recovery would make communism less appealing to European voters. The Soviet Union forbade the states of Eastern Europe from accepting the aid.",
+    "stimulus_words": 45,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage shows Mao building the movement in the countryside on peasant support and land reform, not in the cities. The 1949 victory came from peasant armies — a deliberate adaptation of Marxism to a country with almost no industrial working class.",
+    "id": "wh-fresh-u8-006",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct — the peasant base, the land-reform promise, and the rural Long March all show a revolution adapted to China's countryside.",
+      "B": "China had little industrial working class; the passage stresses peasants, not urban workers, as the movement's base.",
+      "C": "The Nationalists lost the civil war and retreated to Taiwan in 1949.",
+      "D": "The promise of land reform — taking land from landlords — was central to winning peasant support."
+    },
+    "options": [
+      "(A) The Chinese Revolution succeeded as a peasant-based movement that adapted Marxism to China's rural conditions.",
+      "(B) The revolution was led by China's urban industrial working class, exactly as Marx had predicted would happen in every country.",
+      "(C) The Nationalists under Chiang Kai-shek won the civil war in 1949.",
+      "(D) Mao opposed land reform and defended the power of landlords."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements about the Chinese Revolution is best supported by the passage?",
+    "stimulus": "Mao Zedong built the Communist movement on peasant support in the countryside, promising land reform to poor farmers. After the Long March and the war of resistance against Japan, the Communists' peasant armies defeated Chiang Kai-shek's Nationalist forces, and the People's Republic was proclaimed in 1949.",
+    "stimulus_words": 46,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage distinguishes the two outcomes: communist forces were driven back with heavy losses, yet the gap between official optimism and the televised attacks destroyed public trust. Tet was a battlefield defeat that became a political turning point.",
+    "id": "wh-fresh-u8-007",
+    "key": "B",
+    "option_explanations": {
+      "A": "The passage says the offensive was repelled with heavy communist losses — it was not a military victory.",
+      "B": "Correct — military failure paired with political success is precisely the passage's contrast.",
+      "C": "The offensive contradicted claims that victory was near; it did not confirm them.",
+      "D": "The passage states that American public support collapsed after Tet."
+    },
+    "options": [
+      "(A) The Tet Offensive was a decisive communist military victory that defeated American forces in the field, destroyed their bases, and forced an immediate withdrawal.",
+      "(B) The Tet Offensive was a military setback for communist forces that nonetheless shattered American confidence and turned U.S. public opinion against the war.",
+      "(C) The Tet Offensive proved that U.S. officials were right that victory was near.",
+      "(D) American public support for the war increased after the Tet Offensive."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about the Vietnam War is best supported by the passage?",
+    "stimulus": "In January 1968 communist forces launched the Tet Offensive, attacking cities and bases across South Vietnam. The offensive was repelled with heavy communist losses — but it contradicted U.S. officials' claims that victory was near, and American public support for the war collapsed in its aftermath.",
+    "stimulus_words": 46,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage describes a comprehensive legal system — racial classification, land and job reservation, pass books, police violence — all serving one purpose: keeping political and economic power in white hands. That is the defining structure of apartheid.",
+    "id": "wh-fresh-u8-008",
+    "key": "C",
+    "option_explanations": {
+      "A": "The laws reserved rights, land, and jobs for whites and stripped Black South Africans of citizenship — the opposite of equality.",
+      "B": "Sharpeville in 1960 provoked protest, but apartheid continued for three more decades.",
+      "C": "Correct — the passage's list of racial laws and violence all served white-minority dominance.",
+      "D": "The United Nations condemned apartheid; the system was created and enforced by South Africa's own government."
+    },
+    "options": [
+      "(A) Apartheid gave equal political rights, voting rights, and full citizenship to all South Africans regardless of race or ethnic background.",
+      "(B) Apartheid ended in 1960 after the Sharpeville massacre.",
+      "(C) Apartheid was a legal system of racial segregation designed to preserve white-minority political and economic dominance.",
+      "(D) Apartheid was imposed on South Africa by the United Nations."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements about apartheid is best supported by the passage?",
+    "stimulus": "Under apartheid, South Africa's government classified every citizen by race, restricted Black South Africans to impoverished homelands, required them to carry pass books to move about, and used police violence — as at Sharpeville in 1960 — against those who protested.",
+    "stimulus_words": 41,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 8
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage shows non-alignment as an active strategy: refusing bloc membership while still taking aid and trade from both sides and pushing anti-colonial goals. It was independence of action, not isolation.",
+    "id": "wh-fresh-u8-009",
+    "key": "D",
+    "option_explanations": {
+      "A": "Members accepted aid from both blocs; non-alignment was about avoiding military blocs, not all contact.",
+      "B": "The movement rejected alignment with either bloc — it was not an alliance against the United States.",
+      "C": "The passage shows members actively pursuing sovereignty, aid, and decolonization — a full foreign policy.",
+      "D": "Correct — Bandung and the movement let new states engage both sides on their own terms while asserting independence."
+    },
+    "options": [
+      "(A) Non-aligned states refused all contact, trade, and diplomatic relations with both Cold War superpowers, isolating themselves completely from world affairs.",
+      "(B) The Non-Aligned Movement was a military alliance directed against the United States.",
+      "(C) Non-alignment meant these states had no foreign policy interests of their own.",
+      "(D) The Non-Aligned Movement let new states assert independence from the Cold War blocs while still engaging both sides for aid and trade."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements about the Non-Aligned Movement is best supported by the passage?",
+    "stimulus": "In 1955 leaders of newly independent Asian and African states met at Bandung, Indonesia, rejecting alignment with either Cold War bloc. The Non-Aligned Movement that followed allowed members to accept aid from both sides while insisting on national sovereignty and an end to colonialism.",
+    "stimulus_words": 44,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 8
+  }
+]

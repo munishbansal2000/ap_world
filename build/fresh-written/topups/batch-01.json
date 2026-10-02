@@ -1,0 +1,350 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "Civil service examinations began under earlier dynasties, and the Song expanded them into the main route to office. This continued China's long pattern of legitimating imperial rule through Confucian learning and a professional bureaucracy — a continuity, not an invention.",
+    "id": "wh-fresh-u1-001",
+    "key": "B",
+    "option_explanations": {
+      "A": "Examinations existed before the Song, under the Han, Sui, and Tang dynasties; the Song expanded rather than invented them.",
+      "B": "Correct — the passage shows the Song carrying forward the imperial model of a Confucian-trained bureaucracy as the backbone of centralized rule.",
+      "C": "The passage says Confucian texts were the path to office and the emperor upheld Confucian order; Buddhism did not replace it as the basis of government.",
+      "D": "Years of expensive tutoring meant wealthy families dominated the exams; poor peasants rarely reached high office through them."
+    },
+    "options": [
+      "(A) The Song created the world's first merit-based government by inventing the civil service examination system, which had no precedent in any earlier Chinese dynasty.",
+      "(B) The Song continued and expanded the Chinese imperial tradition of ruling through a trained, Confucian-educated bureaucracy.",
+      "(C) The Song rejected Confucianism and reorganized the state around Buddhist monasteries.",
+      "(D) The examinations gave poor peasant families the same access to high office as wealthy ones."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "stem": "The development described in the passage best fits which of the following broader historical contexts?",
+    "stimulus": "Under the Song dynasty (960-1279), the imperial examinations tested candidates on the Confucian classics. Thousands of scholars competed each year, and those who passed became salaried officials of a centralized state. Study of Confucian texts became the recognized path to government office, and the emperor presented himself as the guardian of Confucian moral order.",
+    "stimulus_words": 54,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage shows conquered provinces paying regular tribute in goods that sustained the Aztec court, religion, and military. This matches the wider pattern of tributary empires — Inca, Roman, Ottoman — whose power rested on systematic extraction from subject peoples.",
+    "id": "wh-fresh-u1-002",
+    "key": "D",
+    "option_explanations": {
+      "A": "The Aztecs did conduct trade, but the passage describes tribute imposed on conquered provinces, not a trade monopoly, as the state's revenue base.",
+      "B": "Tribute was a mandatory obligation enforced by officials, not a voluntary donation.",
+      "C": "Tribute amounts were set by the imperial center and enforced by calpixque; commoners did not vote on them.",
+      "D": "Correct — the listed goods flowing from provinces to Tenochtitlan to support court, priesthood, and army fit the tributary-empire pattern."
+    },
+    "options": [
+      "(A) Empires that funded their governments mainly by monopolizing the long-distance luxury trade while leaving conquered peoples untaxed.",
+      "(B) Societies that replaced all taxation with voluntary religious donations.",
+      "(C) States whose assemblies of commoners voted each year on how much tribute to pay.",
+      "(D) Expanding empires that financed the state, its priests, and its armies by extracting goods and labor from conquered peoples."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "stem": "The Aztec tribute system described in the passage best fits which of the following broader historical patterns?",
+    "stimulus": "The Codex Mendoza, an Aztec record book, lists the tribute owed by conquered provinces: bales of cotton, loads of maize and beans, cacao beans, warriors' costumes, and feathers. Royal officials called calpixque collected these goods each year and delivered them to the capital, Tenochtitlan, where they supplied the court, the priesthood, and the army.",
+    "stimulus_words": 54,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage describes a two-way relationship: households owed rotating labor, and the state redistributed goods in return. This reciprocal obligation was central to how the Inca state mobilized labor and justified its authority over subject communities.",
+    "id": "wh-fresh-u1-003",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct — the passage shows both the labor demand and the state's reciprocal distribution, which together legitimated Inca rule.",
+      "B": "The mit'a was a required obligation tied to the household's place in the empire, not a voluntary choice.",
+      "C": "Mit'a workers remained members of their communities with land rights; they were not owned as private property like enslaved people.",
+      "D": "The mit'a was itself a state duty, and households still owed other obligations, such as tribute in goods."
+    },
+    "options": [
+      "(A) The mit'a was a labor obligation that bound households to the state, pairing state demands with reciprocal distributions that legitimated Inca rule.",
+      "(B) The mit'a was a form of voluntary wage labor that free households could choose to join or leave at will, much like workers taking jobs in a modern market economy.",
+      "(C) The mit'a was a system of chattel slavery in which workers were owned as private property.",
+      "(D) The mit'a freed households from every other duty they owed to the Inca state."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following interpretations of the mit'a system is best supported by the passage?",
+    "stimulus": "In the Inca Empire, households owed the state rotating labor called mit'a: men built terraces, roads, and storehouses, mined, or served in the army for set periods, then returned to their villages. The state, in turn, distributed food, cloth, and chicha beer at festivals and in times of famine, presenting the emperor as a generous provider.",
+    "stimulus_words": 56,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Mansa Musa's hajj and mosque-building show elite patronage, and Ibn Battuta's account shows Quranic learning at court alongside griots honoring pre-Islamic kings. Islam arrived through trade contacts and royal adoption, blending with rather than erasing local traditions.",
+    "id": "wh-fresh-u1-004",
+    "key": "C",
+    "option_explanations": {
+      "A": "The passage describes a royal pilgrimage, mosque-building, and scholarship — not military campaigns of forced conversion.",
+      "B": "Mansa Musa performed the hajj and patronized Muslim scholars, the opposite of rejecting Islam.",
+      "C": "Correct — trade and the ruler's patronage spread Islam among elites and townspeople, while griots and older customs persisted at court.",
+      "D": "The passage places Islam's arrival with Mali's gold-trade era in the 1300s, not before trans-Saharan trade."
+    },
+    "options": [
+      "(A) Islam spread through Mali mainly by military campaigns of forced conversion that wiped out older beliefs and replaced them with Islamic law.",
+      "(B) Malian rulers rejected Islam entirely in order to preserve traditional religion.",
+      "(C) Trans-Saharan trade and royal patronage carried Islam into Mali's elite and urban culture, while older customs continued alongside it.",
+      "(D) West Africa had become fully Islamic long before any trans-Saharan trade existed."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which statement about the spread of Islam in West Africa is best supported by the passage?",
+    "stimulus": "In 1324 Mansa Musa, ruler of Mali, crossed the Sahara to Mecca on the hajj with a caravan carrying vast quantities of gold. On his return he built mosques and brought Muslim scholars to Mali. Decades later, the traveler Ibn Battuta found the people of Mali eager to memorize the Quran, while griots still recited the deeds of pre-Islamic kings at court.",
+    "stimulus_words": 62,
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 1
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Equiano was a formerly enslaved man writing in London during the abolitionist campaign. A firsthand account of the Middle Passage's horrors was meant to shock readers into opposing the trade — the passage is evidence meant to persuade, not entertain.",
+    "id": "wh-fresh-u4-001",
+    "key": "C",
+    "option_explanations": {
+      "A": "The passage's graphic suffering is not written as entertainment; its tone is one of testimony and moral appeal.",
+      "B": "Nothing in the passage advertises sailing or recruits crew; it describes the hold of a slave ship from a captive's perspective.",
+      "C": "Correct — as a free Black abolitionist, Equiano used his own experience of the Middle Passage to turn British readers against the slave trade.",
+      "D": "The passage condemns the trade's cruelty; it offers no defense of its economics."
+    },
+    "options": [
+      "(A) entertain British readers with colorful adventure tales of sea voyages and distant lands.",
+      "(B) recruit sailors for voyages across the Atlantic.",
+      "(C) expose the cruelty of the slave trade in order to build support for its abolition.",
+      "(D) defend the economic benefits of slavery before Parliament."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "stem": "Equiano's purpose in publishing this passage was most likely to:",
+    "stimulus": "In 1789 Olaudah Equiano, who had been kidnapped in West Africa as a child and later bought his own freedom, published his life story in London. He described being forced below the deck of a slave ship: the stench, the shrieks of the captives, and prisoners who refused food because they preferred death to the voyage.",
+    "stimulus_words": 56,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage contrasts two models of empire: the Ottomans absorbing neighboring lands into one contiguous realm, and the Spanish linking distant colonies by sea. Both were gunpowder empires, but their geography produced different strategies of control and revenue.",
+    "id": "wh-fresh-u4-002",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct — the passage's core contrast is contiguous overland rule versus overseas colonies held together by ships and sea-lanes.",
+      "B": "The passage explicitly says the Ottomans advanced with gunpowder armies; gunpowder was central to land empires too.",
+      "C": "The Ottomans taxed trade heavily, including the lucrative routes between Europe and Asia.",
+      "D": "Spanish conquest in the Americas was extremely violent; maritime expansion depended on military force."
+    },
+    "options": [
+      "(A) Land empires expanded through contiguous conquest and direct administration, while maritime empires projected power across oceans through colonies and naval trade networks.",
+      "(B) Only maritime empires used gunpowder weapons in their conquests.",
+      "(C) Land empires like the Ottoman had no interest in trade at all and financed their governments entirely without taxing merchants or the lucrative commercial routes between Europe and Asia.",
+      "(D) Maritime empires expanded without using military force."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Making Connections",
+    "stem": "The contrast described in the passage best supports which of the following connections?",
+    "stimulus": "In the 1500s both the Ottoman and Spanish empires expanded rapidly, but in different ways. The Ottomans advanced overland with gunpowder armies into the Balkans, the Middle East, and North Africa, ruling contiguous territory. The Spanish crossed the Atlantic, claimed the Americas, and relied on ships, overseas settlements, and guarded sea-lanes to hold far-flung colonies.",
+    "stimulus_words": 55,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage shows smallpox killing the Aztec emperor and defenders at the decisive moment of the siege, while the Spanish were spared. Disease was not a Spanish plan, but it devastated the Aztecs and decided the outcome as much as any weapon.",
+    "id": "wh-fresh-u4-003",
+    "key": "B",
+    "option_explanations": {
+      "A": "The passage credits smallpox, not firearms, with crippling Aztec resistance at the critical moment.",
+      "B": "Correct — the epidemic struck the Aztec leadership and defenders during the siege, shaping the conquest's outcome without being anyone's strategy.",
+      "C": "The Aztecs died in huge numbers precisely because they had no prior exposure or immunity.",
+      "D": "Smallpox came with Europeans across the Atlantic, not across the Pacific from Asia."
+    },
+    "options": [
+      "(A) European firearms and gunpowder weapons alone, without any other factor, determined the outcome of the conquest of Mexico.",
+      "(B) Epidemic disease was a decisive, unintended factor in the Spanish conquest of the Aztec Empire.",
+      "(C) The Aztecs possessed immunity to Old World diseases before the Spanish arrived.",
+      "(D) Smallpox reached the Americas by crossing the Pacific from Asia."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements is best supported by the passage?",
+    "stimulus": "In 1520, as Hernan Cortes fought to retake Tenochtitlan, smallpox swept through the Aztec capital. The disease killed the emperor Cuitlahuac and a large share of the city's defenders within weeks, crippling the Aztec resistance. The Spaniards, many of whom had survived smallpox in childhood, were largely unaffected.",
+    "stimulus_words": 48,
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage traces one chain: the mita draft supplied forced labor, the crown took its fifth, and the silver continued to China for Asian goods. Potosi was not just a Spanish mine but a node connecting Andean labor, European empires, and Asian markets.",
+    "id": "wh-fresh-u4-004",
+    "key": "D",
+    "option_explanations": {
+      "A": "The passage emphasizes mass deaths from accidents and mercury poisoning — the human cost was enormous.",
+      "B": "The mita was a forced draft imposed on communities, not free wage labor.",
+      "C": "The passage explicitly says silver flowed onward to China to pay for silks and porcelain.",
+      "D": "Correct — forced labor, the royal fifth, and the onward flow to China show Potosi embedded in a global silver circuit."
+    },
+    "options": [
+      "(A) Potosi's silver enriched Spain at no human cost to indigenous communities.",
+      "(B) Potosi's mines were worked by free laborers who chose the work voluntarily because wages were high and conditions were safe.",
+      "(C) The silver trade remained confined to the Atlantic world and never reached Asia.",
+      "(D) Potosi linked coerced Andean labor to a global trade circuit that carried American silver to Europe and Asia."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following arguments about Potosi's silver is best supported by the passage?",
+    "stimulus": "After 1573 the Spanish viceroy organized the mita draft, adapted from the Inca mit'a, to force Andean communities to supply labor for the silver mines of Potosi. A royal fifth of all silver went to the Spanish crown, and much of the metal then flowed onward to China to pay for silks and porcelain. Mine laborers died in large numbers from accidents and mercury poisoning.",
+    "stimulus_words": 65,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage shows the system's two faces — labor extraction paired with a Christianizing duty — and shows its violence triggering a real policy response: Las Casas's advocacy and the crown's New Laws. The encomienda was contested, not simply imposed and accepted.",
+    "id": "wh-fresh-u4-005",
+    "key": "C",
+    "option_explanations": {
+      "A": "The passage describes granted labor and reported brutal abuse, not voluntary contracts.",
+      "B": "The New Laws of 1542 were the crown's direct attempt to regulate encomendero power.",
+      "C": "Correct — coerced labor plus the Christianization mission, with abuse sparking debate and legal reform, captures the passage's full picture.",
+      "D": "The system lasted well into the colonial period; the 1542 laws limited rather than abolished it."
+    },
+    "options": [
+      "(A) The encomienda was a system of free labor contracts entered into voluntarily.",
+      "(B) The Spanish crown never questioned or regulated the encomienda system.",
+      "(C) The encomienda combined coerced indigenous labor with a mission of Christianization, and its abuses provoked debates that reshaped imperial law.",
+      "(D) The encomienda was abolished everywhere in the Americas immediately after 1492, bringing all coerced indigenous labor to a complete end within a single year."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "stem": "Which of the following interpretations of the encomienda system is best supported by the passage?",
+    "stimulus": "Spanish colonists in the Americas received encomiendas — grants giving them the labor of indigenous communities — and were expected in return to see the workers Christianized. Reports of brutal abuse reached Spain, where Bartolome de las Casas pleaded the Indians' cause before the crown. The New Laws of 1542 then attempted to limit the power of the encomenderos.",
+    "stimulus_words": 59,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage shows a company funded by private shareholders yet exercising sovereignty — armies, treaties, coinage. This hybrid let the Dutch state extend its reach in Asia through private capital and risk rather than direct royal expense.",
+    "id": "wh-fresh-u4-006",
+    "key": "B",
+    "option_explanations": {
+      "A": "The company raised armies and built forts; it was far from purely commercial.",
+      "B": "Correct — shareholder capital funded state-like powers, making the company an instrument of Dutch power in Asia.",
+      "C": "The company negotiated with Asian rulers but was a Dutch enterprise serving its own shareholders.",
+      "D": "The company raised enough capital to build an empire of forts and fleets; investors bought in eagerly."
+    },
+    "options": [
+      "(A) Joint-stock companies were purely commercial enterprises that raised capital for trade but never built forts, raised armies, or exercised any military power anywhere in Asia.",
+      "(B) Joint-stock companies blended private investment with state-like powers, letting European states project power in Asia at limited cost to the treasury.",
+      "(C) The Dutch East India Company was controlled and directed by Asian merchants.",
+      "(D) Joint-stock companies failed because European investors refused to buy their shares."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements is best supported by the passage?",
+    "stimulus": "Chartered in 1602, the Dutch East India Company raised capital by selling shares to many investors. With that money it built forts, raised armies, signed treaties with Asian rulers, and minted its own coins — acting in many ways like a sovereign state while pursuing profit for its shareholders.",
+    "stimulus_words": 49,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The passage links the trade to plantation labor demand, notes African states' and merchants' participation, and records the Middle Passage's death toll. It was a vast system joining European demand, African supply networks, and plantation production — not a marginal or one-sided operation.",
+    "id": "wh-fresh-u4-007",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct — the passage supports all three elements: plantation demand drove it, African polities participated in supplying captives, and the crossing was massively deadly.",
+      "B": "Millions of captives and the plantation economies they sustained made the trade central, not insignificant, to the Atlantic economy.",
+      "C": "The passage explicitly says African states and merchants took part in supplying captives through wars and raids.",
+      "D": "Abolishing the trade in 1807 did not end slavery itself, which continued for decades in the Americas."
+    },
+    "options": [
+      "(A) The transatlantic slave trade was driven by plantation labor demand and operated through European demand, African political participation, and immense human mortality.",
+      "(B) The slave trade was economically insignificant to the development of the Atlantic economy.",
+      "(C) Europeans captured all enslaved Africans directly themselves, marching far inland to seize captives with absolutely no participation by any African states or merchants.",
+      "(D) Slavery in the Americas ended everywhere when the slave trade was abolished in 1807."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements is best supported by the passage?",
+    "stimulus": "As sugar plantations spread across Brazil and the Caribbean, European traders purchased millions of captive Africans. African states and merchants took part in supplying captives through wars and raids, and the Middle Passage across the Atlantic killed roughly one in seven of those forced aboard.",
+    "stimulus_words": 45,
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 4
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The passage shows Europeans setting the rules of the partition among themselves while Africans were excluded, followed by the near-total colonization of the continent. Berlin did not stop the scramble — it gave it a legal framework.",
+    "id": "wh-fresh-u6-001",
+    "key": "D",
+    "option_explanations": {
+      "A": "The scramble was already underway; the conference regulated how Europeans divided Africa, not whether they would.",
+      "B": "The passage states plainly that no African representatives were present.",
+      "C": "The conference concerned European claims to African territory, not trade among independent African states.",
+      "D": "Correct — European powers legitimized each other's colonial claims through agreed rules, with no African voice in the decision."
+    },
+    "options": [
+      "(A) The conference was called to end the European scramble for Africa.",
+      "(B) African rulers negotiated the terms of the partition at Berlin.",
+      "(C) The conference created a system of free trade among fully independent African states that retained complete sovereignty over their own territories.",
+      "(D) The conference formalized a European-only partition of Africa, legitimizing colonial claims without African consent."
+    ],
+    "reasoning": "Causation",
+    "skill": "Argumentation",
+    "stem": "Which of the following statements about the Berlin Conference is best supported by the passage?",
+    "stimulus": "At the Berlin Conference of 1884-85, fourteen European powers and the United States agreed on rules for claiming territory in Africa, such as notifying other powers of new claims. No African representatives were present. Within two decades, nearly the entire continent was under European colonial control.",
+    "stimulus_words": 46,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 6
+  }
+]
