@@ -1,0 +1,342 @@
+[
+  {
+    "id": "wh-vis-u4-021",
+    "unit": 4,
+    "stimulus": "A Japanese folding screen (nanban byobu) showing the arrival of a Portuguese 'black ship' (carrack). The great black-hulled ship anchors offshore while Japanese boats ferry cargo and Portuguese merchants in distinctive hats and capes walk ashore carrying chests, observed by Japanese onlookers.",
+    "stimulus_words": 42,
+    "stem": "Details in the screen, such as Japanese boats ferrying the cargo ashore and Japanese onlookers directing the scene while the Portuguese come to them, best support which conclusion about this trade?",
+    "options": [
+      "(A) The Portuguese traded in Japan on terms largely set by the Japanese",
+      "(B) Portugal had conquered the Japanese port where the ship had landed by force",
+      "(C) Japan depended on Portugal for military protection against China",
+      "(D) The Japanese refused to allow any Portuguese to come ashore at all"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The Portuguese do not stride in as masters: their ship waits offshore, Japanese boats handle the cargo, and Japanese figures manage the landing. The visual arrangement shows the visitors operating inside a Japanese-controlled setting, which matches the history: the Portuguese came as supplicants for trade that the Japanese authorities permitted and regulated.",
+    "option_explanations": {
+      "A": "Correct. Every logistical detail in the scene, from the ferry boats to the observing crowd, places the Japanese in charge of the encounter.",
+      "B": "Wrong. Conquerors do not wait offshore while locals ferry their goods; nothing in the image suggests Portuguese control.",
+      "C": "Wrong. The Japanese are shown as confident hosts and observers, not as people seeking protection.",
+      "D": "Wrong. Portuguese merchants are clearly shown walking ashore carrying their chests."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Nanban_Byobu_Folding_Screen_Carrack_Portuguese_Traders_in_Nagasaki_by_Kano_Domi.jpg/1920px-Nanban_Byobu_Folding_Screen_Carrack_Portuguese_Traders_in_Nagasaki_by_Kano_Domi.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-022",
+    "unit": 4,
+    "stimulus": "A 1524 printed map of Tenochtitlan, published in Europe with Hernan Cortes's letters. It shows a great city on a lake, ringed by water, with long causeways connecting it to the shore, a walled central temple precinct labeled in Latin, canals, canoes, and dense blocks of buildings.",
+    "stimulus_words": 47,
+    "stem": "The map best supports which conclusion about the Mexica capital the Spanish encountered?",
+    "options": [
+      "(A) It was a small village made up of temporary huts",
+      "(B) It had been abandoned long before the Spanish arrived",
+      "(C) It was a large, planned urban center",
+      "(D) It was built by the Spanish only after the conquest"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The map shows a city covering the lake with causeways, a grid of canals and streets, dense housing blocks, and a great walled ceremonial precinct at its heart. That is the portrait of a complex, deliberately planned imperial capital, one of the largest cities in the world in 1519, not a primitive settlement.",
+    "option_explanations": {
+      "A": "Wrong. The dense blocks of buildings, causeways, and temple precinct contradict any 'small village' reading.",
+      "B": "Wrong. The map depicts a living city of canals, canoes, and buildings, published just three years after the conquest.",
+      "C": "Correct. The causeways, canal grid, and monumental temple precinct are all visible evidence of large-scale Mexica urban planning.",
+      "D": "Wrong. The map was published in 1524 to show the Mexica city Cortes found; the Spanish rebuilt on its ruins afterward."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Map_of_Tenochtitlan_and_Gulf_of_Mexico%2C_1524.jpg/1920px-Map_of_Tenochtitlan_and_Gulf_of_Mexico%2C_1524.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-023",
+    "unit": 4,
+    "stimulus": "A 1524 printed map of Tenochtitlan, published in Europe with Hernan Cortes's letters. It shows a great city on a lake, ringed by water, with long causeways connecting it to the shore, a walled central temple precinct labeled in Latin, canals, canoes, and dense blocks of buildings.",
+    "stimulus_words": 47,
+    "stem": "A historian using this map as evidence about Tenochtitlan should keep in mind that the map",
+    "options": [
+      "(A) was drawn by Mexica priests to record their own history of the city",
+      "(B) was produced in Europe to accompany Cortes's reports to the king",
+      "(C) shows the city exactly as it had appeared in the year 1325",
+      "(D) was banned by the Spanish crown for criticizing the conquest harshly"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The map was printed in Nuremberg to illustrate Cortes's published letters to Charles V, whose favor and funding Cortes needed. A map made to impress a king was likely to emphasize the city's grandeur and riches (justifying the conquest) while rendering it in familiar European visual language, so historians read it as a European representation, not a neutral photograph.",
+    "option_explanations": {
+      "A": "Wrong. The map was printed in Europe from Spanish materials, not drawn by Mexica priests.",
+      "B": "Correct. Its purpose, to accompany Cortes's self-promoting reports to his king, shaped what it emphasized.",
+      "C": "Wrong. The map depicts the city as found in 1519-1521, not as it looked two centuries earlier.",
+      "D": "Wrong. The map was widely published and celebrated; it supported rather than criticized the conquest."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Map_of_Tenochtitlan_and_Gulf_of_Mexico%2C_1524.jpg/1920px-Map_of_Tenochtitlan_and_Gulf_of_Mexico%2C_1524.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-024",
+    "unit": 4,
+    "stimulus": "The Castello Plan of New Amsterdam (1660), a Dutch manuscript map. It shows a compact walled settlement at the tip of Manhattan: a fort, a grid of streets, a canal, a windmill, houses, and warehouses along the waterfront, with ships anchored offshore.",
+    "stimulus_words": 42,
+    "stem": "The plan best illustrates which Dutch colonial priority in North America?",
+    "options": [
+      "(A) converting Indigenous peoples to Christianity as its main goal",
+      "(B) establishing large plantation agriculture in the region",
+      "(C) mining gold and silver in the surrounding hills",
+      "(D) building a fortified commercial outpost for trade"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The plan shows a small walled town organized around its harbor: the fort guards the settlement, warehouses line the waterfront, and ships ride at anchor. Everything serves commerce and its defense. The Dutch West India Company founded New Amsterdam as a trading post for furs and Atlantic commerce, not as a mission, plantation colony, or mining camp.",
+    "option_explanations": {
+      "A": "Wrong. No churches or missions dominate the plan; the prominent structures are the fort and waterfront warehouses.",
+      "B": "Wrong. The plan shows a compact town with no plantation fields; Dutch North America never developed plantation agriculture.",
+      "C": "Wrong. There were no precious metals in the region, and the plan shows no mining works.",
+      "D": "Correct. Fort plus warehouses plus harbor equals a commercial outpost built to trade and to defend that trade."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/1920px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-025",
+    "unit": 4,
+    "stimulus": "The Castello Plan of New Amsterdam (1660), a Dutch manuscript map. It shows a compact walled settlement at the tip of Manhattan: a fort, a grid of streets, a canal, a windmill, houses, and warehouses along the waterfront, with ships anchored offshore.",
+    "stimulus_words": 42,
+    "stem": "Unlike the sprawling Spanish colonial cities built around a central plaza and cathedral, New Amsterdam as shown in the plan was organized primarily around",
+    "options": [
+      "(A) the harbor and warehouses of a settlement designed for commerce",
+      "(B) military barracks of a settlement designed primarily for conquest",
+      "(C) churches and monasteries of a settlement designed for missions",
+      "(D) plantation fields of a settlement designed for farming"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). Spanish colonial cities expressed crown and church authority through the plaza-cathedral-palace layout. The Castello Plan shows a different logic: the town's energy faces the water, where warehouses, the canal, and anchored ships dominate. The comparison reveals a settlement whose organizing principle was trade, matching the Dutch commercial empire's priorities versus Spain's imperial-administrative ones.",
+    "option_explanations": {
+      "A": "Correct. The waterfront warehouses and harbor are the plan's focal point, the commercial counterpart to the Spanish plaza.",
+      "B": "Wrong. The fort is present but modest; the town is not laid out as a military camp for conquest.",
+      "C": "Wrong. Churches are not the organizing feature; commerce is.",
+      "D": "Wrong. No agricultural fields appear in or around the walled town."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Comparison",
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/1920px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-026",
+    "unit": 4,
+    "stimulus": "A 1593 engraving by Theodor de Bry titled 'Tupinamba cannibals.' It shows Tupinamba people in Brazil roasting human limbs on a wooden grill while others dance and play instruments. De Bry, a Frankfurt engraver and publisher, never traveled to the Americas; he based his images on travelers' accounts.",
+    "stimulus_words": 48,
+    "stem": "Given that de Bry never visited the Americas, historians treat images like this one primarily as evidence of",
+    "options": [
+      "(A) the exact rituals practiced by the Tupinamba in Brazil",
+      "(B) Portuguese military victories over the peoples of Brazil",
+      "(C) European imaginations and fears about Indigenous peoples",
+      "(D) Tupinamba artistic traditions of the sixteenth century"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). De Bry assembled his scenes in Frankfurt from secondhand stories, aiming to sell books to thrill-seeking European readers. The lurid grill scene tells us far more about what Europeans imagined, feared, and enjoyed reading about 'savages' than about actual Tupinamba life, making the engraving a window into the European mind.",
+    "option_explanations": {
+      "A": "Wrong. An artist who never saw the scene cannot be trusted on ethnographic detail; the image is sensationalized.",
+      "B": "Wrong. No Portuguese soldiers or battles appear in the engraving.",
+      "C": "Correct. The image's real subject is the European fantasy of the cannibal other, produced for a European market.",
+      "D": "Wrong. The engraving is a European print, not a Tupinamba artwork."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tupinamb%C3%A1_cannibals_%28de_Bry%2C_1593%29.jpg/1920px-Tupinamb%C3%A1_cannibals_%28de_Bry%2C_1593%29.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-027",
+    "unit": 4,
+    "stimulus": "A 1593 engraving by Theodor de Bry titled 'Tupinamba cannibals.' It shows Tupinamba people in Brazil roasting human limbs on a wooden grill while others dance and play instruments. De Bry, a Frankfurt engraver and publisher, never traveled to the Americas; he based his images on travelers' accounts.",
+    "stimulus_words": 48,
+    "stem": "Which historical question could this engraving best help answer?",
+    "options": [
+      "(A) What did the spoken Tupinamba language sound like to European visitors?",
+      "(B) How did Europeans portray Indigenous Americans to justify conquest?",
+      "(C) How many Tupinamba people were living in Brazil in 1593?",
+      "(D) What crops did the Tupinamba grow in their villages?"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The engraving is most useful not as a record of Tupinamba life but as a record of European representation: it shows the 'savage cannibal' stereotype that made conquest look like a civilizing mission and that sold de Bry's illustrated volumes. Historians use it to study propaganda and prejudice, not ethnography.",
+    "option_explanations": {
+      "A": "Wrong. A silent engraving cannot convey anything about language.",
+      "B": "Correct. The exaggerated savagery is exactly the imagery that justified conquest and entertained readers.",
+      "C": "Wrong. The image gives no population data.",
+      "D": "Wrong. No crops or farming appear in the scene."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tupinamb%C3%A1_cannibals_%28de_Bry%2C_1593%29.jpg/1920px-Tupinamb%C3%A1_cannibals_%28de_Bry%2C_1593%29.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-028",
+    "unit": 4,
+    "stimulus": "A 1734 Spanish diagram of a galleon, with labels identifying its parts. The ship has multiple gun decks lined with cannon, high fore- and stern-castles, and a large hull for cargo.",
+    "stimulus_words": 31,
+    "stem": "The design features shown in the diagram best reflect which Spanish priority?",
+    "options": [
+      "(A) speed for outrunning storms on the Pacific crossing",
+      "(B) comfort for transporting large numbers of settlers to America safely",
+      "(C) a shallow draft suitable for river exploration",
+      "(D) protecting valuable silver shipments with heavily armed vessels"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The diagram emphasizes gun decks bristling with cannon alongside a capacious cargo hull: a warship-merchant hybrid. Spanish treasure fleets carried the silver of Potosi and Mexico through waters prowled by pirates and rival navies, so the galleon was designed to fight off attackers while hauling bullion.",
+    "option_explanations": {
+      "A": "Wrong. Galleons were heavy and slow; their design sacrificed speed for cargo capacity and firepower.",
+      "B": "Wrong. The labeled features stress guns and cargo space, not passenger accommodation.",
+      "C": "Wrong. Galleons were deep-draft ocean vessels, useless for shallow rivers.",
+      "D": "Correct. The combination of heavy armament and large cargo capacity matches the treasure-fleet mission."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Galleon_after_Gonz%C3%A1lez_Cabrera_Bueno_1734.png",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-029",
+    "unit": 4,
+    "stimulus": "A 1668 engraving of Elmina Castle on the coast of West Africa. It shows a massive stone fortress with a church, walls, and cannons overlooking the sea, with a European ship anchored offshore and an African town nearby.",
+    "stimulus_words": 38,
+    "stem": "Elmina (built by the Portuguese in 1482) best exemplifies the European strategy of",
+    "options": [
+      "(A) building fortified coastal trading posts rather than settler colonies",
+      "(B) conquering and directly ruling the African interior kingdoms nearby by force",
+      "(C) banning all trade with the African kingdoms",
+      "(D) founding plantation colonies along the African coast"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The engraving shows exactly the feitoria model: a powerful but compact coastal fortress with its church and guns, a ship offshore, and an African town beside it rather than a European colony around it. Europeans wanted gold and later captives from African trade networks, and a fortified post secured that commerce without the cost of territorial conquest.",
+    "option_explanations": {
+      "A": "Correct. Fort, church, ship, and neighboring African town are the visual signature of the trading-post strategy.",
+      "B": "Wrong. The fort sits on the coast; there is no sign of inland conquest or administration.",
+      "C": "Wrong. The fort existed to conduct trade with African kingdoms, not to ban it.",
+      "D": "Wrong. No plantations or settler farms appear; the establishment is military-commercial."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/ElminaCastle1668.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-030",
+    "unit": 4,
+    "stimulus": "A 1668 engraving of Elmina Castle on the coast of West Africa. It shows a massive stone fortress with a church, walls, and cannons overlooking the sea, with a European ship anchored offshore and an African town nearby.",
+    "stimulus_words": 38,
+    "stem": "By 1668, when this engraving was made, Elmina had been captured and held by the Dutch for over thirty years. The continued operation of the fort under new ownership best illustrates",
+    "options": [
+      "(A) the end of all European interest in African trade altogether",
+      "(B) African kingdoms driving all of the Europeans off the coast entirely by force",
+      "(C) the fortified-trade model continuing as rival empires replaced one another",
+      "(D) the Dutch shift from trade to large-scale settlement in Africa"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The Portuguese built Elmina; the Dutch seized it in 1637 and ran the same gold and slave trade from the same walls. The 1668 engraving, made under Dutch ownership, shows the fort unchanged in function: what changed was the flag, not the system. Rival empires inherited and continued the fortified-trading-post model.",
+    "option_explanations": {
+      "A": "Wrong. The maintained, garrisoned fort shows continued, not ended, interest.",
+      "B": "Wrong. The African town coexists with the European fort; no expulsion is depicted or occurred.",
+      "C": "Correct. Same fort, same trade, new owners: the model persisted across the Portuguese-to-Dutch transition.",
+      "D": "Wrong. The Dutch, like the Portuguese, kept Elmina as a trading fort, not a settler colony."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/ElminaCastle1668.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  }
+]

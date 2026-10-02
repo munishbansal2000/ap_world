@@ -1,0 +1,342 @@
+[
+  {
+    "id": "wh-vis-u4-031",
+    "unit": 4,
+    "stimulus": "A 1612 bird's-eye engraving of the Amsterdam stock exchange (Beurs van Hendrick de Keyser). It shows a grand courtyard building crowded with merchants gathered in groups, with galleries and offices around the square.",
+    "stimulus_words": 33,
+    "stem": "The building shown was central to which economic development of the 1600s?",
+    "options": [
+      "(A) the return to barter economies across Europe",
+      "(B) the rise of joint-stock companies and share trading",
+      "(C) the banning of overseas investment by the European states",
+      "(D) the decline of Amsterdam as a major trading city"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The Amsterdam bourse was the world's first formal stock exchange, where shares of the Dutch East India Company (VOC), founded 1602, were bought and sold. The engraving's crowds of merchants gathered to trade paper shares show the new financial machinery: joint-stock ownership and a public market for it.",
+    "option_explanations": {
+      "A": "Wrong. The exchange represents the opposite of barter: sophisticated trade in money, credit, and shares.",
+      "B": "Correct. The building housed the organized trading of VOC shares, the hallmark of the financial revolution.",
+      "C": "Wrong. States encouraged overseas investment; the exchange existed to facilitate it.",
+      "D": "Wrong. The grand new building shows Amsterdam at its commercial peak, not in decline."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bird%27s-eye_view_of_the_Beurs_van_Hendrick_de_Keyser_by_Claes_Jansz._Visscher_%28II%29_1612_Stadsarchief_Amsterdam_010001000620.jpg/1920px-Bird%27s-eye_view_of_the_Beurs_van_Hendrick_de_Keyser_by_Claes_Jansz._Visscher_%28II%29_1612_Stadsarchief_Amsterdam_010001000620.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-032",
+    "unit": 4,
+    "stimulus": "A 1612 bird's-eye engraving of the Amsterdam stock exchange (Beurs van Hendrick de Keyser). It shows a grand courtyard building crowded with merchants gathered in groups, with galleries and offices around the square.",
+    "stimulus_words": 33,
+    "stem": "Institutions like the one shown best explain how the Dutch were able to",
+    "options": [
+      "(A) avoid all financial risk in overseas trading ventures",
+      "(B) prevent any other European nation from trading in Asia at all",
+      "(C) abolish the transatlantic slave trade entirely",
+      "(D) pool capital from many investors to fund expensive voyages"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). Outfitting an East Indiaman for a two-year voyage cost a fortune and could end in shipwreck. By selling shares to hundreds of investors and letting them trade those shares at the bourse, the Dutch spread the risk and assembled capital no single merchant could raise, bankrolling the VOC's Asian empire.",
+    "option_explanations": {
+      "A": "Wrong. Risk was not avoided but distributed; investors still lost money when ships sank.",
+      "B": "Wrong. The exchange funded Dutch trade but never excluded rivals like the English from Asia.",
+      "C": "Wrong. Dutch merchants and the VOC participated in the slave trade; the bourse did nothing to abolish it.",
+      "D": "Correct. Pooling many small investments into large, risk-shared ventures was the joint-stock breakthrough the building served."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bird%27s-eye_view_of_the_Beurs_van_Hendrick_de_Keyser_by_Claes_Jansz._Visscher_%28II%29_1612_Stadsarchief_Amsterdam_010001000620.jpg/1920px-Bird%27s-eye_view_of_the_Beurs_van_Hendrick_de_Keyser_by_Claes_Jansz._Visscher_%28II%29_1612_Stadsarchief_Amsterdam_010001000620.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-033",
+    "unit": 4,
+    "stimulus": "A bird's-eye engraving of Dejima, the small fan-shaped artificial island in Nagasaki harbor. It shows Dutch warehouses, residences, and gardens packed onto the island, which is connected to the Japanese mainland by a single guarded bridge.",
+    "stimulus_words": 36,
+    "stem": "The island's design best reflects which Tokugawa policy?",
+    "options": [
+      "(A) limiting European contact to one supervised port",
+      "(B) welcoming Dutch settlers to live throughout Japan",
+      "(C) banning all foreign trade with Japan entirely",
+      "(D) granting the Dutch territorial colonies within Japan"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). After expelling the Portuguese and restricting Christianity, the Tokugawa shogunate confined the Dutch to Dejima, an artificial island that could be watched and sealed. The single guarded bridge in the engraving is the visual proof: trade was permitted but Europeans were physically quarantined from Japanese society.",
+    "option_explanations": {
+      "A": "Correct. The tiny, walled, bridge-guarded island embodies supervised, limited contact.",
+      "B": "Wrong. The Dutch were confined to this one island, the opposite of free settlement.",
+      "C": "Wrong. Trade continued with the Dutch (and Chinese); it was restricted, not banned.",
+      "D": "Wrong. Dejima was a leased trading post under Japanese authority, not a Dutch colony."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Gezicht_in_vogelvluchtperspectief_op_Dejima%2C_RP-P-OB-47.391.jpg/1920px-Gezicht_in_vogelvluchtperspectief_op_Dejima%2C_RP-P-OB-47.391.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-034",
+    "unit": 4,
+    "stimulus": "A bird's-eye engraving of Dejima, the small fan-shaped artificial island in Nagasaki harbor. It shows Dutch warehouses, residences, and gardens packed onto the island, which is connected to the Japanese mainland by a single guarded bridge.",
+    "stimulus_words": 36,
+    "stem": "Compared with the Spanish and Portuguese empires in the Americas, Tokugawa Japan's treatment of the Dutch as shown here demonstrates",
+    "options": [
+      "(A) that Japan lacked the military power to resist the Europeans at all",
+      "(B) that Europeans had no real interest in trading with Japan",
+      "(C) that a strong Asian state could set the terms of European trade",
+      "(D) that Japan had adopted Christianity as its state religion"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). In the Americas, Europeans imposed the terms of contact; in Japan, the shogunate imposed them, penning the Dutch onto a supervised island. The contrast shows European expansion was not irresistible: where a centralized, powerful state existed, Europeans traded as guests under local rules rather than as conquerors.",
+    "option_explanations": {
+      "A": "Wrong. Japan's ability to confine the Dutch proves the opposite: it had ample power to control them.",
+      "B": "Wrong. The Dutch maintained the Dejima post for two centuries precisely because the trade was profitable.",
+      "C": "Correct. The guarded island is evidence of Japanese state strength setting the conditions of exchange.",
+      "D": "Wrong. The Tokugawa persecuted Christianity; the Dutch were tolerated partly because they agreed not to preach."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Comparison",
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Gezicht_in_vogelvluchtperspectief_op_Dejima%2C_RP-P-OB-47.391.jpg/1920px-Gezicht_in_vogelvluchtperspectief_op_Dejima%2C_RP-P-OB-47.391.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-035",
+    "unit": 4,
+    "stimulus": "A 1776 British map of Hudson Bay and the surrounding lands. It labels the bay, its rivers, and the northern coastline in detail, with a cartouche celebrating the region's commercial importance.",
+    "stimulus_words": 31,
+    "stem": "The map's careful charting of Hudson Bay's rivers and coasts best reflects which British interest?",
+    "options": [
+      "(A) establishing sugar plantations in the north of Canada",
+      "(B) securing the fur-trade network of the Hudson's Bay Company",
+      "(C) finding gold mines in the Arctic regions",
+      "(D) converting the Indigenous peoples of the region to Christianity"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The Hudson's Bay Company, chartered in 1670, built its fur empire on the bay's river systems, which carried pelts from the interior to its coastal posts. A detailed commercial map of those rivers and shores served the fur trade's logistics: locating posts, planning canoe routes, and defending the company's chartered monopoly.",
+    "option_explanations": {
+      "A": "Wrong. The subarctic climate shown could not support sugar plantations.",
+      "B": "Correct. The rivers-and-coastline detail maps the infrastructure of the HBC fur trade.",
+      "C": "Wrong. The cartouche celebrates commerce, and no mines are marked; furs were the region's wealth.",
+      "D": "Wrong. The map is a commercial document, not a missionary one."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/1776_Bonne_Map_of_the_Hudson_Bay%2C_Canada_-_Geographicus_-_HudsonBay-bonne-1776.jpg/1920px-1776_Bonne_Map_of_the_Hudson_Bay%2C_Canada_-_Geographicus_-_HudsonBay-bonne-1776.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-036",
+    "unit": 4,
+    "stimulus": "A 1776 British map of Hudson Bay and the surrounding lands. It labels the bay, its rivers, and the northern coastline in detail, with a cartouche celebrating the region's commercial importance.",
+    "stimulus_words": 31,
+    "stem": "Furs gathered in the region shown on the map were shipped to Europe, where beaver pelts were made into fashionable hats. This best illustrates",
+    "options": [
+      "(A) the self-sufficiency of the colonial economies in North America",
+      "(B) the decline of European demand for luxury goods such as furs",
+      "(C) Indigenous peoples' rejection of European goods in trade",
+      "(D) how colonial extraction of resources fed European markets"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The bay's furs did not stay in North America; they crossed the Atlantic to become hats for European consumers. The map's commercial geography, tied to a distant fashion market, shows the colonial economy's role as a supplier of raw materials to European demand, a core pattern of the Atlantic economy.",
+    "option_explanations": {
+      "A": "Wrong. Shipping furs across the ocean to Europe is the opposite of self-sufficiency.",
+      "B": "Wrong. The thriving trade the map celebrates shows demand was strong, not declining.",
+      "C": "Wrong. Indigenous hunters participated eagerly in the trade, exchanging pelts for European goods.",
+      "D": "Correct. The region-to-market chain from Hudson Bay trappers to European hat-wearers is the colonial supply pattern."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/1776_Bonne_Map_of_the_Hudson_Bay%2C_Canada_-_Geographicus_-_HudsonBay-bonne-1776.jpg/1920px-1776_Bonne_Map_of_the_Hudson_Bay%2C_Canada_-_Geographicus_-_HudsonBay-bonne-1776.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-037",
+    "unit": 4,
+    "stimulus": "A 1683 painting of Table Bay (Cape Town) showing Dutch ships anchored beneath Table Mountain, with small boats ferrying goods and people between the ships and the shore settlement.",
+    "stimulus_words": 29,
+    "stem": "The Dutch settlement at the Cape of Good Hope shown here served primarily as",
+    "options": [
+      "(A) a station where VOC ships restocked food and water en route to Asia",
+      "(B) a penal colony for convicted Dutch criminals",
+      "(C) a plantation colony growing spices for the European market",
+      "(D) the capital of a large and powerful Dutch settler empire in southern Africa"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The painting shows ships at anchor being serviced by shore boats: the Cape's purpose was logistical. Founded in 1652, the station grew fresh food and supplied water so VOC crews could survive the long Indian Ocean leg, as the anchored men-of-war and ferry boats in the image suggest.",
+    "option_explanations": {
+      "A": "Correct. The ships being resupplied from shore show the station's provisioning function.",
+      "B": "Wrong. The Cape was a company supply station, not a penal colony.",
+      "C": "Wrong. The Cape's climate could not grow tropical spices; its value was as a stopover.",
+      "D": "Wrong. In 1683 it was a small company outpost, not the capital of a settler empire."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aernout_Smit_Table_Bay%2C_1683_William_Fehr_Collection_Cape_Town.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-038",
+    "unit": 4,
+    "stimulus": "A 1683 painting of Table Bay (Cape Town) showing Dutch ships anchored beneath Table Mountain, with small boats ferrying goods and people between the ships and the shore settlement.",
+    "stimulus_words": 29,
+    "stem": "The Dutch established the station shown because the voyage between Europe and Asia",
+    "options": [
+      "(A) was too short to need any stops along the way",
+      "(B) passed through ocean waters with no wind at all",
+      "(C) was so long that crews suffered scurvy without resupply",
+      "(D) was blocked by the Ottoman Empire's control of the sea route"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). A round trip to Asia took the better part of two years, and crews died of scurvy and starvation when fresh food and water ran out. The Cape station existed to break that deadly stretch: the painting's boats ferrying supplies to anchored ships show the remedy in action.",
+    "option_explanations": {
+      "A": "Wrong. The voyage was one of the longest in the world, which is why the station was needed.",
+      "B": "Wrong. Wind was not the problem on this route; the killer was the duration without fresh provisions.",
+      "C": "Correct. Resupply against scurvy and spoilage was the station's entire reason for existing.",
+      "D": "Wrong. The Ottomans controlled the overland routes, not the Cape sea route the Dutch were sailing."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aernout_Smit_Table_Bay%2C_1683_William_Fehr_Collection_Cape_Town.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-039",
+    "unit": 4,
+    "stimulus": "A 1748 newspaper advertisement from the Pennsylvania Gazette: 'RUN away... from Philip Syng, of this city, silversmith, a Negroe man, named Cato, about 20 years old... speaks good English... had on when he went away two jackets...' The ad offers 'Twenty Shillings reward' for his return.",
+    "stimulus_words": 46,
+    "stem": "Historians use advertisements like this one as evidence that",
+    "options": [
+      "(A) enslaved people accepted slavery without any resistance",
+      "(B) enslaved people actively resisted bondage by running away",
+      "(C) colonial newspapers firmly opposed the institution of slavery",
+      "(D) rewards offered for runaways were never actually paid out"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The advertisement exists because Cato escaped: a master would not pay for newspaper space and offer twenty shillings unless running away was a real, recurring threat. Thousands of such ads in colonial papers document the persistent, everyday resistance of enslaved people who seized their own freedom.",
+    "option_explanations": {
+      "A": "Wrong. The ad is proof of resistance, not acceptance; Cato risked severe punishment to flee.",
+      "B": "Correct. The runaway notice itself is the evidence: flight was common enough to sustain a whole genre of advertising.",
+      "C": "Wrong. The paper profited from these ads; publishing them shows commercial complicity, not opposition.",
+      "D": "Wrong. The ad cannot tell us whether this particular reward was paid; it tells us flight happened."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cato_fugitive_slave_advertisement%2C_Pennsylvania_Gazette%2C_May_12%2C_1748.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-040",
+    "unit": 4,
+    "stimulus": "A 1748 newspaper advertisement from the Pennsylvania Gazette: 'RUN away... from Philip Syng, of this city, silversmith, a Negroe man, named Cato, about 20 years old... speaks good English... had on when he went away two jackets...' The ad offers 'Twenty Shillings reward' for his return.",
+    "stimulus_words": 46,
+    "stem": "The advertisement describes Cato as a silversmith's worker who 'speaks good English' and lists his clothing in detail. These details best show that",
+    "options": [
+      "(A) Cato was a free white apprentice working for wages",
+      "(B) the master was concerned only for Cato's welfare and safety",
+      "(C) most enslaved people in Pennsylvania were field workers on large farms nearby",
+      "(D) enslaved people were treated as valuable property worth describing"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The ad catalogs Cato the way one catalogs lost property: trade, language, age, clothing, all to identify and recover him. The careful description of a skilled, English-speaking worker shows enslaved people were valued assets, and the notice's purpose, to get the 'property' back, lays bare the property logic of slavery.",
+    "option_explanations": {
+      "A": "Wrong. The ad explicitly calls Cato 'a Negroe man' belonging to Syng's household, not a free apprentice.",
+      "B": "Wrong. The reward seeks Cato's return to bondage; concern for recovering valuable property is not concern for his welfare.",
+      "C": "Wrong. The ad describes one urban artisan; it cannot support a claim about most enslaved Pennsylvanians.",
+      "D": "Correct. The detailed inventory of skills and appearance served the ad's purpose: identifying valuable human property."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cato_fugitive_slave_advertisement%2C_Pennsylvania_Gazette%2C_May_12%2C_1748.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  }
+]

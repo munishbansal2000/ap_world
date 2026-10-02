@@ -1,0 +1,342 @@
+[
+  {
+    "id": "wh-vis-u4-041",
+    "unit": 4,
+    "stimulus": "A circa-1585 English watercolor titled 'Their sitting at meate,' by the artist John White, showing an Algonquian man in Virginia seated on a mat eating fish, with a pot, a gourd, and fish laid out beside him.",
+    "stimulus_words": 37,
+    "stem": "The image best illustrates which aspect of early English-Indigenous contact in North America?",
+    "options": [
+      "(A) English curiosity about Indigenous foodways and daily life",
+      "(B) large-scale English military conquest of Virginia in the year 1618",
+      "(C) Algonquian adoption of English farming methods and crops",
+      "(D) the complete absence of any contact before the year 1620"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The watercolor carefully records what the man eats and the vessels he eats from: an ethnographic study, not a battle scene. In the fragile early years of Jamestown, colonists depended on Indigenous food and knowledge, and images like this show English observers documenting the daily life of the people whose world they had entered.",
+    "option_explanations": {
+      "A": "Correct. The detailed attention to food and utensils shows an observer studying Indigenous daily life.",
+      "B": "Wrong. Nothing military appears; the scene is peaceful and domestic.",
+      "C": "Wrong. The image shows Algonquian food practices, not English farming.",
+      "D": "Wrong. The 1618 image itself proves sustained contact was already underway."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Their_sitting_at_meate_-_Travels_through_Virginia_%281618%29%2C_f.85_-_BL_Sloane_MS_1622.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-042",
+    "unit": 4,
+    "stimulus": "A circa-1585 English watercolor titled 'Their sitting at meate,' by the artist John White, showing an Algonquian man in Virginia seated on a mat eating fish, with a pot, a gourd, and fish laid out beside him.",
+    "stimulus_words": 37,
+    "stem": "A historian should interpret this image cautiously because it",
+    "options": [
+      "(A) was painted centuries after the events that it depicts",
+      "(B) shows only landscapes with no people in them",
+      "(C) was made by an English observer for an English audience",
+      "(D) was created by the Algonquian man himself as a self-portrait"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The watercolor was painted by an English colonist for readers back in England, who expected edifying curiosities from the New World. That purpose shaped the image: the Algonquian man is presented as a specimen of native life, posed and labeled for European consumption, so historians must read it as a European view of Indigenous people rather than an Indigenous self-portrait.",
+    "option_explanations": {
+      "A": "Wrong. The watercolor is dated 1618, contemporary with early Jamestown.",
+      "B": "Wrong. The central figure is a person; the image is a figure study, not a landscape.",
+      "C": "Correct. Authorship and audience, English observer for English viewers, are the key limits on the source.",
+      "D": "Wrong. It was painted by the English observer, not by its Algonquian subject."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Their_sitting_at_meate_-_Travels_through_Virginia_%281618%29%2C_f.85_-_BL_Sloane_MS_1622.jpg",
+    "image_license": "CC0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-043",
+    "unit": 4,
+    "stimulus": "A 1747 French plan of the fort at Ouidah (in present-day Benin). It shows a square walled fort with bastions, cannons, a flag, and labeled buildings including storerooms, drawn with military precision.",
+    "stimulus_words": 32,
+    "stem": "The fort's design and buildings best indicate that Ouidah served as",
+    "options": [
+      "(A) a French settler farming colony on the coast",
+      "(B) a fortified base for the slave trade, holding captives",
+      "(C) a missionary center with no military function at all",
+      "(D) an African-built fortress that excluded Europeans entirely"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The plan shows a compact military installation: bastions, cannon, and storerooms, not farms or a town. Ouidah was one of the principal ports of the transatlantic slave trade, and the fort's purpose was to warehouse captive Africans and trade goods securely while French agents negotiated purchases with African rulers and awaited ships.",
+    "option_explanations": {
+      "A": "Wrong. No farmland or settler housing appears; the labeled buildings are military and storage.",
+      "B": "Correct. Fortifications plus storerooms at a known slave port equal a slave-trade factory-fort.",
+      "C": "Wrong. The bastions and cannons drawn with military precision rule out a purely missionary function.",
+      "D": "Wrong. The plan is French, flies a French flag, and was drawn by French engineers."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Plan_du_fort_fran%C3%A7ois_de_Whidah-1747.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-044",
+    "unit": 4,
+    "stimulus": "A 1747 French plan of the fort at Ouidah (in present-day Benin). It shows a square walled fort with bastions, cannons, a flag, and labeled buildings including storerooms, drawn with military precision.",
+    "stimulus_words": 32,
+    "stem": "European powers built forts like the one at Ouidah rather than simply anchoring offshore because they needed to",
+    "options": [
+      "(A) grow food for the long voyage back to Europe",
+      "(B) house large European settler populations on the coast for farming tobacco",
+      "(C) escape taxation by their own governments back home",
+      "(D) defend stored captives and goods while keeping African rulers' favor"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). A ship at anchor could be attacked and could not store captives for months while awaiting the Middle Passage sailing season. The fort solved both problems: its cannons defended valuable human cargo and goods against rival Europeans, and its permanent presence embodied the negotiated agreements, rents, and customs paid to African rulers who controlled access to the trade.",
+    "option_explanations": {
+      "A": "Wrong. The fort's labeled buildings are storerooms and quarters, not farms; food came by trade.",
+      "B": "Wrong. Europeans in West Africa remained a tiny garrison of agents, not a settler population.",
+      "C": "Wrong. The forts operated under royal charters; evading home taxation was not their purpose.",
+      "D": "Correct. Defense of stored captives and goods plus the diplomatic foothold with African authorities explain the fort."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Plan_du_fort_fran%C3%A7ois_de_Whidah-1747.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-045",
+    "unit": 4,
+    "stimulus": "A seventeenth-century engraving by Georg Marcgraf of a Brazilian sugar mill (engenho). It shows cane fields, a water-powered mill building, boiling houses, storehouses, and the planter's house arranged as one complex.",
+    "stimulus_words": 31,
+    "stem": "The engenho shown best exemplifies which feature of the Brazilian sugar economy?",
+    "options": [
+      "(A) farming and industry combined in a single large enterprise",
+      "(B) small-scale peasant sugar farming in the interior",
+      "(C) the absence of water power in colonial industry entirely at the time",
+      "(D) sugar production carried out without enslaved labor"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The engraving lays out the whole system in one view: fields feeding a water-powered crushing mill, boiling houses refining the juice, storehouses holding the product, and the big house overseeing all. The engenho was an agro-industrial complex where growing and manufacturing happened under one management, the characteristic unit of the sugar economy.",
+    "option_explanations": {
+      "A": "Correct. Fields, mill, boiling houses, and storehouses in one complex show farming fused with industry.",
+      "B": "Wrong. The scale of the buildings and works is the opposite of peasant smallholding.",
+      "C": "Wrong. The engraving explicitly shows a water-powered mill.",
+      "D": "Wrong. Engenhos ran on enslaved African labor; the question's correct answer does not depend on the image showing workers."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Georg_Marcgraf_Engenho_de_A%C3%A7ucar.PNG",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-046",
+    "unit": 4,
+    "stimulus": "A seventeenth-century engraving by Georg Marcgraf of a Brazilian sugar mill (engenho). It shows cane fields, a water-powered mill building, boiling houses, storehouses, and the planter's house arranged as one complex.",
+    "stimulus_words": 31,
+    "stem": "Because sugar cane had to be crushed quickly after cutting and the equipment shown was expensive, sugar production tended to",
+    "options": [
+      "(A) be done by independent small farmers on their own",
+      "(B) move away from the coast toward the interior",
+      "(C) concentrate land, capital, and enslaved labor in a few hands",
+      "(D) decline steadily in profitability over the course of the 1600s"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). Cane spoils within days of cutting, so planters needed their own mill, and mills cost a fortune to build and run. That technical and financial logic, visible in the engraving's integrated complex, drove consolidation: wealth concentrated in the few who could afford an engenho, worked by large enslaved crews on extensive lands.",
+    "option_explanations": {
+      "A": "Wrong. Small farmers could not afford the mill the system required.",
+      "B": "Wrong. Sugar stayed near the coast for shipping; the engraving shows a coastal-style complex.",
+      "C": "Correct. Expensive, time-sensitive processing is exactly what concentrated the industry into great plantations.",
+      "D": "Wrong. Sugar remained enormously profitable through the 1600s; that is why the engenhos kept being built."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Georg_Marcgraf_Engenho_de_A%C3%A7ucar.PNG",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-047",
+    "unit": 4,
+    "stimulus": "A painting of nutmeg harvesters at work among the trees on Lontor, one of the tiny Banda Islands in eastern Indonesia. Workers gather the fruit beneath tall tropical trees.",
+    "stimulus_words": 29,
+    "stem": "In the 1600s the Banda Islands were the world's only source of nutmeg. This fact best explains why the Dutch East India Company (VOC)",
+    "options": [
+      "(A) ignored the islands as commercially worthless specks",
+      "(B) used violence to monopolize the islands' nutmeg",
+      "(C) shared the nutmeg trade freely with the English merchants",
+      "(D) banned the consumption of nutmeg in Europe"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). Nutmeg sold in Europe for many times its Asian price, and the painting shows why it was so precious: it grew only in this one tiny archipelago. To capture those profits, the VOC conquered the Bandas in 1621, killed or enslaved much of the population, and enforced a monopoly that kept prices high for a century.",
+    "option_explanations": {
+      "A": "Wrong. The world's sole source of a luxury spice was the opposite of worthless.",
+      "B": "Correct. A single tiny source plus huge European demand made violent monopoly the VOC's chosen strategy.",
+      "C": "Wrong. The VOC expelled the English from the islands (as at Amboyna in 1623) rather than sharing.",
+      "D": "Wrong. The VOC restricted supply to keep prices high; it never banned consumption."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Nutmeg_harvest_on_Lontor%2C_Banda.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-048",
+    "unit": 4,
+    "stimulus": "A painting of nutmeg harvesters at work among the trees on Lontor, one of the tiny Banda Islands in eastern Indonesia. Workers gather the fruit beneath tall tropical trees.",
+    "stimulus_words": 29,
+    "stem": "The painting shows a small island grove producing a spice Europeans could not grow at home. This geographic reality best explains which pattern of the spice trade?",
+    "options": [
+      "(A) Spices were cheap and abundant for Europeans",
+      "(B) Europeans had no real demand for Asian goods",
+      "(C) The Dutch allowed free competition in the nutmeg trade there always",
+      "(D) Holding tiny island sources brought enormous profits and power"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The image makes the economics visible: the entire world supply came from groves like this one on a speck of land. Whoever controlled that speck controlled the global supply, which is why a handful of islands could make the VOC rich and why Europeans fought wars over them.",
+    "option_explanations": {
+      "A": "Wrong. Scarcity at the source meant high prices, not cheap abundance.",
+      "B": "Wrong. Intense European demand for spices is what made the islands worth fighting over.",
+      "C": "Wrong. The VOC's whole policy was to destroy competition and monopolize supply.",
+      "D": "Correct. The tiny, irreplaceable source shown is the reason island control meant fortune and power."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Nutmeg_harvest_on_Lontor%2C_Banda.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-049",
+    "unit": 4,
+    "stimulus": "A Spanish silver coin dated 1759, an 'eight reales' piece (piece of eight). One face shows two crowned pillars wrapped in banners reading 'VTRAQUE VNUM' ('both are one') between the Pillars of Hercules, with the date 1759 below.",
+    "stimulus_words": 38,
+    "stem": "The imagery and motto on this coin best reflect which development?",
+    "options": [
+      "(A) American silver became a global currency joining Spain's two worlds",
+      "(B) Spain had abandoned all of its American colonies entirely by the year 1759",
+      "(C) the coin was used only within Spain itself, never abroad",
+      "(D) China refused to accept any foreign silver at all"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The Pillars of Hercules stood for Spain's Old World realm and the New World beyond them; 'both are one' proclaimed their union. Struck from American silver in 1759, the piece of eight became the world's most widely circulated coin, accepted from the Americas to Asia: a global currency born of New World mines.",
+    "option_explanations": {
+      "A": "Correct. The motto and pillars explicitly celebrate the union of Spain's two worlds through American silver.",
+      "B": "Wrong. The 1759 date on an American-silver coin proves the colonies were still producing wealth for Spain.",
+      "C": "Wrong. The piece of eight circulated worldwide; its fame rests on use far beyond Spain.",
+      "D": "Wrong. China eagerly absorbed American silver, which is why so many of these coins ended up there."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ocho_reales_de_plata_1759_%28reverso%29.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-050",
+    "unit": 4,
+    "stimulus": "A Spanish silver coin dated 1759, an 'eight reales' piece (piece of eight). One face shows two crowned pillars wrapped in banners reading 'VTRAQUE VNUM' ('both are one') between the Pillars of Hercules, with the date 1759 below.",
+    "stimulus_words": 38,
+    "stem": "Silver mined at Potosi was minted into coins like this one, which have been found by archaeologists from Mexico to the Philippines to China. This distribution best supports which conclusion?",
+    "options": [
+      "(A) Spain successfully kept all of its silver within its own empire",
+      "(B) the Chinese economy had no use for silver as money",
+      "(C) American silver fueled a global trade network feeding Chinese demand",
+      "(D) the Manila galleons carried only silk across the Pacific, never silver"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The coin's travels trace the silver circuit: mined at Potosi, minted in Spanish America, shipped across the Pacific on the Manila galleons, and absorbed by China, whose tax system and economy ran on silver. The archaeological footprint of one coin type across three continents is the material record of the first truly global trade.",
+    "option_explanations": {
+      "A": "Wrong. Finds in the Philippines and China prove silver flowed far beyond Spanish imperial borders.",
+      "B": "Wrong. China's massive demand for silver is exactly what pulled it across the Pacific.",
+      "C": "Correct. The coin's distribution maps the Potosi-to-China silver flow that tied the world economy together.",
+      "D": "Wrong. Silver was the galleons' principal westbound cargo; silk and porcelain came east in return."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ocho_reales_de_plata_1759_%28reverso%29.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
+  }
+]

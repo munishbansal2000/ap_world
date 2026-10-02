@@ -1,0 +1,342 @@
+[
+  {
+    "id": "wh-vis-u4-011",
+    "unit": 4,
+    "stimulus": "A cross-section engraving titled 'A Section of a Silver Mine in Potosi, and the Manner of Working it' (c. 1750). It shows laborers climbing steep ladders inside the mountain carrying baskets of ore on their backs, with a mining town at the mountain's base.",
+    "stimulus_words": 44,
+    "stem": "The labor system shown in the engraving is best identified as",
+    "options": [
+      "(A) the encomienda, the grant of Indigenous tribute and labor to Spanish settlers",
+      "(B) the mita, the colonial draft-labor system that supplied workers to the mines",
+      "(C) wage labor freely contracted by independent Spanish miners",
+      "(D) the repartimiento of enslaved Africans to the silver mines"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The engraving shows Indigenous laborers doing the brutal work of carrying ore up ladders inside the Cerro Rico at Potosi. This was the mita: a colonial draft that required Indigenous communities to send a rotating share of their men to work the mines, adapted from an Inca labor obligation into the engine of Spanish silver production.",
+    "option_explanations": {
+      "A": "Wrong. The encomienda granted settlers tribute and labor from Indigenous communities, but the organized mine drafts at Potosi were the mita system.",
+      "B": "Correct. The Indigenous ore-carriers working the mine shafts are the mita laborers the system was designed to deliver.",
+      "C": "Wrong. The workers shown are conscripted Indigenous laborers, not free wage laborers.",
+      "D": "Wrong. The mita used Indigenous draft labor; enslaved Africans worked in some mines but the Potosi mita was Indigenous."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/A_silver_mine_in_Potos%C3%AD%2C_Bolivia_-_cross-section_and_miners_digging_%28ca._1750%29.jpg/1920px-A_silver_mine_in_Potos%C3%AD%2C_Bolivia_-_cross-section_and_miners_digging_%28ca._1750%29.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-012",
+    "unit": 4,
+    "stimulus": "A cross-section engraving titled 'A Section of a Silver Mine in Potosi, and the Manner of Working it' (c. 1750). It shows laborers climbing steep ladders inside the mountain carrying baskets of ore on their backs, with a mining town at the mountain's base.",
+    "stimulus_words": 44,
+    "stem": "The scale of mining shown at Potosi best helps explain which broader development?",
+    "options": [
+      "(A) the abandonment of mining across Spanish America in favor of plantation agriculture",
+      "(B) the collapse of trade between Europe and Asia in the 1700s",
+      "(C) the end of forced labor in the Spanish colonies by the mid-1700s",
+      "(D) Spain's ability to fund its wars and worldwide empire with American silver"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). Potosi was the richest silver source in the world; the engraving's cutaway of the honeycombed mountain and its dependent town conveys the industrial scale of extraction. The Spanish crown took a royal fifth of this silver, and the flood of American bullion financed Spain's armies, its bureaucracy, and its purchases of Asian goods, making silver the financial base of the first global empire.",
+    "option_explanations": {
+      "A": "Wrong. Mining remained central to Spanish America; the engraving (c. 1750) shows it still operating at full scale two centuries after discovery.",
+      "B": "Wrong. American silver expanded Europe-Asia trade (much of it flowed on to China); it did not collapse it.",
+      "C": "Wrong. The forced mita labor shown in the engraving persisted; the image is evidence against, not for, an end to coercion.",
+      "D": "Correct. The sheer scale of organized extraction shown explains how silver revenues could bankroll a global empire."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/A_silver_mine_in_Potos%C3%AD%2C_Bolivia_-_cross-section_and_miners_digging_%28ca._1750%29.jpg/1920px-A_silver_mine_in_Potos%C3%AD%2C_Bolivia_-_cross-section_and_miners_digging_%28ca._1750%29.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-013",
+    "unit": 4,
+    "stimulus": "An eighteenth-century Mexican casta painting labeled (in translation) 'From Black and Spaniard comes Mulatto.' It shows a Spanish father, an African mother, and their child in a domestic scene, with the racial labels painted into the composition.",
+    "stimulus_words": 37,
+    "stem": "This painting best illustrates which feature of Spanish colonial society?",
+    "options": [
+      "(A) a formal social hierarchy that classified people by ancestry and race",
+      "(B) the legal equality of all free people in the colonies regardless of ancestry",
+      "(C) the absence of African slavery anywhere in New Spain",
+      "(D) a legal ban on marriage between people of different backgrounds"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). Casta paintings were a whole genre dedicated to labeling the supposed results of racial mixing ('mulatto,' 'mestizo,' and a dozen more). That colonial elites commissioned sets of these paintings shows race and ancestry were treated as an official system for ranking people, with Spaniards at the top.",
+    "option_explanations": {
+      "A": "Correct. The painted-in labels classifying the family by ancestry are direct evidence of a formal racial hierarchy.",
+      "B": "Wrong. The hierarchy the painting depicts existed precisely because people were not treated as equals.",
+      "C": "Wrong. The painting's African mother presupposes the African presence created by slavery in New Spain.",
+      "D": "Wrong. The painting depicts a mixed family as an established social fact; the system classified mixing rather than preventing it."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Casta_-_de_Negra_y_Espa%C3%B1ol_sale_Mulato%2C_s._XVIII_-_An%C3%B3nimo.jpg/1920px-Casta_-_de_Negra_y_Espa%C3%B1ol_sale_Mulato%2C_s._XVIII_-_An%C3%B3nimo.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-014",
+    "unit": 4,
+    "stimulus": "An eighteenth-century Mexican casta painting labeled (in translation) 'From Black and Spaniard comes Mulatto.' It shows a Spanish father, an African mother, and their child in a domestic scene, with the racial labels painted into the composition.",
+    "stimulus_words": 37,
+    "stem": "Compared with the English colonies in North America, the Spanish colonies' production of paintings like this one suggests that Spanish America",
+    "options": [
+      "(A) had fewer people of mixed ancestry living in it than the English colonies did",
+      "(B) prohibited all social contact between Europeans and Africans",
+      "(C) built a more elaborate system for classifying people of mixed ancestry",
+      "(D) granted equal legal status to people of all castas under colonial law"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The English colonies never produced a genre of paintings classifying racial mixtures; their racial boundary hardened into a simpler Black/white divide. The existence of entire labeled series of casta paintings shows Spanish America uniquely institutionalized the classification of mixed-ancestry people into named categories tied to social rank.",
+    "option_explanations": {
+      "A": "Wrong. Extensive racial mixing occurred in both regions; the difference was in how it was classified, not its frequency.",
+      "B": "Wrong. The painting itself depicts a Spanish-African family, proving such contact was common and acknowledged.",
+      "C": "Correct. The painted genre has no English-colonial equivalent, pointing to a distinctively elaborate Spanish system.",
+      "D": "Wrong. The casta system ranked people precisely because their legal and social status was unequal."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Comparison",
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Casta_-_de_Negra_y_Espa%C3%B1ol_sale_Mulato%2C_s._XVIII_-_An%C3%B3nimo.jpg/1920px-Casta_-_de_Negra_y_Espa%C3%B1ol_sale_Mulato%2C_s._XVIII_-_An%C3%B3nimo.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-015",
+    "unit": 4,
+    "stimulus": "A modern museum model of a fifteenth-century Portuguese caravel. The model shows a small, maneuverable hull with lateen (triangular) sails mounted on long yards, and a cross of the Order of Christ painted on the sail.",
+    "stimulus_words": 36,
+    "stem": "The lateen sails shown on the model were significant because they",
+    "options": [
+      "(A) allowed ships to carry more cannon than any earlier vessel had carried",
+      "(B) let ships sail closer to the wind, enabling long Atlantic voyages",
+      "(C) were copied directly from Chinese junk designs by the Portuguese",
+      "(D) made ships slower but more comfortable for passengers on long trips"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). Triangular lateen sails could be angled to catch the wind from the side, letting ships tack against headwinds instead of waiting for a following wind. Combined with a sturdy hull, this made it possible to sail the long Atlantic loops (out with the trades, back with the westerlies) that exploration required.",
+    "option_explanations": {
+      "A": "Wrong. Heavy cannon came later with larger ships like galleons; the caravel's advantage was maneuverability, not firepower.",
+      "B": "Correct. The visible triangular sails are the technological key to windward sailing and the Atlantic voyaging system.",
+      "C": "Wrong. The lateen rig reached the Mediterranean from the Indian Ocean/Arab world, not from China.",
+      "D": "Wrong. Caravels were valued for speed and maneuverability, not passenger comfort."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "TEC",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Portuguese_Caravel.jpg",
+    "image_license": "CC BY-SA 3.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-016",
+    "unit": 4,
+    "stimulus": "An engraving of a Caribbean sugar plantation. Enslaved African laborers cut tall cane with machetes while others bundle the stalks; an ox-drawn cart hauls cane toward a mill with tall chimneys in the background.",
+    "stimulus_words": 34,
+    "stem": "The scene best supports which conclusion about Caribbean plantation economies?",
+    "options": [
+      "(A) Plantations relied mainly on European indentured servants during this period",
+      "(B) Sugar was grown only for local consumption in the Caribbean",
+      "(C) Plantation owners preferred to divide land into small family farms",
+      "(D) Sugar production depended on enslaved African labor organized for export"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The engraving shows gangs of enslaved African workers cutting, bundling, and hauling cane to a central mill: an industrial-scale workforce producing a single cash crop. Sugar grown in the Caribbean was shipped to European markets, and the labor demand of the harvest was met overwhelmingly by enslaved Africans.",
+    "option_explanations": {
+      "A": "Wrong. The workers shown are enslaved Africans, not European indentured servants, who had become a small minority of plantation labor.",
+      "B": "Wrong. The scale of the operation and the mill indicate production for export markets, not local subsistence.",
+      "C": "Wrong. Everything in the image, from the gangs to the mill, shows large-scale organization, the opposite of family farming.",
+      "D": "Correct. The gang labor, the mill, and the crop all point to export-oriented production by an enslaved workforce."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Enslaved_Africans_harvesting_sugar_cane_in_a_colonial_plantation_in_the_Caribbean.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-017",
+    "unit": 4,
+    "stimulus": "An engraving of a Caribbean sugar plantation. Enslaved African laborers cut tall cane with machetes while others bundle the stalks; an ox-drawn cart hauls cane toward a mill with tall chimneys in the background.",
+    "stimulus_words": 34,
+    "stem": "The mill shown in the background of the engraving helps explain why sugar cultivation led to",
+    "options": [
+      "(A) the rise of large plantations built around expensive centralized mills",
+      "(B) the decline of slavery, since mills greatly reduced the need for workers",
+      "(C) European governments banning the importation of colonial sugar",
+      "(D) planters switching from sugar cane to tobacco"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). Cut cane spoils quickly and must be crushed, boiled, and refined promptly, which required a costly mill. Only large, well-capitalized plantations could afford the equipment, so sugar pushed land and labor to concentrate in big units worked by enslaved gangs rather than small farms.",
+    "option_explanations": {
+      "A": "Correct. The prominent mill is the visual clue: expensive centralized processing forced consolidation into the plantation system.",
+      "B": "Wrong. Mills increased the demand for coordinated gang labor to feed them cane; they did not replace enslaved workers.",
+      "C": "Wrong. European governments taxed sugar but did not ban it; demand kept growing.",
+      "D": "Wrong. Nothing in the image suggests a crop switch; the investment in the mill shows commitment to sugar."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "TEC"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Enslaved_Africans_harvesting_sugar_cane_in_a_colonial_plantation_in_the_Caribbean.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-018",
+    "unit": 4,
+    "stimulus": "A 1777 engraving titled 'Fur traders in Canada.' It shows two European traders, one inspecting a large pelt held up by an Indigenous man carrying a bow, while another Indigenous man sits smoking a long pipe beside a barrel of trade goods.",
+    "stimulus_words": 42,
+    "stem": "The interaction depicted best illustrates which pattern of European-Indigenous relations in North America?",
+    "options": [
+      "(A) Europeans enslaving Indigenous peoples to work on fur-trapping plantations",
+      "(B) Indigenous peoples refusing all trade with Europeans on principle",
+      "(C) a commercial partnership in which Europeans depended on Indigenous hunters",
+      "(D) French missionaries converting Indigenous peoples to Christianity in the region"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The engraving shows a transaction, not a conquest: the Indigenous man presents the pelt as the seller while the European inspects it as the buyer, with trade goods (the barrel) and relaxed pipe-smoking around them. Europeans could not harvest furs at scale themselves; they depended on Indigenous hunters' skills, territory, and willingness to trade.",
+    "option_explanations": {
+      "A": "Wrong. There are no plantations or coerced labor in the image; the Indigenous figures act as independent traders.",
+      "B": "Wrong. The image shows active, voluntary exchange, the opposite of refusal.",
+      "C": "Correct. The buyer-seller body language and the setting show mutual commercial dependence.",
+      "D": "Wrong. No clergy, crosses, or religious activity appear; the scene is entirely commercial."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Fur_traders_in_canada_1777.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-019",
+    "unit": 4,
+    "stimulus": "A 1777 engraving titled 'Fur traders in Canada.' It shows two European traders, one inspecting a large pelt held up by an Indigenous man carrying a bow, while another Indigenous man sits smoking a long pipe beside a barrel of trade goods.",
+    "stimulus_words": 42,
+    "stem": "Which detail in the engraving best shows Indigenous agency in the fur trade?",
+    "options": [
+      "(A) The Europeans' large barrel of manufactured goods offered for exchange",
+      "(B) The Indigenous trader displaying the pelt for inspection as the seller",
+      "(C) The European clothing worn by the two traders",
+      "(D) The absence of any written contract in the scene depicted"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). Agency means the capacity to act and negotiate. The Indigenous man controls the pelt, displays it, and sets the terms of inspection; the European must evaluate what is offered to him. The seller's posture, not the buyer's, drives the transaction shown.",
+    "option_explanations": {
+      "A": "Wrong. The barrel shows what Europeans brought to trade; it demonstrates European supply, not Indigenous agency.",
+      "B": "Correct. Holding up the pelt for the buyer's inspection is the act of a negotiating seller with leverage.",
+      "C": "Wrong. The traders' clothing only identifies them as European; it says nothing about Indigenous choices.",
+      "D": "Wrong. The lack of paperwork is incidental; many transactions were sealed by ritual and custom rather than contracts."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Fur_traders_in_canada_1777.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-020",
+    "unit": 4,
+    "stimulus": "A Japanese folding screen (nanban byobu) showing the arrival of a Portuguese 'black ship' (carrack). The great black-hulled ship anchors offshore while Japanese boats ferry cargo and Portuguese merchants in distinctive hats and capes walk ashore carrying chests, observed by Japanese onlookers.",
+    "stimulus_words": 42,
+    "stem": "Because this screen was painted by Japanese artists for Japanese viewers, it is most useful to historians as evidence of",
+    "options": [
+      "(A) Portuguese naval victories over Japan in the 1500s",
+      "(B) the Japanese desire to be colonized by Portugal after these visits ended",
+      "(C) European artistic techniques being used in Asia",
+      "(D) how Japanese observers saw the exotic Portuguese traders from the sea"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The screen centers Japanese eyes: the huge black ship dominates as a wonder, the Portuguese are rendered as strange-looking foreigners ('southern barbarians') in odd clothing, and Japanese figures crowd the shore to watch. It records the encounter from the receiving side, showing Europeans as the exotic outsiders rather than as conquerors.",
+    "option_explanations": {
+      "A": "Wrong. No battle or victory is shown; the Portuguese arrive as merchants, not conquerors.",
+      "B": "Wrong. Curiosity about the foreigners does not indicate any wish to be colonized.",
+      "C": "Wrong. The screen is painted in Japanese style for Japanese patrons; its value is in its viewpoint, not its technique.",
+      "D": "Correct. A Japanese-made image of Europeans reverses the usual perspective and shows how the visitors looked to their hosts."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Comparison",
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Nanban_Byobu_Folding_Screen_Carrack_Portuguese_Traders_in_Nagasaki_by_Kano_Domi.jpg/1920px-Nanban_Byobu_Folding_Screen_Carrack_Portuguese_Traders_in_Nagasaki_by_Kano_Domi.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  }
+]

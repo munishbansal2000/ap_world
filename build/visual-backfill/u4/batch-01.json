@@ -1,0 +1,342 @@
+[
+  {
+    "id": "wh-vis-u4-001",
+    "unit": 4,
+    "stimulus": "A 1789 engraving titled 'Description of a Slave Ship.' It shows deck plans and cross-sections of the British slave ship Brookes, with hundreds of small human figures drawn lying shoulder-to-shoulder in the lower decks, plus printed text giving the ship's dimensions and the regulated number of enslaved Africans it could carry.",
+    "stimulus_words": 51,
+    "stem": "This image was created and widely distributed by British abolitionists in 1789. Which statement best explains their purpose in circulating it?",
+    "options": [
+      "(A) To shock the public with the crowding of enslaved people and build support for abolition",
+      "(B) To provide ship captains with instructions for loading cargo more profitably on each voyage",
+      "(C) To celebrate British naval engineering and the efficiency of the slave trade",
+      "(D) To advertise the ship to merchants seeking to invest in African trade"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The image was produced by the Society for Effecting the Abolition of the Slave Trade as propaganda: by showing exactly how tightly hundreds of captive people were packed into the ship, abolitionists made the cruelty of the Middle Passage visible and concrete to a British public that had never seen it, building moral and political pressure against the trade.",
+    "option_explanations": {
+      "A": "Correct. The diagram's clinical detail of human crowding was designed to horrify viewers and convert sympathy into political support for abolition.",
+      "B": "Wrong. Captains already knew how to load ships; the image was aimed at the general public, not at improving traders' methods.",
+      "C": "Wrong. Nothing in the image celebrates the trade; the emphasis on packed bodies was meant to condemn it, not praise British engineering.",
+      "D": "Wrong. The image was circulated by opponents of the trade to destroy investment in it, not to attract investors."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Description_of_a_Slave_Ship%2C_1789.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-002",
+    "unit": 4,
+    "stimulus": "A 1789 engraving titled 'Description of a Slave Ship.' It shows deck plans and cross-sections of the British slave ship Brookes, with hundreds of small human figures drawn lying shoulder-to-shoulder in the lower decks, plus printed text giving the ship's dimensions and the regulated number of enslaved Africans it could carry.",
+    "stimulus_words": 51,
+    "stem": "Based on the stowage plan shown, which conclusion about the transatlantic slave trade is best supported?",
+    "options": [
+      "(A) Ship owners limited the number of captives carried in order to keep them healthy on the voyage",
+      "(B) Enslaved Africans were given individual cabins much like the crew's quarters",
+      "(C) Traders raised profit by crowding as many captive people as possible into the space",
+      "(D) The British government had already banned the transport of enslaved people by 1789"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The plan shows human bodies fitted into every available inch of deck space, head to foot, in rows. Each enslaved person represented potential profit on arrival in the Americas, so traders had a direct financial incentive to carry the maximum number the ship could hold, even at the cost of terrible suffering and high death rates.",
+    "option_explanations": {
+      "A": "Wrong. The image shows the opposite: people packed with no room to move, which spread disease and raised mortality rather than protecting health.",
+      "B": "Wrong. The figures are shown lying in open rows on shared decks, not in individual cabins.",
+      "C": "Correct. The dense packing visible in every deck plan reflects the traders' profit logic: more captives per voyage meant more revenue.",
+      "D": "Wrong. Britain did not abolish the slave trade until 1807; in 1789 the trade was still legal and the image was campaigning against it."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Description_of_a_Slave_Ship%2C_1789.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-003",
+    "unit": 4,
+    "stimulus": "A diagram of the Atlantic triangular trade. Labeled arrows show: 'Manufactured goods from Europe e.g. textiles and spirits to Africa'; 'Slaves to America'; 'Sugar, tobacco and cotton to Europe.'",
+    "stimulus_words": 29,
+    "stem": "Which statement about the Atlantic economy is best supported by the diagram?",
+    "options": [
+      "(A) African societies exported plantation crops to Europe in exchange for enslaved laborers",
+      "(B) Enslaved Africans were sent to the Americas while plantation products flowed to Europe",
+      "(C) European manufactured goods were shipped directly to the Americas to supply the plantations",
+      "(D) The trading system connected only Europe and Africa, leaving the Americas out entirely"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The diagram's three labeled arrows form a circuit: manufactured goods (textiles, spirits) went from Europe to Africa, enslaved people were carried from Africa to the Americas, and plantation commodities (sugar, tobacco, cotton) returned from the Americas to Europe. Each leg of the triangle depended on the others.",
+    "option_explanations": {
+      "A": "Wrong. The diagram shows the flow reversed: enslaved people went from Africa to the Americas, and plantation crops went from the Americas to Europe.",
+      "B": "Correct. These are exactly the two legs the diagram labels 'Slaves to America' and 'Sugar, tobacco and cotton to Europe.'",
+      "C": "Wrong. The diagram sends manufactured goods to Africa, not directly to the Americas; plantations were supplied largely with goods via this triangular route.",
+      "D": "Wrong. The diagram explicitly includes the Americas as one corner of the triangle."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Triangular_trade_en.svg/1920px-Triangular_trade_en.svg.png",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-004",
+    "unit": 4,
+    "stimulus": "A chart of wind regions over the Atlantic Ocean. It labels a broad 'REGION OF THE N.E. TRADE WINDS' blowing across the tropical North Atlantic toward the equator, a band of 'EQUATORIAL CALMS' near the equator, and a 'REGION OF THE S.E. TRADE WINDS' in the tropical South Atlantic.",
+    "stimulus_words": 49,
+    "stem": "Portuguese mariners in the 1400s learned to sail far southwest into the open Atlantic before turning east to round Africa. The wind pattern shown best explains this practice because",
+    "options": [
+      "(A) the equatorial calms provided the fastest sailing route along the African coast",
+      "(B) the southeast trade winds blew ships directly from Portugal all the way to India",
+      "(C) sailors preferred the calm zones because their ships could not sail in any wind at all",
+      "(D) ships could ride the steady northeast trade winds southwest across the open Atlantic"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The chart shows the northeast trade winds as a steady belt blowing across the tropical Atlantic toward the southwest. Portuguese sailors (the volta do mar) swung wide into the Atlantic to catch these reliable winds, which carried them past the contrary winds and currents along the African coast, before turning east to round the Cape. Reading the wind belts on the chart is what makes the answer work.",
+    "option_explanations": {
+      "A": "Wrong. The equatorial calms (doldrums) were zones of little wind where ships stalled; sailors avoided lingering there rather than seeking them out.",
+      "B": "Wrong. The southeast trades are in the Southern Hemisphere and blow toward the equator; they did not carry ships from Portugal to India.",
+      "C": "Wrong. Sailing ships needed wind; the calm zones were obstacles, not preferred routes.",
+      "D": "Correct. The broad, steady NE trade-wind belt visible on the chart is exactly what made the wide Atlantic swing possible and reliable."
+    },
+    "skill": "Developments and Processes",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Trade_wind_chart_of_the_Atlantic_Ocean_LOC_2009575918.jpg/1920px-Trade_wind_chart_of_the_Atlantic_Ocean_LOC_2009575918.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-005",
+    "unit": 4,
+    "stimulus": "A Spanish map of the Americas (from a 1601 atlas) showing the Pacific Ocean labeled 'MAR DEL SVR.' A caption reads, in translation: 'Between the two marked meridians lies the navigation and discovery belonging to the Castilians.' A vertical meridian line divides the map.",
+    "stimulus_words": 44,
+    "stem": "This map best illustrates which development of the period 1450-1750?",
+    "options": [
+      "(A) Spain and Portugal claimed exclusive rights to explore and trade in separate zones",
+      "(B) Spain abandoned its American empire in order to focus all of its energies on Asian trade",
+      "(C) European mapmakers of the period had no knowledge of the Pacific Ocean at all",
+      "(D) The pope forbade all Catholic nations from undertaking any overseas exploration"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). The Treaty of Tordesillas (1494), building on papal grants, drew a meridian dividing the non-Christian world between Spain and Portugal. This 1601 Spanish map still displays that logic a century later: the marked meridians and the caption assigning 'navigation and discovery' to Castile show the division hardened into official imperial geography.",
+    "option_explanations": {
+      "A": "Correct. The meridian line and caption are the visual remains of the Spanish-Portuguese partition of the globe.",
+      "B": "Wrong. The map proudly displays Spain's American claims ('NUEVA ESPANA'); nothing suggests abandonment.",
+      "C": "Wrong. The map clearly labels the Pacific ('MAR DEL SVR'), showing it was well known to Spanish cartographers.",
+      "D": "Wrong. The papacy did the opposite: it authorized and divided overseas expansion between the two Catholic powers."
+    },
+    "skill": "Contextualization",
+    "reasoning": "Continuity and Change",
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Map_of_Meridian_Line_set_under_the_Treaty_of_Tordesillas.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-006",
+    "unit": 4,
+    "stimulus": "The Cantino planisphere (1502), a Portuguese manuscript chart. It shows the coasts of Europe, Africa, and South America (Brazil) in green, the sea route around Africa toward India, compass roses, and rhumb lines used for navigation.",
+    "stimulus_words": 36,
+    "stem": "The chart was secretly copied for an Italian duke, since Portugal treated its charts as state secrets. What does the chart's content reveal about Portuguese priorities around 1500?",
+    "options": [
+      "(A) Portugal was mainly interested in colonizing North America rather than Asia",
+      "(B) Portugal had given up on reaching Asia by sea and turned inward to Europe",
+      "(C) Portugal sought the Indian Ocean spice trade while also securing Brazil",
+      "(D) Portugal freely shared its navigational knowledge with its European rivals"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The chart carefully traces the African coast and the route around it toward India, marking the spice-trade prize, while also painting Brazil's coast in detail (within Portugal's Tordesillas sphere). That combination on one secret chart shows a crown pursuing two goals at once: the Asian spice trade and the South American claim.",
+    "option_explanations": {
+      "A": "Wrong. North America barely appears on the chart; Portuguese attention was on the South Atlantic and Indian Ocean.",
+      "B": "Wrong. The marked route around Africa toward India shows the sea route to Asia was the central project.",
+      "C": "Correct. Both the India route and the Brazilian coast are rendered in unusual detail for a single chart, revealing the dual priority.",
+      "D": "Wrong. The chart was obtained secretly precisely because Portugal guarded such knowledge as a state secret."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cantino_planisphere_%281502%29.jpg/1920px-Cantino_planisphere_%281502%29.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-007",
+    "unit": 4,
+    "stimulus": "A diagram of the Columbian Exchange with labeled arrows. Blue arrows from the Americas to Europe read 'Maize, potatoes, tobacco, beans, squash, peppers, cacao'; blue arrows from the Americas to Africa read 'Cassava, manioc, cacao.' A red arrow from Europe to the Americas reads 'Cattle, horses, pigs, wheat, rye' and is also labeled 'Smallpox.' A yellow arrow from the Americas to Europe reads 'Syphilis,' and a yellow arrow from Africa to the Americas reads 'Malaria, yellow fever.'",
+    "stimulus_words": 77,
+    "stem": "Which statement is directly supported by the diagram?",
+    "options": [
+      "(A) Wheat was carried from the Americas to Europe in large quantities",
+      "(B) Maize and potatoes traveled from the Americas to Europe",
+      "(C) Smallpox traveled from Africa to the Americas with enslaved people",
+      "(D) Sugar was carried from the Americas to Europe for refining"
+    ],
+    "key": "B",
+    "explanation": "The key is (B). The diagram's blue arrows running from the Americas to Europe are explicitly labeled 'Maize, potatoes, tobacco, beans, squash, peppers, cacao.' Answering requires reading the arrow directions and labels rather than guessing from general knowledge.",
+    "option_explanations": {
+      "A": "Wrong. The diagram places wheat on the Europe-to-Americas arrow ('Cattle, horses, pigs, wheat, rye'), the reverse direction.",
+      "B": "Correct. Maize and potatoes appear on the labeled arrow from the Americas to Europe.",
+      "C": "Wrong. Smallpox is labeled on the Europe-to-Americas arrow, not the Africa-to-Americas one (which carries malaria and yellow fever).",
+      "D": "Wrong. In this diagram sugar moves from Europe to the Americas, not the reverse."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/BRI_Columbian_Exchange.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-008",
+    "unit": 4,
+    "stimulus": "A diagram of the Columbian Exchange with labeled arrows. Blue arrows from the Americas to Europe read 'Maize, potatoes, tobacco, beans, squash, peppers, cacao'; blue arrows from the Americas to Africa read 'Cassava, manioc, cacao.' A red arrow from Europe to the Americas reads 'Cattle, horses, pigs, wheat, rye' and is also labeled 'Smallpox.' A yellow arrow from the Americas to Europe reads 'Syphilis,' and a yellow arrow from Africa to the Americas reads 'Malaria, yellow fever.'",
+    "stimulus_words": 77,
+    "stem": "The disease arrows on the diagram (smallpox from Europe to the Americas; malaria and yellow fever from Africa to the Americas; syphilis from the Americas to Europe) best support which claim?",
+    "options": [
+      "(A) American diseases devastated Europe far more than European diseases devastated the Americas",
+      "(B) Malaria originated in the Americas and spread to Africa",
+      "(C) Disease moved only from Europe to the Americas",
+      "(D) The exchange of diseases contributed to catastrophic Native American population decline"
+    ],
+    "key": "D",
+    "explanation": "The key is (D). The diagram shows smallpox arriving in the Americas from Europe and malaria/yellow fever arriving from Africa, while only syphilis moves the other way. Native populations had no prior exposure or immunity to these Old World diseases, so the epidemics they caused killed a huge proportion of Indigenous peoples, a demographic catastrophe visible in the one-sided disease arrows.",
+    "option_explanations": {
+      "A": "Wrong. The diagram shows only one disease (syphilis) moving toward Europe against two major killers moving toward the Americas; the impact was overwhelmingly one-sided.",
+      "B": "Wrong. The diagram's yellow arrow carries malaria and yellow fever from Africa to the Americas, not the reverse.",
+      "C": "Wrong. The syphilis arrow runs from the Americas to Europe, so movement was not one-directional.",
+      "D": "Correct. The heavy one-sided flow of Old World diseases into the Americas matches the historical record of virgin-soil epidemics."
+    },
+    "skill": "Making Connections",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/BRI_Columbian_Exchange.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-009",
+    "unit": 4,
+    "stimulus": "A 1577 illustration from Book 12 of the Florentine Codex, a history compiled by Nahua (Aztec) scribes working with a Spanish friar. It shows Mexica smallpox victims lying ill, their bodies covered in sores, while a healer attends to one of them.",
+    "stimulus_words": 42,
+    "stem": "A historian studying the impact of European contact on Indigenous peoples would value this image most because it",
+    "options": [
+      "(A) records the epidemic from the perspective of the Nahua people who suffered it",
+      "(B) proves that Spanish friars introduced smallpox to the Americas intentionally",
+      "(C) shows that Native healers were able to cure smallpox with traditional medicine",
+      "(D) was painted by a Spanish conquistador who personally witnessed the siege of Tenochtitlan"
+    ],
+    "key": "A",
+    "explanation": "The key is (A). Most surviving accounts of the conquest-era epidemics were written by Europeans. This image was drawn by Nahua scribes recording their own community's catastrophe, giving historians a rare Indigenous perspective on the epidemic: who fell ill, how caregivers responded, and how the disaster was remembered by its victims.",
+    "option_explanations": {
+      "A": "Correct. The Nahua authorship makes this an Indigenous record of the epidemic rather than a European observation.",
+      "B": "Wrong. Nothing in the image addresses how smallpox arrived, and historians do not claim it was introduced deliberately.",
+      "C": "Wrong. The healer is shown attending the sick, but the victims are clearly still gravely ill; the image does not show a cure.",
+      "D": "Wrong. The image comes from the Florentine Codex, compiled by Nahua scribes, not by a conquistador."
+    },
+    "skill": "Sourcing and Situation",
+    "reasoning": "Causation",
+    "themes": [
+      "CDI",
+      "ENV"
+    ],
+    "type": "mcq",
+    "difficulty": "medium",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/FlorentineCodex_BK12_F54_smallpox.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  },
+  {
+    "id": "wh-vis-u4-010",
+    "unit": 4,
+    "stimulus": "A 1577 illustration from Book 12 of the Florentine Codex, a history compiled by Nahua (Aztec) scribes working with a Spanish friar. It shows Mexica smallpox victims lying ill, their bodies covered in sores, while a healer attends to one of them.",
+    "stimulus_words": 42,
+    "stem": "Based on details in the image, which claim about the smallpox epidemic is best supported?",
+    "options": [
+      "(A) Only Spanish soldiers caught the disease, while Native people were immune",
+      "(B) The victims shown are recovering from the illness and returning to work",
+      "(C) The disease struck many people at once, overwhelming caregivers",
+      "(D) The Mexica blamed the epidemic on their own gods and took no action"
+    ],
+    "key": "C",
+    "explanation": "The key is (C). The image shows several victims lying ill simultaneously, their bodies covered in pustules, with a single healer attending one of them. Multiple sufferers at once with limited care is exactly what made virgin-soil epidemics so deadly: whole households fell ill together, so there was no one healthy left to nurse the sick or bring food and water.",
+    "option_explanations": {
+      "A": "Wrong. The victims are Mexica (Aztec) people, not Spanish soldiers.",
+      "B": "Wrong. The figures are lying prostrate and covered in sores; none shows signs of recovery or work.",
+      "C": "Correct. The crowded sickbeds and lone healer visible in the image show the epidemic striking faster than caregivers could respond.",
+      "D": "Wrong. The presence of the healer actively treating a victim contradicts the claim that nothing was done."
+    },
+    "skill": "Claims and Evidence in Sources",
+    "reasoning": "Causation",
+    "themes": [
+      "ENV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "difficulty": "hard",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/FlorentineCodex_BK12_F54_smallpox.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
+  }
+]
