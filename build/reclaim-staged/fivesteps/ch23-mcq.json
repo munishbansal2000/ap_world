@@ -1,0 +1,77 @@
+[
+ {
+  "id": "fivesteps-u9-005",
+  "unit": 9,
+  "stimulus": "A. \n\nB. The photograph shows a boy and an old woman with a laptop in front of a typical house in Myanmar, Asia.",
+  "stem": "Which statement best represents the theme of image B?",
+  "options": [
+   "(A) Young people are inherently better with computers.",
+   "(B) Technology is destroying indigenous cultures.",
+   "(C) Cloud computing allows one to conduct business from anywhere in the world.",
+   "(D) Computers are ubiquitous; they are found virtually everywhere."
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The artist’s purpose in the image is to show all of the different tasks that can be accomplished using technology. There are a variety of people (B), many of whom are likely using technology for work (email, documents, etc.) (C). The clouds in the image represent the innovation of cloud computing, not “heaven” (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.23 Technological Developments",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u9-006",
+  "unit": 9,
+  "stimulus": "A. \n\nB. The photograph shows a boy and an old woman with a laptop in front of a typical house in Myanmar, Asia.",
+  "stem": "Which statement would be an appropriate theme for image A?",
+  "options": [
+   "(A) Technology is so inexpensive now, even children can afford it.",
+   "(B) Children are better able to understand technology than their parents.",
+   "(C) Technology enhances children’s enjoyment of the outdoors.",
+   "(D) Technology is changing how children interact, not necessarily for the better."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The children are outside, but there is no personal or face-to-face interaction. Even though all the children have smartphones, there is no indication regarding their price (A) or a comparison with their parents’ technological skills (B). Though the setting is outside, there is no indication that the children are especially enjoying being outside or interacting with their environment. Their activities wouldn’t be much different if they were indoors (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.23 Technological Developments",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u9-007",
+  "unit": 9,
+  "stimulus": "A. \n\nB. The photograph shows a boy and an old woman with a laptop in front of a typical house in Myanmar, Asia.",
+  "stem": "Which technological discovery in the twentieth century made it practical to transfer information along home telephone lines?",
+  "options": [
+   "(A) Vacuum tube",
+   "(B) Transistor",
+   "(C) Modem",
+   "(D) Cathode ray tube"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The modem converted data into sound and back again, allowing information to be transferred along telephone lines and making home computing practical. Vacuum tubes were the invention that allowed for the earliest computers, but those were too big to be used at home (A). Transistors allowed for the miniaturization of computers, but were not related to data transfer (B). Cathode ray tubes were used for graphics technology in televisions and computer monitors, though they are now obsolete (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.23 Technological Developments",
+  "format": "old",
+  "source_type": "book"
+ }
+]

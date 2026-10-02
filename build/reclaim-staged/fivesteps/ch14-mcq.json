@@ -1,0 +1,100 @@
+[
+ {
+  "id": "fivesteps-u4-027",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which of the following phrases best sums up Bacon’s ideas?",
+  "options": [
+   "(A) Science over reason",
+   "(B) Reason over religion",
+   "(C) Reality over science",
+   "(D) Theory over practice"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] “Reason over religion” refers to Bacon’s belief that critical thought and the use of rationally applied science were more valid as a means of establishing factual knowledge and truth than was acceptance of “truths” on faith. A, C, and D are incorrect.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.14 Cultural and Intellectual Changes",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-028",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "How does the work of Galileo in support of the idea of a heliocentric universe reflect Bacon’s ideas?",
+  "options": [
+   "(A) It supplants fact with opinion.",
+   "(B) It confirms the nature of the universe.",
+   "(C) It uses reason to confirm theory.",
+   "(D) It replaces speculation with skepticism."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] By advocating observation of physical realities, collection of data, and drawing conclusions, Galileo used reason to confirm his theory of a heliocentric universe. Neither opinion (A) nor skepticism (D) guided Galileo’s thought processes or use of the scientific method. Bacon’s ideas confirm the scientific method, not the nature of the universe (B).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.14 Cultural and Intellectual Changes",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-029",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "The most likely form of government to come from a “social contract” would be which of the following?",
+  "options": [
+   "(A) Conservative",
+   "(B) Theocratic",
+   "(C) Anarchical",
+   "(D) Republican"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] A social contract is an agreement between government and the governed meant to ensure preservation of humankind’s natural rights. In a republic, the governed control power by giving their consent to chosen representatives. A, B, and C are incorrect.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.14 Cultural and Intellectual Changes",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-030",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which of the following concepts of the period 1450 to 1750 did NOT rely on natural laws?",
+  "options": [
+   "(A) Predestination",
+   "(B) Deism",
+   "(C) Laissez-faire philosophy",
+   "(D) Social contract"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Predestination is a theological construct that says all that will happen is predestined. Deism (B), the \nlaissez-faire\n philosophy (C), and the idea of a social contract (D) all rely on the belief that there are natural laws that govern behavior and rights.\n\nSummaries: The Global Tapestry and Networks of Exchange\n\nTimeline\n\nPart I (600–1200)\n\nPart II: 1200–1450\n\nKey Comparisons\n\n1.\n Feudalism in Japan and Western Europe\n\n2.\n Mongol rule in Russia and China\n\n3.\n Muslim Spain and feudal Europe\n\n4.\n The spread of Islam and the spread of Buddhism\n\n5.\n Chinese and European presence in the Indian Ocean\n\n6.\n Urban areas in the Islamic world, non-Islamic Europe, and China\n\n7.\n Acceptance of Islam in Africa and Europe\n\n8.\n Mesoamerican and Andean civilizations\n\n9.\n Polynesian, Viking, and Bantu migrations\n\n10.\n Gender roles in early Islam and under the caliphate\n\nChange/Continuity Chart\n\nSummaries: Land-Based Empires and Trans-Oceanic Interconnections\n\nTimeline\n\nKey Comparisons\n\n1.\n European versus Asian monarchs\n\n2.\n Empires in Africa, Asia, and Europe\n\n3.\n European versus Asian economic systems\n\n4.\n Reactions of Japan versus China to Western influence\n\n5.\n Slavery versus serfdom\n\n6.\n Trade in Mughal India versus Ming China\n\n7.\n Russian versus Ottoman interaction with the West\n\n8.\n Gender roles in Ming China versus Western Europe\n\n9.\n Trans-Atlantic versus Indian Ocean trade\n\n10.\n Western European versus Asian and Ottoman technology\n\nChange/Continuity Chart",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.14 Cultural and Intellectual Changes",
+  "format": "old",
+  "source_type": "book"
+ }
+]

@@ -1,0 +1,77 @@
+[
+ {
+  "id": "fivesteps-u2-005",
+  "unit": 2,
+  "stimulus": null,
+  "stem": "How did the Crusades, religious in nature, contribute to Renaissance secular humanistic ideals?",
+  "options": [
+   "(A) They spread Mongol technological advances.",
+   "(B) They preserved Greco-Roman learning.",
+   "(C) They focused on this life rather than the afterlife.",
+   "(D) They indirectly financed economic and secular growth and influence."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] By opening up exchanges of ideas and goods and encouraging urbanization in places that supplied and maintained armies, the Crusades financed nonreligious enterprises. They did not spread Mongol technological advances (A) or preserve Greco-Roman learning (B), and their goals were ostensibly religious and thus concerned with the afterlife (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN",
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.08 Interregional Trade and Exchange",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u2-006",
+  "unit": 2,
+  "stimulus": null,
+  "stem": "For what reason might the Islamic reign in Spain, or the Iberian Peninsula (711–1492), be called the “first Western Renaissance”?",
+  "options": [
+   "(A) Because of the secularization of Iberian society",
+   "(B) Because of the preservation of ancient texts and traditions",
+   "(C) Because of the institution of Islamic legal systems",
+   "(D) Because of the investigation of monarchical structures"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Islamic Spain contributed to the collection, preservation, and translation of classical texts and traditions by establishing public libraries and schools of translation, among other centers of learning. It encouraged the Renaissance, or rebirth, of ancient mores, ideals, and intellectual systems. Islamic Spain was religious (A) but tolerant of other faiths. It was not known for instituting legal systems (C) or researching monarchical structures (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.08 Interregional Trade and Exchange",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u2-007",
+  "unit": 2,
+  "stimulus": null,
+  "stem": "Which of the following changes most characterized the voyages of exploration during the early modern era?",
+  "options": [
+   "(A) Trade gave way to missionary work.",
+   "(B) Trade gave way to colonization.",
+   "(C) Trade gave way to exploration.",
+   "(D) Trade gave way to technological advances."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Initially voyages of exploration focused on trade and the discovery of goods that would enrich both voyagers and their sponsors. To control economic rewards and exploit resources, voyagers began to colonize around the globe. While missionaries (A), explorers (C), and scientists and engineers (D) accompanied many expeditions, their work was not often the primary focus.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.08 Interregional Trade and Exchange",
+  "format": "old",
+  "source_type": "book"
+ }
+]

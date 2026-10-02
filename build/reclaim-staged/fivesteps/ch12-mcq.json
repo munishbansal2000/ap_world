@@ -1,0 +1,128 @@
+[
+ {
+  "id": "fivesteps-u4-018",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which would be the most appropriate caption for this image?",
+  "options": [
+   "(A) The Middle Passage",
+   "(B) The Triangular Trade",
+   "(C) The Mita System",
+   "(D) The Columbian Exchange"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The image reflects the exchange of goods between the Americas and Europeans that characterized the Colombian Exchange system. The Triangular Trade refers more specifically to the trade networks that developed among Europe, Africa, and the Americas, rather than to the exchange of goods themselves (B). The Middle Passage refers to the middle leg of the trade network, characterized by trade in slaves, not reflected in the image (A). The \nmita\n system was a system of coercive labor that developed in the Spanish colonies, not an exchange of goods (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.12 Hemispheric Exchange",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-019",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "How did Native Americans eventually benefit from interactions like this?",
+  "options": [
+   "(A) Adopting European weapons allowed them regional dominance.",
+   "(B) Adopting metalwork and horses resulted in increased crop yields.",
+   "(C) The introduction of smallpox decimated their population.",
+   "(D) The introduction of maize to the Americas increased reliability of crops."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] One could argue that Native Americans benefited from these interactions in that they were introduced to more efficient agricultural techniques, like using horses and metal tools to increase crop yields. These gains were offset by their eventual domination by European colonial powers (A) and the huge mortality rate due to exposure to European diseases like smallpox (C). Finally, maize was native to the Americas and not introduced by Europeans (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.12 Hemispheric Exchange",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-020",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "What was the impact of interactions like these on Europe?",
+  "options": [
+   "(A) The introduction of diseases from the Americas greatly reduced the population.",
+   "(B) New crops from the Americas led to sharp population growth.",
+   "(C) Insects from the Americas eradicated many staple foods, causing famine.",
+   "(D) New drugs from the Americas led to social and economic unrest."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Colombian Exchange meant new crops that could be grown under different conditions and that provided a broader range of nutrients, leading to better nutrition and population growth. Though there has been controversy over whether syphilis may have originated in the Americas, the most recent research suggests that it did not. Diseases from the Americas were not a factor (A). Likewise, there is no evidence that insects from the Americas had any impact on Europe’s crops (C). Though there were drugs native to the Americas, like tobacco, that were exported to Europe, these were not associated with any social unrest (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "ECN",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.12 Hemispheric Exchange",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-021",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "What is the term for a system in which land, labor, and capital are owned and controlled by private individuals?",
+  "options": [
+   "(A) Capitalism",
+   "(B) Socialism",
+   "(C) Mercantilism",
+   "(D) Communism"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The system in which the means of production (land, labor and capital) are owned by private individuals is capitalism. In socialism, the means of production (at least for key industries) are owned by the governing body and operated for the benefit of all citizens (B). Communism is considered a higher stage of socialism, in which class distinctions disappear and workers own and operate the means of production for the benefit of all. Instead of wages, citizens are provided with benefits (income, goods) based on their need (D). Mercantilism is an economic policy in which nations try to maximize their wealth by maintaining a favorable balance of trade, often using colonies to do so (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.12 Hemispheric Exchange",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-022",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which statement is most accurate about trade during the era 1450 to 1750?",
+  "options": [
+   "(A) Trade networks were primarily regional in nature.",
+   "(B) Europeans excluded Muslim regions from trade.",
+   "(C) Trade was global, incorporating all major continents.",
+   "(D) Trade was hemispheric, mostly excluding the South Pacific."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Though most trade networks started as regional phenomena, this had not been true since at least 600 CE, well before this era (A). Muslims had been integrated into European trade through sea (Indian Ocean) and overland routes (Silk Road) well before this period also (B). However, trade was not truly global in this period, as Oceania and the continent of Australia were still not integrated into the trade networks (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.12 Hemispheric Exchange",
+  "format": "old",
+  "source_type": "book"
+ }
+]

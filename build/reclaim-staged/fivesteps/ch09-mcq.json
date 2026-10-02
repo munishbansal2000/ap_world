@@ -1,0 +1,51 @@
+[
+ {
+  "id": "fivesteps-u1-015",
+  "unit": 1,
+  "stimulus": null,
+  "stem": "Which of the following made long-distance trade more possible for the Aztecs than for the Incas?",
+  "options": [
+   "(A) An extensive system of roads",
+   "(B) The use of sea trade routes",
+   "(C) The production of marketable goods",
+   "(D) Environmental and geographical considerations"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Aztecs lived in a more temperate climate than the Incas and did not have the same mountainous obstacles preventing the transport of goods. Both the Incas and the Aztecs had road systems (A); both carried on little sea trade (B); both produced marketable goods (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.09 Empires in the Americas",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-016",
+  "unit": 1,
+  "stimulus": null,
+  "stem": "Which of the American peoples was closest to the Persians in their administrative style?",
+  "options": [
+   "(A) The Mayas",
+   "(B) The Mississippians",
+   "(C) The Aztecs",
+   "(D) The Incas"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Like the Persians, the Incas were adept at integrating subject peoples into their empire as long as their subjects refrained from rebellion. Both the Incas and the Persians also constructed roads to serve as communication links to the various parts of their empires. The Aztecs were noted for their exceptionally harsh treatment of conquered peoples (C). The Mayas (A) did not demonstrate the imperial organizational skills of the Incas, while the Mississippians did not establish an empire (B).\n\n5A\n.\n The most extensive Incan public works were highway systems, which facilitated travel and trade.\n\n5B\n.\n The Aztecs used the Maya hieroglyphic system of writing; the Incas, while not technically having a writing system, did indeed have a communications system: they used the \nquipu\n, a means of recordkeeping using strings of various thicknesses and colors and knots. This latter has been tied to theories of binary computer systems.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.09 Empires in the Americas",
+  "format": "old",
+  "source_type": "book"
+ }
+]

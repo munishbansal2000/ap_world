@@ -1,0 +1,128 @@
+[
+ {
+  "id": "fivesteps-u3-001",
+  "unit": 3,
+  "stimulus": null,
+  "stem": "What is the most likely product to be transported from the Americas to China?",
+  "options": [
+   "(A) Native American laborers",
+   "(B) Precious metals like silver",
+   "(C) New foods like squash and tomatoes",
+   "(D) Gunpowder and advanced weaponry"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Hemispheric trade networks led to increased trade, but China was generally only interested in exchanging its products for silver. The Chinese were not especially interested in Western products (D) or new foods (C). Not only was China not particularly interested in labor, but Native American labor was generally not used outside the Americas, as Native Americans were vulnerable to European diseases (A).",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.11 Empires and Other Political Systems",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u3-002",
+  "unit": 3,
+  "stimulus": null,
+  "stem": "What was the impact of this commercial exchange?",
+  "options": [
+   "(A) High social status of merchants in Neo-Confucian society",
+   "(B) Diseases spread to Asia, destabilizing labor markets.",
+   "(C) China extended its empire into northern India and Russia.",
+   "(D) Inflation destabilized European economies."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The rapid influx of so much silver in the world markets led to widespread inflation across Europe. Even though many Chinese merchants gained wealth in the period, it did not translate into substantially higher social status (A). Though disease had been an issue earlier in China, this period was not characterized by widespread epidemics (B). This is partly because China during this era was characterized by isolationism rather than expansionism (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.11 Empires and Other Political Systems",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u3-003",
+  "unit": 3,
+  "stimulus": null,
+  "stem": "During the early eighteenth century, in which European nation did citizens enjoy the greatest degree of self-rule?",
+  "options": [
+   "(A) Russia",
+   "(B) France",
+   "(C) England",
+   "(D) Spain"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] During this time, England developed a parliamentary system of representative government, characterized by a limited monarchy sharing power with representatives from the upper classes. Most other European nations, including Spain, Russia, and France, were governed by absolute monarchs (A, B, D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.11 Empires and Other Political Systems",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u3-004",
+  "unit": 3,
+  "stimulus": null,
+  "stem": "Which is true of the Mughal Empire?",
+  "options": [
+   "(A) It rejected traditional artistic styles in favor of Islamic ones.",
+   "(B) It expanded the empire throughout the Indian subcontinent.",
+   "(C) It reduced tensions between Muslim and Hindu communities.",
+   "(D) It introduced repressive measures for women like sati ."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Under the Mughal ruler Akbar, tensions between Hindus and Muslims decreased, although later Mughal rulers failed to maintain those cordial relations. Located in northern and central India (B), the Mughals implemented reforms aimed at improving women’s rights, including banning the Hindu practice of \nsati\n (D). Because the Mughal Empire included both Muslim and Hindu traditions, their artistic styles tended to reflect traditions of both cultures.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.11 Empires and Other Political Systems",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u3-005",
+  "unit": 3,
+  "stimulus": null,
+  "stem": "What would a comparison of the Ming Dynasty and the Tokugawa Shogunate reveal?",
+  "options": [
+   "(A) Both feared that Christianity would eventually usurp their authority.",
+   "(B) Both encouraged voyages of discovery to expand their territory.",
+   "(C) Both became increasingly isolationist toward the end of their rule.",
+   "(D) Both were weakened by the expense of protecting their borders from invasion."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Although the Tokugawa Shogunate was originally intrigued by Western weapons and technology, they later reversed their position, limiting access to outsiders, as did the Ming Dynasty. The Ming had ended voyages of discovery by this point, and the Japanese never undertook any during this era (B). In Japan, this isolationism included banning Christianity as a potential threat, but in China Christian missionaries were allowed, though they had limited success (A). Neither the Ming nor the Tokugawa Shogunate spent large sums to defend themselves from outside invaders.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.11 Empires and Other Political Systems",
+  "format": "old",
+  "source_type": "book"
+ }
+]

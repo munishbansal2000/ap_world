@@ -1,0 +1,75 @@
+[
+ {
+  "id": "fivesteps-u7-015",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "Which best describes where the event portrayed in the photo would fall in a sequence of events relating to World War II?",
+  "options": [
+   "(A) Immediately after the Germans and Soviets signed a nonaggression pact",
+   "(B) Immediately after the announcement of Anschluss",
+   "(C) Immediately after the assassination of Austria’s Archduke Franz Ferdinand",
+   "(D) Immediately after the Treaty of Brest-Litovsk"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Anschluss was the German policy of merging Austria and Germany. This occurred before the Nazi invasion of Poland, pictured in the photograph. The failure of Europe to aid Poland prompted the Soviet Union to sign the non-aggression pact with Germany (A). The assassination of Archduke Ferdinand (C) and the Treaty of Brest-Litovsk (D) are both events of World War I.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.19 Revolutions, World Wars, and Depression",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-016",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "Which foreign policy pursued by Great Britain and France is believed by historians to be at least partially responsible for the event shown in the image?",
+  "options": [
+   "(A) Containment",
+   "(B) Isolationism",
+   "(C) Appeasement",
+   "(D) Fascism"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] With the memory of World War I still fresh, European powers followed a policy of appeasement, or giving in to an aggressor, initially allowing Germany to expand unchecked. Isolationism was the policy pursued by the United States (B). Fascism was the political ideology of Nazi Germany, not a foreign policy (D). Containment was a foreign policy, but one pursued by the United States several years later to curb the spread of communism (A).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.19 Revolutions, World Wars, and Depression",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-017",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "What was the long-term impact of WWII on the majority of Eastern European nations?",
+  "options": [
+   "(A) They were granted the right to self-determination.",
+   "(B) They were economically and politically tied to Western Europe.",
+   "(C) They practiced isolationism to avoid future entanglements.",
+   "(D) They were increasingly dominated by the Soviet Union."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] After World War II, the USSR kept a military presence in the Eastern European nations where the Soviet military had pushed back the Nazis. This eventually led to Eastern Europe falling under Soviet control. Although many of its borders remained intact, some countries, like Poland and Czechoslovakia, were forced to cede part of their territory to the USSR, sometimes in exchange for other land (A). Once the Soviets gained dominance, Eastern Europe became isolated from Western Europe (B). Given their subordinate positions to the Soviet Union, total isolationism was not really an option (C).\n\n4\nA.\n Nationalism is considered an underlying cause of World War I. The Serbs had long since resented Austria’s dominance over them, leading to the rise of nationalistic groups like the Black Hand favoring independence. This is the group that plotted the assassination of Archduke Franz Ferdinand of Austria and of which Gavrilo Princip was a member. When Gavrilo Princip assassinated the archduke in the cause of nationalism, he set into motion the chain of events like Austria’s ultimatum, Germany’s blank check of support, and Russia’s troop mobilization that ultimately led to Germany declaring war on France and Russia in 1914. Other underlying causes would be militarism, imperialism, and alliances.\n\n4\nB.\n One immediate effect of WWI on Europe was the changing of borders, often based on the principle of self-determination. The Ottoman Empire was broken up into the mandate system in the Middle East, controlled by Great Britain or France. Austria-Hungary was broken up, and new nations like Yugoslavia, Hungary, and Czechoslovakia were created. Baltic states gained independence, and Russia lost some territory. Other changes that could be discussed include the decline in the population of working-age men and the role that the war’s economic devastation played in the Great Depression.\n\n4\nC.\n One way in which World War I set the stage for future conflicts was through the conditions \nimposed by the Treaty of Versailles. Germany, already reeling from the economic devastation of the war, was required to pay a staggering $33 billion in reparations. Together with the Great Depression, this contributed to the hyperinflation Germany experienced in the 1930s. Additionally Germany lost colonies and other territories and was required to demilitarize, both blows to the self-esteem of the German people. Finally, the war guilt clause, in which Germany had to assume total responsibility for all of World War I, engendered tremendous anger and resentment in Germany. This anger and resentment would create the conditions that made Hitler’s nationalistic message so attractive to some Germans and led to World War II. Other possible answers could include the mandate system, which set the stage for later conflicts in the Middle East, or Italy’s resentment at the terms of the Versailles Treaty resulting in its desire to re-create the Roman Empire through imperialism.\n\n5\nA.\n Both communism and fascism are totalitarian, centralized, authoritarian forms of government that rely on propaganda, secret police, and government control of media and schools to foster support.\n\n5\nB.\n The primary difference between fascism and communism is in their economic views. Fascism does not address economic disparities within a society and is based on capitalism. Communism, on the other hand, emphasizes that all economic activity is owned in common by all the workers and works toward the elimination of economic disparity. Whereas fascism is a nationalistic ideology, in which the most important ties among the members of society are their national identity, communism is class-based. Since economic classes transcend political borders, communism envisions a worldwide movement, rather than a national one.\n\n5\nC.\n Communism became more influential in the second half of the twentieth century because the defeat of Germany and Italy, both fascist states, weakened fascism’s influence and appeal. Also, the Soviet Union’s influence extended throughout Eastern Europe during the last months of WWII as Soviet troops drove the Nazis out of Eastern Europe. As they progressed, the Soviets left a presence in Eastern Europe that formed the basis for their later influence in the region. Finally, the international perspective of this ideology (see earlier) meant that they encouraged the spread of communism to other nations through propaganda and military intervention.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.19 Revolutions, World Wars, and Depression",
+  "format": "old",
+  "source_type": "book"
+ }
+]

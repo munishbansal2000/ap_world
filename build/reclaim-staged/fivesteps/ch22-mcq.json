@@ -1,0 +1,77 @@
+[
+ {
+  "id": "fivesteps-u9-002",
+  "unit": 9,
+  "stimulus": "[An] effective strategy for encouraging democracy is the spread of markets.\n\n—Chris Coyne\n\nGlobalization and free trade do spur economic growth, and they lead to lower prices on many goods.\n\n—Robert Reich",
+  "stem": "Which economic philosophy best represents the ideas expressed in the quotes?",
+  "options": [
+   "(A) Marxism",
+   "(B) Utilitarianism",
+   "(C) Neoliberalism",
+   "(D) Conservatism"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Neoliberalism is characterized by a support for free markets as the best means of guaranteeing economic growth. Marxism is the belief that capitalism, the driver of free markets, exploits workers and leads to revolution. Utilitarianism is the belief that the best policies are those that promote happiness for the greatest number of people. Though an argument could be made that free-market policies benefit the most people, this could be disputed if one considers the environmental consequences, for example. Moreover, utilitarianism is not an economic philosophy per se, making neoliberalism the better answer. Likewise, conservatism is not an economic philosophy, but rather a political one favoring traditional institutions and resisting change (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.22 Global Trade",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u9-003",
+  "unit": 9,
+  "stimulus": "[An] effective strategy for encouraging democracy is the spread of markets.\n\n—Chris Coyne\n\nGlobalization and free trade do spur economic growth, and they lead to lower prices on many goods.\n\n—Robert Reich",
+  "stem": "Which nation would best serve as a counter-example to Chris Coyne’s statement?",
+  "options": [
+   "(A) China under Mao Zedong",
+   "(B) China under Deng Xiaoping",
+   "(C) Cuba under Castro",
+   "(D) The Soviet Union under Josef Stalin"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Chris Coyne’s statement implies that development of economic freedom is likely to lead to political freedom. Although China implemented market reforms under Deng Xiaoping, these have not led to increased political freedoms. China under Mao Zedong with its Great Leap Forward (A), the Soviet Union under Stalin and his Five-Year Plans (D), and Cuba under Castro (C) were all associated with state control of the economy.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.22 Global Trade",
+  "format": "old",
+  "source_type": "book",
+  "source_note": "Source prints two options labeled (B); normalized positionally to (A)(B)(C)(D) per the answer explanation's own letter references."
+ },
+ {
+  "id": "fivesteps-u9-004",
+  "unit": 9,
+  "stimulus": "[An] effective strategy for encouraging democracy is the spread of markets.\n\n—Chris Coyne\n\nGlobalization and free trade do spur economic growth, and they lead to lower prices on many goods.\n\n—Robert Reich",
+  "stem": "Which organization would both speakers be least likely to support?",
+  "options": [
+   "(A) NAFTA",
+   "(B) The Eurozone",
+   "(C) ASEAN",
+   "(D) OPEC"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] OPEC is a group formed to increase profits for oil-exporting nations by limiting production and setting prices, both of which violate free-market ideals. NAFTA (A) and ASEAN (C) are both free trade zones instituted through multilateral treaties. The Eurozone is a single- currency zone among European Union members, created to facilitate the free f low of capital and goods within the zone (B).\n\n4\nA.\n Globalization is characterized by increasing economic interdependence and the free flow of goods and capital in a global marketplace though the reduction of trade barriers.\n\n4\nB.\n Globalization was facilitated by improvements in technology, like those in the transportation industry. Lower energy costs made passenger air travel much cheaper and more widely available, allowing businesses executives to travel easily among international offices. Containerized shipping increased the amount of goods that freighters could carry at a time, reducing costs.\n\n4\nC.\n One negative consequence of globalization is that the economic interdependence of nations makes them more vulnerable. Economic downturns in one part of the world can have ripple effects throughout the world. For example, the U.S. recession in 2008 with its resulting unemployment led to a decrease in the demand for goods from exporting nations. There was also a contraction of credit and international banks failed, decreasing investment and leading to business failures and unemployment internationally.\n\n5\nA.\n When governments take over and consolidate many small, private enterprises, it is known as collectivization. One example of this is the move by Josef Stalin in the Soviet Union to collectivize agriculture by forcing farmers to work on large-scale, state-owned farms. Though the intent was to take advantage of economies of scale, without the profit motive, farmers were less productive. Stalin also set unrealistic production targets, and managers of the collectives often lied about meeting them, making economic planning more difficult.\n\n5\nB.\n Nationalization is the process by which a government takes over an industry or enterprise previously owned by private investors, often in foreign nations. An example of this was Nasser’s nationalization of the Suez Canal in Egypt, which had previously been controlled by Great Britain.\n\n5\nC.\n Protectionism is the policy of protecting domestic industries through the imposition of protective tariffs on imports and/or subsidies. One example is the use of import substitution industrialization in Latin America when governments encouraged the development of domestic industries to replace imported goods. One way they encouraged those industries was by using protective tariffs on foreign imports. The governments also provided financial assistance to companies developing those industries (subsidies).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.22 Global Trade",
+  "format": "old",
+  "source_type": "book"
+ }
+]

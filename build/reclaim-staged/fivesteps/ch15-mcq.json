@@ -1,0 +1,130 @@
+[
+ {
+  "id": "fivesteps-u5-005",
+  "unit": 5,
+  "stimulus": "According to Marius Jansen, a Japanese historian: “After decades of weakness, it was good to be a Japanese and to humble the mighty neighbor that had dominated the horizon for so long.” In less than four decades Japan went from being a feudal society to a modern state, with sophisticated weaponry, a developed military bureaucracy, advancements in governing structures, and educational institutions.\n\n—Marius B. Jansen, 2002",
+  "stem": "To which event is the quote by Marius Jansen mostly likely referring?",
+  "options": [
+   "(A) The Sino-Russo War",
+   "(B) The Sino-Japanese War",
+   "(C) The Taiping Rebellion",
+   "(D) The zaibatsu movement"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Qing Dynasty and Japan fought in 1894, primarily over control of Korea. The term “Sino” refers to China, and thus the Sino-Russo War would not refer to Japan (A). The Taiping Rebellion was a civil war within China between the Qing Dynasty and the Heavenly Kingdom of Eternal Peace, a Chinese movement opposed to the Qing (C). \nZaibatsu\n is a Japanese term, referring to large business organizations wielding considerable influence in the Japanese government after the Meiji period. This term is not associated, then, with any foreign war (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.15 Revolutions and the Consequences of Industrialization",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-006",
+  "unit": 5,
+  "stimulus": "According to Marius Jansen, a Japanese historian: “After decades of weakness, it was good to be a Japanese and to humble the mighty neighbor that had dominated the horizon for so long.” In less than four decades Japan went from being a feudal society to a modern state, with sophisticated weaponry, a developed military bureaucracy, advancements in governing structures, and educational institutions.\n\n—Marius B. Jansen, 2002",
+  "stem": "What motivated the Meiji government to take the actions referred to in the quote by Marius Jansen?",
+  "options": [
+   "(A) A lack of natural resources for further industrialization",
+   "(B) A desire for additional labor sources",
+   "(C) The fear of an increasingly industrialized China",
+   "(D) Obligations imposed by treaties with Western nations"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] China had been forced to open to trade by the Americans in the mid-1800s and subsequently sought to industrialize. Unhappy with China’s traditional dominance, Japan also recognized the value of Korea’s natural resources for Japan’s industrialization. Japan’s population was growing, so labor was not a concern (B). Also China had rejected Western influences and thus had not experienced industrial or technological growth at the time (C). Finally, although required to open to foreign trade, Japan did not have military treaties with or obligations to other nations during this period (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.15 Revolutions and the Consequences of Industrialization",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-007",
+  "unit": 5,
+  "stimulus": null,
+  "stem": "Which development was critical to the industrialization of most nations?",
+  "options": [
+   "(A) Organization of labor into unions",
+   "(B) The entry of women into the workforce",
+   "(C) State-sponsored railroads",
+   "(D) Direct military involvement Question 4 refers to the following quotation. In general, if any branch of trade, or any division of labour, be advantageous to the public, the freer and more general the competition, it will always be the more so. —Adam Smith"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Industrialization of most nations during this period involved the growth of railroads, through some degree of government sponsorship or intervention. There were necessary to link natural resources, refining and manufacturing, and markets. Labor unions developed after industrialization in response to the problems created by unregulated capitalism (A). Though industrialization offered different opportunities for some women, female labor was not necessary for its initial development (B). While the military may have benefited from industrialization in some places, they were not directly responsible for its development (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.15 Revolutions and the Consequences of Industrialization",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-008",
+  "unit": 5,
+  "stimulus": null,
+  "stem": "Which economic theory is best supported by this quotation?",
+  "options": [
+   "(A) Utilitarianism",
+   "(B) Communism",
+   "(C) Corporatism",
+   "(D) Laissez-faire"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Laissez-faire\n is the economic philosophy based on Adam Smith’s ideas that markets function best without government regulations interfering with the “invisible hand.” Utilitarianism is not a primarily economic theory, but is based on the belief that the best policies are those that create the most good for the most people. Utilitarians might support regulation if the number of people benefitting were greater than those harmed (A). Communism is an economic theory, but is based on the idea that if capitalism were to disappear, all industries would then be owned by and run for the benefit of all, thus eliminating the competition inventive (B). Corporatism is a political system in which industrial sectors work with the government to manage the economy, and is therefore not based on free competition (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.15 Revolutions and the Consequences of Industrialization",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-009",
+  "unit": 5,
+  "stimulus": null,
+  "stem": "Which best reflects a social change resulting from industrialization?",
+  "options": [
+   "(A) Working hours could be adapted to the needs of one’s family.",
+   "(B) Women eventually returned to more traditional roles of homemaker and mother.",
+   "(C) Populations dispersed and social status was based on estate holdings.",
+   "(D) Children were given more financial responsibilities and independence."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Although industrialization, in its earliest forms, allowed women to work in textile industries, overall it shifted work to factories and mines, with an emphasis on male labor. The expectation became that women were better suited to childrearing and homemaking. This was partly because the factory system meant work took place outside the home and on a set schedule (A). Industrialization led to concentration of populations in urban areas, with a corresponding decline in importance of agricultural estates (C). Finally, though some poorer families relied on children to supplement the family income, the social expectations (later supported with regulations) were that children should be protected from harsh working conditions (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "SIO",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.15 Revolutions and the Consequences of Industrialization",
+  "format": "old",
+  "source_type": "book"
+ }
+]

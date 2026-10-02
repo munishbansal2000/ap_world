@@ -1,0 +1,687 @@
+[
+ {
+  "id": "fivesteps-u4-008",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which historical facts can be explained by the information on this map?",
+  "options": [
+   "(A) Eventually, the Dutch controlled the spice trade.",
+   "(B) Brazilians today speak Portuguese.",
+   "(C) Canada is divided into English- and French-speaking groups.",
+   "(D) There is a strong Scandinavian community in North America."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Brazilians speak Portuguese as a result of the line of demarcation established by the Treaty of Tordesillas (the Pope’s Line through South America) in 1494. The Dutch (A) are not included on the map. Only English voyages (C) to Canada are listed, and therefore they cannot explain French-speaking Canadians. Although \nthe Vikings did land in North America (D), they did not establish a presence.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u2-004",
+  "unit": 2,
+  "stimulus": null,
+  "stem": "Zheng He engaged in oceanic exploration for China as early as 1405, well before the Europeans, yet 1450 is frequently used to mark the beginning of this era. Which statement best explains using the later date?",
+  "options": [
+   "(A) Zheng He failed to contact other cultures, so he is widely viewed as a failure.",
+   "(B) European influence is the most significant, so beginning with the European voyages makes sense.",
+   "(C) China abandoned exploration early, limiting Chinese impact on a global scale.",
+   "(D) The era is characterized by colonization, and the islands off the East African coast were colonized in 1450."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] China abandoned exploration during the Ming Dynasty at the behest of Confucian officials so that the country could focus on protecting its borders. Zheng He in fact contacted many other cultures (A) and brought many exotic animals and products home to China. Choice (B) is an ethnocentric statement and reflects a point of view rather than historical reality. The islands off the East African coast were not colonized by 1450 (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-011",
+  "unit": 1,
+  "stimulus": null,
+  "stem": "Which part of the world had previously been omitted from transregional trade networks?",
+  "options": [
+   "(A) Southeast Asia",
+   "(B) Africa",
+   "(C) Europe",
+   "(D) The Americas"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Americas had had local, but no trans-regional, trade. Southeast Asia, Africa, and Europe (A, B, and C) had engaged in several transregional trade networks, including those along the Silk Roads, across the Indian Ocean, and around the Mediterranean.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-009",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which historical phenomenon resulted from the events depicted on the map?",
+  "options": [
+   "(A) Mercantilism",
+   "(B) Nationalism",
+   "(C) Industrialism",
+   "(D) Communism Questions 33 to 36 refer to the following passages. Both authors were speaking of the French Revolution. It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only. There were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal … that things in general were settled for ever. — A Tale of Two Cities , by Charles Dickens Bliss was it in that dawn to be alive. But to be young was very heaven. — The Prelude , by William Wordsworth"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Mercantilism developed in conjunction with colonies, arising out of exploration. Nationalism is associated with the nineteenth and twentieth centuries (B); industrialism is associated with the eighteenth and nineteenth centuries (C); and communism is a twentieth-century political phenomenon (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-001",
+  "unit": 5,
+  "stimulus": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.\n\nThere were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal … that things in general were settled for ever.\n\n—\nA Tale of Two Cities\n, by Charles Dickens\n\nBliss was it in that dawn to be alive. But to be young was very heaven.\n\n—\nThe Prelude\n, by William Wordsworth",
+  "stem": "Dickens’s and Wordsworth’s differing views about the French Revolution can be described, respectively, by which of the following adjectives?",
+  "options": [
+   "(A) Optimistic, encouraged",
+   "(B) Understanding, accepting",
+   "(C) Cynical, enthusiastic",
+   "(D) Sincere, resigned"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The only possible description of Wordsworth’s reaction is enthusiasm, and thus the other answers (which would make him encouraged [A], accepting [B], or resigned [D]) are unacceptable. \nC\n also accounts for Dickens’s somewhat cynical take, as when he says, “things in general were settled forever.”",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-002",
+  "unit": 5,
+  "stimulus": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.\n\nThere were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal … that things in general were settled for ever.\n\n—\nA Tale of Two Cities\n, by Charles Dickens\n\nBliss was it in that dawn to be alive. But to be young was very heaven.\n\n—\nThe Prelude\n, by William Wordsworth",
+  "stem": "One similarity between the French Revolution and the American Revolution is that both were responses to which of the following?",
+  "options": [
+   "(A) Transformation of the social class structure",
+   "(B) Unfair systems of taxation",
+   "(C) New proposed political structures",
+   "(D) The privileges and influence of religious leaders"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] In France, the heavy tax burden was borne exclusively by the third estate, who could least afford it. In the American colonies, colonists disputed the contention that Parliament had the right to impose taxes on the colonies without colonial representation in Parliament. The American Revolution changed very little with regard to the existing class structure; however, France’s class structure changed dramatically (A). Although France wanted to abolish the monarchy, the American colonists kept the ideals of a bicameral legislature, separation of powers, and colonial legislatures, as well as representative government (C). The French Revolution sought to limit the influence of religious leaders, but the American Revolution did not.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "CDI",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-003",
+  "unit": 5,
+  "stimulus": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.\n\nThere were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal … that things in general were settled for ever.\n\n—\nA Tale of Two Cities\n, by Charles Dickens\n\nBliss was it in that dawn to be alive. But to be young was very heaven.\n\n—\nThe Prelude\n, by William Wordsworth",
+  "stem": "Most revolutions produce a strong leading figure; the French Revolution allowed which of the following to assume great power?",
+  "options": [
+   "(A) King Louis XVI",
+   "(B) Robespierre",
+   "(C) Jean Lafitte",
+   "(D) Lafayette"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Robespierre, called “the Incorruptible,” was known initially as the champion of the social revolution that took place in France. Later, in 1794, he was considered a dictator and summarily executed. Louis XVI (A) was the king who was overthrown by the French Revolution. Jean Lafitte (C) was a pirate. Lafayette (D) was known for his participation in the American Revolution, but he was a moderate where the French Revolution was concerned and was eventually exiled from France.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-004",
+  "unit": 5,
+  "stimulus": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.\n\nThere were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal … that things in general were settled for ever.\n\n—\nA Tale of Two Cities\n, by Charles Dickens\n\nBliss was it in that dawn to be alive. But to be young was very heaven.\n\n—\nThe Prelude\n, by William Wordsworth",
+  "stem": "The intellectual foundations of the eighteenth-century political revolutions were based on",
+  "options": [
+   "(A) the Reformation.",
+   "(B) mercantilism.",
+   "(C) the Enlightenment.",
+   "(D) the Reconquista. Questions 37 to 39 refer to the following political cartoon showing Woodrow Wilson, published in 1919. Blowing Bubbles"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Enlightenment thinkers responded to the social and economic ills that had characterized seventeenth- and eighteenth-century France; they sought to replace the aristocratic old order with a rational, practical, more bourgeois society and government. The Reformation (A) was a sixteenth-century religious movement aimed at reforming the corrupt Catholic Church. Mercantilism (B) was an economic theory that was popular with colonial powers, especially in sixteenth-, seventeenth-, and eighteenth-century Europe. The Reconquista refers to the centuries-long Christian reconquest of Spain from Arab domination.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-004",
+  "unit": 7,
+  "stimulus": "Blowing Bubbles",
+  "stem": "What does the cartoonist intend to suggest in the political cartoon?",
+  "options": [
+   "(A) Woodrow Wilson was responsible for the failure of the League of Nations.",
+   "(B) The forces of conflict were too strong for the League of Nations to overcome.",
+   "(C) The League of Nations was too fragile to have lasted long.",
+   "(D) Idealism is necessary to improve the world."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] By comparing the League of Nations to a bubble, the artist implies that it was delicate and could not last. Woodrow Wilson is creating, not destroying, the bubble (A). There is no reference to conflict in the cartoon (B). There is also no reference to the necessity for idealism or the idea that the League of Nations will improve the world (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-005",
+  "unit": 7,
+  "stimulus": "Blowing Bubbles",
+  "stem": "Though the League of Nations was short-lived (1919–1946), it set the stage for which of the following?",
+  "options": [
+   "(A) NATO",
+   "(B) The United Nations",
+   "(C) The alliance system",
+   "(D) The Marshall Plan"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] In theory, the United Nations was the successor to the League of Nations. Founded after World War II, it promoted peaceful international relations, acted as an arbiter in international disputes, and called for its member nations to solve sociocultural, economic, and political (humanitarian) problems around the world.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-006",
+  "unit": 7,
+  "stimulus": "Blowing Bubbles",
+  "stem": "Those who argue that the roots of World War II are found in the Treaty of Versailles, which created the League of Nations, point to which of the following?",
+  "options": [
+   "(A) The rejection of the League of Nations by the French and the British",
+   "(B) Germany’s resentment at having to accept blame for World War I",
+   "(C) Italy’s resentment at losing the territory it had won",
+   "(D) The dissolution of the Austro-Hungarian Empire Questions 40 to 43 refer to the following passage, an account given to a French officer in Algeria in the 1830s by a member of an Arab slave trade caravan. The Slave Trade All of you [soldiers], are summoned … to hunt the idolatrous Koholanes [a pejorative word for “black Africans”]…. The soldiery divided themselves into two companies … with orders to attack places without defenses and to carry off the inhabitants as well as seizing all peasants busy cultivating their fields…. Whilst waiting for the return of the companies despatched to hunt Negroes, we went every day to the slave market where we bought at the following prices: A Negro with beard………………10 or 15,000 cowries. They are not considered as merchandise since one has little chance of preventing them from escaping. An adult Negress………………..10 or 15,000 cowries for the same reasons An adolescent Negro………………….30,000 cowries A young Negress ……………………50–60,000 cowries The price varies according to whether she is more or less beautiful. A male Negro child……………………..45,000 cowries A female Negro child ……………………….35–40,000 cowries Finally, our caravan which had set out from Algeria with sixty-four camels and only sixteen persons, was now augmented by four hundred slaves, of whom three hundred were women…. It was at this point that suddenly a confused noise of cries and sobs passed from one group of slaves to another and reached our own…. Some rolled on the ground, clung to bushes and absolutely refused to walk…. They could only be got up with mighty lashes of the whip and by rendering them completely bloody."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The so-called war guilt clause forced Germany to agree that it was solely responsible for World War I, creating German anger and resentment toward the other European nations at the conference. Both France and Britain \njoined the League of Nations (A). Italy did not lose territory in World War I, although it did in World War II (C). The Austro-Hungarian Empire’s dissolution played no role in the hostilities leading up to World War II (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-010",
+  "unit": 4,
+  "stimulus": "The Slave Trade\n\nAll of you [soldiers], are summoned … to hunt the idolatrous Koholanes [a pejorative word for “black Africans”]…. The soldiery divided themselves into two companies … with orders to attack places without defenses and to carry off the inhabitants as well as seizing all peasants busy cultivating their fields…. Whilst waiting for the return of the companies despatched to hunt Negroes, we went every day to the slave market where we bought at the following prices:\n\nA Negro with beard………………10 or 15,000 cowries.\n\nThey are not considered as merchandise since one has little chance of preventing them from escaping.\n\nAn adult Negress………………..10 or 15,000 cowries for the same reasons\n\nAn adolescent Negro………………….30,000 cowries\n\nA young Negress ……………………50–60,000 cowries\n\nThe price varies according to whether she is more or less beautiful.\n\nA male Negro child……………………..45,000 cowries\n\nA female Negro child ……………………….35–40,000 cowries\n\nFinally, our caravan which had set out from Algeria with sixty-four camels and only sixteen persons, was now augmented by four hundred slaves, of whom three hundred were women…. It was at this point that suddenly a confused noise of cries and sobs passed from one group of slaves to another and reached our own…. Some rolled on the ground, clung to bushes and absolutely refused to walk…. They could only be got up with mighty lashes of the whip and by rendering them completely bloody.",
+  "stem": "Which conclusion is supported by the passage?",
+  "options": [
+   "(A) Africans passively accepted their capture and subsequent enslavement.",
+   "(B) North Africans were primarily captured and enslaved by rival African tribes.",
+   "(C) Population changes from slavery resulted in North African tribes having more men than women.",
+   "(D) Adult male slaves were most highly valued due to their physical strength."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The passage specifies that more women than men were enslaved and that women slaves brought more profit. This would result in tribes with an overpopulation of men. The passage refers to the resistance of slaves (A), and their prices indicate the possibility of escape. The captors in the passage were primarily Arab (B), as indicated by the introduction. Women were more highly valued than men because of their beauty, as indicated in the price lists (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-011",
+  "unit": 4,
+  "stimulus": "The Slave Trade\n\nAll of you [soldiers], are summoned … to hunt the idolatrous Koholanes [a pejorative word for “black Africans”]…. The soldiery divided themselves into two companies … with orders to attack places without defenses and to carry off the inhabitants as well as seizing all peasants busy cultivating their fields…. Whilst waiting for the return of the companies despatched to hunt Negroes, we went every day to the slave market where we bought at the following prices:\n\nA Negro with beard………………10 or 15,000 cowries.\n\nThey are not considered as merchandise since one has little chance of preventing them from escaping.\n\nAn adult Negress………………..10 or 15,000 cowries for the same reasons\n\nAn adolescent Negro………………….30,000 cowries\n\nA young Negress ……………………50–60,000 cowries\n\nThe price varies according to whether she is more or less beautiful.\n\nA male Negro child……………………..45,000 cowries\n\nA female Negro child ……………………….35–40,000 cowries\n\nFinally, our caravan which had set out from Algeria with sixty-four camels and only sixteen persons, was now augmented by four hundred slaves, of whom three hundred were women…. It was at this point that suddenly a confused noise of cries and sobs passed from one group of slaves to another and reached our own…. Some rolled on the ground, clung to bushes and absolutely refused to walk…. They could only be got up with mighty lashes of the whip and by rendering them completely bloody.",
+  "stem": "What is the most likely destination for the captured slaves in the excerpt?",
+  "options": [
+   "(A) Elites’ homes or harems in the Middle East",
+   "(B) Sugar plantations in Brazil",
+   "(C) Cotton plantations in North America",
+   "(D) Slave armies of the Mughal Empire"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Because the slaves were predominantly women and had been captured by Arabs, they were most suited for domestic service or harems. Sugar plantations (B), cotton plantations (C), and armies (D) all favored physical strength, resulting in a preference for males. Arabs did not engage in the Atlantic slave trade, but sold slaves primarily in the Middle East.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN",
+   "SIO",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-012",
+  "unit": 4,
+  "stimulus": "The Slave Trade\n\nAll of you [soldiers], are summoned … to hunt the idolatrous Koholanes [a pejorative word for “black Africans”]…. The soldiery divided themselves into two companies … with orders to attack places without defenses and to carry off the inhabitants as well as seizing all peasants busy cultivating their fields…. Whilst waiting for the return of the companies despatched to hunt Negroes, we went every day to the slave market where we bought at the following prices:\n\nA Negro with beard………………10 or 15,000 cowries.\n\nThey are not considered as merchandise since one has little chance of preventing them from escaping.\n\nAn adult Negress………………..10 or 15,000 cowries for the same reasons\n\nAn adolescent Negro………………….30,000 cowries\n\nA young Negress ……………………50–60,000 cowries\n\nThe price varies according to whether she is more or less beautiful.\n\nA male Negro child……………………..45,000 cowries\n\nA female Negro child ……………………….35–40,000 cowries\n\nFinally, our caravan which had set out from Algeria with sixty-four camels and only sixteen persons, was now augmented by four hundred slaves, of whom three hundred were women…. It was at this point that suddenly a confused noise of cries and sobs passed from one group of slaves to another and reached our own…. Some rolled on the ground, clung to bushes and absolutely refused to walk…. They could only be got up with mighty lashes of the whip and by rendering them completely bloody.",
+  "stem": "Which statement best supports the argument that religion played a role in the Arab slave trade?",
+  "options": [
+   "(A) “Seizing all peasants busy cultivating their fields”",
+   "(B) “With orders to attack places without defenses”",
+   "(C) “Four hundred slaves, of whom three hundred were women”",
+   "(D) “All of you [soldiers], are summoned … to hunt the idolatrous Koholanes”"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Specifying that captives were “idolatrous” makes it clear that the slavers were working off a religious premise. Choices A, B, and C all refer to the capture of slaves, not to their ultimate destination or purpose and not to their religious beliefs.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "ECN",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-013",
+  "unit": 4,
+  "stimulus": "The Slave Trade\n\nAll of you [soldiers], are summoned … to hunt the idolatrous Koholanes [a pejorative word for “black Africans”]…. The soldiery divided themselves into two companies … with orders to attack places without defenses and to carry off the inhabitants as well as seizing all peasants busy cultivating their fields…. Whilst waiting for the return of the companies despatched to hunt Negroes, we went every day to the slave market where we bought at the following prices:\n\nA Negro with beard………………10 or 15,000 cowries.\n\nThey are not considered as merchandise since one has little chance of preventing them from escaping.\n\nAn adult Negress………………..10 or 15,000 cowries for the same reasons\n\nAn adolescent Negro………………….30,000 cowries\n\nA young Negress ……………………50–60,000 cowries\n\nThe price varies according to whether she is more or less beautiful.\n\nA male Negro child……………………..45,000 cowries\n\nA female Negro child ……………………….35–40,000 cowries\n\nFinally, our caravan which had set out from Algeria with sixty-four camels and only sixteen persons, was now augmented by four hundred slaves, of whom three hundred were women…. It was at this point that suddenly a confused noise of cries and sobs passed from one group of slaves to another and reached our own…. Some rolled on the ground, clung to bushes and absolutely refused to walk…. They could only be got up with mighty lashes of the whip and by rendering them completely bloody.",
+  "stem": "How was the Arab trade in Africans different from the Atlantic slave trade?",
+  "options": [
+   "(A) Unlike Arab slave merchants, those involved in the Atlantic slave trade were motivated by religion.",
+   "(B) Slaves taken for the Atlantic slave trade had no prospect of eventual liberty, but slaves taken by Arab merchants did.",
+   "(C) Slaves taken for the Atlantic trade were predominantly female; slaves taken by Arab merchants were mostly male.",
+   "(D) Slaves taken by Arab merchants were likely to have a shorter life span than those taken for the Atlantic trade. Questions 44 to 47 refer to the following maps. The Middle East Before and After World War I Settlements, 1914–1922"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] According to the end of the excerpt, the North African slaves could look forward to the possibility of freedom. While all slave trade was motivated by profit, the passage indicates that the North Africans rationalized the capture of Africans who were considered idolaters (A). West African slaves were predominantly male; North African slaves were predominantly female (C). Slaves doing plantation work in the Caribbean had a notoriously shorter life span, and most of those slaves came from West Africa (D).",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN",
+   "SIO",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-007",
+  "unit": 7,
+  "stimulus": "The Middle East Before and After World War I Settlements, 1914–1922",
+  "stem": "The second map shows which of the following?",
+  "options": [
+   "(A) The encomienda system of colonial influence",
+   "(B) The League of Nations’ mandate system",
+   "(C) Territorial changes from the Berlin Conference",
+   "(D) Cold War influence in the Middle East"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The map reflects the distribution of the defeated Central Powers’ territories by the League of Nations after World War I. The encomienda system is Latin American (A) and thus is not on the map. The Berlin Conference (C) dealt with all of Africa and included more European nations than simply Britain and France. The Cold War (D) did not play out in the Middle East and would have referred to the Soviets and the United States.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-008",
+  "unit": 7,
+  "stimulus": "The Middle East Before and After World War I Settlements, 1914–1922",
+  "stem": "Which twentieth-century principle of government is violated in these maps?",
+  "options": [
+   "(A) Colonialism",
+   "(B) Self-determination",
+   "(C) Containment",
+   "(D) Mercantilism"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Self-determination refers to the right to rule oneself. Colonialism (A) involves a foreign power being either directly or indirectly in control of another nation. Containment (C) refers to the policy of stopping the spread of communism, which was not an issue in the Middle East. Mercantilism (D) was an economic system associated with colonialism and imperialism, whereas the map refers to political administration.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-009",
+  "unit": 7,
+  "stimulus": "The Middle East Before and After World War I Settlements, 1914–1922",
+  "stem": "Which best explains why Great Britain, rather than another country, received control over the territory in Palestine?",
+  "options": [
+   "(A) The Balfour Declaration",
+   "(B) The Zimmerman Telegram",
+   "(C) The Berlin Conference",
+   "(D) The Non-Aligned Movement"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Balfour Declaration indicated that Britain could eventually support a Jewish state, and other countries made no public statement. The Zimmerman Telegram (B), the Berlin Conference (C), and the Non-Aligned Movement (D) do not refer to the Middle East and are therefore incorrect.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-010",
+  "unit": 7,
+  "stimulus": "The Middle East Before and After World War I Settlements, 1914–1922",
+  "stem": "What was the impact of the events reflected in these maps?",
+  "options": [
+   "(A) The Ottoman Empire retaliated.",
+   "(B) Italy resented not receiving any territories through this system.",
+   "(C) Australia eventually achieved independence.",
+   "(D) Kuwait became part of Iraq. Questions 48 to 51 refer to the following chart, from a speech entitled “Report on Work of Central Committee,” given by J. V. Stalin, March 10, 1939."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] After World War I, Italy, having joined the Allied Powers after the start of the war, received neither reparations nor territory; therefore, the Italians resented what they perceived to be an unfair division of the spoils of war. The Ottoman Empire was dissolved and never reformed (A), Australia (C) is completely irrelevant to the map, and Kuwait (D) never became part of Iraq.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-011",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "Which statement is supported by the data in the chart?",
+  "options": [
+   "(A) The Soviets supported grain production at the expense of consumer goods.",
+   "(B) All commodities had reduced agricultural output in 1938.",
+   "(C) The Soviets had less demand for cotton than for flax fiber.",
+   "(D) Over time, the Soviet Union increased production of all reported commodities."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Between 1933 and 1937, according to the chart, production of all the cited commodities increased. Consumer goods (A) are not referred to in the chart. While grain, flax, sugar beets, and oil seed experienced reduced outputs in 1938, cotton production increased (B). The Soviets had more, not less, demand for cotton than for flax fiber (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "ENV",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-012",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "What should one consider when evaluating the point of view of these data?",
+  "options": [
+   "(A) Official government statistics are reliable because they are objective.",
+   "(B) Increases in agricultural output were possible only because of German assistance.",
+   "(C) Stalin had an incentive to overstate gains for propaganda and political reasons.",
+   "(D) Soviet kulaks destroyed crops to protest Soviet policy, making the data invalid."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Stalin wanted to remain in power and thus had an incentive to produce not just more goods but also positive political propaganda. Official governmental statistics (A) are often notoriously unreliable, designed to maintain or increase support for a government. German assistance is nowhere accounted for in the data at hand (B). Also, it was not until 1939 that Germany and Russia, who had supported \nopposing sides of those fighting the Spanish Civil War, signed a nonaggression pact. Kulaks (wealthy Russian peasants) had been mostly exterminated by the 1920s (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-013",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "Which of Stalin’s policies are most responsible for the information on the chart?",
+  "options": [
+   "(A) Collectivization",
+   "(B) New Economic Plans",
+   "(C) Five-Year Plans",
+   "(D) The Great Leap Forward"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Collectivization, or Stalin’s plan to create state-run rather than individually held farms, constituted the economic and political planning at the heart of communism. New Economic Plans (B) refer to Lenin; Five-Year Plans (C) refer more to industry than to agriculture; and the Great Leap Forward (D) refers to Mao Zedong’s efforts in the late 1950s to recapture the rural peasant base that had made his revolution possible.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-014",
+  "unit": 7,
+  "stimulus": null,
+  "stem": "What was the effect of Stalin’s agricultural policies on the Soviet peasants?",
+  "options": [
+   "(A) Forced resettlement to Georgia because it had more arable land",
+   "(B) Resistance through the destruction of crops and widespread famine",
+   "(C) Greater economic stability through the introduction of new types of grain",
+   "(D) Improved social status due to their importance to the Soviet economy Questions 52 to 55 refer to the following passage. It is the Chinese emperor’s response to English King George III’s diplomatic envoys, who were seeking expanded trading privileges (1793). Strange and costly objects do not interest me. If I have commanded that the tribute offerings sent by you, O King, are to be accepted, this was solely in consideration for the spirit which prompted you to dispatch them from afar…. As your Ambassador can see for himself, we possess all things. I set no value on objects strange or ingenious, and have no use for your country’s manufactures. It behooves you, O King, to display even greater devotion and loyalty in future, so that, by perpetual submission to our Throne, you may secure peace and prosperity."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The peasants under Stalin exerted resistance by destroying crops (and thus his positive data about crop production). Ultimately, collectivization led to repression and the outright slaughter of peasants and to famine. While there was some relocation of peasants during collectivization, they were not removed en masse to Georgia (A). Rather than seeing increased economic stability, the peasants lost what little economic stability they had had (C). The situation of the peasantry was negatively rather than positively affected by Stalin’s economic policies (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-014",
+  "unit": 4,
+  "stimulus": "Strange and costly objects do not interest me. If I have commanded that the tribute offerings sent by you, O King, are to be accepted, this was solely in consideration for the spirit which prompted you to dispatch them from afar…. As your Ambassador can see for himself, we possess all things. I set no value on objects strange or ingenious, and have no use for your country’s manufactures. It behooves you, O King, to display even greater devotion and loyalty in future, so that, by perpetual submission to our Throne, you may secure peace and prosperity.",
+  "stem": "According to the passage, what was the Chinese reaction to the British goods?",
+  "options": [
+   "(A) Awe at their technological superiority",
+   "(B) Fascination with their strangeness",
+   "(C) Offense at a perceived bribe",
+   "(D) Interpreting them as an act of submission"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Qianlong, the Qing emperor, makes it clear that he has no use for Great Britain’s goods and that only through British submission to the Chinese throne and its stated wishes will there be peace and prosperity. The Chinese reaction to British goods is that while they are perhaps strange and ingenious, they are of no use to a country that has everything (A, B). Rather than perceiving the British manufactured goods as a bribe (C), the Chinese see them as a form of tribute.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-015",
+  "unit": 4,
+  "stimulus": "Strange and costly objects do not interest me. If I have commanded that the tribute offerings sent by you, O King, are to be accepted, this was solely in consideration for the spirit which prompted you to dispatch them from afar…. As your Ambassador can see for himself, we possess all things. I set no value on objects strange or ingenious, and have no use for your country’s manufactures. It behooves you, O King, to display even greater devotion and loyalty in future, so that, by perpetual submission to our Throne, you may secure peace and prosperity.",
+  "stem": "Why were the Chinese not interested in expanding trading rights with Great Britain?",
+  "options": [
+   "(A) The Chinese were angry over Britain’s interference in their foreign affairs.",
+   "(B) The Chinese had a preexisting exclusive trade agreement with the Dutch.",
+   "(C) They had no interest in the products that Great Britain could provide.",
+   "(D) They were afraid that the British would gain too much influence within China."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] “We possess all things,” writes the Chinese emperor; therefore, anything that the British could produce held no interest for China. While not necessarily angry, the Chinese were very clear that barbarians (including the British) were not allowed to participate in the country’s foreign or domestic affairs (A). There was no agreement with the Dutch dealing with exclusive trading privileges with the Chinese. The Dutch followed the practice of working within established Asian trading systems (B). The Chinese pointed out in the letter that no foreigner, or barbarian, was allowed free access to economic, political, or cultural systems (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-016",
+  "unit": 4,
+  "stimulus": "Strange and costly objects do not interest me. If I have commanded that the tribute offerings sent by you, O King, are to be accepted, this was solely in consideration for the spirit which prompted you to dispatch them from afar…. As your Ambassador can see for himself, we possess all things. I set no value on objects strange or ingenious, and have no use for your country’s manufactures. It behooves you, O King, to display even greater devotion and loyalty in future, so that, by perpetual submission to our Throne, you may secure peace and prosperity.",
+  "stem": "How did the Chinese restrict foreign trade during the era 1750–1900?",
+  "options": [
+   "(A) European merchants were confined to a few cities designated for foreign trade.",
+   "(B) Only the Dutch traded with China; other Europeans had to use them as intermediaries.",
+   "(C) The Chinese imposed extraordinary tariffs on all foreign products.",
+   "(D) They passed laws intended to persecute and harass foreign residents."
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] European merchants were indeed closely monitored and their movements restricted to specific areas and cities. Likewise, their exchanges with Chinese people were limited. Both the Portuguese and the British (as well as the Dutch) traded with China (B). Products themselves were limited (C), but they did not carry extraordinary tariffs. Laws were intended only to confine and monitor foreign residents (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-017",
+  "unit": 4,
+  "stimulus": "Strange and costly objects do not interest me. If I have commanded that the tribute offerings sent by you, O King, are to be accepted, this was solely in consideration for the spirit which prompted you to dispatch them from afar…. As your Ambassador can see for himself, we possess all things. I set no value on objects strange or ingenious, and have no use for your country’s manufactures. It behooves you, O King, to display even greater devotion and loyalty in future, so that, by perpetual submission to our Throne, you may secure peace and prosperity.",
+  "stem": "What was the impact of European demand for Chinese goods?",
+  "options": [
+   "(A) The Portuguese increased their international power and prestige.",
+   "(B) The British shifted their focus for trade and colonization to Japan.",
+   "(C) The bulk of the world’s silver supply moved to China.",
+   "(D) The British sought control of the Malacca Strait."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Demand for Chinese products was high, but the Chinese had no interest in European goods, preferring instead to be paid in silver. This created a huge demand for silver, driving mining efforts by the Spanish in the Americas. Because the Portuguese did not have the resources to maintain control of the Indian Ocean trade, their prestige and power declined (A). The British had important colonies in India, and the Japanese also took steps to restrict trade with foreigners (B). The Malacca Strait, though important, was never controlled by the British (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ }
+]

@@ -1,0 +1,719 @@
+[
+ {
+  "id": "fivesteps-u1-001",
+  "unit": 1,
+  "stimulus": null,
+  "stem": "What historical process is best illustrated by this frieze?",
+  "options": [
+   "(A) The diffusion of cultural ideas and patterns through military conquest",
+   "(B) The significance of trade in the weakening of class systems",
+   "(C) The use of monumental architecture to strengthen political support",
+   "(D) The spread of religion as a result of trade"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Hellenistic culture combined Greek elements with those from local cultures as Alexander the Great’s army conquered the area from North Africa to the Indus valley. Though Greek culture also spread into India through trade in the Bactria region, this image is unrelated to class systems (B). A frieze is not considered monumental sculpture (C). Buddhism is considered a belief system rather than a religion (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-002",
+  "unit": 1,
+  "stimulus": null,
+  "stem": "The combination of Greek culture and Eastern political forms shown in this frieze is illustrative of which of the following periods?",
+  "options": [
+   "(A) Punic",
+   "(B) Justinian",
+   "(C) Constantinian",
+   "(D) Hellenistic"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Hellenistic culture involved the blending of Greek and local cultures in the wake of Alexander the Great’s conquests of Asia Minor and the Indus valley region. Punic (A) refers to Rome’s wars against Carthage; and both Justinian (B) and Constantinian (C) refer to Byzantine emperors.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-003",
+  "unit": 1,
+  "stimulus": null,
+  "stem": "The adoption of conquered people’s ideas, institutions, and traditions by ruling groups is best characterized by which of the following rulers?",
+  "options": [
+   "(A) Mohandas Gandhi",
+   "(B) Caesar Augustus",
+   "(C) Alexander the Great",
+   "(D) Chinggis Khan Questions 4 to 7 refer to the following passage. At the peak of their power, the domains of the Mongol khans, or rulers, made up a vast realm in which once-hostile peoples lived together in peace and virtually all religions were tolerated. … The law code first promulgated by Chinggis Khan ordered human interaction. The result was an important new stage in international contact. From eastern Europe to southern China, merchants and travelers could move across the well-policed Mongol domains without fear for their lives or property. The great swath of Mongol territory that covered or connected most of Europe, Asia, and the Middle East served as a bridge between the civilizations of the Eastern Hemisphere. The caravans and embassies that crossed the Mongol lands transmitted new food, inventions, and ideas from one civilized pool to others and from civilized pools to the nomadic peoples who served as intermediaries. Secure trade routes made for prosperous merchants and wealthy, cosmopolitan cities. They also facilitated the spread of foods [and] inventions … a major force for economic and social development and the enhancement of civilized life. —Robert Guisepi, 1992"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Under Alexander the Great, Greek culture blended with the conquered people’s ideas, institutions, and traditions. Gandhi was a twentieth-century Indian nationalist who promoted Indian independence (A); and both Caesar Augustus (B), the first Roman emperor, and Chinggis Khan (D), the first Mongol emperor, retained local customs but did not adopt them personally.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "CDI",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-004",
+  "unit": 1,
+  "stimulus": "At the peak of their power, the domains of the Mongol khans, or rulers, made up a vast realm in which once-hostile peoples lived together in peace and virtually all religions were tolerated. … The law code first promulgated by Chinggis Khan ordered human interaction. The result was an important new stage in international contact. From eastern Europe to southern China, merchants and travelers could move across the well-policed Mongol domains without fear for their lives or property. The great swath of Mongol territory that covered or connected most of Europe, Asia, and the Middle East served as a bridge between the civilizations of the Eastern Hemisphere. The caravans and embassies that crossed the Mongol lands transmitted new food, inventions, and ideas from one civilized pool to others and from civilized pools to the nomadic peoples who served as intermediaries. Secure trade routes made for prosperous merchants and wealthy, cosmopolitan cities. They also facilitated the spread of foods [and] inventions … a major force for economic and social development and the enhancement of civilized life.\n\n—Robert Guisepi, 1992",
+  "stem": "The legacies or adaptations of legacies from the Mongol empire are varied. Most notably, they include which of the following selections?",
+  "options": [
+   "(A) Public libraries",
+   "(B) Universal health care",
+   "(C) The game of chess",
+   "(D) Religious tolerance"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Mongols did not require or force conversion, but encouraged tolerance of all religions. Public libraries (A), universal health care (B), and chess (C) were all characteristic of the golden age of Arab rule.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "CDI",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-005",
+  "unit": 1,
+  "stimulus": "At the peak of their power, the domains of the Mongol khans, or rulers, made up a vast realm in which once-hostile peoples lived together in peace and virtually all religions were tolerated. … The law code first promulgated by Chinggis Khan ordered human interaction. The result was an important new stage in international contact. From eastern Europe to southern China, merchants and travelers could move across the well-policed Mongol domains without fear for their lives or property. The great swath of Mongol territory that covered or connected most of Europe, Asia, and the Middle East served as a bridge between the civilizations of the Eastern Hemisphere. The caravans and embassies that crossed the Mongol lands transmitted new food, inventions, and ideas from one civilized pool to others and from civilized pools to the nomadic peoples who served as intermediaries. Secure trade routes made for prosperous merchants and wealthy, cosmopolitan cities. They also facilitated the spread of foods [and] inventions … a major force for economic and social development and the enhancement of civilized life.\n\n—Robert Guisepi, 1992",
+  "stem": "The Mongol empire used which of the following to integrate its vast, geographically diverse area?",
+  "options": [
+   "(A) Emphasis on trade networks",
+   "(B) Expansion of bureaucracy to reinforce dominance",
+   "(C) The use of state-sponsored religion to legitimize the government",
+   "(D) Expansion of an interregional canal system"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Mongols, particularly the Golden Horde in Central Asia, used tribute as a method of asserting dominance over the Russian princes (B). The Mongols developed extensive trade networks in Central Asia (A). They did not use religion to reinforce their power (C). The Mongols also did not engage in large-scale public works projects (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-006",
+  "unit": 1,
+  "stimulus": "At the peak of their power, the domains of the Mongol khans, or rulers, made up a vast realm in which once-hostile peoples lived together in peace and virtually all religions were tolerated. … The law code first promulgated by Chinggis Khan ordered human interaction. The result was an important new stage in international contact. From eastern Europe to southern China, merchants and travelers could move across the well-policed Mongol domains without fear for their lives or property. The great swath of Mongol territory that covered or connected most of Europe, Asia, and the Middle East served as a bridge between the civilizations of the Eastern Hemisphere. The caravans and embassies that crossed the Mongol lands transmitted new food, inventions, and ideas from one civilized pool to others and from civilized pools to the nomadic peoples who served as intermediaries. Secure trade routes made for prosperous merchants and wealthy, cosmopolitan cities. They also facilitated the spread of foods [and] inventions … a major force for economic and social development and the enhancement of civilized life.\n\n—Robert Guisepi, 1992",
+  "stem": "Which of the following was a long-term consequence of the Mongol conquest of Russia in the 1200s?",
+  "options": [
+   "(A) Russia was excluded from Western European developments (like the Renaissance).",
+   "(B) Russia benefited by becoming the administrative center of Mongol political activity.",
+   "(C) Islam became the dominant religion of Russia.",
+   "(D) Russia developed a centralized bureaucracy."
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] With Russia’s conquest by the Mongols, its focus shifted from Western Europe toward the East and Central Asia. Russia was primarily a tributary state (B); it kept its nomadic ways and did not develop trade. The predominant religion in Russia was Orthodox Christianity (C), spread by the Byzantines. When the Mongols converted to Islam, it helped motivate Russia to break free. Russia remained a series of small, disunited principalities (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "CDI",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u9-001",
+  "unit": 9,
+  "stimulus": "At the peak of their power, the domains of the Mongol khans, or rulers, made up a vast realm in which once-hostile peoples lived together in peace and virtually all religions were tolerated. … The law code first promulgated by Chinggis Khan ordered human interaction. The result was an important new stage in international contact. From eastern Europe to southern China, merchants and travelers could move across the well-policed Mongol domains without fear for their lives or property. The great swath of Mongol territory that covered or connected most of Europe, Asia, and the Middle East served as a bridge between the civilizations of the Eastern Hemisphere. The caravans and embassies that crossed the Mongol lands transmitted new food, inventions, and ideas from one civilized pool to others and from civilized pools to the nomadic peoples who served as intermediaries. Secure trade routes made for prosperous merchants and wealthy, cosmopolitan cities. They also facilitated the spread of foods [and] inventions … a major force for economic and social development and the enhancement of civilized life.\n\n—Robert Guisepi, 1992",
+  "stem": "Which statement most accurately compares the Mongol (post-classical) empire with the Persian (classical) empire?",
+  "options": [
+   "(A) Both the Mongols and the Persians allowed conquered peoples to maintain their local traditions and cultures.",
+   "(B) The Mongols invested in building large-scale monuments, whereas the Persians focused on public works.",
+   "(C) Both the Persians and the Mongols improved the social, economic, and legal status of women.",
+   "(D) The Mongols created a new syncretic belief system, but the Persians maintained a traditional monotheistic religion. Questions 8 to 11 refer to the following passage. The following is excerpted and adapted from an account by Hulderike Schnirdel, a native of Antwerp, who joined Spaniard Pedro de Mendoza’s expedition to South America in 1535. He was present at the founding of Asunción, Paraguay, in 1537, recounted here . The Citie [Lampere]… had Pits…in the middest whereof pikes were stuck…that we Christians pursuing them…might fall into them. When our Generall John Eyollas, gathering all his Souldiers together, who were not above three hundred, went against their Citie Lampere, they understanding before of our coming, making a stand…with their armie of foure thousand men, furnished with Bowe and Arrowes after their manner, commanded that we should be told, that they would provide us victual and other necessaries, that…we might peaceably return to our companions. But it was neither good for our Generall, nor our selves, that we should consent to their request: For this Nation and Countrie, by reason of the plenty of victual, was also most…commodious for us, especially when in foure whole yeares past, we had not seen a morsell of bread, lively onely with fish and flesh and oftentimes in also great penurie…..[We] commanded to signifie unto them that they should be quiet, and we would become their friends. But they would not….wee discharged our brasse Peeces against them. When they heard and saw so many men fell downe dead, and when neither bullets not Arrowes appeared, but holes onely were seen in their bodies, they…tooke their flight in troopes…to shelter themselves in their Towne….[M]ore that three hundred men, in that amassed feare, fell into the aforesaid pits, which themselves had digged. Afterward comming to their Citie, we assaulted it, they courageously defending themselves, till the third day."
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Both the Mongols and the Persians left cultural, political, and economic traditions in place, and even some conquered rulers as well. The Mongols typically moved into areas that were already occupied and used the resources that were already in place. Since they were nomadic, building large monuments to glorify themselves was not part of their culture (B). Neither culture is known for promoting equality for women. Both had traditions of harems (C). The Persians were not monotheistic (D); the religion that they were known for developing, Zoroastrianism, had two opposing godlike forces.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-001",
+  "unit": 4,
+  "stimulus": "The following is excerpted and adapted from an account by Hulderike Schnirdel, a native of Antwerp, who joined Spaniard Pedro de Mendoza’s expedition to South America in 1535. He was present at the founding of Asunción, Paraguay, in 1537, recounted here\n.\n\nThe Citie [Lampere]… had Pits…in the middest whereof pikes were stuck…that we Christians pursuing them…might fall into them. When our Generall John Eyollas, gathering all his Souldiers together, who were not above three hundred, went against their Citie Lampere, they understanding before of our coming, making a stand…with their armie of foure thousand men, furnished with Bowe and Arrowes after their manner, commanded that we should be told, that they would provide us victual and other necessaries, that…we might peaceably return to our companions. But it was neither good for our Generall, nor our selves, that we should consent to their request: For this Nation and Countrie, by reason of the plenty of victual, was also most…commodious for us, especially when in foure whole yeares past, we had not seen a morsell of bread, lively onely with fish and flesh and oftentimes in also great penurie…..[We] commanded to signifie unto them that they should be quiet, and we would become their friends. But they would not….wee discharged our brasse Peeces against them. When they heard and saw so many men fell downe dead, and when neither bullets not Arrowes appeared, but holes onely were seen in their bodies, they…tooke their flight in troopes…to shelter themselves in their Towne….[M]ore that three hundred men, in that amassed feare, fell into the aforesaid pits, which themselves had digged. Afterward comming to their Citie, we assaulted it, they courageously defending themselves, till the third day.",
+  "stem": "Based on the passage, what was the primary motivation for the Europeans to conquer the city of Lampere?",
+  "options": [
+   "(A) To spread Christianity among the indigenous peoples",
+   "(B) To increase the power of the Spanish crown",
+   "(C) To gain access to their food and other resources",
+   "(D) To gain local allies to assist in further conquests"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] While you might be familiar with the phrase “God, gold and glory” to describe motives for exploration, the question requires that you confine yourself to the passage. Although the passage mentions Christianity, it is in the context of the pits, not as a motive for conquest. Nor is there discussion of priests or conversions (A). Similarly, though power was a motive for rulers to sponsor exploration, there is nothing in the passage to indicate that these specific soldiers had such desires (B). And finally, though European explorers often exploited rivalries among different native tribes, it was not the main reason the Spanish pursued the city (D). Instead, the passage refers to the fact that the region had “plenty of victual” and that they hadn’t had a “morsell of bread” in a long time, indicating they desired its resources.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-001",
+  "unit": 7,
+  "stimulus": "The following is excerpted and adapted from an account by Hulderike Schnirdel, a native of Antwerp, who joined Spaniard Pedro de Mendoza’s expedition to South America in 1535. He was present at the founding of Asunción, Paraguay, in 1537, recounted here\n.\n\nThe Citie [Lampere]… had Pits…in the middest whereof pikes were stuck…that we Christians pursuing them…might fall into them. When our Generall John Eyollas, gathering all his Souldiers together, who were not above three hundred, went against their Citie Lampere, they understanding before of our coming, making a stand…with their armie of foure thousand men, furnished with Bowe and Arrowes after their manner, commanded that we should be told, that they would provide us victual and other necessaries, that…we might peaceably return to our companions. But it was neither good for our Generall, nor our selves, that we should consent to their request: For this Nation and Countrie, by reason of the plenty of victual, was also most…commodious for us, especially when in foure whole yeares past, we had not seen a morsell of bread, lively onely with fish and flesh and oftentimes in also great penurie…..[We] commanded to signifie unto them that they should be quiet, and we would become their friends. But they would not….wee discharged our brasse Peeces against them. When they heard and saw so many men fell downe dead, and when neither bullets not Arrowes appeared, but holes onely were seen in their bodies, they…tooke their flight in troopes…to shelter themselves in their Towne….[M]ore that three hundred men, in that amassed feare, fell into the aforesaid pits, which themselves had digged. Afterward comming to their Citie, we assaulted it, they courageously defending themselves, till the third day.",
+  "stem": "Which of the following statements is supported by the passage?",
+  "options": [
+   "(A) Native American vulnerability to disease was the key factor in Spanish conquests in the Americas.",
+   "(B) Native Americans lacked sufficient numbers to defeat the Spanish conquistadors.",
+   "(C) Native Americans were reluctant to hurt the invaders, as they believed the Spanish were gods.",
+   "(D) The key factor in Spanish conquests in the Americas was superior weaponry."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] It was the superior weapons, in terms of guns with brass shot, that terrified the Native Americans, who were armed with bows and arrows. Though indigenous Americans ultimately died from European diseases, this is not referenced in the passage (A). Similarly, though the Native Americans did show an initial reluctance to fight the Spanish, offering them assistance if they left, the story about conquistadors being gods \nis associated with the Spanish conquest of the Aztecs in Mexico (C). Finally, the passage makes clear that the Spanish only had 300 men, whereas the Native Americans had 4,000 (B).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-002",
+  "unit": 7,
+  "stimulus": "The following is excerpted and adapted from an account by Hulderike Schnirdel, a native of Antwerp, who joined Spaniard Pedro de Mendoza’s expedition to South America in 1535. He was present at the founding of Asunción, Paraguay, in 1537, recounted here\n.\n\nThe Citie [Lampere]… had Pits…in the middest whereof pikes were stuck…that we Christians pursuing them…might fall into them. When our Generall John Eyollas, gathering all his Souldiers together, who were not above three hundred, went against their Citie Lampere, they understanding before of our coming, making a stand…with their armie of foure thousand men, furnished with Bowe and Arrowes after their manner, commanded that we should be told, that they would provide us victual and other necessaries, that…we might peaceably return to our companions. But it was neither good for our Generall, nor our selves, that we should consent to their request: For this Nation and Countrie, by reason of the plenty of victual, was also most…commodious for us, especially when in foure whole yeares past, we had not seen a morsell of bread, lively onely with fish and flesh and oftentimes in also great penurie…..[We] commanded to signifie unto them that they should be quiet, and we would become their friends. But they would not….wee discharged our brasse Peeces against them. When they heard and saw so many men fell downe dead, and when neither bullets not Arrowes appeared, but holes onely were seen in their bodies, they…tooke their flight in troopes…to shelter themselves in their Towne….[M]ore that three hundred men, in that amassed feare, fell into the aforesaid pits, which themselves had digged. Afterward comming to their Citie, we assaulted it, they courageously defending themselves, till the third day.",
+  "stem": "Based on the passage, what can one infer regarding the Native Americans?",
+  "options": [
+   "(A) They were extremely aggressive and warlike.",
+   "(B) They had defensive military preparations.",
+   "(C) They were cowardly and weak.",
+   "(D) They were poor and malnourished."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The passage refers to defensive pits that had been dug by the people of Lampere, knowing that the Spanish were coming. Before any fighting occurred, the Native Americans offered to provide food in exchange for a peaceful retreat, which makes (A) incorrect. Although the Native Americans fled from the bullets, they fled to defend their city, which the author indicates they did “courageously,” making (C) incorrect. The passage also refers to the food (“victual”) in the land, which indicates that the people are probably not malnourished (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u7-003",
+  "unit": 7,
+  "stimulus": "The following is excerpted and adapted from an account by Hulderike Schnirdel, a native of Antwerp, who joined Spaniard Pedro de Mendoza’s expedition to South America in 1535. He was present at the founding of Asunción, Paraguay, in 1537, recounted here\n.\n\nThe Citie [Lampere]… had Pits…in the middest whereof pikes were stuck…that we Christians pursuing them…might fall into them. When our Generall John Eyollas, gathering all his Souldiers together, who were not above three hundred, went against their Citie Lampere, they understanding before of our coming, making a stand…with their armie of foure thousand men, furnished with Bowe and Arrowes after their manner, commanded that we should be told, that they would provide us victual and other necessaries, that…we might peaceably return to our companions. But it was neither good for our Generall, nor our selves, that we should consent to their request: For this Nation and Countrie, by reason of the plenty of victual, was also most…commodious for us, especially when in foure whole yeares past, we had not seen a morsell of bread, lively onely with fish and flesh and oftentimes in also great penurie…..[We] commanded to signifie unto them that they should be quiet, and we would become their friends. But they would not….wee discharged our brasse Peeces against them. When they heard and saw so many men fell downe dead, and when neither bullets not Arrowes appeared, but holes onely were seen in their bodies, they…tooke their flight in troopes…to shelter themselves in their Towne….[M]ore that three hundred men, in that amassed feare, fell into the aforesaid pits, which themselves had digged. Afterward comming to their Citie, we assaulted it, they courageously defending themselves, till the third day.",
+  "stem": "Based on your knowledge of history, to which social class would a child of Generall Eyolas and one of the Native American women likely belong?",
+  "options": [
+   "(A) Mestizos",
+   "(B) Peninsulares",
+   "(C) Mulattoes",
+   "(D) Creoles (Criollos) Questions 12 to 14 refer to the following graph."
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] This question requires you to use your knowledge of history and the social classes that developed within the Spanish colonies in the Americas. The mestizo class included those born of European (like Generall Eyollas) and Native American heritage. Peninsulares included only Europeans born in Europe (B). Mulattoes included those of combined African and European heritage (C). Creoles, also called Criollos in some textbooks, included those of exclusively European heritage but born in the Americas.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-002",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which best accounts for the change in the Native American population shown in the graph?",
+  "options": [
+   "(A) Widespread warfare among the Aztecs and neighboring tribes",
+   "(B) Famine due to poor agricultural practices such as slash-and-burn agriculture",
+   "(C) Importation of new diseases from contact with Europeans",
+   "(D) The introduction of slavery into Mexico"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] With the arrival of the Europeans came diseases (including smallpox) to which the native peoples had no historical immunity. The Aztecs would have engaged in some warfare, but not enough to lead to such a steep decline (A). Though there was some slash-and-burn agriculture, they primarily used chinampas and terraces (B). Slavery had traditionally been part of Mexican culture, as seen in the Aztec Empire (D). The Europeans used native Mexicans as forced labor, but not until later.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-003",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "In the sixteenth century, Europeans were able to conquer and control large numbers of natives in Mexico using which of the following methods?",
+  "options": [
+   "(A) Enslaving them",
+   "(B) Placing them on reservations",
+   "(C) Legalizing intermarriage",
+   "(D) Using superior technologies"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Europeans had guns and steel, against which the Mexicans had no effective defense. Catholicism prohibited the enslavement of Native Americans (A). Reservations were not used in Mexico (B). Intermarriage (C), although legal, could benefit native Mexicans, but would limit Spanish opportunities.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-004",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Both the encomienda system in colonial Mexico and the manorial system in medieval Europe depended on which of the following ingredients?",
+  "options": [
+   "(A) Support from the Catholic Church",
+   "(B) Coercive labor",
+   "(C) An educated merchant class",
+   "(D) A decentralized government Questions 15 to 17 refer to the following passage. “Purusa-Sukta” Purusa is the lord of the immortals, who grow by means of [ritual] food. When the gods performed a sacrifice with the offering Purusa, spring was its clarified butter, summer the kindling, autumn the oblation. It was Purusa, born in the beginning, which they sprinkled on the sacred grass as a sacrifice. It made the beasts of the air, the forest and the village. From that sacrifice completely offered, the mantras [ Rig-Veda ] and the songs [ Samaveda ] were born. The sacrificial formulae [Yajurveda] were born from it. From it the horses were born and all that have cutting teeth in both jaws. The cows were born from it, also. From it were born goats and sheep. When they divided Purusa, how many ways did they apportion him? What was his mouth? What were his arms? What were his thighs, his feet declared to be? His mouth was the Brahman, his arms were the Rajanaya [Ksatriya], his thighs the Vaisya; from his feet the Sudra was born. Thus, they fashioned the worlds. The gods sacrificed with the sacrifice to the sacrifice. These were the first rites. —Hymns excerpted and adapted from the Rig-Veda , oldest surviving literary work, India, 1500–1000 BCE"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The encomienda system entitled Spanish conquerors to control Indian labor, and in return, the Spaniards “civilized and Christianized” natives. Medieval manorialism allowed landholders to give access to, though not ownership of, land to the peasants who worked it. While the Catholic Church approved of and supported both the encomienda and manorial systems, it did not directly involve itself in either (A). The merchant class was separate from the landholding class (C). Although the Spanish central (royal) government supported the encomienda system, there was no effective central government to support manorialism (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-007",
+  "unit": 1,
+  "stimulus": "“Purusa-Sukta”\n\nPurusa is the lord of the immortals, who grow by means of [ritual] food. When the gods performed a sacrifice with the offering Purusa, spring was its clarified butter, summer the kindling, autumn the oblation.\n\nIt was Purusa, born in the beginning, which they sprinkled on the sacred grass as a sacrifice. It made the beasts of the air, the forest and the village. From that sacrifice completely offered, the mantras [\nRig-Veda\n] and the songs [\nSamaveda\n] were born. The sacrificial formulae [Yajurveda] were born from it. From it the horses were born and all that have cutting teeth in both jaws. The cows were born from it, also. From it were born goats and sheep.\n\nWhen they divided Purusa, how many ways did they apportion him? What was his mouth? What were his arms? What were his thighs, his feet declared to be? His mouth was the Brahman, his arms were the Rajanaya [Ksatriya], his thighs the Vaisya; from his feet the Sudra was born. Thus, they fashioned the worlds. The gods sacrificed with the sacrifice to the sacrifice. These were the first rites.\n\n—Hymns excerpted and adapted from the \nRig-Veda\n, oldest surviving literary work, India, 1500–1000 BCE",
+  "stem": "Which element of the Hindu religion can this passage be used to explain?",
+  "options": [
+   "(A) The only requirement for salvation being faith",
+   "(B) The importance of environmental stewardship",
+   "(C) The importance of sacrifice to the gods",
+   "(D) The emphasis on karma, or right actions, to achieve enlightenment"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Sacrifice, the source of creation, is mentioned throughout the passage. Salvation through faith (A) is a key element of Protestantism. Though the passage has references to the elements of nature (B), there is no emphasis on stewardship. Karma (D) is not explicitly discussed in the passage.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-008",
+  "unit": 1,
+  "stimulus": "“Purusa-Sukta”\n\nPurusa is the lord of the immortals, who grow by means of [ritual] food. When the gods performed a sacrifice with the offering Purusa, spring was its clarified butter, summer the kindling, autumn the oblation.\n\nIt was Purusa, born in the beginning, which they sprinkled on the sacred grass as a sacrifice. It made the beasts of the air, the forest and the village. From that sacrifice completely offered, the mantras [\nRig-Veda\n] and the songs [\nSamaveda\n] were born. The sacrificial formulae [Yajurveda] were born from it. From it the horses were born and all that have cutting teeth in both jaws. The cows were born from it, also. From it were born goats and sheep.\n\nWhen they divided Purusa, how many ways did they apportion him? What was his mouth? What were his arms? What were his thighs, his feet declared to be? His mouth was the Brahman, his arms were the Rajanaya [Ksatriya], his thighs the Vaisya; from his feet the Sudra was born. Thus, they fashioned the worlds. The gods sacrificed with the sacrifice to the sacrifice. These were the first rites.\n\n—Hymns excerpted and adapted from the \nRig-Veda\n, oldest surviving literary work, India, 1500–1000 BCE",
+  "stem": "Which of the following statements is supported by the information in the passage?",
+  "options": [
+   "(A) The caste system was a purely social construct that reflected its time period.",
+   "(B) The caste system was encouraged by regional princes to reinforce social stability.",
+   "(C) The caste system reinforced Indian identity in the face of Muslim invaders.",
+   "(D) The caste system was integral to the Hindu religion, transcending historical eras."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The \nRig-Veda\n is a Hindu religious text, and its inclusion of the origins of the caste system make this a feature of their religion. A religious construct is not a social construct (A). This passage does not address social stability (B) or the reaction of Indians to the Muslim presence (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-009",
+  "unit": 1,
+  "stimulus": "“Purusa-Sukta”\n\nPurusa is the lord of the immortals, who grow by means of [ritual] food. When the gods performed a sacrifice with the offering Purusa, spring was its clarified butter, summer the kindling, autumn the oblation.\n\nIt was Purusa, born in the beginning, which they sprinkled on the sacred grass as a sacrifice. It made the beasts of the air, the forest and the village. From that sacrifice completely offered, the mantras [\nRig-Veda\n] and the songs [\nSamaveda\n] were born. The sacrificial formulae [Yajurveda] were born from it. From it the horses were born and all that have cutting teeth in both jaws. The cows were born from it, also. From it were born goats and sheep.\n\nWhen they divided Purusa, how many ways did they apportion him? What was his mouth? What were his arms? What were his thighs, his feet declared to be? His mouth was the Brahman, his arms were the Rajanaya [Ksatriya], his thighs the Vaisya; from his feet the Sudra was born. Thus, they fashioned the worlds. The gods sacrificed with the sacrifice to the sacrifice. These were the first rites.\n\n—Hymns excerpted and adapted from the \nRig-Veda\n, oldest surviving literary work, India, 1500–1000 BCE",
+  "stem": "Which of the following would best contradict the argument that the caste system imposed rigid economic and social roles on Indian society in the period 600 BCE to 600 CE?",
+  "options": [
+   "(A) “For there is nothing better for a Kshatriya than a righteous battle.”",
+   "(B) “The four divisions of human society are created by me [Krishna].”",
+   "(C) The person traditionally credited with composing the Mahabarata was born to a fisherwoman.",
+   "(D) The Hindu god Shiva is considered to be simultaneously the creator, the preserver, and the destroyer. Questions 18 to 20 refer to the following passage. I have, in conformity without resolve, put together some few points concerning the reformation of the Christian estate, with the intent of placing the same before the Christian nobility of the German nation…. It is not out of mere arrogance and perversity that I, an individual poor man, have taken upon me to address your lordships. The distress and misery that oppress all the Christian estates, more especially in Germany, have led not only myself, but every one else, to cry aloud and to ask for help…. These Romanists have, with great adroitness, drawn three walls around themselves, with which they have hitherto protected themselves, so that no one could reform them, whereby all Christendom has fallen terribly…. That the Temporal Power Has no Jurisdiction over the Spirituality … That No One May Interpret the Scriptures but the Pope … That No One May Call a Council but the Pope…. Let us now consider the matters which should be treated in the councils, and with which popes, cardinals, bishops, and all learned men should occupy themselves day and night…. It is a distressing and terrible thing to see that the head of Christendom, who boasts of being the vicar of Christ and the successor of St. Peter, lives in a worldly pomp that no king or emperor can equal. What is the use in Christendom of the people called “cardinals”? I will tell you. In Italy and Germany there are many rich convents, endowments, fiefs, and benefices, and as the best way of getting these into the hands of Rome, they created cardinals, and gave them the sees, convents, and prelacies, and thus destroyed the service of God. —Martin Luther, Address to the Christian Nobility of the German Nation"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] That a lowborn person could compose a sacred text implies social mobility. Choice (A) supports the argument, since it encourages Kshatriyas to follow their rightful role. Choices (B) and (D) do not address the argument.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "SIO",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-005",
+  "unit": 4,
+  "stimulus": "I have, in conformity without resolve, put together some few points concerning the reformation of the Christian estate, with the intent of placing the same before the Christian nobility of the German nation…. It is not out of mere arrogance and perversity that I, an individual poor man, have taken upon me to address your lordships. The distress and misery that oppress all the Christian estates, more especially in Germany, have led not only myself, but every one else, to cry aloud and to ask for help…. These Romanists have, with great adroitness, drawn three walls around themselves, with which they have hitherto protected themselves, so that no one could reform them, whereby all Christendom has fallen terribly…. That the Temporal Power Has no Jurisdiction over the Spirituality … That No One May Interpret the Scriptures but the Pope … That No One May Call a Council but the Pope…. Let us now consider the matters which should be treated in the councils, and with which popes, cardinals, bishops, and all learned men should occupy themselves day and night…. It is a distressing and terrible thing to see that the head of Christendom, who boasts of being the vicar of Christ and the successor of St. Peter, lives in a worldly pomp that no king or emperor can equal. What is the use in Christendom of the people called “cardinals”? I will tell you. In Italy and Germany there are many rich convents, endowments, fiefs, and benefices, and as the best way of getting these into the hands of Rome, they created cardinals, and gave them the sees, convents, and prelacies, and thus destroyed the service of God.\n\n—Martin Luther, \nAddress to the Christian Nobility of the German Nation",
+  "stem": "In his letter, Martin Luther avoided speaking about which of the following topics?",
+  "options": [
+   "(A) The wealth of the Church",
+   "(B) The power of the clergy",
+   "(C) The sale of indulgences",
+   "(D) The political nature of the Church"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The sale of indulgences is nowhere mentioned in the excerpt. The wealth of the Church (A) is referred to with the phrase “worldly pomp”; the power of the clergy (B) and the political nature of the Church (D) are both addressed in the discussion of temporal versus spiritual power.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-006",
+  "unit": 4,
+  "stimulus": "I have, in conformity without resolve, put together some few points concerning the reformation of the Christian estate, with the intent of placing the same before the Christian nobility of the German nation…. It is not out of mere arrogance and perversity that I, an individual poor man, have taken upon me to address your lordships. The distress and misery that oppress all the Christian estates, more especially in Germany, have led not only myself, but every one else, to cry aloud and to ask for help…. These Romanists have, with great adroitness, drawn three walls around themselves, with which they have hitherto protected themselves, so that no one could reform them, whereby all Christendom has fallen terribly…. That the Temporal Power Has no Jurisdiction over the Spirituality … That No One May Interpret the Scriptures but the Pope … That No One May Call a Council but the Pope…. Let us now consider the matters which should be treated in the councils, and with which popes, cardinals, bishops, and all learned men should occupy themselves day and night…. It is a distressing and terrible thing to see that the head of Christendom, who boasts of being the vicar of Christ and the successor of St. Peter, lives in a worldly pomp that no king or emperor can equal. What is the use in Christendom of the people called “cardinals”? I will tell you. In Italy and Germany there are many rich convents, endowments, fiefs, and benefices, and as the best way of getting these into the hands of Rome, they created cardinals, and gave them the sees, convents, and prelacies, and thus destroyed the service of God.\n\n—Martin Luther, \nAddress to the Christian Nobility of the German Nation",
+  "stem": "Which of the following reformers expressed views similar to those expressed by Martin Luther in his letter?",
+  "options": [
+   "(A) Ulrich Zwingli",
+   "(B) Sir Thomas More",
+   "(C) Erasmus",
+   "(D) John Wycliffe"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Sir Thomas More was executed for refusing to support Protestantism in England. Zwingli (A), Erasmus (C), and Wycliffe (D) were all either precursors or advocates of Protestant reform.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-001",
+  "unit": 6,
+  "stimulus": "I have, in conformity without resolve, put together some few points concerning the reformation of the Christian estate, with the intent of placing the same before the Christian nobility of the German nation…. It is not out of mere arrogance and perversity that I, an individual poor man, have taken upon me to address your lordships. The distress and misery that oppress all the Christian estates, more especially in Germany, have led not only myself, but every one else, to cry aloud and to ask for help…. These Romanists have, with great adroitness, drawn three walls around themselves, with which they have hitherto protected themselves, so that no one could reform them, whereby all Christendom has fallen terribly…. That the Temporal Power Has no Jurisdiction over the Spirituality … That No One May Interpret the Scriptures but the Pope … That No One May Call a Council but the Pope…. Let us now consider the matters which should be treated in the councils, and with which popes, cardinals, bishops, and all learned men should occupy themselves day and night…. It is a distressing and terrible thing to see that the head of Christendom, who boasts of being the vicar of Christ and the successor of St. Peter, lives in a worldly pomp that no king or emperor can equal. What is the use in Christendom of the people called “cardinals”? I will tell you. In Italy and Germany there are many rich convents, endowments, fiefs, and benefices, and as the best way of getting these into the hands of Rome, they created cardinals, and gave them the sees, convents, and prelacies, and thus destroyed the service of God.\n\n—Martin Luther, \nAddress to the Christian Nobility of the German Nation",
+  "stem": "In response to the criticisms raised by Martin Luther and other Protestant reformers, the Roman Catholic Church made which of the following moves at the Council of Trent?",
+  "options": [
+   "(A) It accepted the doctrine of predestination.",
+   "(B) It rejected saints as intermediaries.",
+   "(C) It accepted scriptures in the vernacular.",
+   "(D) It rejected salvation based on faith alone. Questions 21 to 23 refer to the following map, depicting the “Scramble for Africa” that was codified at the Berlin Conference of 1884–1885."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Church reiterated the need for clerical interpretation of scripture and the necessity of good works in order to achieve salvation. Predestination and use of the vernacular (A, C) were both Protestant ideas and thus were \nrejected. The Council of Trent continued most Catholic practices, including the use of saints as intermediaries (B).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-002",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "The political boundaries shown on the map of Africa reflect which of the following white European beliefs?",
+  "options": [
+   "(A) Self-determination",
+   "(B) Manifest Destiny",
+   "(C) Spheres of influence",
+   "(D) Racial hierarchies"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Europeans clearly ignored or discounted linguistic and ethnic divisions, as well as the wishes and traditions of indigenous cultures, because they considered them unimportant in the “white” scheme of things. Self-determination (A) refers to the idea that indigenous peoples should rule themselves, which was clearly not the case here. Manifest Destiny (B) is a term associated with U.S. westward expansionism. Spheres of influence (C) refers to European economic imperialism in dealings with China.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-003",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "What has changed since this map was drawn?",
+  "options": [
+   "(A) Political borders have reverted to their traditional ethnic boundaries.",
+   "(B) Western economic interests have withdrawn from African affairs.",
+   "(C) African nations have successfully adopted stable democratic governments.",
+   "(D) African states have gained independence, but arbitrary colonial borders have persisted, resulting in ethnic violence."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] In the post-colonial period, Africa has struggled with ethnic violence among rival groups who were artificially bound together within colonial borders. Most African nations retained their colonial borders (A). Western economic interests (B) have persisted to the present, particularly in the oil and diamond industries. African nations have struggled with political corruption and instability (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-004",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "Which of the following is a direct legacy of the African colonial experience?",
+  "options": [
+   "(A) A lack of economic infrastructures",
+   "(B) A pan-African movement",
+   "(C) A resurgence of mercantilism",
+   "(D) Incorporation into world market systems Questions 24 to 27 refer to the following passage. There is a most stately mosque to be seen, whose walls are made of stone and lime, and a princely palace also constructed by the highly skilled craftsmen of Granada. The inhabitants, and especially resident aliens, are exceedingly rich, since the present king married both of his daughters to rich merchants…. This region yields great quantities of grain, cattle, milk, and butter, but salt is very scarce here, for it is brought here by land from Tegaza, which is five hundred miles away. When I was there, I saw one camel-load of salt sold for eighty ducats. When he [the king] travels anywhere, he rides upon a camel, which is led by some of his noblemen…. and all his soldiers ride upon horses. They often skirmish with those who refuse to pay tribute and whomever they capture they sell to the merchants of Timbuktu. Here very few horses are bred…. Their best horses are brought out of North Africa. As soon as the king learns that any merchants have come to the town with horses, he commands that a certain number be brought before him. Choosing the best horse for himself, he pays a most liberal price for it…. Here are great numbers of religious teachers, judges, scholars and other learned persons, who are maintained at the king’s expense. Here too are brought various manuscripts or written books from Barbary, which are sold for more money than any other merchandise. —description of Timbuktu, excerpted from History and Description of Africa , by Leo Africanus c.1500"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Colonial dominance depended on cash crops and raw materials and did not encourage any development of an artisanal or manufacturing sector. The pan-African movement (B) was limited in duration, scope, and effectiveness. Mercantilism (C) was a historical economic system and isn’t really seen today. African nations are not evenly incorporated into world market systems (D). They remain peripheral.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-010",
+  "unit": 1,
+  "stimulus": "There is a most stately mosque to be seen, whose walls are made of stone and lime, and a princely palace also constructed by the highly skilled craftsmen of Granada. The inhabitants, and especially resident aliens, are exceedingly rich, since the present king married both of his daughters to rich merchants…. This region yields great quantities of grain, cattle, milk, and butter, but salt is very scarce here, for it is brought here by land from Tegaza, which is five hundred miles away. When I was there, I saw one camel-load of salt sold for eighty ducats.\n\nWhen he [the king] travels anywhere, he rides upon a camel, which is led by some of his noblemen…. and all his soldiers ride upon horses. They often skirmish with those who refuse to pay tribute and whomever they capture they sell to the merchants of Timbuktu. Here very few horses are bred…. Their best horses are brought out of North Africa. As soon as the king learns that any merchants have come to the town with horses, he commands that a certain number be brought before him. Choosing the best horse for himself, he pays a most liberal price for it….\n\nHere are great numbers of religious teachers, judges, scholars and other learned persons, who are maintained at the king’s expense. Here too are brought various manuscripts or written books from Barbary, which are sold for more money than any other merchandise.\n\n—description of Timbuktu, excerpted from \nHistory and Description of Africa\n, by Leo Africanus c.1500",
+  "stem": "What is the most likely reason the king maintains scholars, teachers, and judges in his city?",
+  "options": [
+   "(A) To encourage young people to work as government bureaucrats",
+   "(B) As personal tutors to the king to increase his own learning",
+   "(C) To promote his city as an intellectual center, attracting more people",
+   "(D) To locate and punish religious heretics"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] A common way for kings to legitimize and consolidate power was to use religion and scholarship to attract travelers to the city. Merchants prefer to trade in population centers and the king’s power would increase with the wealth and prestige of the city. Although bureaucrats were also associated with consolidation of government power, they were more likely to be tax collectors than scholars and teachers (A). While the king might have studied on his own, he would not have needed large numbers of teachers for that, nor would he have required judges (B). Although the king and the elites were Muslim, lower classes in African empires often retained traditional forms of worship. The rulers espoused religious tolerance (D).",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV",
+   "CDI",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u2-001",
+  "unit": 2,
+  "stimulus": "There is a most stately mosque to be seen, whose walls are made of stone and lime, and a princely palace also constructed by the highly skilled craftsmen of Granada. The inhabitants, and especially resident aliens, are exceedingly rich, since the present king married both of his daughters to rich merchants…. This region yields great quantities of grain, cattle, milk, and butter, but salt is very scarce here, for it is brought here by land from Tegaza, which is five hundred miles away. When I was there, I saw one camel-load of salt sold for eighty ducats.\n\nWhen he [the king] travels anywhere, he rides upon a camel, which is led by some of his noblemen…. and all his soldiers ride upon horses. They often skirmish with those who refuse to pay tribute and whomever they capture they sell to the merchants of Timbuktu. Here very few horses are bred…. Their best horses are brought out of North Africa. As soon as the king learns that any merchants have come to the town with horses, he commands that a certain number be brought before him. Choosing the best horse for himself, he pays a most liberal price for it….\n\nHere are great numbers of religious teachers, judges, scholars and other learned persons, who are maintained at the king’s expense. Here too are brought various manuscripts or written books from Barbary, which are sold for more money than any other merchandise.\n\n—description of Timbuktu, excerpted from \nHistory and Description of Africa\n, by Leo Africanus c.1500",
+  "stem": "Based on the passage, what is one way the king may have financed the consolidation of his power and his territorial expansion?",
+  "options": [
+   "(A) By mining and selling salt to European merchants",
+   "(B) By demanding tribute from nearby vassal states",
+   "(C) By selling his daughters to rich merchants",
+   "(D) By securing the best horses and reselling them"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The passage refers to skirmishes (small battles) with states who haven’t paid their tribute to the king, implying that Songhai maintained its control over a nearby territory through a tribute system. Both (A) and (D) are incorrect as they were scarce resources in the region; therefore, they wouldn’t be lucrative for trade. The king bought the horses from North African merchants. There is no indication he would resell them (and every indication that his soldiers might use them). Although the rulers in Songhai did use marriage to make profitable alliances, the term “selling” is inaccurate (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u2-002",
+  "unit": 2,
+  "stimulus": "There is a most stately mosque to be seen, whose walls are made of stone and lime, and a princely palace also constructed by the highly skilled craftsmen of Granada. The inhabitants, and especially resident aliens, are exceedingly rich, since the present king married both of his daughters to rich merchants…. This region yields great quantities of grain, cattle, milk, and butter, but salt is very scarce here, for it is brought here by land from Tegaza, which is five hundred miles away. When I was there, I saw one camel-load of salt sold for eighty ducats.\n\nWhen he [the king] travels anywhere, he rides upon a camel, which is led by some of his noblemen…. and all his soldiers ride upon horses. They often skirmish with those who refuse to pay tribute and whomever they capture they sell to the merchants of Timbuktu. Here very few horses are bred…. Their best horses are brought out of North Africa. As soon as the king learns that any merchants have come to the town with horses, he commands that a certain number be brought before him. Choosing the best horse for himself, he pays a most liberal price for it….\n\nHere are great numbers of religious teachers, judges, scholars and other learned persons, who are maintained at the king’s expense. Here too are brought various manuscripts or written books from Barbary, which are sold for more money than any other merchandise.\n\n—description of Timbuktu, excerpted from \nHistory and Description of Africa\n, by Leo Africanus c.1500",
+  "stem": "Which of the following transportation innovations was most responsible for the increase in trade between Timbuktu and the Barbary region (North Africa)?",
+  "options": [
+   "(A) Camel saddle",
+   "(B) Caravel",
+   "(C) Astrolabe",
+   "(D) Fluyt"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The passage refers to a camel-load of salt. The camel saddle made it easier to ride and control camels, which were the animals best suited to make the trek across the Sahara. It also allowed for the camels to carry more and heavier loads, making Trans-Saharan trade profitable. It also encouraged the development of caravans to protect against raiders; however, the caravel listed in choice B was a light sailing ship used by the Spanish and Portuguese (B). The fluyt was also a type of ship, though Dutch in origin (D). The astrolabe allows sailors to use the stars to calculate latitude (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u2-003",
+  "unit": 2,
+  "stimulus": "There is a most stately mosque to be seen, whose walls are made of stone and lime, and a princely palace also constructed by the highly skilled craftsmen of Granada. The inhabitants, and especially resident aliens, are exceedingly rich, since the present king married both of his daughters to rich merchants…. This region yields great quantities of grain, cattle, milk, and butter, but salt is very scarce here, for it is brought here by land from Tegaza, which is five hundred miles away. When I was there, I saw one camel-load of salt sold for eighty ducats.\n\nWhen he [the king] travels anywhere, he rides upon a camel, which is led by some of his noblemen…. and all his soldiers ride upon horses. They often skirmish with those who refuse to pay tribute and whomever they capture they sell to the merchants of Timbuktu. Here very few horses are bred…. Their best horses are brought out of North Africa. As soon as the king learns that any merchants have come to the town with horses, he commands that a certain number be brought before him. Choosing the best horse for himself, he pays a most liberal price for it….\n\nHere are great numbers of religious teachers, judges, scholars and other learned persons, who are maintained at the king’s expense. Here too are brought various manuscripts or written books from Barbary, which are sold for more money than any other merchandise.\n\n—description of Timbuktu, excerpted from \nHistory and Description of Africa\n, by Leo Africanus c.1500",
+  "stem": "What is the mostly likely religion of the king and elites in Timbuktu?",
+  "options": [
+   "(A) Christianity",
+   "(B) Animism",
+   "(C) Islam",
+   "(D) Judaism Questions 28 to 32 refer to the following map."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The religion of the ruling classes in Songhay was Islam. One can infer this from the passage when it describes the great mosque of Timbuktu. Many lower classes continued traditional African religious practices including animism, but this is not referenced in the passage (B). There were few Christian rulers in Africa during this era, although Ethiopia and Kongo would be exceptions (A). Similarly, there were no Jewish states in Africa (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-007",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "According to the map, the earliest Atlantic exploration voyages originated in",
+  "options": [
+   "(A) Spain.",
+   "(B) Portugal.",
+   "(C) Greenland.",
+   "(D) Scandinavia."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The earliest voyages recorded on the map were made by Vikings before 1000 CE. Both Spain and Portugal (A, B) did not explore until the 1400s. Greenland (D) was a Viking destination and not a point of origin.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.03 Take a Diagnostic Exam",
+  "format": "old",
+  "source_type": "book"
+ }
+]

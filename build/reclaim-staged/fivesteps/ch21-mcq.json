@@ -1,0 +1,100 @@
+[
+ {
+  "id": "fivesteps-u8-004",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "Based on the information and your knowledge of world history, what was a likely contributing factor to the fall of the Soviet Union?",
+  "options": [
+   "(A) The large number of subordinate regions declaring independence",
+   "(B) Military pressure by Western Europe and the United States",
+   "(C) Growing religious fundamentalism and traditionalism",
+   "(D) An increase in official GDP measured in constant prices"
+  ],
+  "key": "A",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The timeline illustrates the number of smaller subordinate units within the USSR and the communist bloc seeking sovereignty and becoming independent. Some of these included nationalist movements that may have had religious or traditional elements, but these are not reflected in the timeline or the graph (C). Nothing on the timeline refers to actions taken by the United States or Western Europe (B). Although the graph does illustrate an increase in GDP, this does not happen until later in the 1990s, after the Soviet Union collapsed, and thus cannot be the reason for its failure (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.21 End of the Cold War and Nationalist Movements",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u8-005",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "Based on the information and your knowledge of world history, which of the following could one infer was an immediate consequence of the fall of the Soviet Union?",
+  "options": [
+   "(A) Widespread homelessness",
+   "(B) Decline in trade with the West",
+   "(C) Declining household income",
+   "(D) Growing importance of the energy sector"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] To answer this, one must use the graph as it reflects the time period after the fall of the Soviet Union. The decline of GDP in the years right after the fall of the Soviet Union, together with declining consumption of households in the same period, supports the conclusion that household income declined (although these measures are not exactly the same). To say that this resulted in widespread homelessness, though, would be too strong a statement and not supported by the evidence given (A). The early 1990s show a decline in electricity consumption, which could indicate a lessening of its importance. It also would not represent the entire energy sector (D). There are no trade data in the graph (B).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.21 End of the Cold War and Nationalist Movements",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u8-006",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "If a historian believed the Soviet Union primarily fell as a result of domestic factors, which information would he or she be most likely to add to the timeline?",
+  "options": [
+   "(A) Soviet troop withdrawal from Afghanistan",
+   "(B) The nuclear disaster at Chernobyl",
+   "(C) The declaration of sovereignty by Slovenia",
+   "(D) Development of the U.S. Strategic Defense Initiative (Star Wars) program"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] “Domestic,” used in the context of history, means “at home” or “within one’s own borders.” The nuclear disaster at Chernobyl was the only event that took place within the Soviet Union. Although the USSR participated in the Afghanistan war, the fighting took place in \nAfghanistan, and so was not a domestic concern. Also, military engagements are typically considered to be foreign policy, rather than domestic, making (A) a weaker response than (B). Slovenia was part of Yugoslavia, which, though communist, was not part of the Soviet bloc of nations (C). The Strategic Defense Initiative was a defense system proposed by the United States and therefore does not fit the definition of “domestic” (D).\n\n4\nA.\n In South Asia, new conflicts arose over oil supplies. Iraq under Saddam Hussein invaded and annexed oil-rich Kuwait, located on its southeastern border. In response, a U.S.-led, UN coalition of military forces drove them from Kuwait but stopped short of invading Iraq in the first Persian Gulf War. After the terrorist attack on New York City on September 11, 2001, by members of a radical Islamic group called al-Qaeda, a U.S.-led (but not UN-sanctioned) military coalition drove Saddam Hussein from power. The primary justification was that Iraq was hiding weapons of mass destruction. Fighting continued, as Iraqi insurgent groups used guerilla warfare tactics to oppose the occupying forces.\n\n4\nB.\n In Colombia, internal conflicts arose among left-leaning or communistic groups like FARC, right-wing paramilitary groups, criminal organizations, and the government. All of these groups are vying for increased control and power in Colombia. Many of the groups have been accused of drug trafficking as a means of financing their activities. Nearly all of them have been accused of human rights abuses in pursuit of their goals. The Colombian government and FARC have negotiated a treaty, but other groups continue to battle for control of the drug trade.\n\n4\nC.\n South Africa, with its history of institutionalized racism known as apartheid, had known periodic internal conflict and violence between the minority white population and the majority black citizens throughout the second half of the twentieth century. Although the white government gave black South Africans some concessions in the 1970s, including legalization of black labor unions and limited property rights, the African National Congress and its supporters were not placated. In the 1980s, violence escalated with strikes, boycotts, and riots. Black policemen and officials, perceived as tools of the government, were also attacked by black South Africans. The government responded with torture and violence. International condemnation grew, and foreign investment declined. Eventually, in the early 1990s, the government held a whites-only referendum on the repeal of apartheid laws. It passed overwhelmingly, and open elections were held shortly afterward. Though South Africa struggles with inequality and poverty, legacies of apartheid, it has remained peaceful.",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.21 End of the Cold War and Nationalist Movements",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u8-007",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "Which of the following has been a common problem of both Japan and Russia in the later years of the twentieth century to the present?",
+  "options": [
+   "(A) Ethnic conflicts",
+   "(B) Political instability",
+   "(C) Economic downturns",
+   "(D) Huge foreign debt"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Japan’s economy weakened sharply in the early 1990s, while Russia continued to struggle with the establishment of a market economy. Only Russia experienced ethnic conflicts (A). Neither has seen political instability nor huge foreign debt (B, D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.21 End of the Cold War and Nationalist Movements",
+  "format": "old",
+  "source_type": "book"
+ }
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "id": "fivesteps-u1-012",
+  "unit": 1,
+  "stimulus": "During the fourteenth and fifteenth centuries, Europe pulled itself together. Nature helped as plagues pruned man’s excessive numbers. Man helped, too, and his inventions show where he was going. Four wheeled wagons and square-rigged ships both moved and supplied ever larger concentrations of mankind. The cost of cannon and of the fortifications to withstand them outran the finances and defenses of the independent town and seigniory. Printing gave teaching … a uniformity essential for summoning unheard-of numbers for peace or war … As the luster of the medieval church dimmed, Europe’s secular institutions began to shine ever more brightly … It is perhaps the unification of the practical and spiritual in the soul of each man, itself the very essence of later secularism, that is the greatest legacy of the later Middle Ages.\n\n—John A. Garraty and Peter Gay, eds. \nThe Columbia History of the World\n, 1972",
+  "stem": "The phrase “ever larger concentrations of mankind” refers to which of the following processes?",
+  "options": [
+   "(A) Globalization",
+   "(B) Specialization",
+   "(C) Urbanization",
+   "(D) Industrialization"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Urbanization was the result of concentrating people in one place. The key word in the question is “concentrations.” Globalization (A), specialization (B), and nascent industrialization (D), while all ongoing or beginning during this era, did not involve the same kind of concentration.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC",
+   "ENV",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.07 Changes in European Institutions",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-013",
+  "unit": 1,
+  "stimulus": "During the fourteenth and fifteenth centuries, Europe pulled itself together. Nature helped as plagues pruned man’s excessive numbers. Man helped, too, and his inventions show where he was going. Four wheeled wagons and square-rigged ships both moved and supplied ever larger concentrations of mankind. The cost of cannon and of the fortifications to withstand them outran the finances and defenses of the independent town and seigniory. Printing gave teaching … a uniformity essential for summoning unheard-of numbers for peace or war … As the luster of the medieval church dimmed, Europe’s secular institutions began to shine ever more brightly … It is perhaps the unification of the practical and spiritual in the soul of each man, itself the very essence of later secularism, that is the greatest legacy of the later Middle Ages.\n\n—John A. Garraty and Peter Gay, eds. \nThe Columbia History of the World\n, 1972",
+  "stem": "Which of the following best follows medieval chronology?",
+  "options": [
+   "(A) Feudalism → parliamentarianism → manorialism → the Crusades",
+   "(B) Manorialism → feudalism → the Crusades → parliamentarianism",
+   "(C) Parliamentarianism → feudalism → manorialism → the Crusades",
+   "(D) The Crusades → feudalism → manorialism → parliamentarianism"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Manorialism gave rise to feudalism, and they were followed by the Crusades (the first one starting in 1095) and rudimentary parliamentarianism (post-1215). Answers A, C, and D are incorrect in that they are not chronologically ordered.",
+  "skill": "Continuity and Change",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "TEC",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.07 Changes in European Institutions",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u1-014",
+  "unit": 1,
+  "stimulus": "During the fourteenth and fifteenth centuries, Europe pulled itself together. Nature helped as plagues pruned man’s excessive numbers. Man helped, too, and his inventions show where he was going. Four wheeled wagons and square-rigged ships both moved and supplied ever larger concentrations of mankind. The cost of cannon and of the fortifications to withstand them outran the finances and defenses of the independent town and seigniory. Printing gave teaching … a uniformity essential for summoning unheard-of numbers for peace or war … As the luster of the medieval church dimmed, Europe’s secular institutions began to shine ever more brightly … It is perhaps the unification of the practical and spiritual in the soul of each man, itself the very essence of later secularism, that is the greatest legacy of the later Middle Ages.\n\n—John A. Garraty and Peter Gay, eds. \nThe Columbia History of the World\n, 1972",
+  "stem": "Secular institutions reflected which of the following medieval innovations?",
+  "options": [
+   "(A) Romanesque and Gothic architecture",
+   "(B) Banking",
+   "(C) Advanced wagons and ships",
+   "(D) Universities"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Universities gave rise to urbanization (and the accompanying need for banking, for example) and a more secular power structure (within monarchies and parliaments). Romanesque and Gothic architecture (A) were not institutions and were religious; banking (B) followed the establishment of things like universities; and advanced wagons and ships (C) were also not institutions.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.07 Changes in European Institutions",
+  "format": "old",
+  "source_type": "book"
+ }
+]

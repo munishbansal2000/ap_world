@@ -1,0 +1,54 @@
+[
+ {
+  "id": "fivesteps-u5-010",
+  "unit": 5,
+  "stimulus": "“Caste” originally referred to family; but in colonial Latin America it referred to familial and racial lineage. Created by Spanish elites, the post-Conquest caste system consisted of peninsulares, criollos, mestizos, and mulatos. Both the Spanish colonial state and the Church required more tax and tribute payments from those of lower socio-racial categories. Related to Spanish ideas about purity of blood, which historically also related to its reconquest of Spain from the Moors… [the caste system] was used in the 17th and 18th centuries in Spanish America and the Spanish Philippines.\n\n—Elizabeth Gard Bartolini-Salimbeni, 2017",
+  "stem": "The Mexican independence movement began as a rebellion against foreign control of the Spanish throne and involved which of the following castes?",
+  "options": [
+   "(A) Peninsulares, criollos, mestizos",
+   "(B) Criollos, mestizos, Amerindians",
+   "(C) Mestizos, peninsulares, Amerindians",
+   "(D) Mestizos, mulatos, peninsulares"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Mexican independence movement did not involve the peninsulares (A, C, D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.16 Political Revolutions",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u5-011",
+  "unit": 5,
+  "stimulus": "“Caste” originally referred to family; but in colonial Latin America it referred to familial and racial lineage. Created by Spanish elites, the post-Conquest caste system consisted of peninsulares, criollos, mestizos, and mulatos. Both the Spanish colonial state and the Church required more tax and tribute payments from those of lower socio-racial categories. Related to Spanish ideas about purity of blood, which historically also related to its reconquest of Spain from the Moors… [the caste system] was used in the 17th and 18th centuries in Spanish America and the Spanish Philippines.\n\n—Elizabeth Gard Bartolini-Salimbeni, 2017",
+  "stem": "The Spanish American caste system left political and social control in whose hands?",
+  "options": [
+   "(A) Amerindians",
+   "(B) Criollos",
+   "(C) Mestizos",
+   "(D) Peninsulares"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The peninsulares, or Spaniards born in Spain of Spanish parents, controlled the highest political and economic positions in the colonies and were at the top of the social scale. While criollos (B) held some political and economic power and a certain social standing, they were secondary to the peninsulares. Amerindians (A) and mestizos (C) were isolated from both power and social standing.\n\n5\nA.\n Foreign invasions (Great Britain into China, France into Spain, for example) led to the Taiping Rebellion, the Boxer Rebellion, and eventually the North and South American revolutions for independence.\n\n5\nB.\n Between 1750 and 1900 the major change that revolution made to the status of women was to give them access to education. Revolutions and the rise of feminism also led to a change in economic standing, as women were allowed to retain their dowries in case of divorce or death of a spouse and to receive inheritances in various countries.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "SIO",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.16 Political Revolutions",
+  "format": "old",
+  "source_type": "book"
+ }
+]

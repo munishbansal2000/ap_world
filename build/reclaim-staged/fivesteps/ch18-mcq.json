@@ -1,0 +1,129 @@
+[
+ {
+  "id": "fivesteps-u6-009",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "Which is true of Latin America’s economy during the nineteenth century?",
+  "options": [
+   "(A) Latin American government investment spurred industrialization.",
+   "(B) It depended on manufactured goods and investment from Western nations.",
+   "(C) Strong regional trade networks made them economically independent.",
+   "(D) Unequal treaties gave European nations unprecedented economic control."
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] In the nineteenth century, Latin America had little industrialization of its own (A). Rather, Western capitalists looked to Latin America as an opportunity for investment in raw materials and as markets for their manufactured goods. Thus, Latin American nations became somewhat dependent on Western nations (C). The unequal treaties were not agreements with Latin American nations, but rather with China (D).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.18 World Trade",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-010",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "Which was a factor contributing to the Ottoman Empire’s declining influence?",
+  "options": [
+   "(A) Egyptian cotton limited their textile profits.",
+   "(B) The Ottoman Empire shifted from traditional Islamic values and laws.",
+   "(C) The Ottoman Empire never attempted to modernize its industries.",
+   "(D) Several conquered territories successfully rebelled. Questions 3 to 4 refer to the following image."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The Ottoman Empire was weakened when the Greeks and the Serbs each successfully declared independence. Although the Ottomans initially showed little interest in industrializing, Tanzimat reforms and the Young Turk movement did open trade and tried to modernize industries, making choice (C) less correct. The Wahhabi Rebellion emphasized traditional Islamic laws and values (B). The Ottomans did not have a significant cotton textile trade and therefore were not impacted by the growth of Egyptian cotton (A).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.18 World Trade",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-011",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "What prompted the actions taken by the British, reflected in the cartoon?",
+  "options": [
+   "(A) Pandemic disease",
+   "(B) Rejection of Christianity",
+   "(C) Military threats",
+   "(D) Trade imbalances"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The cartoon shows a British officer (representing Britain) forcing opium on a Chinese person, alluding to the Opium Wars. China’s disinterest in most Western manufactured goods created an unfavorable balance of trade for Britain, whose people desired Chinese goods. When the British discovered a Chinese market for opium, they encouraged Chinese consumption as a means of redressing the trade imbalance. Though China seized opium stores and attempted to force opium dealers out of business, it was the loss of trade and not fear of a military threat that spurred the British to take military action (C). Opium is not a cure for, or a cause of, any type of pandemic disease (A). Although China was not particularly interested in Christianity, it did not prohibit or persecute its followers at this time, nor was Christianity related to the opium trade (B).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV",
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.18 World Trade",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-012",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "What was the impact of the Opium War that resulted from the actions depicted in the image?",
+  "options": [
+   "(A) China’s territory was reduced substantially.",
+   "(B) China’s emperor was replaced with a democratic parliament.",
+   "(C) China lost authority over foreigners in its territory.",
+   "(D) China became politically and economically isolated."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Although European powers did not annex Chinese territory (A) and allowed the Chinese emperor to remain in power (B), they were pressured to open to trade with foreign powers (D) through a series of unequal treaties.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.18 World Trade",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u6-013",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "Which statement best characterizes trade during this period?",
+  "options": [
+   "(A) It shifted power from the Northern to Southern Hemispheres.",
+   "(B) It caused international wars around the globe.",
+   "(C) It benefited Western industrialized nations at the expense of others.",
+   "(D) It facilitated the spread of religious extremism."
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] During this period, Western industrialized powers used their economic and military superiority to their advantage in trade relationships around the world. Economic power remained concentrated in the Northern Hemisphere (A). Though there were conflicts over trade, this era predates international wars (B). This era isn’t associated with the spread of religious extremism (D).\n\nSummary: Industrialization and Global Integration: Revolutions and Consequences of Industrialization\n\nTimeline\n\nKey Comparisons\n\n1.\n Industrial Revolution in Europe, Russia, and Japan\n\n2.\n Revolutions: American, French, and Haitian\n\n3.\n Responses to Western influence in China, Japan, India, and the Ottoman Empire\n\n4.\n Nationalism in Italy and Germany\n\n5.\n Nationalism in the Austrian Empire and Russia\n\n6.\n Imperialism in Africa and India\n\n7.\n Forms of imperialism in Africa and Latin America\n\n8.\n Roles of European women in upper and middle classes versus women in lower classes\n\n9.\n Trade in the Atlantic and Indian Ocean basins\n\n10.\n Trade in Western Europe and the Ottoman Empire\n\n \nChange/Continuity Chart",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN",
+   "CDI"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.18 World Trade",
+  "format": "old",
+  "source_type": "book"
+ }
+]

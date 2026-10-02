@@ -1,0 +1,80 @@
+[
+ {
+  "id": "fivesteps-u9-013",
+  "unit": 9,
+  "stimulus": "Still they come—grape-pickers and bricklayers, nannies and schoolteachers, computer programmers and sex-workers, these and millions more head for foreign lands in search of work, or higher pay, or just the opportunity to make a better life. Around 190 million people are “foreign-born,” living outside their country of origin, and every year they are joined by two to three million more emigrants. This number also includes 10 million or so refugees, driven from their homes by war, or famine, or persecution. Bangladeshi laborers fly to construction sites in Malaysia. Desperate Nigerians perch on flimsy craft to cross the treacherous Straits of Gibraltar. Mexican laborers clamber across the walls and fences that mark the long and porous border with the United States. These 190 million people may only represent 3 percent of the world’s population. But they generate controversy and debate out of all proportion to their modest numbers, largely because as they travel, migrants expose many of the social and political fault lines—race, gender, social class, culture and religion—that underlie the seemingly settled terrain of modern nation states.\n\n—Peter Stalker, 2008",
+  "stem": "Which of the following best defines the difference between migrants and refugees?",
+  "options": [
+   "(A) The number in each group",
+   "(B) The reasons for leaving the home country",
+   "(C) The destinations of each group",
+   "(D) The preponderance of women in the latter group"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Immigrants often make a voluntary move from one country to another, while refugees are forced to leave their homes as a result of war, discrimination, or persecution. Migrants are often in search of work and a better life; refugees are in search of survival. Numbers vary (A); both migrants and refugees have varied destinations (C); there is not a preponderance of women in either group (D).",
+  "skill": "Comparison",
+  "reasoning": "Comparison",
+  "themes": [
+   "SIO",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.25 Demographic and Environmental Developments",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u9-014",
+  "unit": 9,
+  "stimulus": "Still they come—grape-pickers and bricklayers, nannies and schoolteachers, computer programmers and sex-workers, these and millions more head for foreign lands in search of work, or higher pay, or just the opportunity to make a better life. Around 190 million people are “foreign-born,” living outside their country of origin, and every year they are joined by two to three million more emigrants. This number also includes 10 million or so refugees, driven from their homes by war, or famine, or persecution. Bangladeshi laborers fly to construction sites in Malaysia. Desperate Nigerians perch on flimsy craft to cross the treacherous Straits of Gibraltar. Mexican laborers clamber across the walls and fences that mark the long and porous border with the United States. These 190 million people may only represent 3 percent of the world’s population. But they generate controversy and debate out of all proportion to their modest numbers, largely because as they travel, migrants expose many of the social and political fault lines—race, gender, social class, culture and religion—that underlie the seemingly settled terrain of modern nation states.\n\n—Peter Stalker, 2008",
+  "stem": "Why does this small percentage of the world population have a disproportionately large social and political effect?",
+  "options": [
+   "(A) Because they change the economic status quo in receiving countries",
+   "(B) Because they expose the behavioral status quo in receiving countries",
+   "(C) Because they introduce foreign concepts",
+   "(D) Because they oppose established religions"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Migrants bring a different point of view to an established, sometimes static, society and expose behavioral “fault lines.” The economic status quo (A), introduction of foreign concepts (C), and opposition to established religions (D) may indeed have an effect on a receiving society, though not necessarily an overweening one.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.25 Demographic and Environmental Developments",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u9-015",
+  "unit": 9,
+  "stimulus": "Still they come—grape-pickers and bricklayers, nannies and schoolteachers, computer programmers and sex-workers, these and millions more head for foreign lands in search of work, or higher pay, or just the opportunity to make a better life. Around 190 million people are “foreign-born,” living outside their country of origin, and every year they are joined by two to three million more emigrants. This number also includes 10 million or so refugees, driven from their homes by war, or famine, or persecution. Bangladeshi laborers fly to construction sites in Malaysia. Desperate Nigerians perch on flimsy craft to cross the treacherous Straits of Gibraltar. Mexican laborers clamber across the walls and fences that mark the long and porous border with the United States. These 190 million people may only represent 3 percent of the world’s population. But they generate controversy and debate out of all proportion to their modest numbers, largely because as they travel, migrants expose many of the social and political fault lines—race, gender, social class, culture and religion—that underlie the seemingly settled terrain of modern nation states.\n\n—Peter Stalker, 2008",
+  "stem": "Which of the following is the least common migration pattern in the late twentieth and early twenty-first century?",
+  "options": [
+   "(A) From Asia to Europe",
+   "(B) From Europe to the United States",
+   "(C) From Mexico to the United States",
+   "(D) From the Middle East to Europe"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Since the most common pattern of migration in the twentieth century has been from developing to developed nations, migration from Europe to the United States would be the least common of the patterns listed. A, C, and D describe migrations from developing to developed areas.\n\nSummary: Accelerating Global Change and Realignments (c. 1900 to the present)\n\nTimeline\n\nKey Comparisons\n\n1.\n Postwar governments of Western nations versus the Soviet bloc\n\n2.\n Decolonization in Africa versus India\n\n3.\n Effects of World War I versus the effects of World War II\n\n4.\n Russian Revolution versus the Chinese Revolution\n\n5.\n Reactions of Western versus non-Western nations to U.S. consumer society\n\n6.\n Female roles in China and the West\n\n7.\n Patterns of immigration in the Eastern versus the Western Hemispheres\n\n8.\n Patterns of economic development in Africa versus Latin America\n\n9.\n Global trade in the Pacific Rim versus the West\n\n10.\n Political and economic conditions in Russia before and after communism\n\nChange/Continuity Chart",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO",
+   "GOV",
+   "ENV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.25 Demographic and Environmental Developments",
+  "format": "old",
+  "source_type": "book"
+ }
+]

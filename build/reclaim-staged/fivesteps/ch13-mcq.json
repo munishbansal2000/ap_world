@@ -1,0 +1,101 @@
+[
+ {
+  "id": "fivesteps-u4-023",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Using information from the passage and your knowledge of the slave trade, decide which of the following accounted for the growth in the number of slaves being shipped to the New World in the 1700s.",
+  "options": [
+   "(A) An increased need for domestic servants",
+   "(B) Ships with larger carrying capacities",
+   "(C) Economic growth in the West Indies and the United States",
+   "(D) Independence of the United States from Great Britain"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] As the West Indies and British North America increased production of plantation products (sugar, molasses, rum, cotton), the need for slave labor also increased. The main call for domestic slave labor (A) in the West Indies and British North America was never the primary impetus to the slave trade. While ships increased carrying capacities (B), this was a response to, not a cause of, the need for increased labor. Independence of America from Great Britain (D) was not a determining factor in increased slave labor requirements.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN",
+   "SIO"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.13 Systems of Slavery",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-024",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "According to the passage, where did the largest number of enslaved Africans eventually end up?",
+  "options": [
+   "(A) Arabia",
+   "(B) The New World",
+   "(C) The Middle East",
+   "(D) Africa"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The largest numbers of slaves stayed in Africa, not in Arabia (A), the New World (B), or the Middle East (C).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.13 Systems of Slavery",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-025",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Syncretism is best seen in which of the following practices?",
+  "options": [
+   "(A) Adaptation of clothing to climatic conditions",
+   "(B) Use of new spices in native African cooking",
+   "(C) Conversion of many native Africans to Islam",
+   "(D) Adaptation of Catholic ritual to include African traditions"
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Syncretism indicates a blending of elements from two cultures or traditions and was evident in modification of Church rituals to incorporate African music, language, dance, and prayer. Adapting to another situation or tradition (A, B, C) is not evidence of syncretism.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.13 Systems of Slavery",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u4-026",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "What effect did the European importation of raw materials and export of manufactured goods as part of the triangular trade have on African economic development?",
+  "options": [
+   "(A) They encouraged production of local goods.",
+   "(B) They increased African trade networks.",
+   "(C) They reduced the number of unmarried females.",
+   "(D) They stopped local industrial development."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] By removing raw materials from Africa, Europeans could produce manufactured goods that in turn could be sold back to Africans. Thus, there was no need, and no chance, for Africans to produce manufactured goods. Local industrial development had neither raw materials to work with nor, frequently, the manpower to staff local business. A, B, and C are irrelevant.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.13 Systems of Slavery",
+  "format": "old",
+  "source_type": "book"
+ }
+]

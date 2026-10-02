@@ -1,0 +1,77 @@
+[
+ {
+  "id": "fivesteps-u8-001",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "Which adjective best describes the artist’s attitude toward the likelihood of an independent, united India?",
+  "options": [
+   "(A) Hopeful",
+   "(B) Skeptical",
+   "(C) Despairing",
+   "(D) Angry"
+  ],
+  "key": "B",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The cartoonist’s tone is best described as skeptical, given the possibility of disaster posed by the explosives. The cartoon doesn’t quite rise to the level of angry (D) or despairing (C), as nothing terrible has yet happened, although the potential is there. The presence of the explosives indicates that the cartoonist is not especially hopeful regarding the success of an independent India (A).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "5steps ch.20 Cold War and the Post-War Balance of Power",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u8-002",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "What is the artist’s purpose in creating this cartoon?",
+  "options": [
+   "(A) To highlight the abuses of the British Empire in their relations with India",
+   "(B) To indicate support for India’s fight for independence",
+   "(C) To warn that Indian Muslims may not support a single Indian state",
+   "(D) To show that India was not capable of self-rule"
+  ],
+  "key": "C",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] The cartoonist is warning, through the actions of Muhammad Ali Jinnah, that Muslim Indians might be working against the success of a united India. There is no indication that Nehru is not capable of controlling the elephant that is India, with the exception of the sabotage of Muhammad Ali Jinnah (D), and the cordial exchange between Nehru and the British official would imply that the cartoonist isn’t focused on past British abuses (A). Though the cartoonist might support Indian independence, the cartoon doesn’t take a position with regard to its righteousness, only its chances of success (B).",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.20 Cold War and the Post-War Balance of Power",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "fivesteps-u8-003",
+  "unit": 8,
+  "stimulus": null,
+  "stem": "What was the ultimate outcome of the conflict shown in the cartoon?",
+  "options": [
+   "(A) Burma and Ceylon became Buddhist nations.",
+   "(B) India maintained its traditional borders as a Hindu nation.",
+   "(C) Great Britain delayed granting Indian independence for 30 years.",
+   "(D) India was divided and the Muslim state of Pakistan was created."
+  ],
+  "key": "D",
+  "explanation": "[SOURCE MATERIAL - REWRITE REQUIRED] Because of the tensions between Hindus and Muslims in India, the state was divided and the independent Muslim nation of Pakistan was created (B). The conflict in the cartoon is set in the 1940s, and India gained independence in 1947, so (C) cannot be true. Burma and Ceylon have both been Buddhist nations for over 1,000 years, so this cannot have been a consequence of the events in the cartoon (A).\n\n4\nA.\n Unlike other countries, France resisted decolonization. While Great Britain negotiated with its colonies like India, using legal means for their eventual independence, France’s resistance to the self-determination of its colonies in Algeria and Indochina meant that those regions gained independence only through conflict.\n\n4\nB.\n France had promised Algeria a greater degree of autonomy but then failed to follow through on its promises after WWI, prompting Algerians to form a liberation movement that engaged in guerilla-style tactics against the French in Algeria. The most intense fighting occurred in the Battle of Algiers, which had so many casualties and employed such brutal tactics that the French desire for the colony weakened, and Algeria eventually became independent in the 1960s.\n\n4\nC.\n Decolonization of Africa has not led to strong, peaceful, democratic republics as many originally hoped. When the borders of African nations were drawn up by Europeans at the Berlin Conference, there was no consideration for tribal, ethnic, religious, or linguistic territories. Thus, a single nation might contain traditionally rival groups. As African nations decolonized, they typically maintained the colonial borders. In the absence of order imposed by a colonial power, traditional tribal, ethnic, and religious divisions resurfaced in many African nations after decolonization. An example of this would be the hostilities between the Hutu and the Tutsi people of Rwanda, resulting in genocide against the Tutsi people in the 1990s.\n\n5\nA.\n One similarity between the economic policies of the Soviet Union and communist China would be the practice of collectivizing agriculture. Both Mao and Stalin wanted to increase agricultural production to feed their large populations. In both places, peasants and poor farmers had their land taken by the state and combined into huge collective farms, where they were expected to work. Part of both systems included ambitious quotas, with corresponding rewards and penalties. Both hoped to take advantage of economies of scale and both failed. In the Soviet Union, workers earned less under collectivized farming than they did on private lots, so they resisted by slowing work or refusing to work altogether. Both countries used unsound agricultural techniques that resulted in lower yields. Both management systems resulted in lowered agricultural output.\n\n5\nB.\n The later decades of the twentieth century both saw a change or moderation in China’s and the Soviet Union’s economic positions. In the Soviet Union, Mikhail Gorbachev introduced \nperestroika\n, a restructuring of the government \nand economy. As part of that he allowed, for the first time since Lenin, some capitalism and private ownership of business. He also relaxed the centralized planning of the economy in favor of market forces. In China, Deng Xiaoping similarly allowed the gradual adoption of private business and some capitalism.\n\n5\nC.\n The eventual outcomes of these two similar approaches were very different because in the Soviet Union, Mikhail Gorbachev combined \nperestroika\n (political and economic restructuring) with \nglasnost\n, or a new political and social openness. \nGlasnost\n opened the doors to a torrent of previously repressed dissent and dissatisfaction by the different ethnic groups that had been subjugated by the Russian-dominated Soviet Union. Deng Xiaoping, though, maintained strict governmental control over other aspects of its citizens’ lives and the media, quelling any dissent. This could be seen in the Chinese government’s reaction to the protest for democracy in Tiananmen Square. When support for the protestors spread, the Chinese military used force to end the protest. China’s economic liberalization was not accompanied by political or democratic liberalization.",
+  "skill": "Causation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "5steps ch.20 Cold War and the Post-War Balance of Power",
+  "format": "old",
+  "source_type": "book"
+ }
+]
