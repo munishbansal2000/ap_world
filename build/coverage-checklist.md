@@ -61,4 +61,6 @@ Themes: ENV, CDI, GOV, ECN, SIO, TEC. Flag any unit dominated by a single theme.
 |---|---|---|
 | 2026-10-02 | post-reclaim | 726 re-conceived MCQs; 9 thin skill cells in U1/U4/U6/U8 |
 | 2026-10-02 | post-fresh-wave | +220 fresh (196 targeted + 24 top-ups) = 946 bank; all 54 skill×unit cells ≥5; all unit quotas met; blind key audit 220/220; compliance done (12 honest UNVERIFIED-QUOTE flags) |
+| 2026-10-02 | bank-merge | 1,111 MCQs merged (891 reclaimed + 220 fresh), 0 ID collisions; skill tags normalized to 6 canonical CB skills (234 repaired + 38 renamed); all 54 cells ≥5 (min 5); keys A25.9/B25.0/C24.2/D24.8; length-tell 19.3%; 54 verified image URLs, 0 visual_needs_url remaining |
+| 2026-10-02 | test-assembly | 10 tests × 55 MCQ = 550 unique, zero overlap; exact unit quotas per test (U1/U2/U7/U8/U9:5, U3/U4:8, U5/U6:7); 5-6 verified visuals per test (~10%); 30 SAQ sets, 10 DBQs (7 docs), 10 LEQs (causation 4 / cc 3 / comparison 3); new-format directions only |
 | | prod-readiness | |
