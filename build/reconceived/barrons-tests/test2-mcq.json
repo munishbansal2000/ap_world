@@ -1,0 +1,1683 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "The painting abandons realistic perspective — the couple floats impossibly above the town — which was exactly what early-1900s avant-garde artists did when they broke with nineteenth-century realist conventions.",
+  "id": "wh-barrons-t2-001",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The impossible scene rejects the realistic representation that dominated nineteenth-century art, a hallmark of avant-garde movements.",
+   "B": "Wrong. Nothing in the painting glorifies a nation or government; it is a personal, dreamlike scene.",
+   "C": "Wrong. Original painting flourished in the early 1900s; posters did not replace it.",
+   "D": "Wrong. The painting shows no religious authority directing art; Chagall worked independently of churches."
+  },
+  "options": [
+   "(A) Avant-garde artists challenged traditional rules of representation",
+   "(B) Governments commissioned art to glorify the nation",
+   "(C) Mass-produced posters made original painting obsolete",
+   "(D) Religious institutions regained control over artistic production"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-001",
+  "source_stimulus_words": 17,
+  "stem": "The painting's playful disregard for realistic perspective best reflects which cultural development of the early twentieth century?",
+  "stimulus": "[Painting: Marc Chagall, Over the Town, 1918. A man and woman float hand in hand above a small town; below them, houses, a church, and tiny figures going about their day.]",
+  "stimulus_words": 31,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Chagall's floating figures come from memory and dream imagery, part of a wider early-twentieth-century turn among artists and thinkers toward the inner life — dreams, memory, and the subconscious — as worthy subjects.",
+  "id": "wh-barrons-t2-002",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The painting carries no hidden political message; its subject is personal and dreamlike.",
+   "B": "Correct. The impossible scene treats dream and memory as real artistic material, reflecting the era's fascination with the subconscious.",
+   "C": "Wrong. Factories did not dictate what avant-garde painters created.",
+   "D": "Wrong. Traditional technique was still taught; Chagall himself was trained in it."
+  },
+  "options": [
+   "(A) The growth of state censorship forced artists to hide political messages in dreamlike imagery",
+   "(B) Artists explored dreams, memory, and the subconscious as serious subjects",
+   "(C) Industrial factories demanded standardized decorative art",
+   "(D) Art schools banned all instruction in traditional techniques"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-002",
+  "source_stimulus_words": 17,
+  "stem": "Which development best explains why painters like Chagall began depicting recognizable objects in impossible settings?",
+  "stimulus": "[Painting: Marc Chagall, Over the Town, 1918. A man and woman float hand in hand above a small town; below them, houses, a church, and tiny figures going about their day.]",
+  "stimulus_words": 31,
+  "themes": [
+   "TEC",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Chagall was a Russian Jew living in France when he painted the town of his youth with a soaring couple. The nostalgic, loving scene reads as an émigré's fond memory of home, a common experience for the era's many migrants and exiles.",
+  "id": "wh-barrons-t2-003",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Nothing in the painting endorses any government.",
+   "B": "Wrong. The town below looks peaceful and familiar, not frightening.",
+   "C": "Correct. The idealized hometown, painted from exile in France, expresses the longing for home felt by many who left their native lands.",
+   "D": "Wrong. Chagall drew on Jewish themes throughout his work; he did not reject religious identity."
+  },
+  "options": [
+   "(A) support for the Russian government's policies",
+   "(B) fear of modern city life",
+   "(C) longing for a homeland left behind",
+   "(D) rejection of all religious identity"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-003",
+  "source_stimulus_words": 17,
+  "stem": "Chagall, a Russian-born Jew living in France, painted a couple soaring over the town of his youth. A historian would most reasonably interpret the painting as an expression of",
+  "stimulus": "[Painting: Marc Chagall, Over the Town, 1918. A man and woman float hand in hand above a small town; below them, houses, a church, and tiny figures going about their day.]",
+  "stimulus_words": 31,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Realism showed the world as it looked; this painting shows lifelike people in a scene that could never happen. That deliberate break with 'how things look' was the avant-garde's signature move across early-twentieth-century culture.",
+  "id": "wh-barrons-t2-004",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Mass reproduction spread images widely but did not standardize what artists painted.",
+   "B": "Wrong. Government control of art increased later under authoritarian regimes, but this 1918 work was made freely.",
+   "C": "Wrong. Public interest in visual art grew in the 1900s with new galleries and movements.",
+   "D": "Correct. Placing recognizable figures in impossible situations redefined what a painting was allowed to show."
+  },
+  "options": [
+   "(A) The standardization of art through mass reproduction",
+   "(B) The return of strict government control over artists",
+   "(C) The decline of public interest in visual art",
+   "(D) Avant-garde movements redefining what art could depict"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-004",
+  "source_stimulus_words": 17,
+  "stem": "Unlike nineteenth-century realist paintings, this work places lifelike figures in an impossible scene. That contrast best illustrates which broader trend in twentieth-century culture?",
+  "stimulus": "[Painting: Marc Chagall, Over the Town, 1918. A man and woman float hand in hand above a small town; below them, houses, a church, and tiny figures going about their day.]",
+  "stimulus_words": 31,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Gandhi, an Indian activist in South Africa, wrote to Tolstoy, a Russian author famous for writings on nonviolence. Their correspondence shows how reformers of the era exchanged ideas across continents, building international networks of moral and political support.",
+  "id": "wh-barrons-t2-005",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The letter itself is evidence of a transnational exchange — an Indian in South Africa writing to a Russian about nonviolent resistance.",
+   "B": "Wrong. Colonial governments suppressed, not encouraged, such criticism.",
+   "C": "Wrong. Gandhi's letter is deeply religious in tone; he did not avoid the issue.",
+   "D": "Wrong. Gandhi explicitly rejected force; he sought no military aid."
+  },
+  "options": [
+   "(A) Reformers built international networks to share ideas and strategies",
+   "(B) Colonial governments encouraged criticism from foreign writers as a way to improve their policies",
+   "(C) Religious leaders avoided involvement in political disputes",
+   "(D) Indian nationalists sought military aid from European powers"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t2-005",
+  "source_stimulus_words": 221,
+  "stem": "Gandhi chose to describe this struggle to Tolstoy, a famous writer living on another continent. That choice best reflects which development of the era?",
+  "stimulus": "In a 1909 letter to the Russian writer Leo Tolstoy, Mohandas Gandhi described the situation of Indians in South Africa's Transvaal colony. He wrote that Indians there suffered under discriminatory laws, that many had gone to prison rather than obey a registration law they considered degrading, and that others had left the colony altogether. He told Tolstoy that he and his supporters believed in non-resistance to evil and were convinced that passive resistance would succeed where brute force must fail.",
+  "stimulus_words": 80,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Gandhi calls the law 'degrading' and says submitting to it would violate 'the spirit of true religion.' His argument is that a law this unjust no longer deserves obedience — the moral basis for his later campaigns of nonviolent noncooperation.",
+  "id": "wh-barrons-t2-006",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Gandhi argues the opposite: this law should not be obeyed.",
+   "B": "Correct. By calling the law degrading and contrary to true religion, Gandhi denies it any moral authority.",
+   "C": "Wrong. Gandhi appeals to conscience, not to courts.",
+   "D": "Wrong. Gandhi insists that passive resistance succeeds where brute force must fail."
+  },
+  "options": [
+   "(A) religious belief required obedience to all colonial laws",
+   "(B) an unjust law loses its moral claim to obedience",
+   "(C) courts should decide which laws were religiously acceptable",
+   "(D) only violent uprising could change unjust laws"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-006",
+  "source_stimulus_words": 221,
+  "stem": "Gandhi writes that submission to the degrading law would violate 'the spirit of true religion.' This claim suggests that Gandhi believed",
+  "stimulus": "In a 1909 letter to the Russian writer Leo Tolstoy, Mohandas Gandhi described the situation of Indians in South Africa's Transvaal colony. He wrote that Indians there suffered under discriminatory laws, that many had gone to prison rather than obey a registration law they considered degrading, and that others had left the colony altogether. He told Tolstoy that he and his supporters believed in non-resistance to evil and were convinced that passive resistance would succeed where brute force must fail.",
+  "stimulus_words": 80,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Gandhi reports that nearly half of Transvaal's Indians left the colony rather than live under the degrading law. Their departure was a political choice forced by discrimination — migration as a response to unjust policy.",
+  "id": "wh-barrons-t2-007",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Leaving the colony shows the failure, not success, of British policy toward Indians.",
+   "B": "Wrong. Gandhi describes a voluntary withdrawal, not a court-ordered deportation.",
+   "C": "Correct. The migrants left specifically to escape the discriminatory law.",
+   "D": "Wrong. The letter gives a political, not economic, reason for leaving."
+  },
+  "options": [
+   "(A) the success of British efforts to assimilate Indian migrants",
+   "(B) a forced deportation ordered by colonial courts",
+   "(C) migration driven by discriminatory government policies",
+   "(D) seasonal labor migration for higher wages"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-007",
+  "source_stimulus_words": 221,
+  "stem": "According to the letter, Indians unwilling to face prison responded by leaving the Transvaal. This response is best understood as an example of",
+  "stimulus": "In a 1909 letter to the Russian writer Leo Tolstoy, Mohandas Gandhi described the situation of Indians in South Africa's Transvaal colony. He wrote that Indians there suffered under discriminatory laws, that many had gone to prison rather than obey a registration law they considered degrading, and that others had left the colony altogether. He told Tolstoy that he and his supporters believed in non-resistance to evil and were convinced that passive resistance would succeed where brute force must fail.",
+  "stimulus_words": 80,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Gandhi describes laws that singled out Indians for legal disabilities based on race. South Africa would later extend exactly this principle — racial classification written into law — into the full apartheid system after 1948.",
+  "id": "wh-barrons-t2-008",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. South Africa became a self-governing dominion in 1910, but racial laws continued and deepened.",
+   "B": "Wrong. Racial distinctions grew sharper, not weaker, in the decades after 1909.",
+   "C": "Wrong. No such alliance formed; Afrikaner governments later built apartheid.",
+   "D": "Correct. The race-based legal disabilities Gandhi protested were the direct ancestors of apartheid's racial laws."
+  },
+  "options": [
+   "(A) The immediate granting of full independence in 1910",
+   "(B) The abolition of all racial distinctions by the British",
+   "(C) A political alliance between Indian and Afrikaner communities",
+   "(D) The apartheid system of legally enforced racial segregation"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-008",
+  "source_stimulus_words": 221,
+  "stem": "The system of legal disabilities Gandhi describes most clearly foreshadows which later development in South Africa?",
+  "stimulus": "In a 1909 letter to the Russian writer Leo Tolstoy, Mohandas Gandhi described the situation of Indians in South Africa's Transvaal colony. He wrote that Indians there suffered under discriminatory laws, that many had gone to prison rather than obey a registration law they considered degrading, and that others had left the colony altogether. He told Tolstoy that he and his supporters believed in non-resistance to evil and were convinced that passive resistance would succeed where brute force must fail.",
+  "stimulus_words": 80,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The king and crown prince wear European military uniforms with medals — the visual language of a 'modern' nineteenth-century state. The portrait was a deliberate signal that Siam's monarchy was reforming along Western lines.",
+  "id": "wh-barrons-t2-009",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The Western uniforms were a conscious display of modernization, matching Chulalongkorn's reform program.",
+   "B": "Wrong. Siam was never colonized; the portrait asserts independence, not submission.",
+   "C": "Wrong. Nothing in the portrait suggests monks in power; it shows the king and heir.",
+   "D": "Wrong. The uniforms are Siamese officers' dress, not evidence of mercenaries."
+  },
+  "options": [
+   "(A) Siam's rulers were presenting themselves as modern and Westernized",
+   "(B) Siam had been conquered by a European power",
+   "(C) Buddhist monks had taken control of the government",
+   "(D) Siam's military relied entirely on foreign mercenaries"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-009",
+  "source_stimulus_words": 23,
+  "stem": "The king's choice of European-style dress for this official portrait most strongly suggests that",
+  "stimulus": "[Photograph: a formal portrait, circa 1890, of King Chulalongkorn of Siam seated beside his young crown prince. Both wear European-style military uniforms with medals, and the prince holds a Western-style officer's sword.]",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Siam watched Britain and France swallow neighboring Burma and Indochina. By modernizing its army, administration, and infrastructure, Siam aimed to look too strong and 'civilized' to justify colonization.",
+  "id": "wh-barrons-t2-010",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Siam sought survival, not its own empire.",
+   "B": "Correct. Reforms were a defensive strategy: a modernized Siam gave Europeans less pretext and more resistance.",
+   "C": "Wrong. Siam remained Buddhist; its reforms were administrative and military, not missionary.",
+   "D": "Wrong. Siam expanded trade with the West; it did not withdraw from it."
+  },
+  "options": [
+   "(A) Prepare Siam to colonize its neighbors in Southeast Asia before Europeans could claim them",
+   "(B) make colonization of Siam too difficult and costly for European powers",
+   "(C) spread Christianity through Southeast Asia",
+   "(D) end Siam's participation in international trade"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-010",
+  "source_stimulus_words": 23,
+  "stem": "Siam's program of Western-style reforms in the late 1800s was primarily intended to",
+  "stimulus": "[Photograph: a formal portrait, circa 1890, of King Chulalongkorn of Siam seated beside his young crown prince. Both wear European-style military uniforms with medals, and the prince holds a Western-style officer's sword.]",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Like Siam, Meiji Japan kept its independence by deliberately adopting Western military, industrial, and administrative models. China, India, and Burma all fell under varying degrees of Western domination in this period.",
+  "id": "wh-barrons-t2-011",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Qing China suffered foreign spheres of influence and unequal treaties.",
+   "B": "Wrong. Mughal power had collapsed; India was under direct British rule.",
+   "C": "Correct. Japan's Meiji reforms parallel Siam's strategy of defensive modernization.",
+   "D": "Wrong. Burma was annexed by Britain in the 1880s."
+  },
+  "options": [
+   "(A) China under the Qing dynasty, which also pursued Western-style reforms",
+   "(B) India under the Mughal emperors",
+   "(C) Japan under the Meiji government",
+   "(D) Burma under its monarchy"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t2-011",
+  "source_stimulus_words": 23,
+  "stem": "Like Siam, which other Asian state preserved its independence in the late nineteenth century through deliberate modernization?",
+  "stimulus": "[Photograph: a formal portrait, circa 1890, of King Chulalongkorn of Siam seated beside his young crown prince. Both wear European-style military uniforms with medals, and the prince holds a Western-style officer's sword.]",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The reforms worked: while Britain took Burma and France took Indochina, Siam negotiated, modernized, and survived as the region's one state never placed under formal colonial rule.",
+  "id": "wh-barrons-t2-012",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Siam ceded some border territories but was never partitioned.",
+   "B": "Wrong. Unlike Laos, Cambodia, and Vietnam, Siam escaped French colonization.",
+   "C": "Wrong. The monarchy survived; Thailand remains a monarchy today.",
+   "D": "Correct. Siam's modernization strategy preserved its formal independence."
+  },
+  "options": [
+   "(A) was divided between Britain and France",
+   "(B) became a French colony like its neighbors",
+   "(C) abandoned its monarchy for a republic",
+   "(D) remained the only Southeast Asian state never formally colonized"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-012",
+  "source_stimulus_words": 23,
+  "stem": "As a result of the reforms pursued by Chulalongkorn and his father, Siam",
+  "stimulus": "[Photograph: a formal portrait, circa 1890, of King Chulalongkorn of Siam seated beside his young crown prince. Both wear European-style military uniforms with medals, and the prince holds a Western-style officer's sword.]",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The speaker literally embodies both grandfathers — African and Spanish — and ends by joining them in an embrace 'of equal size.' The poem presents Latin American identity as born from the painful fusion of these two heritages.",
+  "id": "wh-barrons-t2-013",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The embrace of the two grandfathers symbolizes the mixed African-European roots of Latin American identity.",
+   "B": "Wrong. The speaker embraces, not rejects, his Spanish grandfather.",
+   "C": "Wrong. The poem dwells on slave ships and the trader's whip — slavery's mark is central.",
+   "D": "Wrong. The poem's two grandfathers are African and European; it does not credit indigenous peoples as sole founders."
+  },
+  "options": [
+   "(A) Latin American identity grew from the mixing of African and European peoples and cultures",
+   "(B) Latin Americans should reject all European cultural influence",
+   "(C) The history of slavery left no lasting mark on Cuba",
+   "(D) Indigenous peoples of the Americas were the sole founders of Latin American culture and identity"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-013",
+  "source_stimulus_words": 182,
+  "stem": "The poem's central image — the embrace of the two grandfathers — best expresses which idea about Latin American identity?",
+  "stimulus": "Cuban poet Nicolás Guillén's 'Ballad of Two Grandfathers' (1934) describes a speaker haunted by two ancestors: a 'black grandfather' associated with Africa, slave ships, and the sugar cane fields, and a 'white grandfather' associated with Spain, conquistadors, and galleons. The poem ends with the speaker bringing the two grandfathers together in an embrace, calling their longings 'both of equal size.'",
+  "stimulus_words": 60,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Ships carried enslaved Africans ('so many Blacks') to cut sugar cane ('so much resplendent cane') under 'the trader's whip.' The lines describe the Atlantic slave trade feeding Caribbean sugar plantations, Cuba's colonial economy.",
+  "id": "wh-barrons-t2-014",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The poem's ships belong to the slave-trade era, not twentieth-century commerce.",
+   "B": "Correct. The combination of ships, enslaved Africans, cane, and the whip points to slave labor on sugar plantations.",
+   "C": "Wrong. The poem mentions cane, not silver mines.",
+   "D": "Wrong. The lines describe forced African labor, not voluntary European migration."
+  },
+  "options": [
+   "(A) the export of Cuban sugar to the United States in the 1900s",
+   "(B) the use of enslaved African labor on Caribbean sugar plantations",
+   "(C) the forced labor of indigenous peoples in silver mines",
+   "(D) the migration of European settlers to Cuban cities"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-014",
+  "source_stimulus_words": 182,
+  "stem": "The poem links 'so many ships' and 'so much resplendent cane' to 'the trader's whip.' These lines most directly refer to",
+  "stimulus": "Cuban poet Nicolás Guillén's 'Ballad of Two Grandfathers' (1934) describes a speaker haunted by two ancestors: a 'black grandfather' associated with Africa, slave ships, and the sugar cane fields, and a 'white grandfather' associated with Spain, conquistadors, and galleons. The poem ends with the speaker bringing the two grandfathers together in an embrace, calling their longings 'both of equal size.'",
+  "stimulus_words": 60,
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The poem denounces 'the trader's whip' and the dying cries of the black grandfather, yet ends with the speaker joining both grandfathers in an embrace. Guillén condemns the violence while accepting both ancestries as his own.",
+  "id": "wh-barrons-t2-015",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The poem portrays conquest as cruel — galleons 'burning for gold,' coasts 'deceived.'",
+   "B": "Wrong. The poem never mentions reparations or payments.",
+   "C": "Correct. Condemnation of the cruelty and embrace of both heritages are the poem's twin moves.",
+   "D": "Wrong. The final embrace is precisely a reconciliation."
+  },
+  "options": [
+   "(A) He argues that European colonization benefited the Americas",
+   "(B) He calls for the descendants of enslaved people to receive payments from governments as compensation",
+   "(C) He condemns the cruelty of slavery and conquest while embracing both sides of his heritage",
+   "(D) He insists that Africans and Europeans can never be reconciled"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-015",
+  "source_stimulus_words": 182,
+  "stem": "Which statement best captures the poet's attitude toward the violent history he describes?",
+  "stimulus": "Cuban poet Nicolás Guillén's 'Ballad of Two Grandfathers' (1934) describes a speaker haunted by two ancestors: a 'black grandfather' associated with Africa, slave ships, and the sugar cane fields, and a 'white grandfather' associated with Spain, conquistadors, and galleons. The poem ends with the speaker bringing the two grandfathers together in an embrace, calling their longings 'both of equal size.'",
+  "stimulus_words": 60,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The poem traces Latin American identity to African and Spanish ancestors only. Indigenous peoples — a third major root of the region's population and culture — are absent, which limits the poem as a complete picture.",
+  "id": "wh-barrons-t2-016",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Chinese laborers, though present in Cuba, were a smaller part of the region's heritage than indigenous peoples.",
+   "B": "Wrong. Middle Eastern merchants played a minor role in Latin America's demographic history.",
+   "C": "Wrong. North American settlers were not a major ancestral group in Latin America.",
+   "D": "Correct. Indigenous peoples are the significant missing element in the poem's account of Latin American roots."
+  },
+  "options": [
+   "(A) Chinese laborers in the Caribbean, who formed a large part of Cuba's population",
+   "(B) Middle Eastern merchants",
+   "(C) North American settlers",
+   "(D) Indigenous peoples of the Americas"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t2-016",
+  "source_stimulus_words": 182,
+  "stem": "A historian might note that the poem presents Latin American ancestry as African and European only. Which group's absence most limits the poem as a full picture of the region's heritage?",
+  "stimulus": "Cuban poet Nicolás Guillén's 'Ballad of Two Grandfathers' (1934) describes a speaker haunted by two ancestors: a 'black grandfather' associated with Africa, slave ships, and the sugar cane fields, and a 'white grandfather' associated with Spain, conquistadors, and galleons. The poem ends with the speaker bringing the two grandfathers together in an embrace, calling their longings 'both of equal size.'",
+  "stimulus_words": 60,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Da Gama's ships are heading for India and ask for 'a pilot to guide them to India.' The voyage's purpose was commercial: finding an ocean route to Asian markets that bypassed the overland routes controlled by Muslim and Venetian middlemen.",
+  "id": "wh-barrons-t2-017",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The passage mentions no missionaries or conversions.",
+   "B": "Wrong. Malindi's people acted from fear, and others plotted against the ships — not a welcome.",
+   "C": "Wrong. The Portuguese took no territory on this voyage; conquest came later and partially.",
+   "D": "Correct. The request for a pilot to India reveals the voyage's goal: a sea route to Asia's markets."
+  },
+  "options": [
+   "(A) European missionaries converted the rulers of East Africa",
+   "(B) African states welcomed permanent European settlement",
+   "(C) The Portuguese conquered the Swahili coast on their first voyage and built forts there",
+   "(D) Europeans sought a sea route to the markets of South and East Asia"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-017",
+  "source_stimulus_words": 222,
+  "stem": "The passage is most useful as evidence of which development?",
+  "stimulus": "From a chronicle of the Swahili sultanate of Kilwa, written around 1520, describing the arrival of Vasco da Gama's ships: 'Men came from the land of the Franks in three ships, and the name of their captain was al-Mirati. The lord of Mafia rejoiced, for he thought the Franks were good and honest men. But others said they were corrupt men who had come to spy out the land in order to seize it, and planned to cut the anchors of their ships. Learning of this, the Franks sailed on to Malindi. The people there, fearing war, gave them water, food, and firewood. And the Franks asked for a pilot to guide them to India.'",
+  "stimulus_words": 115,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The chronicler calls the Portuguese 'corrupt' men who came 'to seize' the land and ends with 'God curse it!' A historian must treat claims of motive from so hostile a source with caution — the author's anger may color his account of what the Portuguese intended.",
+  "id": "wh-barrons-t2-018",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The passage's open hostility is exactly the kind of bias a historian must weigh when using it.",
+   "B": "Wrong. The chronicle was written around 1520, within a generation of da Gama's 1498 voyage.",
+   "C": "Wrong. This is far too sweeping; Muslim chroniclers recorded many events reliably.",
+   "D": "Wrong. The passage gives no evidence about the author's finances."
+  },
+  "options": [
+   "(A) The author's hostility toward the newcomers may exaggerate their intentions",
+   "(B) The chronicle was written centuries after the events described, making its details unreliable",
+   "(C) Muslim chroniclers never recorded European voyages accurately",
+   "(D) The author personally profited from trade with the Portuguese"
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t2-018",
+  "source_stimulus_words": 222,
+  "stem": "The chronicler calls the Portuguese 'corrupt' and claims they came 'to spy out the land in order to seize it.' A historian using this passage should keep in mind that",
+  "stimulus": "From a chronicle of the Swahili sultanate of Kilwa, written around 1520, describing the arrival of Vasco da Gama's ships: 'Men came from the land of the Franks in three ships, and the name of their captain was al-Mirati. The lord of Mafia rejoiced, for he thought the Franks were good and honest men. But others said they were corrupt men who had come to spy out the land in order to seize it, and planned to cut the anchors of their ships. Learning of this, the Franks sailed on to Malindi. The people there, fearing war, gave them water, food, and firewood. And the Franks asked for a pilot to guide them to India.'",
+  "stimulus_words": 115,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Da Gama needed a local pilot because Portugal aimed to sail the Indian Ocean itself. The voyage led to a Portuguese network of fortified ports and sea lanes linking Europe to Asia — a trading-post empire, not a land empire.",
+  "id": "wh-barrons-t2-019",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Portugal never conquered India's interior kingdoms.",
+   "B": "Correct. The pilot request foreshadows Portugal's Indian Ocean trading-post empire.",
+   "C": "Wrong. Muslim merchants continued trading in the Indian Ocean throughout the Portuguese era.",
+   "D": "Wrong. Portugal built forts and ports, not large settler colonies, in Asia."
+  },
+  "options": [
+   "(A) The Portuguese conquest of India's inland kingdoms",
+   "(B) The creation of a Portuguese sea-based trading network in the Indian Ocean",
+   "(C) The end of all Muslim participation in Indian Ocean trade",
+   "(D) The establishment of large Portuguese settler colonies in Asia"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-019",
+  "source_stimulus_words": 222,
+  "stem": "Da Gama's request for 'a pilot to guide them to India' points toward which long-term result of the Portuguese voyages?",
+  "stimulus": "From a chronicle of the Swahili sultanate of Kilwa, written around 1520, describing the arrival of Vasco da Gama's ships: 'Men came from the land of the Franks in three ships, and the name of their captain was al-Mirati. The lord of Mafia rejoiced, for he thought the Franks were good and honest men. But others said they were corrupt men who had come to spy out the land in order to seize it, and planned to cut the anchors of their ships. Learning of this, the Franks sailed on to Malindi. The people there, fearing war, gave them water, food, and firewood. And the Franks asked for a pilot to guide them to India.'",
+  "stimulus_words": 115,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "A Māori leader wears a European suit while keeping his traditional tattoos; a British officer poses in Indian dress. Each portrait shows someone adopting the other's culture — evidence that imperial contact changed both sides, not just the colonized.",
+  "id": "wh-barrons-t2-020",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Ngatata's tattoos show he kept Māori tradition alongside the suit.",
+   "B": "Wrong. Foote's portrait proves no such ban existed.",
+   "C": "Correct. The two portraits mirror each other: colonized adopting European dress, colonizer adopting indigenous dress.",
+   "D": "Wrong. Both portraits date from eras when portrait painting was still thriving."
+  },
+  "options": [
+   "(A) Indigenous elites completely abandoned their own traditions in order to gain colonial favor",
+   "(B) British officials were forbidden to adopt local customs",
+   "(C) Cultural influences flowed in both directions between colonizers and colonized peoples",
+   "(D) Portrait painting declined as photography spread"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t2-020",
+  "source_stimulus_words": 39,
+  "stem": "Taken together, the two portraits best illustrate which consequence of European imperial expansion?",
+  "stimulus": "[Painting 1: Gottfried Lindauer's portrait (ca. 1880) of the Māori chieftain and legislator Wi Tako Ngatata, wearing a European suit but with traditional Māori facial tattoos visible. Painting 2: Joshua Reynolds's portrait (1761–1765) of British Captain John Foote wearing Indian dress, including a turban-like headdress.]",
+  "stimulus_words": 45,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Ngatata entered the colonial legislature — the system imposed by Britain — while his facial tattoos publicly marked him as Māori. The combination reads as a political choice: engage the new institutions without surrendering who he was.",
+  "id": "wh-barrons-t2-021",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. There is no evidence of such a law; his dress was his own choice.",
+   "B": "Wrong. The traditional facial tattoos contradict any claim he rejected Māori culture.",
+   "C": "Wrong. The portrait gives no evidence about his religion.",
+   "D": "Correct. Suit plus tattoos = working inside colonial politics while asserting Māori identity."
+  },
+  "options": [
+   "(A) A British law requiring all indigenous legislators to wear European dress when serving in the colonial Parliament",
+   "(B) His complete rejection of Māori culture",
+   "(C) His conversion to Christianity",
+   "(D) A deliberate strategy to work within colonial institutions while retaining Māori identity"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-021",
+  "source_stimulus_words": 39,
+  "stem": "Wi Tako Ngatata, shown with Māori facial tattoos and a European suit, was the first Māori member of New Zealand's colonial legislature. His appearance most likely reflects",
+  "stimulus": "[Painting 1: Gottfried Lindauer's portrait (ca. 1880) of the Māori chieftain and legislator Wi Tako Ngatata, wearing a European suit but with traditional Māori facial tattoos visible. Painting 2: Joshua Reynolds's portrait (1761–1765) of British Captain John Foote wearing Indian dress, including a turban-like headdress.]",
+  "stimulus_words": 45,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "In the 1760s the British East India Company was still mainly a trading concern, and men like Foote lived among Indian society. Choosing Indian dress for a formal portrait suggests genuine interest or admiration — before later Victorian attitudes hardened into rigid racial separation.",
+  "id": "wh-barrons-t2-022",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. A formal portrait in Indian dress signals real engagement with Indian culture in the early Company period.",
+   "B": "Wrong. Direct crown rule began only in 1858, a century later.",
+   "C": "Wrong. The portrait was painted by Reynolds in London for Foote himself.",
+   "D": "Wrong. No such requirement existed; the choice was personal."
+  },
+  "options": [
+   "(A) Some Britons in India were genuinely attracted to Indian culture",
+   "(B) The British crown already ruled most of India directly",
+   "(C) Indian rulers commissioned portraits of British officers as diplomatic gifts to London",
+   "(D) British officials were required to wear Indian clothing"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-022",
+  "source_stimulus_words": 39,
+  "stem": "In the 1760s, when the second portrait was painted, Britain's presence in India was still mainly commercial. Foote's choice of Indian dress best supports which conclusion about that period?",
+  "stimulus": "[Painting 1: Gottfried Lindauer's portrait (ca. 1880) of the Māori chieftain and legislator Wi Tako Ngatata, wearing a European suit but with traditional Māori facial tattoos visible. Painting 2: Joshua Reynolds's portrait (1761–1765) of British Captain John Foote wearing Indian dress, including a turban-like headdress.]",
+  "stimulus_words": 45,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Foote, an officer of the more powerful culture, adopted the dress of the people Britain was coming to dominate. Modern historians would note the imbalance: borrowing by the powerful from the less powerful carries different weight than equal exchange.",
+  "id": "wh-barrons-t2-023",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Wearing Indian dress for a portrait did not mean abandoning British identity.",
+   "B": "Correct. The portrait shows cultural borrowing shaped by colonial inequality — the concept behind modern discussions of appropriation.",
+   "C": "Wrong. Clothing choice alone proves nothing about religious conversion.",
+   "D": "Wrong. Nothing suggests Foote opposed imperial policy; he served it."
+  },
+  "options": [
+   "(A) Foote's rejection of his British nationality in favor of becoming an Indian subject",
+   "(B) Cultural borrowing within an unequal colonial relationship",
+   "(C) Proof that Foote converted to Hinduism",
+   "(D) A protest against British imperial policy"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t2-023",
+  "source_stimulus_words": 39,
+  "stem": "A present-day historian would most likely describe Foote's adoption of Indian dress as an example of",
+  "stimulus": "[Painting 1: Gottfried Lindauer's portrait (ca. 1880) of the Māori chieftain and legislator Wi Tako Ngatata, wearing a European suit but with traditional Māori facial tattoos visible. Painting 2: Joshua Reynolds's portrait (1761–1765) of British Captain John Foote wearing Indian dress, including a turban-like headdress.]",
+  "stimulus_words": 45,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "An anthem praising 'our workers' air force, the first in the world' turns a military branch into a source of collective pride. The early Soviet state used songs, posters, and poems like this to bind citizens emotionally to the revolution.",
+  "id": "wh-barrons-t2-024",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The anthem celebrates the air force; it would attract, not discourage, recruits.",
+   "B": "Wrong. The Soviet state was officially atheist; the anthem has no religious content.",
+   "C": "Correct. The anthem is state-sponsored culture designed to build loyalty.",
+   "D": "Wrong. The USSR abolished private business; the air force was state-owned."
+  },
+  "options": [
+   "(A) discourage young people from joining the military",
+   "(B) promote religious devotion among soldiers",
+   "(C) build popular loyalty to the new regime and its institutions",
+   "(D) encourage private businesses to build airplanes"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-024",
+  "source_stimulus_words": 104,
+  "stem": "The anthem's praise of 'our workers' air force, the first in the world' shows the Soviet state using culture to",
+  "stimulus": "From 'Ever Higher' (1920), an anthem of the early Soviet air force, by Pavel German and Julius Khait: 'We were born to make fairy tales come true, to overcome distance and space. Our reason has given steel wings to our hands, and throbbing motors in place of our hearts. Ever higher, higher and higher we speed the flight of our birds, and in every propeller breathes the tranquility of our borders. ... We feel our air force growing stronger — our workers' air force, the first in the world.'",
+  "stimulus_words": 89,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Early Soviet ideology held that a backward Russia could be transformed by mastering nature through industry and technology — conquering the country's vast distances was part of conquering backwardness itself.",
+  "id": "wh-barrons-t2-025",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The space program began decades later, in the 1950s.",
+   "B": "Wrong. The lines are about distance and nature, not invading neighbors.",
+   "C": "Wrong. The anthem celebrates applied technology, not theoretical physics.",
+   "D": "Correct. 'Overcoming distance and space' expresses the Soviet faith that technology could master nature for human progress."
+  },
+  "options": [
+   "(A) To begin exploring outer space immediately",
+   "(B) To expand Soviet territory through military conquest",
+   "(C) To discover new laws of physics",
+   "(D) To master nature and distance through technology and industry"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-025",
+  "source_stimulus_words": 104,
+  "stem": "The lines about overcoming 'distance and space' reflect which central ambition of early Soviet leaders?",
+  "stimulus": "From 'Ever Higher' (1920), an anthem of the early Soviet air force, by Pavel German and Julius Khait: 'We were born to make fairy tales come true, to overcome distance and space. Our reason has given steel wings to our hands, and throbbing motors in place of our hearts. Ever higher, higher and higher we speed the flight of our birds, and in every propeller breathes the tranquility of our borders. ... We feel our air force growing stronger — our workers' air force, the first in the world.'",
+  "stimulus_words": 89,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Bolsheviks claimed to rule in the name of workers. Calling the air force the 'workers' air force' wrapped a military institution in that legitimacy, making national defense feel like the workers' own cause.",
+  "id": "wh-barrons-t2-026",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The phrase links the military to the regime's core claim — that it embodied the working class.",
+   "B": "Wrong. The phrase is political labeling, not a claim about who engineered the planes.",
+   "C": "Wrong. The anthem praises the Soviet military; its authors supported the regime.",
+   "D": "Wrong. The Red Army was controlled by the party and state, not by workers directly."
+  },
+  "options": [
+   "(A) Tied military strength to the regime's claim to represent the working class",
+   "(B) Proved that workers had designed the airplanes themselves",
+   "(C) Showed that the anthem's authors opposed the government",
+   "(D) Promised that workers would control the military directly through elected soldiers' councils"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-026",
+  "source_stimulus_words": 104,
+  "stem": "Calling the air force 'our workers' air force' was significant mainly because it",
+  "stimulus": "From 'Ever Higher' (1920), an anthem of the early Soviet air force, by Pavel German and Julius Khait: 'We were born to make fairy tales come true, to overcome distance and space. Our reason has given steel wings to our hands, and throbbing motors in place of our hearts. Ever higher, higher and higher we speed the flight of our birds, and in every propeller breathes the tranquility of our borders. ... We feel our air force growing stronger — our workers' air force, the first in the world.'",
+  "stimulus_words": 89,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The anthem is plain-spoken, heroic, and optimistic about the Soviet project. Under Stalin, this became the official formula — socialist realism: art had to be accessible to ordinary people and serve socialist ideals, while experimental styles were suppressed.",
+  "id": "wh-barrons-t2-027",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Stalin's regime suppressed abstract and experimental art.",
+   "B": "Correct. Simple heroic language in service of the state is the essence of socialist realism.",
+   "C": "Wrong. The state funded the arts heavily — but only approved styles.",
+   "D": "Wrong. Soviet cultural policy rejected Western modernism as decadent."
+  },
+  "options": [
+   "(A) Artists should be free to experiment with abstract forms without state interference",
+   "(B) Art should be easily understood and promote socialist ideals",
+   "(C) The state should stop funding art and literature",
+   "(D) Soviet artists should imitate Western modernism"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-027",
+  "source_stimulus_words": 104,
+  "stem": "The anthem's simple, heroic style foreshadows which later Soviet approach to the arts?",
+  "stimulus": "From 'Ever Higher' (1920), an anthem of the early Soviet air force, by Pavel German and Julius Khait: 'We were born to make fairy tales come true, to overcome distance and space. Our reason has given steel wings to our hands, and throbbing motors in place of our hearts. Ever higher, higher and higher we speed the flight of our birds, and in every propeller breathes the tranquility of our borders. ... We feel our air force growing stronger — our workers' air force, the first in the world.'",
+  "stimulus_words": 89,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Forests pull carbon dioxide out of the air as they grow; destroying them both releases stored carbon and removes future absorption. Faster tree-cover loss therefore directly accelerates the buildup of greenhouse gases.",
+  "id": "wh-barrons-t2-028",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Ozone depletion is caused by industrial chemicals, not deforestation.",
+   "B": "Wrong. Acid rain comes from sulfur and nitrogen emissions, not forest loss.",
+   "C": "Correct. Less forest means more carbon dioxide accumulating in the atmosphere.",
+   "D": "Wrong. Desertification has many causes, but the chart's global significance is the carbon link."
+  },
+  "options": [
+   "(A) The thinning of the ozone layer over Antarctica",
+   "(B) Acid rain falling on industrial cities",
+   "(C) The buildup of greenhouse gases warming the planet",
+   "(D) The spread of deserts into grasslands"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-028",
+  "source_stimulus_words": 20,
+  "stem": "Growing forests absorb large amounts of carbon dioxide. The trend shown in the chart therefore most directly worsens which problem?",
+  "stimulus": "[Chart: 'Acceleration of Tree Cover Loss, 2001–2014' (World Resources Institute). A world map highlighting tropical regions — including parts of Southeast Asia, Central Africa, and South America — where the annual rate of forest loss sped up during the period.]",
+  "stimulus_words": 40,
+  "themes": [
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The chart shows the change in the rate of loss — the acceleration. It tells us the pace is quickening and where, but says nothing about the total forest area left standing.",
+  "id": "wh-barrons-t2-029",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The chart's whole point is showing whether the pace is speeding up.",
+   "B": "Wrong. The map highlights exactly which regions are accelerating fastest.",
+   "C": "Wrong. The map shows the trend across several continents.",
+   "D": "Correct. A rate-of-change chart cannot reveal total remaining forest area."
+  },
+  "options": [
+   "(A) Whether the pace of forest loss is speeding up or slowing down",
+   "(B) Which regions show the fastest acceleration of loss",
+   "(C) Whether the trend spans multiple continents",
+   "(D) How much forest remains standing worldwide"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-029",
+  "source_stimulus_words": 20,
+  "stem": "The chart measures how quickly the rate of tree-cover loss is changing, not how much forest exists in total. Which question can the chart therefore NOT answer?",
+  "stimulus": "[Chart: 'Acceleration of Tree Cover Loss, 2001–2014' (World Resources Institute). A world map highlighting tropical regions — including parts of Southeast Asia, Central Africa, and South America — where the annual rate of forest loss sped up during the period.]",
+  "stimulus_words": 40,
+  "themes": [
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Oil palm grows in the humid tropics shown on the map, and plantations require clear-cutting forest first. Soaring global demand for palm oil — used in processed foods and cosmetics — has made it a leading driver of tropical deforestation.",
+  "id": "wh-barrons-t2-030",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Oil palm plantations in Southeast Asia, Africa, and South America are a primary cause of tropical forest clearing.",
+   "B": "Wrong. Wheat is a temperate crop, unsuited to the tropical regions highlighted.",
+   "C": "Wrong. Coal mining clears far less tropical forest than plantation agriculture.",
+   "D": "Wrong. Sheep ranching is concentrated in temperate grasslands, not tropical forests."
+  },
+  "options": [
+   "(A) Planting oil palm for use in food products and cosmetics",
+   "(B) Growing wheat for export markets on large cleared plantations in the tropics",
+   "(C) Mining coal for electricity",
+   "(D) Raising sheep for wool"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-030",
+  "source_stimulus_words": 20,
+  "stem": "The regions highlighted are mostly tropical. Which economic activity best explains why tropical forests are cleared on a large scale?",
+  "stimulus": "[Chart: 'Acceleration of Tree Cover Loss, 2001–2014' (World Resources Institute). A world map highlighting tropical regions — including parts of Southeast Asia, Central Africa, and South America — where the annual rate of forest loss sped up during the period.]",
+  "stimulus_words": 40,
+  "themes": [
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Acceleration measures whether the rate itself is rising. A region can lose huge areas every year yet not appear on this chart if its annual loss stays constant — the rate isn't accelerating even though the damage continues.",
+  "id": "wh-barrons-t2-031",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Total prior loss doesn't determine whether the current rate is accelerating.",
+   "B": "Correct. Steady annual loss means zero acceleration, so the region wouldn't stand out on this chart.",
+   "C": "Wrong. A logging ban would reduce the rate — the opposite of the chart's concern.",
+   "D": "Wrong. Full replanting would lower net loss, not hide acceleration."
+  },
+  "options": [
+   "(A) It had already lost all of its forests before 2001",
+   "(B) Its yearly rate of loss stopped rising and held steady",
+   "(C) Its government banned logging during the period",
+   "(D) It replanted every tree that was cut down"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-031",
+  "source_stimulus_words": 20,
+  "stem": "Because the chart tracks the acceleration of loss rather than total loss, a region suffering severe, long-running deforestation might not stand out if",
+  "stimulus": "[Chart: 'Acceleration of Tree Cover Loss, 2001–2014' (World Resources Institute). A world map highlighting tropical regions — including parts of Southeast Asia, Central Africa, and South America — where the annual rate of forest loss sped up during the period.]",
+  "stimulus_words": 40,
+  "themes": [
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 9
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Both authors insist women should stay out of 'participation in power.' The direct rebuttal came from the organized suffrage movements of the late 1800s, which demanded exactly what Bushnell and Comte said women should shun — the vote.",
+  "id": "wh-barrons-t2-032",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Household devices changed domestic labor, not women's exclusion from politics.",
+   "B": "Wrong. University admission mattered, but the passages target political power specifically.",
+   "C": "Correct. Suffrage movements directly challenged the claim that women belonged outside public life.",
+   "D": "Wrong. Church attendance trends don't address the passages' argument about power."
+  },
+  "options": [
+   "(A) The invention of labor-saving household devices",
+   "(B) The admission of women to universities in large numbers",
+   "(C) Organized movements demanding women's right to vote",
+   "(D) The decline of church attendance in cities"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-032",
+  "source_stimulus_words": 211,
+  "stem": "Both authors praise women's moral qualities while opposing their entry into public life. Their position was most directly challenged by which development of the late 1800s?",
+  "stimulus": "Passage 1 — Horace Bushnell, American minister, Women's Suffrage: The Reform Against Nature (1869): Bushnell argued that women rise 'far above equality with men' when they keep their 'pure atmosphere of silence' and 'field of peace,' creating a realm where wounded men 'may come in, to be quieted, and civilized.' Passage 2 — Auguste Comte, French sociologist, System of Positive Polity (1854): Comte wrote that women's proper independence rested on their exemption from work outside the home, calling women 'priestesses of humanity in the family circle' who should 'shrink from any participation in power as in its very nature degrading.'",
+  "stimulus_words": 100,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Both authors flatter women — 'angelic,' 'priestesses of humanity' — and then use that flattery as the reason women are too pure for the dirty world of politics and business. The praise is the mechanism of the exclusion.",
+  "id": "wh-barrons-t2-033",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Neither author argues from physical weakness.",
+   "B": "Wrong. Neither author mentions brain size.",
+   "C": "Wrong. Neither author focuses on the family economy.",
+   "D": "Correct. Complimenting women's moral superiority becomes the justification for denying them power."
+  },
+  "options": [
+   "(A) Arguing that women are physically too weak for public life and needed male protection",
+   "(B) Claiming that women's brains are smaller than men's",
+   "(C) Warning that voting would destroy the family economy",
+   "(D) Praising women's virtues in order to justify keeping them out of power"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-033",
+  "source_stimulus_words": 211,
+  "stem": "Which phrase best describes the authors' shared rhetorical strategy?",
+  "stimulus": "Passage 1 — Horace Bushnell, American minister, Women's Suffrage: The Reform Against Nature (1869): Bushnell argued that women rise 'far above equality with men' when they keep their 'pure atmosphere of silence' and 'field of peace,' creating a realm where wounded men 'may come in, to be quieted, and civilized.' Passage 2 — Auguste Comte, French sociologist, System of Positive Polity (1854): Comte wrote that women's proper independence rested on their exemption from work outside the home, calling women 'priestesses of humanity in the family circle' who should 'shrink from any participation in power as in its very nature degrading.'",
+  "stimulus_words": 100,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Bushnell, a minister, frames women's subordination as a moral and religious matter; Comte, a sociologist, frames it as the rational structure of a properly ordered society. Same conclusion, different foundations — faith versus would-be science.",
+  "id": "wh-barrons-t2-034",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The minister argues from religion and morals; the sociologist argues from his 'science' of society.",
+   "B": "Wrong. Both men oppose women's suffrage.",
+   "C": "Wrong. Their professions are the reverse: Bushnell was the minister, Comte the sociologist.",
+   "D": "Wrong. Neither author uses statistics or scripture as his main evidence."
+  },
+  "options": [
+   "(A) Bushnell appeals to religious morality, while Comte presents his view as the natural order of a well-run society",
+   "(B) Bushnell supports women's suffrage, while Comte opposes it",
+   "(C) Comte writes as a minister, while Bushnell writes as a scientist",
+   "(D) Bushnell bases his case on economic statistics about women's wages and property, while Comte relies on scripture and church doctrine"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t2-034",
+  "source_stimulus_words": 211,
+  "stem": "Although both authors reach the same conclusion, their reasoning differs in that",
+  "stimulus": "Passage 1 — Horace Bushnell, American minister, Women's Suffrage: The Reform Against Nature (1869): Bushnell argued that women rise 'far above equality with men' when they keep their 'pure atmosphere of silence' and 'field of peace,' creating a realm where wounded men 'may come in, to be quieted, and civilized.' Passage 2 — Auguste Comte, French sociologist, System of Positive Polity (1854): Comte wrote that women's proper independence rested on their exemption from work outside the home, calling women 'priestesses of humanity in the family circle' who should 'shrink from any participation in power as in its very nature degrading.'",
+  "stimulus_words": 100,
+  "themes": [
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Both passages confine women's influence to the home and family — Bushnell's 'field of peace,' Comte's 'family circle' — while praising their moral nature. That is the nineteenth-century cult of domesticity: women as the moral center of the private sphere, excluded from the public one.",
+  "id": "wh-barrons-t2-035",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Neither author imagines women in armies.",
+   "B": "Correct. Moral authority at home combined with exclusion from public power defines the cult of domesticity.",
+   "C": "Wrong. Comte explicitly wants women exempted from work outside the home.",
+   "D": "Wrong. Both authors defend traditional family roles, not their abolition."
+  },
+  "options": [
+   "(A) The belief that women should serve in national armies",
+   "(B) The 'cult of domesticity,' which assigned women moral authority within the home but not in public life",
+   "(C) The belief that women were naturally suited to factory management and should supervise male workers in textile mills",
+   "(D) The movement to abolish marriage entirely"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-035",
+  "source_stimulus_words": 211,
+  "stem": "The passages reflect which widely held nineteenth-century ideal about gender?",
+  "stimulus": "Passage 1 — Horace Bushnell, American minister, Women's Suffrage: The Reform Against Nature (1869): Bushnell argued that women rise 'far above equality with men' when they keep their 'pure atmosphere of silence' and 'field of peace,' creating a realm where wounded men 'may come in, to be quieted, and civilized.' Passage 2 — Auguste Comte, French sociologist, System of Positive Polity (1854): Comte wrote that women's proper independence rested on their exemption from work outside the home, calling women 'priestesses of humanity in the family circle' who should 'shrink from any participation in power as in its very nature degrading.'",
+  "stimulus_words": 100,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Repeating rifles and machine guns let small European forces defeat larger African armies, while quinine and other malaria treatments let Europeans survive in the interior. Without these industrial-era advantages, the partition shown on the map would have been impossible.",
+  "id": "wh-barrons-t2-036",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Borders were drawn by Europeans, often at the Berlin Conference, not at African invitation.",
+   "B": "Wrong. The United States did not finance European colonialism in Africa.",
+   "C": "Correct. Military technology and tropical medicine were the practical enablers of the scramble.",
+   "D": "Wrong. Trade between Europe and Africa continued and expanded under colonialism."
+  },
+  "options": [
+   "(A) African rulers inviting European powers to draw their borders at conferences held in European capitals like Berlin",
+   "(B) The United States financing European colonial administrations",
+   "(C) Industrial-era weapons and medicines that let Europeans defeat African states and survive in the interior",
+   "(D) The end of all trade between Europe and Africa"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-036",
+  "source_stimulus_words": 16,
+  "stem": "Which development most directly enabled Europeans to impose the boundaries shown on the map?",
+  "stimulus": "[Map: Africa around 1900, divided into European colonies and protectorates — British, French, German, Portuguese, Belgian, and Italian holdings covering nearly the entire continent, with only Ethiopia and Liberia uncolonized.]",
+  "stimulus_words": 30,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The straight-line borders on the map slice through kingdoms and ethnic groups alike — the signature of boundaries drawn by distant Europeans, at conferences like Berlin (1884–85), without consulting the Africans who lived within them.",
+  "id": "wh-barrons-t2-037",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Africans were not present at the Berlin Conference.",
+   "B": "Wrong. The borders famously ignored ethnic divisions, often splitting groups apart.",
+   "C": "Wrong. African empires were the victims, not the authors, of the partition.",
+   "D": "Correct. The artificial borders reflect European decisions made without African input."
+  },
+  "options": [
+   "(A) African leaders negotiated the borders at conferences in Europe alongside colonial officials",
+   "(B) Borders followed long-established ethnic divisions",
+   "(C) The partition was carried out mainly by African empires",
+   "(D) Europeans drew the boundaries with little regard for African peoples"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-037",
+  "source_stimulus_words": 16,
+  "stem": "The map's borders cut across existing African societies and kingdoms. This pattern best illustrates which feature of the partition of Africa?",
+  "stimulus": "[Map: Africa around 1900, divided into European colonies and protectorates — British, French, German, Portuguese, Belgian, and Italian holdings covering nearly the entire continent, with only Ethiopia and Liberia uncolonized.]",
+  "stimulus_words": 30,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Conrad worked in the Congo and wrote Heart of Darkness (1899) about the greed and brutality of the colonial enterprise there. The novel became one of the most famous literary attacks on the abuses of the Congo Free State.",
+  "id": "wh-barrons-t2-038",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Heart of Darkness drew directly on Conrad's experience of the Congo's brutal labor regime.",
+   "B": "Wrong. Kipling's poem defended imperialism rather than exposing its abuses.",
+   "C": "Wrong. Verne's adventure novel has nothing to do with the Congo.",
+   "D": "Wrong. Twain's novel is set on the Mississippi, not in Africa."
+  },
+  "options": [
+   "(A) Joseph Conrad's novel Heart of Darkness",
+   "(B) Rudyard Kipling's poem 'The White Man's Burden'",
+   "(C) Jules Verne's novel Around the World in Eighty Days",
+   "(D) Mark Twain's novel The Adventures of Tom Sawyer"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-038",
+  "source_stimulus_words": 16,
+  "stem": "The territory shown as the Congo Free State became notorious for forced labor and brutality under Belgian rule. Which work drew international attention to these abuses?",
+  "stimulus": "[Map: Africa around 1900, divided into European colonies and protectorates — British, French, German, Portuguese, Belgian, and Italian holdings covering nearly the entire continent, with only Ethiopia and Liberia uncolonized.]",
+  "stimulus_words": 30,
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In 1896 Emperor Menelik II's army crushed the Italian invaders at Adwa — one of the rare nineteenth-century cases of an African state decisively defeating a European power. The victory forced Europe to recognize Ethiopian independence.",
+  "id": "wh-barrons-t2-039",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. It was Liberia, not Ethiopia, that had American patronage.",
+   "B": "Correct. The victory at Adwa is what kept Ethiopia off the colonial map.",
+   "C": "Wrong. Italy clearly wanted Ethiopia enough to invade it.",
+   "D": "Wrong. Ethiopia was never a British protectorate."
+  },
+  "options": [
+   "(A) Ethiopia was protected by a treaty with the United States",
+   "(B) Ethiopian forces defeated an Italian invasion at the Battle of Adwa in 1896",
+   "(C) European powers agreed that Ethiopia had no valuable resources worth the cost of conquest",
+   "(D) Ethiopia voluntarily became a British protectorate"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-039",
+  "source_stimulus_words": 16,
+  "stem": "Ethiopia is one of only two African territories on the map not under European control. Which best explains Ethiopia's exception?",
+  "stimulus": "[Map: Africa around 1900, divided into European colonies and protectorates — British, French, German, Portuguese, Belgian, and Italian holdings covering nearly the entire continent, with only Ethiopia and Liberia uncolonized.]",
+  "stimulus_words": 30,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Lin wrote in 1839 as he confiscated British opium at Canton. His actions triggered Britain's military response — the First Opium War (1839–42), which ended with the Treaty of Nanjing.",
+  "id": "wh-barrons-t2-040",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. The Boxer Rebellion came sixty years later, in 1900.",
+   "B": "Wrong. The Taiping Rebellion (1850–64) was an internal Chinese uprising, not a war with Britain.",
+   "C": "Correct. The letter belongs to the immediate run-up to the First Opium War.",
+   "D": "Wrong. The Sino-Japanese War was fought in 1894–95."
+  },
+  "options": [
+   "(A) The Boxer Rebellion",
+   "(B) The Taiping Rebellion",
+   "(C) The First Opium War between Britain and China",
+   "(D) The Sino-Japanese War"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-040",
+  "source_stimulus_words": 188,
+  "stem": "Lin's letter was written on the eve of which conflict?",
+  "stimulus": "From a letter by Lin Zexu, Chinese imperial commissioner, to Queen Victoria (1839): Lin protested that Britain was sending China a 'poisonous drug' — opium — out of an 'inordinate thirst after gain,' careless of the harm done. He noted that opium was strictly prohibited in Britain itself, 'a strong proof that you know full well how hurtful it is to mankind,' and asked why Britain would send to China what it banned at home.",
+  "stimulus_words": 75,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Lin's whole argument is an appeal to consistency: Britain bans opium at home because it knows the drug is harmful, so it should be ashamed to sell it abroad. The argument only works if he assumes Britain cares about living up to its own standards.",
+  "id": "wh-barrons-t2-041",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Lin makes no military threats in this passage.",
+   "B": "Wrong. Lin explicitly says Britain knows 'full well how hurtful it is.'",
+   "C": "Wrong. Lin accuses Britain of greed, not of planning conquest.",
+   "D": "Correct. The hypocrisy charge assumes Britain would want its actions abroad to match its laws at home."
+  },
+  "options": [
+   "(A) Feared the military power of the Qing dynasty and wanted to avoid provoking it",
+   "(B) Knew nothing about the effects of opium",
+   "(C) Intended to conquer China outright",
+   "(D) Would want its foreign actions to match its domestic standards"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-041",
+  "source_stimulus_words": 188,
+  "stem": "Lin's central argument assumes that the British government",
+  "stimulus": "From a letter by Lin Zexu, Chinese imperial commissioner, to Queen Victoria (1839): Lin protested that Britain was sending China a 'poisonous drug' — opium — out of an 'inordinate thirst after gain,' careless of the harm done. He noted that opium was strictly prohibited in Britain itself, 'a strong proof that you know full well how hurtful it is to mankind,' and asked why Britain would send to China what it banned at home.",
+  "stimulus_words": 75,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Britain bought enormous quantities of Chinese tea and silk, but China wanted almost nothing Britain made, so silver flowed east. Opium — grown in British India — was the one product that sold in China, and it reversed the flow of silver.",
+  "id": "wh-barrons-t2-042",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The trade imbalance drove Britain to find something, anything, that Chinese buyers would purchase.",
+   "B": "Wrong. The Qing government banned opium; Lin's letter protests the trade.",
+   "C": "Wrong. Opium was illegal in China, which is why Lin was confiscating it.",
+   "D": "Wrong. British factories did not depend on Chinese labor."
+  },
+  "options": [
+   "(A) Chinese buyers purchased few British goods, leaving Britain with a large trade deficit",
+   "(B) The Qing government had secretly requested opium imports to raise tax revenue for the imperial treasury in Canton",
+   "(C) Opium was legal in both Britain and China",
+   "(D) British factories depended on Chinese labor"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-042",
+  "source_stimulus_words": 188,
+  "stem": "British merchants turned to the opium trade largely because",
+  "stimulus": "From a letter by Lin Zexu, Chinese imperial commissioner, to Queen Victoria (1839): Lin protested that Britain was sending China a 'poisonous drug' — opium — out of an 'inordinate thirst after gain,' careless of the harm done. He noted that opium was strictly prohibited in Britain itself, 'a strong proof that you know full well how hurtful it is to mankind,' and asked why Britain would send to China what it banned at home.",
+  "stimulus_words": 75,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Britain won the war decisively. The Treaty of Nanjing (1842) forced China to open ports to British trade, cede Hong Kong, and grant extraterritoriality — the first of the 'unequal treaties' that defined China's nineteenth century.",
+  "id": "wh-barrons-t2-043",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Westerners gained more access to China, not less.",
+   "B": "Correct. Military defeat brought the unequal treaties and expanded Western commercial privileges.",
+   "C": "Wrong. The opium trade continued and even grew after the war.",
+   "D": "Wrong. China lost the war; Britain expanded its presence."
+  },
+  "options": [
+   "(A) The permanent expulsion of all Westerners from China",
+   "(B) Treaties forcing China to open ports and grant Britain commercial privileges",
+   "(C) A Qing-enforced end to the opium trade",
+   "(D) Chinese military victory followed by the complete British withdrawal from all Asian waters"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-043",
+  "source_stimulus_words": 188,
+  "stem": "Lin's seizure and destruction of British opium helped provoke a war that ended with",
+  "stimulus": "From a letter by Lin Zexu, Chinese imperial commissioner, to Queen Victoria (1839): Lin protested that Britain was sending China a 'poisonous drug' — opium — out of an 'inordinate thirst after gain,' careless of the harm done. He noted that opium was strictly prohibited in Britain itself, 'a strong proof that you know full well how hurtful it is to mankind,' and asked why Britain would send to China what it banned at home.",
+  "stimulus_words": 75,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Spanish authorities demanded Catholic worship, but Andean peoples poured their own meanings into it — seeing the Virgin in their mountain goddess Pachamama. The painting shows indigenous belief surviving inside the colonizer's religion.",
+  "id": "wh-barrons-t2-044",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Missionaries did not abandon Catholicism; the blending came from the Andean side.",
+   "B": "Wrong. The Inca Empire had fallen to Spain two centuries earlier.",
+   "C": "Correct. The fusion reflects Andean peoples making Catholic imagery their own.",
+   "D": "Wrong. Protestantism had no significant presence in the colonial Andes."
+  },
+  "options": [
+   "(A) Spanish missionaries abandoning Catholic teachings",
+   "(B) The Inca Empire's conquest of Spanish missionaries",
+   "(C) Andean peoples adapting Catholic imagery to express their own beliefs under Spanish rule",
+   "(D) Protestant reformers active in the Andes"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-044",
+  "source_stimulus_words": 30,
+  "stem": "The painting merges the Virgin Mary with Pachamama, the Andean earth goddess. This fusion most directly resulted from",
+  "stimulus": "[Painting: Our Lady of Cerro Rico de Potosí, ca. 1720. The Virgin Mary is merged with a mountain: her robed body forms the shape of Cerro Rico, with the Trinity crowning her head and indigenous and Spanish figures gathered at the mountain's base.]",
+  "stimulus_words": 43,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The painting is neither purely European nor purely Andean — it is both at once. That blending of traditions under colonial rule is the broader pattern historians call syncretism, visible across religion, art, and language in Spanish America.",
+  "id": "wh-barrons-t2-045",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The painting proves indigenous beliefs were not erased — they were woven into the new art.",
+   "B": "Wrong. The painting uses the European religious-art form; it doesn't reject it.",
+   "C": "Wrong. The painting is Catholic in form; Protestantism is irrelevant here.",
+   "D": "Correct. The Virgin-Pachamama image exemplifies the fusion of European and indigenous traditions."
+  },
+  "options": [
+   "(A) The complete erasure of indigenous belief systems",
+   "(B) The rejection of European artistic styles by native painters",
+   "(C) The spread of Protestantism through the Andes",
+   "(D) The fusion of European and indigenous cultural traditions"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t2-045",
+  "source_stimulus_words": 30,
+  "stem": "The painting's blend of European and Andean sacred imagery best illustrates which broader pattern in colonial Latin America?",
+  "stimulus": "[Painting: Our Lady of Cerro Rico de Potosí, ca. 1720. The Virgin Mary is merged with a mountain: her robed body forms the shape of Cerro Rico, with the Trinity crowning her head and indigenous and Spanish figures gathered at the mountain's base.]",
+  "stimulus_words": 43,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Cerro Rico's silver made Potosí one of the world's great mining centers. Its output flowed through Spanish trade networks to Europe and — via Manila — to China, tying the Americas into a genuinely global economy.",
+  "id": "wh-barrons-t2-046",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. Potosí silver was the engine of the early modern global silver trade.",
+   "B": "Wrong. Sugar was a Caribbean and Brazilian product, not an Andean mountain one.",
+   "C": "Wrong. The fur trade belonged to North America.",
+   "D": "Wrong. Andean textiles were not a major global export; silver was."
+  },
+  "options": [
+   "(A) The flow of American silver to Europe and Asia",
+   "(B) The rise of Caribbean sugar plantations",
+   "(C) The North American fur trade",
+   "(D) The export of Andean textiles to West African markets across the Atlantic"
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-046",
+  "source_stimulus_words": 30,
+  "stem": "Cerro Rico, the mountain at the center of the painting, was central to which development in the early modern global economy?",
+  "stimulus": "[Painting: Our Lady of Cerro Rico de Potosí, ca. 1720. The Virgin Mary is merged with a mountain: her robed body forms the shape of Cerro Rico, with the Trinity crowning her head and indigenous and Spanish figures gathered at the mountain's base.]",
+  "stimulus_words": 43,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Like the Potosí painting, Haitian Vodou grew where an imposed Catholicism met African beliefs: enslaved Africans identified their spirits with Catholic saints, creating a blended religion. Both are products of religious fusion under colonial conditions.",
+  "id": "wh-barrons-t2-047",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Lutheranism was a reform movement within European Christianity, not a fusion of two cultures.",
+   "B": "Correct. Vodou, like the painting, blends Catholic and non-European religious elements.",
+   "C": "Wrong. Wahhabism was a purification movement within Islam, the opposite of blending.",
+   "D": "Wrong. Methodism developed within English Protestantism without cross-cultural fusion."
+  },
+  "options": [
+   "(A) Lutheranism in northern Europe, which blended Catholic ritual with Norse pagan beliefs",
+   "(B) Haitian Vodou, combining Catholic saints with West African spirits",
+   "(C) Wahhabism in Arabia",
+   "(D) Methodism in England"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": "barrons-tests-t2-047",
+  "source_stimulus_words": 30,
+  "stem": "Which of the following arose through a process of religious blending most similar to the one shown in the painting?",
+  "stimulus": "[Painting: Our Lady of Cerro Rico de Potosí, ca. 1720. The Virgin Mary is merged with a mountain: her robed body forms the shape of Cerro Rico, with the Trinity crowning her head and indigenous and Spanish figures gathered at the mountain's base.]",
+  "stimulus_words": 43,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Wagner argues that by portraying thuggee as a vast, terrifying conspiracy that only he could dismantle, Sleeman made himself indispensable — turning a law-enforcement campaign into a career-building performance for his superiors.",
+  "id": "wh-barrons-t2-048",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Parliament never abolished the caste system.",
+   "B": "Wrong. The campaign was about policing, not military recruitment.",
+   "C": "Correct. Wagner's central claim is that exaggerating the threat served Sleeman's ambitions.",
+   "D": "Wrong. The campaign had no missionary purpose."
+  },
+  "options": [
+   "(A) It persuaded Parliament to abolish the caste system",
+   "(B) It recruited thousands of Indian soldiers for the British army's campaigns in Afghanistan",
+   "(C) It helped Sleeman advance his career within the British administration",
+   "(D) It convinced Indians to convert to Christianity"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-048",
+  "source_stimulus_words": 130,
+  "stem": "According to Wagner, Sleeman's dramatic account of thuggee served which purpose in addition to fighting crime?",
+  "stimulus": "Historian Kim Wagner ('The Deconstructed Stranglers,' 2004) reexamines the British campaign against 'thuggee' — alleged gangs who robbed and strangled travelers in early-1800s India in the name of the goddess Kali. Wagner argues that the British official William Sleeman, who led the campaign in the 1830s, built his account on inconsistencies and exaggerations, presenting thuggee as a vast, organized menace partly to advance his own standing within the colonial administration.",
+  "stimulus_words": 70,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Wagner takes a story the British told about themselves — heroic officials crushing a murderous cult — and dismantles it by exposing exaggerations in the colonial sources. Reexamining accepted narratives with a critical eye is what historians mean by revisionism.",
+  "id": "wh-barrons-t2-049",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. Wagner is a modern historian analyzing sources, not a participant writing a memoir.",
+   "B": "Wrong. The article is about colonial narratives, not trade economics.",
+   "C": "Wrong. The article is scholarly history based on archival evidence.",
+   "D": "Correct. Challenging an established colonial narrative through source criticism is revisionist scholarship."
+  },
+  "options": [
+   "(A) A primary-source memoir written by a British colonial official who served in India",
+   "(B) An economic analysis of Indian trade",
+   "(C) A work of historical fiction",
+   "(D) Revisionist scholarship questioning colonial-era claims"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Sourcing and Situation",
+  "source_id": "barrons-tests-t2-049",
+  "source_stimulus_words": 130,
+  "stem": "Wagner's article, which challenges a long-accepted colonial narrative using a critical reading of the sources, is best described as an example of",
+  "stimulus": "Historian Kim Wagner ('The Deconstructed Stranglers,' 2004) reexamines the British campaign against 'thuggee' — alleged gangs who robbed and strangled travelers in early-1800s India in the name of the goddess Kali. Wagner argues that the British official William Sleeman, who led the campaign in the 1830s, built his account on inconsistencies and exaggerations, presenting thuggee as a vast, organized menace partly to advance his own standing within the colonial administration.",
+  "stimulus_words": 70,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The standard story — brave Britons suppressing the murderous thugs — cast empire as a rescue mission bringing order to a chaotic India. If the danger was largely invented, that justification collapses: the 'rescue' was solving a problem the British had exaggerated.",
+  "id": "wh-barrons-t2-050",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The thuggee campaign was Exhibit A for the claim that empire brought order; Wagner removes the exhibit.",
+   "B": "Wrong. The thuggee narrative was about lawlessness, not about princes' attitudes.",
+   "C": "Wrong. The campaign was never presented as an economic achievement.",
+   "D": "Wrong. The thuggee story concerned crime, not religious conflict."
+  },
+  "options": [
+   "(A) That British rule rescued India from its own lawlessness",
+   "(B) That British rule was welcomed by all Indian princes",
+   "(C) That British rule made India wealthy",
+   "(D) That British rule ended religious conflict in India"
+  ],
+  "reasoning": "Causation",
+  "skill": "Argumentation",
+  "source_id": "barrons-tests-t2-050",
+  "source_stimulus_words": 130,
+  "stem": "Wagner's claim that the thuggee danger was exaggerated most directly undermines which common defense of British rule in India?",
+  "stimulus": "Historian Kim Wagner ('The Deconstructed Stranglers,' 2004) reexamines the British campaign against 'thuggee' — alleged gangs who robbed and strangled travelers in early-1800s India in the name of the goddess Kali. Wagner argues that the British official William Sleeman, who led the campaign in the 1830s, built his account on inconsistencies and exaggerations, presenting thuggee as a vast, organized menace partly to advance his own standing within the colonial administration.",
+  "stimulus_words": 70,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "British interference with Indian customs — from the thuggee and sati campaigns to the greased cartridges rumored to violate Hindu and Muslim practice — built the resentment that exploded in the 1857 uprising, the largest revolt against British rule in the nineteenth century.",
+  "id": "wh-barrons-t2-051",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Congress was founded decades later as a political organization, not an armed revolt.",
+   "B": "Correct. The 1857 uprising was driven substantially by anger at British meddling with Indian customs.",
+   "C": "Wrong. Partition came in 1947, far beyond 'several decades' after the 1830s.",
+   "D": "Wrong. The Salt March was a 1930 protest against the salt tax, not a revolt over customs."
+  },
+  "options": [
+   "(A) The founding of the Indian National Congress in 1885",
+   "(B) The uprising against British rule in 1857",
+   "(C) The partition of India in 1947",
+   "(D) The Salt March of 1930"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-051",
+  "source_stimulus_words": 130,
+  "stem": "Resentment of British interference with Indian customs and religious practices helped spark which event?",
+  "stimulus": "Historian Kim Wagner ('The Deconstructed Stranglers,' 2004) reexamines the British campaign against 'thuggee' — alleged gangs who robbed and strangled travelers in early-1800s India in the name of the goddess Kali. Wagner argues that the British official William Sleeman, who led the campaign in the 1830s, built his account on inconsistencies and exaggerations, presenting thuggee as a vast, organized menace partly to advance his own standing within the colonial administration.",
+  "stimulus_words": 70,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Fukuzawa argues Japan has already moved 'to the Western civilization' and must 'cast our lot with the civilized nations of the West.' For Meiji reformers, imitating the West was not admiration alone — it was survival, the only way to avoid China's fate.",
+  "id": "wh-barrons-t2-052",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Fukuzawa explicitly rejects isolation; he wants engagement with the West.",
+   "B": "Wrong. He dismisses China as backward and hopeless.",
+   "C": "Correct. 'Good-bye Asia' means adopting Western civilization as Japan's path forward.",
+   "D": "Wrong. He calls Western nations 'civilized' — the opposite of corrupt."
+  },
+  "options": [
+   "(A) Japan should isolate itself from all foreign contact and return to traditional ways",
+   "(B) China should lead the modernization of Asia",
+   "(C) Japan must adopt Western models in order to survive and thrive",
+   "(D) Western civilization was morally corrupt and dangerous"
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": "barrons-tests-t2-052",
+  "source_stimulus_words": 140,
+  "stem": "Fukuzawa's call for Japan to 'leave the ranks of Asian nations' best reflects which belief of Meiji-era reformers?",
+  "stimulus": "From Fukuzawa Yukichi, 'Good-Bye Asia' (1885): 'Japan is located in the eastern extremities of Asia, but the spirit of her people has already moved away from the old conventions of Asia to the Western civilization.' Fukuzawa wrote that China and Korea 'do not know how to progress,' clinging to 'ancient ways and old customs,' and argued that Japan should 'leave the ranks of Asian nations and cast our lot with the civilized nations of the West.'",
+  "stimulus_words": 76,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Fukuzawa contrasts Japan's turn toward 'Western civilization' with neighbors stuck in 'ancient ways.' The implied program is the Meiji one: remake Japan's military, industry, and government on Western models as fast as possible.",
+  "id": "wh-barrons-t2-053",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The Meiji reforms dismantled samurai power; Fukuzawa opposed the old order.",
+   "B": "Wrong. He criticizes exactly this kind of traditional learning.",
+   "C": "Wrong. He demands more Western influence, not less.",
+   "D": "Correct. Rejecting 'ancient ways' means embracing rapid, Western-style modernization."
+  },
+  "options": [
+   "(A) The restoration of rule by samurai warriors under a new military shogunate",
+   "(B) The expansion of Confucian education",
+   "(C) The rejection of all Western influence",
+   "(D) The rapid modernization of its industry and institutions"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-053",
+  "source_stimulus_words": 140,
+  "stem": "Fukuzawa criticizes Japan's neighbors for clinging to 'ancient ways.' His criticism implies that Japan's highest priority should be",
+  "stimulus": "From Fukuzawa Yukichi, 'Good-Bye Asia' (1885): 'Japan is located in the eastern extremities of Asia, but the spirit of her people has already moved away from the old conventions of Asia to the Western civilization.' Fukuzawa wrote that China and Korea 'do not know how to progress,' clinging to 'ancient ways and old customs,' and argued that Japan should 'leave the ranks of Asian nations and cast our lot with the civilized nations of the West.'",
+  "stimulus_words": 76,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "'Good-Bye Asia' is a leading intellectual's manifesto for the Meiji project: Japan should stop identifying with a 'backward' Asia and join the West. Historians cite it as a classic statement of the era's Westernizing ideology.",
+  "id": "wh-barrons-t2-054",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The passage is a primary-source expression of Meiji Westernization.",
+   "B": "Wrong. Fukuzawa wants to leave Asia's ranks, not ally with its nations.",
+   "C": "Wrong. The passage supports the Meiji government's direction; it doesn't oppose it.",
+   "D": "Wrong. The Tokugawa shogunate fell in 1868; the passage is from 1885."
+  },
+  "options": [
+   "(A) Japanese intellectuals' embrace of Westernization during the Meiji period",
+   "(B) Japanese support for a military alliance with China and Korea to resist the Western powers",
+   "(C) Popular opposition to the Meiji government",
+   "(D) The spread of democratic elections in Tokugawa Japan"
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Contextualization",
+  "source_id": "barrons-tests-t2-054",
+  "source_stimulus_words": 140,
+  "stem": "A historian would most likely use this passage as evidence of",
+  "stimulus": "From Fukuzawa Yukichi, 'Good-Bye Asia' (1885): 'Japan is located in the eastern extremities of Asia, but the spirit of her people has already moved away from the old conventions of Asia to the Western civilization.' Fukuzawa wrote that China and Korea 'do not know how to progress,' clinging to 'ancient ways and old customs,' and argued that Japan should 'leave the ranks of Asian nations and cast our lot with the civilized nations of the West.'",
+  "stimulus_words": 76,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Japan learned the West's methods — including imperialism. The modernized military and industry Fukuzawa championed became the tools with which Japan seized Taiwan, Korea, and later much of East Asia, imitating the very empires it had feared.",
+  "id": "wh-barrons-t2-055",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Japan fought in both world wars — against Germany in WWI and as an Axis power in WWII.",
+   "B": "Correct. Western-style modernization enabled Japan's own imperial expansion.",
+   "C": "Wrong. Japan built one of the world's most powerful militaries.",
+   "D": "Wrong. Japan avoided colonization entirely; it became a colonizer instead."
+  },
+  "options": [
+   "(A) Remain neutral in both world wars",
+   "(B) Build its own empire across East Asia",
+   "(C) Abolish its armed forces entirely",
+   "(D) Become an economic colony of Britain"
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": "barrons-tests-t2-055",
+  "source_stimulus_words": 140,
+  "stem": "The program Fukuzawa advocated — adopting Western military and industrial methods — eventually enabled Japan to",
+  "stimulus": "From Fukuzawa Yukichi, 'Good-Bye Asia' (1885): 'Japan is located in the eastern extremities of Asia, but the spirit of her people has already moved away from the old conventions of Asia to the Western civilization.' Fukuzawa wrote that China and Korea 'do not know how to progress,' clinging to 'ancient ways and old customs,' and argued that Japan should 'leave the ranks of Asian nations and cast our lot with the civilized nations of the West.'",
+  "stimulus_words": 76,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ }
+]
