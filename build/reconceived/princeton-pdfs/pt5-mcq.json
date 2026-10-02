@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "The oath shows what the king claimed — authority over a countess's marriage and service — but one document from one vassal cannot by itself prove how widely or consistently that authority was exercised; royal claims often outran royal enforcement in medieval France.",
     "id": "wh-princeton-pdf5-u1-001",
+    "skill_code": "2.C",
+    "topic_code": "1.6",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -35,6 +37,8 @@
     "difficulty": "hard",
     "explanation": "The oath's enforcement mechanism is the point: Matilda's men pledge their own lands and oaths to the king against her, showing how feudal obligation was personal and layered — each link in the chain owed loyalty upward, and the king could activate the lower links against a disloyal vassal.",
     "id": "wh-princeton-pdf5-u1-002",
+    "skill_code": "1.B",
+    "topic_code": "1.6",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -70,6 +74,8 @@
     "difficulty": "hard",
     "explanation": "The oath makes marriage a political instrument — the king controls whom a powerful vassal marries in order to secure loyalty and manage inheritance. Mongol rulers used elite marriage the same way, arranging unions between ruling houses to seal alliances and subordinate peoples to the khan.",
     "id": "wh-princeton-pdf5-u1-003",
+    "skill_code": "5.A",
+    "topic_code": "1.7",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -104,6 +110,8 @@
     "difficulty": "hard",
     "explanation": "The oath presupposes Matilda as a landholder — her men hold fiefs 'from me' — yet the king claims control of her marriage, showing that high-born women could inherit power while still facing gendered constraints on their personal freedom.",
     "id": "wh-princeton-pdf5-u1-004",
+    "skill_code": "1.B",
+    "topic_code": "1.6",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -136,6 +144,8 @@
     "difficulty": "hard",
     "explanation": "The passage describes a working exchange circuit — northern copper traded southward for Sudanese gold at a stated rate — the classic trans-Saharan pattern by which Mali's wealth moved across the desert.",
     "id": "wh-princeton-pdf5-u2-001",
+    "skill_code": "1.A",
+    "topic_code": "2.4",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -170,6 +180,8 @@
     "difficulty": "hard",
     "explanation": "Musa's hajj — traveling across the Sahara to Mecca with a vast entourage — displayed Mali's wealth and its ruler's membership in the global Muslim community, ties built through the same Saharan trade networks the passage describes.",
     "id": "wh-princeton-pdf5-u2-002",
+    "skill_code": "1.B",
+    "topic_code": "2.5",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -203,6 +215,8 @@
     "difficulty": "hard",
     "explanation": "The passage shows a mixed population: some peoples pay the jizya (the Islamic tax on non-Muslim subjects) while other non-Muslims are put to work in the gold pits — Islamic law applied flexibly so that Muslims and non-Muslims could be ruled together.",
     "id": "wh-princeton-pdf5-u2-003",
+    "skill_code": "1.B",
+    "topic_code": "2.5",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -236,6 +250,8 @@
     "difficulty": "hard",
     "explanation": "Musa's kingdom taxes trade, commands mines, and moves copper for gold at state-managed rates — exactly the profile of the wealthy Sudanic empires built on controlling Saharan commerce.",
     "id": "wh-princeton-pdf5-u2-004",
+    "skill_code": "1.B",
+    "topic_code": "2.4",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -271,6 +287,8 @@
     "difficulty": "medium",
     "explanation": "Before the cables, orders and prices traveled at the speed of sailing ships. Near-instant messaging let London govern a global empire day by day and let merchants in London react to prices in Bombay the same day — speed became a commercial and political advantage, which is why states and firms invested in the wires.",
     "id": "wh-princeton-pdf5-u2-005",
+    "skill_code": "1.B",
+    "topic_code": "2.1",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -304,6 +322,8 @@
     "difficulty": "medium",
     "explanation": "After steamships arrived, Britain needed coaling stations; Aden guarded the Bab el-Mandeb strait at the Red Sea's mouth, securing the short route to India — the same logic as the cable network on the map.",
     "id": "wh-princeton-pdf5-u2-006",
+    "skill_code": "1.B",
+    "topic_code": "2.3",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -338,6 +358,8 @@
     "difficulty": "hard",
     "explanation": "By demanding each country's own local products — and nothing imported — the court turned tribute missions into surveys of what each neighboring land produced, displaying Qing knowledge of and dominance over its tributaries.",
     "id": "wh-princeton-pdf5-u3-001",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -372,6 +394,8 @@
     "difficulty": "hard",
     "explanation": "The list spans from Korea to the Southeast Asian mainland and archipelago, mapping the wide ring of states that acknowledged the Qing court's centrality.",
     "id": "wh-princeton-pdf5-u3-002",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -405,6 +429,8 @@
     "difficulty": "hard",
     "explanation": "Defeats in the Opium Wars and later conflicts forced the Qing to accept European diplomats as equals and open treaty ports — directly contradicting a system built on all foreign rulers acknowledging Beijing's superiority.",
     "id": "wh-princeton-pdf5-u3-003",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -439,6 +465,8 @@
     "difficulty": "hard",
     "explanation": "The report was written to persuade Ferdinand and Isabella: fertile land, fine harbors, and gold meant the enterprise would pay — and it worked, as Spain backed Columbus's later voyages and the wider conquest of the Caribbean.",
     "id": "wh-princeton-pdf5-u4-001",
+    "skill_code": "1.B",
+    "topic_code": "4.2",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -471,6 +499,8 @@
     "difficulty": "hard",
     "explanation": "By stressing that the islanders lacked iron weapons and were fearful, Columbus signaled to his royal audience that the island could be taken with little risk — the premise of the conquest that followed.",
     "id": "wh-princeton-pdf5-u4-002",
+    "skill_code": "1.A",
+    "topic_code": "4.2",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -505,6 +535,8 @@
     "difficulty": "hard",
     "explanation": "Nearly every paragraph tallies exploitable assets — gold, metals, fertile fields, fine harbors — the language of an investor's prospectus, reflecting the voyage's chief goal: riches for the Spanish crown.",
     "id": "wh-princeton-pdf5-u4-003",
+    "skill_code": "1.B",
+    "topic_code": "4.2",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -541,6 +573,8 @@
     "difficulty": "hard",
     "explanation": "Reports like this one — mapping resources, harbors, and a supposedly defenseless population — were the intelligence on which Spain built its Caribbean colonies and the encomienda system of forced native labor.",
     "id": "wh-princeton-pdf5-u4-004",
+    "skill_code": "1.B",
+    "topic_code": "4.4",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -573,6 +607,8 @@
     "difficulty": "hard",
     "explanation": "Crosby's 'luck' is ecological: Old World pathogens devastated Native societies that had no immunity, clearing the way for European takeover — a biological windfall no European plan created.",
     "id": "wh-princeton-pdf5-u4-005",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -607,6 +643,8 @@
     "difficulty": "hard",
     "explanation": "The 'quantum jump' in European productivity rested on forced labor: enslaved Africans worked the plantations and mines of the Americas, while surviving Native peoples were pressed into labor systems like the encomienda and mita.",
     "id": "wh-princeton-pdf5-u4-006",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -642,6 +680,8 @@
     "difficulty": "hard",
     "explanation": "Crosby argues Europe's rise came from brutality, guns, and above all ecological luck — not from Europeans being smarter or more virtuous — directly undercutting claims of inherent cultural superiority.",
     "id": "wh-princeton-pdf5-u4-007",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -676,6 +716,8 @@
     "difficulty": "hard",
     "explanation": "The leap came from outside Europe: New World silver financed European trade, American crops fed population growth, and plantation land worked by enslaved labor generated the surpluses — exactly the 'whole continents' Crosby names.",
     "id": "wh-princeton-pdf5-u4-008",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -712,6 +754,8 @@
     "difficulty": "hard",
     "explanation": "The line's placement put the eastern bulge of South America on Portugal's side — the legal basis for Portugal's colony of Brazil, which Spain could not contest under the treaty.",
     "id": "wh-princeton-pdf5-u4-009",
+    "skill_code": "1.B",
+    "topic_code": "4.4",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -746,6 +790,8 @@
     "difficulty": "hard",
     "explanation": "Portugal's great project was the African sea route to the spice trade, and pushing the line west secured Portuguese claims along Africa and the Atlantic islands against Spanish interference.",
     "id": "wh-princeton-pdf5-u4-010",
+    "skill_code": "1.B",
+    "topic_code": "4.4",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -779,6 +825,8 @@
     "difficulty": "hard",
     "explanation": "Both crowns were Catholic and accepted the pope as a legitimate mediator between Christian princes — which is why they sought papal bulls and then a papal-brokered treaty to settle their dispute.",
     "id": "wh-princeton-pdf5-u4-011",
+    "skill_code": "1.B",
+    "topic_code": "4.4",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -812,6 +860,8 @@
     "difficulty": "hard",
     "explanation": "The treaty carves up entire continents between two European crowns without any reference to the peoples already living there — their sovereignty is simply assumed away.",
     "id": "wh-princeton-pdf5-u4-012",
+    "skill_code": "1.A",
+    "topic_code": "4.4",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -846,6 +896,8 @@
     "difficulty": "hard",
     "explanation": "Non-Iberian powers simply ignored a treaty they never signed — England, France, and the Netherlands seized colonies across the Americas, proving the line bound only its signatories.",
     "id": "wh-princeton-pdf5-u4-013",
+    "skill_code": "1.B",
+    "topic_code": "4.4",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -879,6 +931,8 @@
     "difficulty": "hard",
     "explanation": "China and Japan wanted silver for coinage and taxes but wanted little that Europe produced, so Europeans had to pay in bullion — the structural reason for the silver drain Fitch records.",
     "id": "wh-princeton-pdf5-u4-014",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -911,6 +965,8 @@
     "difficulty": "hard",
     "explanation": "Silver became China's money of account; the Ming Single Whip reforms of 1581 converted labor taxes into silver payments, a change possible only because American and Japanese silver flooded into the economy.",
     "id": "wh-princeton-pdf5-u4-015",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -942,6 +998,8 @@
     "difficulty": "hard",
     "explanation": "Fitch's 1599 snapshot shows the early form of the system later formalized as the Canton system: Westerners traded only at Guangzhou, through licensed intermediaries, under close official supervision.",
     "id": "wh-princeton-pdf5-u4-016",
+    "skill_code": "1.B",
+    "topic_code": "4.5",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -974,6 +1032,8 @@
     "difficulty": "hard",
     "explanation": "The shogunate linked Catholic missionaries to peasant unrest, notably the Shimabara Rebellion of 1637–38, and saw the faith as a threat to its control — so it expelled the Portuguese and confined Europeans to Deshima island.",
     "id": "wh-princeton-pdf5-u4-017",
+    "skill_code": "1.B",
+    "topic_code": "4.6",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1006,6 +1066,8 @@
     "difficulty": "hard",
     "explanation": "Both the 1764 rules and the Canton system channel every foreigner through court-controlled procedures — envoys with memorials in one case, supervised merchants in the other — keeping outsiders at arm's length while the state watches.",
     "id": "wh-princeton-pdf5-u6-001",
+    "skill_code": "1.B",
+    "topic_code": "6.2",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -1039,6 +1101,8 @@
     "difficulty": "hard",
     "explanation": "The Enfield rifle's cartridges had to be bitten open; rumors that the grease came from cows (sacred to Hindus) and pigs (unclean to Muslims) convinced sepoys the British meant to defile them — the spark at Meerut in May 1857.",
     "id": "wh-princeton-pdf5-u6-002",
+    "skill_code": "1.B",
+    "topic_code": "6.3",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -1072,6 +1136,8 @@
     "difficulty": "hard",
     "explanation": "A few thousand British officials and officers governed hundreds of millions of Indians; the East India Company's armies were overwhelmingly Indian — without sepoys there was no British India.",
     "id": "wh-princeton-pdf5-u6-003",
+    "skill_code": "1.B",
+    "topic_code": "6.2",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -1104,6 +1170,8 @@
     "difficulty": "hard",
     "explanation": "Greathed writes as a terrified British insider — rebels are 'the mob,' the British are victims — so the account reveals the colonial experience vividly but cannot be read as a neutral record of why Indians rose.",
     "id": "wh-princeton-pdf5-u6-004",
+    "skill_code": "2.C",
+    "topic_code": "6.3",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1137,6 +1205,8 @@
     "difficulty": "hard",
     "explanation": "The aged, powerless emperor was proclaimed leader because the Mughal name still carried legitimacy — rebels needed a symbol around which Hindus and Muslims could unite against the British.",
     "id": "wh-princeton-pdf5-u6-005",
+    "skill_code": "1.A",
+    "topic_code": "6.3",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -1170,6 +1240,8 @@
     "difficulty": "hard",
     "explanation": "At Vellore in 1806, Madras sepoys mutinied after orders banning beards and requiring hat-like headgear convinced them the British meant to convert them to Christianity — the same religious-grievance pattern as 1857's cartridges.",
     "id": "wh-princeton-pdf5-u6-006",
+    "skill_code": "5.A",
+    "topic_code": "6.3",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -1204,6 +1276,8 @@
     "difficulty": "hard",
     "explanation": "The British East India Company grew opium in Bengal and sold it in China; addiction created mass Chinese demand for a British-supplied product, flipping the trade balance so that silver drained out of China to pay for it.",
     "id": "wh-princeton-pdf5-u6-007",
+    "skill_code": "1.B",
+    "topic_code": "6.5",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -1238,6 +1312,8 @@
     "difficulty": "medium",
     "explanation": "The canal, opened in 1869 just before this 1870 map, made the Mediterranean–Red Sea route the fastest path to India, so Britain ran its imperial telegraph through Egypt to exploit it.",
     "id": "wh-princeton-pdf5-u6-008",
+    "skill_code": "1.B",
+    "topic_code": "6.4",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1271,6 +1347,8 @@
     "difficulty": "medium",
     "explanation": "Instant communication let London issue orders and overrule officials on the spot — the telegraph turned distant proconsuls into subordinates and tightened imperial administration.",
     "id": "wh-princeton-pdf5-u6-009",
+    "skill_code": "1.B",
+    "topic_code": "6.2",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -1304,6 +1382,8 @@
     "difficulty": "hard",
     "explanation": "The image works by 'before and after': the old world is dark, priest-ridden drudgery; the new world is light and liberation — teaching viewers that everything good began with the revolution.",
     "id": "wh-princeton-pdf5-u7-001",
+    "skill_code": "1.A",
+    "topic_code": "7.4",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -1338,6 +1418,8 @@
     "difficulty": "medium",
     "explanation": "The party needed women's labor for industrialization and collectivization; Women's Day propaganda recruited them by promising that socialism would free them from the 'old way' of domestic servitude.",
     "id": "wh-princeton-pdf5-u7-002",
+    "skill_code": "4.B",
+    "topic_code": "7.4",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -1372,6 +1454,8 @@
     "difficulty": "medium",
     "explanation": "By the mid-1930s Stalin's regime reversed early Bolshevik family reforms — banning abortion, restricting divorce, glorifying motherhood — reimposing the very domestic confinement the 1930 image claimed to abolish.",
     "id": "wh-princeton-pdf5-u7-003",
+    "skill_code": "1.A",
+    "topic_code": "7.4",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -1407,6 +1491,8 @@
     "difficulty": "medium",
     "explanation": "Brazil gained 13.0 percentage points (17.2 to 30.2), the biggest jump in the table.",
     "id": "wh-princeton-pdf5-u8-001",
+    "skill_code": "1.A",
+    "topic_code": "8.6",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1441,6 +1527,8 @@
     "difficulty": "medium",
     "explanation": "Submarine cables let London receive news from India in hours instead of months and issue orders the same day, shrinking the autonomy of distant officials. Building and defending this system was a deliberate imperial strategy: holding a global empire required not just garrisons and governors but the wires that kept them under central direction.",
     "id": "wh-princeton-pdf5-u8-002",
+    "skill_code": "2.B",
+    "topic_code": "8.1",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1474,6 +1562,8 @@
     "difficulty": "medium",
     "explanation": "Argentina cycled through Peronist, military, and civilian governments that lurched between protectionism and liberalization, preventing the steady investment that industrial deepening required.",
     "id": "wh-princeton-pdf5-u8-003",
+    "skill_code": "5.B",
+    "topic_code": "8.6",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -1507,6 +1597,8 @@
     "difficulty": "hard",
     "explanation": "Latin American governments protected infant industries behind tariff walls and channeled state credit into factories so domestic producers could replace imports — the ISI strategy behind Brazil's and Mexico's gains in the tables.",
     "id": "wh-princeton-pdf5-u8-004",
+    "skill_code": "1.B",
+    "topic_code": "8.6",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -1541,6 +1633,8 @@
     "difficulty": "hard",
     "explanation": "The phrase is the party's legitimating formula: it rules in the name of workers and peasants together, so Mao frames collectivization as necessary to keep that coalition intact.",
     "id": "wh-princeton-pdf5-u8-005",
+    "skill_code": "4.A",
+    "topic_code": "8.4",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -1577,6 +1671,8 @@
     "difficulty": "hard",
     "explanation": "The 1955 cooperativization drive escalated into the Great Leap Forward of 1958, when breakneck collectivization plus backyard industry and false production reports helped cause a famine that killed tens of millions.",
     "id": "wh-princeton-pdf5-u8-006",
+    "skill_code": "1.A",
+    "topic_code": "8.4",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1613,6 +1709,8 @@
     "difficulty": "hard",
     "explanation": "Like Stalin's campaign against the kulaks a generation earlier, Mao targeted richer peasants as a class enemy whose property and independence blocked collectivization.",
     "id": "wh-princeton-pdf5-u8-007",
+    "skill_code": "1.A",
+    "topic_code": "8.4",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -1649,6 +1747,8 @@
     "difficulty": "hard",
     "explanation": "Classical Marxism made the urban proletariat the revolutionary agent; Mao inverted this, building the revolution on China's vast peasantry — the core of Maoism as distinct from Soviet Marxism.",
     "id": "wh-princeton-pdf5-u8-008",
+    "skill_code": "1.A",
+    "topic_code": "8.4",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -1685,6 +1785,8 @@
     "difficulty": "hard",
     "explanation": "Beginning in 1978, the household responsibility system dismantled the collectives Mao built, letting families farm contracted land and keep surpluses — restoring the individual peasant economy the speech vowed to eliminate.",
     "id": "wh-princeton-pdf5-u8-009",
+    "skill_code": "1.A",
+    "topic_code": "8.4",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {
@@ -1721,6 +1823,8 @@
     "difficulty": "hard",
     "explanation": "Khomeini's return sealed the revolution: the monarchy fell, a referendum approved a new constitution, and Iran became an Islamic Republic under clerical rule.",
     "id": "wh-princeton-pdf5-u8-010",
+    "skill_code": "1.A",
+    "topic_code": "8.7",
     "key": "C",
     "key_confidence": "high",
     "option_explanations": {
@@ -1754,6 +1858,8 @@
     "difficulty": "hard",
     "explanation": "In 1953 the CIA helped topple the nationalist premier Mossadegh and restored the shah — Iranians widely remembered this as proof that the shah ruled by American sponsorship, the exact charge Khomeini makes in the speech.",
     "id": "wh-princeton-pdf5-u8-011",
+    "skill_code": "1.A",
+    "topic_code": "8.7",
     "key": "B",
     "key_confidence": "high",
     "option_explanations": {
@@ -1786,6 +1892,8 @@
     "difficulty": "hard",
     "explanation": "The embassy seizure and 444-day hostage crisis turned revolution-era hostility into a lasting rupture, ending diplomatic relations between the two countries.",
     "id": "wh-princeton-pdf5-u8-012",
+    "skill_code": "1.A",
+    "topic_code": "8.7",
     "key": "D",
     "key_confidence": "high",
     "option_explanations": {
@@ -1817,6 +1925,8 @@
     "difficulty": "hard",
     "explanation": "Iran's revolutionaries overthrew a secular modernizing monarchy backed by the West in the name of Islamic governance — paralleling other late-1900s movements where religion and tradition confronted Western-aligned secular states.",
     "id": "wh-princeton-pdf5-u8-013",
+    "skill_code": "1.B",
+    "topic_code": "8.7",
     "key": "A",
     "key_confidence": "high",
     "option_explanations": {

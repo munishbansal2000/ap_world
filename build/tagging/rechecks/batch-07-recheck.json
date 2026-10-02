@@ -1,0 +1,128 @@
+[
+ {
+  "id": "wh-princeton-u6-012",
+  "skill_code": "3.C",
+  "topic_code": "6.1",
+  "rationale": "Stem asks what the two sources TOGETHER illustrate about imperialism; the key (C) synthesizes the main ideas of Ferry's speech and the Africa map into one claim about imperialism's rationales. Comparing main ideas of two sources = 3.C. Content is rationales for imperialism (Ferry's civilizing-mission plus economic/strategic motives) = 6.1.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u6-022",
+  "skill_code": "3.D",
+  "topic_code": "6.2",
+  "rationale": "Single-text source; stem asks which conclusion Auclert's stated evidence (pre-1830 girls' schools closed by the French) best SUPPORTS — judging how evidence supports a claim/argument = 3.D. Content is French colonial administration's effects on indigenous Algerian institutions (state expansion in Africa) = 6.2.",
+  "confidence": "medium-high"
+ },
+ {
+  "id": "wh-princeton-u7-004",
+  "skill_code": "3.A",
+  "topic_code": "7.6",
+  "rationale": "Best available sub-code: the item asks the student to identify a claim about the leaders' rise from the non-text source (cartoon mocking Mussolini's legitimacy). Rise of fascist regimes as causes of WWII = 7.6. (FLAG: options never engage the cartoon's actual argument — the item functions as a Developments-and-Processes content question with decorative stimulus; the 'Claims and Evidence in Sources' skill label is suspect.)",
+  "confidence": "medium"
+ },
+ {
+  "id": "wh-princeton-u7-014",
+  "skill_code": "3.A",
+  "topic_code": "7.7",
+  "rationale": "Student reads the GDP table (non-text source) and identifies the claim it supports — the 1944-1946 collapse reflects bombing and defeat = 3.A. Content is WWII's economic devastation of Japan (total war, strategic bombing) = 7.7.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u8-008",
+  "skill_code": "2.A",
+  "topic_code": "8.1",
+  "rationale": "Stem asks what the 1938 cartoon illustrates about the United States in 1938 — identifying the source's historical situation (contempt for fascism amid official neutrality) = 2.A. (FLAG: item is labeled unit 8 but content is interwar US neutrality, which belongs in unit 7; 8.1 is only the least-bad unit-8 option.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u8-018",
+  "skill_code": "3.A",
+  "topic_code": "8.5",
+  "rationale": "Stem asks which conclusion the program's pairing of independence with confiscations illustrates — identifying/describing the argument in Ho Chi Minh's 1930 text (nationalism and communism as one struggle) = 3.A. Content is the anti-colonial independence movement in Indochina = 8.5.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u1-010",
+  "skill_code": "1.A",
+  "topic_code": "1.4",
+  "rationale": "Stem asks what the Inca road system enabled — identifying the historical development/process and its function (administrative control of the empire) = 1.A. Content is Inca state building in the Americas = 1.4.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u1-020",
+  "skill_code": "3.A",
+  "topic_code": "1.3",
+  "rationale": "Student reads the map legend/shading (non-text source) and identifies the claim it supports — Majapahit as a maritime empire controlling sea lanes = 3.A. Content is Southeast Asian state development = 1.3.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u1-030",
+  "skill_code": "3.A",
+  "topic_code": "1.2",
+  "rationale": "Student interprets the mosque photograph (non-text source) to identify the feature of Timur's empire it reflects — plunder turned into Islamic imperial monuments = 3.A. Content is a Central Asian Islamic conquest empire; closest unit-1 topic is Dar al-Islam developments = 1.2.",
+  "confidence": "medium"
+ },
+ {
+  "id": "wh-vis-u2-005",
+  "skill_code": "3.A",
+  "topic_code": "2.2",
+  "rationale": "Stem asks which claim the banknote's features support — identifying the claim in the non-text source (Yuan state issued standardized paper currency) = 3.A. Content is the Mongol Empire's Yuan administration = 2.2.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u2-015",
+  "skill_code": "5.A",
+  "topic_code": "2.7",
+  "rationale": "Stem asks which claim the color-coded map supports about European trade — identifying the pattern/division of commercial labor among trade networks (Venetian, Genoese, Hanseatic) = 5.A. Content compares the networks of economic exchange = 2.7.",
+  "confidence": "medium"
+ },
+ {
+  "id": "wh-vis-u2-025",
+  "skill_code": "3.A",
+  "topic_code": "2.5",
+  "rationale": "Student interprets the Lalibela church photograph (non-text source) to identify what it illustrates — Ethiopia's independent Christian tradition = 3.A. Content is the spread of Christianity via trade networks producing a distinctive Ethiopian tradition = 2.5.",
+  "confidence": "medium-high"
+ },
+ {
+  "id": "wh-vis-u2-035",
+  "skill_code": "5.A",
+  "topic_code": "2.5",
+  "rationale": "Stem asks which development the celadon vase illustrates — identifying the connection between Korean luxury production and East Asian exchange networks = 5.A. Content is cultural/economic consequences of connectivity = 2.5.",
+  "confidence": "medium"
+ },
+ {
+  "id": "wh-vis-u3-010",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Stem asks which broader process the 1583 Ottoman campaign is part of — identifying the historical development (Ottoman-Safavid struggle over the Caucasus) = 1.A. Content is Ottoman imperial expansion = 3.1.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u3-020",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
+  "rationale": "Stem asks which 'best explains how' the Mughals governed a vast empire — explaining a historical process (centralized zabt land-revenue administration) = 1.B. Content is imperial administration = 3.2.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u3-030",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
+  "rationale": "Student reads the Kangxi portrait (non-text source) and identifies the claim it makes — the Manchu emperor as Confucian sage-ruler legitimizing conquest = 3.A. Content is Qing legitimation through belief systems = 3.3.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u3-040",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Stem asks which development the Kneller portrait reflects — identifying the process of Peter's Westernization of Russia = 1.A. Content is Russian Empire building; Peter's reforms are taught under Russian imperial development = 3.1.",
+  "confidence": "medium"
+ },
+ {
+  "id": "wh-princeton-u9-002",
+  "skill_code": "3.A",
+  "topic_code": "9.8",
+  "rationale": "Song's exclusive fatherland vision must be identified/described as a claim (3.A), then matched against postwar developments; key = pooling of European sovereignty, an institution in a globalized world (9.8).",
+  "confidence": "medium"
+ }
+]

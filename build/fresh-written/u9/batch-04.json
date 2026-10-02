@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "The report captures one euphoric night, but Eastern Europe's shift to market economies brought unemployment, inflation, and hardship through the 1990s. A historian must not let the celebration stand in for the whole longer, more painful transition.",
     "id": "wh-fresh-u9-026",
+    "skill_code": "2.C",
+    "topic_code": "9.5",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: the November 1989 date is well documented and not the main caution for this source.",
@@ -33,6 +35,8 @@
     "difficulty": "medium",
     "explanation": "In 1980 Deng's government made Shenzhen one of China's first Special Economic Zones, offering tax breaks and relaxed rules to attract foreign capital. Investment poured in, factories multiplied, and migrants arrived by the millions, producing the megacity shown in the image.",
     "id": "wh-fresh-u9-027",
+    "skill_code": "1.B",
+    "topic_code": "9.4",
     "key": "A",
     "option_explanations": {
       "A": "Right: the 1980 SEZ designation opened Shenzhen to foreign investment and export manufacturing, driving its explosive growth.",
@@ -58,7 +62,9 @@
     "type": "mcq",
     "unit": 9,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+        "image_url": "assets/images/u9/wh-fresh-u9-027.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -68,6 +74,8 @@
     "difficulty": "hard",
     "explanation": "Shenzhen was a deliberate state project: the government created the zone, set the incentives, and managed the opening. Foreign firms responded by moving production there for cheap labor, making the city a textbook case of state-directed reform meeting the global relocation of manufacturing.",
     "id": "wh-fresh-u9-028",
+    "skill_code": "5.B",
+    "topic_code": "9.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: Shenzhen integrated deeply into world markets; isolation is the opposite of what the images show.",
@@ -93,7 +101,9 @@
     "type": "mcq",
     "unit": 9,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+        "image_url": "assets/images/u9/wh-fresh-u9-027.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -103,6 +113,8 @@
     "difficulty": "medium",
     "explanation": "West Germany recruited Turkish workers beginning with the 1961 agreement to fill factory jobs during its postwar boom. Recruitment was meant to be temporary, but many workers stayed, brought families, and built lasting Turkish communities in German cities.",
     "id": "wh-fresh-u9-029",
+    "skill_code": "5.B",
+    "topic_code": "9.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: migration to Europe continued and grew after 1945; the record itself documents it.",
@@ -134,6 +146,8 @@
     "difficulty": "medium",
     "explanation": "The postwar boom created labor shortages in Western Europe just as decolonization and population growth left developing regions with surplus workers and lower wages. Guest-worker programs were the institutional link between that demand and supply.",
     "id": "wh-fresh-u9-030",
+    "skill_code": "4.B",
+    "topic_code": "9.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: the Atlantic slave trade was coerced labor centuries earlier, not the postwar wage-labor recruitment shown.",
@@ -165,6 +179,8 @@
     "difficulty": "hard",
     "explanation": "South Korea and Taiwan support Historian A's pattern, while China, Vietnam, and Singapore support Historian B's counterexample. Neither claim holds universally, so the strongest evaluation is that the evidence is mixed rather than fully vindicating either side.",
     "id": "wh-fresh-u9-031",
+    "skill_code": "6.A",
+    "topic_code": "9.4",
     "key": "A",
     "option_explanations": {
       "A": "Right: the two historians' own examples contradict each other's universal claims, so the evidence is genuinely mixed.",
@@ -195,6 +211,8 @@
     "difficulty": "hard",
     "explanation": "The hijackers turned civilian airliners, products of global travel networks, into weapons, showing how non-state groups could exploit openness. The long wars in Afghanistan and Iraq then showed that overwhelming conventional force struggled against decentralized, asymmetric enemies.",
     "id": "wh-fresh-u9-032",
+    "skill_code": "6.A",
+    "topic_code": "9.7",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the attacks depended on global aviation and communications, which had obvious military significance.",
@@ -226,6 +244,8 @@
     "difficulty": "medium",
     "explanation": "English, Hollywood, and fast food show the spread of dominant cultural forms, but Bollywood, Nollywood, and K-pop show local industries thriving by adapting global media formats to their own audiences. Both processes happened at once, which is hybridization alongside homogenization.",
     "id": "wh-fresh-u9-033",
+    "skill_code": "6.A",
+    "topic_code": "9.6",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the success of Bollywood, Nollywood, and K-pop shows culture did not become uniform.",

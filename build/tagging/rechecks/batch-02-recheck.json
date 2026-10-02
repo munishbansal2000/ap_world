@@ -1,0 +1,126 @@
+[
+  {
+    "id": "wh-barrons-u1-011",
+    "skill_code": "1.A",
+    "topic_code": "1.4",
+    "rationale": "Stem asks what became of the Inca mit'a after the Spanish conquest (adapted into forced drafts for the Potosi silver mines) -- pure identification of a historical development. Inca/Spanish-conquest content in Unit 1 is State Building in the Americas.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u1-021",
+    "skill_code": "3.A",
+    "topic_code": "1.2",
+    "rationale": "Stem asks what the wine poetry's coexistence with the Qur'anic prohibition suggests -- requires identifying and describing the claim the source evidence makes (Islamic civilization was internally diverse, not monolithic). Persian golden-age poets are Dar al-Islam content.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u1-031",
+    "skill_code": "1.A",
+    "topic_code": "1.1",
+    "rationale": "Stem asks what happened to the civil-service examinations under the Yuan (suspended for decades) -- identification of a historical development. Yuan-dynasty China is East Asia content.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u3-001",
+    "skill_code": "3.A",
+    "topic_code": "3.2",
+    "rationale": "'The social order assumed by the passage' asks the student to describe the claim the source makes -- a Confucian shi-no-ko-sho hierarchy (samurai, peasants, artisans, merchants) in Tokugawa Japan. Best topic fit is Empires: Administration (social hierarchy as imperial administration); 3.3 belief systems is a plausible alternative given the Confucian framing.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-u3-011",
+    "skill_code": "4.A",
+    "topic_code": "3.1",
+    "rationale": "Under the item's Contextualization parent, best fit is 4.A: identifying the broader colonial-tribute context (encomienda-type extraction systems) for the Russian yasak. Siberian fur-tribute expansion is Empires Expand content. NOTE: the stem ('most closely resembles which of the following') is inherently comparative -- Making Connections (5.A) is arguably the truer skill; skill field may be mislabeled.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-u4-008",
+    "skill_code": "5.A",
+    "topic_code": "4.4",
+    "rationale": "Stem asks to characterize the chartered-company model across British, Dutch, and other cases (shifting empire's costs to private investors for monopoly rights) -- identifying a pattern among historical developments. Chartered companies as the mechanism of empire-building is Maritime Empires Established content.",
+    "confidence": "medium-high"
+  },  {
+    "id": "wh-barrons-u5-005",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
+    "rationale": "'De Gouges was executed in 1793 mainly because' -- identification of the historical development/cause (her writings attacking the ruling Jacobins during the Terror). French Revolution content is Nationalism and Revolutions.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u5-015",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
+    "rationale": "Pure factual identification of where the August 1791 enslaved uprising began (Bois Caïman, Boukman ceremony) -- identification of a historical development. The Haitian Revolution is Nationalism and Revolutions content.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u6-010",
+    "skill_code": "3.A",
+    "topic_code": "6.1",
+    "rationale": "Stem asks what purpose the 'dual mandate' argument served for colonial officials (persuading home audiences that empire served a moral purpose) -- identifying and describing the claim/argument in the source. Lugard's legitimation doctrine is Rationales for Imperialism content.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u6-020",
+    "skill_code": "1.A",
+    "topic_code": "6.3",
+    "rationale": "Stem asks what happened to Bahadur Shah Zafar after the 1857 revolt (tried and exiled to Burma) -- identification of a historical development. The 1857 revolt is an indigenous response to British state expansion.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-u6-030",
+    "skill_code": "2.B",
+    "topic_code": "6.2",
+    "rationale": "'Bentinck's 1829 ban on sati is best understood as' asks the student to explain the historical situation of the act (a rare Company intervention driven by metropolitan evangelical/utilitarian pressure plus Indian reformers like Rammohan Roy) -- explaining a source's/action's historical situation. British India is State Expansion content.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-barrons-u7-006",
+    "skill_code": "4.A",
+    "topic_code": "7.5",
+    "rationale": "Under the item's Contextualization parent, best fit is 4.A: identifying/describing the assimilation doctrine as the historical context for negritude's emergence. Negritude as a 1930s anti-colonial critique of the post-WWI imperial order fits Unresolved Tensions After World War I. NOTE: the stem ('differed from the French colonial ideal of assimilation in that it') is comparative -- Making Connections (5.A) is arguably the truer skill; skill field may be mislabeled.",
+    "confidence": "medium"
+  },  {
+    "id": "wh-barrons-u8-006",
+    "skill_code": "4.A",
+    "topic_code": "8.6",
+    "rationale": "Under the item's Contextualization parent, best fit is 4.A: identifying the Bandung/Cold War context of nonalignment. Nonaligned newly independent states are Newly Independent States content. NOTE: the stem ('In practice, nonalignment often meant') is straightforward identification of a development -- Developments and Processes (1.A) is arguably the truer skill; soft flag on the skill field.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-u9-006",
+    "skill_code": "4.A",
+    "topic_code": "9.5",
+    "rationale": "Stem asks what the NOW-on-NAACP modeling illustrates about second-wave feminism (borrowing organizational tactics from the civil rights movement) -- identifying the civil-rights movement as the historical context for the feminist movement's development. Calls for Reform and Responses content.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-barrons-u9-016",
+    "skill_code": "4.A",
+    "topic_code": "9.4",
+    "rationale": "'Galeano's argument belongs to which school of thought' -- identifying the intellectual context (dependency theory) for a historical development/argument. Economics in the Global Age content.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fivesteps-u1-001",
+    "skill_code": "1.A",
+    "topic_code": "1.6",
+    "rationale": "'According to the passage, which development most directly shifted power from small towns and petty lordships toward larger kingdoms' (artillery's rising cost) -- identification of a historical development from the text. Fourteenth-/fifteenth-century European state formation is Developments in Europe content.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fivesteps-u1-011",
+    "skill_code": "1.A",
+    "topic_code": "1.3",
+    "rationale": "'What does this best illustrate about Hellenistic cultural exchange' -- identifying the process shown by the Gandhara Buddha frieze (conquered peoples adapting Greek artistic forms to their own religious purposes). Gandhara (modern Pakistan) is South and Southeast Asia content.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fivesteps-u1-021",
+    "skill_code": "1.A",
+    "topic_code": "1.4",
+    "rationale": "'What was the fundamental reason' the pre-1492 Americas were isolated from Afro-Eurasian networks (oceans too wide for existing ships) -- identification of the cause of a historical condition. Pre-contact Americas content is State Building in the Americas. (Item has no stimulus.)",
+    "confidence": "medium"
+  }
+]

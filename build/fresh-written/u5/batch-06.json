@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "The Canton System looks like Chinese strength — foreigners confined to one port — but the opium shipments reveal the vulnerability: a growing trade imbalance and addiction crisis. This background captures the moment before the 1839–42 war, when pressure was building but the old order still stood.",
     "id": "wh-fresh-u5-051",
+    "skill_code": "4.A",
+    "topic_code": "5.10",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. China was not colonized; it still dictated trade terms at Canton in this period.",
@@ -34,6 +36,8 @@
     "difficulty": "medium",
     "explanation": "The eight-year rebellion drained the Qing treasury and exposed military decay, all from domestic causes. It belongs in this background because Qing decline had deep internal roots — the dynasty was already fragile when the Opium Wars later struck from outside.",
     "id": "wh-fresh-u5-052",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The rebellion was a domestic Chinese movement; Britain did not fund it.",
@@ -65,6 +69,8 @@
     "difficulty": "medium",
     "explanation": "Lafayette, who had fought in America, and others brought the American model — a written constitution grounded in consent — into French debate. The 1791 constitution was an adaptation, not a copy: it kept a king, showing how models travel and change.",
     "id": "wh-fresh-u5-053",
+    "skill_code": "2.A",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The American example was the available model that French reformers adapted.",
@@ -96,6 +102,8 @@
     "difficulty": "hard",
     "explanation": "Both revolutions spoke the language of consent and rights, but France faced entrenched privilege, foreign war, and deeper social divisions, radicalizing its revolution. The comparison shows that ideas alone don't determine outcomes — social structure and circumstances shape what revolutions become.",
     "id": "wh-fresh-u5-054",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. France cycled through republic, Terror, empire, and restored monarchy over the next decades.",
@@ -127,6 +135,8 @@
     "difficulty": "medium",
     "explanation": "No enslaved population had ever defeated three European empires. Slaveholders from Virginia to Brazil read Haiti as a warning and tightened control, while enslaved people read it as proof that freedom could be seized. The revolution's meaning was made as much by its audience as by its armies.",
     "id": "wh-fresh-u5-055",
+    "skill_code": "6.A",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. It reshaped Louisiana's fate, terrified slaveholders, and inspired the enslaved hemisphere-wide.",
@@ -157,6 +167,8 @@
     "difficulty": "medium",
     "explanation": "The claim is about fear, and the legal crackdown is its footprint: Virginia and others banned Black gatherings, limited manumission, and policed literacy precisely because Haiti showed what organized enslaved people could do. Repression is evidence of alarm.",
     "id": "wh-fresh-u5-056",
+    "skill_code": "3.B",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Slaveholders denounced the revolution; celebration is the opposite of the historical record.",
@@ -187,6 +199,8 @@
     "difficulty": "medium",
     "explanation": "The 1848 Frankfurt Parliament offered a liberal united Germany and failed. Bismarck's Prussia then united Germany through three wars (1864–71) under a Prussian king — nationalism harnessed by conservative state power, not by revolution from below.",
     "id": "wh-fresh-u5-057",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. 'Blood and iron' meant unification by Prussian arms, and that is what happened.",
@@ -218,6 +232,8 @@
     "difficulty": "hard",
     "explanation": "If abolition had been immediate, there would be no 1834–38 apprenticeship to explain. The system's existence — plus compensation to enslavers, not the enslaved — shows emancipation as a negotiated, phased retreat from slavery rather than a clean break.",
     "id": "wh-fresh-u5-058",
+    "skill_code": "3.B",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Full freedom did not come until 1838, after the apprenticeship period.",
@@ -249,6 +265,8 @@
     "difficulty": "medium",
     "explanation": "Rousseau wrote as an outsider critic: if authority is legitimate only when it expresses the general will, then kings ruling by birth and tradition are illegitimate. French Jacobins later quoted him to justify popular sovereignty — and the Terror.",
     "id": "wh-fresh-u5-059",
+    "skill_code": "2.A",
+    "topic_code": "5.1",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Rousseau attacked hereditary authority; the general will replaces divine right.",
@@ -279,6 +297,8 @@
     "difficulty": "hard",
     "explanation": "The stimulus explains creole motives: resentment upward at peninsulares, fear downward of the majority. Independence gave creoles the offices they wanted without a social revolution — the opposite of Haiti, where the enslaved seized freedom by destroying the planter order itself.",
     "id": "wh-fresh-u5-060",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Creoles sought political power for themselves, not social revolution.",
@@ -309,6 +329,8 @@
     "difficulty": "hard",
     "explanation": "The spread — from Philadelphia to Port-au-Prince to Canton — shows how widely the age of revolution reached, while the White Lotus case warns against a single story. Everywhere, liberation was partial: American republics kept slavery, French universalism excluded women, Latin American independence preserved hierarchy. Expansion and exclusion advanced together.",
     "id": "wh-fresh-u5-061",
+    "skill_code": "6.A",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Uneven expansion of rights — with persistent exclusions — is the era's signature pattern.",

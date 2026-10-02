@@ -1,0 +1,1238 @@
+[
+ {
+  "id": "wh-princeton-pdf5-u7-001",
+  "skill_code": "1.A",
+  "topic_code": "7.4",
+  "rationale": "Asks to identify the propaganda technique (before/after contrast framing the revolution as a break from a backward past); content is Soviet interwar industrialization/collectivization propaganda.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u7-002",
+  "skill_code": "4.B",
+  "topic_code": "7.4",
+  "rationale": "Asks how the Women's Day image is situated in the broader context of industrialization/collectivization labor needs; explains the goal behind the propaganda.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u7-003",
+  "skill_code": "1.A",
+  "topic_code": "7.4",
+  "rationale": "Asks to identify the 1930s development (1936 abortion ban and family laws) contradicting the image's emancipatory message; Stalin-era Soviet social policy.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-001",
+  "skill_code": "1.A",
+  "topic_code": "8.6",
+  "rationale": "Asks to identify from the table which country gained most manufacturing share (Brazil); postwar Latin American industrialization.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-002",
+  "skill_code": "2.B",
+  "topic_code": "8.1",
+  "rationale": "Explains how the 1870 cable map's presentation is situated in 19th-century imperial strategy; item is unit 8 though the content is unit-6 imperialism, so 8.1 (setting the stage/legacies of empire) is the least-bad fit.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-003",
+  "skill_code": "5.B",
+  "topic_code": "8.6",
+  "rationale": "Explains Argentina's stagnation by relating political upheaval and policy reversals to industrial outcomes; postwar Latin American development.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-004",
+  "skill_code": "1.B",
+  "topic_code": "8.6",
+  "rationale": "Asks to explain the policy (import-substitution industrialization via tariffs and state investment) behind the manufacturing gains.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-005",
+  "skill_code": "4.A",
+  "topic_code": "8.4",
+  "rationale": "Identifies the historical context of Mao's 'worker-peasant alliance' formula: the party's legitimating claim to rule in workers' and peasants' names.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-006",
+  "skill_code": "1.A",
+  "topic_code": "8.4",
+  "rationale": "Identifies the outcome of the 1955 collectivization drive (the Great Leap Forward and its famine).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-007",
+  "skill_code": "1.A",
+  "topic_code": "8.4",
+  "rationale": "Identifies the parallel earlier policy (Soviet dekulakization against wealthier peasants).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-008",
+  "skill_code": "1.A",
+  "topic_code": "8.4",
+  "rationale": "Identifies the difference from classical Marxism (peasantry, not the urban proletariat, as the revolutionary base).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-009",
+  "skill_code": "1.A",
+  "topic_code": "8.4",
+  "rationale": "Identifies Deng's reversing policy (the household responsibility system dismantling collectives).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-010",
+  "skill_code": "1.A",
+  "topic_code": "8.7",
+  "rationale": "Identifies the outcome of Khomeini's return (establishment of the Islamic Republic of Iran).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-011",
+  "skill_code": "1.A",
+  "topic_code": "8.7",
+  "rationale": "Identifies the earlier event behind the anti-American charge (the 1953 CIA-backed overthrow of Mossadegh).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-012",
+  "skill_code": "1.A",
+  "topic_code": "8.7",
+  "rationale": "Identifies the 1979-81 development deepening the break (the US embassy seizure and hostage crisis).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf5-u8-013",
+  "skill_code": "1.B",
+  "topic_code": "8.7",
+  "rationale": "Explains the revolution as part of the broader pattern of religious/cultural movements challenging secular Western-aligned regimes.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u1-001",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Explains why paper money emerged first in China (a large commercial economy generating transaction volumes suited to paper).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u1-002",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Explains the economic principle behind harsh counterfeiting penalties (paper money holds value only through trust).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u1-003",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Explains the source of late-Ming silver (Spanish American silver reaching China via Pacific and Indian Ocean trade).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-001",
+  "skill_code": "5.A",
+  "topic_code": "2.7",
+  "rationale": "Identifies a difference between the two African trading systems (Saharan camel caravan vs monsoon-driven ocean ship).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-002",
+  "skill_code": "1.A",
+  "topic_code": "2.4",
+  "rationale": "Explains what inland cities' prosperity demonstrates (cities prosper when connected to long-distance caravan routes).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-003",
+  "skill_code": "1.A",
+  "topic_code": "2.3",
+  "rationale": "Identifies the commodity linking the southern African interior to Indian Ocean markets (gold).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-004",
+  "skill_code": "1.B",
+  "topic_code": "2.2",
+  "rationale": "Explains what the relay system demonstrates (an administrative network letting one ruler govern a vast empire).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-005",
+  "skill_code": "1.B",
+  "topic_code": "2.1",
+  "rationale": "Explains Mongol control's contribution (Pax Mongolica reviving and protecting Silk Road trade); content straddles 2.1/2.2 but the answer centers on Silk Road trade.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-006",
+  "skill_code": "3.D",
+  "topic_code": "2.2",
+  "rationale": "Judges which claim about the conquests historians accept, corroborating the brutal-conquest plus later religious-tolerance picture.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-007",
+  "skill_code": "1.B",
+  "topic_code": "2.2",
+  "rationale": "Explains the strategic result of the cultivated terror reputation (cities surrendering without a fight).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-008",
+  "skill_code": "1.B",
+  "topic_code": "2.5",
+  "rationale": "Explains what the passage illustrates about Islam's spread in West Africa (blending with local customs rather than replacing them).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-009",
+  "skill_code": "1.B",
+  "topic_code": "2.5",
+  "rationale": "Explains what drew travelers like Ibn Battuta (Mansa Musa's hajj advertising Mali's wealth and faith); cultural fame rather than trade mechanics.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-010",
+  "skill_code": "1.B",
+  "topic_code": "2.5",
+  "rationale": "Explains how Islam reached Mali (via Saharan trade and ruler conversion, not conquest).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-001",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
+  "rationale": "Explains what the beard-tax reaction illustrates (Peter's Westernization challenging deep-rooted cultural/religious traditions; an administrative reform).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-002",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
+  "rationale": "Explains the dual function of the tax (pressuring European styles while raising revenue for the modernizing state).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-003",
+  "skill_code": "4.B",
+  "topic_code": "3.2",
+  "rationale": "Situates Peter's centralized autocratic state in the broader context of two centuries of Mongol rule empowering Moscow's princes as tribute collectors.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-004",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
+  "rationale": "Identifies the method of rule illustrated (absolute monarchy: rule by unchecked personal decree).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-005",
+  "skill_code": "1.B",
+  "topic_code": "3.1",
+  "rationale": "Explains the European disarray Busbecq observed (Christendom's religious fragmentation after the Reformation) facing Ottoman expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-006",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
+  "rationale": "Identifies the Ottoman institution exemplifying order and discipline (the janissaries).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u3-007",
+  "skill_code": "1.B",
+  "topic_code": "3.4",
+  "rationale": "Explains what Busbecq's Persia remark indicates (sustained Ottoman-Safavid rivalry diverting Ottoman forces eastward).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-001",
+  "skill_code": "3.A",
+  "topic_code": "4.6",
+  "rationale": "Identifies Erasmus's central criticism (the clergy's conduct contradicts the Christian values they preach); a Reformation-era challenge to Church authority.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-002",
+  "skill_code": "2.C",
+  "topic_code": "4.6",
+  "rationale": "Explains the significance and limits of the source for studying popular attitudes (a satire mocking its targets, not a neutral survey).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-003",
+  "skill_code": "5.B",
+  "topic_code": "4.6",
+  "rationale": "Explains what the Erasmus/Luther contrast illustrates (reformist criticism could lead to internal Catholic reform or to schism).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-004",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
+  "rationale": "Explains the charter's principal purpose (funding costly overseas ventures with pooled private investment under state authority).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-005",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Explains what the delegated powers illustrate (private trading companies exercising powers normally reserved for governments).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-006",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
+  "rationale": "Explains the mercantilist idea behind chartered companies (nations grow wealthy by controlling trade and directing colonial profits home).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-007",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
+  "rationale": "Explains the decline of trans-Saharan trade (European sea trade shifted West African commerce toward the Atlantic coast).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-008",
+  "skill_code": "1.B",
+  "topic_code": "4.3",
+  "rationale": "Explains what the 1500s population collapse contributed to (a labor shortage driving European demand for enslaved Africans).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-009",
+  "skill_code": "1.B",
+  "topic_code": "4.3",
+  "rationale": "Explains why the collapse was so severe (Old World diseases striking populations with no prior immunity: virgin-soil epidemics).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-010",
+  "skill_code": "1.B",
+  "topic_code": "4.3",
+  "rationale": "Explains the 1600s-1700s recovery (the arrival of enslaved Africans and the growth of their descendants, not a Native rebound).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-011",
+  "skill_code": "1.B",
+  "topic_code": "4.5",
+  "rationale": "Explains what Guaman Poma demonstrates (some indigenous elites worked inside the colonial system for their communities).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-012",
+  "skill_code": "1.B",
+  "topic_code": "4.5",
+  "rationale": "Explains what the blended capac/corregidor titles illustrate (hybrid Andean-Spanish authority); administrative content rather than social hierarchy.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-013",
+  "skill_code": "1.A",
+  "topic_code": "4.8",
+  "rationale": "Identifies the demonstrated fact (complex Andean states long predated the Inca); the content is pre-1450, so 4.8 is a least-bad fit within unit 4.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-pdf6-u4-014",
+  "skill_code": "1.B",
+  "topic_code": "4.5",
+  "rationale": "Explains why reform appeals failed (the colonial economy depended on coerced labor, so settlers blocked reform).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u5-001",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the purpose of L'Ouverture's argument (rebutting treason charges by showing France betrayed the Revolution's promises).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u5-002",
+  "skill_code": "2.B",
+  "topic_code": "5.2",
+  "rationale": "Explains what the Wordsworth poem's existence demonstrates (some Europeans received the Haitian Revolution as part of a wider liberty struggle).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u5-003",
+  "skill_code": "1.B",
+  "topic_code": "5.2",
+  "rationale": "Explains what inspired the 1791 revolt (the French Revolution's ideals of liberty claimed by the enslaved).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-001",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
+  "rationale": "Identifies the cause of the Leeds dispute (mechanized textile production); the content is Industrial Revolution (unit 5) but the unit-6 constraint forces 6.4 as least-bad.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-002",
+  "skill_code": "3.C",
+  "topic_code": "6.4",
+  "rationale": "Compares the two sources' arguments (each side framed its economic interest as serving national welfare); same unit/topic mismatch as the paired item.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-003",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
+  "rationale": "Explains what the merchants' foreign-competition argument reflects (growing international competition in manufactures); same mismatch.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-004",
+  "skill_code": "1.B",
+  "topic_code": "6.3",
+  "rationale": "Explains what the maji bullet-belief indicates (African fighters recognized European firearms as the decisive advantage).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-005",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
+  "rationale": "Identifies the shared pattern: both movements addressed the need for hope and unity after devastating military defeats.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-006",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
+  "rationale": "Explains the 'local wars' as products of the common European strategy of allying with some African groups against rivals.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-007",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
+  "rationale": "Identifies the shared pattern (millenarian movements promising supernatural deliverance).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-008",
+  "skill_code": "1.B",
+  "topic_code": "6.7",
+  "rationale": "Explains the post-1800 Americas population surge (mass European migration for land and work during industrialization).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-001",
+  "skill_code": "3.A",
+  "topic_code": "7.1",
+  "rationale": "Identifies Addams's political strategy (maternalist framing: suffrage as an extension of women's domestic roles); 7.1 covers post-1900 shifting power and social change.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-002",
+  "skill_code": "1.B",
+  "topic_code": "7.1",
+  "rationale": "Explains how WWI aided the suffrage movement (women's wartime service made denying full citizenship indefensible).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-003",
+  "skill_code": "4.B",
+  "topic_code": "7.1",
+  "rationale": "Situates Addams's settlement-house activism in the broader Progressive Era reform context (repairing industrialization's social costs).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-004",
+  "skill_code": "1.B",
+  "topic_code": "7.5",
+  "rationale": "Explains the League's failure to stop Italy (no US membership, no real enforcement power).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-005",
+  "skill_code": "4.B",
+  "topic_code": "7.6",
+  "rationale": "Situates Italy's invasion in the broader pattern of 1930s fascist aggressions (Manchuria, Ethiopia, Rhineland) eroding the peace settlement.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-006",
+  "skill_code": "1.A",
+  "topic_code": "7.5",
+  "rationale": "Identifies the principle in Selassie's appeal (the sovereign equality of nations and collective security under Article 16).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u7-007",
+  "skill_code": "1.B",
+  "topic_code": "7.6",
+  "rationale": "Explains the League failure's consequence (aggressor states concluded further expansion would go unpunished).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u8-001",
+  "skill_code": "5.A",
+  "topic_code": "8.5",
+  "rationale": "Identifies the shared principle in the two declarations (the right of peoples to self-determination as the basis for statehood); decolonization-era state claims.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-pdf6-u8-002",
+  "skill_code": "1.B",
+  "topic_code": "8.5",
+  "rationale": "Explains what enabled large-scale Jewish immigration (British rule in Palestine under the Balfour Declaration mandate).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-pdf6-u8-003",
+  "skill_code": "1.B",
+  "topic_code": "8.1",
+  "rationale": "Explains the Mandate's origin (Ottoman defeat in WWI and the resulting League mandates).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u1-001",
+  "skill_code": "3.A",
+  "topic_code": "1.1",
+  "rationale": "Identifies the idea the manifesto's Yuan-fall explanation relies on (Heaven withdrew favor from the misruled Yuan).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-002",
+  "skill_code": "2.B",
+  "topic_code": "1.1",
+  "rationale": "Explains the purpose and historical situation of sending the manifesto (a new dynasty announcing legitimacy to foreign rulers within China's diplomatic order).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-003",
+  "skill_code": "3.B",
+  "topic_code": "1.1",
+  "rationale": "Identifies the evidence used to support the legitimacy argument (Heaven's will, the people's choice, and victorious war).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-004",
+  "skill_code": "3.A",
+  "topic_code": "1.1",
+  "rationale": "Identifies the Ming ideological position (native restorers ending a century of foreign misrule).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-005",
+  "skill_code": "3.A",
+  "topic_code": "1.1",
+  "rationale": "Identifies the rhetorical strategy (portraying the Yuan as morally bankrupt to legitimize their replacement).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-006",
+  "skill_code": "2.B",
+  "topic_code": "1.1",
+  "rationale": "Explains Rubruck's POV (a European traveler evaluating Karakorum against familiar European standards); Mongol-era China content fits 1.1 best within unit 1.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u1-007",
+  "skill_code": "3.D",
+  "topic_code": "1.1",
+  "rationale": "Explains how the specialized-markets evidence supports the conclusion (Karakorum as a commercial hub joining pastoral and agricultural economies).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-008",
+  "skill_code": "3.D",
+  "topic_code": "1.1",
+  "rationale": "Explains how the Muslim/Chinese quarters' description supports the conclusion (Mongols valued and protected foreign merchants and artisans).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-009",
+  "skill_code": "3.D",
+  "topic_code": "1.1",
+  "rationale": "Explains how the unimpressive palace supports the conclusion (Mongol power rested on mobile armies and tribute, not monumental cities).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u1-010",
+  "skill_code": "3.D",
+  "topic_code": "1.1",
+  "rationale": "Explains how Kublai's reception illustrates the Mongol practice (recruiting talented foreigners into imperial service).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u1-011",
+  "skill_code": "3.D",
+  "topic_code": "1.1",
+  "rationale": "Explains how Polo's adoption of Tartar manners illustrates bidirectional cross-cultural exchange (the traveler transformed as well as informing Europe).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-012",
+  "skill_code": "3.D",
+  "topic_code": "1.4",
+  "rationale": "Explains how the Great Temple's scale supports the conclusion (the Aztec state could mobilize massive labor forces).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-013",
+  "skill_code": "2.B",
+  "topic_code": "1.4",
+  "rationale": "Explains Cortes's POV (European observers measuring unfamiliar societies against familiar benchmarks like Seville's church tower).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-014",
+  "skill_code": "2.B",
+  "topic_code": "1.2",
+  "rationale": "Explains ibn al-Athir's POV and historical situation (a scholar of the Islamic world shocked by warfare of unprecedented scale and speed).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-015",
+  "skill_code": "3.A",
+  "topic_code": "1.2",
+  "rationale": "Identifies the long-term aftermath claim (the Mongol conquerors of Islamic lands became Muslims themselves).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u1-016",
+  "skill_code": "3.D",
+  "topic_code": "1.4",
+  "rationale": "Explains how the quipu evidence supports the conclusion (complex administration does not require alphabetic writing).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-017",
+  "skill_code": "2.B",
+  "topic_code": "1.4",
+  "rationale": "Explains Cieza de Leon's POV (a Spanish chronicler idealizing Inca order and justice, implicitly criticizing Spanish rule).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-018",
+  "skill_code": "3.D",
+  "topic_code": "1.4",
+  "rationale": "Explains how the poor/widows detail supports the conclusion (the Inca state tracked vulnerable groups for support, not just revenue).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-019",
+  "skill_code": "3.D",
+  "topic_code": "1.4",
+  "rationale": "Explains how the evidence supports the conclusion (rapid expansion via military conquest plus administrative integration of new territories).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u1-020",
+  "skill_code": "3.D",
+  "topic_code": "1.1",
+  "rationale": "Explains how Battuta's observation illustrates the Mongol practice (favoring foreign Muslims as administrators and intermediaries in Yuan China).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u1-021",
+  "skill_code": "3.D",
+  "topic_code": "1.2",
+  "rationale": "Explains how the journey illustrates the broader point (Islamic civilization created hospitality networks spanning Afro-Eurasia).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-001",
+  "skill_code": "3.D",
+  "topic_code": "2.2",
+  "rationale": "Explains how the night-watch evidence supports the conclusion (Yuan urban policing as a routinized, centrally directed system).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-002",
+  "skill_code": "3.D",
+  "topic_code": "2.5",
+  "rationale": "Explains the observation's significance as evidence (Europeans struck by a Chinese monetary practice with no 13th-century European equivalent); cultural-encounter content.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u2-003",
+  "skill_code": "2.B",
+  "topic_code": "2.5",
+  "rationale": "Explains Polo's POV (a European traveler judging Asian societies against Christian cultural norms).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-004",
+  "skill_code": "3.D",
+  "topic_code": "2.2",
+  "rationale": "Explains how continued paper money supports the conclusion (Mongols preserved and used existing Chinese administrative and economic practices).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-005",
+  "skill_code": "3.D",
+  "topic_code": "2.7",
+  "rationale": "Explains how the map evidence supports the connection claim (both systems linked through North Africa and the Red Sea).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-006",
+  "skill_code": "3.D",
+  "topic_code": "2.3",
+  "rationale": "Explains how Swahili prosperity illustrates the point (African societies actively took part in and profited from Indian Ocean commerce).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-007",
+  "skill_code": "3.D",
+  "topic_code": "2.6",
+  "rationale": "Explains how the ecological evidence (the tsetse fly belt blocking pack animals) accounts for the absence of routes across central Africa.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-008",
+  "skill_code": "3.D",
+  "topic_code": "2.2",
+  "rationale": "Explains how the speed evidence illustrates Mongol warfare (mobility, siege craft, and terror collapsing defenses fast).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u2-009",
+  "skill_code": "3.D",
+  "topic_code": "2.2",
+  "rationale": "Explains how the Russia/China comparison supports the conclusion (Mongols adapted: direct rule or tribute-taking as each suited).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u2-010",
+  "skill_code": "3.D",
+  "topic_code": "2.5",
+  "rationale": "Explains how the 1667 plan's mosque and stupa illustrate the point (Java was already a crossroads of layered religions before the Dutch).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-001",
+  "skill_code": "3.D",
+  "topic_code": "3.1",
+  "rationale": "Uses the treaty as evidence for a general claim about power (treaties legitimizing one ruler's claim to another throne); the 1420 Treaty of Troyes is European dynastic politics, poorly fit by any unit-3 topic, 3.1 least-bad.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u3-002",
+  "skill_code": "2.B",
+  "topic_code": "3.1",
+  "rationale": "Explains the authors' historical situation (writing from military and political strength, expecting terms to be enforced); same topic mismatch as the paired item.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u3-003",
+  "skill_code": "3.A",
+  "topic_code": "3.1",
+  "rationale": "Identifies the feature of early modern rule (composite monarchy: one sovereign over distinct realms); same topic mismatch.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u3-004",
+  "skill_code": "3.D",
+  "topic_code": "3.1",
+  "rationale": "Explains how the 1543 siege painting illustrates Ottoman land forces expanding into Central Europe using gunpowder siege warfare.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-005",
+  "skill_code": "4.A",
+  "topic_code": "3.1",
+  "rationale": "Identifies the context explaining Hungarian vulnerability (the kingdom fractured after its king died at Mohacs in 1526).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-006",
+  "skill_code": "3.D",
+  "topic_code": "3.1",
+  "rationale": "Explains how the evidence supports the consequence claim (Hungary partitioned among Ottoman, Habsburg, and Transylvanian zones).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-007",
+  "skill_code": "3.D",
+  "topic_code": "3.1",
+  "rationale": "Explains how the siege illustrates the early-modern warfare change (gunpowder artillery making fortified cities vulnerable).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-008",
+  "skill_code": "3.D",
+  "topic_code": "3.2",
+  "rationale": "Explains how Bernier's description supports the conclusion (Mughal authority was layered and negotiated, with many groups keeping autonomy).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-009",
+  "skill_code": "3.D",
+  "topic_code": "3.2",
+  "rationale": "Explains how the reverse-tribute detail illustrates negotiated Mughal sovereignty (emperors sometimes paying tribute to powerful groups).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u3-010",
+  "skill_code": "3.D",
+  "topic_code": "3.3",
+  "rationale": "Explains how Akbar's jizya suspension illustrates the governing strategy (religious accommodation to stabilize rule over a Hindu majority).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-011",
+  "skill_code": "2.B",
+  "topic_code": "3.2",
+  "rationale": "Explains the edicts' purpose and historical situation (a tool for controlling the warrior class during the new Tokugawa peace).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-012",
+  "skill_code": "3.D",
+  "topic_code": "3.2",
+  "rationale": "Explains how the peacetime-training emphasis illustrates the point (the shogunate's central challenge was managing an idle warrior class).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-013",
+  "skill_code": "3.D",
+  "topic_code": "3.3",
+  "rationale": "Explains how the literature/arms pairing reflects the Tokugawa ideal (the warrior combining Confucian learning with martial readiness).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-014",
+  "skill_code": "2.B",
+  "topic_code": "3.3",
+  "rationale": "Explains Luther's purpose in addressing the nobility (he needed secular rulers to impose reforms the Church would never make itself).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-015",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
+  "rationale": "Identifies the three-walls argument (the Church's institutional defenses made internal reform impossible).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-016",
+  "skill_code": "2.B",
+  "topic_code": "3.2",
+  "rationale": "Explains the genre and purpose of The Prince (politics as a practical craft rulers can learn); Renaissance statecraft fits no unit-3 topic well, 3.2 (methods of rule) least-bad.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u3-017",
+  "skill_code": "3.A",
+  "topic_code": "3.2",
+  "rationale": "Identifies the long-term significance claim (founding the realist tradition of studying power apart from ethics); same topic mismatch.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u3-018",
+  "skill_code": "3.B",
+  "topic_code": "3.2",
+  "rationale": "Identifies the evidence Machiavelli uses (history as a storehouse of practical lessons for rulers); same topic mismatch.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u3-019",
+  "skill_code": "3.A",
+  "topic_code": "3.1",
+  "rationale": "Identifies the significance claim (1453 gave the Ottomans a new intercontinental capital).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-020",
+  "skill_code": "3.A",
+  "topic_code": "3.1",
+  "rationale": "Identifies the Russian development (Moscow claiming the Byzantine legacy as the 'Third Rome').",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-021",
+  "skill_code": "3.D",
+  "topic_code": "3.1",
+  "rationale": "Explains how the siege illustrates the warfare change (gunpowder artillery defeating the greatest medieval fortifications).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u3-022",
+  "skill_code": "3.D",
+  "topic_code": "3.2",
+  "rationale": "Explains how the millet evidence illustrates pragmatic governance (religious autonomy in exchange for taxes and loyalty).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-001",
+  "skill_code": "3.A",
+  "topic_code": "4.2",
+  "rationale": "Identifies the development the map demonstrates (a direct sea route to Asia bypassing overland middlemen).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-002",
+  "skill_code": "4.A",
+  "topic_code": "4.1",
+  "rationale": "Identifies the context making the voyage possible (advances in ship design, sails, navigational instruments, and cartography).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-003",
+  "skill_code": "3.D",
+  "topic_code": "4.4",
+  "rationale": "Explains how the new route supports the impact claim (the spice trade shifting from overland routes to European-controlled sea routes).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-004",
+  "skill_code": "3.A",
+  "topic_code": "4.5",
+  "rationale": "Identifies the characterization (a Portuguese trading-post empire of coastal forts while Africans held the interior).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-005",
+  "skill_code": "3.D",
+  "topic_code": "4.7",
+  "rationale": "Explains how Wesley's religious framing illustrates abolitionism's Christian moral roots; abolition sits in 4.7 (changing social hierarchies) as the best available fit.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u4-006",
+  "skill_code": "3.D",
+  "topic_code": "4.7",
+  "rationale": "Explains how the crowding evidence supports the conclusion (packing reflected a profit calculation treating humans as cargo).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u4-007",
+  "skill_code": "4.A",
+  "topic_code": "4.5",
+  "rationale": "Situates the triangular trade in the broader economic context (enslaved labor producing commodities that fueled European commercial growth).",
+  "confidence": "med",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u4-008",
+  "skill_code": "2.B",
+  "topic_code": "4.4",
+  "rationale": "Explains Cortes's purpose (impressing the king to justify his unauthorized expedition with promises of wealth).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-009",
+  "skill_code": "3.D",
+  "topic_code": "4.2",
+  "rationale": "Explains how the 'scarcely worthy of credit' warning illustrates Europe's lack of reliable knowledge of the Americas in 1520.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-010",
+  "skill_code": "2.B",
+  "topic_code": "4.4",
+  "rationale": "Explains the description's purpose (grandiose accounts of temple wealth encouraging further Spanish investment in conquest).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-011",
+  "skill_code": "3.D",
+  "topic_code": "4.4",
+  "rationale": "Explains how the 'idols' language illustrates the point (calling native religion idolatry gave moral justification for conquest).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-012",
+  "skill_code": "3.A",
+  "topic_code": "4.8",
+  "rationale": "Identifies the change claim (a dynastic change reversed a century of Yuan cosmopolitan openness); Ming-policy content fits no other unit-4 topic, 4.8 least-bad.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u4-013",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
+  "rationale": "Identifies the European assumption (they could divide up non-European lands by agreement, consulting no native rulers).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-014",
+  "skill_code": "2.B",
+  "topic_code": "4.4",
+  "rationale": "Explains the papacy's brokering role (its claimed universal spiritual authority to assign newly found lands to Christian princes).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-015",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
+  "rationale": "Identifies the practical problem created by the pole-to-pole line (without longitude measurement its location stayed disputed).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u4-016",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
+  "rationale": "Identifies the long-term outcome (Brazil is Portuguese-speaking from its place on Portugal's side of the line).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-017",
+  "skill_code": "3.A",
+  "topic_code": "4.5",
+  "rationale": "Identifies the view Rodney challenges (African poverty as natural or self-inflicted); a 1974 historiographical argument about the slave-trade/imperial era, 4.7 least-bad.",
+  "confidence": "low",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u4-018",
+  "skill_code": "3.A",
+  "topic_code": "4.7",
+  "rationale": "Identifies what 'agents or unwitting accomplices' illustrates (African rulers and merchants implicated alongside Europeans); same mismatch.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u4-019",
+  "skill_code": "3.A",
+  "topic_code": "4.7",
+  "rationale": "Identifies the guns-for-slaves cycle description; same mismatch.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-princeton-u4-020",
+  "skill_code": "3.D",
+  "topic_code": "4.5",
+  "rationale": "Explains how Batavia's fort/administration/marketplace plan illustrates the VOC combining trade, territorial rule, and military force like a state.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-021",
+  "skill_code": "3.D",
+  "topic_code": "4.5",
+  "rationale": "Explains how the geometric grid illustrates imposed colonial order (Dutch planning to display and enforce authority).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-022",
+  "skill_code": "2.B",
+  "topic_code": "4.5",
+  "rationale": "Explains Guaman Poma's purpose (documenting mine abuses in Spanish to petition the crown for reform).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-023",
+  "skill_code": "3.A",
+  "topic_code": "4.5",
+  "rationale": "Identifies the labor system illustrated (debt peonage: owners trapping workers through forced purchases and deductions).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-024",
+  "skill_code": "3.C",
+  "topic_code": "4.5",
+  "rationale": "Compares Spanish and English colonial labor (drafted native labor vs indentured and enslaved labor).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u4-025",
+  "skill_code": "3.A",
+  "topic_code": "4.5",
+  "rationale": "Identifies the Spanish policy response (abuse reports pressuring the crown toward protective laws like the New Laws).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u4-026",
+  "skill_code": "3.A",
+  "topic_code": "4.3",
+  "rationale": "Identifies the global significance of Potosi silver (financing a trade circuit linking three continents); Columbian Exchange economics.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u5-001",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the concept exemplified (cultural nationalism defining the nation by language and culture).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-002",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
+  "rationale": "Situates the songs' popularity in the broader unification context (shared cultural products creating German identity before political unification).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-003",
+  "skill_code": "3.D",
+  "topic_code": "5.2",
+  "rationale": "Explains how Pankhurst's 'civil war' language illustrates the movement's militant, confrontational tactics.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u5-004",
+  "skill_code": "2.B",
+  "topic_code": "5.2",
+  "rationale": "Explains Capetillo's POV (a feminism fusing women's liberation with the struggle against class rule).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u5-005",
+  "skill_code": "3.C",
+  "topic_code": "5.2",
+  "rationale": "Compares the two sources' shared argument (both locate women's subordination in unjust traditions that must be challenged).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-006",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the significance claim (the only slave revolt to overthrow slavery and found a new state).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-007",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the context making the 1791 timing significant (rebels appropriating the French Revolution's ideals of liberty).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-008",
+  "skill_code": "3.D",
+  "topic_code": "5.2",
+  "rationale": "Explains how Bolivar's description illustrates creoles' ambiguous rank (American by birth, European by law, subordinate to peninsulares).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-009",
+  "skill_code": "3.D",
+  "topic_code": "5.2",
+  "rationale": "Explains how the warning illustrates Bolivar's concern (colonial rule left Americans unprepared for self-government).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-010",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the fate of the unity project (collapse with the breakup of Gran Colombia).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-011",
+  "skill_code": "3.C",
+  "topic_code": "5.2",
+  "rationale": "Compares the two constitutions (diverse political experiments: republic vs hereditary monarchy).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u5-012",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the broader influence on both constitutions (Enlightenment ideas of sovereignty and constitutionalism).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u5-013",
+  "skill_code": "3.C",
+  "topic_code": "5.2",
+  "rationale": "Compares the two cases to explain the divergence (Brazil's monarchy gave unity that Spanish America's republics lacked).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u5-014",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Identifies the 19th-century trend (established Catholic church with tolerated private pluralism).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u6-001",
+  "skill_code": "3.D",
+  "topic_code": "6.1",
+  "rationale": "Explains how the 'one and the same nation' claim illustrates imperial narrative-construction to make conquest look legitimate.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u6-002",
+  "skill_code": "4.A",
+  "topic_code": "6.1",
+  "rationale": "Identifies the ideology reflected ('infantile nation' paternalism justifying domination as a civilizing mission).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u6-003",
+  "skill_code": "3.D",
+  "topic_code": "6.1",
+  "rationale": "Explains how Korean court histories recording independent dynastic rule would refute the 'reunion of two sections' claim.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u6-004",
+  "skill_code": "3.A",
+  "topic_code": "6.2",
+  "rationale": "Identifies Hobson's core distinction (new imperialism as minority political control over dense native populations vs settler colonization); form-of-expansion content.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u6-005",
+  "skill_code": "2.B",
+  "topic_code": "6.1",
+  "rationale": "Explains Hobson's POV (even a critic of imperialism in 1902 shared the racial assumptions of his era).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u6-006",
+  "skill_code": "3.A",
+  "topic_code": "6.2",
+  "rationale": "Identifies the scenario fitting Hobson's definition (a small corps of officials governing millions without extending metropolitan liberties).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u6-007",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
+  "rationale": "Identifies the context explaining spheres of influence (China too large and organized to conquer, so Europeans settled for commercial privileges).",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-princeton-u6-008",
+  "skill_code": "3.D",
+  "topic_code": "6.1",
+  "rationale": "Explains the implication of 'expansion of autocracy' (despotic imperial habits corrupting democratic politics at home).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u6-009",
+  "skill_code": "2.B",
+  "topic_code": "6.1",
+  "rationale": "Explains the painting's purpose as imperial propaganda (presenting empire as a benevolent gift, concealing conquest and exploitation).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-princeton-u6-010",
+  "skill_code": "4.B",
+  "topic_code": "6.1",
+  "rationale": "Situates the painting's imperial pride in the broader Victorian context (empire becoming central to identity as the monarchy's political power waned).",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-princeton-u6-011",
+  "skill_code": "3.A",
+  "topic_code": "6.1",
+  "rationale": "Identifies the Victorian assumption revealed (British power deriving from Protestant Christianity and moral superiority).",
+  "confidence": "high"
+ }
+]

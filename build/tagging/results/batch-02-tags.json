@@ -1,0 +1,1233 @@
+[
+ {
+  "id": "wh-barrons-u1-011",
+  "skill_code": "1.A",
+  "topic_code": "1.4",
+  "rationale": "Asks what happened to the Inca mit'a labor system after the Spanish conquest (adapted into Potosi silver-mine drafts); identifying a historical development in Andean state building.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-012",
+  "skill_code": "3.A",
+  "topic_code": "1.4",
+  "rationale": "Asks what the arrows on the Mesoamerican map indicate (trade networks); identifying/describing the claim made by a non-text source.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-013",
+  "skill_code": "5.A",
+  "topic_code": "1.4",
+  "rationale": "Asks which earlier culture explains shared features across Mesoamerican sites (the Olmec mother culture); identifying a pattern/connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-014",
+  "skill_code": "4.A",
+  "topic_code": "1.4",
+  "rationale": "Asks which prestige goods moved along Mesoamerican trade routes; identifying the historical context of elite exchange.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-015",
+  "skill_code": "1.B",
+  "topic_code": "1.4",
+  "rationale": "Asks what recent scholarship emphasizes about the Classic Maya collapse (political fragmentation, peoples endured); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-016",
+  "skill_code": "5.A",
+  "topic_code": "1.7",
+  "rationale": "Asks which debate the gunpowder passage feeds (divided Europe vs unified China); identifying a connection between an argument and a broader debate.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-017",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Asks where Ming military investment focused instead of artillery (northern frontier vs nomads); explaining a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-018",
+  "skill_code": "6.A",
+  "topic_code": "1.1",
+  "rationale": "Asks the name of the scholarly debate about China's early technological lead (the Needham question); selecting the defensible claim.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u1-019",
+  "skill_code": "5.A",
+  "topic_code": "1.2",
+  "rationale": "Asks what the Qur'an/wine-poetry contrast illustrates (gap between prescriptions and practice); identifying a pattern in Islamic societies.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-020",
+  "skill_code": "2.A",
+  "topic_code": "1.2",
+  "rationale": "Asks what the 'O ye who believe' address shows about the verse's function (communal moral instruction); identifying a source's audience/purpose.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-021",
+  "skill_code": "3.A",
+  "topic_code": "1.2",
+  "rationale": "Asks what wine poetry alongside prohibition suggests (diverse currents in Islamic civilization); identifying the claim the evidence supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-022",
+  "skill_code": "3.A",
+  "topic_code": "1.2",
+  "rationale": "Asks what the qanat's spread from Persia illustrates (diffusion of technology across Afro-Eurasia); identifying the claim the diagram supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-023",
+  "skill_code": "1.B",
+  "topic_code": "1.2",
+  "rationale": "Asks what coordinated qanat labor implies (organized authority); explaining a historical development from evidence.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-024",
+  "skill_code": "3.A",
+  "topic_code": "1.2",
+  "rationale": "Asks in which environments qanats were most valuable (arid lands with groundwater); identifying the claim the diagram supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-025",
+  "skill_code": "5.A",
+  "topic_code": "1.2",
+  "rationale": "Asks how classical jihad law divided the world (dar al-Islam/dar al-harb); identifying a legal-geographical pattern.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-026",
+  "skill_code": "6.A",
+  "topic_code": "1.2",
+  "rationale": "Asks what jurists' disagreement on jihad shows (real internal debate, not a monolith); selecting the defensible claim.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u1-027",
+  "skill_code": "6.C",
+  "topic_code": "1.2",
+  "rationale": "Asks what explains holy-war rhetoric coexisting with commerce (trade interests overriding hostilities); reasoning about the relationship between two pieces of evidence.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u1-028",
+  "skill_code": "3.A",
+  "topic_code": "1.7",
+  "rationale": "Asks what caused the Mongol Empire's fragmentation into four khanates (succession disputes, Toluid civil war); identifying the claim the map supports. Cross-regional, so 1.7 is the best unit-1 fit.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u1-029",
+  "skill_code": "5.A",
+  "topic_code": "1.7",
+  "rationale": "Asks what change in Eurasian trade the khanate fragmentation caused (weaker overland security, push to sea routes); identifying a connection.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u1-030",
+  "skill_code": "1.A",
+  "topic_code": "1.7",
+  "rationale": "Asks which Mongol trait the Golden Horde's conversion illustrates (religious adaptability); identifying a historical development.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u1-031",
+  "skill_code": "1.A",
+  "topic_code": "1.1",
+  "rationale": "Asks what happened to civil-service exams under the Yuan (suspended for decades); identifying a historical development in East Asia.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-001",
+  "skill_code": "3.A",
+  "topic_code": "2.2",
+  "rationale": "Asks which Mongol aim the relocation of skilled captives served (strengthening empire's crafts/weaponry); identifying the passage's claim.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-002",
+  "skill_code": "5.A",
+  "topic_code": "2.3",
+  "rationale": "Asks which process Swahili's development illustrates (Bantu-Arabic blending through Indian Ocean trade); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-003",
+  "skill_code": "5.A",
+  "topic_code": "2.3",
+  "rationale": "Asks why Geniza merchant letters are valuable (reveal everyday lives absent from chronicles); identifying a connection between source type and historical insight.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-004",
+  "skill_code": "4.A",
+  "topic_code": "2.3",
+  "rationale": "Asks what structured the merchant's long absences (monsoon wind cycle); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-005",
+  "skill_code": "2.A",
+  "topic_code": "2.3",
+  "rationale": "Asks which feature of Jewish family law the divorce discussion reflects (husband's formal get); identifying the source's legal situation.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-006",
+  "skill_code": "3.A",
+  "topic_code": "2.3",
+  "rationale": "Asks what sailors' knowledge the Indian Ocean system depended on (monsoon winds); identifying the claim the chart supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-007",
+  "skill_code": "1.A",
+  "topic_code": "2.3",
+  "rationale": "Asks which ships characterized the trade network (dhows with lateen sails); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-008",
+  "skill_code": "1.A",
+  "topic_code": "2.3",
+  "rationale": "Asks for an example of merchant diaspora communities (Arabs/Gujaratis in East African ports); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u2-009",
+  "skill_code": "1.B",
+  "topic_code": "2.3",
+  "rationale": "Asks how the Portuguese disrupted the system (seizing ports, cartaz passes); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-001",
+  "skill_code": "3.A",
+  "topic_code": "3.2",
+  "rationale": "Asks what social order the Tokugawa merchant manual assumes (Confucian shi-no-ko-sho hierarchy); identifying the passage's claim.",
+  "confidence": "med",
+  "third_read": true
+ },
+ {
+  "id": "wh-barrons-u3-002",
+  "skill_code": "4.A",
+  "topic_code": "3.4",
+  "rationale": "Asks how Japanese merchants differed from European ones (ranked below peasants despite wealth); identifying/describing the comparative context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-003",
+  "skill_code": "2.A",
+  "topic_code": "3.1",
+  "rationale": "Asks what tension lies at the passage's heart (Confucian frugality vs profit-seeking); identifying the source's situation.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u3-004",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Asks what explains Babur's Panipat victory (artillery/muskets with cavalry); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-005",
+  "skill_code": "2.A",
+  "topic_code": "3.1",
+  "rationale": "Asks the purpose of Akbar's Baburnama illustrations (glorify founder, legitimize rule); identifying the source's purpose.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-006",
+  "skill_code": "5.A",
+  "topic_code": "3.3",
+  "rationale": "Asks what the Turkic-memoir/Persian-court combination illustrates (steppe origins layered with Persianate culture); identifying a cultural pattern.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u3-007",
+  "skill_code": "5.A",
+  "topic_code": "3.4",
+  "rationale": "Asks what historians should remember about travelers' court accounts (observation blends with cultural expectations); identifying a pattern about sources.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-008",
+  "skill_code": "2.B",
+  "topic_code": "3.4",
+  "rationale": "Asks why Leo Africanus's background matters (raises questions about intended audience); explaining the source's situation.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u3-009",
+  "skill_code": "2.A",
+  "topic_code": "3.1",
+  "rationale": "Asks what feature of the Ottoman system Busbecq admired (merit-based advancement); identifying the source's point of view.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-010",
+  "skill_code": "3.A",
+  "topic_code": "3.1",
+  "rationale": "Asks what cannot be learned from the Cossack map alone (revolts like Pugachev's); identifying the limits of the map's claims.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u3-011",
+  "skill_code": "4.A",
+  "topic_code": "3.4",
+  "rationale": "Asks which system the Russian yasak most resembles (Spanish encomienda); identifying the comparative historical context.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-barrons-u3-012",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Asks how Russian expansion across Siberia is best characterized (rapid fur-driven advance); identifying a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u3-013",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Asks what the Tokugawa famously did (restricted firearms to preserve samurai order); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-001",
+  "skill_code": "5.A",
+  "topic_code": "4.4",
+  "rationale": "Asks what the passage implies about 1600s North American power relations (Indigenous nations held the balance); identifying a pattern.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-002",
+  "skill_code": "2.A",
+  "topic_code": "4.4",
+  "rationale": "Asks which historiographical shift the interpretation reflects (passive victims to political agents); identifying the source's scholarly situation.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u4-003",
+  "skill_code": "2.C",
+  "topic_code": "4.4",
+  "rationale": "Asks which evidence would most strengthen the interpretation (Dutch complaints about Iroquois diplomacy); judging how evidence bears on the source's argument.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u4-004",
+  "skill_code": "5.B",
+  "topic_code": "4.6",
+  "rationale": "Asks why Maroon and Cossack frontier societies could form (central states could not reach frontier zones); explaining how state weakness relates to frontier societies.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-005",
+  "skill_code": "1.A",
+  "topic_code": "4.6",
+  "rationale": "Asks which was the largest maroon society (Palmares in Brazil); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-006",
+  "skill_code": "1.A",
+  "topic_code": "4.6",
+  "rationale": "Asks how Russia dealt with Cossack hosts over time (absorbed as imperial military servitors); identifying a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-007",
+  "skill_code": "4.A",
+  "topic_code": "4.4",
+  "rationale": "Asks under what authority the Hudson's Bay Company operated (1670 royal charter); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-008",
+  "skill_code": "5.A",
+  "topic_code": "4.4",
+  "rationale": "Asks what best describes chartered companies (shifting empire's costs to private investors); identifying a pattern across companies.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-009",
+  "skill_code": "4.A",
+  "topic_code": "4.5",
+  "rationale": "Asks what Huancavelica mercury was essential to (patio process at Potosi); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-010",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Asks how the mita differed from the encomienda (rotating state labor draft); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-011",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
+  "rationale": "Asks what Spain's outsized holdings on the map reflect (century-long head start from 1490s); identifying the claim the map supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-012",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
+  "rationale": "Asks why Europeans could not conquer interiors (disease and strong states); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u4-013",
+  "skill_code": "4.A",
+  "topic_code": "4.7",
+  "rationale": "Asks what the Caribbean sugar economy depended on (enslaved African labor); identifying the social-hierarchical context.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u5-001",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what Bolivar's 'neither Indian nor European' line reflects (distinct creole identity); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-002",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what Spain's commercial grievance was (colonies forced to trade only with Spain); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-003",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Asks which political project Bolivar is associated with after independence (Gran Colombia); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-004",
+  "skill_code": "5.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what de Gouges's Declaration strategy was (mirroring the Rights of Man against itself); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-005",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Asks why de Gouges was executed in 1793 (writings attacking the Jacobins); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-006",
+  "skill_code": "5.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what disappointed Algerian women's post-independence hopes (1984 Family Code); identifying a connection. Unit forced to 5 though Algerian decolonization is unit-8 content; 5.2 is the closest available.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-barrons-u5-007",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Asks against whom dan Fodio's jihad was directed (corrupt Hausa rulers); identifying the historical context.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u5-008",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what the Sokoto jihad's state became (a huge 19th-century African empire); identifying the historical context.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u5-009",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what Umar Tall's movement is most similar to (other West African reform jihads); identifying the comparative situation.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u5-010",
+  "skill_code": "4.A",
+  "topic_code": "5.3",
+  "rationale": "Asks what protoindustrialization refers to (rural household manufacturing for distant markets); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-011",
+  "skill_code": "6.A",
+  "topic_code": "5.5",
+  "rationale": "Asks what the engraving's Jesuit-report origins suggest (keen European interest in Chinese technology); selecting the defensible claim.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u5-012",
+  "skill_code": "5.A",
+  "topic_code": "5.7",
+  "rationale": "Asks what China's trade surplus meant (absorbed vast New World silver); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-013",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Asks whom the March 8, 1790 decree granted rights to (free men of color); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-014",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Asks what Oge was executed after (leading an armed revolt); identifying the historical situation.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u5-015",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Asks where the August 1791 uprising began (Bois Caiman, Boukman's ceremony); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-001",
+  "skill_code": "4.B",
+  "topic_code": "6.3",
+  "rationale": "Asks what best explains Ethiopia's Adowa victory (modern firearms plus Menelik's unification); explaining the development within its context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-002",
+  "skill_code": "2.B",
+  "topic_code": "6.3",
+  "rationale": "Asks what the 1940s Adowa painting served to do (rally national memory against Italy); explaining the source's purpose.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-003",
+  "skill_code": "1.B",
+  "topic_code": "6.3",
+  "rationale": "Asks why Liberia avoided colonization (founded by formerly enslaved Americans under US protection); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-004",
+  "skill_code": "1.B",
+  "topic_code": "6.5",
+  "rationale": "Asks what drove Britain's opium trade (persistent trade deficit with China); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-005",
+  "skill_code": "4.A",
+  "topic_code": "6.5",
+  "rationale": "Asks what the Canton system was (foreigners confined to one port and licensed intermediaries); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-006",
+  "skill_code": "1.A",
+  "topic_code": "6.5",
+  "rationale": "Asks which provision the unequal treaties included (extraterritoriality); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-007",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Asks which group the anti-bakufu writer belonged to (sonno joi samurai activists); identifying the source's point of view.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-008",
+  "skill_code": "4.A",
+  "topic_code": "6.3",
+  "rationale": "Asks what fate the author feared for Japan (China's fate: unequal treaties); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-009",
+  "skill_code": "1.A",
+  "topic_code": "6.3",
+  "rationale": "Asks how the Meiji government responded ('rich country, strong army': rapid industrialization); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-010",
+  "skill_code": "3.A",
+  "topic_code": "6.1",
+  "rationale": "Asks what purpose the 'dual mandate' argument served (persuading home audiences empire had moral purpose); identifying the claim in the text source.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-011",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
+  "rationale": "Asks how a 1940s West African nationalist would answer imperial claims (benevolence talk masked exploitation); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-012",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
+  "rationale": "Asks which colonial policy Lugard advocated (indirect rule through chiefs); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-013",
+  "skill_code": "2.A",
+  "topic_code": "6.2",
+  "rationale": "Asks what broader contrast the two authors' views reflect (British indirect rule vs French assimilation); identifying points of view.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-014",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
+  "rationale": "Asks what the sepoy-heavy army ratio reflects (cheap sepoy garrisons under European officers); explaining the data within its context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-015",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
+  "rationale": "Asks what vulnerability the sepoy policy created (dependence on sepoy loyalty, exposed 1857); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-016",
+  "skill_code": "4.A",
+  "topic_code": "6.3",
+  "rationale": "Asks what triggered the 1857 revolt (cartridge-grease rumors); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-017",
+  "skill_code": "4.A",
+  "topic_code": "6.3",
+  "rationale": "Asks how nationalist historiography reinterpreted 1857 (India's First War of Independence); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-018",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Asks what Cawnpore coverage was used to justify in Britain (brutal reprisals); identifying the source's purpose.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-019",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Asks which debate the two passages reflect ('mutiny' vs anti-colonial uprising); identifying the sources' points of view.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u6-020",
+  "skill_code": "1.A",
+  "topic_code": "6.3",
+  "rationale": "Asks what happened to Bahadur Shah Zafar (tried and exiled to Burma); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-021",
+  "skill_code": "3.A",
+  "topic_code": "6.4",
+  "rationale": "Asks what explains Britain's rising GDP share (early industrialization); identifying the claim the chart supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-022",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
+  "rationale": "Asks which scholarly debate the chart pattern centers (the Great Divergence); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-023",
+  "skill_code": "1.B",
+  "topic_code": "6.5",
+  "rationale": "Asks one major economic consequence for India (ruin of handloom textiles); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-024",
+  "skill_code": "4.A",
+  "topic_code": "6.4",
+  "rationale": "Asks why Britain's need for Indian cotton rose in the Civil War (Union blockade of Southern cotton); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-025",
+  "skill_code": "1.B",
+  "topic_code": "6.7",
+  "rationale": "Asks what fueled anti-Chinese opposition in the US (labor unions' wage claims); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-026",
+  "skill_code": "4.A",
+  "topic_code": "6.7",
+  "rationale": "Asks what the indentured-labor migration is linked to (replacing slave labor after abolition); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-027",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
+  "rationale": "Asks what made the Congo unusual (Leopold II's personal property); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-028",
+  "skill_code": "1.A",
+  "topic_code": "6.2",
+  "rationale": "Asks how Leopold's agents enforced rubber quotas (terror, hostage-taking, brutality); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-029",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Asks what news of Congo abuses led to (international campaign against Leopold); identifying the historical situation.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u6-030",
+  "skill_code": "2.B",
+  "topic_code": "6.2",
+  "rationale": "Asks how Bentinck's 1829 sati ban is best understood (a rare Company intervention in religious custom); explaining the historical situation.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u6-031",
+  "skill_code": "6.B",
+  "topic_code": "6.2",
+  "rationale": "Asks what motivated the Company's usual non-interference (fear of rebellion threatening profits); selecting the evidence-supported explanation.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u6-032",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
+  "rationale": "Asks how the two gunpowder images differ (Japan by trade, Senegal by colonial service); identifying a connection.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u6-033",
+  "skill_code": "1.A",
+  "topic_code": "6.2",
+  "rationale": "Asks how France used Senegalese tirailleurs (front-line soldiers in WWI); identifying a historical development.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u6-034",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
+  "rationale": "Asks what African veterans faced after decolonization (frozen pensions); identifying a connection between colonial service and postcolonial outcome.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u7-001",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
+  "rationale": "Asks how the 1901 Immigration Restriction Act excluded migrants (rigged dictation test); identifying context. Unit forced to 7 though migration restriction fits unit 6; 7.1 is the closest available.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-barrons-u7-002",
+  "skill_code": "2.A",
+  "topic_code": "7.1",
+  "rationale": "Asks when White Australia was dismantled (gradually, 1960s-1970s); identifying the historical situation. Same unit-7 mismatch as u7-001.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-barrons-u7-003",
+  "skill_code": "5.A",
+  "topic_code": "7.1",
+  "rationale": "Asks what the negritude movement was (Black francophone movement for African culture); identifying a pattern.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u7-004",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
+  "rationale": "Asks which movement paralleled negritude (the Harlem Renaissance); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u7-005",
+  "skill_code": "5.A",
+  "topic_code": "7.1",
+  "rationale": "Asks what explains Senghor's French-language poetry about Africa (French colonial education on three continents); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u7-006",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
+  "rationale": "Asks how negritude differed from assimilation (valued African cultures on their own terms); identifying the historical context.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-barrons-u7-007",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
+  "rationale": "Asks what the Soviet literacy campaign was called (likbez); identifying the historical context.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u7-008",
+  "skill_code": "3.A",
+  "topic_code": "7.1",
+  "rationale": "Asks whose lives the literacy campaign especially transformed (peasant women); identifying the claim the chart supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u7-009",
+  "skill_code": "2.A",
+  "topic_code": "7.1",
+  "rationale": "Asks what Soviet schools combined with literacy (political indoctrination via Young Pioneers); identifying the source's situation.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u7-010",
+  "skill_code": "6.A",
+  "topic_code": "7.1",
+  "rationale": "Asks which historiographical debate the literacy data features (whether Soviet achievements complicate the totalitarian view); selecting the defensible claim.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u8-001",
+  "skill_code": "3.A",
+  "topic_code": "8.1",
+  "rationale": "Asks what a historian should recognize about the two cartoons (a Western view, not neutral); identifying the claim about the sources.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-002",
+  "skill_code": "2.A",
+  "topic_code": "8.1",
+  "rationale": "Asks how the 'Path to Peace' title is best understood (ironic); identifying the source's purpose.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-003",
+  "skill_code": "4.A",
+  "topic_code": "8.2",
+  "rationale": "Asks which US policy the cartoons foreshadow (Truman Doctrine and containment); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-004",
+  "skill_code": "4.A",
+  "topic_code": "8.5",
+  "rationale": "Asks which concept Bandung popularized (the Third World as a Cold War bloc); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-005",
+  "skill_code": "1.A",
+  "topic_code": "8.5",
+  "rationale": "Asks which revolution Sukarno led (Indonesia's struggle against the Dutch); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-006",
+  "skill_code": "4.A",
+  "topic_code": "8.6",
+  "rationale": "Asks what nonalignment meant in practice (aid from both superpowers, no alliances); identifying the historical context.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-barrons-u8-007",
+  "skill_code": "4.A",
+  "topic_code": "8.5",
+  "rationale": "Asks what roles Algerian women played in the war (FLN couriers, bombers, organizers); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-008",
+  "skill_code": "4.A",
+  "topic_code": "8.6",
+  "rationale": "Asks what Nkrumah's vision created (the OAU, 1963); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-009",
+  "skill_code": "4.A",
+  "topic_code": "8.6",
+  "rationale": "Asks what Nkrumah's opponents favored (gradual cooperation preserving sovereignty); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u8-010",
+  "skill_code": "1.A",
+  "topic_code": "8.6",
+  "rationale": "Asks the circumstances of Nkrumah's 1966 overthrow (abroad, support eroded at home); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-001",
+  "skill_code": "3.D",
+  "topic_code": "9.1",
+  "rationale": "Asks the chart's limitation for comparing living standards (totals unadjusted for population); explaining how the evidence's form limits the claim.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u9-002",
+  "skill_code": "1.A",
+  "topic_code": "9.3",
+  "rationale": "Asks which debate the energy/CO2 correlation is cited in (whether rich and poor nations face the same limits); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-003",
+  "skill_code": "3.A",
+  "topic_code": "9.3",
+  "rationale": "Asks what a historian of science would caution (correlation needs more evidence for causation); identifying the claim about the charts.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-004",
+  "skill_code": "2.A",
+  "topic_code": "9.5",
+  "rationale": "Asks which broader development NOW's founding belongs to (second-wave feminism beyond suffrage); identifying the historical situation.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-005",
+  "skill_code": "3.A",
+  "topic_code": "9.5",
+  "rationale": "Asks which claim NOW's argument rests on (economic change made strength irrelevant); identifying the claim in the passage.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-006",
+  "skill_code": "4.A",
+  "topic_code": "9.5",
+  "rationale": "Asks what modeling NOW on the NAACP illustrates (borrowed civil-rights tactics); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-007",
+  "skill_code": "3.A",
+  "topic_code": "9.5",
+  "rationale": "Asks what India's reservation system is most comparable to (affirmative action); identifying the comparison the evidence supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-008",
+  "skill_code": "4.A",
+  "topic_code": "9.5",
+  "rationale": "Asks how the 1950 constitution addressed untouchability (abolished it and caste discrimination); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-009",
+  "skill_code": "5.A",
+  "topic_code": "9.5",
+  "rationale": "Asks which broader pattern the Indian law illustrates (legal equality outruns social attitudes); identifying a pattern.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-010",
+  "skill_code": "3.D",
+  "topic_code": "9.2",
+  "rationale": "Asks which conclusion is NOT supported by the HIV chart (origins claim); judging how evidence supports/refutes claims.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u9-011",
+  "skill_code": "4.A",
+  "topic_code": "9.2",
+  "rationale": "Asks what slowed the early AIDS response (stigma against marginalized groups); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-012",
+  "skill_code": "3.B",
+  "topic_code": "9.2",
+  "rationale": "Asks what the chart would need to measure deadliness (deaths by region); identifying the evidence needed to support the argument.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u9-013",
+  "skill_code": "4.A",
+  "topic_code": "9.6",
+  "rationale": "Asks what the Arabic McDonald's sign illustrates (glocalization); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-014",
+  "skill_code": "1.A",
+  "topic_code": "9.7",
+  "rationale": "Asks what reaction global brands provoked (anti-globalization protests); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-015",
+  "skill_code": "2.A",
+  "topic_code": "9.6",
+  "rationale": "Asks what defenders of global brands argue (local consumers create hybrid cultures); identifying the point of view.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-016",
+  "skill_code": "4.A",
+  "topic_code": "9.4",
+  "rationale": "Asks which school Galeano belongs to (dependency theory); identifying the historical context.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-017",
+  "skill_code": "1.A",
+  "topic_code": "9.4",
+  "rationale": "Asks what Galeano traces Latin America's 'losing' to (Potosi silver mines); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-018",
+  "skill_code": "2.A",
+  "topic_code": "9.4",
+  "rationale": "Asks what banning suggests dictatorships saw in the book (a dangerous leftist critique); identifying the reception.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u9-019",
+  "skill_code": "5.A",
+  "topic_code": "9.4",
+  "rationale": "Asks where United Fruit's interests were directly involved (1954 Guatemala coup); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-020",
+  "skill_code": "1.A",
+  "topic_code": "9.1",
+  "rationale": "Asks how demographers explain population growth (demographic transition model); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-021",
+  "skill_code": "3.A",
+  "topic_code": "9.1",
+  "rationale": "Asks which regional difference the global curve masks (Europe's earlier birth-rate fall); identifying the claim the chart supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-022",
+  "skill_code": "3.A",
+  "topic_code": "9.1",
+  "rationale": "Asks what debate the population trend fueled (Earth's carrying capacity); identifying the claim the trend supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-023",
+  "skill_code": "3.A",
+  "topic_code": "9.1",
+  "rationale": "Asks what the energy disparity illustrates (heavy consumption of wealthy nations); identifying the claim the data supports.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-barrons-u9-024",
+  "skill_code": "1.A",
+  "topic_code": "9.8",
+  "rationale": "Asks what the Kyoto Protocol did (binding targets for developed nations, rejected by the Senate); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-barrons-u9-025",
+  "skill_code": "3.A",
+  "topic_code": "9.1",
+  "rationale": "Asks what China's high ranking shows (population size as well as wealth); identifying the claim the chart supports.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-001",
+  "skill_code": "1.A",
+  "topic_code": "1.6",
+  "rationale": "Asks which development shifted power to larger kingdoms (artillery's rising cost); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-002",
+  "skill_code": "3.A",
+  "topic_code": "1.6",
+  "rationale": "Asks which claim about change the secularism argument illustrates (gradual growth from the later Middle Ages); identifying the passage's claim.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-003",
+  "skill_code": "1.A",
+  "topic_code": "1.6",
+  "rationale": "Asks what capacity print gave rulers (uniform control of large populations); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-004",
+  "skill_code": "1.B",
+  "topic_code": "1.4",
+  "rationale": "Asks why the Inca moved less bulk trade than the Aztecs (rugged terrain, no wheels/draft animals); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-005",
+  "skill_code": "5.A",
+  "topic_code": "1.7",
+  "rationale": "Asks which practice Persia and Inca shared (imperial road networks with relay stations); identifying a cross-regional pattern.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-006",
+  "skill_code": "2.A",
+  "topic_code": "1.1",
+  "rationale": "Asks which Confucian assumption the anti-Buddhist memorial rests on (all must do productive work in their role); identifying the source's point of view.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-007",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Asks what political concern made monasteries threatening (mass loyalty and tax-exempt wealth outside imperial control); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-008",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Asks what Silla's tribute participation meant (acknowledged Chinese superiority for trade/security); explaining a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-009",
+  "skill_code": "1.A",
+  "topic_code": "1.1",
+  "rationale": "Asks what the 15th-century Japanese pattern is called (gekokujo); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-010",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
+  "rationale": "Asks which Song policy explains vulnerability to nomads (privileged civil officials, bought peace with tribute); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-011",
+  "skill_code": "1.A",
+  "topic_code": "1.3",
+  "rationale": "Asks what the Gandhara Buddha frieze illustrates about Hellenistic exchange (conquered peoples adapted Greek forms); explaining a historical process.",
+  "confidence": "med",
+  "third_read": true
+ },
+ {
+  "id": "wh-fivesteps-u1-012",
+  "skill_code": "1.B",
+  "topic_code": "1.7",
+  "rationale": "Asks what made the successor kingdoms Hellenistic (blended Greek and local institutions); explaining a historical process.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-fivesteps-u1-013",
+  "skill_code": "1.A",
+  "topic_code": "1.7",
+  "rationale": "Asks how Macedonian veterans reacted to Alexander's Persian policies (mutinied); identifying a historical development.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-fivesteps-u1-014",
+  "skill_code": "1.B",
+  "topic_code": "1.7",
+  "rationale": "Asks what explains Mongol clergy tax exemptions (won loyalty of religious leaders); explaining a historical process.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-fivesteps-u1-015",
+  "skill_code": "1.A",
+  "topic_code": "1.7",
+  "rationale": "Asks the yam's primary purpose (move official messages rapidly); identifying a historical development.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-fivesteps-u1-016",
+  "skill_code": "1.B",
+  "topic_code": "1.6",
+  "rationale": "Asks how Mongol rule shaped Moscow's rise (princes grew rich as tribute-collectors); explaining a historical process.",
+  "confidence": "med"
+ },
+ {
+  "id": "wh-fivesteps-u1-017",
+  "skill_code": "5.A",
+  "topic_code": "1.7",
+  "rationale": "Asks what shared vassal practice reveals about Persia and Mongols (relied on native elites); identifying a cross-regional pattern.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-018",
+  "skill_code": "3.A",
+  "topic_code": "1.3",
+  "rationale": "Asks what social claim the Purusa body imagery makes (hierarchy divinely built into creation); identifying the hymn's claim.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-019",
+  "skill_code": "3.A",
+  "topic_code": "1.3",
+  "rationale": "Asks what the hymn's varna account demonstrates (caste embedded with divine authority in oldest scriptures); identifying the claim.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-020",
+  "skill_code": "1.B",
+  "topic_code": "1.3",
+  "rationale": "Asks what the bhakti movement shows about caste (religious movements could challenge it from within); explaining a historical process.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-021",
+  "skill_code": "1.A",
+  "topic_code": "1.4",
+  "rationale": "Asks the fundamental reason for pre-1492 American isolation (oceans too wide for existing ships); explaining a historical process.",
+  "confidence": "med",
+  "third_read": true
+ },
+ {
+  "id": "wh-fivesteps-u1-022",
+  "skill_code": "1.A",
+  "topic_code": "1.3",
+  "rationale": "Asks what religious change the Upanishads represent (shift from sacrifice to inner knowledge); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-023",
+  "skill_code": "5.A",
+  "topic_code": "1.3",
+  "rationale": "Asks how Hindu moksha differs from Buddhist nirvana (union vs extinction of self); identifying a connection.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-024",
+  "skill_code": "1.A",
+  "topic_code": "1.3",
+  "rationale": "Asks what the Upanishads show about Hinduism (ritual and philosophical strands in one tradition); identifying a historical development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-fivesteps-u1-025",
+  "skill_code": "1.B",
+  "topic_code": "1.4",
+  "rationale": "Asks why llamas did not play the ox's role (too small and weak for plows/carts); explaining a historical process.",
+  "confidence": "high"
+ }
+]

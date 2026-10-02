@@ -1,6 +1,8 @@
 [
  {
   "id": "wh-barrons-u6-019",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
   "source_id": "barrons-u6-019",
   "unit": 6,
   "stimulus": "A British reporter in 1857 called the Cawnpore killings an outrage by a 'subject race' against its masters. An Indian academic historian later wrote that while nothing justified the massacre, it had to be understood within a larger pattern of British violence and contempt toward Indians.\n\nThe 'mutiny' school stresses the revolt's military origins — sepoy grievances over pay, cartridges, and annexations — and its limited aims: most rebels proclaimed the Mughal emperor or local rulers, not an Indian nation. The 'uprising' school stresses its breadth — peasants, artisans, and dispossessed landlords joining across northern India — and reads it as anti-colonial resistance. The evidence supports both readings, which is why the argument endures: 1857 was a sepoy mutiny that became something larger, and the name a historian chooses announces which half of that story is thought to matter more.",
@@ -31,6 +33,8 @@
  },
  {
   "id": "wh-barrons-u6-020",
+  "skill_code": "1.A",
+  "topic_code": "6.3",
   "source_id": "barrons-u6-020",
   "unit": 6,
   "stimulus": "The 1857 revolt was crushed by 1858. The British East India Company was dissolved, India came under direct Crown rule, and the rebels' figurehead — the aged Mughal emperor Bahadur Shah Zafar — was put on trial by the British.\n\nThe trial was political theater staged as justice. Zafar — a poet-emperor in his eighties, proclaimed leader by rebels he barely controlled — was charged with treason and murder, convicted, and exiled to Rangoon in Burma, where he died in 1862 and was buried in an unmarked grave. With him ended the Mughal dynasty, and with it the fiction that Britain ruled India through Indian sovereigns: direct Crown rule, proclaimed in 1858, replaced Company and emperor alike. The British, having destroyed the symbol, spent the next ninety years ruling in its shadow — governing an India whose nationalists would make 1857, and its last emperor, into martyrs of the freedom struggle.",
@@ -61,6 +65,8 @@
  },
  {
   "id": "wh-barrons-u6-021",
+  "skill_code": "3.A",
+  "topic_code": "6.4",
   "source_id": "barrons-u6-021",
   "unit": 6,
   "stimulus": "A chart of world GDP (1600–1870) shows Britain's share of the global total rising from 1.8 percent in 1600 to 9.1 percent in 1870, while China's share — once the world's largest — fell sharply over the same period.",
@@ -91,6 +97,8 @@
  },
  {
   "id": "wh-barrons-u6-022",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
   "source_id": "barrons-u6-022",
   "unit": 6,
   "stimulus": "A chart of world GDP (1600–1870) shows Western Europe's share of the global economy surging after 1700 while China's and India's shares declined — a pattern historians call the 'Great Divergence.'",
@@ -121,6 +129,8 @@
  },
  {
   "id": "wh-barrons-u6-023",
+  "skill_code": "1.B",
+  "topic_code": "6.5",
   "source_id": "barrons-u6-023",
   "unit": 6,
   "stimulus": "A chart of world GDP (1600–1870) shows India's share of the global economy shrinking as Britain's grew — the same period in which the British East India Company extended its commercial and then political control over the subcontinent.",
@@ -151,6 +161,8 @@
  },
  {
   "id": "wh-barrons-u6-024",
+  "skill_code": "4.A",
+  "topic_code": "6.4",
   "source_id": "barrons-u6-024",
   "unit": 6,
   "stimulus": "In the 1800s, Britain's textile mills depended heavily on cotton — first from the American South, and increasingly from India and Egypt after the 1860s.",
@@ -181,6 +193,8 @@
  },
  {
   "id": "wh-barrons-u6-025",
+  "skill_code": "1.B",
+  "topic_code": "6.7",
   "source_id": "barrons-u6-025",
   "unit": 6,
   "stimulus": "In the late 1800s, thousands of Chinese laborers who had come to the United States to work on railroads and in mines faced violent hostility. Labor unions denounced them as unfair competition, politicians demanded their exclusion, and Congress responded with the Chinese Exclusion Act of 1882.\n\nThe hostility had been building for decades. In California, Denis Kearney's Workingmen's Party made 'The Chinese Must Go' its slogan; mobs drove Chinese miners from their camps and burned Chinatowns. The Exclusion Act — the first American law to ban immigration by nationality — suspended Chinese labor immigration for ten years, was later extended indefinitely, barred Chinese immigrants from citizenship, and was not repealed until 1943, when China became a wartime ally. The law's repeal in 1943 — a wartime gesture to an ally — changed little in practice: a token quota of 105 Chinese immigrants a year kept exclusion effectively alive until 1965.",
@@ -211,6 +225,8 @@
  },
  {
   "id": "wh-barrons-u6-026",
+  "skill_code": "4.A",
+  "topic_code": "6.7",
   "source_id": "barrons-u6-026",
   "unit": 6,
   "stimulus": "In the 1800s, hundreds of thousands of Chinese and Indian laborers migrated across the Pacific and Indian Oceans under indenture contracts — to Peru's guano islands, Caribbean sugar plantations, and North American railroads — often in harsh, coercive conditions.\n\nThe scale was enormous: hundreds of thousands of Chinese laborers to Cuba and Peru, over a million Indians to the Caribbean, Mauritius, Fiji, and East Africa. Recruitment was often deceptive — 'crimps' lured or kidnapped workers — and the contracts bound migrants for years at fixed wages under penal sanctions. Abolitionists denounced the system as slavery under another name; its defenders called it free contract. Historians still argue over where on the spectrum between slavery and free labor the 'coolie' trade belongs — which is why it is so often linked to abolition: it was the system that tested whether emancipation ended bondage or merely renamed it.",
@@ -241,6 +257,8 @@
  },
  {
   "id": "wh-barrons-u7-001",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-001",
   "unit": 7,
   "stimulus": "Australia's Immigration Restriction Act of 1901 — the legal cornerstone of the White Australia Policy — required any immigrant to pass a dictation test: officials could demand they write fifty words in any European language the officer chose.\n\nThe test was never meant to be passed. Officers administered it in languages the applicant could not possibly know — Scottish Gaelic for a Chinese merchant, for example — and between 1901 and 1958 no immigrant the authorities wished to exclude ever passed. The Act was the new Commonwealth's first major law, and its oblique design was deliberate: excluding by race without naming it avoided offending Britain and sidestepped diplomatic protests from the powers whose subjects were barred. The policy's architects were explicit about its purpose: Australia was to be a white man's country, its living standards protected by keeping out the cheap non-European labor that employers wanted and unions feared.",
@@ -271,6 +289,8 @@
  },
  {
   "id": "wh-barrons-u7-002",
+  "skill_code": "2.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-002",
   "unit": 7,
   "stimulus": "Australia's Immigration Restriction Act of 1901 used a dictation test to exclude non-European immigrants without naming race in the law. The White Australia Policy it inaugurated lasted for most of the 20th century.\n\nThe Act was the new Commonwealth of Australia's first major legislation — a deliberate statement of the kind of nation Australia meant to be. Its mechanism was oblique by design: rather than naming race, which might offend Britain or invite diplomatic protest, it empowered officers to exclude any immigrant who failed a dictation test of fifty words in 'any prescribed language' the officer chose. In practice, an officer simply chose a language the applicant could not know — Scottish Gaelic for a Chinese merchant was a notorious early case. Between 1901 and 1958, no immigrant whom the authorities wanted to exclude ever passed. What replaced it — first a trickle of displaced Europeans, then, after 1973, formal non-discrimination — remade Australia into one of the world's most diverse societies, a transformation few in 1901 could have imagined.",
@@ -301,6 +321,8 @@
  },
  {
   "id": "wh-barrons-u6-027",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "source_id": "barrons-u6-027",
   "unit": 6,
   "stimulus": "A photograph from the 1880s shows African hunters harvesting elephant ivory in the Congo basin. At the time, the Congo was not a colony of Belgium — it was the personal property of Belgium's King Leopold II, who ruled it as the 'Congo Free State.'",
@@ -331,6 +353,8 @@
  },
  {
   "id": "wh-barrons-u6-028",
+  "skill_code": "1.A",
+  "topic_code": "6.2",
   "source_id": "barrons-u6-028",
   "unit": 6,
   "stimulus": "In Leopold II's Congo Free State, ivory was soon eclipsed by an even more valuable commodity: wild rubber, demanded by the bicycle and automobile industries. Villages were assigned rubber quotas enforced by Leopold's private army, the Force Publique.",
@@ -361,6 +385,8 @@
  },
  {
   "id": "wh-barrons-u6-029",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
   "source_id": "barrons-u6-029",
   "unit": 6,
   "stimulus": "A photograph from the 1880s shows African hunters harvesting ivory in the Congo — an image that reveals nothing of the forced-labor regime behind it. In the early 1900s, reports of mutilations, hostage-taking, and mass death in Leopold II's Congo Free State began reaching Europe.",
@@ -391,6 +417,8 @@
  },
  {
   "id": "wh-barrons-u7-003",
+  "skill_code": "5.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-003",
   "unit": 7,
   "stimulus": "The Senegalese poet Léopold Sédar Senghor wrote in French: 'New York! I say New York, let black blood flow into your blood. Let it wash the rust from your steel joints, like an oil of life...' Senghor was a leading figure of negritude, a movement of francophone Black writers.",
@@ -421,6 +449,8 @@
  },
  {
   "id": "wh-barrons-u7-004",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-004",
   "unit": 7,
   "stimulus": "The Senegalese poet Léopold Sédar Senghor addressed New York in pulsing, musical verse celebrating Black vitality — 'let black blood flow into your blood' — written in the 1940s and steeped in the rhythms of jazz-age Black culture on both sides of the Atlantic.",
@@ -451,6 +481,8 @@
  },
  {
   "id": "wh-barrons-u7-005",
+  "skill_code": "5.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-005",
   "unit": 7,
   "stimulus": "Léopold Sédar Senghor was born in Senegal, educated in French colonial schools, won a scholarship to Paris, became a French citizen and professor, served in the French army, and eventually became the first president of independent Senegal — all while writing poetry in French about Africa and the Black world.",
@@ -481,6 +513,8 @@
  },
  {
   "id": "wh-barrons-u7-006",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-006",
   "unit": 7,
   "stimulus": "France's colonial doctrine of 'assimilation' held that colonial subjects could become French by adopting French language, culture, and values — measuring civilization by Frenchness. The negritude writers, educated in that very system, answered it with poetry affirming the worth of African cultures on their own terms.",
@@ -511,6 +545,8 @@
  },
  {
   "id": "wh-barrons-u7-007",
+  "skill_code": "4.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-007",
   "unit": 7,
   "stimulus": "Literacy among Russian speakers rose from 24 percent in 1897 to 45 percent in 1917, 56 percent in 1926, 75 percent in 1937, and effectively 100 percent by 1955 — one of the fastest literacy expansions in history, driven overwhelmingly by Soviet state campaigns after 1917.",
@@ -541,6 +577,8 @@
  },
  {
   "id": "wh-barrons-u7-008",
+  "skill_code": "3.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-008",
   "unit": 7,
   "stimulus": "Literacy among Russian speakers rose from 24 percent in 1897 to effectively 100 percent by 1955. Before the campaigns, illiteracy was concentrated in the countryside — and within peasant households, it was concentrated among women, whose schooling had been considered unnecessary.",
@@ -571,6 +609,8 @@
  },
  {
   "id": "wh-barrons-u7-009",
+  "skill_code": "2.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-009",
   "unit": 7,
   "stimulus": "Soviet literacy campaigns taught tens of millions to read — using primers that praised tractors, collective farms, and Lenin, and channeling graduates into youth organizations like the Young Pioneers, where political education continued alongside schooling.",
@@ -601,6 +641,8 @@
  },
  {
   "id": "wh-barrons-u7-010",
+  "skill_code": "6.A",
+  "topic_code": "7.1",
   "source_id": "barrons-u7-010",
   "unit": 7,
   "stimulus": "Literacy among Russian speakers rose from 24 percent in 1897 to effectively 100 percent by 1955. Historians disagree about what this achievement means: some cite it as proof that the Soviet system delivered real modernization; others argue that no social achievement can redeem the regime's terror and repression.",
@@ -631,6 +673,8 @@
  },
  {
   "id": "wh-barrons-u8-004",
+  "skill_code": "4.A",
+  "topic_code": "8.5",
   "source_id": "barrons-u8-004",
   "unit": 8,
   "stimulus": "In 1955, Indonesia's President Sukarno opened the Bandung Conference of Asian and African nations, urging the newly independent countries to preserve peace, complete their 'revolutions,' and refuse to become pawns of the great powers.",
@@ -661,6 +705,8 @@
  },
  {
   "id": "wh-barrons-u8-005",
+  "skill_code": "1.A",
+  "topic_code": "8.5",
   "source_id": "barrons-u8-005",
   "unit": 8,
   "stimulus": "Sukarno told the Bandung Conference that 'our revolutions will not be allowed to run their course' unless the new nations preserved their independence. A decade earlier, he had proclaimed Indonesia's independence from the Netherlands in 1945 and led the armed struggle that forced the Dutch to recognize it in 1949.",
@@ -691,6 +737,8 @@
  },
  {
   "id": "wh-barrons-u8-006",
+  "skill_code": "4.A",
+  "topic_code": "8.6",
   "source_id": "barrons-u8-006",
   "unit": 8,
   "stimulus": "At Bandung in 1955, Sukarno urged newly independent nations to stay neutral in the Cold War. In practice, leaders like Sukarno, Nkrumah, and Nasser accepted economic and military aid from both Washington and Moscow while avoiding formal alliances with either.",
@@ -721,6 +769,8 @@
  },
  {
   "id": "wh-barrons-u2-003",
+  "skill_code": "5.A",
+  "topic_code": "2.3",
   "source_id": "barrons-u2-003",
   "unit": 2,
   "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long... I cannot come home with nothing.' The letter, preserved in the Cairo Geniza — a storeroom of discarded documents in a Cairo synagogue — shows a trader stranded abroad by the slow rhythms of monsoon commerce.",
@@ -751,6 +801,8 @@
  },
  {
   "id": "wh-barrons-u2-004",
+  "skill_code": "4.A",
+  "topic_code": "2.3",
   "source_id": "barrons-u2-004",
   "unit": 2,
   "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long... I cannot come home with nothing.' He had been stranded abroad for months, unable to sail until the winds turned.",
@@ -781,6 +833,8 @@
  },
  {
   "id": "wh-barrons-u2-005",
+  "skill_code": "2.A",
+  "topic_code": "2.3",
   "source_id": "barrons-u2-005",
   "unit": 2,
   "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long.' He discusses the possibility of divorce openly, as a legal procedure available within his community's religious law.",

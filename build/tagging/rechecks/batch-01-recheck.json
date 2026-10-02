@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wh-barrons-t1-001",
+    "skill_code": "1.A",
+    "topic_code": "9.4",
+    "rationale": "Stem asks which development a historian would point to for the post-1990 palm-oil surge. The cognitive task is identifying the development (multinational food firms switching to cheap palm oil) behind the charted trend, not explaining a concept in depth, so 1.A fits the parent skill Developments and Processes. Palm oil as a globally traded commodity driven by transnational manufacturers maps to Economics in the Global Age (9.4), not a technology or environment topic.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t1-011",
+    "skill_code": "5.A",
+    "topic_code": "1.1",
+    "rationale": "Stem asks which state practice serves the SAME purpose as the Genghis Khan banknote. The task is identifying a pattern or connection between two commemorative state practices (both reinforcing national identity), not explaining one development in terms of another, so 5.A fits the parent skill Making Connections. Genghis Khan and Mongolia sit in East Asia, so 1.1 is the only fitting unit-1 topic.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t1-021",
+    "skill_code": "2.B",
+    "topic_code": "5.3",
+    "rationale": "Stem asks how Tocqueville's French background shaped the passage. The task is explaining how the source's historical situation and point of view (a French outsider's comparative perspective on English industrial cities) colors its content, which is 2.B under Sourcing and Situation rather than merely identifying the POV. Manchester in 1835 points squarely to Industrial Revolution Begins (5.3).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-t1-031",
+    "skill_code": "2.A",
+    "topic_code": "5.1",
+    "rationale": "Stem asks what a historian studying gender and power could use the cartoon to show. The task is identifying the source's point of view (a British cartoonist turning Catherine the Great's gender into the joke) as its usable content, so 2.A fits the parent skill Sourcing and Situation. Catherine the Great as enlightened despot amid the Enlightenment-era public sphere of satirical print maps best to 5.1, though the topical fit is imperfect since the question is really about gender and power.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t1-041",
+    "skill_code": "2.A",
+    "topic_code": "1.6",
+    "rationale": "Stem asks what a historian could best use the 1243 Avignon regulation to study. The task is identifying what the source reveals about its own historical situation (a Christian municipal authority legally enforcing social boundaries on Jewish communities), so 2.A fits the parent skill Sourcing and Situation. Avignon in 1243 points squarely to Developments in Europe (1.6).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t1-051",
+    "skill_code": "6.A",
+    "topic_code": "4.1",
+    "rationale": "Stem asks what the outcome of Galileo's trial best illustrates, with options that are competing claims. The task is selecting the historically defensible claim supported by the stimulus (religious institutions limiting new ideas in early modern Europe), which is 6.A under Argumentation; no assembly of evidence or multi-piece reasoning is required. The Scientific Revolution content maps to Technological Innovations (4.1).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t2-006",
+    "skill_code": "3.A",
+    "topic_code": "8.7",
+    "rationale": "Stem quotes Gandhi's claim that submission to the degrading law would violate the spirit of true religion and asks what it suggests Gandhi believed. The task is describing and interpreting the argument in the text source (an unjust law loses its moral claim to obedience), which is 3.A under Claims and Evidence in Sources. Gandhi's satyagraha in Transvaal in 1909 maps squarely to Global Resistance to Established Order (8.7).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-barrons-t2-016",
+    "skill_code": "2.C",
+    "topic_code": "8.7",
+    "rationale": "Stem asks which group's absence most limits the poem as a full picture of the region's heritage. This is explicitly a limits-of-source judgment keyed to the source's point of view and scope (African and European ancestors only), which is 2.C under Sourcing and Situation. Topic fit is weak: the item is about Latin American cultural heritage and identity in a 1934 Cuban poem, and no unit-8 topic covers heritage or identity well; 8.7 is the least-bad match among them.",
+    "confidence": "low"
+  },
+  {
+    "id": "wh-barrons-t2-026",
+    "skill_code": "3.A",
+    "topic_code": "8.4",
+    "rationale": "Stem asks what calling the air force the workers air force was significant mainly because of. The task is describing the claim or argument the anthem makes (wrapping a military institution in the regime's claim to represent the working class), which is 3.A under Claims and Evidence in Sources. The 1920 early-Soviet anthem maps squarely to Spread of Communism After 1900 (8.4).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t2-036",
+    "skill_code": "4.A",
+    "topic_code": "6.2",
+    "rationale": "Stem asks which development most directly enabled Europeans to impose the boundaries shown on the 1900 Africa map. The specific development is the partition of Africa and the task is identifying its historical context (industrial-era repeating weapons and quinine letting Europeans defeat African states and survive the interior), which is 4.A under Contextualization. The partition of Africa maps squarely to State Expansion (6.2).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t2-046",
+    "skill_code": "4.B",
+    "topic_code": "4.3",
+    "rationale": "Stem asks which development in the early modern global economy Cerro Rico was central to. The task is situating the specific case (Potosi silver) within the broader historical context (silver flows to Europe and, via Manila, to China tying the Americas into a global economy), which is 4.B under Contextualization. Silver as the engine of cross-oceanic exchange maps best to Columbian Exchange (4.3).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t3-001",
+    "skill_code": "3.A",
+    "topic_code": null,
+    "rationale": "Stem asks which claim about historical knowledge the Marc Bloch passage most directly supports. The task is identifying and describing the source's argument (knowledge of the past is indirect yet progressive), which is 3.A under Claims and Evidence in Sources. FLAG: the item is tagged unit 8, but the stimulus is pure historiography about the nature of historical knowledge (Bloch, 1949) and no unit-8 topic covers it; the unit field appears mislabeled, so no valid topic code can be assigned.",
+    "confidence": "low"
+  },
+  {
+    "id": "wh-barrons-t3-011",
+    "skill_code": "4.B",
+    "topic_code": "6.2",
+    "rationale": "Stem asks for the most plausible explanation of why the Philippine-American War is America's forgotten war. The task is explaining the specific development (the war and its neglect in popular memory) within the broader historical context (the tension between American anti-colonial self-image and acting as a colonial power), which is 4.B under Contextualization. US overseas expansion in 1898 maps squarely to State Expansion (6.2).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t3-021",
+    "skill_code": "4.B",
+    "topic_code": "8.2",
+    "rationale": "Stem asks what pairing the 1957 Soviet satellite stamp with the 1958 US missile photo most usefully illustrates. The task is situating the two specific sources within the broader historical context (Cold War rivalry expressed through technological competition), which is 4.B under Contextualization. The space race and missile competition map squarely to The Cold War (8.2).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t3-031",
+    "skill_code": "6.C",
+    "topic_code": "4.2",
+    "rationale": "Stem asks how Schmidel's battlefield account complicates the argument that epidemic disease decided the conquest more than Spanish weapons. The task is using historical reasoning to explain the relationship between a piece of evidence (vivid gunfire terror in Schmidel) and an existing argument (the disease thesis), which is 6.C under Argumentation rather than 6.D, since it is about evidence-argument relationships, not building a complex argument from diverse evidence. The Spanish conquest of Paraguay maps to Exploration: Causes and Events (4.2).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t3-041",
+    "skill_code": "1.B",
+    "topic_code": "3.1",
+    "rationale": "Stem states the classification (chinampa agriculture is intensive) and asks which option explains WHY it qualifies. The task is explaining a historical concept (intensive agriculture: high yields from small plots through steady labor and lakebed fertilizer) as applied to the case, which is 1.B under Developments and Processes rather than mere identification. Aztec imperial agriculture enabling state expansion maps best to Empires Expand (3.1).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-t3-051",
+    "skill_code": "6.C",
+    "topic_code": "9.4",
+    "rationale": "Stem asks which claim the 2015 China trade table most clearly undermines. The task is using historical reasoning about the table data as evidence to evaluate and refute a claim (the huge China-US trade flow refutes the idea that ideological differences prevent large-scale trade), which is 6.C under Argumentation. China's global trade patterns map squarely to Economics in the Global Age (9.4).",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-barrons-u1-006",
+    "skill_code": "2.B",
+    "topic_code": "1.6",
+    "rationale": "Stem asks which feature of late-medieval European society most directly made Christine de Pizan's career as a professional writer possible. The task is explaining how the source's historical situation (literate court culture and aristocratic patronage in growing cities) enabled the source to exist, which is 2.B under Sourcing and Situation. Early-1400s France maps squarely to Developments in Europe (1.6).",
+    "confidence": "medium"
+  }
+]

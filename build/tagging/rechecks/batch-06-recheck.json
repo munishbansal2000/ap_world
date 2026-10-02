@@ -1,0 +1,128 @@
+[
+  {
+    "id": "wh-princeton-pdf5-u7-001",
+    "skill_code": "1.A",
+    "topic_code": "7.4",
+    "rationale": "Stem asks to identify the propaganda technique illustrated by the image (contrast of old/new); 'Identify a historical concept, development, or process.' Soviet interwar propaganda celebrates the socialist future tied to industrialization/Five-Year Plans.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-princeton-pdf5-u8-008",
+    "skill_code": "1.A",
+    "topic_code": "8.4",
+    "rationale": "Stem asks to identify how Mao's peasant-based revolution differs from classical Marxism; 'Identify a historical concept, development, or process.' Maoism as a distinct communist adaptation is KC for Spread of Communism After 1900.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf6-u2-002",
+    "skill_code": "1.A",
+    "topic_code": "2.4",
+    "rationale": "Stem asks what interior cities' prosperity demonstrates about trade networks; 'Identify a historical concept, development, or process' (role of trans-Saharan caravan routes). Question is squarely about trans-Saharan trade centers.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf6-u3-002",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
+    "rationale": "Stem asks WHY Peter taxed beards rather than banning them; 'Explain a historical concept, development, or process.' Tax as dual-purpose administrative reform (westernization + revenue) fits Empires: Administration techniques.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-princeton-pdf6-u4-005",
+    "skill_code": "1.A",
+    "topic_code": "4.4",
+    "rationale": "Stem asks what the charter grant illustrates about early modern expansion; 'Identify a historical concept, development, or process' (joint-stock companies exercising sovereign powers). DWIC charter = establishment of maritime empires via chartered companies.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf6-u5-001",
+    "skill_code": "3.A",
+    "topic_code": "5.2",
+    "rationale": "Stem asks the purpose of L'Ouverture's argument; 'Identify and describe a claim and/or argument in a text-based source' (the memoir is a rebuttal of treason charges). Haitian Revolution = Nationalism and Revolutions.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf6-u6-008",
+    "skill_code": "1.B",
+    "topic_code": "6.7",
+    "rationale": "Stem asks what best explains the post-1800 population rise; 'Explain a historical concept, development, or process' (causal explanation). The population surge is a demographic effect of mass European migration in receiving societies.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-princeton-pdf6-u8-003",
+    "skill_code": "1.B",
+    "topic_code": "8.1",
+    "rationale": "Stem asks what the Palestine Mandate was 'a direct result of'; explaining the cause of a historical development = 'Explain a historical concept, development, or process.' Mandates arose from Ottoman collapse after WWI = setting the stage for Cold War and decolonization.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-u1-010",
+    "skill_code": "3.A",
+    "topic_code": "1.1",
+    "rationale": "Stem asks which Mongol practice the Polo reception illustrates; 'Identify and describe a claim and/or argument in a text-based source.' NOTE: Mongol/Yuan content belongs to 2.2 in the framework, but the item is filed as unit 1; 1.1 (East Asia, Yuan China) is the least-bad unit-1 fit. Unit field may be mislabeled.",
+    "confidence": "low"
+  },
+  {
+    "id": "wh-princeton-u1-020",
+    "skill_code": "3.A",
+    "topic_code": "1.1",
+    "rationale": "Stem asks which Mongol administrative practice Battuta's observation illustrates; 'Identify and describe a claim and/or argument in a text-based source.' Same unit caveat as u1-010: Yuan China is 2.2 content filed under unit 1; 1.1 is the least-bad unit-1 fit.",
+    "confidence": "low"
+  },
+  {
+    "id": "wh-princeton-u2-009",
+    "skill_code": "3.A",
+    "topic_code": "2.2",
+    "rationale": "Stem asks how Mongol rule in Russia differed from China primarily because...; single-source item identifying the difference supported by the source = 'Identify and describe a claim and/or argument in a text-based source' (3.C needs two sources). Mongol rule = The Mongol Empire and the Making of the Modern World.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-princeton-u3-009",
+    "skill_code": "3.A",
+    "topic_code": "3.2",
+    "rationale": "Stem asks what Bernier's tribute observation illustrates; 'Identify and describe a claim and/or argument in a text-based source' (negotiated sovereignty). Tributary bargaining as imperial administration = Empires: Administration.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-u3-019",
+    "skill_code": "3.A",
+    "topic_code": "3.1",
+    "rationale": "Stem asks the significance of the 1453 conquest; 'Identify and describe a claim and/or argument in a text-based or non-text-based source' (image of siege). Taking Constantinople = Ottoman territorial expansion under Empires Expand.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-u4-007",
+    "skill_code": "4.A",
+    "topic_code": "4.5",
+    "rationale": "Stem asks which relationship the triangular trade illustrates (slave labor -> plantation commodities -> European commercial growth); 'Identify and describe a historical context for a specific historical development or process.' Slave-trade-driven plantation economies = Maritime Empires Maintained and Developed.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-princeton-u4-017",
+    "skill_code": "3.A",
+    "topic_code": "4.5",
+    "rationale": "Stem asks which view Rodney's argument challenges; 'Identify and describe a claim and/or argument in a text-based source.' Argument about European extraction via slave trade/colonialism underdeveloping Africa = Maintained and Developed maritime economies.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-princeton-u5-001",
+    "skill_code": "3.A",
+    "topic_code": "5.2",
+    "rationale": "Stem asks which concept the song's language-based fatherland exemplifies; 'Identify and describe a claim and/or argument in a text-based source' (cultural nationalism). German nationalism = Nationalism and Revolutions.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-u5-011",
+    "skill_code": "3.C",
+    "topic_code": "5.2",
+    "rationale": "Stem asks what the TWO sources together illustrate (republic vs hereditary monarchy -> diverse political experiments); 'Compare the arguments or main ideas of two sources.' Latin American independence = Nationalism and Revolutions.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-u6-007",
+    "skill_code": "4.B",
+    "topic_code": "6.2",
+    "rationale": "Stem asks why spheres of influence rather than direct colonization in China; 'Explain how a specific historical development or process is situated within a broader historical context' (China's size/organization vs Africa within new imperialism). Spheres of influence = State Expansion.",
+    "confidence": "medium-high"
+  }
+]

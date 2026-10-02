@@ -43,7 +43,9 @@
   },
   {
    "date": "c. 1603-1605",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AbulFazlPresentingAkbarnama.jpg",
+      "image_url": "assets/images/dbq/dbq-05-doc6.jpg",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AbulFazlPresentingAkbarnama.jpg",
+   "image_local_verified": "2026-10-02",
    "kind": "image",
    "license": "Public domain (Mughal miniature, c. 1603-1605; Chester Beatty Library, Dublin)",
    "n": 6,
@@ -54,7 +56,9 @@
   },
   {
    "date": "modern (historical map)",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg",
+      "image_url": "assets/images/u3/wh-fresh-u3-008.jpg",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg",
+   "image_local_verified": "2026-10-02",
    "kind": "map",
    "license": "CC BY-SA 4.0 (Wikimedia Commons)",
    "n": 7,

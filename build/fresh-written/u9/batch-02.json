@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "Ocean trade is ancient, so containerization continues a long pattern. What changed was the mechanics: standardized boxes, specialized cranes, and giant ships multiplied the speed and volume of freight while cutting costs. That is continuity of maritime trade combined with transformation of how it works.",
     "id": "wh-fresh-u9-010",
+    "skill_code": "6.A",
+    "topic_code": "9.1",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: long-distance ocean trade existed for centuries before the 1950s container revolution.",
@@ -28,7 +30,9 @@
     "type": "mcq",
     "unit": 9,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
+        "image_url": "assets/images/u9/wh-fresh-u9-008.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY 2.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -38,6 +42,8 @@
     "difficulty": "medium",
     "explanation": "The high-yield dwarf wheat, fertilizer, and irrigation pump are the classic Green Revolution package. In India these inputs sharply raised grain output in the late 1960s and 1970s, allowing the country to move toward feeding itself after decades of dependence on food imports.",
     "id": "wh-fresh-u9-011",
+    "skill_code": "1.B",
+    "topic_code": "9.1",
     "key": "A",
     "option_explanations": {
       "A": "Right: the high-yield wheat and modern inputs shown drove the yield increases behind India's move toward food self-sufficiency.",
@@ -69,6 +75,8 @@
     "difficulty": "hard",
     "explanation": "The same report that describes rising yields also notes the costly inputs the new seeds required: fertilizer, pesticides, and irrigation. These degraded soils and drained groundwater, and only farmers wealthy enough to buy the package prospered, widening rural inequality.",
     "id": "wh-fresh-u9-012",
+    "skill_code": "5.B",
+    "topic_code": "9.3",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: rural poverty persisted and in some regions deepened, since poorer farmers could not afford the new inputs.",
@@ -100,6 +108,8 @@
     "difficulty": "medium",
     "explanation": "The report describes protesters holding mobile phones aloft to record the crowd and post videos themselves. This let movements coordinate rapidly and bypass state-controlled television and newspapers.",
     "id": "wh-fresh-u9-013",
+    "skill_code": "5.A",
+    "topic_code": "9.1",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the crowded square shows protest flourishing, not declining.",
@@ -131,6 +141,8 @@
     "difficulty": "hard",
     "explanation": "Evidence of deeper, older grievances shows the uprising had causes independent of social media. Emergency rule, corruption, and joblessness motivated Egyptians long before 2011, which weakens the claim that the technology itself caused the revolt.",
     "id": "wh-fresh-u9-014",
+    "skill_code": "3.B",
+    "topic_code": "9.5",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: widespread phone ownership is consistent with social media playing a role; it does not challenge the claim.",
@@ -162,6 +174,8 @@
     "difficulty": "medium",
     "explanation": "The TRC offered amnesty to perpetrators who fully confessed, choosing public truth-telling over mass trials. The testimony's emphasis on acknowledgment and a shared future reflects that purpose: building a public record to support reconciliation.",
     "id": "wh-fresh-u9-015",
+    "skill_code": "2.A",
+    "topic_code": "9.5",
     "key": "A",
     "option_explanations": {
       "A": "Right: the commission traded amnesty for truth, using public testimony to acknowledge abuses and support reconciliation.",
@@ -193,6 +207,8 @@
     "difficulty": "hard",
     "explanation": "The commission emerged from the negotiated transition that ended apartheid and produced the 1994 elections, and it drew on international human rights ideas about truth-telling and restorative justice. Neither the 19th-century scramble for Africa nor Cold War rivalries explain a 1996 South African institution.",
     "id": "wh-fresh-u9-016",
+    "skill_code": "4.B",
+    "topic_code": "9.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: Cold War rivalry does not explain a 1996 commission created after apartheid's negotiated end.",
@@ -224,6 +240,8 @@
     "difficulty": "medium",
     "explanation": "Blocs like the EU, USMCA, and ASEAN were created to expand commerce: member governments cut tariffs and coordinated rules so firms could sell and invest across a larger integrated market. They reduced barriers among members rather than ending outside trade.",
     "id": "wh-fresh-u9-017",
+    "skill_code": "1.B",
+    "topic_code": "9.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: members continued trading with outsiders; blocs lowered internal barriers rather than ending external trade.",

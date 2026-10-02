@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "Eleanor Roosevelt chaired the UN Commission on Human Rights, the body that drafted the Declaration in 1946-48. (A) is wrong because the UDHR is a non-binding declaration; it created no court and no enforcement powers. (B) is wrong because its rights are declared universal, applying to all people. (C) is wrong because the General Assembly adopted it 48-0, with eight abstentions.",
     "id": "wh-fivesteps-u9-007",
+    "skill_code": "4.A",
+    "topic_code": "9.8",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The UDHR is a declaration of principles, not a binding treaty; it created no court or enforcement mechanism.",
@@ -35,6 +37,8 @@
     "difficulty": "hard",
     "explanation": "In her 1958 remarks on the Declaration's tenth anniversary, Roosevelt located human rights in 'small places, close to home' — the neighborhood, the school, the factory, farm, or office where every person lives daily life. (B) is wrong because she contrasted lived daily practice with distant institutions like courts. (C) is wrong because the Security Council is the opposite of a 'small place.' (D) is wrong because she meant the places where people actually live, not places beyond government.",
     "id": "wh-fivesteps-u9-008",
+    "skill_code": "4.A",
+    "topic_code": "9.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Roosevelt named the neighborhood, the school, the workplace — the small places of daily life — as where rights begin.",
@@ -67,6 +71,8 @@
     "difficulty": "hard",
     "explanation": "Though not legally binding, the UDHR supplied a ready-made vocabulary of universal rights — equality, dignity, non-discrimination — that new states wove into constitutions to signal modernity and win international legitimacy. (A) is wrong because the UDHR was a declaration, not a binding treaty; states could not be compelled by it. (B) is wrong because many new states eagerly adopted rights language rather than rejecting it. (C) is wrong because the Declaration proclaimed itself a 'common standard of achievement for all peoples and all nations,' not a Europe-only document.",
     "id": "wh-fivesteps-u9-009",
+    "skill_code": "1.B",
+    "topic_code": "9.8",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The UDHR was a declaration of principles, not a legally binding treaty enforceable against states.",
@@ -99,6 +105,8 @@
     "difficulty": "hard",
     "explanation": "Liberation theologians such as Gustavo Gutierrez argued that God takes the side of the poor, so the Church must move beyond charity to active struggle against the structures — military regimes, latifundia, foreign exploitation — that produced poverty. Base communities put that into practice through collective Bible study tied to social action. (A) is wrong because the movement sought justice through organized popular action, not withdrawal from politics. (B) is wrong because it treated poverty as an injustice to be fought, not a divine decree. (D) is wrong because its focus was squarely on transforming this world, not only on salvation in the next.",
     "id": "wh-fivesteps-u9-010",
+    "skill_code": "3.A",
+    "topic_code": "9.5",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Liberation Theology demanded Church engagement with political and economic injustice, not withdrawal from it.",
@@ -131,6 +139,8 @@
     "difficulty": "medium",
     "explanation": "Western Europe built welfare states on top of market economies — private enterprise plus pensions, health care, and unemployment insurance — while the USSR ran a command economy with state ownership of nearly everything. (B) is wrong because Western Europe kept private property; abolishing it was the Soviet approach. (C) is wrong because welfare states expanded the state's economic role. (D) is wrong because pensions and health coverage were the welfare state's signature achievements.",
     "id": "wh-fivesteps-u9-011",
+    "skill_code": "5.A",
+    "topic_code": "9.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Western European welfare states combined market economies with extensive social protections — the fundamental contrast with Soviet command planning.",

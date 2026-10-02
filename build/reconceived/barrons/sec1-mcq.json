@@ -1,6 +1,8 @@
 [
   {
     "id": "wh-barrons-u1-001",
+    "skill_code": "1.B",
+    "topic_code": "1.7",
     "source_id": "barrons-u1-001",
     "unit": 1,
     "stimulus": "An Arab chronicler writing around 1220 described the Mongol invaders of the Islamic world — whom he called Tatars — as warriors who spared no one, killing men, women, and children alike. He observed that they traveled with great herds of sheep, cattle, and horses, carrying their food supply with them, so that when they arrived anywhere they 'had need of nothing from without.' He also noted their unfamiliar customs, including worship of the sun at its rising and dietary practices that shocked his readers.\n\nThe observation illuminates the campaigns of 1219–1223 that shattered the Khwarazmian Empire. Cities that surrendered were generally spared and taxed; cities that resisted — Samarkand, Bukhara, Merv — were stormed and their populations massacred as a warning to the next city. The chronicler wrote in the midst of these events, recording reports of whole regions emptied by an army that needed nothing from the lands it crossed.",
@@ -31,6 +33,8 @@
   },
   {
     "id": "wh-barrons-u1-002",
+    "skill_code": "2.C",
+    "topic_code": "1.7",
     "source_id": "barrons-u1-002",
     "unit": 1,
     "stimulus": "An Arab chronicler writing around 1220 described the Mongol invasion of the Islamic world as a calamity unlike any other: the invaders, he wrote, spared neither women nor children, and their deeds 'horrify all who hear of them.' He presented the invasion as a catastrophe visited upon Islam and its peoples, and could barely bring himself to record what had happened.\n\nThe devastation he describes fell hardest on the cities of Persia and Central Asia — Merv, Nishapur, Herat — whose artisans were killed or enslaved and whose irrigation works were wrecked. Yet within a generation, Mongol rulers were rebuilding many of these same cities as administrative centers: sponsoring observatories and workshops, repairing canals, and guaranteeing the safety of merchants on the overland routes. The chronicler, writing at the moment of destruction, could not see the reconstruction that followed.",
@@ -61,6 +65,8 @@
   },
   {
     "id": "wh-barrons-u2-001",
+    "skill_code": "3.A",
+    "topic_code": "2.2",
     "source_id": "barrons-u2-001",
     "unit": 2,
     "stimulus": "When Mongol armies conquered a city, they routinely spared certain captives: skilled weavers, metalworkers, engineers, astronomers, and physicians. These specialists were often relocated hundreds or thousands of miles — Chinese siege engineers to Persia, Persian astronomers to China — to serve the Mongol court and its armies.\n\nThe practice was systematic, not incidental. Mongol rulers surveyed each conquered city for talent: Samarkand yielded weavers, Beijing yielded engineers. The relocated specialists served the court directly — building siege engines for the next campaign, weaving cloth-of-gold for the khans, casting astronomical instruments. In this way, a technique mastered at one end of Eurasia could be put to work at the other within a single generation.",
@@ -91,6 +97,8 @@
   },
   {
     "id": "wh-barrons-u1-003",
+    "skill_code": "1.A",
+    "topic_code": "1.7",
     "source_id": "barrons-u1-003",
     "unit": 1,
     "stimulus": "The Mongol invasions of the 1200s shattered the political order of the Islamic heartland. Baghdad, the seat of the Abbasid caliphate for five centuries, was sacked in 1258. Yet within a few decades, the Mongol rulers of Persia — the Ilkhans — began converting to Islam, and by the early 1300s the Ilkhan Ghazan was sponsoring mosques, patronizing Persian scholars, and presenting himself as a Muslim sovereign.\n\nThe change was personified at the top: the dynasty founded by Hülegü, the conqueror who ordered Baghdad's destruction, produced rulers who built mosques, endowed religious schools, and corresponded with the Mamluk sultans of Egypt as fellow Muslim sovereigns. Persian bureaucrats — the same class that had served the caliphs — staffed the Ilkhanid administration, keeping the tax registers in Persian and running the empire's daily business. Conquest gave way to accommodation, and the conquerors adopted the civilization of the conquered.",
@@ -121,6 +129,8 @@
   },
   {
     "id": "wh-barrons-u1-004",
+    "skill_code": "1.B",
+    "topic_code": "1.5",
     "source_id": "barrons-u1-004",
     "unit": 1,
     "stimulus": "A linguistic map of Africa shows the Niger-Congo language family divided into branches. One branch, the Bantu languages, is shaded dark gray and covers most of the continent south of the equator — from the Atlantic coast to the Indian Ocean — while other branches cluster mainly in West Africa.",
@@ -151,6 +161,8 @@
   },
   {
     "id": "wh-barrons-u1-005",
+    "skill_code": "3.B",
+    "topic_code": "1.5",
     "source_id": "barrons-u1-005",
     "unit": 1,
     "stimulus": "A linguistic map of Africa shows the Niger-Congo language family divided into branches. One branch, the Bantu languages, is shaded dark gray and covers most of the continent south of the equator — from the Atlantic coast to the Indian Ocean — while other branches cluster mainly in West Africa.",
@@ -181,6 +193,8 @@
   },
   {
     "id": "wh-barrons-u2-002",
+    "skill_code": "5.A",
+    "topic_code": "2.3",
     "source_id": "barrons-u2-002",
     "unit": 2,
     "stimulus": "A linguistic map of Africa shows the Bantu branch of the Niger-Congo family covering most of sub-Saharan Africa. Along the Indian Ocean coast, port towns such as Kilwa and Mombasa grew wealthy from maritime trade, and in these towns a new language took shape: Swahili, built on Bantu grammar with a large Arabic vocabulary.",
@@ -211,6 +225,8 @@
   },
   {
     "id": "wh-barrons-u1-006",
+    "skill_code": "2.B",
+    "topic_code": "1.6",
     "source_id": "barrons-u1-006",
     "unit": 1,
     "stimulus": "In early-1400s France, Christine de Pizan — widowed young and left to support her family — became one of Europe's first women to earn a living as a professional writer. In her 'Book of the City of Ladies,' she stages a dialogue with a personified figure of Reason, asking why women are excluded from courts of law and answering the learned men who claimed women were naturally inferior.\n\nWidowed at twenty-five with three children and a mother to support, de Pizan chose not to remarry — an unusual decision — and turned to the one marketable skill she possessed: an exceptional education, rare for a woman of her time. Her father, astrologer to King Charles V, had seen to her learning. Her patrons came to include Queen Isabeau of Bavaria and the dukes of Burgundy and Orléans, and over three decades she produced histories, political counsel, and defenses of women — the first woman in Europe known to have lived entirely by her pen.",
@@ -241,6 +257,8 @@
   },
   {
     "id": "wh-barrons-u1-007",
+    "skill_code": "2.A",
+    "topic_code": "1.6",
     "source_id": "barrons-u1-007",
     "unit": 1,
     "stimulus": "In her 'Book of the City of Ladies' (1405), Christine de Pizan stages a dialogue with three allegorical figures — Reason, Rectitude, and Justice — who help her build an imaginary city populated by accomplished women of history. Through conversation with these personifications, she refutes the claims of male authors who wrote that women were naturally inferior to men.\n\nThe allegorical debate was a familiar medieval device: writers staged arguments between personified abstractions — Nature and Reason, Body and Soul — to explore contested questions. De Pizan knew the tradition intimately. But she bent it to a new purpose: where earlier authors had used such dialogues to rehearse the learned case against women, drawn from Aristotle and the Church Fathers, she had Lady Reason systematically demolish that case, answering slander with the documented achievements of real and legendary women. In de Pizan's hands, the old form carried a new argument: that the authorities cited against women proved nothing, because the men who wrote them had never truly known their subject.",
@@ -271,6 +289,8 @@
   },
   {
     "id": "wh-barrons-u1-008",
+    "skill_code": "4.A",
+    "topic_code": "1.6",
     "source_id": "barrons-u1-008",
     "unit": 1,
     "stimulus": "Around 1400, a war of words raged among French writers over the nature of women. Male authors cited the popular 'Romance of the Rose' to argue that women were deceitful and inferior; Christine de Pizan answered with the 'Book of the City of Ladies,' defending women's moral and intellectual worth. This literary quarrel drew in many writers on both sides.\n\nThe quarrel had been ignited by the 'Romance of the Rose,' the most widely read poem of the age, whose second author, Jean de Meun, portrayed women as vain, lustful, and deceitful. De Pizan's public letters attacking the poem — the first literary quarrel in French in which a woman took part — drew replies from the leading intellectuals of Paris, including the royal secretary Jean de Montreuil. Her 'City of Ladies' (1405) was her fullest answer: an entire imagined city built from the examples of accomplished women, offered as refutation. The quarrel over women — the querelle des femmes — would run for another two centuries, but de Pizan's intervention remains its most famous opening salvo: the first time a woman answered the learned misogyny of the schools in print, on its own terms.",
@@ -301,6 +321,8 @@
   },
   {
     "id": "wh-barrons-u1-009",
+    "skill_code": "1.A",
+    "topic_code": "1.4",
     "source_id": "barrons-u1-009",
     "unit": 1,
     "stimulus": "A diagram shows a mountainside cut into a staircase of flat, stone-walled platforms. Each level holds soil for planting, with channels directing water from one terrace to the next. The caption identifies the system as Andean terrace agriculture.",
@@ -331,6 +353,8 @@
   },
   {
     "id": "wh-barrons-u1-010",
+    "skill_code": "4.A",
+    "topic_code": "1.4",
     "source_id": "barrons-u1-010",
     "unit": 1,
     "stimulus": "Before 1450, farmers in Afro-Eurasia plowed with oxen, horses, and water buffalo, while farmers in the Americas worked their fields without any comparable draft animals. The largest domesticated animals in the Andes — llamas and alpacas — were used as pack animals, not for pulling plows.",
@@ -361,6 +385,8 @@
   },
   {
     "id": "wh-barrons-u1-011",
+    "skill_code": "1.A",
+    "topic_code": "1.4",
     "source_id": "barrons-u1-011",
     "unit": 1,
     "stimulus": "A diagram shows a mountainside cut into a staircase of flat, stone-walled platforms for planting — Andean terrace agriculture. Under the Inca, such projects were built by the mit'a, a labor system in which communities owed the state rotating drafts of workers for public works.",

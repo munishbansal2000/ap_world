@@ -3,6 +3,8 @@
   "difficulty": "medium",
   "explanation": "The USSR was an empire of over a hundred nationalities held together by force and ideology. Once glasnost loosened censorship and permitted open debate, Estonians, Latvians, Lithuanians, Ukrainians, and others revived long-buried independence movements that Moscow could no longer suppress — and the union dissolved republic by republic. (A) is wrong because the USSR was among the most ethnically diverse states on earth. (B) is wrong because nationalism pulled the republics outward, away from Moscow's control. (C) is wrong because the republics demanded sovereignty and separation, not tighter centralization.",
   "id": "wh-fivesteps-u8-004",
+  "skill_code": "1.B",
+  "topic_code": "8.8",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The Soviet Union contained over a hundred nationalities; it was not ethnically homogeneous.",
@@ -34,6 +36,8 @@
   "difficulty": "hard",
   "explanation": "Glasnost freed criticism that exposed and delegitimized the Party, while perestroika's partial reforms disrupted the planned economy without building a functioning market — the combination unraveled the system Gorbachev meant to rescue. (A) is wrong because the Party's monopoly was not abolished in 1986; Gorbachev worked through it. (C) is wrong because the reforms moved away from, not back to, Stalinist control. (D) is wrong because Soviet-Eastern European trade continued during the reforms.",
   "id": "wh-fivesteps-u8-005",
+  "skill_code": "1.B",
+  "topic_code": "8.8",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Gorbachev did not abolish the Party's leading role in 1986; he tried to reform the system from within the Party.",
@@ -64,6 +68,8 @@
   "difficulty": "hard",
   "explanation": "Moscow first tried to hide the explosion, delaying evacuation and denying the severity — but radiation monitors in Sweden made the cover-up impossible. The lying exposed the system's instinct for secrecy and incompetence, discrediting official claims and feeding the glasnost-era demand for truthfulness. (A) is wrong because Chernobyl is in Ukraine, far from Moscow, which was never destroyed. (C) is wrong because there is no evidence of American sabotage; the cause was flawed reactor design and operator error. (D) is wrong because the disaster horrified the world about nuclear risks; it proved nothing about safety.",
   "id": "wh-fivesteps-u8-006",
+  "skill_code": "1.B",
+  "topic_code": "8.8",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Chernobyl is in Ukraine, far from Moscow; the capital was never destroyed.",
@@ -96,6 +102,8 @@
   "difficulty": "hard",
   "explanation": "The two crises had different origins: Japan's lost decade began when its 1980s asset bubble burst in 1990-91, leaving banks holding bad loans inside an intact market economy, while Russia's GDP fell by roughly half as shock therapy dismantled central planning. (A) is wrong because Japan experienced deflation, not hyperinflation, and Russia's prices exploded. (B) is wrong because ethnic conflict drove neither crisis. (C) is wrong because neither crisis was fundamentally a foreign-debt crisis.",
   "id": "wh-fivesteps-u8-007",
+  "skill_code": "5.A",
+  "topic_code": "8.9",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Japan experienced deflation, not hyperinflation, and Russia's prices exploded after price controls ended.",

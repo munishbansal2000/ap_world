@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "The broadcast never tries to persuade GIs that Japan's cause is just; it tries to persuade them that fighting is pointless. By dwelling on invulnerable Japanese defenses and the pity owed to doomed attackers, it aims to drain the will to fight, the classic goal of demoralization propaganda.",
     "id": "wh-fivesteps-u7-019",
+    "skill_code": "2.A",
+    "topic_code": "7.7",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Emphasizing hopeless Japanese defenses aimed to sap American soldiers' will to fight.",
@@ -35,6 +37,8 @@
     "difficulty": "hard",
     "explanation": "Tokyo Rose and her German counterparts played American jazz and popular songs, then slipped in news of defeats, rumors of infidelity at home, and invitations to surrender. The music was bait; the message was despair. Both Axis powers ran the same playbook against enemy morale.",
     "id": "wh-fivesteps-u7-020",
+    "skill_code": "5.A",
+    "topic_code": "7.7",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The broadcasts were propaganda operations, not objective news services.",
@@ -66,6 +70,8 @@
     "difficulty": "hard",
     "explanation": "By blaming 'your superiors' for ordering a hopeless attack, the broadcast invites GIs to see their own officers, not the Japanese, as the enemy. Turning soldiers against their command corrodes the discipline armies need to fight.",
     "id": "wh-fivesteps-u7-021",
+    "skill_code": "2.A",
+    "topic_code": "7.7",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The broadcast denounces the commanders as wasteful; it does not praise them.",
@@ -98,6 +104,8 @@
     "difficulty": "hard",
     "explanation": "Mali's gold mines were so rich that a single royal pilgrimage, scattering gold across Egypt, measurably depressed the price of the metal. The anecdote is economic evidence of Mali's staggering mineral wealth and its integration into interregional markets.",
     "id": "wh-fivesteps-u1-040",
+    "skill_code": "3.D",
+    "topic_code": "1.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The gold came from Mali's own mines; the pilgrimage displayed Mali's wealth, not its poverty.",
@@ -130,6 +138,8 @@
     "difficulty": "hard",
     "explanation": "A growing empire needed judges to settle disputes under Islamic law, administrators to run provinces, and teachers to train the next generation. Importing Maliki jurists gave Musa a ready-made professional class and advertised Mali as a serious Islamic state to North African partners.",
     "id": "wh-fivesteps-u1-041",
+    "skill_code": "1.B",
+    "topic_code": "1.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Musa sought legal and religious expertise, not conversion to Christianity.",
@@ -162,6 +172,8 @@
     "difficulty": "hard",
     "explanation": "Caravans carried more than commodities: merchants carried their faith, scholars carried books, and pilgrims carried ideas home. The same Saharan routes that moved gold north and salt south moved Islam south, showing that commerce and culture travel together.",
     "id": "wh-fivesteps-u1-042",
+    "skill_code": "1.B",
+    "topic_code": "1.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Trade demonstrably carried ideas, faiths, and technologies as well as goods.",
@@ -194,6 +206,8 @@
     "difficulty": "hard",
     "explanation": "Gunga Din is praised not as an equal but as the ideal native servant: brave, loyal, self-sacrificing in British service. The poem's affection is real, but it is the affection of a master for a faithful subordinate, the paternalistic core of the imperial imagination.",
     "id": "wh-fivesteps-u6-021",
+    "skill_code": "2.A",
+    "topic_code": "6.1",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The poem celebrates imperial service; it never questions British rule in India.",
@@ -224,6 +238,8 @@
     "difficulty": "hard",
     "explanation": "'You're a better man than I am' lands differently when the speaker has just confessed to belting and flaying its object. The tribute is not magnanimity from above but guilt from below: the abused native's courage exposes the abuser's moral failure. Kipling turns the imperial hierarchy upside down in the final line, and the confession is what does the turning. (B) is wrong because the narrator describes years of shared service. (C) is wrong because no promotion occurs; Din dies a water carrier. (D) is wrong because the poem's hero is Din, not the narrator.",
     "id": "wh-fivesteps-u6-022",
+    "skill_code": "2.A",
+    "topic_code": "6.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The confession makes the tribute guilt, not magnanimity — the abused man's courage indicts the abuser.",
@@ -256,6 +272,8 @@
     "difficulty": "hard",
     "explanation": "Kipling believed in the empire's civilizing mission and also believed he saw, in men like Din, genuine nobility among the colonized. The two poems together expose imperialism's central tension: a doctrine of racial superiority strained by encounters with individual human worth.",
     "id": "wh-fivesteps-u6-023",
+    "skill_code": "2.B",
+    "topic_code": "6.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Kipling combined belief in empire's mission with respect for colonized individuals, revealing imperialism's internal contradictions.",
@@ -287,6 +305,8 @@
     "difficulty": "hard",
     "explanation": "Social Darwinists argued that nations and races, like species, struggled for existence, and that the strong naturally subjugated the weak. Imperial conquest was thus not theft but biology: superior peoples fulfilling natural law. Darwin himself never endorsed this leap.",
     "id": "wh-fivesteps-u6-024",
+    "skill_code": "1.B",
+    "topic_code": "6.1",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Social Darwinism was imperialism's favorite justification, not its enemy.",
@@ -318,6 +338,8 @@
     "difficulty": "hard",
     "explanation": "The cartoon draws on the imperialist imagination: America as the benevolent tutor, lifting grateful natives from poverty and tyranny into trade and prosperity. It is propaganda for empire, presenting conquest as charity.",
     "id": "wh-fivesteps-u6-025",
+    "skill_code": "2.A",
+    "topic_code": "6.1",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The cartoon celebrates American expansion; it does not condemn it.",
@@ -349,6 +371,8 @@
     "difficulty": "medium",
     "explanation": "Anti-imperialists like William Jennings Bryan argued that a republic founded on consent of the governed could not hold the Philippines by force without betraying its own principles. Empire abroad, they warned, would corrupt democracy at home.",
     "id": "wh-fivesteps-u6-026",
+    "skill_code": "3.A",
+    "topic_code": "6.3",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The Philippines' wealth was an imperialist argument for keeping them, not against.",
@@ -380,6 +404,8 @@
     "difficulty": "medium",
     "explanation": "Where Roosevelt sent the Marines, Taft sent the bankers: American loans to Honduras, Nicaragua, and others came with US control of customs houses and finances, achieving dominance through debt rather than occupation. It was empire by ledger book.",
     "id": "wh-fivesteps-u6-027",
+    "skill_code": "1.B",
+    "topic_code": "6.5",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Dollar diplomacy was not charity; the loans bought American control.",
@@ -412,6 +438,8 @@
     "difficulty": "hard",
     "explanation": "Castiglione parades learned women, poetesses, and queens who governed wisely to demolish the claim that women are naturally inferior. If Plato trusted women with the city and history shows women ruling and philosophizing, the court lady's education is simple justice.",
     "id": "wh-fivesteps-u4-045",
+    "skill_code": "3.A",
+    "topic_code": "4.8",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The passage argues for women's education, not their confinement.",
@@ -444,6 +472,8 @@
     "difficulty": "hard",
     "explanation": "Humanists believed the classical past held models for perfecting the present. By citing Plato's trust in women, Castiglione borrows antiquity's authority to sanction a radical claim: that women share fully in human potential for learning and rule.",
     "id": "wh-fivesteps-u4-046",
+    "skill_code": "3.D",
+    "topic_code": "4.8",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The Plato citation is central to his argument; he embraces the classics.",
@@ -476,6 +506,8 @@
     "difficulty": "hard",
     "explanation": "Pastoral nomadism made women's work indispensable: with men away herding or at war, women ran the mobile household, managed herds, and controlled property. Economic necessity gave Mongol women a public authority that sedentary patriarchies denied.",
     "id": "wh-fivesteps-u4-047",
+    "skill_code": "1.B",
+    "topic_code": "4.7",
     "key": "A",
     "option_explanations": {
       "A": "Correct. In mobile pastoral life, women's essential labor and management of the camp gave them real authority.",
@@ -508,6 +540,8 @@
     "difficulty": "hard",
     "explanation": "A McDonald's in Shenzhen, identical in menu and golden arches to one in Ohio, shows consumer culture standardized across civilizations. The same brands, the same tastes, the same built environment: globalization made visible in a single restaurant.",
     "id": "wh-fivesteps-u9-015",
+    "skill_code": "1.A",
+    "topic_code": "9.6",
     "key": "A",
     "option_explanations": {
       "A": "Correct. An identical American fast-food restaurant in a Chinese city illustrates the worldwide diffusion of uniform consumer culture.",
@@ -538,6 +572,8 @@
     "difficulty": "hard",
     "explanation": "Modern manufacturing strings components across continents: a German car contains Chinese electronics, Mexican wiring, and Korean steel. When one link breaks, the whole chain stalls, so a lockdown in Shenzhen idles factories in Bavaria. Interdependence is the price of efficiency.",
     "id": "wh-fivesteps-u9-016",
+    "skill_code": "1.B",
+    "topic_code": "9.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Global supply chains transmit disruptions worldwide, making national economies mutually dependent.",
@@ -570,6 +606,8 @@
     "difficulty": "hard",
     "explanation": "Engagement theory predicted that trade and investment would soften authoritarian rule. Instead, China grew rich while the Party crushed the 1989 democracy movement with tanks, proving that economic opening does not automatically produce political opening.",
     "id": "wh-fivesteps-u9-017",
+    "skill_code": "3.D",
+    "topic_code": "9.7",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Despite deep Western economic ties, Beijing used military force against pro-democracy protesters.",
@@ -602,6 +640,8 @@
     "difficulty": "hard",
     "explanation": "The devshirme levied Christian boys from the Balkans, converted them to Islam, and educated them for the palace, the bureaucracy, and the Janissaries. The empire's most powerful servants were thus slaves of the sultan, promoted by merit and loyal to him alone.",
     "id": "wh-fivesteps-u3-009",
+    "skill_code": "1.A",
+    "topic_code": "3.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Many top officials were devshirme recruits of Christian birth, not Turkish nobles.",
@@ -633,6 +673,8 @@
     "difficulty": "hard",
     "explanation": "The examinations were genuinely open to talent, but preparing for them demanded a decade of leisured study that only wealthy families could fund. Meritocracy's door stood open, yet the wealthy held the keys, a pattern visible in many societies' claims of equal opportunity.",
     "id": "wh-fivesteps-u3-010",
+    "skill_code": "1.B",
+    "topic_code": "3.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The exams were rigorously competitive; the bias lay in who could afford to prepare.",
@@ -664,6 +706,8 @@
     "difficulty": "hard",
     "explanation": "Ottoman armies marched for months across the Balkans, Hungary, and Persia, far from supply bases. An army that could live on weighed rations and endure scorched earth could stay in the field after its enemies had starved, and logistics, as the diplomat saw, was a weapon.",
     "id": "wh-fivesteps-u3-011",
+    "skill_code": "1.B",
+    "topic_code": "3.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Disciplined supply let Ottoman armies campaign for months where less frugal enemies starved.",
@@ -695,6 +739,8 @@
     "difficulty": "hard",
     "explanation": "The Janissaries began as the sultan's loyal slave-soldiers, but by the 1600s they had become a hereditary military caste, marrying, enrolling their sons, and extorting donatives from each new sultan. The empire's sharpest sword became its most entrenched interest group, blocking the very reforms that might have saved it.",
     "id": "wh-fivesteps-u3-012",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The Janissaries survived until 1826; they were not abolished in 1500.",
@@ -727,6 +773,8 @@
     "difficulty": "hard",
     "explanation": "Polo wrote to astonish Europe with the Great Khan's splendors; Rubruck wrote to advise the French king on a possible alliance. Both were intelligent strangers in a world they barely understood, and their marvels, though often accurate, are filtered through European expectations and the desire to impress readers back home.",
     "id": "wh-fivesteps-u1-043",
+    "skill_code": "2.C",
+    "topic_code": "1.1",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Both authors were European travelers, not Mongol insiders.",
@@ -759,6 +807,8 @@
     "difficulty": "hard",
     "explanation": "Rubruck's catalogue, driving wagons, loading yurts, milking, making felt and cheese, shows women performing the skilled, heavy labor that kept the mobile camp alive. In a society where everyone's work was visibly essential, women commanded a respect that secluded palace life denied.",
     "id": "wh-fivesteps-u1-044",
+    "skill_code": "1.B",
+    "topic_code": "1.1",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Rubruck lists extensive, skilled female labor; women were central to the economy.",
@@ -791,6 +841,8 @@
     "difficulty": "hard",
     "explanation": "The composite bow laminated horn, wood, and sinew into a short, recurved weapon with the punch of a much larger bow. Small enough to wield on horseback, powerful enough to pierce armor at range, it was the Mongols' decisive military technology.",
     "id": "wh-fivesteps-u1-045",
+    "skill_code": "1.B",
+    "topic_code": "1.1",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The bow's power came from engineering, not magic.",
@@ -823,6 +875,8 @@
     "difficulty": "hard",
     "explanation": "The Mongol peace, enforced by terror and maintained by law, let caravans cross from China to Persia to Europe in relative safety. Along those roads traveled paper money, gunpowder, printing, and crops, and also the fleas that carried the Black Death. The same connectivity that enriched Eurasia could also kill it.",
     "id": "wh-fivesteps-u1-046",
+    "skill_code": "1.A",
+    "topic_code": "1.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Mongol-enforced security opened Eurasian trade routes to goods, technologies, and diseases alike.",
@@ -855,6 +909,8 @@
     "difficulty": "hard",
     "explanation": "The Inca ran an empire of perhaps ten million without writing, money, or the wheel. The quipucamayus, keepers of the knotted cords that recorded censuses, storehouses, and histories, were the empire's memory and its database. Exempting them from tribute shows how highly the state valued information: its accountants were a privileged caste.",
     "id": "wh-fivesteps-u1-047",
+    "skill_code": "1.B",
+    "topic_code": "1.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Exempting the record-keepers from tribute shows the state prized information above ordinary labor.",

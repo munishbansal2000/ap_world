@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "The Berlin Act wrapped the partition of Africa in humanitarian language — protecting native tribes, improving their moral and material welfare, suppressing slavery — while the powers' real business was dividing markets, mines, and strategic territory. The Congo Free State, personally owned by Leopold II, became the most notorious case of atrocity committed under that cover. (A) is wrong because the record of forced labor and mutilation in the Congo disproves sincere humanitarian priority. (C) is wrong because the Act regulated rather than banned colonial commerce. (D) is wrong because missionaries did not control the conference; diplomats dividing Africa did.",
   "id": "wh-fivesteps-u6-001",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Forced labor and atrocities in the Congo disprove the claim that native welfare was the powers' real priority.",
@@ -35,6 +37,8 @@
   "difficulty": "hard",
   "explanation": "Livingstone's formula framed empire as a moral mission — ending slavery, spreading the gospel, opening 'legitimate' commerce — which made colonial ventures respectable to British voters, churches, and Parliament, securing the political support imperialism needed. (A) is wrong because the slave trade's suppression took decades of naval enforcement, not one man's slogan. (B) is wrong because the formula assumed European superiority and tutelage, not partnership. (D) is wrong because the 3 Cs justified European presence rather than opposing it.",
   "id": "wh-fivesteps-u6-002",
+  "skill_code": "1.B",
+  "topic_code": "6.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Suppressing the slave trade required decades of naval enforcement; a slogan alone did not accomplish it.",
@@ -67,6 +71,8 @@
   "difficulty": "hard",
   "explanation": "The line is sarcastic: the hero and heroine are fleeing the corrupt institutions of 'civilization' — its courts and lawmen — so being 'saved' from civilization's blessings means escaping into freedom. The irony is that the very institutions claiming to embody civilization can be corrupt and oppressive. (A) is wrong because the sarcasm undercuts any claim that civilization automatically brings freedom. (B) is wrong because the frontier in the film does have law — corrupt law, which is the point. (C) is wrong because the tone is plainly mocking, not praising.",
   "id": "wh-fivesteps-u6-003",
+  "skill_code": "3.A",
+  "topic_code": "6.8",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The sarcasm undercuts the idea that civilization automatically delivers freedom.",
@@ -99,6 +105,8 @@
   "difficulty": "hard",
   "explanation": "Leopold II ran the Congo as his personal property, and his agents — backed by the Force Publique — forced villagers to meet rubber quotas through hostage-taking, whipping, and mutilation. The profit-driven quota system, not settlement or climate, produced the atrocities. (A) is wrong because the Congo was exploited for rubber and ivory, not settled for farmland. (B) is wrong because missionaries did not drive the violence. (D) is wrong because the catastrophe was man-made, not caused by drought.",
   "id": "wh-fivesteps-u6-004",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The Congo Free State was a rubber-and-ivory extraction regime, not a settler colony seizing farmland.",

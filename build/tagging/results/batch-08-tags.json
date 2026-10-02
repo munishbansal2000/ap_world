@@ -1,0 +1,1236 @@
+[
+ {
+  "id": "wh-vis-u3-045",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Stem asks what Hideyoshi's Osaka Castle is best understood as: a display of power announcing a single authority over a unified Japan. The cognitive task is identifying the historical concept (state-building through monumental display). Japan's unification is an expansion of imperial state power.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u3-046",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
+  "rationale": "Stem asks which feature of the Tokugawa political order the Edo Castle screen reflects: the castle-town as political center with daimyo kept under watch (sankin kotai). Identifying the administrative feature of the bakuhan system. Administration of the land-based state.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u3-047",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Stem asks in what context Sankore's fame under Songhai is understood: Songhai's trans-Saharan trade wealth funding mosques, scholars, libraries. Identifying the economic basis of the empire's expansion and cultural flourishing. (Ambiguous with 3.3 Belief Systems since the madrasa is an Islamic institution, but the stem's answer is the trade-wealth context.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u3-048",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
+  "rationale": "Stem asks which claim the mosque's Sudanic mud-brick construction and ostrich-egg finials best illustrate: West African builders adapting Islamic architecture to local materials. Identifying the claim the source's details support. Islam expressed in a regional idiom.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u3-049",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
+  "rationale": "Map of the Niger bend; stem asks which source of Songhai power it explains: control of the Niger trade cities and trans-Saharan gold/salt routes. Identifying the imperial economic base. Expansion and territorial control.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u3-050",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
+  "rationale": "Stem asks what Askia's grand tomb and hajj are best understood as: legitimation through Islam, presenting himself as a pious Muslim ruler at home and abroad. Identifying the concept of religious legitimation. Belief systems underpinning imperial rule.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-001",
+  "skill_code": "2.B",
+  "topic_code": "4.6",
+  "rationale": "Stem asks to explain abolitionists' purpose in circulating the Brookes slave-ship engraving: to shock the public with the crowding and build support for abolition. Explaining the source's purpose. The abolitionist campaign is a challenge to the slave system.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-002",
+  "skill_code": "3.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which conclusion about the transatlantic slave trade the stowage plan best supports: traders raised profit by crowding maximum captives into the space. Identifying the claim the source supports. The coerced-labor engine of the plantation economy.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-003",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Triangular-trade diagram; stem asks which statement about the Atlantic economy the diagram best supports: enslaved Africans sent to the Americas while plantation products flowed to Europe. Identifying the historical development (the Atlantic trade circuit) depicted. Establishment of maritime empires. (Stem wording resembles claims-and-evidence, but the item skill field is Developments and Processes, so 1.A is the eligible read.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u4-004",
+  "skill_code": "1.B",
+  "topic_code": "4.1",
+  "rationale": "Stem asks the wind pattern 'best explains this practice because': ships rode the steady northeast trade winds southwest (volta do mar). Explaining the navigational development. Wind knowledge and sailing technology.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-005",
+  "skill_code": "4.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which development of 1450-1750 the Tordesillas map best illustrates: Spain and Portugal claiming exclusive exploration zones. Placing the source within the broader imperial-division context. Establishment of maritime empires.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u4-006",
+  "skill_code": "2.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks what the secretly copied Cantino chart's content reveals about Portuguese priorities around 1500: the Indian Ocean spice trade plus Brazil. Identifying the priorities/purpose behind the source. Portuguese maritime expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-007",
+  "skill_code": "3.A",
+  "topic_code": "4.3",
+  "rationale": "Columbian Exchange diagram; stem asks which statement is directly supported: maize and potatoes traveled from the Americas to Europe. Identifying the claim directly supported by the diagram's arrows. Columbian Exchange.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-008",
+  "skill_code": "5.A",
+  "topic_code": "4.3",
+  "rationale": "Stem asks which claim the disease arrows best support: the one-sided flow contributed to catastrophic Native American population decline. Identifying the connection between disease exchange and demographic catastrophe. Columbian Exchange.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-009",
+  "skill_code": "2.C",
+  "topic_code": "4.3",
+  "rationale": "Stem asks why a historian of European contact's impact would value the Florentine Codex smallpox image: it records the epidemic from the Nahua perspective. The significance of the source's point of view for historical use. Columbian Exchange.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-010",
+  "skill_code": "3.A",
+  "topic_code": "4.3",
+  "rationale": "Stem asks which claim about the smallpox epidemic the image's details best support: the disease struck many people at once, overwhelming caregivers. Identifying the claim the source supports. Columbian Exchange.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-011",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks the labor system in the Potosi engraving be identified: the mita draft-labor system. Identifying the historical concept. Coerced mine labor maintaining the Spanish empire.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-012",
+  "skill_code": "4.B",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which broader development Potosi's mining scale helps explain: Spain's ability to fund its wars and worldwide empire with American silver. Situating the mine within the empire's fiscal system. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-013",
+  "skill_code": "1.A",
+  "topic_code": "4.7",
+  "rationale": "Stem asks which feature of Spanish colonial society the casta painting illustrates: a formal social hierarchy classifying people by ancestry and race. Identifying the concept. Changing social hierarchies.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-014",
+  "skill_code": "1.A",
+  "topic_code": "4.7",
+  "rationale": "Stem compares with the English colonies: Spanish America built a more elaborate system for classifying people of mixed ancestry. Identifying the comparative feature. Changing social hierarchies.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-015",
+  "skill_code": "1.B",
+  "topic_code": "4.1",
+  "rationale": "Stem asks lateen sails 'were significant because they' let ships sail closer to the wind, enabling long Atlantic voyages. Explaining the technological development. Maritime technological innovation.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-016",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which conclusion about Caribbean plantation economies the engraving supports: sugar production depended on enslaved African labor organized for export. Identifying the concept. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-017",
+  "skill_code": "1.B",
+  "topic_code": "4.5",
+  "rationale": "Stem asks why sugar cultivation led to large plantations built around expensive centralized mills: cane spoils quickly and mills cost a fortune. Explaining the economic development. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-018",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which pattern of European-Indigenous relations the fur-trade engraving illustrates: a commercial partnership in which Europeans depended on Indigenous hunters. Identifying the pattern. French/Dutch commercial expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-019",
+  "skill_code": "3.B",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which detail best shows Indigenous agency: the Indigenous trader displaying the pelt as the seller. Identifying the specific evidence used to support the agency argument. French/Dutch commercial expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-020",
+  "skill_code": "2.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks what the Japanese-made nanban screen is most useful as evidence of: how Japanese observers saw the exotic Portuguese traders. Identifying the source's point of view. Portuguese maritime presence in Asia.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-021",
+  "skill_code": "5.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which conclusion about the trade the screen's details support: the Portuguese traded in Japan on terms largely set by the Japanese. Identifying the connection between the two parties' roles. Portuguese maritime trade. (5.A vs 5.B is close; the stem asks to identify the relationship rather than explain its causes.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u4-022",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which conclusion the 1524 Tenochtitlan map best supports: a large, planned urban center. Identifying the claim the map supports. The conquest-era Spanish context of establishing the American empire. (Topic is the least certain in this pair: the map depicts the Mexica capital, but the item's content is the Spanish conquest context.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u4-023",
+  "skill_code": "2.C",
+  "topic_code": "4.4",
+  "rationale": "Stem warns the historian to keep in mind the map was produced in Europe to accompany Cortes's reports to the king: its purpose and audience limit its use as a neutral record. The limitation imposed by the source's provenance. Establishing the Spanish maritime empire.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-024",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which Dutch colonial priority the Castello Plan illustrates: building a fortified commercial outpost for trade. Identifying the concept. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-025",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem contrasts with sprawling Spanish plaza-cathedral cities: New Amsterdam was organized around the harbor and warehouses for commerce. Identifying the comparative feature. Establishment of maritime empires.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u4-026",
+  "skill_code": "2.C",
+  "topic_code": "4.4",
+  "rationale": "Stem notes de Bry never visited the Americas: his engraving is evidence of European imaginations and fears, not of Tupinamba ritual. The limitation of the source's point of view for ethnographic use. Establishing maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-027",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which historical question the engraving best answers: how Europeans portrayed Indigenous Americans to justify conquest. Identifying the claim the source supports. Establishing maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-028",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which Spanish priority the galleon's gun decks reflect: protecting valuable silver shipments with heavily armed vessels. Identifying the concept. The treasure-fleet system maintaining the empire. (Close call with 4.4, but the silver-protection system is about maintaining the established empire.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u4-029",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which European strategy Elmina exemplifies: building fortified coastal trading posts rather than settler colonies. Identifying the concept. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-030",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks what Elmina's continued operation under Dutch ownership illustrates: the fortified-trade model continuing as rival empires replaced one another. Identifying the continuity. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-031",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which economic development the Amsterdam bourse was central to: the rise of joint-stock companies and share trading. Identifying the concept. Financial machinery maintaining maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-032",
+  "skill_code": "5.B",
+  "topic_code": "4.5",
+  "rationale": "Stem asks how institutions like the bourse explain Dutch success: pooling capital from many investors to fund expensive voyages. Explaining the relationship between financial innovation and imperial reach. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-033",
+  "skill_code": "1.A",
+  "topic_code": "4.6",
+  "rationale": "Stem asks which Tokugawa policy Dejima's design reflects: limiting European contact to one supervised port. Identifying the concept. The state's response to the external challenge of European contact.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-034",
+  "skill_code": "1.A",
+  "topic_code": "4.6",
+  "rationale": "Stem contrasts with Spanish/Portuguese empires: a strong Asian state could set the terms of European trade. Identifying the comparative concept. State response to external pressure.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-035",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which British interest the Hudson Bay charting reflects: securing the fur-trade network of the Hudson's Bay Company. Identifying the concept. Establishment of maritime empires.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u4-036",
+  "skill_code": "5.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks what the furs-to-European-hats chain illustrates: colonial extraction of resources fed European markets. Identifying the connection between colonial supply and metropolitan demand. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-037",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks what the Cape settlement served as: a station where VOC ships restocked food and water en route to Asia. Identifying the concept. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-038",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
+  "rationale": "Stem asks why the Dutch established the Cape station: the Europe-Asia voyage was so long crews suffered scurvy without resupply. Explaining the development. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-039",
+  "skill_code": "3.A",
+  "topic_code": "4.6",
+  "rationale": "Stem asks what historians use runaway ads as evidence of: enslaved people actively resisted bondage by running away. Identifying the claim the source supports. Resistance to the slave system.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-040",
+  "skill_code": "3.A",
+  "topic_code": "4.7",
+  "rationale": "Stem asks what the ad's detailed description best shows: enslaved people were treated as valuable property worth describing. Identifying the claim. The property logic of the racial hierarchy.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-041",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which aspect of early English-Indigenous contact the White watercolor illustrates: English curiosity about Indigenous foodways and daily life. Identifying the concept. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-042",
+  "skill_code": "2.C",
+  "topic_code": "4.4",
+  "rationale": "Stem warns the image was made by an English observer for an English audience: it must be read as a European view, not an Indigenous self-portrait. The limitation imposed by the source's provenance. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-043",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks what Ouidah's design indicates: a fortified base for the slave trade, holding captives. Identifying the concept. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-044",
+  "skill_code": "4.B",
+  "topic_code": "4.5",
+  "rationale": "Stem asks why Europeans built forts like Ouidah rather than anchoring offshore: to defend stored captives and goods while keeping African rulers' favor. Situating the forts within the slave-trade system. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-045",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which feature of the Brazilian sugar economy the engenho exemplifies: farming and industry combined in a single large enterprise. Identifying the concept. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-046",
+  "skill_code": "5.B",
+  "topic_code": "4.5",
+  "rationale": "Stem asks why sugar tended to concentrate land, capital, and enslaved labor: cane must be crushed quickly and the equipment was expensive. Explaining the relationship between sugar's technical requirements and social concentration. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-047",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
+  "rationale": "Stem asks the Banda Islands' nutmeg monopoly 'best explains why' the VOC used violence to monopolize them. Explaining the development. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-048",
+  "skill_code": "4.B",
+  "topic_code": "4.4",
+  "rationale": "Stem asks which pattern of the spice trade the island-grove image explains: holding tiny island sources brought enormous profits and power. Situating the monopoly within the broader spice-trade system. Establishment of maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-049",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
+  "rationale": "Stem asks which development the piece of eight's imagery reflects: American silver became a global currency joining Spain's two worlds. Identifying the concept. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u4-050",
+  "skill_code": "5.B",
+  "topic_code": "4.5",
+  "rationale": "Stem asks what the coin's distribution from Mexico to China supports: American silver fueled a global trade network feeding Chinese demand. Explaining the relationship between Potosi silver and global commerce. Maintained maritime empires.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-001",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which statement best explains what drove the Bastille attack: the crowd sought the fortress's gunpowder, making it the violent symbol of popular revolt. Identifying the claim the image supports. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-002",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what criticism of the Old Regime the allegory expresses: the Third Estate bore taxation while clergy and nobility were exempt. Identifying the source's message/point of view. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-003",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks the historical significance of the Tennis Court Oath: deputies pledged not to disband until a constitution was written, claiming sovereignty from the king. Situating the event within the revolution's transfer of sovereignty. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-004",
+  "skill_code": "3.A",
+  "topic_code": "5.1",
+  "rationale": "Stem asks which intellectual tradition the Declaration's principles drew on: Enlightenment natural-rights philosophy (liberty, property, general will). Identifying the claim about the source's argument. The Enlightenment.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-005",
+  "skill_code": "5.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what de Gouges's wording reveals about her purpose: turning the Revolution's own logic back on itself, demanding rights promised to 'men' apply to women. Identifying the connection between revolutionary ideology and the women's-rights claim. Nationalism and revolutions.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u5-006",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which major political change the National Assembly image reflects: sovereignty shifting from the king ruling alone to a representative assembly. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-007",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Corday execution image illustrates about the Reign of Terror: the revolutionary government used public execution as a political weapon. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-008",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Gillray cartoon reveals about British attitudes: conservative fear that revolutionary ideas would cross the Channel. Identifying the source's point of view. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-009",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what view of the Congress of Vienna the cartoon expresses: clumsy elites botching the restoration out of self-interest. Identifying the point of view. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-010",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which criticism of the Vienna settlement the caricature makes: frivolous elites redrawing borders while ignoring liberal and nationalist demands. Identifying the claim in the source. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-011",
+  "skill_code": "2.C",
+  "topic_code": "5.2",
+  "rationale": "Stem asks the most careful conclusion about the Leutze painting's value: an 1851 romantic commemoration, better evidence of 19th-century nationalist memory than of 1776. The limitation of its historical situation for use as event evidence. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-012",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Boston Tea Party print shows about colonial resistance: destroying tea to protest Parliament's taxation without consent. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-013",
+  "skill_code": "2.C",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the 1840 engraving's date and style tell a historian about its use: an idealized later commemoration, not documentation of 1776. The limitation of its historical situation. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-014",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Bolivar portrait suggests about independence's social leadership: creole elites, not peninsulares, drove Spanish American independence. Situating the portrait within the broader movement. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-015",
+  "skill_code": "1.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks why Vertieres is historically significant: Haitian forces defeating the French made Haiti the first independent Black republic. Explaining the development's significance. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-016",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Crete-a-Pierrot engraving demonstrates about how the revolution was fought: organized armies using conventional assaults and guerrilla tactics. Identifying the claim the source supports. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-017",
+  "skill_code": "4.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks the purpose of the 1802 French expedition: Napoleon sent an army to retake Saint-Domingue and restore slavery. Identifying the historical context. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-018",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what Toussaint's portrait reveals about his role: rising from enslavement to command, the French-style uniform projecting legitimate authority. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-019",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the artist communicates through the military-dress/tropical-landscape combination: blending European symbols of military power with Black sovereignty. Identifying the source's message. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-020",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Napoleonic Code title page reveals: a uniform legal code spreading legal equality and property rights under centralized authoritarian rule. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-021",
+  "skill_code": "1.B",
+  "topic_code": "5.3",
+  "rationale": "Stem asks why Watt's steam engine was so important: it freed factories from rivers, making the factory system possible. Explaining the technological development. Industrial Revolution begins.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-022",
+  "skill_code": "3.A",
+  "topic_code": "5.3",
+  "rationale": "Stem asks which economic change the spinning jenny illustrates: one worker spinning many threads at once, pulling textile production into factories. Identifying the claim the source supports. Industrial Revolution begins.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-023",
+  "skill_code": "1.B",
+  "topic_code": "5.4",
+  "rationale": "Stem asks the most important economic effect of the Liverpool-Manchester railway: drastically cutting transport costs and integrating national markets. Explaining the development. Industrialization spreads.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-024",
+  "skill_code": "5.B",
+  "topic_code": "5.3",
+  "rationale": "Stem asks the gin's most significant unintended consequence: making short-staple cotton profitable, causing cotton cultivation and slavery to expand across the South. Explaining the relationship between the invention and coerced labor's expansion. The gin is an Industrial Revolution invention. (The slavery-expansion consequence could arguably point to 5.9, but the stem is framed around the invention's economic effect.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u5-025",
+  "skill_code": "2.A",
+  "topic_code": "5.8",
+  "rationale": "Stem asks which historical development the Luddite cartoon depicts: textile workers smashing machines, blaming mechanization for unemployment. Identifying the subject. Reactions to the industrial economy.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-026",
+  "skill_code": "3.A",
+  "topic_code": "5.9",
+  "rationale": "Stem asks what the Lowell Factory Girls constitution reveals about industrialization's social effects: young women workers forming an early labor organization. Identifying the claim the source supports. Society and the industrial age.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-027",
+  "skill_code": "1.A",
+  "topic_code": "5.8",
+  "rationale": "Stem asks what the Chartist flyer shows about working-class politics: industrial workers organizing mass peaceful demonstrations to demand the vote. Identifying the concept. Reactions to the industrial economy.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-028",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what Peterloo reveals about Britain's response to reform demands: authorities used military force against peaceful demonstrators, revealing elite fear of revolution after 1815. Situating the event within the post-Napoleonic conservative reaction. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-029",
+  "skill_code": "1.A",
+  "topic_code": "5.7",
+  "rationale": "Stem asks which movement the Anti-Corn Law League meeting documents: middle-class manufacturers campaigning to repeal grain tariffs as free-trade. Identifying the concept. Economic developments and innovations.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-030",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Wedgwood medallion reveals about abolitionist strategy: spreading the message through fashionable mass-produced consumer goods. Identifying the purpose. Abolition as a revolutionary-era reform movement.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-031",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks why abolitionists circulated the Brookes diagram: to make the Middle Passage's inhumanity visible and build public support. Identifying the claim the source's circulation served. Abolition as a revolutionary-era reform movement.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-032",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the poster's 'regulated slave trade' headline tells about the campaign's state: Parliament regulated but had not yet abolished the trade. Identifying the historical situation. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-033",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what Crowe's 1861 painting documents about US slavery: the domestic slave trade's dehumanization persisting into the 1860s. Identifying the claim the source supports. Abolition-era content. (The domestic slave trade could also fit 5.9 society, but the item's frame is the abolition struggle.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u5-034",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what Schoelcher's 1848 draft represents in abolition's history: France's revolutionary government abolishing slavery in the colonies. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-035",
+  "skill_code": "1.B",
+  "topic_code": "5.6",
+  "rationale": "Stem asks what the 1861 emancipation image reveals: the tsar freed the serfs from above to preserve autocracy, though redemption payments kept peasants bound. Identifying the concept. Reform-era nationalism and revolutions.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u5-036",
+  "skill_code": "5.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which strategy the Seneca Falls roll of honor shows: modeling demands on 1776, claiming natural rights for women, linking abolitionism and women's rights. Identifying the connection. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-037",
+  "skill_code": "4.A",
+  "topic_code": "5.1",
+  "rationale": "Stem asks which argument Wollstonecraft is known for: Enlightenment reason and natural rights applied to women through equal education. Identifying the intellectual context. The Enlightenment.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-038",
+  "skill_code": "6.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what de Gouges's text reveals about the limits of the Revolution's universalism: she used equality's own logic but was rejected and executed. The student must make a historically defensible claim. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-039",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the Garibaldi print shows about Italian unification's forces: popular nationalist volunteers alongside state power. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-040",
+  "skill_code": "2.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks why the Versailles location was significant: staging the proclamation in the French king's palace symbolized German victory and French humiliation. Explaining the significance of the choice. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-041",
+  "skill_code": "5.B",
+  "topic_code": "5.4",
+  "rationale": "Stem asks what the Opium War print reveals about the mid-19th-century balance of power: Britain's industrial naval superiority forced open China. Explaining how industrialization shifted the balance. Industrialization spreading and its power effects. (Could arguably be 5.5 military technology, but the stem is about the balance of power, which 5.4 covers.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u5-042",
+  "skill_code": "1.A",
+  "topic_code": "5.10",
+  "rationale": "Stem asks which historical development the 1857 Lucknow image depicts: the anti-colonial uprising that led Britain to impose direct Crown rule. Identifying the concept. Continuity and change in the industrial age. (The Sepoy Rebellion sits awkwardly between 5.2-style resistance and 5.10; placed in 5.10 as an industrial-age anti-colonial revolt.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u5-043",
+  "skill_code": "2.C",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which event Delacroix's painting actually commemorates and why it matters: the July Revolution of 1830, commonly confused with 1789. The limitation of its date for interpretation. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-044",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the 1848 barricade sketch reveals about the revolutions' character: mass urban insurrection with ordinary people fighting troops. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-045",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what the 1848 barricade lithograph shows about how the revolution was fought: violent urban revolts with ordinary people suffering heavy casualties. Identifying the claim the source supports. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-046",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what Sans-Souci Palace reveals about Haiti after independence: early leaders built European-style palaces to assert the sovereignty of the new Black-ruled state. Situating the building within the new state's legitimation. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-047",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which conclusion the Waterloo campaign map best supports: Napoleon defeated by a coalition, with Prussian arrows arriving from the east. Identifying the claim the map's legend supports. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-048",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what young Bonaparte's career illustrates: revolutionary wars let talented officers rise by merit, and French armies spread reforms. Identifying the concept. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-049",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
+  "rationale": "Stem asks what role the environment played in the Haitian Revolution's outcome: tropical terrain and disease devastated European armies. Explaining the context's role in the outcome. Nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u5-050",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
+  "rationale": "Stem asks which conflict Tegg's 1807 cartoon satirizes: the Anglo-French blockade war. Identifying the subject. Napoleonic-era nationalism and revolutions.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-001",
+  "skill_code": "3.A",
+  "topic_code": "6.2",
+  "rationale": "Stem asks which late-19th-century imperialist development the Rhodes Colossus cartoon illustrates: Britain's drive to connect its African possessions in one north-south corridor. Identifying the claim the source supports. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-002",
+  "skill_code": "3.A",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what criticism of the Berlin Conference the cartoon makes: it let Leopold II personally seize the Congo while the other powers watched. Identifying the claim in the source. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-003",
+  "skill_code": "3.A",
+  "topic_code": "6.1",
+  "rationale": "Stem asks which justification for imperialism the 'White Man's Burden' cartoon promotes: empire as the moral duty to carry backward peoples toward civilization. Identifying the claim in the source. Rationales for imperialism.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-004",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Stem asks what the Iwakura Mission photo suggests about Meiji reform: selective borrowing from the West to industrialize and resist colonization. Identifying the approach. Indigenous response to state expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-005",
+  "skill_code": "2.B",
+  "topic_code": "6.3",
+  "rationale": "Stem asks what the existence and circulation of Beato's photo reveals about Britain's response: public exemplary punishment displayed via the new technology of photography. Explaining the source's function. Indigenous response (1857 rebellion) and its suppression.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-006",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks why the British staged the 1877 Durbar: to legitimize Crown rule by displaying Indian princes as loyal subordinates. Situating the ceremony within imperial legitimation. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-007",
+  "skill_code": "3.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks which argument historians use famine photos to support: British revenue demands and grain exports turned drought into mass mortality. Identifying the claim the source supports. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-008",
+  "skill_code": "5.B",
+  "topic_code": "6.5",
+  "rationale": "Stem asks what the Nemesis-vs-junks contrast helps explain: steam power and iron hulls gave Britain a decisive edge over China's sailing fleet. Explaining the relationship between industrial technology and the Opium War's outcome. Economic imperialism in China.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-009",
+  "skill_code": "2.C",
+  "topic_code": "6.5",
+  "rationale": "Stem asks why Lai Afong's identity matters: a Chinese commercial studio shows opium as a domestic Chinese social practice, complicating the foreign-imposition narrative. The significance of the source's point of view. Economic imperialism.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-010",
+  "skill_code": "2.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what the Japanese woodblock reveals beyond the battle: Japan used mass-produced prints to celebrate its modernized military and build nationalist pride. Explaining the source's purpose. State expansion (Japanese imperialism).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-011",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
+  "rationale": "Stem asks what the Indian and German soldiers together illustrate: Britain's global use of colonial troops and rival empires cooperating to crush the Boxers. Identifying the connections between these imperial developments. Indigenous response (Boxers).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-012",
+  "skill_code": "3.D",
+  "topic_code": "6.3",
+  "rationale": "Stem asks how the photo complicates the 'Chinese versus foreigners' description: Chinese Christians took up arms against the Boxers, so the conflict divided Chinese society itself. Showing how evidence modifies the simple nationalist argument. Indigenous response.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-013",
+  "skill_code": "2.B",
+  "topic_code": "6.5",
+  "rationale": "Stem asks how Harris's Congo photos functioned: missionaries and reformers circulated them to expose forced-labor atrocities and pressure Leopold. Explaining the source's purpose. The Congo rubber regime's economic exploitation. (Close to 6.2 since the Congo Free State was Leopold's personal colony, but the photos' content is the forced-labor economy.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u6-014",
+  "skill_code": "4.A",
+  "topic_code": "6.3",
+  "rationale": "Stem asks why Adwa is significant: Ethiopia's army defeated an Italian invasion, preserving independence during the Scramble. Identifying the historical context. Indigenous response to state expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-015",
+  "skill_code": "2.A",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what the British engraving's framing emphasizes: British triumph, the defeated Zulu king shipped into exile beneath the British flag. Identifying the point of view. State expansion.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u6-016",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks what the Kimberley photos illustrate about southern Africa's economy: diamonds drew investment, railways, and migrant workers, transforming the region. Identifying the concept. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-017",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what the Boer fighters photo reveals about the South African War: imperial war was not only European versus African; Britain fought white settler descendants too. Situating the war within the broader imperial context. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-018",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
+  "rationale": "Stem asks a major consequence of the Golden Spike: the transcontinental railroad linked markets, speeding settlement and Native dispossession. Explaining the development. Global economic development. (The Native-dispossession consequence is real but the stem's frame is economic integration.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u6-019",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks which argument historians use Riis's tenement photo to support: rapid industrial growth produced extreme overcrowding, spurring reform demands. Identifying the concept. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-020",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks which labor practice the cigar-rolling photo illustrates: the sweating system of subcontracted tenement piecework. Identifying the concept. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-021",
+  "skill_code": "2.B",
+  "topic_code": "6.4",
+  "rationale": "Stem asks what response such images provoked: muckraking journalism and Progressive campaigns for labor laws and child-labor limits. Explaining the source's effect and function. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-022",
+  "skill_code": "1.A",
+  "topic_code": "6.6",
+  "rationale": "Stem asks what Castle Garden indicates about 1860s immigration: a mass, state-managed process decades before Ellis Island. Identifying the concept. Causes of migration.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-023",
+  "skill_code": "4.A",
+  "topic_code": "6.6",
+  "rationale": "Stem asks why the government built the Ellis Island facility in 1900: record immigration required expanded inspection infrastructure. Identifying the historical context. Causes of migration.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-024",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
+  "rationale": "Stem asks why Russia built the Trans-Siberian: to bind Siberia, move troops and settlers east, and speed industrialization. Explaining the development. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-025",
+  "skill_code": "2.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks what the convict-labor photo reveals about Russian industrialization: the state used coerced convict labor for big infrastructure. Identifying the pattern. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-026",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
+  "rationale": "Stem asks why the Bessemer process was revolutionary: it made steel cheap and abundant for railroads, bridges, and machinery. Explaining the development. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-027",
+  "skill_code": "5.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks the transatlantic cable's historical significance: near-instant intercontinental communication for business and diplomacy. Identifying the connection between the technology and its uses. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-028",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what the Santiago battle illustrates about the late-19th-century US: American industry had built a modern steel navy projecting power overseas. Situating the battle within US imperial expansion. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-029",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Stem asks what the 1872 railway ceremony reveals about Meiji Japan: the state celebrated Western railways as symbols of civilization. Identifying the approach. Indigenous response to state expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-030",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks why Suez control became strategic for Britain: it shortened the sea route to India, the empire's core. Explaining the development. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-031",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks the most important consequence of the 1882 bombardment: Britain occupied Egypt, beginning decades of control. Explaining the development. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-032",
+  "skill_code": "2.A",
+  "topic_code": "6.8",
+  "rationale": "Stem asks what the Congress of Berlin painting captures about great powers handling Ottoman decline: they redrew the Balkan map among themselves, checking Russia. Identifying the arrangement. Great-power rivalry as imperial-age causation. (Borderline with 6.2; the item is about the diplomatic management of decline rather than colonial expansion.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u6-033",
+  "skill_code": "4.A",
+  "topic_code": "6.8",
+  "rationale": "Stem asks which development the 'Divided Bulgaria' allegory responds to: the Congress of Berlin's division of Bulgaria after the 1877-78 war. Identifying the historical context. Imperial-age causation.",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u6-034",
+  "skill_code": "1.A",
+  "topic_code": "6.2",
+  "rationale": "Stem asks which statement the 1897 Africa map supports: European powers claimed nearly all of Africa, with the Congo Free State as Leopold's personal property. Identifying the concept. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-035",
+  "skill_code": "2.A",
+  "topic_code": "6.7",
+  "rationale": "Stem asks what the Chinatown opium-den stereoview illustrates about Chinese immigrants: distinctive practices that nativists used to stereotype them, feeding the case for exclusion. Identifying the pattern. Effects of migration.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-036",
+  "skill_code": "3.A",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what argument the 'School Begins' blackboard makes: the US should govern its new territories without their consent, as Britain did its colonies. Identifying the claim in the source. State expansion (US imperialism).",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-037",
+  "skill_code": "1.A",
+  "topic_code": "6.5",
+  "rationale": "Stem asks what the opium-ship painting illustrates about the trade: British merchants used fast, armed ships to smuggle opium despite Qing prohibition. Identifying the concept. Economic imperialism.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-038",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what was being proclaimed at the 1877 Durbar procession: Victoria as Empress of India under direct Crown rule. Identifying the historical context. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-039",
+  "skill_code": "1.A",
+  "topic_code": "6.6",
+  "rationale": "Stem asks which migration system the photo documents: contract labor migration of Asian workers under multi-year contracts. Identifying the concept. Causes of migration.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-040",
+  "skill_code": "2.A",
+  "topic_code": "6.6",
+  "rationale": "Stem asks what the British flag on the coolie ship indicates: Britain dominated the indentured-labor trade supplying its colonies after abolition. Identifying the pattern. Causes of migration.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-041",
+  "skill_code": "3.A",
+  "topic_code": "6.5",
+  "rationale": "Stem asks which development the 'cake of Kings' cartoon illustrates: rival powers carving China into spheres of influence while the Qing could not resist. Identifying the claim in the source. Economic imperialism.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-042",
+  "skill_code": "4.B",
+  "topic_code": "6.4",
+  "rationale": "Stem asks what Haymarket's violent outcome reveals about US industrialization: workers' strikes met employer and police resistance. Situating the event within Gilded Age labor conflict. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-043",
+  "skill_code": "3.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks which consequence of industrialization historians use the bison-skull photo for: railroads and commercial hunters wiping out the herds and Plains peoples' livelihood. Identifying the claim. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-044",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Stem asks what the Tomioka mill reveals about Meiji industrialization: state-directed adoption of Western technology and experts on Japanese terms. Identifying the approach. Indigenous response to state expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-045",
+  "skill_code": "2.A",
+  "topic_code": "6.3",
+  "rationale": "Stem asks what the deposed emperor's photo reveals about the 1857 rebellion's consequences: Britain ended the Mughal dynasty and replaced Company rule with direct Crown rule. Identifying the pattern. Indigenous response.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-046",
+  "skill_code": "2.A",
+  "topic_code": "6.5",
+  "rationale": "Stem asks what the Summer Palace's deliberate destruction illustrates: calculated cultural destruction to humiliate the Qing and force unequal treaties. Identifying the pattern. Economic imperialism.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-047",
+  "skill_code": "3.A",
+  "topic_code": "6.7",
+  "rationale": "Stem asks what the Klondike photo shows about migration: resource rushes pulled mass long-distance migration, drawing Indigenous people into wage labor. Identifying the claim the source supports. Effects of migration.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-048",
+  "skill_code": "3.A",
+  "topic_code": "6.4",
+  "rationale": "Stem asks what the Homestead illustration reveals about labor conflict: employers fought unions with private armies while the state sided with employers. Identifying the claim the source supports. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-049",
+  "skill_code": "5.B",
+  "topic_code": "6.2",
+  "rationale": "Stem asks what the Omdurman scene helps explain: machine guns and modern rifles let small European-led forces defeat far larger armies. Explaining the relationship between firepower and colonial reconquest. State expansion.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u6-050",
+  "skill_code": "4.B",
+  "topic_code": "6.4",
+  "rationale": "Stem asks what the Bhor Ghat railway shows about colonial economies: railways carried raw cotton inland to ports for export to Britain's factories. Situating the line within metropole-serving infrastructure. Global economic development.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-001",
+  "skill_code": "3.A",
+  "topic_code": "7.2",
+  "rationale": "Stem asks which claim about WWI's outbreak the alliances map best supports: Serbia, a Russian ally surrounded by Austria-Hungary, could turn a Balkan crisis into a continental war. Identifying the claim the map supports. Causes of World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-002",
+  "skill_code": "5.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the 1915 Eastern Front map indicates compared with the West: a war of movement with the front shifting across hundreds of miles. Identifying the comparison. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-003",
+  "skill_code": "1.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the 1914 campaign map shows: Germany's drive through Belgium halted at the Marne, ending in a static front line. Identifying the development. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-004",
+  "skill_code": "2.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the Gallipoli photo demonstrates: empires sent colonial troops to fight far from home. Identifying the pattern. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-005",
+  "skill_code": "3.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks why zigzag trenches were built: angles contained shell blasts and enfilading fire. Identifying the claim the aerial photo supports. Conducting World War I.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u7-006",
+  "skill_code": "1.B",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the machine-gun photo illustrates about the stalemate: defensive firepower made attacks across open ground so costly that neither side could advance. Explaining the development. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-007",
+  "skill_code": "1.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the gas-mask image reveals about industrial-age warfare: new weapons forced armies to invent protective gear and new tactics. Identifying the concept. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-008",
+  "skill_code": "3.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks which claim about the tank the photo best supports: in 1916 it remained a slow, unreliable experiment rather than a war-winning weapon. Identifying the claim. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-009",
+  "skill_code": "2.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the Woolwich photo shows about the home front: total war drew women into munitions factories in large numbers. Identifying the pattern. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-010",
+  "skill_code": "2.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what a recruitment historian would argue from the Lusitania poster: Britain used the sinking to drive voluntary enlistment. Identifying the source's purpose. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-011",
+  "skill_code": "3.A",
+  "topic_code": "7.3",
+  "rationale": "Stem asks what the 'I WANT YOU' poster reveals about the American war effort: mass patriotic advertising mobilizing a population neutral until 1917. Identifying the claim the source supports. Conducting World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-012",
+  "skill_code": "4.B",
+  "topic_code": "7.5",
+  "rationale": "Stem asks why the Hall of Mirrors choice was significant: a symbolic reversal of Germany's 1871 proclamation in the same room. Situating the signing within the war's aftermath. Unresolved tensions after World War I.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-013",
+  "skill_code": "2.A",
+  "topic_code": "7.1",
+  "rationale": "Stem asks what the 1929 Soviet poster reveals about Soviet goals: propaganda still promoted world revolution via the Comintern. Identifying the message. Shifting power after 1900. (The Comintern/world-revolution theme is post-Russian-Revolution power projection; 7.1 is the best fit among U7 topics.)",
+  "confidence": "low"
+ },
+ {
+  "id": "wh-vis-u7-014",
+  "skill_code": "3.A",
+  "topic_code": "7.4",
+  "rationale": "Stem asks what the Five-Year Plan poster indicates about Stalin's drive: resistance framed as political treason, justifying repression of labeled class enemies. Identifying the claim in the source. The economy in the interwar period.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-015",
+  "skill_code": "1.B",
+  "topic_code": "7.4",
+  "rationale": "Stem asks what the breadline photo shows about the Depression's effects: mass unemployment overwhelming private charity before federal relief. Identifying the concept. The economy in the interwar period.",
+  "confidence": "high",
+  "third_read": true
+ },
+ {
+  "id": "wh-vis-u7-016",
+  "skill_code": "2.B",
+  "topic_code": "7.4",
+  "rationale": "Stem asks why the FSA commissioned such photos: to build support for relief programs. Explaining the source's purpose. The economy in the interwar period.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-017",
+  "skill_code": "3.A",
+  "topic_code": "7.6",
+  "rationale": "Stem asks what the Nuremberg rally photo reveals about Nazi rule: choreographed mass spectacles projecting unity, discipline, and power. Identifying the claim the source supports. Causes of World War II.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-018",
+  "skill_code": "2.A",
+  "topic_code": "7.7",
+  "rationale": "Stem asks what the 1941-42 poster reveals about Nazi propaganda: the invasion of the USSR framed as a crusade defending Europe's freedom against communism. Identifying the message. Conducting World War II.",
+  "confidence": "high"
+ },
+ {
+  "id": "wh-vis-u7-019",
+  "skill_code": "4.B",
+  "topic_code": "7.6",
+  "rationale": "Stem asks what is significant about who is and is not shown at Munich: Britain and Italy negotiated Czechoslovak territory with no Czech representative present. Situating the photo within appeasement. Causes of World War II.",
+  "confidence": "high"
+ }
+]

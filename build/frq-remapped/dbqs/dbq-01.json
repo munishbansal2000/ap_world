@@ -43,7 +43,9 @@
   },
   {
    "date": "modern (historical map)",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mongol_Empire_map.gif",
+      "image_url": "assets/images/dbq/dbq-01-doc6.gif",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mongol_Empire_map.gif",
+   "image_local_verified": "2026-10-02",
    "kind": "map",
    "license": "CC BY-SA 3.0 (Wikimedia Commons)",
    "n": 6,
@@ -54,7 +56,9 @@
   },
   {
    "date": "14th century",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
+      "image_url": "assets/images/u2/wh-vis-u2-032.jpg",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
+   "image_local_verified": "2026-10-02",
    "kind": "image",
    "license": "Public domain (14th-century album leaf; National Palace Museum, Taipei)",
    "n": 7,

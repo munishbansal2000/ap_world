@@ -1,0 +1,179 @@
+[
+  {
+    "id": "wh-fivesteps-u7-011",
+    "batch": "batch-03",
+    "final_topic": "7.4",
+    "decision_rationale": "Topic 7.4 (The Economy in the Interwar Period) wins: the stem asks what the 1939 chart conceals, and the answer is the 1932-33 collectivization famine - an interwar Soviet economic event, not 7.1's shifting-power thesis.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fivesteps-u7-021",
+    "batch": "batch-03",
+    "final_skill": "2.A",
+    "decision_rationale": "Skill 2.A wins: the stem 'What psychological tactic is this?' asks the student to NAME the tactic (driving a wedge between soldiers and officers) - identifying the source's purpose, not explaining how it works. 2.B would require unpacking the POV/purpose, which the item does not demand.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fivesteps-u8-003",
+    "batch": "batch-04",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'What was its most immediate human consequence?' is a single-answer identification of Partition's effect (15 million displaced). No explanation of how/why is required - the options are named outcomes.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fivesteps-u8-013",
+    "batch": "batch-04",
+    "final_topic": "8.5",
+    "decision_rationale": "Topic 8.5 (Decolonization After 1900) wins: the item's core is the end of white minority rule via the 1994 ballot box - in the CB framework, white-minority-rule struggles sit under decolonization, not 8.7's global resistance movements.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fivesteps-u9-015",
+    "batch": "batch-04",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'What does a McDonald's in Shenzhen illustrate?' asks the student to identify the development the example exemplifies (global diffusion of standardized consumer culture), not to explain the process.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u2-001",
+    "batch": "batch-04",
+    "final_topic": "2.5",
+    "decision_rationale": "Topic 2.5 (Cultural Consequences of Connectivity) wins: the answer identifies Battuta as a Muslim jurist judging Mali by Islamic legal/scholarly norms - the spread and normative force of Islamic culture across connected societies, not the 2.4 trade-route mechanics.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fresh-u3-021",
+    "batch": "batch-04",
+    "final_topic": "3.4",
+    "decision_rationale": "Topic 3.4 (Comparison in Land-Based Empires) wins: the stem 'most similar to which' is explicitly comparative - Qing vs Russian contiguous land-empire expansion. The comparison IS the assessed content.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u4-006",
+    "batch": "batch-04",
+    "final_topic": "4.4",
+    "decision_rationale": "Topic 4.4 (Maritime Empires Established) wins: the VOC passage is about the mechanism of establishing empire (chartered 1602, forts, armies, treaties as a hybrid sovereign-company). It is not about maintaining/developing an established empire's economy (4.5).",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fresh-u5-029",
+    "batch": "batch-04",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'This sequence best illustrates which broader pattern?' asks the student to identify the pattern the Hidalgo-to-Iturbide sequence exemplifies (elite capture of popular uprising), not to explain the mechanism.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u5-039",
+    "batch": "batch-04",
+    "final_topic": "5.3",
+    "decision_rationale": "Topic 5.3 (Industrial Revolution Begins) wins: Watt's engine c.1780 is the canonical originating technology of the IR - location-independent rotary power that launched factory industrialization. 5.5 covers later Industrial-Age technology.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u5-044",
+    "batch": "batch-05",
+    "final_skill": "6.C",
+    "decision_rationale": "Skill 6.C wins: the stem asks which argument the two excerpts TOGETHER best support. The student must reason about the relationship between the Declaration (1789) and the Napoleonic Code (1804) to evaluate the claim - using historical reasoning to relate pieces of evidence (6.C), not merely making a claim (6.A).",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fresh-u5-054",
+    "batch": "batch-05",
+    "final_skill": "5.A",
+    "decision_rationale": "Skill 5.A wins: 'Comparing the outcomes... which statement is best supported?' The correct answer is a pattern statement (similar Enlightenment starts, sharply different outcomes). Identifying the pattern/connection across the two revolutions is 5.A; the item does not ask for the causal explanation of the difference (5.B).",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fresh-u7-009",
+    "batch": "batch-05",
+    "final_skill": "5.A",
+    "final_topic": "7.5",
+    "decision_rationale": "Skill 5.A wins: 'differed most significantly from the Concert of Europe in that it' asks the student to identify the difference between two developments - a comparison, not an explanation of how one relates to the other. Topic 7.5 (Unresolved Tensions After World War I) wins: the League of Nations is the post-WWI settlement/international-order topic, not 7.1's power-shift thesis.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-fresh-u8-002",
+    "batch": "batch-05",
+    "final_skill": "5.A",
+    "decision_rationale": "Skill 5.A wins: the stem literally asks 'which of the following connections' the two cases support - identifying the connection (varied paths within one decolonization wave). Not an explanation of how India relates to Ghana.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u9-003",
+    "batch": "batch-05",
+    "final_topic": "9.5",
+    "decision_rationale": "Topic 9.5 (Calls for Reform and Responses) wins: the item is about Gorbachev's reforms (glasnost/perestroika) meant to preserve the system hastening its collapse - reforms and their outcomes, not 9.9's continuity-and-change framing.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u9-013",
+    "batch": "batch-05",
+    "final_skill": "5.A",
+    "decision_rationale": "Skill 5.A wins: 'The report best illustrates the connection between communications technology and:' - identifying the connection (mobile phones enabling rapid protest organization beyond state media). 5.B would require explaining how one development relates to another, which the item does not ask.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-fresh-u9-023",
+    "batch": "batch-05",
+    "final_topic": "9.2",
+    "decision_rationale": "Topic 9.2 (Technological Advances and Disease) wins: the item is about AIDS activism campaigns expanding access to lower-cost antiretrovirals - disease and health, not 9.5 reform politics.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf4-u6-011",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'The irony of the cartoon depends on the viewer recognizing that' - identifying the historical concept (a nation of immigrants practicing racial exclusion). Pure identification.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf4-u7-003",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'reflects which of the following features of World War II' - identifying the feature (total-war mobilization of entire populations). Naming, not explaining.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf4-u8-009",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'belongs to which of the following broader twentieth-century developments' - identifying the broader development (anti-colonial movements for self-determination).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf5-u2-001",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'most directly illustrates which of the following' - identifying the development Musa's copper-for-gold account exemplifies (trans-Saharan trade).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf5-u4-002",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'most directly foreshadows which of the following' - identifying what Columbus's 'destitute of arms' description points to (Spanish arguments for easy conquest).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf5-u4-012",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "final_topic": "4.4",
+    "decision_rationale": "Skill 1.A wins: 'whose interests are most clearly ignored' - identifying the group (Indigenous peoples). Topic 4.4 (Maritime Empires Established) wins: the Treaty of Tordesillas dividing the world between Spain and Portugal is an act of establishing maritime empire, not the 4.2 exploration-causes framing.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-princeton-pdf5-u6-005",
+    "batch": "batch-05",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'most directly demonstrates which of the following' - identifying the concept (Mughal symbolic authority as a focus of resistance).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-princeton-pdf6-u2-002",
+    "batch": "batch-06",
+    "final_skill": "1.A",
+    "decision_rationale": "Skill 1.A wins: 'best demonstrate about African trade networks' - identifying what interior-city prosperity shows (connection to long-distance caravan routes).",
+    "confidence": "high"
+  }
+]

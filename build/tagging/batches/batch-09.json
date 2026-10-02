@@ -1,0 +1,1538 @@
+[
+ {
+  "id": "wh-vis-u7-020",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "Why does the destruction shown in this photograph matter beyond the Spanish Civil War?",
+  "stimulus": "German photograph labeled \"Guernica, Ruinen\" (Guernica, ruins), 1937. A street of shattered buildings: facades stand roofless and windowless above mountains of rubble; the town center has been devastated by bombing.",
+  "options": [
+   "(A) The Spanish Republican government bombed Guernica to punish Basque nationalists.",
+   "(B) No foreign powers were involved in the Spanish Civil War in any way.",
+   "(C) German and Italian planes bombed civilians, previewing WWII.",
+   "(D) The bombing of Guernica had no significance outside of Spain itself."
+  ],
+  "explanation": "Guernica was bombed in April 1937 by German Condor Legion and Italian aircraft supporting Franco's Nationalists -- a foreign-aided terror bombing of a civilian Basque town that previewed the aerial warfare of World War II and drew worldwide condemnation (and Picasso's painting)."
+ },
+ {
+  "id": "wh-vis-u7-021",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "What does this photograph illustrate about Germany's strategy in 1939?",
+  "stimulus": "Photograph of a German Heinkel He 111 bomber, its fuselage and tail marked with swastikas, releasing a stick of bombs over Warsaw in September 1939; smoke rises from the burning city below.",
+  "options": [
+   "(A) Germany carefully avoided bombing cities during the invasion of Poland.",
+   "(B) Coordinated air power striking cities and armies was central to the blitzkrieg that defeated Poland in weeks.",
+   "(C) Poland successfully resisted the German invasion for several years.",
+   "(D) The German air force played almost no role in the Polish campaign, which was won by infantry and cavalry alone in traditional style."
+  ],
+  "explanation": "The photograph captures blitzkrieg in action: Luftwaffe bombers striking Warsaw in direct support of the fast ground offensive, part of the coordinated air-land assault that overwhelmed Poland in about five weeks."
+ },
+ {
+  "id": "wh-vis-u7-022",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "How did Britain use the Dunkirk evacuation of May-June 1940?",
+  "stimulus": "Photograph titled \"The British Army in the UK -- Evacuation From Dunkirk, May-June 1940.\" Exhausted British soldiers, just brought home from France, are handed buckets of tea by volunteers as they board a train at an English station.",
+  "options": [
+   "(A) The Dunkirk evacuation was a decisive British military victory over Germany that turned the tide of the war in Britain's favor.",
+   "(B) Britain recast the Dunkirk retreat as a moral victory demonstrating national resilience and civilian courage.",
+   "(C) The photograph shows fresh troops departing England for the front in France, eager to return to combat against Germany.",
+   "(D) Only British officers were evacuated from Dunkirk."
+  ],
+  "explanation": "Dunkirk was a retreat in which the British Expeditionary Force abandoned its equipment and fled France; the photograph of exhausted evacuees being cared for at home was folded into a narrative of national resilience -- the \"Dunkirk spirit.\""
+ },
+ {
+  "id": "wh-vis-u7-023",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "Why did Japan attack Pearl Harbor on December 7, 1941?",
+  "stimulus": "Photograph of the destroyer USS Shaw exploding during the Japanese attack on Pearl Harbor, Hawaii, December 7, 1941: a huge fireball and column of black smoke rise over the harbor as palm fronds frame the scene.",
+  "options": [
+   "(A) Japan intended to launch a full-scale invasion and occupation of the mainland United States.",
+   "(B) The attack came with no prior tensions between Japan and the United States.",
+   "(C) Japan aimed to cripple the U.S. fleet and secure Southeast Asia.",
+   "(D) The United States had already declared war on Japan before the attack."
+  ],
+  "explanation": "Japan, facing U.S. oil and steel embargoes imposed after its expansion in China and Indochina, gambled that destroying the Pacific Fleet at Pearl Harbor would let it seize Southeast Asia's resources unopposed."
+ },
+ {
+  "id": "wh-vis-u7-024",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "What does this map show about Japanese imperialism between 1931 and 1942?",
+  "stimulus": "Map titled \"Second World War Pacific War 1937-1942.\" The legend dates Japan's holdings in stages: Japan, Korea, and Manchukuo (1931); French Indochina (July 1940); the Philippines, British Malaya, and Thailand (December 1941); the Dutch East Indies, Burma, New Guinea, and Pacific islands (March 1942). China and Australia are shaded red as Allies.",
+  "options": [
+   "(A) Japan's expansion was limited entirely to mainland China and never extended into Southeast Asia or the Pacific islands.",
+   "(B) China was Japan's ally during this period.",
+   "(C) Japan's empire was centered in North and South America.",
+   "(D) Japan expanded in dated waves, seizing resource-rich Southeast Asia in 1941-42 after Western embargoes cut its oil."
+  ],
+  "explanation": "The legend dates Japan's expansion in stages -- Manchukuo/Korea (1931), French Indochina (July 1940), then the December 1941-March 1942 wave across the Philippines, Malaya, the Dutch East Indies, and Burma -- showing a resource-driven empire that lunged south after the U.S. oil embargo."
+ },
+ {
+  "id": "wh-vis-u7-025",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "What does this photograph reveal about the United States during World War II?",
+  "stimulus": "Farm Security Administration photograph, 1942: Japanese-American civilians queue at a cooperative mess hall inside a government camp at Nyssa, Oregon -- a woman ladles food from a large pot while men holding bowls wait in line; canvas tents stand behind them.",
+  "options": [
+   "(A) The camp in the photograph held German prisoners of war.",
+   "(B) Every person interned had been individually convicted of espionage in a court of law after a fair and public trial with full legal representation.",
+   "(C) Japanese-Americans voluntarily relocated to comfortable, well-supplied government camps for their own protection during the entire war.",
+   "(D) The United States interned Japanese-American civilians without trial, a wartime violation of civil liberties driven by racial prejudice."
+  ],
+  "explanation": "The photograph shows Japanese-American civilians -- including U.S. citizens -- confined in a government camp, eating in a communal mess hall among tents. After Pearl Harbor, over 110,000 people of Japanese ancestry were removed from the West Coast and interned without trial, a racially motivated violation of civil liberties."
+ },
+ {
+  "id": "wh-vis-u7-026",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "Look closely at the small print at the bottom of this famous poster. What does it reveal about the poster's actual purpose?",
+  "stimulus": "Poster by J. Howard Miller, 1942: a woman in a red polka-dot headscarf flexes her arm beneath the words \"We Can Do It!\" Small print at the bottom reads \"POST FEB. 15 TO FEB. 28\" on the left and \"WAR PRODUCTION CO-ORDINATING COMMITTEE\" on the right, with a Westinghouse logo.",
+  "options": [
+   "(A) It was a company poster, not a government campaign.",
+   "(B) It was an official poster issued by the U.S. federal government.",
+   "(C) It was displayed in factories throughout the entire war.",
+   "(D) It was designed to discourage women from taking factory jobs."
+  ],
+  "explanation": "The small print at the bottom reads \"POST FEB. 15 TO FEB. 28\" and \"WAR PRODUCTION CO-ORDINATING COMMITTEE,\" with a Westinghouse logo -- the poster was displayed for two weeks inside Westinghouse factories to boost employee morale, not issued by the government to recruit women. Its \"Rosie the Riveter\" fame came decades later."
+ },
+ {
+  "id": "wh-vis-u7-027",
+  "file": "build/visual-backfill/u7/batch-03.json",
+  "unit": 7,
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "stem": "What does this map of the Second Battle of El Alamein (October 1942) demonstrate about World War II?",
+  "stimulus": "Dispositions map for the Second Battle of El Alamein. Along the Mediterranean coast, Axis divisions (German 15th and 21st Panzer; Italian Trieste, Trento, Bologna, Brescia, Ariete, Folgore, Pavia) face Allied divisions marked with national flags: 9th Australian, 51st Highland, 2nd New Zealand, 1st South African, 4th Indian, 50th Infantry, 7th Armoured, plus a Greek Brigade and Free French unit.",
+  "options": [
+   "(A) No Italian troops fought in the North African campaign.",
+   "(B) The battle of El Alamein was fought in southern Europe.",
+   "(C) Only British troops served on the Allied side at El Alamein; no colonial, dominion, or exile forces from the empire took part in the battle.",
+   "(D) The Allies fielded a multinational coalition of dominion, colonial, and exile forces from across the empire and occupied Europe."
+  ],
+  "explanation": "The Allied side of the line displays the flags of Australia (9th), Britain (51st Highland, 50th, 7th Armoured), New Zealand (2nd NZ), South Africa (1st SA), India (4th IND), Greece (Greek Brigade), and Free France -- a coalition drawn from across the British Empire and occupied Europe, facing German and Italian divisions."
+ },
+ {
+  "id": "wh-vis-u7-028",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "What does this map show about Operation Overlord, June 6, 1944?",
+  "stimulus": "Map of the D-Day landings on the Bay of the Seine, Normandy. Five invasion beaches are labeled with flags and divisions: UTAH (United States 4th Infantry Division), OMAHA (United States 1st and 29th Divisions), GOLD (British 50th Infantry Division), JUNO (Canadian 3rd Infantry Division), and SWORD (British 3rd Infantry Division and British 6th Airborne Division).",
+  "options": [
+   "(A) D-Day was a multinational Allied operation, with American, British, and Canadian divisions assigned their own beaches.",
+   "(B) Only American troops took part in the Normandy landings.",
+   "(C) The landings took place on the Mediterranean coast of southern France, far from the German defenses in Normandy and Calais.",
+   "(D) All five landing beaches were assigned to British divisions, with no American or Canadian forces taking part in the assault on June 6."
+  ],
+  "explanation": "The map assigns each beach a national force: Utah and Omaha to American divisions, Gold and Sword to British divisions, Juno to the Canadian 3rd Division (with the British 6th Airborne) -- showing D-Day as a coordinated multinational Allied operation."
+ },
+ {
+  "id": "wh-vis-u7-029",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "Why is the battle associated with the destruction shown here considered the turning point of the European war?",
+  "stimulus": "Photograph of the ruins of Stalingrad, winter 1942-43: the interior of a destroyed factory, its steel roof girders twisted and collapsed, machinery smashed, everything covered in snow; a Cyrillic sign hangs on a ruined wall.",
+  "options": [
+   "(A) Stalingrad was the final battle of World War II in Europe.",
+   "(B) Germany won the battle of Stalingrad and kept advancing.",
+   "(C) Stalingrad was primarily a naval battle fought at sea.",
+   "(D) Destroying the 6th Army made Stalingrad the turning point."
+  ],
+  "explanation": "After months of brutal urban combat, the Soviet counteroffensive encircled the German 6th Army, which surrendered in February 1943 -- the first major German field army destroyed, after which Germany remained on the defensive in the east. The snow-covered wreckage of the city's factories conveys the battle's total destructiveness."
+ },
+ {
+  "id": "wh-vis-u7-030",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Contextualization",
+  "reasoning": "Continuity and Change",
+  "stem": "What does this photograph foreshadow about the postwar world?",
+  "stimulus": "Color photograph of the Yalta Conference, February 1945: Winston Churchill, Franklin Roosevelt, and Joseph Stalin sit side by side in chairs in a courtyard, with military aides standing behind them.",
+  "options": [
+   "(A) The three leaders agreed completely on every aspect of the postwar order, with no disagreements about Eastern Europe or Germany at all.",
+   "(B) The photograph was taken after World War II had ended.",
+   "(C) The Yalta Conference created the NATO alliance.",
+   "(D) The wartime allies were already negotiating the postwar world, a cooperation that would soon fracture into Cold War rivalry."
+  ],
+  "explanation": "At Yalta in February 1945, the three leaders negotiated Germany's occupation zones, Soviet entry into the Pacific war, and the United Nations -- cooperation that masked deep disagreements over Eastern Europe that would soon harden into the Cold War."
+ },
+ {
+  "id": "wh-vis-u7-031",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "stem": "What does this photograph represent in the history of warfare?",
+  "stimulus": "Photograph of the atomic cloud over Hiroshima, August 6, 1945: a towering mushroom-shaped column of smoke rises high above the city, spreading outward at the top.",
+  "options": [
+   "(A) The photograph captures the first use of a nuclear weapon in warfare, destroying a city with a single bomb.",
+   "(B) The photograph shows a conventional firebombing raid of the kind carried out many times before by both sides during the war.",
+   "(C) The atomic bomb was first used against Germany.",
+   "(D) The photograph shows a nuclear weapons test conducted in a remote desert, not the wartime bombing of any inhabited city."
+  ],
+  "explanation": "The photograph shows the mushroom cloud over Hiroshima on August 6, 1945 -- the first use of a nuclear weapon in war, when a single bomb destroyed most of a city, demonstrating a new scale of destructive power."
+ },
+ {
+  "id": "wh-vis-u7-032",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "What does this photograph reveal about the Manhattan Project?",
+  "stimulus": "Photograph from July 1945: J. Robert Oppenheimer (in hat, left) and General Leslie Groves (in uniform, center) stand with others at the Trinity test site in the New Mexico desert, examining the twisted steel stump of the tower that held the first atomic bomb.",
+  "options": [
+   "(A) The atomic bomb was developed by a small group of university professors working independently.",
+   "(B) The photograph shows scientists visiting an active battlefield.",
+   "(C) A secret state program fused science and military command.",
+   "(D) The U.S. government played no role in developing the atomic bomb."
+  ],
+  "explanation": "The photograph shows the project's two leaders together at the crater: J. Robert Oppenheimer, the scientific director, and General Leslie Groves, the Army officer in charge -- evidence that the bomb was produced by a secret, state-funded fusion of academic science and military command."
+ },
+ {
+  "id": "wh-vis-u7-033",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "stem": "What does the staging of this ceremony communicate?",
+  "stimulus": "Photograph of September 2, 1945: Japanese Foreign Minister Mamoru Shigemitsu, in top hat and frock coat, bends to sign the Instrument of Surrender on the deck of the battleship USS Missouri in Tokyo Bay, watched by rows of American officers.",
+  "options": [
+   "(A) Japan negotiated the surrender as an equal partner with the Allies, with both sides compromising on the final terms.",
+   "(B) The ceremony staged Japan's formal, public submission to Allied -- especially American -- power.",
+   "(C) The surrender was signed in secret with no witnesses.",
+   "(D) The surrender ceremony took place in Washington, D.C."
+  ],
+  "explanation": "The Japanese foreign minister signs while rows of Allied officers look on aboard an American battleship in Tokyo Bay -- a deliberately staged display of Japan's submission and Allied, above all American, dominance."
+ },
+ {
+  "id": "wh-vis-u7-034",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Making Connections",
+  "reasoning": "Continuity and Change",
+  "stem": "What legal principle did the trials shown in this photograph establish?",
+  "stimulus": "Photograph of the Nuremberg Trials, 1945-46: the defendants' dock seen from above, with the accused Nazi leaders wearing headphones for translation, seated in two rows while American military police in white helmets stand guard along the dock.",
+  "options": [
+   "(A) Individuals, including heads of state and generals, could be held criminally responsible under international law for war crimes.",
+   "(B) The entire German population was put on trial at Nuremberg and collectively punished for the crimes of the war, with millions of defendants.",
+   "(C) German courts tried and sentenced the Nazi leaders on their own.",
+   "(D) Only ordinary soldiers, never their commanders or political leaders, could be punished for wartime atrocities under the tribunal's rules."
+  ],
+  "explanation": "For the first time, an international tribunal held individual leaders -- not just states -- criminally responsible for waging aggressive war and for atrocities, establishing that \"following orders\" and head-of-state status were no defense."
+ },
+ {
+  "id": "wh-vis-u7-035",
+  "file": "build/visual-backfill/u7/batch-04.json",
+  "unit": 7,
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "stem": "What does this photograph show about the liberation of Paris in August 1944?",
+  "stimulus": "Color photograph of the liberation of Paris: enormous crowds line the Champs-Elysees beneath the Arc de Triomphe as French tanks and military vehicles parade down the avenue; a large banner in the crowd reads \"VIVE DE GAULLE.\"",
+  "options": [
+   "(A) Paris was liberated solely by American troops, with no French forces involved.",
+   "(B) The crowds in the photograph are protesting against the Allied armies.",
+   "(C) The photograph shows German troops entering Paris in triumph in 1940.",
+   "(D) De Gaulle claimed the liberation to restore French sovereignty."
+  ],
+  "explanation": "The color photograph shows Free French forces parading down the Champs-Elysees past cheering crowds under a \"VIVE DE GAULLE\" banner -- de Gaulle used the liberation to present his movement, not Vichy or the Allies alone, as the legitimate restorer of French sovereignty."
+ },
+ {
+  "id": "wh-vis-u8-001",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "stem": "Based on the map, which statement best describes how the Cold War alliance systems shaped the security situation in Europe?",
+  "stimulus": "World map centered on the Arctic Ocean, 1949-1990. Countries in NATO are shown in blue: the United States, Canada, Iceland, Norway, the United Kingdom, France, West Germany, Spain, Portugal, Italy, Greece, and Turkey. Warsaw Pact countries are shown in red: the USSR, East Germany, Poland, Czechoslovakia, Hungary, Romania, and Bulgaria. Other countries, including Albania, Yugoslavia, Sweden, Finland, and most of Africa and Asia, are shown in gray.",
+  "options": [
+   "(A) The Warsaw Pact contained far more member states than NATO, giving the Soviet Union a broader and more unified alliance network in Europe, with its headquarters in Moscow coordinating the defense planning of every communist country from East Germany to Mongolia.",
+   "(B) Neutral states such as Sweden and Finland joined the Warsaw Pact in order to balance NATO's growing power in northern Europe.",
+   "(C) NATO members such as West Germany, Turkey, and Norway shared direct borders with Warsaw Pact territory, so the United States stationed military forces along the Soviet bloc's periphery as part of its containment strategy.",
+   "(D) Albania's strategic location in the Balkans made it a loyal Warsaw Pact member for the entire 1949-1990 period."
+  ],
+  "explanation": "The map shows NATO in blue and the Warsaw Pact in red, with gray for non-members. Several NATO members directly touch Warsaw Pact territory: West Germany borders East Germany and Czechoslovakia, Turkey borders the USSR and Bulgaria, and Norway borders the USSR. This geographic pattern reflects containment: the United States built a ring of alliances and military bases around the Soviet bloc to limit the spread of communism. The image is necessary because only by seeing which countries are in each bloc, and where they touch, can a student evaluate these claims."
+ },
+ {
+  "id": "wh-vis-u8-002",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The document shown became the foundation of which U.S. Cold War policy?",
+  "stimulus": "First page of U.S. House Document No. 171 (80th Congress, 1st Session): 'RECOMMENDATION FOR ASSISTANCE TO GREECE AND TURKEY - ADDRESS OF THE PRESIDENT OF THE UNITED STATES - DELIVERED BEFORE A JOINT SESSION OF THE SENATE AND THE HOUSE OF REPRESENTATIVES, RECOMMENDING ASSISTANCE TO GREECE AND TURKEY - MARCH 12, 1947 - Referred to the Committee on Foreign Affairs, and ordered to be printed.'",
+  "options": [
+   "(A) Containment, the pledge that the United States would support free peoples resisting communist pressure, beginning with military and economic aid to Greece and Turkey.",
+   "(B) Detente, the easing of Cold War tensions through arms-control agreements negotiated with the Soviet Union during the 1970s, more than two decades after this document was printed, culminating in treaties like SALT I.",
+   "(C) Isolationism, a return to avoiding all military and economic commitments outside the Western Hemisphere.",
+   "(D) The Marshall Plan rule that European countries could receive American aid only after joining a U.S.-led military alliance."
+  ],
+  "explanation": "This is the printed text of President Truman's March 12, 1947 address to Congress asking for aid to Greece and Turkey, the speech that announced the Truman Doctrine. Its central promise - that the United States would help free peoples resisting subjugation - became the policy of containment: stopping the spread of communism rather than rolling it back. The image matters because it shows this was an official congressional document recommending assistance to two specific countries, not a later treaty or a private statement."
+ },
+ {
+  "id": "wh-vis-u8-003",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "stem": "A historian using this poster as evidence would most reasonably conclude that the Marshall Plan was intended to",
+  "stimulus": "U.S. government poster promoting the Marshall Plan (1948). A windmill's blades are made up of the national flags of more than a dozen European countries, including France, Britain, West Germany, Italy, Greece, Turkey, Sweden, and the Netherlands. The caption reads: 'Whatever the weather / We only reach welfare / together.'",
+  "options": [
+   "(A) Rebuild the Soviet Union's economy so that Moscow would cooperate peacefully with the West after the war.",
+   "(B) Punish Germany for World War II by permanently excluding West Germany from all European economic recovery programs and keeping it under strict permanent military occupation.",
+   "(C) Rebuild Western European economies after World War II and bind the recipient nations together in a cooperative economic system aligned with the United States.",
+   "(D) Pressure European nations to abolish their national governments in favor of a single European superstate run from Washington."
+  ],
+  "explanation": "The poster presents the Marshall Plan as a shared European project: many nations' flags turn the same windmill, and the slogan stresses reaching 'welfare together.' The United States funded the plan to revive Western European economies, make communism less appealing to struggling populations, and tie Europe's recovery to American trade and leadership - the economic side of containment. The image is essential: it shows the flags of many nations (including West Germany, which rules out punishment of Germany) cooperating under a single mechanism."
+ },
+ {
+  "id": "wh-vis-u8-004",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "stem": "The scene in the photograph is most directly explained by which of the following?",
+  "stimulus": "Photograph from 1948: German children in West Berlin watch from a hill of rubble as a U.S. C-54 cargo plane comes in to land at Tempelhof Airport during the Berlin Airlift.",
+  "options": [
+   "(A) A NATO decision to station nuclear weapons in West Berlin as a warning to Moscow.",
+   "(B) The construction of the Berlin Wall, which cut West Berlin off from outside food deliveries and forced a desperate year-long international airlift to feed the trapped population.",
+   "(C) The Marshall Plan's program of flying American tourists into Berlin to spend dollars in the local economy.",
+   "(D) The Soviet blockade of land routes into West Berlin, which forced the Western Allies to supply the city's two million residents entirely by air in 1948-1949."
+  ],
+  "explanation": "In June 1948 the Soviet Union blocked all road, rail, and canal access to the Western sectors of Berlin, trying to force the Western Allies out of the city. The United States and Britain responded with a massive airlift, flying in food, coal, and supplies for nearly a year until the blockade was lifted in May 1949. The photograph shows exactly this: an American cargo plane landing at Tempelhof while Berliners watch. The image is necessary because it shows a supply plane, not bombers or tourists, and the rubble-covered city that depended on it."
+ },
+ {
+  "id": "wh-vis-u8-005",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "Which of the following best explains why East German authorities took the action shown in the photograph?",
+  "stimulus": "East German Bundesarchiv photograph, August 1961: uniformed members of the East German factory militia (Kampfgruppen) stand armed in formation at the Brandenburg Gate in Berlin, with armored military vehicles behind them, as the Berlin Wall is being built.",
+  "options": [
+   "(A) To prepare East German forces for an imminent NATO invasion of East Berlin in the summer of 1961.",
+   "(B) To stop the mass emigration of East Germans to the West through Berlin, which was draining the East German workforce and embarrassing the Soviet bloc.",
+   "(C) To enforce a United Nations resolution that partitioned Germany into separate occupation zones after World War II.",
+   "(D) To prevent West Berliners from crossing into East Berlin to take factory jobs, a flow of migrants that threatened East German wages, housing, and the state's ability to plan its socialist economy."
+  ],
+  "explanation": "By 1961, about 3 million East Germans - many of them young and skilled workers - had fled to the West through open Berlin, embarrassing the Soviet bloc and draining East Germany's labor force. In August 1961 East German authorities, with Soviet approval, sealed the border and began building the wall. The photograph shows the state's response: armed factory militia and armored vehicles deployed at the Brandenburg Gate. The image matters because it shows an East German military-style mobilization aimed at keeping people in, not an invasion force or a UN action."
+ },
+ {
+  "id": "wh-vis-u8-006",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "stem": "The photograph best supports which conclusion about the Cold War division of Germany?",
+  "stimulus": "Photograph of the Berlin Wall as seen from West Berlin: the wall's western face is covered in colorful murals and graffiti, while behind it stretches a cleared 'death strip' of raked sand, floodlights, and fences, with East Berlin apartment blocks beyond.",
+  "options": [
+   "(A) East Germany maintained the division with a fortified border zone designed to prevent escapes, while West Berliners turned the wall's western face into a canvas for protest art and graffiti.",
+   "(B) The wall was built mainly as a tourist attraction that visitors from both sides of the divided city could enjoy together in a spirit of friendship, with guided tours running daily through the cleared strip behind it.",
+   "(C) East and West Berliners could move freely across the cleared strip through regular checkpoints.",
+   "(D) The wall divided only a few government buildings, leaving the residential neighborhoods of East and West Berlin connected."
+  ],
+  "explanation": "The photograph captures the wall's two faces: on the western side, free expression (murals and graffiti), and on the eastern side, a militarized no-man's-land of cleared ground, lights, and fences designed to make escape nearly impossible. This duality reflects the Cold War division: a closed, heavily policed East German state facing an open West Berlin. The image is necessary because only by seeing the death strip behind the painted wall can a student evaluate what the barrier actually did."
+ },
+ {
+  "id": "wh-vis-u8-007",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "stem": "The test shown is most significant in the context of the early Cold War because it",
+  "stimulus": "U.S. Navy photograph of the 1946 Baker atomic test at Bikini Atoll in the Pacific: a towering column of water and spray rises from an underwater atomic detonation, with a fleet of unmanned target warships anchored in the lagoon in the foreground.",
+  "options": [
+   "(A) It ended the American atomic monopoly by sharing test data with the Soviet Union.",
+   "(B) It proved that atomic weapons were useless at sea, so both superpowers abandoned all naval nuclear weapons programs.",
+   "(C) It marked the beginning of a nuclear arms race in which the United States tested and displayed new weapons to demonstrate its power, accelerating Soviet efforts to build their own atomic bomb.",
+   "(D) It was conducted in 1946 as a direct American response to the Cuban Missile Crisis, which had brought the two superpowers to the brink of nuclear war earlier that same decade and demanded an immediate show of force."
+  ],
+  "explanation": "The 1946 Bikini tests were the first atomic tests after World War II. The United States, still the only nuclear power, conducted them openly before international observers - both as scientific experiments and as demonstrations of American power. The Soviet Union read them as intimidation and accelerated its own bomb program, testing its first atomic weapon in 1949. The image is necessary: it shows an actual U.S. test with target warships, placing the arms race's beginning in 1946, long before the Cuban Missile Crisis."
+ },
+ {
+  "id": "wh-vis-u8-008",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The object shown, launched by the Soviet Union in 1957, most directly contributed to which development in the United States?",
+  "stimulus": "Photograph of a full-size model of Sputnik 1: a polished metal sphere about the size of a beach ball, with four long whip-like antennas extending from it, suspended in a museum hall.",
+  "options": [
+   "(A) The American decision that space exploration was too expensive, leading the United States to abandon its satellite and rocket programs entirely.",
+   "(B) An immediate treaty between the superpowers banning all artificial satellites from Earth's orbit.",
+   "(C) A surge in federal funding for science and math education and the creation of NASA, driven by fears that the United States was falling behind the Soviet Union technologically.",
+   "(D) The placement of American nuclear missiles in Cuba, a decision President Kennedy ordered in direct response to the Soviet satellite in order to restore the military balance and reassure nervous European allies."
+  ],
+  "explanation": "When the Soviet Union launched Sputnik 1 in October 1957 - the first artificial satellite - Americans were shocked that the Soviets had beaten them into space. The 'Sputnik crisis' led Congress to pass the National Defense Education Act (1958), pouring federal money into science and math education, and to create NASA. The image matters because the distinctive sphere-and-antennas design identifies the object as Sputnik; without it, the question could refer to any satellite."
+ },
+ {
+  "id": "wh-vis-u8-009",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Contextualization",
+  "reasoning": "Comparison",
+  "stem": "In the context of the Cold War, the event shown is best understood as",
+  "stimulus": "NASA photograph, July 1969: the Saturn V rocket carrying Apollo 11 rises on a pillar of flame at liftoff, with the flag of the United States in the foreground.",
+  "options": [
+   "(A) A joint American-Soviet mission to the Moon that marked the beginning of detente between the two superpowers in the late 1960s and was celebrated with a shared flag-planting ceremony at the landing site.",
+   "(B) The first use of a rocket as an intercontinental ballistic missile.",
+   "(C) A purely scientific mission with no political significance whatsoever.",
+   "(D) A demonstration of American technological and ideological superiority intended to win a symbolic Cold War victory over the Soviet Union in the space race."
+  ],
+  "explanation": "The Apollo 11 landing in July 1969 fulfilled President Kennedy's 1961 pledge to land Americans on the Moon before the decade ended. After the Soviet Union's early space victories (Sputnik, Gagarin), the Moon landing let the United States claim the ultimate symbolic prize of the space race, demonstrating the superiority of American science, industry, and - by implication - its political system. The image matters: the flag and the Saturn V identify this as the American Moon mission, not a scientific satellite or a weapon."
+ },
+ {
+  "id": "wh-vis-u8-010",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "stem": "A historian would find this photograph most useful as evidence for which claim about the Cuban Missile Crisis?",
+  "stimulus": "Declassified U.S. reconnaissance photograph labeled 'MRBM FIELD LAUNCH SITE, SAN CRISTOBAL NO 1, 14 OCTOBER 1962,' with printed annotations pointing to 'ERECTOR/LAUNCHER EQUIPMENT' and '8 MISSILE TRAILERS' arranged in a cleared area of a Cuban field.",
+  "options": [
+   "(A) Cuba had secretly developed its own nuclear weapons without any Soviet assistance or knowledge.",
+   "(B) The United States had photographic proof that the Soviet Union was installing nuclear-capable medium-range ballistic missiles in Cuba, contradicting repeated Soviet denials.",
+   "(C) The United States had placed offensive missiles in Cuba before 1962 and was hiding that fact from the public.",
+   "(D) The equipment visible in the photograph proves that the Soviet missiles in Cuba were never intended to become operational and were only harmless decoys built to frighten the American public without serving any real military purpose."
+  ],
+  "explanation": "U.S. U-2 flights over Cuba in October 1962 produced the photographs that proved Soviet medium-range ballistic missiles - capable of striking most of the eastern United States with nuclear warheads - were being installed. The annotations (missile trailers, erector/launcher equipment) show analysts identifying offensive weapons, which contradicted Soviet claims that only defensive aid was being sent. This evidence forced the crisis into the open and led Kennedy to impose the naval quarantine. The image is essential: only by reading the labels can a student see that the United States had identified offensive missiles, not just a military camp."
+ },
+ {
+  "id": "wh-vis-u8-011",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "Based on the annotations, what was the primary purpose of U.S. reconnaissance flights over Cuba in October 1962?",
+  "stimulus": "Annotated U.S. aerial photograph dated 15 October 1962 and labeled 'MILITARY ENCAMPMENT (MISSILE), LOS PALACIOS, CUBA,' with printed labels identifying 'TENTS,' 'EQUIPMENT,' 'CONVOY,' and '6 MISSILE TRAILERS' in the encampment.",
+  "options": [
+   "(A) To bomb Cuban military targets in preparation for an American invasion of the island.",
+   "(B) To gather detailed visual intelligence on the type, location, and readiness of Soviet military installations in Cuba.",
+   "(C) To map Cuban farmland in detail so the United States could plan post-crisis economic aid programs.",
+   "(D) To search for survivors of the 1961 Bay of Pigs invasion who were believed to be hiding in the Cuban countryside near the town of Los Palacios."
+  ],
+  "explanation": "The U-2 was a high-altitude spy plane. Its October 1962 flights produced the detailed annotated photographs - like this one of Los Palacios - that let American analysts count missile trailers, identify launcher equipment, and track how close the sites were to becoming operational. The purpose was intelligence collection to support decision-making, not bombing or aid planning. The image matters because the annotations (tents, equipment, convoy, missile trailers) show exactly what analysts were looking for."
+ },
+ {
+  "id": "wh-vis-u8-012",
+  "file": "build/visual-backfill/u8/batch-01.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The presence of the installation shown most directly helps explain which U.S. decision during the Cuban Missile Crisis?",
+  "stimulus": "U.S. aerial reconnaissance photograph from 1962 showing the star-shaped earthen revetments of a Soviet SA-2 surface-to-air missile site under construction in Cuba, with launch positions arranged around a central radar area.",
+  "options": [
+   "(A) The decision to avoid an immediate air strike or invasion, since Soviet air defenses in Cuba made a 'surgical' attack risky and pushed Kennedy toward the naval quarantine.",
+   "(B) The decision to withdraw American missiles from Turkey as the opening move of the crisis.",
+   "(C) The decision to break off all diplomatic contact with the Soviet Union for the duration of the crisis.",
+   "(D) The decision to launch a full-scale invasion of Cuba on October 22, 1962, a plan the Joint Chiefs had unanimously recommended as the only safe option, with paratroopers seizing Havana within forty-eight hours."
+  ],
+  "explanation": "The SA-2 was the same Soviet surface-to-air missile that had shot down an American U-2 over the USSR in 1960. Its presence in Cuba meant that continued U-2 flights - and any air strike meant to destroy the missile sites - risked losing aircraft and pilots (indeed, a U-2 was shot down over Cuba on October 27, 1962). This made the Joint Chiefs' preferred option of a surprise air attack far more dangerous and strengthened the case for Kennedy's naval quarantine, which bought time for negotiation. The image is necessary: only by seeing the extensive air-defense site can a student grasp why the air-strike option was risky."
+ },
+ {
+  "id": "wh-vis-u8-013",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The event shown is most significant as",
+  "stimulus": "Photograph, January 1959: Fidel Castro and armed rebels ride in an open jeep through streets of Havana packed with cheering crowds, days after dictator Fulgencio Batista fled Cuba.",
+  "options": [
+   "(A) A U.S. military intervention that overthrew Batista and installed a pro-American democratic government in Havana.",
+   "(B) The victory of a revolution that toppled a U.S.-backed dictator and soon aligned Cuba with the Soviet Union.",
+   "(C) The moment Cuba joined NATO as its first Latin American member state.",
+   "(D) A Cuban uprising against Spanish colonial rule that ended four centuries of Spanish control and inspired similar revolts across the Caribbean and Latin America."
+  ],
+  "explanation": "In January 1959 Castro's 26th of July Movement marched into Havana after dictator Fulgencio Batista - long supported by the United States - fled Cuba. The revolution soon turned to the Soviet Union for support, nationalized American property, and became a communist state, placing a Soviet ally 90 miles from Florida and setting the stage for the Bay of Pigs and the Cuban Missile Crisis. The image matters: the cheering crowds and rebel jeep show a popular revolution, not a foreign invasion or a colonial revolt."
+ },
+ {
+  "id": "wh-vis-u8-014",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The map best illustrates which U.S. concern in late 1949?",
+  "stimulus": "Declassified CIA map marked 'CONFIDENTIAL' and dated 14 December 1949, titled 'COMMUNIST CHINA': nearly all of mainland China is shaded pink as 'Communist-controlled area,' with red arrows showing the 'Communist drive' southward; Taiwan is left unshaded.",
+  "options": [
+   "(A) That China was about to invade the Soviet Union across their long shared border.",
+   "(B) That Taiwan had already been captured by communist forces by December 1949, leaving the Nationalists with no territory at all.",
+   "(C) That the United States had successfully contained communism within China's borders and that the Nationalist government still controlled most of the mainland.",
+   "(D) That the world's most populous country had fallen to communism, intensifying American fears of communist expansion across Asia."
+  ],
+  "explanation": "The CIA's December 1949 map - marked confidential and later declassified - shows communist forces in control of nearly all of mainland China, with only Taiwan unshaded. For Washington, the 'loss of China' was a political earthquake: the most populous country on earth had gone communist, and American policymakers feared the rest of Asia would follow. This fear drove U.S. intervention in Korea and Vietnam. The image is essential: only by seeing how completely the pink shading covers China can a student grasp the scale of the perceived loss."
+ },
+ {
+  "id": "wh-vis-u8-015",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The situation shown on the map most directly led to which development?",
+  "stimulus": "U.S. Army map titled 'THE BATTLEFRONT, 23 November 1950': United Nations forces (Eighth Army and X Corps, including units at the Chosin Reservoir) are shown advanced deep into northern Korea, reaching the Yalu River and the border with Manchuria (China).",
+  "options": [
+   "(A) China's massive military intervention in the Korean War, which drove UN forces back south after Beijing warned that its border was threatened.",
+   "(B) The immediate and unconditional surrender of North Korea to United Nations forces.",
+   "(C) The withdrawal of the Soviet Union from the Korean conflict after secret negotiations with Washington.",
+   "(D) A United Nations decision to expand the war by invading Manchuria and occupying northeastern China, a plan General MacArthur had publicly advocated for months despite repeated warnings from Beijing."
+  ],
+  "explanation": "By late November 1950, UN forces under MacArthur had advanced to the Yalu River, the border with China, exactly as this map shows - Eighth Army in the west, X Corps in the east near the Chosin Reservoir. Beijing had warned it would intervene if UN troops approached its border; when the warnings were ignored, some 300,000 Chinese troops attacked in late November, hurling UN forces into a long retreat. The image is necessary: only by seeing how far north and how thinly spread the UN forces were can a student understand why the Chinese attack was so devastating."
+ },
+ {
+  "id": "wh-vis-u8-016",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The operation shown is best described as",
+  "stimulus": "U.S. military map of the Inchon landing, September 1950: amphibious assault beaches labeled Red, Green, and Blue at the port of Inchon on Korea's west coast, far to the north of the Pusan Perimeter where the front line stood, with the fortified island of Wolmi-do guarding the harbor entrance.",
+  "options": [
+   "(A) The D-Day invasion of Normandy by Allied forces during World War II.",
+   "(B) An invasion of North Korea across the 38th parallel by Chinese volunteer forces.",
+   "(C) A daring American amphibious landing behind North Korean lines that severed enemy supply routes and turned the Korean War around.",
+   "(D) A purely naval blockade of Korea's west coast that forced North Korea to surrender without any landing of troops, ending the war in a matter of weeks in the fall of 1950."
+  ],
+  "explanation": "In September 1950, with UN forces trapped in the Pusan Perimeter at Korea's southern tip, MacArthur landed X Corps at Inchon on the west coast - far behind North Korean lines and near Seoul. The landing cut North Korean supply lines and, combined with the breakout from Pusan, destroyed the North Korean army in the south and let UN forces recapture Seoul and advance north. The map matters because it shows the landing's position far behind the front, which is what made it so devastating."
+ },
+ {
+  "id": "wh-vis-u8-017",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "stem": "The map best helps explain which outcome?",
+  "stimulus": "Battle map of Dien Bien Phu, 1954: French strongpoints (shaded green and named Gabrielle, Beatrice, Huguette, Claudine, Dominique, Eliane, and Isabelle) cluster around a single airstrip in a valley, while five Viet Minh divisions (numbered 308, 312, 351, 316, and 304) surround them on all sides.",
+  "options": [
+   "(A) A decisive French victory at Dien Bien Phu that broke the Viet Minh siege and preserved French colonial control of Indochina for another full decade.",
+   "(B) The entry of American combat troops into the war in Vietnam in 1954, two years before the first U.S. advisers arrived.",
+   "(C) A negotiated settlement that divided France itself into northern and southern zones.",
+   "(D) The French defeat at Dien Bien Phu, where the garrison was trapped in a valley, surrounded, and dependent on one shell-swept airstrip."
+  ],
+  "explanation": "The French built the Dien Bien Phu garrison in a remote valley to block Viet Minh supply routes, but the Viet Minh surrounded the valley with artillery on the overlooking hills and cut the airstrip - the garrison's only lifeline. After a 56-day siege the French surrendered in May 1954, a defeat so complete that France agreed at Geneva to leave Indochina. The map is necessary: only by seeing the ring of Viet Minh divisions around the isolated strongpoints and the single airstrip can a student understand why the position was doomed."
+ },
+ {
+  "id": "wh-vis-u8-018",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The division shown most directly resulted from",
+  "stimulus": "Map of Indochina after the 1954 Geneva Accords: the Democratic Republic of Vietnam (North, communist) and the State of Vietnam (South) are divided near the 17th parallel, with the newly independent kingdoms of Laos and Cambodia alongside them.",
+  "options": [
+   "(A) The French defeat in the First Indochina War, which led the 1954 Geneva Conference to temporarily divide Vietnam near the 17th parallel pending reunification elections.",
+   "(B) A United Nations General Assembly vote that permanently created two separate and independent Vietnamese states, a solution endorsed by both the United States and the Soviet Union.",
+   "(C) The Tet Offensive of 1968, which forced the division of Vietnam as a compromise settlement.",
+   "(D) China's military annexation of northern Vietnam at the end of World War II."
+  ],
+  "explanation": "After the French defeat at Dien Bien Phu, the 1954 Geneva Conference ended the First Indochina War by temporarily dividing Vietnam at roughly the 17th parallel: Ho Chi Minh's communist Democratic Republic of Vietnam in the north, and the French-backed State of Vietnam in the south, with nationwide reunification elections promised for 1956. The elections never happened, and the temporary line hardened into the border of the Vietnam War. The map matters because it shows the two Vietnams plus newly independent Laos and Cambodia - the settlement's exact shape."
+ },
+ {
+  "id": "wh-vis-u8-019",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The scale of the attacks shown on the map best supports which conclusion about the Tet Offensive?",
+  "stimulus": "U.S. military map titled 'SOUTH VIETNAM - THE TET OFFENSIVE, 29 January-25 February 1968': red X symbols marking major communist attacks on 30 January and shortly after are spread across the entire country, including Saigon, Hue, Da Nang, and cities throughout the Mekong Delta.",
+  "options": [
+   "(A) The Tet attacks were limited to the demilitarized zone and had almost no effect on the wider war.",
+   "(B) The offensive proved that South Vietnam's army could defend the country entirely without American help.",
+   "(C) Although a communist military defeat, the offensive's nationwide reach shocked the American public and undermined U.S. claims that victory was near.",
+   "(D) The offensive caused the United States to withdraw all its troops from Vietnam within a few weeks, ending American involvement in the war by the spring of 1968."
+  ],
+  "explanation": "The map's red X symbols - marking the attacks of January 30 and the following days - cover the entire country, from Hue to Saigon to the Mekong Delta. American officials had been claiming the enemy was nearly beaten; the sight of coordinated attacks on more than 100 cities and towns, including the U.S. embassy in Saigon, shattered public confidence. Although the Viet Cong suffered heavy losses, the offensive turned American opinion against the war. The image is essential: only its nationwide spread of attack symbols lets a student evaluate the 'shock' claim."
+ },
+ {
+  "id": "wh-vis-u8-020",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "Which of the following is the most accurate description of the plan shown?",
+  "stimulus": "Map of the 1947 UN Partition Plan for Palestine: an Arab state (yellow) and a Jewish state (orange) in interlocking, non-contiguous territories, with Jerusalem shown in white as a separate zone under UN administration.",
+  "options": [
+   "(A) It created the independent state of Israel within the borders Israel would hold after the 1967 war.",
+   "(B) It proposed dividing British-ruled Palestine into separate Arab and Jewish states, with Jerusalem placed under separate international administration.",
+   "(C) It placed all of Palestine under the control of a single Arab state.",
+   "(D) It was accepted by both Arab and Jewish leaders and was implemented peacefully in 1948, with British troops overseeing an orderly transfer of power to the two new governments over several months."
+  ],
+  "explanation": "As Britain prepared to leave Palestine, the United Nations proposed (Resolution 181) splitting the territory into an Arab state and a Jewish state, with Jerusalem as a separate international zone - the corpus separatum. Jewish leaders accepted the plan; Arab leaders rejected it. The map is necessary because only by seeing the interlocking yellow and orange territories and the white Jerusalem enclave can a student describe what the plan actually proposed."
+ },
+ {
+  "id": "wh-vis-u8-021",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "stem": "The map best supports which statement about the start of the 1948 war?",
+  "stimulus": "Map of the 1948 Arab-Israeli War (15 May-10 June 1948): red arrows show attacks converging on the new state of Israel from Egypt (11,000 troops), Jordan's Arab Legion (5,000), Iraq (7,000), Syria (4,000), and Lebanon (2,000); a dashed line marks the UN partition boundary of 29 November 1947.",
+  "options": [
+   "(A) Israel invaded its Arab neighbors to expand far beyond the UN partition lines.",
+   "(B) The war began as a purely internal civil conflict fought entirely within the UN partition boundaries, with no foreign armies crossing into Palestine at any point during the entire first phase of the fighting.",
+   "(C) Only Egypt took part in the fighting against the new state of Israel.",
+   "(D) Immediately after Israel declared independence, the armies of neighboring Arab states invaded from several directions, rejecting the UN partition plan."
+  ],
+  "explanation": "The day after Israel declared independence (May 14, 1948), the armies of Egypt, Jordan, Iraq, Syria, and Lebanon invaded the new state, as the map's red arrows and troop figures show. The Arab states rejected the UN partition and sought to prevent Israel's establishment; the dashed line on the map marks the partition boundary they were crossing. The image is essential: only the arrows, labels, and troop numbers show the multi-front invasion."
+ },
+ {
+  "id": "wh-vis-u8-022",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The outcome of the campaign shown is best explained by which larger development?",
+  "stimulus": "U.S. military map titled 'SINAI - CAMPAIGN IN SINAI, Conquest of Sinai, 1-6 November 1956': blue arrows show Israeli forces driving across the Sinai Peninsula toward the Suez Canal, with boxed notes stating that 'Israeli units halted on a line 10 miles from Suez Canal on 2 November' and that the campaign ended with the capture of Sharm-el-Sheikh on 5 November.",
+  "options": [
+   "(A) Egyptian President Nasser's nationalization of the Suez Canal, which prompted a secret British-French-Israeli plan to seize the canal by force and topple Nasser.",
+   "(B) A full-scale Soviet invasion of Egypt intended to seize control of the canal for the communist bloc and establish a permanent Soviet naval base at Port Said on the Mediterranean.",
+   "(C) An American invasion of the Sinai Peninsula to secure Western access to Middle Eastern oil.",
+   "(D) Israel's decision to permanently annex the entire Sinai Peninsula in November 1956."
+  ],
+  "explanation": "In July 1956 Nasser nationalized the British-French-owned Suez Canal Company. Britain, France, and Israel secretly colluded: Israel would invade Sinai, and Britain and France would then 'intervene' to seize the canal. The map shows the Israeli half of the plan - the rapid drive across Sinai in early November 1956. The United States and USSR both condemned the invasion, forcing the attackers to withdraw - a humiliation that marked the decline of British and French imperial power. The image matters: the map's notes about Israeli units halting near the canal show a campaign stopped by international pressure, not completed conquest."
+ },
+ {
+  "id": "wh-vis-u8-023",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The map illustrates which major consequence of the Six-Day War?",
+  "stimulus": "U.S. military map titled 'ISRAEL - THE SIX DAY WAR, The Jordan Salient, 5-7 June 1967': thick blue arrows show Israeli forces driving eastward from the Tel Aviv and Jerusalem areas into the West Bank, encircling Jordanian positions around Nablus and Jerusalem.",
+  "options": [
+   "(A) Jordan's successful defense of the West Bank against the Israeli attack.",
+   "(B) Israel's rapid capture of the West Bank and East Jerusalem from Jordan in June 1967, greatly expanding the territory under Israeli control.",
+   "(C) A large-scale Syrian invasion of northern Israel across the Sea of Galilee.",
+   "(D) The creation of an independent Palestinian state in the West Bank immediately after the fighting ended in the summer of 1967, recognized by both Israel and Jordan."
+  ],
+  "explanation": "On June 5, 1967, Israel launched preemptive strikes against Egypt, Jordan, and Syria. The map shows the Jordanian front: Israeli armor thrusting east from the Tel Aviv-Jerusalem area, encircling Nablus and taking East Jerusalem within three days. By the war's end Israel held the Sinai, the Golan Heights, the West Bank, and Gaza - roughly tripling its territory. The image is necessary: the arrows and dates show the speed and direction of the Israeli advance into Jordanian-held land."
+ },
+ {
+  "id": "wh-vis-u8-024",
+  "file": "build/visual-backfill/u8/batch-02.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The map best supports which conclusion about the partition of British India?",
+  "stimulus": "Map of the 1947 Partition of India: the Radcliffe Line divides the provinces of Punjab and Bengal between India (orange) and Pakistan (green, in western and eastern wings); orange arrows show Hindu and Sikh refugees moving toward India and green arrows show Muslim refugees moving toward Pakistan; starbursts mark sites of inter-communal conflict; large princely states such as Kashmir and Hyderabad are shown in gray as not acceded to either country.",
+  "options": [
+   "(A) Partition proceeded peacefully, with Hindu, Muslim, and Sikh populations remaining in their home districts.",
+   "(B) Pakistan was created as a single, contiguous territory with no separated regions.",
+   "(C) Partition created two religiously defined states but triggered massive refugee movements and communal violence, while leaving regions such as Kashmir disputed.",
+   "(D) Every princely state immediately and voluntarily joined India at the moment of independence, with no exceptions or delays anywhere on the subcontinent, as every maharaja and nizam signed the instrument of accession without hesitation."
+  ],
+  "explanation": "Britain's 1947 partition created India (Hindu-majority) and Pakistan (Muslim-majority, in two wings separated by 1,000 miles). The map shows why partition was catastrophic: the Radcliffe Line cut through Punjab and Bengal, triggering one of history's largest forced migrations - Muslims fleeing to Pakistan, Hindus and Sikhs to India - amid massacres that killed hundreds of thousands. The gray princely states show the unfinished business, above all Kashmir, which remains disputed today. The image is essential: only its arrows, conflict symbols, and gray undecided states support each part of the key."
+ },
+ {
+  "id": "wh-vis-u8-025",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "stem": "The event shown is most directly connected to which broader development?",
+  "stimulus": "Photograph, 17 August 1945: Indonesian nationalist leader Sukarno, in a white suit and black cap, reads the Proclamation of Indonesian Independence before a small crowd, with Mohammad Hatta standing beside him.",
+  "options": [
+   "(A) The wave of Asian decolonization after Japan's 1945 defeat, as nationalists claimed independence before European powers could return.",
+   "(B) The Dutch government's voluntary decision to grant Indonesia full and immediate independence in August 1945, a generous act for which Indonesian nationalists were deeply grateful.",
+   "(C) Indonesia's entry into the Warsaw Pact as the Soviet Union's first Asian ally.",
+   "(D) A United Nations resolution that partitioned Indonesia into several separate independent states in 1945."
+  ],
+  "explanation": "Japan's surrender in August 1945 left a power vacuum across Southeast Asia. In Indonesia, nationalist leaders Sukarno and Hatta proclaimed independence on August 17 - just two days after Japan's surrender - before Dutch colonial forces could return. The Netherlands fought a bitter war to reclaim its colony but finally recognized Indonesian independence in 1949. The photograph matters because it shows the actual proclamation moment, not a Dutch grant of independence or a Cold War alliance event."
+ },
+ {
+  "id": "wh-vis-u8-026",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The map shows the military dimension of which political outcome?",
+  "stimulus": "Military map of the 1971 Bangladesh Liberation War: orange unit symbols for Indian Army corps drive into East Pakistan from the west, north, and east, converging on Dhaka (marked with a star as the national capital); green symbols mark Pakistani brigades; yellow symbols mark Mukti Bahini (Bengali guerrilla) units.",
+  "options": [
+   "(A) The reunification of Pakistan's eastern and western wings into a stronger single state.",
+   "(B) The breakup of Pakistan and the creation of independent Bangladesh, after India's military intervention on behalf of Bengali nationalists.",
+   "(C) A decisive Pakistani military victory that preserved a united Pakistan and crushed the Bengali independence movement for a generation, with the surrender of all Indian forces in the east.",
+   "(D) The annexation of East Pakistan by India as a new Indian province."
+  ],
+  "explanation": "East Pakistan's Bengali population resented domination by West Pakistan's government and army; after the 1971 crackdown, Bengali guerrillas (the Mukti Bahini, shown in yellow) rose in revolt. India intervened in December 1971, and - as the map shows - Indian corps drove into East Pakistan from three sides, converging on Dhaka. Pakistan's eastern army surrendered within two weeks, and East Pakistan became the independent nation of Bangladesh. The map is necessary: its orange Indian arrows converging on Dhaka show the military campaign that created the new state."
+ },
+ {
+  "id": "wh-vis-u8-027",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "stem": "The pattern shown on the map best reflects which development?",
+  "stimulus": "World map highlighting the 29 countries (in red) that attended the 1955 Asian-African Conference in Bandung, Indonesia: all are located in Asia and Africa, including China, India, Egypt, Indonesia, Japan, the Philippines, Turkey, and Iran.",
+  "options": [
+   "(A) A military alliance of Asian states directed against the Soviet Union.",
+   "(B) The expansion of NATO membership into Asia and Africa during the 1950s, as the alliance sought new members to contain communism on every continent.",
+   "(C) A free-trade agreement limited to former British colonies in Asia.",
+   "(D) Recently decolonized Asian and African nations asserting a collective political voice independent of both Cold War blocs."
+  ],
+  "explanation": "The 1955 Bandung Conference brought together 29 newly independent Asian and African nations - from China and India to Egypt and Indonesia - representing more than half the world's population. The conference asserted that the decolonized world had its own interests and would not simply be pawns of Washington or Moscow, laying the groundwork for the Non-Aligned Movement. The map matters: only by seeing that every highlighted country is in Asia or Africa (none in Europe or the Americas) can a student identify the 'Third World' pattern."
+ },
+ {
+  "id": "wh-vis-u8-028",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "stem": "Which conclusion about the Non-Aligned Movement is best supported by the map?",
+  "stimulus": "World map of the Non-Aligned Movement: member states (dark blue) span nearly all of Africa, South and Southeast Asia, and much of Latin America; observers (light blue) include China, Brazil, and Mexico; the United States, the Soviet Union, Canada, Australia, and most of Europe are shown in gray as non-members.",
+  "options": [
+   "(A) It included both the United States and the Soviet Union as founding mediators.",
+   "(B) It was dominated by wealthy, industrialized Western nations.",
+   "(C) It was composed overwhelmingly of developing nations in Africa, Asia, and Latin America seeking to avoid alignment with either superpower.",
+   "(D) It required every member state to join a formal anti-Soviet military alliance directed from Washington, with joint bases in every member country."
+  ],
+  "explanation": "The Non-Aligned Movement, founded in 1961, let developing nations cooperate economically and politically without joining the American or Soviet camp. The map shows this vividly: dark blue (members) covers almost all of Africa, South and Southeast Asia, and much of Latin America, while the United States, the USSR, and their closest allies are gray (non-members). The image is necessary because the geographic pattern - members in the Global South, superpowers absent - is the whole point."
+ },
+ {
+  "id": "wh-vis-u8-029",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Continuity and Change",
+  "stem": "Based on the map, which statement about the timing of African decolonization is best supported?",
+  "stimulus": "Map titled 'Decolonization of Africa, 1945-1991' (legend translated from Catalan): each territory is colored by the European power controlling it in 1945 (light blue = France, red = Britain, green = Portugal, olive = Belgium, purple = Italy, yellow = Spain), and white boxes print each country's year of independence (e.g., Ghana 1957, many states 1960, Algeria 1962, Kenya 1963, Angola and Mozambique 1975, Zimbabwe 1980, Namibia 1990).",
+  "options": [
+   "(A) Most French and British colonies became independent around 1960, while Portugal's colonies (Angola, Mozambique) remained under colonial rule until the mid-1970s.",
+   "(B) Every African colony had achieved independence by the end of 1962, leaving no European-ruled territory anywhere on the continent.",
+   "(C) Belgium's colonies were the last in Africa to gain their independence.",
+   "(D) Southern Africa was the first region of the continent to complete decolonization, with every territory there independent well before the rest of Africa by a wide margin."
+  ],
+  "explanation": "The map's legend (translated from Catalan) colors each territory by its 1945 colonial ruler and prints each country's independence year. The pattern is striking: light-blue French and red British territories overwhelmingly show 1960 (the 'Year of Africa'), while green Portuguese territories - Angola and Mozambique - show 1975, after Portugal's 1974 Carnation Revolution ended its dictatorship. Namibia (1990) and Zimbabwe (1980) were even later. The image is essential: only by reading the colors against the printed dates can a student compare the timing."
+ },
+ {
+  "id": "wh-vis-u8-030",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "The photograph is most useful as evidence for which claim about late colonial rule in Africa?",
+  "stimulus": "British colonial photograph from Kenya in the 1950s: African soldiers of the King's African Rifles, led by an African sergeant in front, patrol a dirt road with pack mules during the Mau Mau Emergency.",
+  "options": [
+   "(A) Africans were completely excluded from all military service under British colonial rule.",
+   "(B) Colonial powers relied heavily on colonized peoples themselves - as soldiers, police, and porters - to enforce colonial control.",
+   "(C) The Mau Mau rebels were armed, trained, and funded by the British colonial government.",
+   "(D) Kenya achieved its independence through peaceful negotiation without any armed conflict, as the British willingly handed over power in the early 1950s."
+  ],
+  "explanation": "The King's African Rifles were colonial regiments recruited from African populations and led partly by African NCOs, as the African sergeant in the photograph shows. Britain used such units across its empire - in both World Wars and in colonial emergencies like the Mau Mau uprising (1952-1960) - because European manpower was limited and local troops knew the terrain. The photograph matters: it shows Africans in British uniform enforcing British rule against fellow Africans, which is the core of the claim."
+ },
+ {
+  "id": "wh-vis-u8-031",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "stem": "The sign best illustrates which feature of apartheid South Africa?",
+  "stimulus": "Photograph of a beach in Durban, South Africa, 1989: a large official municipal sign reads, in English, Afrikaans, and Zulu: 'CITY OF DURBAN ... THIS BATHING AREA IS RESERVED FOR THE SOLE USE OF MEMBERS OF THE WHITE RACE GROUP.'",
+  "options": [
+   "(A) The complete exclusion of Black South Africans from entering any South African city, town, or urban area under any circumstances.",
+   "(B) A government policy of promoting racial integration at public beaches and parks.",
+   "(C) The repeal of all apartheid laws during the 1980s.",
+   "(D) The legal segregation of everyday public life, reserving public spaces and amenities for the white minority."
+  ],
+  "explanation": "Apartheid (1948-1994) was a legal system of racial classification and segregation. The sign - posted by the city government in three languages - shows how apartheid reached into the smallest details of daily life: even a public beach was legally reserved for whites only. The photograph's date, 1989, also matters: apartheid was still the law just five years before South Africa's first democratic election. The image is necessary because the sign's exact wording ('sole use of members of the white race group') is the evidence."
+ },
+ {
+  "id": "wh-vis-u8-032",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The event shown is most significant as an example of",
+  "stimulus": "CIA photograph, August 1968, Prague: a Soviet tank burns in a cobblestone street while a young protester carrying the Czechoslovak national flag walks past it; crowds watch from the sidewalks.",
+  "options": [
+   "(A) A successful democratic revolution that permanently freed Czechoslovakia from Soviet control and inspired identical revolutions across Eastern Europe in 1968.",
+   "(B) A NATO military invasion of Czechoslovakia.",
+   "(C) The Brezhnev Doctrine in action: the Soviet Union using military force to crush a reform movement inside its Eastern European sphere.",
+   "(D) Czechoslovakia's voluntary and peaceful withdrawal from the Warsaw Pact."
+  ],
+  "explanation": "In 1968, Czechoslovak leader Alexander Dubcek's 'Prague Spring' reforms - 'socialism with a human face' - alarmed Moscow. In August, the USSR and four Warsaw Pact allies invaded with hundreds of thousands of troops to crush the reforms. The invasion announced the Brezhnev Doctrine: the Soviet Union would not allow any Eastern Bloc country to leave its orbit. The photograph - a burning Soviet tank, a defiant flag-carrying protester - captures both the invasion and the popular resistance to it."
+ },
+ {
+  "id": "wh-vis-u8-033",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "Taken together, the images best support which conclusion about the Soviet intervention in Afghanistan?",
+  "stimulus": "Collage of photographs from the Soviet war in Afghanistan (1979-1989): a Soviet soldier firing from a ruined building, mujahideen fighters with red banners in the mountains, a Soviet armored column crossing a bridge during the 1989 withdrawal, and Afghan child amputees learning to walk with crutches.",
+  "options": [
+   "(A) It became a long, costly guerrilla war the Soviets could not win, ending in withdrawal and leaving deep human costs.",
+   "(B) It was a quick and decisive Soviet victory achieved within a few months of the 1979 invasion, after which Soviet troops went home as heroes.",
+   "(C) Afghan civilians broadly welcomed the Soviet military presence in their country.",
+   "(D) The war ended with Afghanistan being annexed as a new republic of the Soviet Union."
+  ],
+  "explanation": "The Soviet Union invaded Afghanistan in December 1979 to prop up a communist government, but mujahideen guerrillas - backed by the United States, Pakistan, and others - bled the Soviet army for nearly a decade. The collage shows the war's arc: combat in the mountains, the 1989 withdrawal convoy crossing the bridge out of Afghanistan, and the war's lasting human toll in the child amputees. The USSR's failure contributed to its economic strain and political crisis. The images together are necessary: no single frame shows both the fighting and the withdrawal."
+ },
+ {
+  "id": "wh-vis-u8-034",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "stem": "The scene shown resulted most directly from which event?",
+  "stimulus": "U.S. Navy photograph, 1991: an F-14 Tomcat fighter jet flies over the Kuwaiti desert where multiple oil wells, set ablaze by retreating Iraqi forces, burn beneath columns of thick black smoke.",
+  "options": [
+   "(A) An American bombing campaign against Iran's nuclear facilities, launched after Iran seized Kuwaiti territory in the spring of 1991.",
+   "(B) Iraq's 1990 invasion of Kuwait and the U.S.-led coalition campaign that liberated Kuwait in the Persian Gulf War.",
+   "(C) A natural disaster that set fire to the Kuwaiti oil fields.",
+   "(D) The Soviet Union's invasion of Afghanistan in 1979."
+  ],
+  "explanation": "In August 1990 Iraq's Saddam Hussein invaded and annexed Kuwait. The United States assembled a UN-authorized coalition that expelled Iraqi forces in Operation Desert Storm (January-February 1991). Retreating Iraqi troops set fire to hundreds of Kuwaiti oil wells, creating one of history's worst environmental disasters - the burning wells the F-14 flies over. The photograph matters: the burning oil fields identify this as the Gulf War's aftermath, and the American jet identifies the U.S.-led coalition."
+ },
+ {
+  "id": "wh-vis-u8-035",
+  "file": "build/visual-backfill/u8/batch-03.json",
+  "unit": 8,
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "stem": "The scene shown is most significant as",
+  "stimulus": "East German Bundesarchiv photograph dated 15 November 1989: crowds of people gather with television cameras and press crews at the Brandenburg Gate in Berlin, six days after the Berlin Wall was opened.",
+  "options": [
+   "(A) The construction of the Berlin Wall in August 1961, when East German workers sealed the border under the eyes of the world's press.",
+   "(B) A protest demanding that the Berlin Wall be rebuilt even higher and stronger, organized by East German citizens who feared reunification with the West and wanted the two German states to remain permanently separate.",
+   "(C) The signing ceremony for the treaty that created NATO.",
+   "(D) A visible symbol of the Cold War's end in Europe, as the 28-year-old barrier dividing Berlin ceased to function and reunification became possible."
+  ],
+  "explanation": "On November 9, 1989, East Germany opened the Berlin Wall after weeks of mass protests; crowds poured through, and television broadcast the event worldwide. The photograph - taken six days later at the Brandenburg Gate, the wall's most famous symbol - shows the world's media and crowds gathering at a barrier that no longer worked. Within a year Germany reunified, and the Soviet bloc in Eastern Europe collapsed. The image matters: the date (15 November 1989) and the media scrum show this is the wall's fall, not its construction."
+ },
+ {
+  "id": "wh-vis-u9-001",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "stem": "The pattern shown in the map best supports which of the following claims about trade in the globalized economy?",
+  "stimulus": "World map, 2017, shaded by the 'trade openness index' — exports plus imports of goods and services as a share of GDP. The darkest shades fall on small, trade-oriented economies such as the Netherlands, Belgium, Singapore, and Malaysia; the lightest shades fall on large continental economies such as the United States, Brazil, Japan, and Australia.",
+  "options": [
+   "(A) Trade matters most, relative to the size of the economy, for small open economies rather than for large continental ones.",
+   "(B) The United States and China dominate world trade because their trade-to-GDP ratios are the highest in the world, far above those of small European states.",
+   "(C) Poorer countries are uniformly more dependent on trade than wealthier countries are.",
+   "(D) The map measures each country's trade in absolute dollar terms, so the darkest countries are the biggest traders."
+  ],
+  "explanation": "The map shows trade as a share of GDP, not in absolute dollars. Small economies that live by trade (the Netherlands, Singapore) have very high ratios, while huge diversified economies (the US, Brazil, Japan) have low ratios even though their total trade is enormous."
+ },
+ {
+  "id": "wh-vis-u9-002",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "Which of the following conclusions is best supported by the chart?",
+  "stimulus": "Line chart, 1970–2022: world trade (exports plus imports of goods and services) as a share of global GDP. The line climbs from about 25% in 1970 to over 60% by 2022, with sharp but temporary dips around 2009 and 2020.",
+  "options": [
+   "(A) Global trade peaked around 2008 and has been in steady decline ever since, as the chart's falling line after the financial crisis clearly demonstrates.",
+   "(B) The world economy became steadily more integrated through trade from 1970 to 2022, interrupted only briefly by major crises.",
+   "(C) Trade grew as a share of GDP mainly because global GDP was shrinking over this period.",
+   "(D) The chart shows that most governments adopted strongly protectionist policies after 2000."
+  ],
+  "explanation": "The long-run trend is unmistakably upward — trade more than doubled as a share of world GDP — with only two brief reversals (the 2009 financial crisis and the 2020 pandemic) before the climb resumed."
+ },
+ {
+  "id": "wh-vis-u9-003",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The technology shown most directly contributed to globalization after 1950 by",
+  "stimulus": "Aerial photograph, 2023: the container ship Maersk Hanoi docked at Port Koper, its hull stacked high and deep with brightly colored standardized shipping containers while tall gantry cranes load and unload the vessel.",
+  "options": [
+   "(A) making cargo ships faster than airplanes for long-distance passenger travel, finally letting ocean liners outpace jets on transatlantic routes.",
+   "(B) allowing governments to collect much higher tariff revenues at every port.",
+   "(C) standardizing cargo into interchangeable boxes, which slashed the cost and time of loading, shipping, and transferring goods.",
+   "(D) requiring larger crews of dockworkers at each port of call."
+  ],
+  "explanation": "Containerization's breakthrough was standardization: identical boxes could move seamlessly between ship, rail, and truck with minimal handling, collapsing freight costs and making far-flung supply chains economical."
+ },
+ {
+  "id": "wh-vis-u9-004",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The infrastructure visible in the photograph best illustrates which development of the late twentieth century?",
+  "stimulus": "Aerial photograph of the Port of Tacoma: green gantry cranes tower over long rows of stacked shipping containers, and a vast lot beside the terminal holds thousands of parked new automobiles.",
+  "options": [
+   "(A) The decline of American manufacturing, which left Pacific ports empty of cargo.",
+   "(B) The use of commercial ports mainly as naval military bases during the Cold War, when warships, submarines, and military supply convoys dominated harbors like Tacoma.",
+   "(C) The replacement of container shipping by air freight for heavy manufactured goods.",
+   "(D) The growth of specialized logistics networks that move huge volumes of manufactured goods — including finished automobiles — across the Pacific."
+  ],
+  "explanation": "The cranes, container stacks, and auto terminal are purpose-built infrastructure for high-volume trans-Pacific trade in manufactures — the physical footprint of the supply chains that containerization made possible."
+ },
+ {
+  "id": "wh-vis-u9-005",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "stem": "The distribution shown best supports which claim about air travel in the early twenty-first century?",
+  "stimulus": "World map, 2010: countries shaded by airline passengers (domestic plus international) carried by airlines registered in each country. The United States is darkest, near the top of the scale; China is next darkest; most of Africa is in the lightest shades.",
+  "options": [
+   "(A) Air travel was concentrated in the world's largest and wealthiest economies, making it an unevenly shared feature of globalization.",
+   "(B) Air travel had spread evenly across the world by 2010.",
+   "(C) African airlines carried the most passengers because Africa contains the most countries, giving the continent an unbeatable advantage in total flights.",
+   "(D) The map proves that most of the world's population flew internationally in 2010."
+  ],
+  "explanation": "The map counts passengers per country of airline registration, so huge wealthy or populous economies (US, China, EU states) dominate while most of Africa is pale — air travel enabled globalization but remained concentrated where incomes and domestic markets were largest."
+ },
+ {
+  "id": "wh-vis-u9-006",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "Which conclusion about the spread of the internet is best supported by the chart?",
+  "stimulus": "Stacked area chart, 1996–2015: worldwide internet users rise from near zero to about 3.4 billion. By 2015 the largest segment is East Asia & Pacific, followed by Europe & Central Asia; North America's segment is much smaller.",
+  "options": [
+   "(A) North America has always accounted for most of the world's internet users, since the internet was invented there and Americans adopted it first and fastest.",
+   "(B) The internet diffused far beyond its early wealthy-country base, with the greatest absolute number of users in East Asia & Pacific by 2015.",
+   "(C) Internet use declined in Europe after 2010.",
+   "(D) The chart shows that internet access had become universal in developing regions by 2015."
+  ],
+  "explanation": "Total users exploded from near zero to about 3.4 billion, and by 2015 the biggest regional segment was East Asia & Pacific — the internet had become a mass global medium centered in Asia, not a North American one."
+ },
+ {
+  "id": "wh-vis-u9-007",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "stem": "The data best support which of the following statements about mobile phones and globalization?",
+  "stimulus": "Seven small charts show mobile phone subscriptions per 100 people, 2000 to 2023, by world region. Sub-Saharan Africa rose from 2 to 89; South Asia from under 1 to 84; the Middle East & North Africa from 4 to 119. Every region rose sharply, and several ended above 100 — meaning many people own more than one device.",
+  "options": [
+   "(A) Mobile phone adoption was led by North America and Europe throughout the period.",
+   "(B) Only wealthy countries experienced significant mobile phone growth between 2000 and 2023, while the developing world was largely left without any phones at all.",
+   "(C) Mobile phones spread fastest in developing regions, where many people adopted them without ever having landline phones.",
+   "(D) A figure above 100 means that every person in the region owns at least one mobile phone."
+  ],
+  "explanation": "The steepest climbs are in the developing world — Sub-Saharan Africa went from 2 to 89 and South Asia from under 1 to 84 per 100 people — because mobile networks were built where landlines never existed, letting whole populations skip the landline era."
+ },
+ {
+  "id": "wh-vis-u9-008",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "stem": "The trend shown best illustrates which broader change of the early twenty-first century?",
+  "stimulus": "Stacked bar chart, United States, 2008–2018: average daily hours adults spent with digital media (web pages, video, social media apps). The total rises from under 3 hours to over 6; the mobile segment (top, yellow) grows the most, especially after 2011.",
+  "options": [
+   "(A) The decline of screen-based entertainment in the United States, as Americans abandoned televisions, computers, and phones for outdoor activities and hobbies.",
+   "(B) A decrease in total media consumption as Americans spent more time offline.",
+   "(C) Americans spending most of their digital time on desktop computers by 2018.",
+   "(D) The shift of daily life and culture onto networked digital media, increasingly accessed through smartphones."
+  ],
+  "explanation": "Daily digital media time more than doubled in a decade, and the growth came overwhelmingly from the mobile segment after 2011 — the smartphone era reorganized how Americans spend their hours."
+ },
+ {
+  "id": "wh-vis-u9-009",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "stem": "The map best illustrates which of the following developments?",
+  "stimulus": "Map of Europe, 2020: 27 countries are shaded green as member states of the European Union, including former Eastern-bloc states such as Poland, Czechia, Hungary, and Romania; the United Kingdom, Norway, and Switzerland are unshaded.",
+  "options": [
+   "(A) The deepening of regional integration in Europe after the Cold War — and its limits, since states like the United Kingdom have left or stayed out.",
+   "(B) The unification of every country on the European continent under a single European government, with Brussels directly ruling all of Europe from one central capital.",
+   "(C) The expansion of the European Union into Asia and Africa.",
+   "(D) The return of Europe to the colonial empires of the nineteenth century."
+  ],
+  "explanation": "The map shows the EU at its post-Cold War maximum extent — 27 members including the former Eastern bloc — but pointedly excludes the UK (which left in 2020), Norway, and Switzerland: integration deepened dramatically yet remained voluntary and reversible."
+ },
+ {
+  "id": "wh-vis-u9-010",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "The chart best supports which claim about communications technology in the 2010s?",
+  "stimulus": "Line chart of worldwide smartphone sales by operating system, quarterly 2007–2018 (thousands of units). Android (blue) surges from near zero around 2010 to over 300 million units per quarter by 2016; iOS (purple) holds a distant second; Symbian, the early leader, collapses; BlackBerry and Windows fade to near zero.",
+  "options": [
+   "(A) Apple sold more smartphones than all other makers combined.",
+   "(B) The smartphone market consolidated around two platforms, with Android dominant, while earlier leaders were driven out.",
+   "(C) Symbian remained the world's most popular smartphone system through 2018, outselling Android and iOS combined in every quarter shown on the chart.",
+   "(D) Worldwide smartphone sales declined steadily after 2012."
+  ],
+  "explanation": "Android went from near zero to over 300 million units per quarter while iOS held a distant second; Symbian, BlackBerry, and Windows were all driven out — the market consolidated onto two platforms, one dominant."
+ },
+ {
+  "id": "wh-vis-u9-011",
+  "file": "build/visual-backfill/u9/batch-01.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The adoption of the currency shown best exemplifies which aspect of late-twentieth-century globalization?",
+  "stimulus": "Photograph of euro banknotes (5, 10, 20, 50, 100, and 200) and coins — the shared currency used across much of the European Union, marked with the circle of EU stars.",
+  "options": [
+   "(A) The creation of a single world currency used on every continent, replacing the dollar, yen, and pound in all international transactions worldwide.",
+   "(B) The adoption of the euro by every member state of the European Union.",
+   "(C) The deepening of regional economic integration, as member states gave up national currencies to lower the costs of trade and travel.",
+   "(D) The replacement of paper money by digital payments throughout Europe."
+  ],
+  "explanation": "The euro — one currency across many sovereign states — is the most visible symbol of how far European integration went: members surrendered their national currencies to cut the costs of cross-border trade and travel."
+ },
+ {
+  "id": "wh-vis-u9-012",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The protesters' message best represents which response to globalization?",
+  "stimulus": "Photograph, Seattle, 1999: protesters march against a meeting of the World Trade Organization. A giant puppet carries a sign reading 'MY LIFE IS NOT FOR SALE' and 'FAIR TRADE'; another marcher's sign reads 'STOP WTO.'",
+  "options": [
+   "(A) Support for the WTO's efforts to remove all barriers to trade.",
+   "(B) A demand that the United States withdraw from the global economy entirely.",
+   "(C) Celebration of multinational corporations for creating jobs around the world, with the marchers carrying puppets and signs to thank companies like Nike, McDonald's, and Shell for investing in poor countries.",
+   "(D) Opposition to trade-liberalization rules seen as favoring corporations over workers, the environment, and poorer countries — demanding 'fair' rather than merely 'free' trade."
+  ],
+  "explanation": "The signs ('MY LIFE IS NOT FOR SALE,' 'FAIR TRADE,' 'STOP WTO') show protesters who did not reject trade itself but rejected the WTO's version of it — rules they believed served corporations at the expense of workers, the environment, and poor countries."
+ },
+ {
+  "id": "wh-vis-u9-013",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "stem": "Which statement is best supported by the chart?",
+  "stimulus": "Line chart, 1990–2024: GDP per capita (adjusted for price differences) for major developing economies. China's line climbs steeply from about $2,000 to about $24,000, passing Mexico around 2022; India's rises steadily to about $10,000; Indonesia reaches about $15,000; Pakistan, the lowest, reaches only about $5,500.",
+  "options": [
+   "(A) China experienced exceptionally rapid catch-up growth, moving from among the poorest shown in 1990 to the richest by the 2020s.",
+   "(B) India had the highest GDP per capita of the group throughout the period, staying well ahead of China, Mexico, and Brazil from 1990 to 2024.",
+   "(C) All of these economies grew at roughly the same rate after 1990.",
+   "(D) Mexico's economy shrank steadily from 1990 to 2024."
+  ],
+  "explanation": "China's line is the steepest on the chart: from about $2,000 per person in 1990 — among the lowest shown — to about $24,000 by 2024, overtaking Mexico around 2022. No other economy shown closed the gap so fast."
+ },
+ {
+  "id": "wh-vis-u9-014",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The scene best illustrates which feature of globalization after the Cold War?",
+  "stimulus": "Photograph, 2013: the crowded interior of a McDonald's restaurant in Moscow, Russia — customers line up and eat in the familiar red-and-beige dining room.",
+  "options": [
+   "(A) The Russian government's ban on foreign restaurants, which forced McDonald's to operate in secret without any advertising or signage.",
+   "(B) The worldwide diffusion of American consumer brands and business models into formerly closed markets after the Cold War.",
+   "(C) The decline of fast food in the United States.",
+   "(D) A Russian company copying McDonald's without permission."
+  ],
+  "explanation": "A crowded McDonald's in Moscow — in a country where American brands were absent before 1990 — is a vivid snapshot of cultural globalization: the same consumer brands, menus, and business formats appearing on streets worldwide after the Cold War."
+ },
+ {
+  "id": "wh-vis-u9-015",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "Which conclusion is best supported by the chart?",
+  "stimulus": "Line chart of monthly mean atmospheric CO2 measured at Mauna Loa, Hawaii, 1958–2025. The curve rises steadily from about 315 to about 425 parts per million, with a regular seasonal sawtooth. An inset shows the seasonal pattern: CO2 peaks in May and dips in September–October.",
+  "options": [
+   "(A) CO2 levels have fallen since the 1990s because of emissions cuts.",
+   "(B) The seasonal ups and downs prove that human activity does not affect CO2 levels, since the yearly cycle shows nature fully controls the atmosphere on its own.",
+   "(C) Atmospheric CO2 has risen continuously since 1958, with a yearly cycle driven by the Northern Hemisphere's growing season.",
+   "(D) CO2 concentrations were higher in 1960 than in 2025."
+  ],
+  "explanation": "The long rise (315 to 425 ppm) documents the human-caused buildup of CO2, while the regular seasonal sawtooth — peaking in May, dipping in September–October — reflects Northern Hemisphere plants absorbing CO2 each growing season. The two patterns have different causes, and the chart shows both."
+ },
+ {
+  "id": "wh-vis-u9-016",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "stem": "The chart best supports which claim about emissions in the global age?",
+  "stimulus": "Stacked area chart of annual CO2 emissions from fossil fuels and industry by world region, 1750–2024. Before 1950 the bands are dominated by Europe and the United States; after 2000 China's band (red) becomes the largest; in recent years the US and EU bands shrink slightly while the total keeps growing toward 40 billion tonnes.",
+  "options": [
+   "(A) The United States remains by far the largest emitter shown.",
+   "(B) Total global CO2 emissions have fallen steadily since 2000, as the chart's shrinking bands for the United States and Europe clearly demonstrate across every region.",
+   "(C) Europe never contributed significantly to global emissions.",
+   "(D) The center of fossil-fuel emissions shifted from the early-industrialized West to developing Asia, especially China, in the late twentieth century."
+  ],
+  "explanation": "Early bands are dominated by Europe and the United States; after about 2000 China's band becomes the largest while the US and EU bands shrink slightly — the geography of emissions followed the geography of industrialization."
+ },
+ {
+  "id": "wh-vis-u9-017",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "stem": "What does the map show about recent warming?",
+  "stimulus": "NASA map of global surface temperature anomaly, 2018–2022, compared with the 1951–1980 average. Nearly the whole map is shaded warm (yellow to red); the deepest red — more than 2°C (3.6°F) above average — covers the Arctic and northern Russia.",
+  "options": [
+   "(A) Warming is global but strongest in the far north, a pattern known as Arctic amplification.",
+   "(B) Warming has been uniform across the entire planet.",
+   "(C) The tropics have warmed far more than the polar regions.",
+   "(D) Most of the planet has cooled relative to the 1951–1980 average, with only a few small regions near the Arctic showing any warming at all."
+  ],
+  "explanation": "Almost the entire map is warmer than the 1951–1980 baseline, but the warming is not even: the deepest reds (over 2°C) blanket the Arctic and northern Russia — the well-documented pattern of Arctic amplification."
+ },
+ {
+  "id": "wh-vis-u9-018",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "Which conclusion about energy in the modern era is best supported?",
+  "stimulus": "Line chart, 1800–2017: shares of global primary energy consumption by source. Traditional biofuels (wood, dung) fall from nearly 100% to under 10%; coal peaks around 1910 at over half; crude oil rises after 1950 to about 35%; natural gas grows to over 20%; nuclear, hydro, wind, and solar together remain a small slice.",
+  "options": [
+   "(A) Renewable sources such as wind and solar already supply most of the world's energy, having fully replaced coal, oil, and natural gas by 2017.",
+   "(B) Fossil fuels displaced biomass and still dominate, and each energy transition has taken many decades.",
+   "(C) Coal has always been the world's dominant energy source.",
+   "(D) Oil replaced coal almost immediately after it was discovered."
+  ],
+  "explanation": "Each dominant source took many decades to rise and fall — biomass ruled for a century, coal for a century, oil is still near 35% after 150 years — and fossil fuels together still supply the great bulk of energy. Transitions are slow, not sudden."
+ },
+ {
+  "id": "wh-vis-u9-019",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The juxtaposition in the photograph best reflects which debate about energy in the global age?",
+  "stimulus": "Photograph, Doel, Belgium: an old-fashioned Dutch windmill stands in the foreground while a huge nuclear power plant cooling tower releases steam behind it.",
+  "options": [
+   "(A) Proof that traditional windmills generate more electricity than nuclear plants, which is why Belgium replaced all of its reactors with historic windmills.",
+   "(B) The Belgian government's decision to ban all forms of energy production.",
+   "(C) Whether nuclear power — a low-carbon but risky and controversial source — should be part of the shift away from fossil fuels.",
+   "(D) Evidence that nuclear plants produce no waste and pose no danger."
+  ],
+  "explanation": "The photo pairs the old (a traditional windmill) with the contested modern option (a nuclear plant): nuclear power emits little CO2 but carries accident, waste, and proliferation fears — which is exactly why its role in the energy transition is debated."
+ },
+ {
+  "id": "wh-vis-u9-020",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The structure shown was built in response to the 1986 Chernobyl disaster. Its existence best illustrates which point in debates over nuclear energy?",
+  "stimulus": "Photograph, Chernobyl, Ukraine: the giant New Safe Confinement arch built over the destroyed Reactor 4, with a memorial sculpture of hands cradling a reactor in the foreground.",
+  "options": [
+   "(A) Damaged nuclear reactors can be quickly repaired and put back into service within months, making major accidents only brief interruptions in power generation.",
+   "(B) The disaster had no lasting effects on the surrounding region.",
+   "(C) Nuclear waste becomes safe within a few years of an accident.",
+   "(D) Nuclear accidents can impose enormous, decades-long containment and cleanup costs that shape public opposition to nuclear power."
+  ],
+  "explanation": "A ruined reactor so dangerous it had to be permanently entombed under a giant arch — with a memorial to the disaster — shows why nuclear accidents weigh so heavily in energy politics: the costs and contamination last for generations."
+ },
+ {
+  "id": "wh-vis-u9-021",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "According to the diagram, greenhouse gases warm the planet mainly by",
+  "stimulus": "Diagram of energy flow through the atmosphere. Sunlight warms the surface; the surface gives off longwave (heat) radiation, part of which escapes to space and part of which is redirected back downward by greenhouse gases. Text notes: without greenhouse gases the surface would average −18°C; with them, 15°C.",
+  "options": [
+   "(A) intercepting some of the heat radiating from Earth's surface and sending it back downward.",
+   "(B) blocking incoming sunlight from reaching the surface, acting like a giant shade that keeps solar energy from ever warming the Earth at all.",
+   "(C) generating new heat through chemical reactions in the atmosphere.",
+   "(D) reflecting sunlight back into space like a mirror."
+  ],
+  "explanation": "The diagram shows sunlight coming in freely while outgoing heat radiation is partly caught and sent back down — the blanket mechanism that lifts Earth's average surface temperature from a frigid −18°C to a livable 15°C."
+ },
+ {
+  "id": "wh-vis-u9-022",
+  "file": "build/visual-backfill/u9/batch-02.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The pattern of clearing shown is most directly associated with which process?",
+  "stimulus": "NASA satellite image, Rondônia, Brazil, August 2007: dark green intact rainforest is cut by large tan and brown clearings in a branching 'fishbone' pattern; wisps of smoke rise from several clearings.",
+  "options": [
+   "(A) The growth of Brazilian cities spreading into the rainforest, as urban neighborhoods and suburbs expanded outward along new highways.",
+   "(B) The conversion of Amazon forest to cattle pasture and farmland by settlers and ranchers.",
+   "(C) Natural wildfires occurring without human involvement.",
+   "(D) Small-scale firewood gathering by Indigenous communities."
+  ],
+  "explanation": "The geometric fishbone clearings with smoke are the signature of organized settler agriculture: roads cut into the forest, then land cleared along them for crops and cattle — the main driver of Amazon deforestation."
+ },
+ {
+  "id": "wh-vis-u9-023",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The change shown resulted primarily from",
+  "stimulus": "Two satellite images of the Aral Sea, Central Asia: 1989 (left) shows a large dark-blue lake; 2008 (right) shows mostly pale dry seabed with only small green remnants of water.",
+  "options": [
+   "(A) A single earthquake that drained the sea in the 1990s.",
+   "(B) Rising global sea levels flooding the surrounding land.",
+   "(C) Soviet-era irrigation projects that diverted the sea's feeder rivers to grow cotton in the desert.",
+   "(D) The construction of hydroelectric dams on the Amazon River, which diverted so much water that a Central Asian lake thousands of miles away dried up."
+  ],
+  "explanation": "The two images show a lake mostly gone within two decades — not from climate or accident, but from a deliberate state plan: diverting the Amu Darya and Syr Darya to irrigate cotton in the desert, which starved the sea and wrecked its fishery."
+ },
+ {
+  "id": "wh-vis-u9-024",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "The chart best supports which conclusion about international environmental action?",
+  "stimulus": "Line chart, 1979–2004: the average area of the Antarctic ozone hole grows from near zero to about 25 million square kilometers — larger than North America — then levels off after about 2000. (The vertical bars show each year's minimum-to-maximum range.)",
+  "options": [
+   "(A) The ozone hole disappeared completely by 2004.",
+   "(B) International treaties had no effect on the ozone hole.",
+   "(C) The ozone hole kept growing rapidly through 2004, doubling in size every few years with no sign of ever slowing down or stabilizing at any point in the record.",
+   "(D) The 1987 Montreal Protocol's phase-out of CFCs coincided with the ozone hole's growth leveling off, suggesting coordinated regulation can work."
+  ],
+  "explanation": "The hole grew through the 1980s and 1990s to larger than North America, then stopped growing after about 2000 — right after the 1987 Montreal Protocol phased out CFCs. The timing suggests the treaty worked, though the chart shows stabilization, not full recovery."
+ },
+ {
+  "id": "wh-vis-u9-025",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "stem": "The scene best illustrates which trend in recent energy use?",
+  "stimulus": "Aerial photograph, United States, 2024 (USDA): a ground-mounted array of solar panels sits beside farm buildings and crop fields.",
+  "options": [
+   "(A) The adoption of renewable generation alongside conventional land uses such as farming.",
+   "(B) The replacement of all American farms by solar power stations, as agricultural land across the country was converted entirely to energy production.",
+   "(C) The abandonment of fossil fuels by the United States.",
+   "(D) Government bans on building solar panels near farmland."
+  ],
+  "explanation": "The solar array sits beside working crop fields — not replacing the farm but added to it — showing how renewable generation is being adopted incrementally within existing land uses."
+ },
+ {
+  "id": "wh-vis-u9-026",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "The action shown best illustrates which feature of environmental politics in the globalized era?",
+  "stimulus": "Photograph, Berlin: Greenpeace activists in green jackets stand beside a mining cart heaped with coal lumps in front of the German Chancellery. A large yellow sign reads (in German): 'Out of coal, Mrs. Merkel!'",
+  "options": [
+   "(A) The German government's protest against Greenpeace.",
+   "(B) Transnational activist organizations pressuring national governments to abandon fossil fuels.",
+   "(C) A coal miners' union demanding more mining jobs, with workers asking Mrs. Merkel to open new coal mines across Germany.",
+   "(D) An official government ceremony celebrating coal."
+  ],
+  "explanation": "Greenpeace — an international NGO — staged a theatrical protest (a coal-filled mining cart) at the seat of German government power, demanding the chancellor phase out coal: activism targeting national policy on a global issue."
+ },
+ {
+  "id": "wh-vis-u9-027",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The event shown best illustrates which development of the twenty-first century?",
+  "stimulus": "Photograph, Milan, Italy, May 24, 2019: thousands of mostly young marchers fill a city street carrying handmade signs, including one in front reading 'Prima la terra' ('The Earth first') and others about the planet's fragility.",
+  "options": [
+   "(A) An Italian government campaign to promote tourism, using student marches and colorful signs to attract visitors to the city of Milan.",
+   "(B) A protest against immigration policy in Italy.",
+   "(C) A transnational youth movement using shared symbols and tactics to pressure leaders on climate change across national borders.",
+   "(D) A celebration of Italy's industrial achievements."
+  ],
+  "explanation": "Thousands of students marched in Milan as part of a coordinated global school strike — the same movement, slogans, and tactics appearing in cities worldwide, organized across borders through social media."
+ },
+ {
+  "id": "wh-vis-u9-028",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "The chart best supports which claim about the Green Revolution?",
+  "stimulus": "Line chart of wheat yields (tonnes per hectare) in European countries, 1850–2023. Yields stay below 4 tonnes until about 1960, then climb steeply; the Netherlands and Belgium approach 9–10 tonnes, while Spain and Greece reach only about 3 tonnes.",
+  "options": [
+   "(A) European wheat yields have barely changed since 1850.",
+   "(B) Every European country achieved roughly the same yields by 2000, with Spain, Greece, and the Netherlands all harvesting about 9 tonnes per hectare.",
+   "(C) Wheat yields declined after 1960 because of soil exhaustion.",
+   "(D) New seeds, fertilizers, and methods multiplied yields after 1960, but the gains were very uneven across countries."
+  ],
+  "explanation": "Before 1960 no country shown topped 4 tonnes per hectare; afterward, yields multiplied — but the Netherlands approached 10 tonnes while Spain stalled near 3. The Green Revolution was real and radically uneven."
+ },
+ {
+  "id": "wh-vis-u9-029",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "stem": "The map suggests that the agricultural advances of the Green Revolution",
+  "stimulus": "World map, 2023: countries shaded by wheat yield (tonnes per hectare). The darkest shades (6–7 tonnes) cover northwestern Europe; China is medium-dark; the United States is light; much of sub-Saharan Africa is white or hatched (very low yields or no data).",
+  "options": [
+   "(A) produced the highest yields in wealthy regions with intensive farming, while much of Africa saw little gain.",
+   "(B) raised yields equally on every continent.",
+   "(C) made Africa the world's highest-yielding wheat region, with sub-Saharan countries harvesting far more per hectare than Western Europe.",
+   "(D) eliminated the need for fertilizers worldwide."
+  ],
+  "explanation": "The darkest blues (6–7 tonnes per hectare) sit over northwestern Europe; China is mid-range, the US lighter, and much of Africa white or hatched — the Green Revolution's benefits mapped onto existing wealth and infrastructure."
+ },
+ {
+  "id": "wh-vis-u9-030",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "Taken together with the wheat-yield maps, this map best supports which point in debates over the Green Revolution?",
+  "stimulus": "World map, 2015: countries shaded by fertilizer use (kilograms per hectare of arable land). China is among the darkest; Western Europe is dark; most of sub-Saharan Africa is nearly white (very low use).",
+  "options": [
+   "(A) Fertilizers were unnecessary for the yield gains shown in the other maps, which came entirely from better weather, traditional seeds, and old-fashioned farming methods alone.",
+   "(B) High yields depended on heavy chemical inputs, raising concerns about pollution, cost, and dependence — inputs poor farmers often could not afford.",
+   "(C) African farmers used more fertilizer per hectare than Chinese farmers.",
+   "(D) Fertilizer use declined worldwide after 2000."
+  ],
+  "explanation": "The yield maps show spectacular gains; this map shows their price — enormous chemical inputs, concentrated in China and Europe, while African farmers used almost none. The Green Revolution's bounty came with pollution, cost, and unequal access."
+ },
+ {
+  "id": "wh-vis-u9-031",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "Borlaug developed high-yield, disease-resistant wheat varieties adopted in Mexico, India, and Pakistan in the 1960s. He is most significant to world history because his work",
+  "stimulus": "Photograph, 2004: Norman Borlaug (1914–2009), the American agronomist celebrated as the 'father of the Green Revolution,' at age 90.",
+  "options": [
+   "(A) invented chemical fertilizer in the nineteenth century, personally creating the Haber-Bosch process that made all of modern agriculture possible.",
+   "(B) led the campaign to ban pesticides worldwide.",
+   "(C) helped avert predicted mass famines by sharply raising food production in developing countries through high-yield wheat.",
+   "(D) proved that only wealthy countries could increase crop yields."
+  ],
+  "explanation": "Borlaug's dwarf wheat — high-yielding and disease-resistant — was planted across Mexico, India, and Pakistan in the 1960s–70s, multiplying harvests just as experts predicted famine. He received the 1970 Nobel Peace Prize for it."
+ },
+ {
+  "id": "wh-vis-u9-032",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "stem": "Images like this one were used by the World Health Organization to build support for its global smallpox eradication campaign (1967–1980). The campaign's success best illustrates which broader point about the post-1945 world?",
+  "stimulus": "Photograph, Bangladesh, 1973: a young child covered in the dense, painful blisters of smallpox.",
+  "options": [
+   "(A) Smallpox was never a serious threat to human life.",
+   "(B) Only wealthy countries benefited from the eradication campaign.",
+   "(C) The campaign failed because the disease still kills millions today, with smallpox remaining one of the world's deadliest infections in the 2020s.",
+   "(D) Coordinated international institutions could mobilize science and funding to solve a worldwide health crisis."
+  ],
+  "explanation": "The image makes smallpox's horror concrete — and the WHO campaign it illustrates wiped the disease out entirely by 1980, the only human disease ever eradicated: proof that coordinated global institutions could solve a planetary problem."
+ },
+ {
+  "id": "wh-vis-u9-033",
+  "file": "build/visual-backfill/u9/batch-03.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "stem": "The timing of the declines shown best supports which conclusion?",
+  "stimulus": "Line chart, 1920–1980: number of countries where smallpox was endemic, by region. Africa's line stays near 45 countries until the late 1960s, then plunges to near zero by 1972; Asia and the Americas also fall steeply. Annotations mark: 1959 — WHO begins global program; 1967 — WHO begins intensified campaign; 1977 — last case in Somalia; 1980 — declared eradicated.",
+  "options": [
+   "(A) A coordinated, intensified global campaign — not gradual progress — drove smallpox to extinction within about a decade.",
+   "(B) Smallpox faded away on its own without organized human effort.",
+   "(C) The 1959 WHO program alone eliminated the disease immediately.",
+   "(D) Africa eliminated smallpox before any international campaign began, with the continent already free of the disease by the early 1950s."
+  ],
+  "explanation": "For decades the lines barely moved; then, after the WHO's intensified 1967 campaign, Africa's line plunged from ~40 countries to near zero within five years, and the last case was recorded in Somalia in 1977. Eradication was a campaign achievement, not a gradual drift."
+ },
+ {
+  "id": "wh-vis-u9-034",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The scene best illustrates which approach to disease in the global age?",
+  "stimulus": "Photograph, India: a health worker gives oral polio vaccine drops to a young boy while an assistant steadies him; a vaccine carrier sits on the wooden table.",
+  "options": [
+   "(A) The use of antibiotics to cure viral infections, since penicillin and similar drugs are the standard medical treatment for polio and other viruses.",
+   "(B) Mass immunization campaigns, often organized with international support, targeting preventable diseases in developing countries.",
+   "(C) A hospital-based treatment available only to the wealthy.",
+   "(D) Traditional healers replacing modern medicine."
+  ],
+  "explanation": "Oral polio drops given in the field — by international 'STOP' teams working with local staff — are the classic instrument of global disease campaigns: cheap, easy to administer, and aimed at wiping out a preventable disease population-wide."
+ },
+ {
+  "id": "wh-vis-u9-035",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "Fleming's discovery, mass-produced during World War II, is most significant because antibiotics",
+  "stimulus": "Color photograph, 1940s: Alexander Fleming, the discoverer of penicillin, at his laboratory bench holding a petri dish among culture plates and flasks.",
+  "options": [
+   "(A) provided a cure for viral diseases such as polio and smallpox, wiping out those epidemics decades before vaccines for them were ever developed.",
+   "(B) were the first medicines ever used by humans.",
+   "(C) made bacterial infections — once major killers — widely treatable, contributing to the twentieth century's plunge in death rates.",
+   "(D) eliminated the need for vaccines."
+  ],
+  "explanation": "Before antibiotics, a simple bacterial infection could kill; after penicillin's mass production, pneumonia, wound infections, and childbed fever became routinely curable — a major reason death rates collapsed in the twentieth century."
+ },
+ {
+  "id": "wh-vis-u9-036",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "stem": "The map best supports which claim about disease in the global age?",
+  "stimulus": "World map, 2023: share of the population aged 15–49 living with HIV. The darkest shades (10–20% or more) cover southern Africa — South Africa, Eswatini, Lesotho, Botswana, Zimbabwe; nearly everywhere else is below 0.5%.",
+  "options": [
+   "(A) HIV was distributed evenly around the world by 2023, with every region and continent showing roughly the same share of the population living with the virus.",
+   "(B) Wealthy countries had the highest HIV rates.",
+   "(C) HIV had been eradicated by 2023.",
+   "(D) Newer epidemics like HIV/AIDS remained brutally concentrated in poorer regions, especially southern Africa, even as other diseases were conquered."
+  ],
+  "explanation": "The map's darkest reds (10–20%+) are confined to southern Africa while nearly the whole rest of the world is below 0.5%: HIV/AIDS became a disease of poverty and inequality, concentrated where health systems were weakest."
+ },
+ {
+  "id": "wh-vis-u9-037",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "stem": "The pattern shown best illustrates which limitation of twentieth-century health advances?",
+  "stimulus": "World map, 2023: share of newborns dying before age five. The darkest shades (10–20%) cover West and Central Africa (Niger, Chad, Nigeria, CAR, Sierra Leone); South Asia is 2–5%; North America, Europe, and Australia are below 0.5%.",
+  "options": [
+   "(A) Life-saving gains reached some regions far more than others, with child survival still closely tied to poverty.",
+   "(B) Child mortality is now the same everywhere in the world.",
+   "(C) Wealthy countries have the highest child mortality rates.",
+   "(D) Vaccines had no effect on child survival, since immunization programs never reached the developing world at any point in the twentieth century."
+  ],
+  "explanation": "Child death is now rare in wealthy countries (below 0.5%) but still reaches 10–20% in parts of West and Central Africa, with South Asia in between: the great health gains of the modern era were real but distributed by wealth."
+ },
+ {
+  "id": "wh-vis-u9-038",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "Which conclusion is best supported by the chart?",
+  "stimulus": "Line chart, 1770–2023: each colored line traces a world region's life expectancy at birth. All lines rise, especially after 1900; the lowest line climbs the most, narrowing the gap between regions; around 2020 several lines dip briefly.",
+  "options": [
+   "(A) Life expectancy has been flat for most of human history, including the entire twentieth century, with no region on earth gaining more than a year or two since 1900.",
+   "(B) Life expectancy rose worldwide in the modern era, with the poorest regions gaining the most — though the dip around 2020 shows progress can be interrupted.",
+   "(C) Only wealthy regions saw any gains in life expectancy after 1900.",
+   "(D) The dip around 2020 was caused by declining birth rates."
+  ],
+  "explanation": "Every regional line climbs — most steeply after 1900 — and the lowest line gains the most, compressing the gap between regions: a story of global convergence in survival. The brief dip around 2020 (the COVID-19 pandemic) shows even long-run progress can be knocked back."
+ },
+ {
+  "id": "wh-vis-u9-039",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "stem": "The projections best support which claim about the future of population growth?",
+  "stimulus": "Line chart, 1800–2100, of the most populous countries (UN medium-fertility projection). India overtakes China around 2023 and peaks near 1.7 billion around 2060; China declines steeply to about 600 million by 2100; Nigeria climbs to about 450 million; Japan, Brazil, and others level off or decline.",
+  "options": [
+   "(A) China will remain the world's most populous country through 2100, staying well ahead of India and every other country in each decade shown in the projection.",
+   "(B) Every large country's population will keep growing through 2100.",
+   "(C) Future population growth will be concentrated in South Asia and Africa, while China's population is projected to shrink dramatically.",
+   "(D) Nigeria's population will surpass India's by 2050."
+  ],
+  "explanation": "The UN's medium-fertility projection shows India passing China around 2023 and peaking near 1.7 billion, China falling to about 600 million by 2100, and Nigeria surging to about 450 million: the demographic future belongs to South Asia and Africa, not East Asia."
+ },
+ {
+  "id": "wh-vis-u9-040",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "stem": "The trend shown best reflects which social change of the late twentieth century?",
+  "stimulus": "Line chart, 1975–2022: literacy rates of young men and women (ages 15–24) worldwide. Men's rate rises from about 84% to about 93%; women's from about 69% to about 90%, nearly closing a 15-point gap.",
+  "options": [
+   "(A) A decline in school attendance worldwide.",
+   "(B) The elimination of all gender differences in education by 1990, when girls' literacy caught up with boys' completely and the gap vanished forever.",
+   "(C) Literacy falling as digital media replaced reading.",
+   "(D) The massive expansion of schooling, especially for girls, narrowing the gender gap in basic education."
+  ],
+  "explanation": "In 1975 about 84% of young men but only 69% of young women could read and write; by 2022 both were around 90% — schooling expanded for everyone, but girls' gains were larger, nearly erasing the gap."
+ },
+ {
+  "id": "wh-vis-u9-041",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The scale of production shown best illustrates which feature of the late-twentieth-century economy?",
+  "stimulus": "Bar chart, 2015: global primary plastic production by polymer type, in millions of tonnes — polypropylene 68, LDPE 64, PP&A fibers 59, HDPE 52, PVC 38, PET 33, and others, totaling roughly 390 million tonnes.",
+  "options": [
+   "(A) The dependence of mass consumer culture on cheap, fossil-fuel-derived materials.",
+   "(B) The replacement of plastics by biodegradable materials by 2015, when eco-friendly substitutes had already taken over nearly the entire market.",
+   "(C) The decline of the petrochemical industry after 1980.",
+   "(D) That most plastic was produced from recycled material."
+  ],
+  "explanation": "Nearly 380 million tonnes of new plastic in a single year — led by polypropylene and polyethylene — shows an economy built on cheap petrochemicals: the material base of disposable consumer culture, and a mounting waste crisis."
+ },
+ {
+  "id": "wh-vis-u9-042",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The complex shown was built to house an institution created in 1945. Its role in the globalized era is best described as",
+  "stimulus": "Photograph: the United Nations headquarters in New York City — the glass Secretariat tower and the curved General Assembly building.",
+  "options": [
+   "(A) serving as a world government that directly rules member states, with the authority to overrule national governments and impose its own laws.",
+   "(B) providing a forum where states coordinate on peace, development, and shared problems like health and the environment.",
+   "(C) managing only military operations and nothing else.",
+   "(D) replacing all regional organizations such as the EU."
+  ],
+  "explanation": "The UN does not rule anyone: it is a membership organization whose agencies and forums coordinate responses to war, poverty, disease, and environmental threats — the institutional scaffolding of the globalized era."
+ },
+ {
+  "id": "wh-vis-u9-043",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "stem": "The event shown is most significant for the history of globalization because the end of the Cold War",
+  "stimulus": "Photograph, Berlin, November 1989: crowds stand atop the Berlin Wall at the Brandenburg Gate, waving signs reading 'OVER PEACE WEST & EAST.'",
+  "options": [
+   "(A) ended all international trade, closing borders worldwide and bringing the global exchange of goods to a complete standstill.",
+   "(B) caused the European Union to dissolve.",
+   "(C) opened Eastern Europe to market economies and accelerated the integration of the world economy in the 1990s.",
+   "(D) led to the immediate reunification of Korea."
+  ],
+  "explanation": "With the Cold War's end, the planned economies of Eastern Europe opened to markets and foreign investment, the EU expanded eastward, and the 1990s became the high-water mark of trade liberalization — the wall's fall is the symbolic starting gun."
+ },
+ {
+  "id": "wh-vis-u9-044",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "stem": "The test shown contributed most directly to which development of the Cold War era?",
+  "stimulus": "Photograph, November 1952: the mushroom cloud of the Ivy Mike test at Enewetak Atoll — the first hydrogen bomb, with a yield of 10.4 megatons.",
+  "options": [
+   "(A) The end of all nuclear weapons testing.",
+   "(B) The use of hydrogen bombs in the Korean War.",
+   "(C) A decline in military spending by both superpowers, who decided nuclear weapons were unnecessary and dismantled their arsenals after 1952.",
+   "(D) A nuclear arms race that made the threat of annihilation global, spurring arms-control efforts and international institutions."
+  ],
+  "explanation": "Ivy Mike — the first thermonuclear weapon, hundreds of times more powerful than the Hiroshima bomb — showed that a single weapon could now destroy a city entirely, making nuclear war a civilization-ending prospect and driving arms-control diplomacy."
+ },
+ {
+  "id": "wh-vis-u9-045",
+  "file": "build/visual-backfill/u9/batch-04.json",
+  "unit": 9,
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "stem": "The image best illustrates which feature of the world economy in the 1990s?",
+  "stimulus": "NASA composite of Earth's city lights, 1994–1995 (Defense Meteorological Satellite Program). North America, Europe, and Japan blaze with light; India and coastal China glow dimly; most of Africa is dark.",
+  "options": [
+   "(A) Starkly uneven development: electrification and urban wealth concentrated in North America, Europe, and Japan while much of Africa remained dim.",
+   "(B) That Africa had the world's largest and brightest cities in the 1990s, with its urban centers outshining those of North America, Europe, and Japan in the satellite image.",
+   "(C) Equal levels of electrification on every continent.",
+   "(D) That city lights measure population density rather than wealth."
+  ],
+  "explanation": "Night lights track electrification and urban economic activity: the bright belts of North America, Europe, and Japan versus the darkness over most of Africa visualize the development gap of the 1990s more vividly than any statistic."
+ }
+]

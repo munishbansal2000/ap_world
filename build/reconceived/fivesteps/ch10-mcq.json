@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "The memorial's economic charge is that monks and nuns produce nothing yet consume what farmers and silk-workers make — they 'wait for the farmers to feed them.' That argument only works if one assumes a proper social order requires every person to perform productive labor in their assigned role, the Confucian ideal of each fulfilling their station. (A) is wrong because Confucian political theory grounded legitimacy in moral governance, not in Buddhist ritual. (B) is wrong because the memorial demands monks return to productive life, not that they be taxed at higher rates. (D) is wrong because Confucianism concerned itself with social order and ritual propriety, not with banning religious belief as such.",
   "id": "wh-fivesteps-u1-006",
+  "skill_code": "2.A",
+  "topic_code": "1.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Confucian legitimacy rested on moral governance and the Mandate of Heaven, not on Buddhist ritual performance.",
@@ -35,6 +37,8 @@
   "difficulty": "hard",
   "explanation": "Beyond the economic drain, monasteries gathered thousands of followers whose primary loyalty ran to the Buddhist clergy rather than the throne, and they controlled vast tax-exempt estates — a parallel structure of wealth and allegiance outside imperial command. That made them a political rival, not merely an economic irritant. (A) is wrong because monks did not openly preach armed rebellion; the threat was structural. (B) is wrong because the Tang court was famously cosmopolitan, welcoming foreign merchants, religions, and customs. (D) is wrong because no Tang emperor sought to abandon the throne for the monastery.",
   "id": "wh-fivesteps-u1-007",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The memorial describes no open preaching of rebellion; the danger it depicts is structural, not insurrectionary.",
@@ -66,6 +70,8 @@
   "difficulty": "hard",
   "explanation": "Silla's tribute missions to Chang'an were the price of admission to the Chinese world order: by ritually acknowledging Chinese superiority, Silla secured access to Chinese markets, luxury goods, and diplomatic backing while running its own affairs — a mutually useful fiction of hierarchy. (A) is wrong because China withdrew its forces from Korea as part of the arrangement; no occupation sustained it. (B) is wrong because silk and porcelain technology flowed from China outward, not the reverse. (C) is wrong because Silla was the peninsular power seeking Chinese favor, not a raider of China's northern frontier.",
   "id": "wh-fivesteps-u1-008",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Chinese forces withdrew from Korea under the tribute arrangement; no military occupation maintained Chinese influence.",
@@ -98,6 +104,8 @@
   "difficulty": "hard",
   "explanation": "As Ashikaga shogunal authority decayed in the fifteenth century, lesser vassals and provincial deputies overthrew their own superiors and seized their domains — the age of gekokujo, 'the low overthrowing the high.' This produced the Sengoku daimyo, warlords who consolidated taxation and public works within their own territories. (B) is wrong because women lost, not gained, political standing in this era. (C) is wrong because the emperor remained a figurehead while real power devolved downward. (D) is wrong because Sino-Japanese relations were not defined by antagonism in this period.",
   "id": "wh-fivesteps-u1-009",
+  "skill_code": "1.A",
+  "topic_code": "1.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Gekokujo — inferiors overthrowing superiors — describes vassals seizing power from declining shogunal authority and ruling as regional warlords.",
@@ -129,6 +137,8 @@
   "difficulty": "medium",
   "explanation": "Song emperors elevated civil scholar-officials and distrusted the military, funding defense poorly and paying tribute to the Khitan Liao and later the Jurchen Jin to buy peace. That policy kept the dynasty culturally brilliant but militarily soft, so northern nomadic powers could eventually overwhelm it. (A) is wrong because famine-as-protest does not explain the Song's military collapse. (B) is wrong because the Delhi Sultanate, far to the southwest, did not blockade Song trade routes. (D) is wrong because the opium crisis belongs to the nineteenth century, not the Song.",
   "id": "wh-fivesteps-u1-010",
+  "skill_code": "1.B",
+  "topic_code": "1.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Peasant protest over land policy does not account for the Song's military vulnerability to nomadic conquest.",

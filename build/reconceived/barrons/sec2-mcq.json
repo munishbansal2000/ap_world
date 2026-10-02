@@ -1,6 +1,8 @@
 [
   {
     "id": "wh-barrons-u3-001",
+    "skill_code": "3.A",
+    "topic_code": "3.2",
     "source_id": "barrons-u3-001",
     "unit": 3,
     "stimulus": "A 17th-century Japanese manual for merchants urges readers to live honestly, honor their parents and relatives, treat everyone with courtesy, avoid selfishness, and never lie. It presents commerce as an activity that must be conducted within strict moral bounds, warning that profit pursued without virtue brings disgrace.\n\nThe hierarchy was borrowed from Confucian thought, which ranked occupations by their contribution to society: samurai, who governed, first; then peasants, who grew the food; then artisans, who made things; and last the merchants, who merely moved goods about for profit. In practice, Tokugawa Japan's long peace made merchants indispensable — samurai stipends paid in rice had to be converted to cash, and the great merchant houses of Osaka became the bankers of the warrior class — but the formal ranking never changed, whatever the balance of wealth.",
@@ -31,6 +33,8 @@
   },
   {
     "id": "wh-barrons-u3-002",
+    "skill_code": "4.A",
+    "topic_code": "3.4",
     "source_id": "barrons-u3-002",
     "unit": 3,
     "stimulus": "In 17th-century Japan, merchants sat at the bottom of the official social hierarchy — below samurai, peasants, and artisans — because Confucian thought regarded commerce as unproductive. Yet the same merchants grew rich financing the very samurai who outranked them, lending to indebted lords and dominating the rice and money markets of Osaka and Edo.\n\nThe difference shaped two societies. In Europe, wealthy merchants bought titles, married into the nobility, and eventually helped make revolutions — the Dutch and English bourgeoisie claimed political power outright. In Japan, a merchant's money could buy comfort but not status: sumptuary laws restricted what merchants might wear and how grandly they might build, lest their wealth embarrass their social betters. Influence had to be exercised quietly, through loans and ledgers rather than titles and offices.",
@@ -61,6 +65,8 @@
   },
   {
     "id": "wh-barrons-u3-003",
+    "skill_code": "2.A",
+    "topic_code": "3.1",
     "source_id": "barrons-u3-003",
     "unit": 3,
     "stimulus": "A 17th-century Japanese manual for merchants urges readers to live honestly, honor their parents, avoid selfishness and ostentation, and accumulate wealth quietly through thrift and modesty — never through aggressive self-promotion or ruthless dealing.\n\nThe manual belongs to a whole genre of Tokugawa merchant writings — house codes and business maxims — that tried to give commerce a moral foundation. Their solution was to redefine the merchant's work in Confucian terms: profit honestly earned through diligence and frugality was not greed but a kind of service, sustaining one's household and fulfilling one's duties to family and community. The merchant could be virtuous precisely by being a good merchant — thrifty, honest, and unostentatious. The manual's moralizing, then, was not hypocrisy but strategy: a way to make peace between the demands of profit and the demands of honor in a society that officially despised both.",
@@ -91,6 +97,8 @@
   },
   {
     "id": "wh-barrons-u3-004",
+    "skill_code": "1.A",
+    "topic_code": "3.1",
     "source_id": "barrons-u3-004",
     "unit": 3,
     "stimulus": "An illustration from the Baburnama — the memoirs of Babur, founder of the Mughal dynasty — depicts his 1526 victory at the Battle of Panipat over the Sultan of Delhi. Babur's smaller force used field artillery and musketeers, weapons still new to Indian warfare.",
@@ -121,6 +129,8 @@
   },
   {
     "id": "wh-barrons-u3-005",
+    "skill_code": "2.A",
+    "topic_code": "3.1",
     "source_id": "barrons-u3-005",
     "unit": 3,
     "stimulus": "The Baburnama illustrations were painted in the imperial workshop of Akbar — Babur's grandson — decades after the events they depict. Court artists produced them as part of a lavish illustrated copy of the founder's memoirs, made for the emperor's library.",
@@ -151,6 +161,8 @@
   },
   {
     "id": "wh-barrons-u3-006",
+    "skill_code": "5.A",
+    "topic_code": "3.3",
     "source_id": "barrons-u3-006",
     "unit": 3,
     "stimulus": "Babur wrote his memoirs in Chagatai Turkic, the language of his Central Asian homeland. A generation later, his grandson Akbar's court conducted administration in Persian, the prestigious literary language of Islamic civilization, while ruling a largely non-Muslim Indian population.",
@@ -181,6 +193,8 @@
   },
   {
     "id": "wh-barrons-u4-001",
+    "skill_code": "5.A",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-001",
     "unit": 4,
     "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nThe description inverts the traditional story of inevitable European dominance. In the 1600s, the Dutch at New Amsterdam and the English at Jamestown and Plymouth depended on Indigenous trade, Indigenous food, and Indigenous alliances for survival — and Indigenous nations played the rival colonies against each other. European power in North America was, for most of the century, a marginal affair conducted on Indigenous terms.",
@@ -211,6 +225,8 @@
   },
   {
     "id": "wh-barrons-u4-002",
+    "skill_code": "2.A",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-002",
     "unit": 4,
     "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nOlder histories told the colonial story from the colonists' viewpoint: Europeans acting, Indigenous peoples reacting. Since the 1980s, ethnohistorians — Richard White's 'middle ground' is the landmark study — have reconstructed the encounter as a negotiation between powers, in which Native nations were often the stronger party. The passage's language of European weakness and Indigenous primacy is the signature of that revisionist turn.",
@@ -241,6 +257,8 @@
   },
   {
     "id": "wh-barrons-u4-003",
+    "skill_code": "2.C",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-003",
     "unit": 4,
     "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nThe author's case rests on evidence of Indigenous leverage: the fur trade's dependence on Native hunters and middlemen, the colonists' reliance on Native food in early years, and the diplomatic record showing Native nations extracting concessions from competing European powers. Archaeology has added its own testimony — the scale and sophistication of pre-contact Native societies — undermining the older image of a sparsely peopled wilderness awaiting European energy.",
@@ -271,6 +289,8 @@
   },
   {
     "id": "wh-barrons-u3-007",
+    "skill_code": "5.A",
+    "topic_code": "3.4",
     "source_id": "barrons-u3-007",
     "unit": 3,
     "stimulus": "Two travelers describe royal courts they visited in the 1500s. One, a North African writing in Italy, describes the king of Timbuktu's magnificent, well-ordered court, where visitors must kneel and bow before the king. The other, a Habsburg ambassador, describes the Ottoman sultan's court in similar terms of elaborate ceremony and strict protocol around the ruler's person.\n\nThe two authors could hardly have differed more. The first was Leo Africanus — born al-Hasan al-Wazzan in the Muslim world, captured by Christian corsairs, presented to Pope Leo X, baptized, and set to describing Africa for Italian readers. The second was Ogier de Busbecq, the Habsburg emperor's ambassador to the court of Süleyman the Magnificent, writing letters home to friends in the Netherlands. Each described wonders his readers had never seen — and each, inevitably, translated what he saw into terms his readers would recognize, filtering foreign courts through familiar categories. Historians now read such accounts the way the authors' contemporaries could not — not as transparent windows onto foreign courts, but as documents of the encounter itself, shaped as much by the traveler's baggage as by what he witnessed.",
@@ -301,6 +321,8 @@
   },
   {
     "id": "wh-barrons-u3-008",
+    "skill_code": "2.B",
+    "topic_code": "3.4",
     "source_id": "barrons-u3-008",
     "unit": 3,
     "stimulus": "The first author was born a Muslim in North Africa, was captured and taken to Italy, converted to Christianity, and wrote his description of Timbuktu in Italian for a European readership. His account mixes admiration for the city's learning and order with matter-of-fact notes on practices — such as the enslavement of captives — that might disturb his readers.\n\nHis 'Description of Africa' (1526) became Europe's standard reference on the continent for two centuries — which is why modern historians handle it with care. It is among the earliest detailed accounts of Timbuktu's wealth, scholarship, and trade, and it is irreplaceable. But it was written by a North African Muslim turned Christian convert in Rome, explaining his former world to patrons who had never left Italy. What he emphasized, what he softened, and what he left out all bear the marks of that in-between position: admiration for Islamic learning sits alongside notes, offered almost in passing, on practices his readers would find disturbing. The lesson for historians is a general one: the most valuable sources are often those written from inside two worlds at once — and those are precisely the sources that must be read with the author's divided loyalties in mind.",
@@ -331,6 +353,8 @@
   },
   {
     "id": "wh-barrons-u3-009",
+    "skill_code": "2.A",
+    "topic_code": "3.1",
     "source_id": "barrons-u3-009",
     "unit": 3,
     "stimulus": "The Habsburg ambassador to the Ottoman court wrote disapprovingly of the sultan's haughty manner — yet he expressed open admiration for one Ottoman practice: that men of humble birth could rise to the highest offices through talent and service, unlike in his own empire, where noble birth decided nearly everything.\n\nBusbecq spelled out the contrast for his readers at home: in the Ottoman Empire, he wrote, a man was judged by his merit, so that 'those who hold the highest offices' had often risen from shepherds' huts — while in his own world, birth decided everything and talent went begging. His favorite example was Ibrahim Pasha, the shepherd's son who became Süleyman's grand vizier. Whether the Ottoman system was quite as open as Busbecq claimed is debated — the devshirme levy that fed it was itself a form of bondage — but his admiration reveals as much about Habsburg frustrations with hereditary privilege as about Ottoman realities. The devshirme system behind the meritocracy — the periodic levy of Christian boys, converted to Islam and trained for imperial service — complicates the admiring picture: mobility purchased, for some, at the price of freedom.",

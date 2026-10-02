@@ -1,6 +1,8 @@
 [
   {
     "id": "wh-barrons-u5-001",
+    "skill_code": "4.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-001",
     "unit": 5,
     "stimulus": "Writing in exile in 1815, Simón Bolívar reflected on the future of Spanish America: 'We are a young people... we are, moreover, neither Indian nor European, but a species midway between the legitimate proprietors of this country and the Spanish usurpers.' He struggled to say what form of government such a people could sustain.\n\nThe uncertainty was practical, not just philosophical. Bolívar had seen the first Venezuelan republic collapse into faction and caudillo rule, and he doubted that Spanish America's deeply divided societies — peninsulares, creoles, mestizos, Indigenous peoples, enslaved Africans — could sustain the federal democracies admired in the United States. His answer, eventually, was strong centralized authority: a president for life, a hereditary senate — proposals that alarmed the very liberals who had fought beside him.",
@@ -31,6 +33,8 @@
   },
   {
     "id": "wh-barrons-u5-002",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-002",
     "unit": 5,
     "stimulus": "In his 1815 'Jamaica Letter,' Simón Bolívar denounced Spain's commercial treatment of its American colonies: they were forbidden to trade with any nation but Spain, forced to buy Spanish goods at Spanish prices, and barred from developing their own industries.\n\nThe system was mercantilism applied across an ocean. Colonial ports could legally receive only Spanish ships; colonists could sell their produce — cacao, sugar, hides — only to Spanish merchants, who resold European manufactures at monopoly prices. Smuggling flourished everywhere — the British and Dutch Caribbean lived off it — but the legal structure funneled colonial wealth to Seville and Cádiz, and colonial grievance with it.",
@@ -61,6 +65,8 @@
   },
   {
     "id": "wh-barrons-u5-003",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-003",
     "unit": 5,
     "stimulus": "After winning independence for much of northern South America, Simón Bolívar attempted to hold the liberated territories together in a single large republic — Gran Colombia, founded in 1819. Within a decade of his death in 1830, it had broken apart into Venezuela, Colombia, and Ecuador.\n\nThe project collapsed almost as soon as its author died. Regional caudillos — Páez in Venezuela, Flores in Ecuador, Santander in New Granada — pulled their territories out of the union, and by 1831 Gran Colombia was three states. Bolívar died in December 1830, reportedly disillusioned, having watched the continent he liberated fracture along the lines of its colonial administrations and strongmen's ambitions.",
@@ -91,6 +97,8 @@
   },
   {
     "id": "wh-barrons-u6-001",
+    "skill_code": "4.B",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-001",
     "unit": 6,
     "stimulus": "A painting commemorates the 1896 Battle of Adowa, where Ethiopian forces defeated an Italian invasion. Ethiopia's emperor Menelik II had spent years stockpiling modern rifles and artillery and managed to unite Ethiopia's regional armies — perhaps 100,000 strong — for the battle.",
@@ -121,6 +129,8 @@
   },
   {
     "id": "wh-barrons-u6-002",
+    "skill_code": "2.B",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-002",
     "unit": 6,
     "stimulus": "An Ethiopian painting of the 1896 Battle of Adowa, completed in the 1940s, shows the victorious Ethiopian army in a style resembling religious icons, with Saint George floating above the battle. The 1940s were the years of Italy's second invasion and occupation of Ethiopia (1936–1941).",
@@ -151,6 +161,8 @@
   },
   {
     "id": "wh-barrons-u6-003",
+    "skill_code": "1.B",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-003",
     "unit": 6,
     "stimulus": "By 1914, only two African states had avoided European colonization: Ethiopia, which defeated Italy at Adowa in 1896, and Liberia, a small West African republic. The two countries' paths to independence could hardly have been more different.",
@@ -181,6 +193,8 @@
   },
   {
     "id": "wh-barrons-u6-004",
+    "skill_code": "1.B",
+    "topic_code": "6.5",
     "source_id": "barrons-u6-004",
     "unit": 6,
     "stimulus": "In the early 1800s, Britain bought enormous quantities of Chinese tea, silk, and porcelain — but China bought almost nothing from Britain in return. Silver flowed steadily east to pay for the difference, draining British coffers.",
@@ -211,6 +225,8 @@
   },
   {
     "id": "wh-barrons-u6-005",
+    "skill_code": "4.A",
+    "topic_code": "6.5",
     "source_id": "barrons-u6-005",
     "unit": 6,
     "stimulus": "Before the Opium Wars, all legal European trade with China funneled through a single port — Guangzhou (Canton) — where a licensed guild of Chinese merchants, the Cohong, handled every transaction with foreigners.",
@@ -241,6 +257,8 @@
   },
   {
     "id": "wh-barrons-u6-006",
+    "skill_code": "1.A",
+    "topic_code": "6.5",
     "source_id": "barrons-u6-006",
     "unit": 6,
     "stimulus": "After losing the Opium Wars of the 1840s and 1850s, China signed a series of 'unequal treaties' with Britain, France, and other powers. Foreigners in the treaty ports lived under their own laws, foreign warships patrolled Chinese rivers, and China lost control of its own tariff rates.",
@@ -271,6 +289,8 @@
   },
   {
     "id": "wh-barrons-u6-007",
+    "skill_code": "2.A",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-007",
     "unit": 6,
     "stimulus": "A mid-1800s Japanese writer complained that the shogun's government no longer enforced the law requiring 'barbarian ships' to be driven from Japan's coasts: 'Now the English regularly appear and anchor off our shores, and we do not lift a finger to drive them away. Will the barbarians have any respect for our laws?' Men who thought this way — the sonnō jōi ('revere the emperor, expel the barbarian') movement — would help topple the shogunate within a decade, though the Japan they built kept the Western guns they had once denounced.",
@@ -301,6 +321,8 @@
   },
   {
     "id": "wh-barrons-u6-008",
+    "skill_code": "4.A",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-008",
     "unit": 6,
     "stimulus": "A mid-1800s Japanese writer warned that if Japan kept yielding to Western demands, it would lose the respect of foreigners and the independence of the nation. Japanese readers of the time watched with alarm as China — defeated in the Opium Wars — was forced to open treaty ports and grant foreigners legal immunity. China's fate was the cautionary tale Japanese writers returned to again and again: a great civilization reduced to 'carving the melon' among the powers, its sovereignty shredded by treaties it had signed at gunpoint.",
@@ -331,6 +353,8 @@
   },
   {
     "id": "wh-barrons-u6-009",
+    "skill_code": "1.A",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-009",
     "unit": 6,
     "stimulus": "After 1868, Japan's new Meiji government abolished the Tokugawa shogunate, sent students and missions abroad to study Western institutions, built railways and telegraphs, created a conscript army with modern rifles, and opened state-sponsored factories.\n\nThe slogan of the new regime was 'rich country, strong army' — and the program was breathtaking in scope: the feudal domains were abolished and replaced with prefectures, the samurai class was disarmed and pensioned off, universal education was decreed, and a constitution was eventually granted. Within a generation, the country that had been bullied into opening its ports defeated China (1895) and Russia (1905) in war — the first Asian power to beat European empires at their own game.",

@@ -1,0 +1,589 @@
+[
+ {
+  "id": "wh-fivesteps-u7-011",
+  "batch": "batch-03",
+  "fields": {
+   "topic": {
+    "first": "7.4",
+    "recheck": "7.1",
+    "first_rationale": "Uses the concealed 1932-33 famine to refute the chart's triumphant narrative -> evidence refuting a source's argument (3.D); interwar Soviet economy (7.4).",
+    "recheck_rationale": "Stem asks what major event Stalin's triumphant 1939 chart conceals; answer uses the 1932-33 collectivization famine to refute/modify the source's narrative of socialist triumph. Explaining how evidenc"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 7,
+  "stem": "Stalin presented this chart in 1939 to show rising agricultural output from 1933 to 1937. What major event does the chart's triumphant narrative conceal?",
+  "stimulus": "The chart, from Stalin's 1939 'Report on Work of the Central Committee,' plots rising Soviet production of grain, cotton, flax, sugar beets, and oilseeds across the years 1933-1937.",
+  "options": [
+   "(A) A bumper harvest in every year from 1933 to 1937 across all regions",
+   "(B) The 1932-33 famine that killed millions during collectivization",
+   "(C) The German invasion of 1941",
+   "(D) Nothing; the period was uneventful"
+  ],
+  "explanation": "The chart's rising curves tell a story of socialist triumph, but the years of collectivization, 1932-33, brought one of history's worst famines, killing millions in Ukraine and Kazakhstan. Stalin's statistics trumpet recovery while erasing the catastrophe that preceded it."
+ },
+ {
+  "id": "wh-fivesteps-u7-021",
+  "batch": "batch-03",
+  "fields": {
+   "skill": {
+    "first": "2.A",
+    "recheck": "2.B",
+    "first_rationale": "Asks what psychological tactic blaming 'your superiors' is -> identifies the tactic (wedge between soldiers and officers) (2.A); WWII propaganda (7.7).",
+    "recheck_rationale": "Stem asks what psychological tactic the Japanese broadcast's blame of 'your superiors' represents; answer explicates the purpose (driving a wedge between soldiers and officers to erode discipline). Ex"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 7,
+  "stem": "The broadcast repeatedly blames 'your superiors' for sending GIs to die in a hopeless attack. What psychological tactic is this?",
+  "stimulus": "Paraphrase of a Japanese WWII English-language radio broadcast to American troops: Hello, Yankee brothers. This is your Japanese sister, the Voice of Truth. This morning your superiors are sending you to attempt the impossible, for you cannot dislodge our forces. I am filled with sadness for you, thinking of the thousands of Japanese soldiers safe in caves and pillboxes your bombs cannot touch, reluctantly waiting to slaughter you. They bear you no ill will; they know what you attempt is futile. Why die for people who sit snug and secure 11,000 miles away?",
+  "options": [
+   "(A) Praising American commanders for their brilliant leadership and tactical genius in battle",
+   "(B) Driving a wedge between soldiers and their officers to erode discipline",
+   "(C) Encouraging enlistment",
+   "(D) Teaching infantry tactics"
+  ],
+  "explanation": "By blaming 'your superiors' for ordering a hopeless attack, the broadcast invites GIs to see their own officers, not the Japanese, as the enemy. Turning soldiers against their command corrodes the discipline armies need to fight."
+ },
+ {
+  "id": "wh-fivesteps-u8-003",
+  "batch": "batch-04",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks the most immediate human consequence of the 1947 Partition; explains mass migration and communal slaughter as the effect of decolonization in South Asia.",
+    "recheck_rationale": "Stem asks to name the most immediate human consequence of the 1947 Partition; a single-answer identification of an effect of a historical development. Parent skill matches (Developments and Processes,"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 8,
+  "stem": "Partition created Pakistan in 1947. What was its most immediate human consequence?",
+  "stimulus": "",
+  "options": [
+   "(A) Immediate peaceful prosperity in both new states",
+   "(B) Reunification of India and Pakistan within a decade under a single government",
+   "(C) Mass communal violence and the displacement of some 15 million people",
+   "(D) British troops remaining to keep order"
+  ],
+  "explanation": "Drawing the border between India and Pakistan uprooted some 15 million people and unleashed communal slaughter in which hundreds of thousands died — the largest mass migration in human history and one of its bloodiest partitions. (A) is wrong because partition brought violence and chaos, not immediate prosperity. (B) is wrong because India and Pakistan did not reunify; they fought wars instead. (D) is wrong because British troops withdrew rapidly; no British force stayed to keep order."
+ },
+ {
+  "id": "wh-fivesteps-u8-013",
+  "batch": "batch-04",
+  "fields": {
+   "topic": {
+    "first": "8.7",
+    "recheck": "8.5",
+    "first_rationale": "Asks why the 1994 all-race election was world-historical; explains the ballot-box dismantling of white minority rule.",
+    "recheck_rationale": "'Why was this a world-historical event?' asks for an explanation of the 1994 election's significance, not mere identification; the Sharpeville poem is context, the answer explains the development. Uni"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 8,
+  "stem": "In 1994 South Africa held its first election open to all races, and Nelson Mandela became president. Why was this a world-historical event?",
+  "stimulus": "Paraphrase of Dennis Brutus's 1973 poem on Sharpeville (1960): Black South Africans gathered unarmed before police stations to protest the pass laws, and at Sharpeville police fired into the crowd. What matters, the poet says, is not the seventy dead, nor even that they were shot in the back while fleeing, but that the day laid bare the nature of the society: racial dominance defined, the will to oppress demonstrated. What the world whispers, apartheid declares with guns.",
+  "options": [
+   "(A) It established apartheid",
+   "(B) Mandela lost the election",
+   "(C) White South Africans boycotted the vote, refusing to accept majority rule",
+   "(D) It peacefully ended white minority rule through the ballot box"
+  ],
+  "explanation": "For the first time, South Africa's Black majority, 27 years after Sharpeville and after decades of struggle, chose its own government. Mandela's victory proved that entrenched white minority rule could be dismantled at the ballot box rather than only on the battlefield."
+ },
+ {
+  "id": "wh-fivesteps-u9-015",
+  "batch": "batch-04",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what a Shenzhen McDonald's illustrates; explains standardized global consumer culture.",
+    "recheck_rationale": "'What does a McDonald's in Shenzhen illustrate?' asks the student to identify the development the example exemplifies (global diffusion of standardized consumer culture). Topic 9.6 Globalized Culture."
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 9,
+  "stem": "Sociologists call the spread of identical standardized business models worldwide 'McDonaldization.' What does a McDonald's in Shenzhen, China, illustrate?",
+  "stimulus": "The illustration shows a McDonald's restaurant, golden arches and all, operating in Shenzhen, China.",
+  "options": [
+   "(A) The global diffusion of standardized American consumer culture",
+   "(B) China's total rejection of Western culture in favor of traditional local cuisine",
+   "(C) American corporate poverty relief",
+   "(D) The triumph of communism"
+  ],
+  "explanation": "A McDonald's in Shenzhen, identical in menu and golden arches to one in Ohio, shows consumer culture standardized across civilizations. The same brands, the same tastes, the same built environment: globalization made visible in a single restaurant."
+ },
+ {
+  "id": "wh-fresh-u2-001",
+  "batch": "batch-04",
+  "fields": {
+   "topic": {
+    "first": "2.4",
+    "recheck": "2.5",
+    "first_rationale": "Asks what Battuta's observations reflect about his situation; identifies his Moroccan jurist's lens on Mali's gold-trade world.",
+    "recheck_rationale": "Stem asks what the excerpt reflects about Ibn Battuta's historical situation; answer identifies him as a Muslim jurist judging societies by Islamic legal/scholarly norms. Topic leans 2.5 (cultural con"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 2,
+  "stem": "Ibn Battuta's observations in the excerpt most directly reflect which of the following about his historical situation?",
+  "stimulus": "Shared stimulus for items 001-003. Adapted from Ibn Battuta's account of his visit to the Mali Empire around 1352: 'The people are eager to memorize the Quran. The sultan punishes those who miss Friday prayer. At court, griots recite the deeds of past kings, and the sultan rewards them with gold. Yet I was shocked when the sultan's female cousins entered unveiled, for such mixing is forbidden by our law.'",
+  "options": [
+   "(A) He traveled as a Moroccan envoy to convert West Africans to Islam.",
+   "(B) He judged the societies he visited by the standards of Islamic law and scholarship.",
+   "(C) He wrote to entertain European readers with exotic African tales.",
+   "(D) He traveled as a merchant chasing profits in the gold trade."
+  ],
+  "explanation": "Ibn Battuta was a trained Muslim jurist, and the Rihla is his account of the wider Islamic world. His praise for Quranic learning and his shock at unveiled royal women show him measuring Mali against the legal and scholarly norms he carried from Morocco — what he notices and how he judges it are shaped by that identity."
+ },
+ {
+  "id": "wh-fresh-u3-021",
+  "batch": "batch-04",
+  "fields": {
+   "topic": {
+    "first": "3.4",
+    "recheck": "3.1",
+    "first_rationale": "Asks which expansion Qing expansion resembles; identifies the contiguous land-empire pattern shared with Russia.",
+    "recheck_rationale": "'Most similar to which of the following?' asks the student to identify the similarity/pattern among imperial expansions (Qing vs Russian contiguous land empire). Identification of a cross-empire patte"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 3,
+  "stem": "Qing expansion into Inner and Central Asia, shown on the map, is most similar to which of the following?",
+  "stimulus": "Map of the Qing Empire showing the stages of Manchu expansion to its greatest extent (by 1800), beyond the old Ming borders: Taiwan (occupied 1683), Inner and Outer Mongolia, Xinjiang, and Tibet. Korea, Burma, Tonking, Nepal, Siam, and Laos are shaded as tributary states.",
+  "options": [
+   "(A) Portuguese construction of fortified trading posts, naval bases, and customs houses along the coasts of Africa, India, and Southeast Asia.",
+   "(B) Dutch seizure of the Southeast Asian spice islands.",
+   "(C) Spanish establishment of missions in California.",
+   "(D) Russian expansion across Siberia to the Pacific, since both were land-based empires extending control over vast continental frontiers."
+  ],
+  "explanation": "Both the Qing and Russia grew as contiguous land empires, pushing military-agricultural frontiers outward to neutralize nomadic threats and claim resources — a different pattern from Europe's overseas coastal enclaves."
+ },
+ {
+  "id": "wh-fresh-u4-006",
+  "batch": "batch-04",
+  "fields": {
+   "topic": {
+    "first": "4.5",
+    "recheck": "4.4",
+    "first_rationale": "Asks which statement is best supported; the passage supports the VOC as a hybrid sovereign-company.",
+    "recheck_rationale": "'Which statement is best supported by the passage?' selects the claim the VOC passage's evidence supports (joint-stock hybrid of private capital and state-like power). VOC and maritime empire-building"
+   }
+  },
+  "skill_field": "Argumentation",
+  "unit_period": 4,
+  "stem": "Which of the following statements is best supported by the passage?",
+  "stimulus": "Chartered in 1602, the Dutch East India Company raised capital by selling shares to many investors. With that money it built forts, raised armies, signed treaties with Asian rulers, and minted its own coins — acting in many ways like a sovereign state while pursuing profit for its shareholders.",
+  "options": [
+   "(A) Joint-stock companies were purely commercial enterprises that raised capital for trade but never built forts, raised armies, or exercised any military power anywhere in Asia.",
+   "(B) Joint-stock companies blended private investment with state-like powers, letting European states project power in Asia at limited cost to the treasury.",
+   "(C) The Dutch East India Company was controlled and directed by Asian merchants.",
+   "(D) Joint-stock companies failed because European investors refused to buy their shares."
+  ],
+  "explanation": "The passage shows a company funded by private shareholders yet exercising sovereignty — armies, treaties, coinage. This hybrid let the Dutch state extend its reach in Asia through private capital and risk rather than direct royal expense."
+ },
+ {
+  "id": "wh-fresh-u5-029",
+  "batch": "batch-04",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what the Hidalgo-to-Iturbide sequence illustrates; explains elite capture of a popular uprising.",
+    "recheck_rationale": "'This sequence best illustrates which broader pattern?' asks the student to identify the broader pattern the Hidalgo-to-Iturbide sequence exemplifies (popular revolt opened the crisis; creole elites i"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 5,
+  "stem": "Hidalgo's revolt began as a mass peasant uprising, yet Mexican independence (1821) was finally secured by the creole officer Agustín de Iturbide. This sequence best illustrates which broader pattern?",
+  "stimulus": "Mexican broadside, 19th century: '¡Viva el cura Hidalgo! Una página de gloria' ('Long live Father Hidalgo! A page of glory'). An oval portrait shows Miguel Hidalgo, the parish priest of Dolores, in clerical dress; the text celebrates his September 1810 uprising for Mexican independence.",
+  "options": [
+   "(A) Indigenous peasants themselves personally led every Latin American independence movement to final military victory across the continent",
+   "(B) Popular revolts opened the crisis, but creole elites steered independence toward outcomes that preserved the social hierarchy",
+   "(C) Spain voluntarily granted Mexico independence after Hidalgo's speech",
+   "(D) Mexican independence immediately gave land to the peasants who fought for it"
+  ],
+  "explanation": "Hidalgo was captured and executed within a year, and his successor Morelos too. When independence finally came, it was Iturbide's conservative bargain with Spanish officials — keeping the army, the Church, and inequality intact. Hidalgo's popular uprising opened the crisis; the creole elite inherited its fruits."
+ },
+ {
+  "id": "wh-fresh-u5-039",
+  "batch": "batch-04",
+  "fields": {
+   "topic": {
+    "first": "5.5",
+    "recheck": "5.3",
+    "first_rationale": "Asks the best evidence for Watt's engine as enabling technology; location-independent rotary power is the evidence.",
+    "recheck_rationale": "Given the claim that Watt's engine was a key enabling technology of the IR, select the diagram evidence that best supports it — clear 3.B. Topic: chose 5.3 (Industrial Revolution Begins; steam engine "
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 5,
+  "stem": "A historian claims that Watt's engine was a key enabling technology of the Industrial Revolution. Which evidence best supports this claim?",
+  "stimulus": "Technical diagram of a Watt steam engine, c. 1780 (from an 1878 engineering history). Labeled parts show the cylinder, the great overhead beam, the flywheel, and the centrifugal governor that regulated its speed — the rotary-motion engine able to drive mill machinery anywhere, not only beside water or a coal mine.",
+  "options": [
+   "(A) The engine provided reliable rotary power independent of water or wind, letting factories locate in cities near workers and markets",
+   "(B) The engine was immediately used to build steam railroads across every continent in the 1770s, decades before Stephenson, even in Asia",
+   "(C) Watt's engine replaced all human workers in British factories",
+   "(D) The engine was powered by electricity, the era's newest energy source"
+  ],
+  "explanation": "Earlier power sources tied mills to fast rivers. A fuel-efficient steam engine freed factory location, which is why Manchester and Birmingham could grow around coal and labor rather than waterfalls. Watt's rotary-motion engine — cylinder, beam, and flywheel driving mill machinery anywhere — is exactly this location-independent power source."
+ },
+ {
+  "id": "wh-fresh-u5-044",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "6.A",
+    "recheck": "6.C",
+    "first_rationale": "Asks which argument the two excerpts (1789 Declaration, 1804 Napoleonic Code) together support about revolutionary universalism; making a defensible claim fits 6.A, and the French Revolution content f",
+    "recheck_rationale": "Stem asks which argument is supported by synthesizing two sources (Declaration of the Rights of Man vs Napoleonic Code). The work is using historical reasoning to relate the two excerpts to form a cla"
+   }
+  },
+  "skill_field": "Argumentation",
+  "unit_period": 5,
+  "stem": "Taken together, the two excerpts best support which argument about revolutionary universalism?",
+  "stimulus": "A) Declaration of the Rights of Man and of the Citizen (1789), Article 1: 'Men are born and remain free and equal in rights.' B) Napoleonic Code (1804), on marriage: 'The husband owes protection to his wife; the wife owes obedience to her husband.' A married woman could not own property, sign contracts, or seek divorce on the same terms as a man.",
+  "options": [
+   "(A) The Revolution achieved complete equality between women and men",
+   "(B) Women were entirely unaffected by the Revolution, positively or negatively",
+   "(C) The Napoleonic Code was written before the Revolution began and simply reflects the laws of the old regime without any changes",
+   "(D) 'Universal' rights were in practice gendered: 'man' and 'citizen' meant men, and the Code entrenched women's legal dependence"
+  ],
+  "explanation": "The Revolution spoke universally but legislated for men — women were denied the vote, Olympe de Gouges was executed, and the Code codified wifely obedience. The pairing shows how universalist language coexisted with, and even masked, the preservation of patriarchy."
+ },
+ {
+  "id": "wh-fresh-u5-054",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "5.A",
+    "recheck": "5.B",
+    "first_rationale": "Compares American and French revolutionary outcomes; identifying patterns across developments fits 5.A, and the revolutions fit 5.2.",
+    "recheck_rationale": "Stem directly compares outcomes of the American and French revolutions and asks how one development relates to another (different outcomes from shared Enlightenment starting points); topic is the revo"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 5,
+  "stem": "Comparing the outcomes of the American and French revolutions, which statement is best supported?",
+  "stimulus": "A) United States Declaration of Independence (1776): 'Governments are instituted among Men, deriving their just powers from the consent of the governed.' B) French Constitution of 1791 (paraphrased): France became a constitutional monarchy — the king kept executive power, but an elected Legislative Assembly made the laws, and active (taxpaying) male citizens could vote.",
+  "options": [
+   "(A) Both revolutions produced stable governments within a few years",
+   "(B) France copied the American Constitution exactly word for word and therefore got completely identical political results in every respect, including slavery",
+   "(C) Similar Enlightenment starting points produced sharply different outcomes: a durable American republic versus France's cycle of republic, Terror, and empire",
+   "(D) The United States experienced its own Reign of Terror in the 1790s"
+  ],
+  "explanation": "Both revolutions spoke the language of consent and rights, but France faced entrenched privilege, foreign war, and deeper social divisions, radicalizing its revolution. The comparison shows that ideas alone don't determine outcomes — social structure and circumstances shape what revolutions become."
+ },
+ {
+  "id": "wh-fresh-u7-009",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "5.A",
+    "recheck": "5.B",
+    "first_rationale": "Contrasts Wilson's proposed League with the nineteenth-century Concert of Europe; identifying patterns across developments fits 5.A, and postwar order-building fits 7.5.",
+    "recheck_rationale": "Stem compares Wilson's League proposal to the 19th-century Concert of Europe and asks how the two developments differ; topic is the post-1900 shift in international order (7.1 Shifting Power After 190"
+   },
+   "topic": {
+    "first": "7.5",
+    "recheck": "7.1",
+    "first_rationale": "Contrasts Wilson's proposed League with the nineteenth-century Concert of Europe; identifying patterns across developments fits 5.A, and postwar order-building fits 7.5.",
+    "recheck_rationale": "Stem compares Wilson's League proposal to the 19th-century Concert of Europe and asks how the two developments differ; topic is the post-1900 shift in international order (7.1 Shifting Power After 190"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 7,
+  "stem": "Wilson's proposed 'general association of nations' differed most significantly from the nineteenth-century Concert of Europe in that it:",
+  "stimulus": "President Woodrow Wilson, address to Congress, January 8, 1918: 'A general association of nations must be formed under specific covenants for the purpose of affording mutual guarantees of political independence and territorial integrity to great and small states alike.'",
+  "options": [
+   "(A) Depended on the same kind of secret treaties and closed-door diplomacy that the great powers had always used",
+   "(B) Excluded every European great power from membership in the organization",
+   "(C) Functioned primarily as a standing military alliance aimed at deterring a shared enemy",
+   "(D) Was designed as an open, rules-based body including small states, rather than informal great-power management"
+  ],
+  "explanation": "The Concert of Europe was informal great-power diplomacy that managed crises behind closed doors. The League was meant to be a formal institution with published covenants and small-state members — a new, institutional model of international order."
+ },
+ {
+  "id": "wh-fresh-u8-002",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "5.A",
+    "recheck": "5.B",
+    "first_rationale": "Connects India's and Ghana's varied paths to independence; identifying patterns across developments fits 5.A, and decolonization fits 8.5.",
+    "recheck_rationale": "Stem asks which connection is supported by the two cases (India 1947 and Ghana 1957) together: varied paths to independence within one broad wave of decolonization. Topic is decolonization (8.5 Decolo"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 8,
+  "stem": "The two cases together best support which of the following connections about decolonization?",
+  "stimulus": "India won independence from Britain in 1947 after mass campaigns and negotiations, though partition created Pakistan amid terrible violence. A decade later Ghana, led by Kwame Nkrumah's mass movement, became the first sub-Saharan African colony to win independence — an achievement celebrated across the continent as proof that colonial rule could be ended.",
+  "options": [
+   "(A) Decolonization occurred only in Africa.",
+   "(B) Both independence movements used exactly the same strategies, negotiated identical settlements with Britain, and achieved exactly the same results in the very same year without any differences.",
+   "(C) Britain granted independence to all of its colonies at the same time.",
+   "(D) Decolonization followed varied paths — negotiated transfer in India, mass-movement victory in Ghana — with each independence inspiring further anti-colonial movements."
+  ],
+  "explanation": "The passage deliberately contrasts two routes to independence — India's negotiated transfer with mass campaigns, and Ghana's movement-led victory a decade later — and notes Ghana's inspirational effect. Decolonization was one broad wave but not one single method."
+ },
+ {
+  "id": "wh-fresh-u9-003",
+  "batch": "batch-05",
+  "fields": {
+   "topic": {
+    "first": "9.5",
+    "recheck": "9.9",
+    "first_rationale": "Asks the best-supported argument about reforms meant to preserve a system hastening its collapse; making a defensible claim fits 6.A; same unit-9 constraint as the Gorbachev set, 9.5.",
+    "recheck_rationale": "Stem asks for the best-supported argument about Gorbachev's reforms (reforms meant to preserve the system hastened its collapse). Within the required Argumentation parent, 6.A fits. Topic constraint f"
+   }
+  },
+  "skill_field": "Argumentation",
+  "unit_period": 9,
+  "stem": "Which of the following is the best-supported argument about the reforms described in the stimulus?",
+  "stimulus": "In 1985 Mikhail Gorbachev became leader of the Soviet Union. His glasnost (openness) allowed freer speech and a freer press; his perestroika (restructuring) introduced limited private enterprise to revive a stagnant economy. The reforms were meant to strengthen socialism. Instead, newly free media exposed decades of failure, and nationalist movements in the Baltic republics and Central Asia demanded independence. By 1991 the Soviet Union had dissolved into fifteen independent states.",
+  "options": [
+   "(A) they prove that centrally planned economies always collapse within a decade of reform",
+   "(B) they show that nationalist movements were the sole cause of the Soviet collapse",
+   "(C) they demonstrate that economic reform inevitably produces democratic government",
+   "(D) they show that reforms meant to preserve a system can hasten its collapse by undermining its legitimacy"
+  ],
+  "explanation": "The stimulus stresses that Gorbachev intended to strengthen socialism, yet glasnost's exposure of failure and the nationalist mobilization it enabled destroyed the system's legitimacy instead. This supports the broader argument that top-down reforms can unintentionally accelerate the collapse they were meant to prevent."
+ },
+ {
+  "id": "wh-fresh-u9-013",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "5.B",
+    "recheck": "5.A",
+    "first_rationale": "Asks the connection between communications technology and protest organization (Tahrir Square); explaining how one development relates to another fits 5.B, and communications technology fits 9.1.",
+    "recheck_rationale": "Stem asks what the Tahrir Square report illustrates about the connection between communications technology and protest organization; the student identifies a connection between two developments. Topic"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 9,
+  "stem": "The report best illustrates the connection between communications technology and:",
+  "stimulus": "News report, Cairo, January 2011 (paraphrased): Thousands of young demonstrators filled Tahrir Square. Many held mobile phones aloft, recording the crowd and posting videos to social media as the protest unfolded.",
+  "options": [
+   "(A) the decline of all political protest in the 21st century",
+   "(B) the ability of protest movements to organize quickly and share events beyond state-controlled media",
+   "(C) government success in preventing citizens from communicating",
+   "(D) the end of television as a source of news, since broadcasters stopped covering politics entirely once mobile phones appeared"
+  ],
+  "explanation": "The report describes protesters holding mobile phones aloft to record the crowd and post videos themselves. This let movements coordinate rapidly and bypass state-controlled television and newspapers."
+ },
+ {
+  "id": "wh-fresh-u9-023",
+  "batch": "batch-05",
+  "fields": {
+   "topic": {
+    "first": "9.2",
+    "recheck": "9.5",
+    "first_rationale": "Asks what the AIDS activism campaigns contributed to (expanded access to lower-cost drugs); explaining a historical process fits 1.B, and disease fits 9.2.",
+    "recheck_rationale": "Stem asks what the 2000 Durban AIDS march campaign contributed most directly to; this is explaining the effect of a development/process (activist pressure producing access to lower-cost antiretroviral"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 9,
+  "stem": "Campaigns like the one described contributed most directly to:",
+  "stimulus": "News report, Durban, South Africa, 2000 (paraphrased): Thousands of marchers carried a giant red AIDS-awareness ribbon through the city, demanding that pharmaceutical companies and wealthy governments make antiretroviral drugs affordable in developing countries.",
+  "options": [
+   "(A) international pressure that helped expand access to lower-cost AIDS drugs in developing countries during the 2000s",
+   "(B) the immediate discovery of a cure for AIDS",
+   "(C) a ban on all international travel, as governments sealed their borders permanently to stop the movement of people and goods",
+   "(D) the end of the United Nations' health programs"
+  ],
+  "explanation": "Activists used rallies like this one to shame drug companies and rich governments over the price of antiretrovirals. The pressure helped produce generic production and global funding programs that brought treatment to millions in developing countries during the 2000s."
+ },
+ {
+  "id": "wh-princeton-pdf4-u6-011",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what the cartoon's irony depends on (a nation of immigrants practicing racial exclusion); explaining a historical development fits 1.B, and migration's effects fit 6.7.",
+    "recheck_rationale": "Stem asks what recognition makes the 1882 Chinese-exclusion cartoon ironic; the student identifies the historical concept (a nation built by immigrants practicing racial exclusion). Topic is the effec"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 6,
+  "stem": "The irony of the cartoon depends on the viewer recognizing that",
+  "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
+  "options": [
+   "(A) Chinese immigrants were among the wealthiest newcomers to the United States",
+   "(B) A nation built by immigrants closing its doors on racial grounds",
+   "(C) The statesman sincerely supported unrestricted immigration",
+   "(D) European immigrants faced exactly the same exclusion as the Chinese"
+  ],
+  "explanation": "The United States of 1882 was a country whose population had been built by successive waves of immigrants, and the cartoon shows newcomers of other nations streaming through the gate. Barring only the Chinese exposes the contradiction: a nation of immigrants practicing racial exclusion. The title, 'The Only One Barred Out,' drives the point home by showing that the line was drawn against one race alone."
+ },
+ {
+  "id": "wh-princeton-pdf4-u7-003",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what addressing 'young men and women' reflects (total-war mobilization); explaining a historical development fits 1.B, and conducting WWII fits 7.7.",
+    "recheck_rationale": "Stem asks which feature of WWII the poster's direct address to young men and women reflects; the student identifies the historical development (total war mobilizing entire populations). Topic is WWII "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 7,
+  "stem": "The poster's direct address to 'young men and women' reflects which of the following features of World War II?",
+  "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
+  "options": [
+   "(A) Mobilizing entire populations, women included, for total war",
+   "(B) The exclusion of women from all war-related work and service",
+   "(C) The Soviet ban on female soldiers",
+   "(D) A military draft that applied only to the elderly and infirm"
+  ],
+  "explanation": "World War II was a total war in which the line between the front and the home front disappeared. The Soviet Union mobilized women on an unprecedented scale: as factory workers replacing drafted men, as nurses and pilots, and in hundreds of thousands of cases as combat soldiers. Addressing 'young men and women' together was an honest reflection of how the whole society, both sexes, had been conscripted into the war effort."
+ },
+ {
+  "id": "wh-princeton-pdf4-u8-009",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks which broader development the anti-apartheid struggle belongs to (anti-colonial movements for self-determination); explaining a historical development fits 1.B, and decolonization fits 8.5.",
+    "recheck_rationale": "Stem asks which broader twentieth-century development the anti-apartheid struggle belongs to; the student identifies the development (anti-colonial movements for self-determination). Topic is decoloni"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 8,
+  "stem": "The struggle against apartheid described in the passage belongs to which of the following broader twentieth-century developments?",
+  "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+  "options": [
+   "(A) The expansion of European colonial empires in Africa and Asia",
+   "(B) Anti-colonial movements fighting for self-determination",
+   "(C) The rise of fascist movements in Europe in the 1930s",
+   "(D) The spread of absolute monarchies across the globe"
+  ],
+  "explanation": "The anti-apartheid struggle was part of the great twentieth-century wave in which colonized and racially oppressed peoples demanded freedom: African and Asian decolonization, the American civil rights movement, and campaigns against white-minority rule in Rhodesia and South Africa. Though South Africa was formally independent, its Black majority lived under a system the world increasingly judged as colonial in character."
+ },
+ {
+  "id": "wh-princeton-pdf5-u2-001",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what the copper-for-gold exchange illustrates (trans-Saharan trade); explaining a historical development fits 1.B, and trans-Saharan routes fit 2.4.",
+    "recheck_rationale": "Stem asks what Musa's account of copper-for-gold exchange most directly illustrates; the student identifies the development (the trans-Saharan trade circuit). Topic is the trans-Saharan trade routes ("
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 2,
+  "stem": "Musa's account of copper being carried south and exchanged for gold at two-thirds its weight most directly illustrates which of the following?",
+  "stimulus": "A traveler reported what Sultan Musa of Mali told him: at a certain town the sultan has a copper mine, from which ingots are carried to another town. 'There is nothing in my kingdom,' Musa said, 'on which a duty is levied except this crude copper that is brought in. Duty is collected on this and on nothing else. We send it to the land of the pagan Sudan and sell it for two-thirds of its weight in gold, so that we sell a hundred measures of copper for sixty-six and two-thirds measures of gold.' He added that there are pagan peoples in his kingdom from whom he does not collect the jizya, the tax on non-Muslims, but whom he simply employs in extracting gold from its deposits. The gold is dug from pits about a man's height in depth, found embedded in the sides of the pits or gathered at the bottom. — Al-Umari, Arab historian, writing about 1340",
+  "options": [
+   "(A) The trans-Saharan trade, in which West African gold was exchanged for goods brought from the north.",
+   "(B) Mali's military conquest of North African cities.",
+   "(C) Direct European control of West African mines through heavily fortified coastal trading forts in the 1300s.",
+   "(D) The collapse of the West African gold trade by 1340."
+  ],
+  "explanation": "The passage describes a working exchange circuit — northern copper traded southward for Sudanese gold at a stated rate — the classic trans-Saharan pattern by which Mali's wealth moved across the desert."
+ },
+ {
+  "id": "wh-princeton-pdf5-u4-002",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what Columbus's 'destitute of arms' description foreshadows (arguments for easy conquest); explaining a historical development fits 1.B, and exploration fits 4.2.",
+    "recheck_rationale": "Stem asks what Columbus's description of the islanders as unarmed most directly foreshadows; the student identifies the development it points to (Spanish arguments that conquest would be easy). Topic "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "Columbus's description of the islanders as 'destitute of arms' and 'timid and full of terror' most directly foreshadows which of the following?",
+  "stimulus": "On the island called Hispana there are very lofty and beautiful mountains, rich farms, groves, and fields, most fertile both for cultivation and for pasturage, and well suited for building. The harbors of this island, and the excellence of its rivers in volume and wholesomeness, surpass human belief unless one sees them. Its trees, pasturelands, and fruits differ greatly from those of Juana. Moreover, this Hispana abounds in various kinds of spices, gold, and metals. The inhabitants, as I said before, are unprovided with any sort of iron; they are destitute of arms, which are entirely unknown to them and unsuited to them — not on account of any bodily deformity, for they are well made, but because they are timid and full of terror. — Christopher Columbus, report of his first voyage, 1493",
+  "options": [
+   "(A) Spanish arguments that conquest would be easy because the native population could not resist.",
+   "(B) Spanish adoption of native Caribbean military tactics.",
+   "(C) Columbus's secret plan to arm the islanders as military allies in a future war against the rival Portuguese.",
+   "(D) A Spanish decision to avoid the island entirely."
+  ],
+  "explanation": "By stressing that the islanders lacked iron weapons and were fearful, Columbus signaled to his royal audience that the island could be taken with little risk — the premise of the conquest that followed."
+ },
+ {
+  "id": "wh-princeton-pdf5-u4-012",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks whose interests the treaty ignored (Indigenous peoples); explaining a historical development fits 1.B, and maritime empires established fit 4.4.",
+    "recheck_rationale": "Stem asks whose interests are most clearly ignored by the Treaty of Tordesillas division; the student identifies the concept (Indigenous peoples' sovereignty assumed away). Topic is the exploration-er"
+   },
+   "topic": {
+    "first": "4.4",
+    "recheck": "4.2",
+    "first_rationale": "Asks whose interests the treaty ignored (Indigenous peoples); explaining a historical development fits 1.B, and maritime empires established fit 4.4.",
+    "recheck_rationale": "Stem asks whose interests are most clearly ignored by the Treaty of Tordesillas division; the student identifies the concept (Indigenous peoples' sovereignty assumed away). Topic is the exploration-er"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "Which of the following groups' interests are most clearly ignored by the treaty's division of the world between Spain and Portugal?",
+  "stimulus": "To settle the controversy between their sovereigns over which lands, among all those discovered in the ocean sea up to the present day, belong to each side, and for the sake of peace and concord and the preservation of the love between the King of Portugal and the King and Queen of Castile and Aragon, their representatives have covenanted and agreed as follows. A boundary — a straight line — shall be determined and drawn north and south, from pole to pole, across the said ocean sea, from the Arctic to the Antarctic pole. This line shall be drawn straight at a distance of 370 leagues west of the Cape Verde Islands, calculated by degrees or by whatever method is judged best and readiest, provided the distance is no greater than stated. All lands, both islands and mainlands, already found and discovered, or to be found and discovered hereafter, lying on the eastern side of this line — whether reached by the King of Portugal or by his vessels — in either north or south latitude, provided the said line is not crossed, shall belong to, and remain forever in the possession of, the King of Portugal and his successors. And all other lands, both islands and mainlands, already found or to be found hereafter, discovered or to be discovered hereafter by the King and Queen of Castile and Aragon or by their vessels, lying on the western side of this line after passing it toward the west, in either north or south latitude, shall belong to, and remain forever in the possession of, the King and Queen of Castile and Leon and their successors. — Treaty of Tordesillas between Spain and Portugal, 1494",
+  "options": [
+   "(A) Spanish merchants seeking new markets.",
+   "(B) Portuguese navigators exploring the Atlantic and Indian Oceans.",
+   "(C) The papacy, which brokered the agreement.",
+   "(D) The Indigenous peoples whose lands were divided."
+  ],
+  "explanation": "The treaty carves up entire continents between two European crowns without any reference to the peoples already living there — their sovereignty is simply assumed away."
+ },
+ {
+  "id": "wh-princeton-pdf5-u6-005",
+  "batch": "batch-05",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what rallying around Bahadur Shah demonstrates (Mughal symbolic authority); explaining a historical development fits 1.B, and indigenous responses fit 6.3.",
+    "recheck_rationale": "Stem asks what the sepoys' rallying around Bahadur Shah Zafar most directly demonstrates; the student identifies the concept (the Mughal dynasty's symbolic authority as a focus of resistance). Topic i"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 6,
+  "stem": "During the 1857 uprising, rebel sepoys rallied around the Mughal emperor Bahadur Shah Zafar in Delhi. This decision most directly demonstrates which of the following?",
+  "stimulus": "Sunday, the 10th of May, dawned in peace and happiness. The early morning service at the cantonment church saw many assembled together, some never to meet on earth again. The day passed in quiet happiness; no thought of danger disturbed the serenity of that happy home. How differently closed the Sabbath that had dawned so tranquilly! We were on the point of going to the evening service when the disturbance commenced on the native parade ground. Shots and volumes of smoke told of what was going on: our servants begged us not to show ourselves and urged the necessity of closing our doors, as the mob was approaching. My husband, after loading his arms, took me to the terrace on top of the house; two of our countrywomen also took refuge with us to escape the rebels' bullets. Just at this moment an officer of the 3rd Cavalry galloped up at full speed, having dashed through the mutinous troops, fired at on all sides, to give us notice of the danger. — Elisa Greathed, a British resident of Meerut, describing the outbreak of the Indian uprising, May 1857",
+  "options": [
+   "(A) The emperor's personal command of rebel military operations.",
+   "(B) The Mughal dynasty's symbolic authority as a focus of anti-British resistance.",
+   "(C) British support for restoring full Mughal power.",
+   "(D) The emperor's success in converting the sepoys to a new religion of his own making."
+  ],
+  "explanation": "The aged, powerless emperor was proclaimed leader because the Mughal name still carried legitimacy — rebels needed a symbol around which Hindus and Muslims could unite against the British."
+ },
+ {
+  "id": "wh-princeton-pdf6-u2-002",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Explains what inland cities' prosperity demonstrates (cities prosper when connected to long-distance caravan routes).",
+    "recheck_rationale": "Stem asks what interior cities' prosperity demonstrates about trade networks; 'Identify a historical concept, development, or process' (role of trans-Saharan caravan routes). Question is squarely abou"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 2,
+  "stem": "Several major trading cities on the map, such as Timbuktu and the Hausa city-states, lie far from any ocean coast. What does their prosperity best demonstrate about African trade networks in this period?",
+  "stimulus": "Map: African trade centers, c. 1250-1600. In West Africa: the Ghana region, the Mali Empire (c. 1230s-1400s) with Timbuktu and the Hausa city-states, and the Songhai Empire (1460s-1591). The Sahara Desert lies to the north, crossed by caravan routes linking the Sahel to Mediterranean ports. In East and southern Africa: the Swahili city-states (1400s), including Mogadishu, Kilwa, and Sofala on the Indian Ocean coast, and Great Zimbabwe (1300s-1400s) in the interior. Also shown: the Red Sea, the Nile River, the Zambezi and Limpopo Rivers, and the Kalahari Desert. Trade routes connect gold-producing interior regions to both Saharan and Indian Ocean outlets.",
+  "options": [
+   "(A) Only cities on the Nile River could support large populations.",
+   "(B) Interior cities grew wealthy by deliberately cutting off all contact with foreign merchants and caravans.",
+   "(C) Coastal trade was unimportant compared with the Saharan trade.",
+   "(D) Inland cities could prosper when connected to long-distance caravan routes."
+  ],
+  "explanation": "Cities like Timbuktu sat at the southern end of trans-Saharan caravan routes. Their wealth shows that prosperity depended on connection to trade routes, not on being located on the coast."
+ }
+]

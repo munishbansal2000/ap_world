@@ -3,6 +3,8 @@
   "difficulty": "medium",
   "explanation": "Supplying and transporting crusader armies enriched Italian maritime cities such as Venice and Genoa, whose merchants provisioned fleets and moved goods between Europe and the Levant. That commercial wealth concentrated in towns, and later generations of wealthy urban patrons funded Renaissance artists and scholars. (A) is wrong because gunpowder reached Europe through Mongol-era contacts with China, not the Crusades. (B) is wrong because the Crusades expanded Mediterranean commerce rather than destroying it. (D) is wrong because papal taxation did not impoverish the crusading enterprise into irrelevance; the economic stimulus to Italian cities is well documented.",
   "id": "wh-fivesteps-u2-001",
+  "skill_code": "1.A",
+  "topic_code": "2.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Gunpowder technology came to Europe via Mongol-era transmission from China, not through crusader contact with the Middle East.",
@@ -34,6 +36,8 @@
   "difficulty": "medium",
   "explanation": "In cities such as Toledo, Christian, Muslim, and Jewish scholars worked side by side rendering Arabic translations of Greek philosophy, medicine, and astronomy into Latin, which carried classical learning into the rest of Europe. That collaborative translation effort is the mechanism behind the 'first Western Renaissance' label. (A) is wrong because Iberian society was not secularized; Islamic law and faith structured public life. (B) is wrong because the 1492 expulsions ended Muslim rule rather than characterizing it. (D) is wrong because a single imposed legal code would have hindered, not enabled, cross-cultural scholarly exchange.",
   "id": "wh-fivesteps-u2-002",
+  "skill_code": "1.A",
+  "topic_code": "2.5",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Islamic Spain was not a secular society; Islamic faith and law organized public life.",
@@ -65,6 +69,8 @@
   "difficulty": "hard",
   "explanation": "Early voyages sought trade routes and goods; as Europeans learned what the new lands contained, states and settlers moved to seize territory itself — its farmland, mines, and labor — because controlling land and labor yielded greater and more secure returns than merely trading at coastal posts. (A) is wrong because missionary work accompanied rather than replaced commerce; both motives persisted. (B) is wrong because European states expanded, not abandoned, their overseas commitments. (C) is wrong because technology enabled colonization but did not make it unnecessary; the motive was economic and political control.",
   "id": "wh-fivesteps-u2-003",
+  "skill_code": "1.A",
+  "topic_code": "2.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Religious conversion accompanied commerce throughout the early modern era; it did not replace trade as a motive.",

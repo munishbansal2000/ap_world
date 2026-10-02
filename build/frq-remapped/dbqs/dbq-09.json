@@ -51,7 +51,9 @@
   },
   {
    "date": "1936",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_183-R96374%2C_Berlin%2C_Olympiade%2C_Jesse_Owens_beim_Weitsprung.jpg",
+      "image_url": "assets/images/dbq/dbq-09-doc7.jpg",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_183-R96374%2C_Berlin%2C_Olympiade%2C_Jesse_Owens_beim_Weitsprung.jpg",
+   "image_local_verified": "2026-10-02",
    "kind": "image",
    "license": "CC BY-SA 3.0 (German Federal Archives, via Wikimedia Commons)",
    "n": 7,

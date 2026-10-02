@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "In 1894-95 Japan's modern conscript army and navy defeated Qing China, the 'mighty neighbor' that had dominated East Asia for centuries. The victory proved that four decades of Meiji reform — modern weaponry, a military bureaucracy, new governing structures, and mass schooling — had transformed a feudal society into a modern power. (A) is wrong because China did possess some modern arms; Japan's edge was institutional, not a Chinese vacuum. (C) is wrong because no European troops fought for Japan in this war. (D) is wrong because the war was fought over Korea; Taiwan was seized as a prize afterward, not the original cause.",
   "id": "wh-fivesteps-u5-001",
+  "skill_code": "1.A",
+  "topic_code": "5.4",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Qing China did possess some modern weaponry; Japan's advantage lay in its reformed institutions, not in facing an unarmed foe.",
@@ -35,6 +37,8 @@
   "difficulty": "hard",
   "explanation": "Fukoku kyohei meant building the economic and military muscle to stand up to the Western powers, end the humiliation of the unequal treaties, and keep Japan from suffering China's fate. Every Meiji reform — industry, conscription, education — served that defensive modernization. (B) is wrong because the Meiji reforms destroyed the shogunate rather than restoring it. (C) is wrong because Japan knew it could never supply all raw materials domestically; the goal was strength, not autarky. (D) is wrong because the Meiji state was oligarchic, not democratic.",
   "id": "wh-fivesteps-u5-002",
+  "skill_code": "1.A",
+  "topic_code": "5.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Industrial and military strength would let Japan resist Western domination and revise the unequal treaties.",
@@ -67,6 +71,8 @@
   "difficulty": "hard",
   "explanation": "Factories were useless without coal and iron reaching them and finished goods reaching buyers. Railroads stitched mines, mills, farms, and ports into single national markets, and because the upfront costs were enormous and returns slow, governments from Russia to Japan to the United States subsidized them. (A) is wrong because railroads were ultimately profitable; the issue was the scale of initial investment. (C) is wrong because freight, not tourism, was the economic engine of early railroads. (D) is wrong because governments subsidized railroads for economic and strategic reasons, not to employ aristocrats.",
   "id": "wh-fivesteps-u5-003",
+  "skill_code": "1.B",
+  "topic_code": "5.6",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Railroads were ultimately profitable; governments stepped in because the initial investment was too vast for private capital alone.",
@@ -99,6 +105,8 @@
   "difficulty": "hard",
   "explanation": "Smith's invisible hand is the claim that competition disciplines self-interest: each producer chasing profit must cut prices and improve quality to win customers, so the public gains better, cheaper goods without any official directing the process. (A) is wrong because the invisible hand is precisely the absence of any directing committee. (B) is wrong because Smith made no claim about businessmen's moral superiority; the mechanism works regardless of character. (C) is wrong because Smith opposed state confiscation of profits; the hand works through private gain, not charity.",
   "id": "wh-fivesteps-u5-004",
+  "skill_code": "1.B",
+  "topic_code": "5.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The invisible hand means no committee directs the market; the benefit emerges without official guidance.",
@@ -130,6 +138,8 @@
   "difficulty": "hard",
   "explanation": "As work moved from homes to factories and mines, middle-class ideology split life into two spheres: the competitive public world of men and the sheltered domestic world of women, whose proper role became wife and mother rather than wage earner. (A) is wrong because the ideal assigned factory and political life to men, not women. (C) is wrong because separate spheres reinforced gender distinctions rather than abolishing them. (D) is wrong because child labor was a separate industrial phenomenon, not the content of the separate-spheres ideal.",
   "id": "wh-fivesteps-u5-005",
+  "skill_code": "1.A",
+  "topic_code": "5.9",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The ideal assigned public work and politics to men; women were to remain in the home.",

@@ -43,7 +43,9 @@
   },
   {
    "date": "1957-1960s",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/British_Decolonisation_in_Africa.png",
+      "image_url": "assets/images/dbq/dbq-07-doc6.png",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/British_Decolonisation_in_Africa.png",
+   "image_local_verified": "2026-10-02",
    "kind": "map",
    "license": "Public domain (released by the author, Wikimedia Commons)",
    "n": 6,
@@ -54,7 +56,9 @@
   },
   {
    "date": "1945",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/United_Nations_Member_States-1945.png",
+      "image_url": "assets/images/dbq/dbq-07-doc7.png",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/United_Nations_Member_States-1945.png",
+   "image_local_verified": "2026-10-02",
    "kind": "map",
    "license": "Public domain (Wikimedia Commons)",
    "n": 7,

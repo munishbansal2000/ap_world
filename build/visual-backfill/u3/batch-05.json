@@ -1,6 +1,8 @@
 [
  {
   "id": "wh-vis-u3-041",
+  "skill_code": "3.A",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "Detail from Kneller's 1698 portrait of Peter the Great: in the background behind the tsar, several tall-masted sailing ships ride at anchor on the water.",
   "stimulus_words": 25,
@@ -30,11 +32,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sir_Godfrey_Kneller_%281646-1723%29_-_Peter_the_Great%2C_Tsar_of_Russia_%281672-1725%29_-_RCIN_405645_-_Royal_Collection.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-040.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sir_Godfrey_Kneller_%281646-1723%29_-_Peter_the_Great%2C_Tsar_of_Russia_%281672-1725%29_-_RCIN_405645_-_Royal_Collection.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-042",
+  "skill_code": "2.C",
+  "topic_code": "3.4",
   "unit": 3,
   "stimulus": "A 17th-century European engraving labeled 'DAIFU SAMA. Iaponiae Imperator' ('Daifu Sama, Emperor of Japan'): it shows a man in a turban-like headdress and ornate robes. 'Daifu-sama' was what Jesuit missionaries and European merchants called Tokugawa Ieyasu, founder of the Tokugawa shogunate \u2014 though the headdress looks more Ottoman than Japanese.",
   "stimulus_words": 50,
@@ -64,11 +70,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Daifu_Sama%2C_PA08073.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-042.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Daifu_Sama%2C_PA08073.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-043",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A formal Japanese portrait of Toyotomi Hideyoshi (Kodaiji Temple): he sits in elegant white imperial-court robes with a black cap, a sword at his side, with an inscription above recording his imperial court titles.",
   "stimulus_words": 34,
@@ -98,11 +108,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Toyotomi_Hideyoshi_%28Kodaiji%29.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-043.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Toyotomi_Hideyoshi_%28Kodaiji%29.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-044",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A modern photograph of the Yomeimon gate at the Toshogu shrine in Nikko: a two-story gate blazing with gold lacquer and hundreds of intricate carvings of dragons, lions, and sages. The shrine is the mausoleum of Tokugawa Ieyasu, whom the shogunate deified as Tosho Daigongen ('Great Deity of the East').",
   "stimulus_words": 50,
@@ -132,11 +146,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-044.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  },
  {
   "id": "wh-vis-u3-045",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "A modern photograph of Osaka Castle's main tower: a white, five-tiered tower with gold ornamentation rising above massive sloping stone walls. Toyotomi Hideyoshi built the original castle beginning in 1583 as the center of a unified Japan; the present tower is a 1931 reconstruction of the historic keep.",
   "stimulus_words": 48,
@@ -166,11 +184,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Osaka_Castle%2C_Main_Tower_%282850633888%29.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-045.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Osaka_Castle%2C_Main_Tower_%282850633888%29.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY 2.0"
  },
  {
   "id": "wh-vis-u3-046",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
   "unit": 3,
   "stimulus": "A 17th-century Japanese folding screen showing a bird's-eye view of Edo: the shogun's great castle complex dominates the city, surrounded by the mansions of daimyo, temples, and townspeople's districts, with gold clouds drifting above.",
   "stimulus_words": 34,
@@ -200,11 +222,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Edo_LEFT_SCREEN.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-046.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Edo_LEFT_SCREEN.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-047",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "A modern photograph of the Sankore Mosque in Timbuktu: massive mud-brick (adobe) walls, wooden beams protruding from the walls, and a tall pyramidal minaret-like tower topped with ostrich eggs. Under the Songhai Empire (especially Askia Muhammad, r. 1493-1528), its madrasa made Timbuktu a famed center of Islamic learning.",
   "stimulus_words": 48,
@@ -234,11 +260,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-047.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-048",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "Detail from the same Sankore Mosque: its walls are made of sun-dried mud bricks (banco), with palm-wood beams (toron) sticking out that serve as scaffolding for the annual re-plastering; the tower is crowned with ostrich eggs.",
   "stimulus_words": 36,
@@ -268,11 +298,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-047.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-049",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "A modern reference map of pre-colonial African states: the Songhai Empire is shown spanning the great bend of the Niger River in West Africa, with the cities of Timbuktu and Jenne-jeno inside its territory; the earlier Mali Empire lies to its west.",
   "stimulus_words": 42,
@@ -302,11 +336,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/African-civilizations-map-pre-colonial.svg",
+    "image_url": "assets/images/u3/wh-vis-u3-049.svg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/African-civilizations-map-pre-colonial.svg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 3.0"
  },
  {
   "id": "wh-vis-u3-050",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A modern photograph of the Tomb of Askia in Gao (Mali): a steep mud-brick pyramid, its walls studded with wooden beams, topped with an ostrich egg. Askia Muhammad (r. 1493-1528), who made the pilgrimage to Mecca, built it as his burial place.",
   "stimulus_words": 42,
@@ -336,7 +374,9 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-050.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 3.0"
  }
 ]

@@ -1,6 +1,8 @@
 [
  {
   "id": "wh-princeton-pdf4-u3-001",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
   "source_id": "princeton-pdf4-u3-01",
   "unit": 3,
   "stimulus": "In the name of God, let it be known to the judges and commanders of the Balkan provinces. Every fifth year the officers of the levy shall travel through the Christian villages and select the strongest and most promising boys between the ages of eight and fifteen. These youths shall be taken from their families, brought to the capital, and raised in the palace schools, where they shall learn the Turkish tongue, the discipline of arms, and the service of the sultan. They shall have no kin but the sultan, no inheritance but his favor, and no ambition beyond his service. From their ranks shall come the soldiers of the Janissary corps, the guardians of the palace, and the governors of provinces. Let no man hide his son from the levy, for the empire's strength rests upon these servants who owe everything to their master alone. Given at Edirne, in the third year of our reign.",
@@ -35,6 +37,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-002",
+  "skill_code": "2.C",
+  "topic_code": "3.2",
   "source_id": "princeton-pdf4-u3-02",
   "unit": 3,
   "stimulus": "In the name of God, let it be known to the judges and commanders of the Balkan provinces. Every fifth year the officers of the levy shall travel through the Christian villages and select the strongest and most promising boys between the ages of eight and fifteen. These youths shall be taken from their families, brought to the capital, and raised in the palace schools, where they shall learn the Turkish tongue, the discipline of arms, and the service of the sultan. They shall have no kin but the sultan, no inheritance but his favor, and no ambition beyond his service. From their ranks shall come the soldiers of the Janissary corps, the guardians of the palace, and the governors of provinces. Let no man hide his son from the levy, for the empire's strength rests upon these servants who owe everything to their master alone. Given at Edirne, in the third year of our reign.",
@@ -68,6 +72,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u4-001",
+  "skill_code": "1.B",
+  "topic_code": "4.3",
   "source_id": "princeton-pdf4-u4-03",
   "unit": 4,
   "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
@@ -102,6 +108,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u4-002",
+  "skill_code": "1.B",
+  "topic_code": "4.3",
   "source_id": "princeton-pdf4-u4-04",
   "unit": 4,
   "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
@@ -135,6 +143,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u4-003",
+  "skill_code": "1.B",
+  "topic_code": "4.3",
   "source_id": "princeton-pdf4-u4-05",
   "unit": 4,
   "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
@@ -168,6 +178,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u4-004",
+  "skill_code": "2.C",
+  "topic_code": "4.3",
   "source_id": "princeton-pdf4-u4-06",
   "unit": 4,
   "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
@@ -201,6 +213,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u5-001",
+  "skill_code": "4.A",
+  "topic_code": "5.1",
   "source_id": "princeton-pdf4-u1-07",
   "unit": 5,
   "stimulus": "Consider men as they would be without any common power to keep them in awe. Each man, being roughly equal to every other in strength and wit, has the same hope of attaining his ends, and therefore the same reason to fear his neighbor. From this equality of ability arises equality of hope, and from that, competition, distrust, and open war. In such a condition there is no industry, no trade, no navigation, and no knowledge of the earth, for the fruit of a man's labor is never secure. The life of man in this natural state is solitary, poor, nasty, brutish, and short, unless men agree together to lay down their private arms and submit themselves to one sovereign power.",
@@ -234,6 +248,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u5-002",
+  "skill_code": "1.B",
+  "topic_code": "5.1",
   "source_id": "princeton-pdf4-u5-08",
   "unit": 5,
   "stimulus": "Consider men as they would be without any common power to keep them in awe. Each man, being roughly equal to every other in strength and wit, has the same hope of attaining his ends, and therefore the same reason to fear his neighbor. From this equality of ability arises equality of hope, and from that, competition, distrust, and open war. In such a condition there is no industry, no trade, no navigation, and no knowledge of the earth, for the fruit of a man's labor is never secure. The life of man in this natural state is solitary, poor, nasty, brutish, and short, unless men agree together to lay down their private arms and submit themselves to one sovereign power.",
@@ -266,6 +282,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u5-003",
+  "skill_code": "1.B",
+  "topic_code": "5.1",
   "source_id": "princeton-pdf4-u5-09",
   "unit": 5,
   "stimulus": "Consider men as they would be without any common power to keep them in awe. Each man, being roughly equal to every other in strength and wit, has the same hope of attaining his ends, and therefore the same reason to fear his neighbor. From this equality of ability arises equality of hope, and from that, competition, distrust, and open war. In such a condition there is no industry, no trade, no navigation, and no knowledge of the earth, for the fruit of a man's labor is never secure. The life of man in this natural state is solitary, poor, nasty, brutish, and short, unless men agree together to lay down their private arms and submit themselves to one sovereign power.",
@@ -297,6 +315,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-001",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-10",
   "unit": 6,
   "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
@@ -331,6 +351,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-002",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-11",
   "unit": 6,
   "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
@@ -365,6 +387,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-003",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-12",
   "unit": 6,
   "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
@@ -399,6 +423,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-004",
+  "skill_code": "2.C",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-13",
   "unit": 6,
   "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
@@ -433,6 +459,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-005",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-14",
   "unit": 6,
   "stimulus": "My dear Margaret, I write in great anxiety from Pietermaritzburg. The insurance office refuses to cover my store against damage by the Queen's enemies, and I fear the farm at Umgeni will be ruined if the fighting spreads. Last week a party of Zulu warriors encamped within sight of the town, and several neighboring homesteads were stripped of cattle and grain. The government assures us that troops are on their way from England, yet we who live here must bear the losses meanwhile. I have instructed Mr. Hawkins to petition the colonial secretary for compensation, for it is intolerable that loyal subjects should be left to face these dangers without protection or recompense. Your affectionate brother, Thomas. Natal, March 1879.",
@@ -466,6 +494,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-001",
+  "skill_code": "1.B",
+  "topic_code": "8.4",
   "source_id": "princeton-pdf4-u8-15",
   "unit": 8,
   "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
@@ -499,6 +529,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-002",
+  "skill_code": "1.B",
+  "topic_code": "8.4",
   "source_id": "princeton-pdf4-u8-16",
   "unit": 8,
   "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
@@ -533,6 +565,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-003",
+  "skill_code": "1.A",
+  "topic_code": "8.4",
   "source_id": "princeton-pdf4-u8-17",
   "unit": 8,
   "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
@@ -568,6 +602,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-004",
+  "skill_code": "1.B",
+  "topic_code": "8.4",
   "source_id": "princeton-pdf4-u8-18",
   "unit": 8,
   "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
@@ -603,6 +639,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-006",
+  "skill_code": "5.B",
+  "topic_code": "6.4",
   "source_id": "princeton-pdf4-u6-19",
   "unit": 6,
   "stimulus": "An 1835 engraving shows the interior of an English textile mill: rows of large iron power looms clatter in a long hall, tended by women and children, with leather belts and iron shafts overhead driving every machine from a single central steam engine.",
@@ -635,6 +673,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-007",
+  "skill_code": "2.C",
+  "topic_code": "6.4",
   "source_id": "princeton-pdf4-u6-20",
   "unit": 6,
   "stimulus": "An 1835 engraving shows the interior of an English textile mill: rows of large iron power looms clatter in a long hall, tended by women and children, with leather belts and iron shafts overhead driving every machine from a single central steam engine.",
@@ -669,6 +709,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-003",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
   "source_id": "princeton-pdf4-u3-21",
   "unit": 3,
   "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
@@ -702,6 +744,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-004",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
   "source_id": "princeton-pdf4-u3-22",
   "unit": 3,
   "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
@@ -735,6 +779,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-005",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
   "source_id": "princeton-pdf4-u3-23",
   "unit": 3,
   "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
@@ -768,6 +814,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-006",
+  "skill_code": "1.A",
+  "topic_code": "3.4",
   "source_id": "princeton-pdf4-u3-24",
   "unit": 3,
   "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
@@ -800,6 +848,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u2-001",
+  "skill_code": "1.B",
+  "topic_code": "2.3",
   "source_id": "princeton-pdf4-u2-25",
   "unit": 2,
   "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
@@ -834,6 +884,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u2-002",
+  "skill_code": "1.B",
+  "topic_code": "2.3",
   "source_id": "princeton-pdf4-u2-26",
   "unit": 2,
   "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
@@ -869,6 +921,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u2-003",
+  "skill_code": "1.B",
+  "topic_code": "2.3",
   "source_id": "princeton-pdf4-u2-27",
   "unit": 2,
   "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
@@ -903,6 +957,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u2-004",
+  "skill_code": "1.B",
+  "topic_code": "2.3",
   "source_id": "princeton-pdf4-u2-28",
   "unit": 2,
   "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
@@ -937,6 +993,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-008",
+  "skill_code": "4.A",
+  "topic_code": "6.7",
   "source_id": "princeton-pdf4-u6-29",
   "unit": 6,
   "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
@@ -972,6 +1030,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-009",
+  "skill_code": "5.A",
+  "topic_code": "6.7",
   "source_id": "princeton-pdf4-u6-30",
   "unit": 6,
   "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
@@ -1005,6 +1065,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-010",
+  "skill_code": "1.B",
+  "topic_code": "6.6",
   "source_id": "princeton-pdf4-u6-31",
   "unit": 6,
   "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
@@ -1040,6 +1102,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-011",
+  "skill_code": "1.A",
+  "topic_code": "6.7",
   "source_id": "princeton-pdf4-u6-32",
   "unit": 6,
   "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
@@ -1073,6 +1137,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-007",
+  "skill_code": "1.B",
+  "topic_code": "3.3",
   "source_id": "princeton-pdf4-u3-33",
   "unit": 3,
   "stimulus": "To the ruler of Persia. The learned doctors of our faith, both those who reason from the law and those who follow tradition, are agreed that the extirpation of heresy is a duty laid upon the faithful. Your followers have abandoned the true path, seducing the believers of our eastern provinces with false doctrines and raising rebellion against rightful authority. The Prophet himself commanded that innovators be driven out. We have therefore resolved, after long patience, to take up arms, not from ambition, but in obedience to the divine command that error be rooted out wherever it appears. Prepare yourself, for we march against you. Selim, Sultan of the Ottomans, 1514.",
@@ -1105,6 +1171,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u3-008",
+  "skill_code": "1.B",
+  "topic_code": "3.3",
   "source_id": "princeton-pdf4-u3-34",
   "unit": 3,
   "stimulus": "To the ruler of Persia. The learned doctors of our faith, both those who reason from the law and those who follow tradition, are agreed that the extirpation of heresy is a duty laid upon the faithful. Your followers have abandoned the true path, seducing the believers of our eastern provinces with false doctrines and raising rebellion against rightful authority. The Prophet himself commanded that innovators be driven out. We have therefore resolved, after long patience, to take up arms, not from ambition, but in obedience to the divine command that error be rooted out wherever it appears. Prepare yourself, for we march against you. Selim, Sultan of the Ottomans, 1514.",
@@ -1138,6 +1206,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u7-001",
+  "skill_code": "1.B",
+  "topic_code": "7.5",
   "source_id": "princeton-pdf4-u6-35",
   "unit": 7,
   "stimulus": "To the ruler of Persia. The learned doctors of our faith, both those who reason from the law and those who follow tradition, are agreed that the extirpation of heresy is a duty laid upon the faithful. Your followers have abandoned the true path, seducing the believers of our eastern provinces with false doctrines and raising rebellion against rightful authority. The Prophet himself commanded that innovators be driven out. We have therefore resolved, after long patience, to take up arms, not from ambition, but in obedience to the divine command that error be rooted out wherever it appears. Prepare yourself, for we march against you. Selim, Sultan of the Ottomans, 1514.",
@@ -1172,6 +1242,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u7-002",
+  "skill_code": "1.B",
+  "topic_code": "7.7",
   "source_id": "princeton-pdf4-u7-36",
   "unit": 7,
   "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
@@ -1205,6 +1277,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u7-003",
+  "skill_code": "1.A",
+  "topic_code": "7.7",
   "source_id": "princeton-pdf4-u7-37",
   "unit": 7,
   "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
@@ -1238,6 +1312,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u7-004",
+  "skill_code": "1.B",
+  "topic_code": "7.7",
   "source_id": "princeton-pdf4-u7-38",
   "unit": 7,
   "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
@@ -1272,6 +1348,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-005",
+  "skill_code": "1.B",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-39",
   "unit": 8,
   "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
@@ -1304,6 +1382,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-006",
+  "skill_code": "1.B",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-40",
   "unit": 8,
   "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
@@ -1336,6 +1416,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-007",
+  "skill_code": "1.B",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-41",
   "unit": 8,
   "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
@@ -1369,6 +1451,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-008",
+  "skill_code": "2.A",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-42",
   "unit": 8,
   "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
@@ -1401,6 +1485,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-009",
+  "skill_code": "1.A",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-43",
   "unit": 8,
   "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
@@ -1433,6 +1519,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-012",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
   "source_id": "princeton-pdf4-u6-44",
   "unit": 6,
   "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
@@ -1465,6 +1553,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-013",
+  "skill_code": "1.A",
+  "topic_code": "6.4",
   "source_id": "princeton-pdf4-u6-45",
   "unit": 6,
   "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
@@ -1499,6 +1589,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-014",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
   "source_id": "princeton-pdf4-u6-46",
   "unit": 6,
   "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
@@ -1532,6 +1624,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-015",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
   "source_id": "princeton-pdf4-u6-47",
   "unit": 6,
   "stimulus": "The workingman's true grievance is not low wages but insecurity. He cannot be certain of keeping his employment from one year to the next; he cannot be certain of his health; and he knows that old age will one day rob him of the power to earn his bread. Should sickness or misfortune strike, he sinks into poverty, and society washes its hands of him. The ordinary poor-relief, especially in the great cities, is a disgrace. A man may have labored faithfully all his life, yet find himself helpless and abandoned. It is the duty of the state, therefore, to recognize an obligation toward those whose labor sustains it, and to provide by law for the sick, the injured, and the aged, lest desperation drive them into the arms of those who preach revolution.",
@@ -1566,6 +1660,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-016",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-48",
   "unit": 6,
   "stimulus": "The treaty signed at Shimonoseki in April 1895 ended the war between China and Japan over Korea. Its terms were a measure of Japan's triumph. China recognized the complete independence of Korea, ending centuries of Korean tribute to the Chinese throne. China ceded to Japan the island of Taiwan with all its dependencies, the Pescadores Islands, and the Liaodong Peninsula in southern Manchuria, together with all fortifications and arsenals upon them. In addition, China agreed to pay Japan a large war indemnity and to open four more treaty ports to Japanese trade. The settlement announced to the world that Japan, which had spent a generation building railways, factories, and a modern conscript army, could now defeat the Qing Empire in open war, and it set Japan upon the path of overseas empire in East Asia.",
@@ -1598,6 +1694,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-017",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-49",
   "unit": 6,
   "stimulus": "The treaty signed at Shimonoseki in April 1895 ended the war between China and Japan over Korea. Its terms were a measure of Japan's triumph. China recognized the complete independence of Korea, ending centuries of Korean tribute to the Chinese throne. China ceded to Japan the island of Taiwan with all its dependencies, the Pescadores Islands, and the Liaodong Peninsula in southern Manchuria, together with all fortifications and arsenals upon them. In addition, China agreed to pay Japan a large war indemnity and to open four more treaty ports to Japanese trade. The settlement announced to the world that Japan, which had spent a generation building railways, factories, and a modern conscript army, could now defeat the Qing Empire in open war, and it set Japan upon the path of overseas empire in East Asia.",
@@ -1632,6 +1730,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u6-018",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
   "source_id": "princeton-pdf4-u6-50",
   "unit": 6,
   "stimulus": "The treaty signed at Shimonoseki in April 1895 ended the war between China and Japan over Korea. Its terms were a measure of Japan's triumph. China recognized the complete independence of Korea, ending centuries of Korean tribute to the Chinese throne. China ceded to Japan the island of Taiwan with all its dependencies, the Pescadores Islands, and the Liaodong Peninsula in southern Manchuria, together with all fortifications and arsenals upon them. In addition, China agreed to pay Japan a large war indemnity and to open four more treaty ports to Japanese trade. The settlement announced to the world that Japan, which had spent a generation building railways, factories, and a modern conscript army, could now defeat the Qing Empire in open war, and it set Japan upon the path of overseas empire in East Asia.",
@@ -1665,6 +1765,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-010",
+  "skill_code": "4.A",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-51",
   "unit": 8,
   "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
@@ -1699,6 +1801,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-011",
+  "skill_code": "1.B",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-52",
   "unit": 8,
   "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
@@ -1733,6 +1837,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-012",
+  "skill_code": "1.B",
+  "topic_code": "8.6",
   "source_id": "princeton-pdf4-u8-53",
   "unit": 8,
   "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
@@ -1766,6 +1872,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-013",
+  "skill_code": "1.B",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-54",
   "unit": 8,
   "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
@@ -1799,6 +1907,8 @@
  },
  {
   "id": "wh-princeton-pdf4-u8-014",
+  "skill_code": "2.A",
+  "topic_code": "8.5",
   "source_id": "princeton-pdf4-u8-55",
   "unit": 8,
   "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",

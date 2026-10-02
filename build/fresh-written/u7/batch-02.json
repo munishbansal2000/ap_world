@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "The United States and Germany — linked by American loans that had propped up German recovery — fell furthest, while less exposed economies fell less. The uneven pattern shows a global economy bound together by credit and trade, so an American crisis became a world crisis.",
     "id": "wh-fresh-u7-010",
+    "skill_code": "6.A",
+    "topic_code": "7.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the table shows wide variation, from −46% to −23% — the impact was not equal.",
@@ -33,6 +35,8 @@
     "difficulty": "hard",
     "explanation": "The same global shock produced different results depending on prior conditions: Germany's fragile Weimar Republic collapsed under mass unemployment, opening the way for Hitler, while America's democratic institutions absorbed the shock through New Deal reform.",
     "id": "wh-fresh-u7-011",
+    "skill_code": "5.A",
+    "topic_code": "7.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: the United States, Britain, and France all retained democratic government through the 1930s.",
@@ -64,6 +68,8 @@
     "difficulty": "medium",
     "explanation": "In Depression-era Europe, many blamed weak parliaments for unemployment and national humiliation — especially in Germany after Versailles — and feared communist revolution. Fascism's promise of discipline, unity, and restored greatness spoke directly to those anxieties.",
     "id": "wh-fresh-u7-012",
+    "skill_code": "6.A",
+    "topic_code": "7.6",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: fascism attacked democracy and individual freedoms; it promised authority, not participation.",
@@ -95,6 +101,8 @@
     "difficulty": "medium",
     "explanation": "Despite opposite political systems, both states faced the same total-war problem: millions of men at the front and factories that still had to run. Both solved it by drawing women into industrial work.",
     "id": "wh-fresh-u7-013",
+    "skill_code": "5.A",
+    "topic_code": "7.7",
     "key": "A",
     "option_explanations": {
       "A": "Right: both appeals answer the same manpower crisis created by mass conscription in a total war.",
@@ -126,6 +134,8 @@
     "difficulty": "medium",
     "explanation": "The appeals are governments actively directing who works where — evidence that total war pushed states deep into managing labor and production, far beyond peacetime roles.",
     "id": "wh-fresh-u7-014",
+    "skill_code": "6.A",
+    "topic_code": "7.7",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the appeals themselves are state direction of labor — the opposite of leaving production to private business.",
@@ -157,6 +167,8 @@
     "difficulty": "hard",
     "explanation": "If ending the war were the only consideration, postwar diplomacy would not have entered the discussion. Evidence that planners weighed the bomb's effect on the Soviet Union shows additional motives were in play.",
     "id": "wh-fresh-u7-015",
+    "skill_code": "3.B",
+    "topic_code": "7.7",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: Japan had received a warning — the Potsdam Declaration in July 1945 demanded surrender or face destruction.",
@@ -188,6 +200,8 @@
     "difficulty": "hard",
     "explanation": "By stressing a 'revolutionary new destructive power' now held by the United States, the announcement signals that atomic weapons had become a factor in world politics — the starting point of deterrence, arms races, and Cold War diplomacy.",
     "id": "wh-fresh-u7-016",
+    "skill_code": "6.A",
+    "topic_code": "7.7",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: 'revolutionary new destructive power' explicitly marks the bomb as different from conventional weapons.",
@@ -219,6 +233,8 @@
     "difficulty": "hard",
     "explanation": "Versailles kept Germany whole but blamed and billed it, a settlement Germans resented yet could evade. After 1945 the Allies occupied and split Germany itself — control replaced punishment — and built a new collective-security body, the United Nations.",
     "id": "wh-fresh-u7-017",
+    "skill_code": "5.A",
+    "topic_code": "7.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: this describes Versailles (1919), not the post-1945 settlement — the map shows Germany divided, not unified.",
@@ -242,7 +258,9 @@
     ],
     "type": "mcq",
     "unit": 7,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Allied_occupation_in_Germany_%281945-1949%29.png",
+        "image_url": "assets/images/u7/wh-fresh-u7-017.png",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Allied_occupation_in_Germany_%281945-1949%29.png",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",

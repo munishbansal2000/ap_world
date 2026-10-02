@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "Bacon rejected reliance on ancient authorities and pure deduction, insisting instead that investigators gather observations, run experiments, and build general principles upward from particular facts — the inductive, empirical method that became the model for modern science. (B) is wrong because Bacon opposed deducing nature from Aristotle's texts. (C) is wrong because Bacon sought to replace scriptural authority with observation as the basis of natural knowledge. (D) is wrong because Bacon emphasized hands-on experiment and observation, not mathematics alone.",
   "id": "wh-fivesteps-u4-010",
+  "skill_code": "1.A",
+  "topic_code": "4.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Bacon's method builds general principles upward from systematic observation and experimentation.",
@@ -34,6 +36,8 @@
   "difficulty": "medium",
   "explanation": "Aristotelian cosmology, endorsed by the Church, held that all heavenly bodies circle the Earth. Jupiter's moons visibly orbited another planet, proving that Earth was not the center of all celestial motion — a direct observational blow to the established system. (A) is wrong because the printing press was an ally of new ideas, not the authority challenged. (B) is wrong because divine-right kingship was a political doctrine, not an astronomical one. (C) is wrong because germ theory emerged two centuries later and was unrelated to Galileo's astronomy.",
   "id": "wh-fivesteps-u4-011",
+  "skill_code": "1.A",
+  "topic_code": "4.1",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The printing press spread new ideas; it was not the authority Galileo's observations challenged.",
@@ -65,6 +69,8 @@
   "difficulty": "hard",
   "explanation": "Social-contract thinkers such as Locke argued that people leave the state of nature and accept government only on the condition that it protect their natural rights; legitimacy flows upward from the consent of the governed, who may withdraw it from a ruler who violates the bargain. (B) is wrong because divine appointment belongs to the rival doctrine of divine right, which social-contract theory opposed. (C) is wrong because military strength may sustain power but cannot legitimize it under the theory. (D) is wrong because heredity alone confers no legitimacy without the people's consent.",
   "id": "wh-fivesteps-u4-012",
+  "skill_code": "1.B",
+  "topic_code": "4.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Government is legitimate only with the consent of the governed, given in exchange for protection of their rights.",
@@ -96,6 +102,8 @@
   "difficulty": "hard",
   "explanation": "Deists accepted a Creator but held that He designed the universe to operate by discoverable natural laws and then stepped back — no miracles, no revelation, no clerical mediation. That removed the interventionist God of traditional Christianity while keeping a rational first cause. (A) is wrong because predestination is a Calvinist doctrine about God decreeing every event, the opposite of the deist clockmaker. (B) is wrong because deists rejected clerical authority as a channel of divine truth. (C) is wrong because natural laws were the very centerpiece of deist thought.",
   "id": "wh-fivesteps-u4-013",
+  "skill_code": "1.A",
+  "topic_code": "4.8",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Predestination is a Calvinist doctrine of God decreeing all events — the opposite of the deist position.",

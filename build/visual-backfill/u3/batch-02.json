@@ -1,6 +1,8 @@
 [
  {
   "id": "wh-vis-u3-011",
+  "skill_code": "1.B",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "A modern museum photograph of the Dardanelles Gun: an enormous bronze bombard cast in 1464 for the Ottoman sultan Mehmed II, over five meters long, its muzzle wide enough for a person to crouch inside, its bronze surface worked with inscriptions.",
   "stimulus_words": 41,
@@ -30,11 +32,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dardanelles_Gun_Turkish_Bronze.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-011.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dardanelles_Gun_Turkish_Bronze.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY 2.0"
  },
  {
   "id": "wh-vis-u3-012",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "A Persian miniature painted at Isfahan in the 1680s depicting Shah Ismail I at the 1514 Battle of Chaldiran: the shah charges on horseback with sword drawn while Ottoman soldiers, some aiming long guns, close in around him.",
   "stimulus_words": 38,
@@ -64,11 +70,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-012.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-013",
+  "skill_code": "3.D",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Persian miniature of the 1514 Battle of Chaldiran \u2014 a battle the Safavids lost \u2014 painted at the Safavid court in Isfahan in the 1680s, more than 170 years after the fighting, with Shah Ismail charging heroically at the center.",
   "stimulus_words": 41,
@@ -98,11 +108,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-012.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-014",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A modern photograph of the interior of the Sheikh Lotfollah Mosque in Isfahan: the domed chamber is covered floor to ceiling in intricate blue-and-gold tilework with arabesque patterns, light streaming through latticed windows. Built 1603-1619 under Shah Abbas I on the Naqsh-e Jahan square as a private royal-court mosque, it has no minarets and no public courtyard.",
   "stimulus_words": 57,
@@ -132,11 +146,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-014.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  },
  {
   "id": "wh-vis-u3-015",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "The Ardabil Carpet (1539-40), one of the largest and finest Persian carpets in existence, now in the Victoria and Albert Museum. Its woven inscription dates it to the Muslim year 946 and names Maqsud of Kashan; it was made for the shrine of Shaykh Safi al-Din \u2014 the Sufi saint whose descendants founded the Safavid dynasty \u2014 at Ardabil.",
   "stimulus_words": 59,
@@ -166,11 +184,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Ardabil_Carpet_-_Google_Art_Project.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-015.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Ardabil_Carpet_-_Google_Art_Project.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-016",
+  "skill_code": "2.B",
+  "topic_code": "3.4",
   "unit": 3,
   "stimulus": "Four studies of Safavid Shah Abbas I \u2014 a drawn sketch, the shah holding a falcon, and two painted portraits \u2014 made by Bishandas, a Mughal court artist who traveled with Emperor Jahangir's embassy to the Safavid court at Isfahan in 1613.",
   "stimulus_words": 42,
@@ -200,11 +222,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Portraits_of_Shah_Abbas_I_by_Bishandas_%281615-1620%29.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-016.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Portraits_of_Shah_Abbas_I_by_Bishandas_%281615-1620%29.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-017",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Mughal court miniature by Bichitr (ca. 1620s) showing Emperor Jahangir seated on a giant hourglass throne, handing a book to a Sufi shaikh while ignoring the figures waiting below: an Ottoman sultan, King James I of England, and the artist himself. A radiant sun-and-crescent halo surrounds Jahangir, and cherubs float above.",
   "stimulus_words": 52,
@@ -234,11 +260,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-017.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-018",
+  "skill_code": "5.A",
+  "topic_code": "3.4",
   "unit": 3,
   "stimulus": "Detail from the same Bichitr miniature: below Jahangir's hourglass throne wait three figures \u2014 a man in an Ottoman-style turban, a bearded European in a broad-brimmed black hat (King James I of England), and an Indian artist holding up a painting.",
   "stimulus_words": 41,
@@ -268,11 +298,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-017.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-019",
+  "skill_code": "2.B",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Mughal court miniature (ca. 1618-1620, by Abu'l Hasan) showing Emperor Jahangir welcoming Safavid Shah Abbas I at his court: the two rulers sit together on a terrace with servants, fine vessels, and trays of fruit, cherubs holding a medallion above them. In reality the two rulers never met in person.",
   "stimulus_words": 51,
@@ -302,11 +336,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/12_Abu%27l_Hasan_Jahangir_Welcoming_Shah_%27Abbas%2C_ca._1618%2C_Freer_Gallery_of_Art%2C_Washington_DC.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-019.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/12_Abu%27l_Hasan_Jahangir_Welcoming_Shah_%27Abbas%2C_ca._1618%2C_Freer_Gallery_of_Art%2C_Washington_DC.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-020",
+  "skill_code": "1.B",
+  "topic_code": "3.2",
   "unit": 3,
   "stimulus": "A modern map titled 'Mughal Empire under Aurangzeb (1707)': the empire's territory (shaded green) covers nearly the entire Indian subcontinent, from Kabul and Kashmir in the north to the Deccan kingdoms of Bijapur and Golkonda in the south, with Delhi marked by a star as the capital.",
   "stimulus_words": 47,
@@ -336,7 +374,9 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png",
+    "image_url": "assets/images/u3/wh-vis-u3-020.png",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  }
 ]

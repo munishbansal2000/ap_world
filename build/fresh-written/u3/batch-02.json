@@ -6,6 +6,8 @@
       "UNVERIFIED-QUOTE: quoted Ain-i-Akbari passage wording could not be traced to a published pre-1900 translation; it is a stylized adaptation. Substance (Akbar's Ibadat Khana debates at Fatehpur Sikri, from 1575, among scholars of many religions) is verified genuine."
     ],
     "id": "wh-fresh-u3-012",
+    "skill_code": "2.A",
+    "topic_code": "3.3",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: a courtier praising his emperor would not denounce him; the tone is admiring throughout.",
@@ -41,6 +43,8 @@
       "UNVERIFIED-QUOTE: quoted Ain-i-Akbari passage wording could not be traced to a published pre-1900 translation; it is a stylized adaptation. Substance (Akbar's Ibadat Khana debates at Fatehpur Sikri, from 1575, among scholars of many religions) is verified genuine."
     ],
     "id": "wh-fresh-u3-013",
+    "skill_code": "3.B",
+    "topic_code": "3.3",
     "key": "A",
     "option_explanations": {
       "A": "Right: abolishing the jizya and appointing Rajputs tied Hindu elites to the regime, exactly the consolidation strategy the claim describes.",
@@ -76,6 +80,8 @@
       "UNVERIFIED-QUOTE: quoted Ain-i-Akbari passage wording could not be traced to a published pre-1900 translation; it is a stylized adaptation. Substance (Akbar's Ibadat Khana debates at Fatehpur Sikri, from 1575, among scholars of many religions) is verified genuine."
     ],
     "id": "wh-fresh-u3-014",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: Rajput cooperation deteriorated under Aurangzeb; this reverses the actual effect.",
@@ -108,6 +114,8 @@
     "difficulty": "medium",
     "explanation": "Both projects used monumental building to make power visible: piety, immense wealth, and the ability to mobilize thousands of workers all advertised the dynasty's capacity to rule.",
     "id": "wh-fresh-u3-015",
+    "skill_code": "5.A",
+    "topic_code": "3.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: trade restriction was a policy of control, not a display of splendor through building.",
@@ -133,7 +141,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+        "image_url": "assets/images/u3/wh-fresh-u3-015.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -143,6 +153,8 @@
     "difficulty": "hard",
     "explanation": "Two decades of skilled labor on this scale required a fiscal machine. Mughal India's land-revenue system, worked through zamindars, supplied the surplus that made such monuments possible.",
     "id": "wh-fresh-u3-016",
+    "skill_code": "6.B",
+    "topic_code": "3.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the building's existence proves the opposite — the state commanded vast resources.",
@@ -168,7 +180,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+        "image_url": "assets/images/u3/wh-fresh-u3-015.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -181,6 +195,8 @@
       "UNVERIFIED-QUOTE: quoted 1645 queue decree wording could not be traced to a published pre-1900 translation; it is a stylized adaptation. Substance (the 1645 queue order requiring Han men to adopt the Manchu queue on pain of death, per the 'keep the head, lose the hair' edict) is verified genuine."
     ],
     "id": "wh-fresh-u3-017",
+    "skill_code": "2.A",
+    "topic_code": "3.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: a hairstyle taught no military skills; the decree is about political obedience, not tactics.",
@@ -216,6 +232,8 @@
       "UNVERIFIED-QUOTE: quoted 1645 queue decree wording could not be traced to a published pre-1900 translation; it is a stylized adaptation. Substance (the 1645 queue order requiring Han men to adopt the Manchu queue on pain of death, per the 'keep the head, lose the hair' edict) is verified genuine."
     ],
     "id": "wh-fresh-u3-018",
+    "skill_code": "3.B",
+    "topic_code": "3.3",
     "key": "A",
     "option_explanations": {
       "A": "Right: separate Manchu military and cultural institutions alongside Chinese bureaucratic ones is exactly the dual pattern the claim describes.",
@@ -251,6 +269,8 @@
       "UNVERIFIED-QUOTE: quoted 1645 queue decree wording could not be traced to a published pre-1900 translation; it is a stylized adaptation. Substance (the 1645 queue order requiring Han men to adopt the Manchu queue on pain of death, per the 'keep the head, lose the hair' edict) is verified genuine."
     ],
     "id": "wh-fresh-u3-019",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: Ming loyalist resistance continued for decades, but the exams policy reduced it; no immediate overthrow occurred.",
@@ -283,6 +303,8 @@
     "difficulty": "medium",
     "explanation": "The tribute system was a ritual bargain: neighboring rulers performed submission at Beijing, and in return received gifts, trade access, and recognition. It expressed the Qing claim to universal emperorship.",
     "id": "wh-fresh-u3-020",
+    "skill_code": "4.A",
+    "topic_code": "3.3",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the Qing required ritual submission, not religious conversion, from tribute bearers.",
@@ -308,7 +330,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
+        "image_url": "assets/images/u3/wh-fresh-u3-020.svg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -318,6 +342,8 @@
     "difficulty": "hard",
     "explanation": "Both the Qing and Russia grew as contiguous land empires, pushing military-agricultural frontiers outward to neutralize nomadic threats and claim resources — a different pattern from Europe's overseas coastal enclaves.",
     "id": "wh-fresh-u3-021",
+    "skill_code": "5.A",
+    "topic_code": "3.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the Portuguese built a maritime network of coastal forts, not a contiguous land empire.",
@@ -343,7 +369,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
+        "image_url": "assets/images/u3/wh-fresh-u3-020.svg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -353,6 +381,8 @@
     "difficulty": "hard",
     "explanation": "Because zamindars were hereditary and kept armed men, the Mughals could not simply replace them. Imperial power rested on a negotiated deal: revenue for the center, status and arms for the local lord.",
     "id": "wh-fresh-u3-022",
+    "skill_code": "6.B",
+    "topic_code": "3.2",
     "key": "A",
     "option_explanations": {
       "A": "Right: hereditary intermediaries with their own retainers forced the center to bargain rather than command.",

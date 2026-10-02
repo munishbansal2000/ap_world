@@ -1,0 +1,169 @@
+[
+ {
+  "id": "wh-vis-u7-015",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Stem asks what the breadline photo shows about the Depression's effects: mass unemployment overwhelming private charity before federal relief. Identifying the concept. The economy in the interwar peri",
+    "recheck_rationale": "'What does this photograph show about the effects of the Great Depression?' requires explaining the development (mass unemployment overwhelming private charity before federal relief) -- 1.B Explain. T"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 7,
+  "stem": "What does this photograph show about the effects of the Great Depression?",
+  "stimulus": "Photograph of a Depression-era breadline in New York City: a long line of unemployed men in coats and caps stretches down the block. A sign in the foreground reads \"LINE FOR 1-CENT RESTAURANT / 20 MEALS FOR $1 / DONATIONS INVITED / HELP FEED THE HUNGRY.\"",
+  "options": [
+   "(A) Mass unemployment overwhelmed private charity, which strained to feed the jobless before federal relief programs existed.",
+   "(B) The Depression caused only minor hardship in American cities.",
+   "(C) The federal government was already providing full and generous relief to every unemployed person when this photograph was taken in the early 1930s.",
+   "(D) Only farmers in rural areas suffered during the Great Depression."
+  ],
+  "explanation": "The sign on the line advertises \"20 MEALS FOR $1\" and says \"DONATIONS INVITED / HELP FEED THE HUNGRY\" -- evidence that feeding the unemployed depended on private charity, since the federal government played almost no relief role before the New Deal."
+ },
+ {
+  "id": "wh-vis-u7-020",
+  "batch": "batch-09",
+  "fields": {
+   "skill": {
+    "first": "5.B",
+    "recheck": "5.A",
+    "first_rationale": "Explains how the Guernica bombing relates to the later WWII development of terror bombing from the air; the Spanish Civil War is a cause of WWII.",
+    "recheck_rationale": "Stem asks why the Guernica bombing matters 'beyond the Spanish Civil War' -- the student must identify a connection between one historical development (German/Italian terror bombing of Guernica) and a"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 7,
+  "stem": "Why does the destruction shown in this photograph matter beyond the Spanish Civil War?",
+  "stimulus": "German photograph labeled \"Guernica, Ruinen\" (Guernica, ruins), 1937. A street of shattered buildings: facades stand roofless and windowless above mountains of rubble; the town center has been devastated by bombing.",
+  "options": [
+   "(A) The Spanish Republican government bombed Guernica to punish Basque nationalists.",
+   "(B) No foreign powers were involved in the Spanish Civil War in any way.",
+   "(C) German and Italian planes bombed civilians, previewing WWII.",
+   "(D) The bombing of Guernica had no significance outside of Spain itself."
+  ],
+  "explanation": "Guernica was bombed in April 1937 by German Condor Legion and Italian aircraft supporting Franco's Nationalists -- a foreign-aided terror bombing of a civilian Basque town that previewed the aerial warfare of World War II and drew worldwide condemnation (and Picasso's painting)."
+ },
+ {
+  "id": "wh-vis-u7-030",
+  "batch": "batch-09",
+  "fields": {
+   "topic": {
+    "first": "7.9",
+    "recheck": "7.7",
+    "first_rationale": "Situates the Yalta photo within the broader context of wartime cooperation fracturing into Cold War rivalry.",
+    "recheck_rationale": "Stem asks what the Yalta photo foreshadows about the postwar world -- the specific development (the three leaders' wartime negotiations) must be situated within a broader historical context (cooperati"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 7,
+  "stem": "What does this photograph foreshadow about the postwar world?",
+  "stimulus": "Color photograph of the Yalta Conference, February 1945: Winston Churchill, Franklin Roosevelt, and Joseph Stalin sit side by side in chairs in a courtyard, with military aides standing behind them.",
+  "options": [
+   "(A) The three leaders agreed completely on every aspect of the postwar order, with no disagreements about Eastern Europe or Germany at all.",
+   "(B) The photograph was taken after World War II had ended.",
+   "(C) The Yalta Conference created the NATO alliance.",
+   "(D) The wartime allies were already negotiating the postwar world, a cooperation that would soon fracture into Cold War rivalry."
+  ],
+  "explanation": "At Yalta in February 1945, the three leaders negotiated Germany's occupation zones, Soviet entry into the Pacific war, and the United Nations -- cooperation that masked deep disagreements over Eastern Europe that would soon harden into the Cold War."
+ },
+ {
+  "id": "wh-vis-u8-015",
+  "batch": "batch-09",
+  "fields": {
+   "skill": {
+    "first": "5.B",
+    "recheck": "5.A",
+    "first_rationale": "Explains how the UN advance to the Yalu relates to China's massive intervention in the Korean War.",
+    "recheck_rationale": "Map shows UN forces at the Yalu (Nov 1950); stem asks which development the situation 'most directly led to' -- China massive intervention. The student identifies a connection between two historical d"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 8,
+  "stem": "The situation shown on the map most directly led to which development?",
+  "stimulus": "U.S. Army map titled 'THE BATTLEFRONT, 23 November 1950': United Nations forces (Eighth Army and X Corps, including units at the Chosin Reservoir) are shown advanced deep into northern Korea, reaching the Yalu River and the border with Manchuria (China).",
+  "options": [
+   "(A) China's massive military intervention in the Korean War, which drove UN forces back south after Beijing warned that its border was threatened.",
+   "(B) The immediate and unconditional surrender of North Korea to United Nations forces.",
+   "(C) The withdrawal of the Soviet Union from the Korean conflict after secret negotiations with Washington.",
+   "(D) A United Nations decision to expand the war by invading Manchuria and occupying northeastern China, a plan General MacArthur had publicly advocated for months despite repeated warnings from Beijing."
+  ],
+  "explanation": "By late November 1950, UN forces under MacArthur had advanced to the Yalu River, the border with China, exactly as this map shows - Eighth Army in the west, X Corps in the east near the Chosin Reservoir. Beijing had warned it would intervene if UN troops approached its border; when the warnings were ignored, some 300,000 Chinese troops attacked in late November, hurling UN forces into a long retreat. The image is necessary: only by seeing how far north and how thinly spread the UN forces were can a student understand why the Chinese attack was so devastating."
+ },
+ {
+  "id": "wh-vis-u9-020",
+  "batch": "batch-09",
+  "fields": {
+   "skill": {
+    "first": "2.A",
+    "recheck": "2.B",
+    "first_rationale": "Identifies the point the Chernobyl confinement illustrates: nuclear accidents impose decades-long cleanup costs shaping public opposition.",
+    "recheck_rationale": "This is a weak fit for its Sourcing and Situation label: the stem asks what the New Safe Confinement arch 'best illustrates ... in debates over nuclear energy' -- that is really an explanation of a hi"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 9,
+  "stem": "The structure shown was built in response to the 1986 Chernobyl disaster. Its existence best illustrates which point in debates over nuclear energy?",
+  "stimulus": "Photograph, Chernobyl, Ukraine: the giant New Safe Confinement arch built over the destroyed Reactor 4, with a memorial sculpture of hands cradling a reactor in the foreground.",
+  "options": [
+   "(A) Damaged nuclear reactors can be quickly repaired and put back into service within months, making major accidents only brief interruptions in power generation.",
+   "(B) The disaster had no lasting effects on the surrounding region.",
+   "(C) Nuclear waste becomes safe within a few years of an accident.",
+   "(D) Nuclear accidents can impose enormous, decades-long containment and cleanup costs that shape public opposition to nuclear power."
+  ],
+  "explanation": "A ruined reactor so dangerous it had to be permanently entombed under a giant arch — with a memorial to the disaster — shows why nuclear accidents weigh so heavily in energy politics: the costs and contamination last for generations."
+ },
+ {
+  "id": "wh-vis-u9-030",
+  "batch": "batch-09",
+  "fields": {
+   "skill": {
+    "first": "5.B",
+    "recheck": "5.A",
+    "first_rationale": "Explains how the fertilizer map relates to the yield maps: high yields depended on heavy chemical inputs, raising pollution, cost, and dependence concerns.",
+    "recheck_rationale": "Stem asks what point the fertilizer-use map, 'taken together with the wheat-yield maps', best supports in Green Revolution debates -- the student identifies the connection between two developments (he"
+   },
+   "topic": {
+    "first": "9.1",
+    "recheck": "9.3",
+    "first_rationale": "Explains how the fertilizer map relates to the yield maps: high yields depended on heavy chemical inputs, raising pollution, cost, and dependence concerns.",
+    "recheck_rationale": "Stem asks what point the fertilizer-use map, 'taken together with the wheat-yield maps', best supports in Green Revolution debates -- the student identifies the connection between two developments (he"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 9,
+  "stem": "Taken together with the wheat-yield maps, this map best supports which point in debates over the Green Revolution?",
+  "stimulus": "World map, 2015: countries shaded by fertilizer use (kilograms per hectare of arable land). China is among the darkest; Western Europe is dark; most of sub-Saharan Africa is nearly white (very low use).",
+  "options": [
+   "(A) Fertilizers were unnecessary for the yield gains shown in the other maps, which came entirely from better weather, traditional seeds, and old-fashioned farming methods alone.",
+   "(B) High yields depended on heavy chemical inputs, raising concerns about pollution, cost, and dependence — inputs poor farmers often could not afford.",
+   "(C) African farmers used more fertilizer per hectare than Chinese farmers.",
+   "(D) Fertilizer use declined worldwide after 2000."
+  ],
+  "explanation": "The yield maps show spectacular gains; this map shows their price — enormous chemical inputs, concentrated in China and Europe, while African farmers used almost none. The Green Revolution's bounty came with pollution, cost, and unequal access."
+ },
+ {
+  "id": "wh-vis-u9-040",
+  "batch": "batch-09",
+  "fields": {
+   "topic": {
+    "first": "9.6",
+    "recheck": "9.5",
+    "first_rationale": "Identifies the social change: massive expansion of schooling, especially for girls, narrowing the gender literacy gap. (9.5 alternative noted.)",
+    "recheck_rationale": "Stem asks which social change the literacy trend 'best reflects' -- the student identifies the development (massive schooling expansion, especially for girls, nearly closing the gender gap). That is 1"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 9,
+  "stem": "The trend shown best reflects which social change of the late twentieth century?",
+  "stimulus": "Line chart, 1975–2022: literacy rates of young men and women (ages 15–24) worldwide. Men's rate rises from about 84% to about 93%; women's from about 69% to about 90%, nearly closing a 15-point gap.",
+  "options": [
+   "(A) A decline in school attendance worldwide.",
+   "(B) The elimination of all gender differences in education by 1990, when girls' literacy caught up with boys' completely and the gap vanished forever.",
+   "(C) Literacy falling as digital media replaced reading.",
+   "(D) The massive expansion of schooling, especially for girls, narrowing the gender gap in basic education."
+  ],
+  "explanation": "In 1975 about 84% of young men but only 69% of young women could read and write; by 2022 both were around 90% — schooling expanded for everyone, but girls' gains were larger, nearly erasing the gap."
+ }
+]

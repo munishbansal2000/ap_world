@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "The dates stretch from 1807 to 1888, with each state acting on its own timetable — Britain in the 1830s, France in 1848, the US in 1865, Brazil in 1888. There was no single moment when slavery ended worldwide.",
     "id": "wh-fresh-u5-011",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The timeline spans eight decades; abolitions were national decisions, not coordinated.",
@@ -34,6 +36,8 @@
     "difficulty": "hard",
     "explanation": "The claim is about enslaved people's agency. Large revolts raised the military and economic costs of slavery and terrified planters and governments, pushing Britain toward the 1833 act. The other options describe other actors or are irrelevant.",
     "id": "wh-fresh-u5-012",
+    "skill_code": "3.B",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. This supports an economic argument about factory owners, not the agency of enslaved people.",
@@ -64,6 +68,8 @@
     "difficulty": "hard",
     "explanation": "By mirroring the 1789 Declaration point for point, de Gouges showed that its 'universal' rights had been written as if women did not exist. The parallel structure is the evidence that she saw the Revolution as contradicting itself.",
     "id": "wh-fresh-u5-013",
+    "skill_code": "3.B",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. She was a revolutionary who supported the Revolution's principles; she was executed in 1793 during the Terror.",
@@ -95,6 +101,8 @@
     "difficulty": "medium",
     "explanation": "Published in 1791 and addressed to the Assembly (and dedicated to the queen), the pamphlet entered the public revolutionary debate. Its purpose was political persuasion: to shame the revolutionaries into extending their own principles to women.",
     "id": "wh-fresh-u5-014",
+    "skill_code": "2.A",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The dedication and publication context show she sought to influence lawmakers and public opinion.",
@@ -126,6 +134,8 @@
     "difficulty": "hard",
     "explanation": "The American text proclaims equality while its authors kept slavery. Haiti's constitution made equality concrete: no white master could ever own land, and all citizens were legally 'Black.' Haiti turned the Enlightenment's promises into anti-slavery law.",
     "id": "wh-fresh-u5-015",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Haitian leaders invoked French revolutionary language; the 1805 text echoes the Rights of Man.",
@@ -157,6 +167,8 @@
     "difficulty": "medium",
     "explanation": "The Declaration's 'all men are created equal' was written in a slave society, and slavery grew in the decades after independence. The ideals were genuine and influential, but their application was limited by race and gender.",
     "id": "wh-fresh-u5-016",
+    "skill_code": "6.B",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Slavery continued and expanded after independence; abolition took until 1865.",
@@ -188,6 +200,8 @@
     "difficulty": "hard",
     "explanation": "The Code kept the Revolution's core legal reforms — equality before the law, careers open to talent, secure property — which is why it survived Napoleon. But it also rolled back the Revolution's more radical steps on women's rights, showing revolution's uneven results.",
     "id": "wh-fresh-u5-017",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The Code is the classic case of revolutionary continuity and change in one document.",
@@ -219,6 +233,8 @@
     "difficulty": "medium",
     "explanation": "The rebellion grew from domestic distress: a population that had roughly doubled since 1700, corrupt tax collection, and famine. It exposed Qing weakness from within, decades before the Opium Wars made that weakness obvious to foreign powers.",
     "id": "wh-fresh-u5-018",
+    "skill_code": "4.A",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The Opium Wars came in 1839–42, more than thirty years after the rebellion began.",
@@ -250,6 +266,8 @@
     "difficulty": "hard",
     "explanation": "The 1794 decree aligned the Black leadership with the French Republic against Britain and Spain. When Napoleon sent an army in 1802 to reimpose slavery — capturing Toussaint — the rebels under Dessalines fought on to full independence in 1804. French policy reversals drove the revolution's radicalization.",
     "id": "wh-fresh-u5-019",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. France fought the rebels for most of the revolution; support was tactical and temporary.",
@@ -275,7 +293,9 @@
     "type": "mcq",
     "unit": 5,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+        "image_url": "assets/images/u5/wh-fresh-u5-019.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -285,6 +305,8 @@
     "difficulty": "hard",
     "explanation": "Revolutionary France's decrees mattered, but the revolt began with enslaved people's own networks and succeeded through brilliant generalship and mass sacrifice. The engraving's image — an enslaved-born man as a French general — captures that fusion of African agency and revolutionary opportunity.",
     "id": "wh-fresh-u5-020",
+    "skill_code": "6.B",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Both the ideas and the independent organization of the enslaved were necessary; neither alone suffices.",
@@ -310,7 +332,9 @@
     "type": "mcq",
     "unit": 5,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+        "image_url": "assets/images/u5/wh-fresh-u5-019.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC0",
     "image_verified": "2026-10-02",
     "source_id": "original",

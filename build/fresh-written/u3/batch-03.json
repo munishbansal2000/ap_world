@@ -6,6 +6,8 @@
       "UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."
     ],
     "id": "wh-fresh-u3-023",
+    "skill_code": "2.A",
+    "topic_code": "3.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the tax punished non-compliance; the decree's language shows the aim was cultural transformation, not income.",
@@ -41,6 +43,8 @@
       "UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."
     ],
     "id": "wh-fresh-u3-024",
+    "skill_code": "3.B",
+    "topic_code": "3.2",
     "key": "A",
     "option_explanations": {
       "A": "Right: service-based rank made the elite's status depend on the tsar, concentrating power upward.",
@@ -76,6 +80,8 @@
       "UNVERIFIED-QUOTE: quoted 1705 decree wording could not be traced to the published ukase text; it is a stylized adaptation. Substance (Peter's January 1705 beard ukase with rank-based taxes, beard tokens as receipts, a one-kopeck peasant toll at town gates, and German-dress decrees) is verified genuine."
     ],
     "id": "wh-fresh-u3-025",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: serf emancipation came in 1861, more than a century later.",
@@ -108,6 +114,8 @@
     "difficulty": "medium",
     "explanation": "Siberia's value was fur, and its conquest followed the land-empire pattern: armed frontiersmen advanced, outposts were planted, and native peoples were folded into a tribute system — expansion for revenue and security, not for sea lanes.",
     "id": "wh-fresh-u3-026",
+    "skill_code": "4.A",
+    "topic_code": "3.1",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: Russia had no Atlantic seaboard and sought no sea route to Asia; the map shows overland expansion.",
@@ -133,7 +141,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+        "image_url": "assets/images/u3/wh-fresh-u3-026.png",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 3.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -143,6 +153,8 @@
     "difficulty": "hard",
     "explanation": "Like indigenous peoples elsewhere after sustained European contact, Siberian groups suffered epidemics against which they had no immunity, while tribute demands in furs distorted their hunting economies toward Russian needs.",
     "id": "wh-fresh-u3-027",
+    "skill_code": "1.B",
+    "topic_code": "3.1",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the church sent Russian clergy; it did not elevate native Siberians to bishoprics.",
@@ -168,7 +180,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+        "image_url": "assets/images/u3/wh-fresh-u3-026.png",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY-SA 3.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -178,6 +192,8 @@
     "difficulty": "medium",
     "explanation": "The hajj was the most prestigious act a Muslim ruler could perform, and founding mosques and schools made his devotion visible at home. Both announced that Songhai's king belonged to the global community of Islam.",
     "id": "wh-fresh-u3-028",
+    "skill_code": "3.B",
+    "topic_code": "3.3",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: manuscript sales show commercial vitality, not the king's religious legitimation.",
@@ -210,6 +226,8 @@
     "difficulty": "hard",
     "explanation": "Songhai sat astride the routes carrying West African gold north and Saharan salt south. Taxing that flow filled the treasury that paid for the scholars, judges, and mosques Leo Africanus admired.",
     "id": "wh-fresh-u3-029",
+    "skill_code": "3.B",
+    "topic_code": "3.2",
     "key": "A",
     "option_explanations": {
       "A": "Right: control of the gold-salt caravan trade funded the patronage that produced Timbuktu's scholarly culture.",
@@ -242,6 +260,8 @@
     "difficulty": "medium",
     "explanation": "Both the Tokugawa and the Qing practiced regulated engagement, not isolation: foreigners could trade, but only at one supervised port. The common student error is reading 'closed country' as zero contact.",
     "id": "wh-fresh-u3-030",
+    "skill_code": "5.A",
+    "topic_code": "3.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: a fifteenth-century conquest has no bearing on trade regulation.",
@@ -267,7 +287,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+        "image_url": "assets/images/u3/wh-fresh-u3-030.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "Public domain",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -277,6 +299,8 @@
     "difficulty": "medium",
     "explanation": "Alternate attendance was a financial leash: the pomp of traveling to Edo with a great retinue consumed daimyo revenues, and wives and heirs living in Edo guaranteed good behavior.",
     "id": "wh-fresh-u3-031",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "A",
     "option_explanations": {
       "A": "Right: forced spending plus hostage families kept the daimyo obedient and too poor to rebel.",
@@ -302,7 +326,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+        "image_url": "assets/images/u3/wh-fresh-u3-030.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "Public domain",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -312,6 +338,8 @@
     "difficulty": "hard",
     "explanation": "Ranking poor samurai above rich merchants shows that status served politics, not economics. By fixing everyone in a hereditary order topped by warriors, the shogunate protected the class on which its own power rested.",
     "id": "wh-fresh-u3-032",
+    "skill_code": "6.B",
+    "topic_code": "3.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: if wealth set status, merchants would rank first; the passage shows the opposite.",
@@ -344,6 +372,8 @@
     "difficulty": "hard",
     "explanation": "The Troubles were a succession crisis of a familiar type: old dynasty fails, interregnum of war and famine, then a new house recentralizes power. The Qing conquest of Ming China followed the same arc a generation later.",
     "id": "wh-fresh-u3-033",
+    "skill_code": "4.A",
+    "topic_code": "3.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the Romanovs were Russian boyars chosen by a Russian assembly; no foreign imposition occurred.",

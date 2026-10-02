@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "Napoleon had retaken Louisiana to supply a restored plantation colony in Saint-Domingue. When yellow fever and Dessalines's armies destroyed his expeditionary force, the whole American project collapsed — so he sold the territory to Jefferson for cash for his European wars.",
     "id": "wh-fresh-u5-041",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The inset's note on the 1801–1803 defeat is the causal link the map provides.",
@@ -34,6 +36,8 @@
     "difficulty": "hard",
     "explanation": "The Haitian connection is the point: without the Haitian Revolution there is no sale, and without the sale the United States does not double in size or gain the Mississippi. A revolt of enslaved Africans in the Caribbean directly enabled American continental expansion — the Atlantic revolutions were one intertwined story.",
     "id": "wh-fresh-u5-042",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The map shows France losing its American empire, not strengthening it.",
@@ -65,6 +69,8 @@
     "difficulty": "hard",
     "explanation": "The claim says 'all.' The Code's marriage law is direct counterevidence: half the adult population was placed under husbands' legal authority. A claim of universal liberation cannot survive the legal subordination of women.",
     "id": "wh-fresh-u5-043",
+    "skill_code": "3.D",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. This supports the claim rather than weakening it.",
@@ -96,6 +102,8 @@
     "difficulty": "hard",
     "explanation": "The Revolution spoke universally but legislated for men — women were denied the vote, Olympe de Gouges was executed, and the Code codified wifely obedience. The pairing shows how universalist language coexisted with, and even masked, the preservation of patriarchy.",
     "id": "wh-fresh-u5-044",
+    "skill_code": "6.C",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Women were denied the vote and placed under husbands' legal authority.",
@@ -127,6 +135,8 @@
     "difficulty": "medium",
     "explanation": "After Napoleon's fall, the Holy Alliance powers discussed helping Spain recover its colonies; Britain's trade interests and the US Monroe Doctrine blocked them. Spanish American independence survived because the Atlantic balance of power, not just battlefield victories, protected it. The 1810–1830 window sits inside the post-Vienna conservative order and the Monroe Doctrine response.",
     "id": "wh-fresh-u5-045",
+    "skill_code": "4.B",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The map's 1810–1830 window sits inside the post-Vienna conservative order and the Monroe Doctrine response.",
@@ -157,6 +167,8 @@
     "difficulty": "medium",
     "explanation": "Bolívar's dream of a united Spanish America collapsed within a decade of victory: Venezuela and Ecuador seceded, and strongmen carved out personal fiefdoms. Independence destroyed Spanish authority but did not create stable new nations — the 1830 breakup described above is the evidence of fragmentation.",
     "id": "wh-fresh-u5-046",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The dashed lines show the opposite — Gran Colombia broke apart by 1830.",
@@ -187,6 +199,8 @@
     "difficulty": "medium",
     "explanation": "Locke and Rousseau wrote of natural rights while assuming male citizens. Wollstonecraft's move — accepting their premises and extending the conclusion to women — became a template: abolitionists, Seneca Falls organizers, and later feminists all reused Enlightenment universalism against its original limits.",
     "id": "wh-fresh-u5-047",
+    "skill_code": "5.B",
+    "topic_code": "5.1",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Most Enlightenment thinkers, including Rousseau, assumed women's subordinate role.",
@@ -218,6 +232,8 @@
     "difficulty": "medium",
     "explanation": "The system worked while the great powers stayed united — interventions in the 1820s succeeded. But repression stored up pressure: 1830 shook France and Belgium, 1848 nearly toppled every continental regime, and nationalism eventually united Italy and Germany anyway. Containment delayed; it did not cure.",
     "id": "wh-fresh-u5-048",
+    "skill_code": "6.A",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Nationalism and liberalism returned in 1830 and 1848 and ultimately redrew the map.",
@@ -248,6 +264,8 @@
     "difficulty": "hard",
     "explanation": "The claim is about worsening conditions, and the inspectors' reports are direct evidence: extreme hours, child labor, and injury rates in the first factory decades. Later reforms and rising wages came after — the claim concerns the initial phase, which the reports describe.",
     "id": "wh-fresh-u5-049",
+    "skill_code": "3.B",
+    "topic_code": "5.9",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The documented hours, child labor, and injuries are exactly the evidence the claim needs.",
@@ -279,6 +297,8 @@
     "difficulty": "hard",
     "explanation": "Liberalism answered the revolutions' demand for rights, conservatism answered the fear of revolutionary chaos, and socialism answered the factory system's inequalities. None of the three makes sense without the political and economic revolutions that provoked them — ideologies were the era's arguments with itself.",
     "id": "wh-fresh-u5-050",
+    "skill_code": "6.A",
+    "topic_code": "5.8",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The three disagreed fundamentally about government, property, and rights.",

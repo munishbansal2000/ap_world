@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "The Declaration was adopted by the National Assembly in 1789 to ground the new political order in popular sovereignty and natural rights. Articles 3 and 6 transfer authority from the king to the nation and its citizens, which justified the Assembly's defiance of Louis XVI.",
     "id": "wh-fresh-u5-001",
+    "skill_code": "2.A",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The document legitimizes the Assembly by declaring that sovereignty resides in the nation, directly undercutting the king's authority.",
@@ -34,6 +36,8 @@
     "difficulty": "hard",
     "explanation": "The Declaration speaks of 'men' and 'citizens' in universal terms, yet the Assembly denied women political rights and left colonial slavery untouched until 1794. Its universalism was real as an ideal but limited in application.",
     "id": "wh-fresh-u5-002",
+    "skill_code": "6.B",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The Assembly adopted it in August 1789 and it became the preamble of the 1791 constitution.",
@@ -65,6 +69,8 @@
     "difficulty": "medium",
     "explanation": "Free people of color and enslaved rebels invoked the Declaration's promise of equality; when France hesitated, they made the revolution their own. Haiti's 1805 constitution then radicalized the document's principles — banning slavery forever and barring white landownership.",
     "id": "wh-fresh-u5-003",
+    "skill_code": "5.B",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Haitian leaders quoted and invoked French revolutionary language; they did not reject it.",
@@ -96,6 +102,8 @@
     "difficulty": "hard",
     "explanation": "Bolívar's 'dual conflict' describes creoles squeezed between Spaniards above them and the lower orders below. The peninsular monopoly on high office is exactly the grievance that made creoles feel neither fully European nor fully American.",
     "id": "wh-fresh-u5-004",
+    "skill_code": "3.B",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Creoles fought for their own political power, not to restore Indigenous empires.",
@@ -127,6 +135,8 @@
     "difficulty": "medium",
     "explanation": "With Ferdinand VII deposed and then restored as an absolute monarch in 1814, creole juntas that had governed 'in the king's name' faced a choice between submission and independence. Bolívar wrote from exile in Jamaica after Spanish forces retook Venezuela.",
     "id": "wh-fresh-u5-005",
+    "skill_code": "4.A",
+    "topic_code": "5.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The Peninsular War created the legitimacy crisis that made both the juntas and Bolívar's exile possible.",
@@ -158,6 +168,8 @@
     "difficulty": "medium",
     "explanation": "The dates place American independence at 1776, the French Revolution at 1789, the Haitian Revolution at 1791–1804, and Spanish American independence at 1810–1825. The Atlantic revolutions unfolded in that order.",
     "id": "wh-fresh-u5-006",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The American Revolution (1776) preceded the French (1789).",
@@ -189,6 +201,8 @@
     "difficulty": "hard",
     "explanation": "Haiti emerged from a slave revolt that permanently abolished slavery. In Spanish America, creole elites led the break from Spain precisely to secure their own power, so slavery and large estates survived independence in most new republics.",
     "id": "wh-fresh-u5-007",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Haiti became independent in 1804, as the dates show.",
@@ -219,6 +233,8 @@
     "difficulty": "hard",
     "explanation": "Wollstonecraft turns Enlightenment logic against its male authors: if rights come from reason and nature, as Locke and the revolutionaries claimed, then keeping women ignorant is inconsistent. Her audience was the educated public debating rights in the 1790s.",
     "id": "wh-fresh-u5-008",
+    "skill_code": "2.A",
+    "topic_code": "5.1",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. She explicitly says educated women will become better wives and mothers, not abandon family life.",
@@ -250,6 +266,8 @@
     "difficulty": "medium",
     "explanation": "Writing in 1792 amid the French Revolution, Wollstonecraft extended the natural-rights reasoning of Locke and the Declaration of the Rights of Man to women. Her work later helped inspire the Seneca Falls convention of 1848.",
     "id": "wh-fresh-u5-009",
+    "skill_code": "4.A",
+    "topic_code": "5.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Her book is a direct application of Enlightenment natural-rights logic to the exclusion of women.",
@@ -281,6 +299,8 @@
     "difficulty": "hard",
     "explanation": "The congress's system — legitimate monarchs, a balance of power, and congresses to crush revolts — held until the 1848 wave of revolutions. Nationalism and liberalism survived underground and returned, showing the limits of the conservative restoration.",
     "id": "wh-fresh-u5-010",
+    "skill_code": "6.B",
+    "topic_code": "5.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Nationalism and liberalism erupted again in 1830 and 1848, and eventually united Italy and Germany.",
@@ -305,7 +325,9 @@
     "type": "mcq",
     "unit": 5,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wiener_kongress.jpg",
+        "image_url": "assets/images/u5/wh-fresh-u5-010.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wiener_kongress.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "Public domain",
     "image_verified": "2026-10-02",
     "source_id": "original",

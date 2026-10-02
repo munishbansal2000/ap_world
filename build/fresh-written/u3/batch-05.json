@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "Luther posted in Latin for scholars, but printers quickly issued German translations by the thousand. Without the press, the theses would have remained a local academic dispute.",
     "id": "wh-fresh-u3-045",
+    "skill_code": "2.A",
+    "topic_code": "3.3",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: the papacy condemned Luther; endorsement is the opposite of what happened.",
@@ -35,6 +37,8 @@
     "difficulty": "hard",
     "explanation": "Augsburg handed princes the church: its property, its appointments, and the right to enforce one confession. Religion became an instrument of territorial state-building in the princes' hands.",
     "id": "wh-fresh-u3-046",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the settlement limited papal power by legalizing Lutheran princes' control of their churches.",
@@ -67,6 +71,8 @@
     "difficulty": "medium",
     "explanation": "Print collapsed the cost of copying and broke the clergy's near-monopoly on the written word. Vernacular pamphlets let ordinary townspeople read — or hear read — arguments once confined to universities.",
     "id": "wh-fresh-u3-047",
+    "skill_code": "3.B",
+    "topic_code": "3.3",
     "key": "A",
     "option_explanations": {
       "A": "Right: cheap vernacular print moved reformist ideas beyond the Latin-reading scholarly world.",
@@ -99,6 +105,8 @@
     "difficulty": "hard",
     "explanation": "While Europe split, Catholicism went global on Portuguese and Spanish ships. The Jesuits in Goa, Japan, and Beijing were the missionary arm of a church that was losing ground at home and gaining it abroad.",
     "id": "wh-fresh-u3-048",
+    "skill_code": "4.A",
+    "topic_code": "3.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: the passage shows Jesuits on three continents; confinement to Europe is the opposite.",
@@ -131,6 +139,8 @@
     "difficulty": "medium",
     "explanation": "Trent abolished real abuses while reaffirming doctrine, and the Jesuits carried a reformed Catholicism worldwide. The Counter-Reformation was both housecleaning and counteroffensive.",
     "id": "wh-fresh-u3-049",
+    "skill_code": "6.B",
+    "topic_code": "3.3",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: this is the common one-sided view; the passage documents reforms the 'persecution-only' story leaves out.",
@@ -163,6 +173,8 @@
     "difficulty": "medium",
     "explanation": "Every row of the table ties rule to the sacred: caliphate, Imams, divine light, Heaven's Mandate, natural order, Third Rome. Different faiths, same technique — sacralized kingship.",
     "id": "wh-fresh-u3-050",
+    "skill_code": "5.A",
+    "topic_code": "3.3",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: only the Mughals (via Timur) leaned on Chinggisid prestige; it is not in the table.",
@@ -194,6 +206,8 @@
     "difficulty": "hard",
     "explanation": "The table's variety is the point: no single creed worked everywhere, so each dynasty sacralized itself in the local idiom. Legitimation was bespoke, not one-size-fits-all.",
     "id": "wh-fresh-u3-051",
+    "skill_code": "6.B",
+    "topic_code": "3.3",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the table displays six different justifications; 'exactly the same' contradicts it.",
@@ -225,6 +239,8 @@
     "difficulty": "hard",
     "explanation": "Both are rulers spending state resources on visible religious foundations — mosques, schools — turning personal piety into public proof of legitimacy.",
     "id": "wh-fresh-u3-052",
+    "skill_code": "3.B",
+    "topic_code": "3.3",
     "key": "A",
     "option_explanations": {
       "A": "Right: Ottoman mosques and Askia's Timbuktu endowments are both visible religious patronage by rulers.",
@@ -256,6 +272,8 @@
     "difficulty": "medium",
     "explanation": "If the king answers only to God, then nobles, parlements, and Huguenots have no lawful ground to resist him. Divine right was the ideological counterpart to Versailles and the standing army.",
     "id": "wh-fresh-u3-053",
+    "skill_code": "1.B",
+    "topic_code": "3.3",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: divine right rejected any sharing of power; no such assembly existed.",
@@ -288,6 +306,8 @@
     "difficulty": "hard",
     "explanation": "The same expensive armies produced the same institutional answers on opposite ends of Eurasia. This was convergent state-building under shared military-fiscal pressure, not European invention diffusing outward.",
     "id": "wh-fresh-u3-054",
+    "skill_code": "4.A",
+    "topic_code": "3.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the Ottomans and Mughals built these institutions independently; the pattern is parallel, not copied.",
@@ -320,6 +340,8 @@
     "difficulty": "hard",
     "explanation": "The passage lists what was banned and what continued side by side. The shogunate's target was uncontrollable foreign influence — especially Christianity — not foreign knowledge itself, which it kept importing through Dutch books.",
     "id": "wh-fresh-u3-055",
+    "skill_code": "6.B",
+    "topic_code": "3.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: this is the classic misconception; the passage documents continuing trade, book imports, and Dutch reports.",

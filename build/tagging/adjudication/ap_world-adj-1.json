@@ -1,0 +1,619 @@
+[
+ {
+  "id": "wh-barrons-t1-001",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks which development explains the post-1990 palm-oil production surge; explaining a historical development fits 1.B, and the content is a global-era environmental-economic trend under 9.3.",
+    "recheck_rationale": "Stem asks which development a historian would point to for the post-1990 palm-oil surge. The cognitive task is identifying the development (multinational food firms switching to cheap palm oil) behind"
+   },
+   "topic": {
+    "first": "9.3",
+    "recheck": "9.4",
+    "first_rationale": "Asks which development explains the post-1990 palm-oil production surge; explaining a historical development fits 1.B, and the content is a global-era environmental-economic trend under 9.3.",
+    "recheck_rationale": "Stem asks which development a historian would point to for the post-1990 palm-oil surge. The cognitive task is identifying the development (multinational food firms switching to cheap palm oil) behind"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 9,
+  "stem": "A historian explaining the sharp acceleration after about 1990 would most plausibly point to which development?",
+  "stimulus": "[Chart: Fifty years of global palm oil production, 1964-2014. Output remains low and nearly flat from the 1960s through the 1980s, then climbs steeply after about 1990, reaching levels many times higher by 2014.]",
+  "options": [
+   "(A) The Green Revolution's new high-yield wheat and rice varieties of the 1960s",
+   "(B) Multinational food manufacturers switching to cheap, shelf-stable palm oil",
+   "(C) Gradual growth in the world's population",
+   "(D) Biofuel mandates adopted by governments in the 2000s"
+  ],
+  "explanation": "Palm oil became the world's dominant vegetable oil because large food-processing firms replaced costlier fats with it after the 1990s; it was cheap, had a long shelf life, and worked well in packaged foods. That corporate shift matches the timing of the chart's steep climb better than any other option."
+ },
+ {
+  "id": "wh-barrons-t1-011",
+  "batch": "batch-01",
+  "fields": {
+   "topic": {
+    "first": "1.7",
+    "recheck": "1.1",
+    "first_rationale": "Asks which state practice serves the same commemorative purpose; identifying the connection between two state practices is 5.A, tied to the Mongol-era legacy topic 1.7.",
+    "recheck_rationale": "Stem asks which state practice serves the SAME purpose as the Genghis Khan banknote. The task is identifying a pattern or connection between two commemorative state practices (both reinforcing nationa"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 1,
+  "stem": "Which of the following state practices serves the same purpose as placing Genghis Khan on the currency?",
+  "stimulus": "[Image: A Mongolian 20,000-tugrik banknote bearing a large, dignified portrait of Genghis Khan.]",
+  "options": [
+   "(A) Naming the country's main international airport and a national holiday after him",
+   "(B) Adopting a neighboring country's currency for everyday transactions",
+   "(C) Removing the entire history of the medieval period from the national school curriculum",
+   "(D) Banning all public monuments to historical figures"
+  ],
+  "explanation": "Mongolia's international airport and national holidays honoring Genghis Khan do the same work as the banknote: they keep a founding figure constantly visible in daily life, reinforcing national identity. The other options all weaken rather than strengthen such commemoration."
+ },
+ {
+  "id": "wh-barrons-t1-021",
+  "batch": "batch-01",
+  "fields": {
+   "topic": {
+    "first": "5.9",
+    "recheck": "5.3",
+    "first_rationale": "Asks how de Tocqueville's French background shaped the passage; explaining a source's point of view is 2.B, industrial-urban society is 5.9.",
+    "recheck_rationale": "Stem asks how Tocqueville's French background shaped the passage. The task is explaining how the source's historical situation and point of view (a French outsider's comparative perspective on English"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 5,
+  "stem": "De Tocqueville's French background most likely shaped the passage by",
+  "stimulus": "From this foul drain, the greatest stream of human industry flows out to fertilize the whole world. From this filthy sewer, pure gold flows. Here, humanity attains its most complete development and its most brutish state; here civilization works its miracles, and civilized man is turned almost into a savage. (Alexis de Tocqueville on Manchester, from 'Journeys to England and Ireland,' 1835.)",
+  "options": [
+   "(A) making him a patriotic defender of English industry",
+   "(B) giving him an outsider's comparative perspective on English cities",
+   "(C) leading him to praise French industry as clearly superior to that of England",
+   "(D) causing him to write in the style of French legal documents"
+  ],
+  "explanation": "De Tocqueville was a French aristocrat touring Britain, and his account constantly measures English industrial cities against continental conditions he knew. His outsider's comparative perspective is what gives the passage its distinctive tone of astonishment at both the wealth and the squalor."
+ },
+ {
+  "id": "wh-barrons-t1-031",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "2.C",
+    "recheck": "2.A",
+    "first_rationale": "Asks what a gender-and-power historian could show with the cartoon; the source's usefulness for a historical purpose is 2.C, 5.2.",
+    "recheck_rationale": "Stem asks what a historian studying gender and power could use the cartoon to show. The task is identifying the source's point of view (a British cartoonist turning Catherine the Great's gender into t"
+   },
+   "topic": {
+    "first": "5.2",
+    "recheck": "5.1",
+    "first_rationale": "Asks what a gender-and-power historian could show with the cartoon; the source's usefulness for a historical purpose is 2.C, 5.2.",
+    "recheck_rationale": "Stem asks what a historian studying gender and power could use the cartoon to show. The task is identifying the source's point of view (a British cartoonist turning Catherine the Great's gender into t"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 5,
+  "stem": "A historian studying gender and power could use this cartoon to show that",
+  "stimulus": "[Satirical print by the English cartoonist William Holland, 'An Imperial Stride,' 1791: Catherine the Great of Russia takes an enormous stride across a map, one foot in Russia and the other reaching toward Constantinople, while small male figures on the left gaze up at her.]",
+  "options": [
+   "(A) even powerful female rulers faced gendered mockery",
+   "(B) eighteenth-century Europe barred all women from holding power",
+   "(C) British cartoonists admired and supported Russian autocracy",
+   "(D) Catherine the Great was deeply unpopular within Russia"
+  ],
+  "explanation": "Catherine was one of Europe's most powerful rulers, yet the cartoonist undermines her by turning her gender into the joke. The image is evidence that female authority, however real, was still mocked in gendered terms."
+ },
+ {
+  "id": "wh-barrons-t1-041",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "2.C",
+    "recheck": "2.A",
+    "first_rationale": "Asks what the regulation can best be used to study; judging the source's productive use (social boundaries on Jews) is 2.C, Europe 1.6.",
+    "recheck_rationale": "Stem asks what a historian could best use the 1243 Avignon regulation to study. The task is identifying what the source reveals about its own historical situation (a Christian municipal authority lega"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 1,
+  "stem": "A historian could best use this regulation to study",
+  "stimulus": "'Likewise, we declare that Jews or whores shall not dare to touch with their hands either bread or fruit put out for sale, and that if they should do this they must buy what they have touched.' (Regulations of the city of Avignon, 1243.)",
+  "options": [
+   "(A) Protestant-Catholic conflict in medieval France",
+   "(B) the overwhelming economic dominance of Jewish merchants over all Christians",
+   "(C) the social boundaries imposed on Jewish communities in Christian Europe",
+   "(D) medieval European enthusiasm for religious diversity"
+  ],
+  "explanation": "The edict singles out Jews for degrading restrictions rooted in the fear that their touch contaminates Christian food. It is a concrete example of the legal and social boundaries that Christian authorities imposed on Jewish communities in medieval Europe."
+ },
+ {
+  "id": "wh-barrons-t2-016",
+  "batch": "batch-01",
+  "fields": {
+   "topic": {
+    "first": "8.6",
+    "recheck": "8.7",
+    "first_rationale": "Asks whose absence limits the poem as a full picture; a limitation on the source's usefulness is 2.C, 8.6.",
+    "recheck_rationale": "Stem asks which group's absence most limits the poem as a full picture of the region's heritage. This is explicitly a limits-of-source judgment keyed to the source's point of view and scope (African a"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 8,
+  "stem": "A historian might note that the poem presents Latin American ancestry as African and European only. Which group's absence most limits the poem as a full picture of the region's heritage?",
+  "stimulus": "Cuban poet Nicolás Guillén's 'Ballad of Two Grandfathers' (1934) describes a speaker haunted by two ancestors: a 'black grandfather' associated with Africa, slave ships, and the sugar cane fields, and a 'white grandfather' associated with Spain, conquistadors, and galleons. The poem ends with the speaker bringing the two grandfathers together in an embrace, calling their longings 'both of equal size.'",
+  "options": [
+   "(A) Chinese laborers in the Caribbean, who formed a large part of Cuba's population",
+   "(B) Middle Eastern merchants",
+   "(C) North American settlers",
+   "(D) Indigenous peoples of the Americas"
+  ],
+  "explanation": "The poem traces Latin American identity to African and Spanish ancestors only. Indigenous peoples — a third major root of the region's population and culture — are absent, which limits the poem as a complete picture."
+ },
+ {
+  "id": "wh-barrons-t2-046",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "4.A",
+    "recheck": "4.B",
+    "first_rationale": "Asks which early-modern global-economy development Cerro Rico was central to; identifying the context (silver flow to Europe and Asia) is 4.A, Columbian Exchange system 4.3.",
+    "recheck_rationale": "Stem asks which development in the early modern global economy Cerro Rico was central to. The task is situating the specific case (Potosi silver) within the broader historical context (silver flows to"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 4,
+  "stem": "Cerro Rico, the mountain at the center of the painting, was central to which development in the early modern global economy?",
+  "stimulus": "[Painting: Our Lady of Cerro Rico de Potosí, ca. 1720. The Virgin Mary is merged with a mountain: her robed body forms the shape of Cerro Rico, with the Trinity crowning her head and indigenous and Spanish figures gathered at the mountain's base.]",
+  "options": [
+   "(A) The flow of American silver to Europe and Asia",
+   "(B) The rise of Caribbean sugar plantations",
+   "(C) The North American fur trade",
+   "(D) The export of Andean textiles to West African markets across the Atlantic"
+  ],
+  "explanation": "Cerro Rico's silver made Potosí one of the world's great mining centers. Its output flowed through Spanish trade networks to Europe and — via Manila — to China, tying the Americas into a genuinely global economy."
+ },
+ {
+  "id": "wh-barrons-t3-011",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "4.A",
+    "recheck": "4.B",
+    "first_rationale": "Asks why the war is 'forgotten'; identifying the broader context (uneasy memory of colonial conduct) is 4.A, 6.2.",
+    "recheck_rationale": "Stem asks for the most plausible explanation of why the Philippine-American War is America's forgotten war. The task is explaining the specific development (the war and its neglect in popular memory) "
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 6,
+  "stem": "The war that followed these proclamations is sometimes called America's 'forgotten war.' Which explanation for this neglect is most plausible?",
+  "stimulus": "Passage 1: 'Divine providence is about to place independence within our reach. The Americans have extended their protective mantle to our beloved country. Where you see the American flag flying, assemble in numbers; they are our redeemers.' —Emilio Aguinaldo, address to Filipinos, 1898. Passage 2: 'We come not as invaders or conquerors, but as friends, to protect the natives... All persons who cooperate with the government of the United States will receive its support and protection. All others will be brought within the lawful rule we have assumed... The mission of the United States is one of benevolent assimilation.' —President William McKinley, proclamation on the Philippines, 1898",
+  "options": [
+   "(A) The conflict lasted only a few days, involved almost no real fighting, and was quickly forgotten by everyone.",
+   "(B) Americans prefer not to dwell on episodes in which the United States acted as a colonial power.",
+   "(C) The United States lost the war and erased it from textbooks out of shame.",
+   "(D) No American soldiers actually served in the conflict."
+  ],
+  "explanation": "The United States defeated Spain in 1898 calling itself a liberator, then fought a colonial war to keep the Philippines. That contradiction sits uneasily with the American story of anti-colonial origins, so the episode gets little attention in popular memory."
+ },
+ {
+  "id": "wh-barrons-t3-021",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "4.A",
+    "recheck": "4.B",
+    "first_rationale": "Asks what the two images usefully illustrate together; identifying the broader context (Cold War technological rivalry) is 4.A, 8.2.",
+    "recheck_rationale": "Stem asks what pairing the 1957 Soviet satellite stamp with the 1958 US missile photo most usefully illustrates. The task is situating the two specific sources within the broader historical context (C"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 8,
+  "stem": "A historian would most usefully pair these two images to illustrate",
+  "stimulus": "[Image 1: A Soviet postage stamp dated 4 October 1957 showing the globe with a satellite's looping orbit circling it; Russian text reads 'First in the world: Soviet artificial satellite of the Earth.' Image 2: A black-and-white photograph of a tall U.S. Air Force ballistic missile standing on a launch pad, 1958.]",
+  "options": [
+   "(A) Scientific cooperation and open sharing of research between the two superpowers.",
+   "(B) Cold War rivalry expressed through technological competition.",
+   "(C) The decline of European colonial empires.",
+   "(D) The rise of the nonaligned movement."
+  ],
+  "explanation": "A Soviet satellite stamp and an American missile photograph, dated a year apart, are two sides of the same contest: each superpower advertising its technological might to intimidate the other. That is Cold War competition in visual form."
+ },
+ {
+  "id": "wh-barrons-t3-031",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "6.D",
+    "recheck": "6.C",
+    "first_rationale": "Asks how Schmidel's account complicates the disease argument; qualifying an argument with alternative evidence is 6.D, Spanish maritime conquest 4.4.",
+    "recheck_rationale": "Stem asks how Schmidel's battlefield account complicates the argument that epidemic disease decided the conquest more than Spanish weapons. The task is using historical reasoning to explain the relati"
+   },
+   "topic": {
+    "first": "4.4",
+    "recheck": "4.2",
+    "first_rationale": "Asks how Schmidel's account complicates the disease argument; qualifying an argument with alternative evidence is 6.D, Spanish maritime conquest 4.4.",
+    "recheck_rationale": "Stem asks how Schmidel's battlefield account complicates the argument that epidemic disease decided the conquest more than Spanish weapons. The task is using historical reasoning to explain the relati"
+   }
+  },
+  "skill_field": "Argumentation",
+  "unit_period": 4,
+  "stem": "Some historians argue that epidemic disease, more than Spanish weapons, decided the conquest of the Americas. Schmidel's account complicates that argument by",
+  "stimulus": "Passage 1: 'When we came nearer to them, we discharged our brass pieces against them. When they heard the noise, and saw so many men fall down dead — with neither bullets nor arrows to be seen, but only holes in their bodies — they wondered with astonishment and, horribly terrified, fled in troops... We brought into subjection about twelve thousand men, women, and children, who were compelled to serve us as bond-slaves.' —Ulrich Schmidel, on the Spanish conquest of Paraguay, 1537–1540. Passage 2: 'The Mexicans sacrificed only captives taken in war... They opened the stomach of the victim, tore out his heart while half alive, and tumbled the body down the temple stairs, which ran with blood. Forty or fifty were sacrificed at a time.' —José de Acosta on Aztec rites, ca. 1520",
+  "options": [
+   "(A) Describing Spanish missionaries peacefully converting the Carios to Catholicism.",
+   "(B) Proving that no Indigenous people died of European diseases.",
+   "(C) Showing that the Spanish conquered without using firearms.",
+   "(D) Vividly describing the terror that Spanish gunfire inspired in battle."
+  ],
+  "explanation": "The disease argument does not deny that guns existed — it claims they mattered less than epidemics. Schmidel pushes back with a vivid battlefield scene: gunfire alone routing warriors who had never seen firearms. It complicates the disease thesis without disproving it."
+ },
+ {
+  "id": "wh-barrons-t3-041",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Asks why chinampa agriculture is intensive; identifying the development's character is 1.A; 3.4 least-bad.",
+    "recheck_rationale": "Stem states the classification (chinampa agriculture is intensive) and asks which option explains WHY it qualifies. The task is explaining a historical concept (intensive agriculture: high yields from"
+   },
+   "topic": {
+    "first": "3.4",
+    "recheck": "3.1",
+    "first_rationale": "Asks why chinampa agriculture is intensive; identifying the development's character is 1.A; 3.4 least-bad.",
+    "recheck_rationale": "Stem states the classification (chinampa agriculture is intensive) and asks which option explains WHY it qualifies. The task is explaining a historical concept (intensive agriculture: high yields from"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 3,
+  "stem": "Chinampa agriculture is best classified as intensive because it",
+  "stimulus": "[Painting: In the foreground, bare-chested workers pack mud and woven reeds to build rectangular raised planting beds in a shallow lake; canoes and canals surround them. Behind rise small temples, green hills, and rows of cultivated plots stretching to the horizon. Caption: 'Construction of the chinampas,' depicting the Basin of Mexico, ca. 1500.]",
+  "options": [
+   "(A) It used gasoline-powered tractors and combine harvesters to farm vast landed estates.",
+   "(B) It drew high yields from small plots through steady labor and lakebed fertilizer.",
+   "(C) It planted a single crop across millions of acres.",
+   "(D) It required no human work once the beds were built."
+  ],
+  "explanation": "Intensive agriculture means getting very high yields from limited land through heavy labor and inputs. Chinampas did exactly that: small raised beds, constantly tended, fertilized with nutrient-rich lake mud, producing multiple harvests a year."
+ },
+ {
+  "id": "wh-barrons-t3-051",
+  "batch": "batch-01",
+  "fields": {
+   "skill": {
+    "first": "6.D",
+    "recheck": "6.C",
+    "first_rationale": "Asks which claim the table undermines; qualifying an argument with counterevidence is 6.D, 9.4.",
+    "recheck_rationale": "Stem asks which claim the 2015 China trade table most clearly undermines. The task is using historical reasoning about the table data as evidence to evaluate and refute a claim (the huge China-US trad"
+   }
+  },
+  "skill_field": "Argumentation",
+  "unit_period": 9,
+  "stem": "The table as a whole most clearly undermines which claim?",
+  "stimulus": "China's trade with selected partners, 2015 (billions of U.S. dollars). United States: exports 368, imports 153. Hong Kong: exports 385, imports 16. Japan: exports 150, imports 162. South Korea: exports 91, imports 183. Taiwan: exports 41, imports 157. Germany: exports 67, imports 94. Australia: exports 38, imports 98. Malaysia: exports 46, imports 60. Brazil: exports 36, imports 54. Russia: exports 50, imports 40. —Trade data via CEIC, reported by the New York Times",
+  "options": [
+   "(A) China is a major trading nation.",
+   "(B) Geography influences patterns of trade.",
+   "(C) Ideological differences prevent large-scale trade between states.",
+   "(D) The United States is one of China's biggest and most important trading partners."
+  ],
+  "explanation": "Communist China trades over $500 billion with the capitalist United States — the table's single largest bilateral flow. Whatever divides the two systems politically, the pursuit of economic advantage clearly overrides it."
+ },
+ {
+  "id": "wh-barrons-u3-001",
+  "batch": "batch-02",
+  "fields": {
+   "topic": {
+    "first": "3.1",
+    "recheck": "3.2",
+    "first_rationale": "Asks what social order the Tokugawa merchant manual assumes (Confucian shi-no-ko-sho hierarchy); identifying the passage's claim.",
+    "recheck_rationale": "'The social order assumed by the passage' asks the student to describe the claim the source makes -- a Confucian shi-no-ko-sho hierarchy (samurai, peasants, artisans, merchants) in Tokugawa Japan. Bes"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 3,
+  "stem": "The social order assumed by the passage is best described as",
+  "stimulus": "A 17th-century Japanese manual for merchants urges readers to live honestly, honor their parents and relatives, treat everyone with courtesy, avoid selfishness, and never lie. It presents commerce as an activity that must be conducted within strict moral bounds, warning that profit pursued without virtue brings disgrace.\n\nThe hierarchy was borrowed from Confucian thought, which ranked occupations by their contribution to society: samurai, who governed, first; then peasants, who grew the food; then artisans, who made things; and last the merchants, who merely moved goods about for profit. In practice, Tokugawa Japan's long peace made merchants indispensable — samurai stipends paid in rice had to be converted to cash, and the great merchant houses of Osaka became the bankers of the warrior class — but the formal ranking never changed, whatever the balance of wealth.",
+  "options": [
+   "(A) an egalitarian society with no formal ranks",
+   "(B) A Confucian hierarchy of samurai, peasants, artisans, merchants",
+   "(C) a feudal order based solely on who owned the most land overall",
+   "(D) a caste system determined entirely by ritual purity"
+  ],
+  "explanation": "Tokugawa Japan organized society into the Confucian-inspired shi-nō-kō-shō hierarchy: warriors (samurai) at the top, then peasants, artisans, and merchants at the bottom. The manual's anxious insistence that merchants behave virtuously makes sense in a world where their occupation ranked lowest even as their wealth grew."
+ },
+ {
+  "id": "wh-barrons-u3-011",
+  "batch": "batch-02",
+  "fields": {
+   "topic": {
+    "first": "3.4",
+    "recheck": "3.1",
+    "first_rationale": "Asks which system the Russian yasak most resembles (Spanish encomienda); identifying the comparative historical context.",
+    "recheck_rationale": "Under the item's Contextualization parent, best fit is 4.A: identifying the broader colonial-tribute context (encomienda-type extraction systems) for the Russian yasak. Siberian fur-tribute expansion "
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 3,
+  "stem": "The fur-tribute system described most closely resembles which of the following?",
+  "stimulus": "In the 1600s, Russia exacted the yasak — a fur tribute — from the native peoples of Siberia. As Russian trappers pushed east, fur-bearing animals grew scarce, and native communities struggled to meet quotas fixed in better times.\n\nThe yasak was Russia's Siberian fur tribute: native communities were assessed annual quotas of sable and other pelts, enforced by Cossack collectors who took hostages to ensure payment. Like the Spanish encomienda, it converted conquest into revenue — furs flowing to Moscow as silver flowed to Seville. And like the encomienda, it devastated the peoples it bound: overhunting depleted the animals, the quotas stayed fixed, and communities faced ruin trying to meet demands set in more abundant times. Moscow's treasury depended on the tribute: in some years fur accounted for a tenth or more of state revenue, making the yasak not a frontier curiosity but a pillar of the early Russian fiscal state.",
+  "options": [
+   "(A) Democratic taxation with representation",
+   "(B) The abolition of tribute payments",
+   "(C) The Spanish encomienda",
+   "(D) Modern free-trade agreements"
+  ],
+  "explanation": "The yasak and the encomienda were cousins: both were colonial systems for extracting wealth from Indigenous peoples through legalized coercion — furs in Siberia, labor and goods in Spanish America. Both enriched the empire while impoverishing the communities they bound."
+ },
+ {
+  "id": "wh-barrons-u7-006",
+  "batch": "batch-02",
+  "fields": {
+   "topic": {
+    "first": "7.1",
+    "recheck": "7.5",
+    "first_rationale": "Asks how negritude differed from assimilation (valued African cultures on their own terms); identifying the historical context.",
+    "recheck_rationale": "Under the item's Contextualization parent, best fit is 4.A: identifying/describing the assimilation doctrine as the historical context for negritude's emergence. Negritude as a 1930s anti-colonial cri"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 7,
+  "stem": "Negritude differed from the French colonial ideal of 'assimilation' in that it",
+  "stimulus": "France's colonial doctrine of 'assimilation' held that colonial subjects could become French by adopting French language, culture, and values — measuring civilization by Frenchness. The negritude writers, educated in that very system, answered it with poetry affirming the worth of African cultures on their own terms.",
+  "options": [
+   "(A) Supported the continuation of French colonialism",
+   "(B) rejected the use of the French language",
+   "(C) Valued African cultures on their own terms",
+   "(D) demanded that all Africans move to France"
+  ],
+  "explanation": "Assimilation said: become French to become civilized. Negritude replied: African cultures are already valuable; Blackness needs no apology. It was a direct philosophical challenge to the premise of the civilizing mission — mounted, ironically, in impeccable French."
+ },
+ {
+  "id": "wh-barrons-u8-006",
+  "batch": "batch-02",
+  "fields": {
+   "topic": {
+    "first": "8.2",
+    "recheck": "8.6",
+    "first_rationale": "Asks what nonalignment meant in practice (aid from both superpowers, no alliances); identifying the historical context.",
+    "recheck_rationale": "Under the item's Contextualization parent, best fit is 4.A: identifying the Bandung/Cold War context of nonalignment. Nonaligned newly independent states are Newly Independent States content. NOTE: th"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 8,
+  "stem": "In practice, nonalignment often meant",
+  "stimulus": "At Bandung in 1955, Sukarno urged newly independent nations to stay neutral in the Cold War. In practice, leaders like Sukarno, Nkrumah, and Nasser accepted economic and military aid from both Washington and Moscow while avoiding formal alliances with either.",
+  "options": [
+   "(A) Aid from both superpowers, no alliances",
+   "(B) refusing all contact with both superpowers",
+   "(C) secretly joining NATO",
+   "(D) colonizing neighboring states"
+  ],
+  "explanation": "Nonalignment was less a moral posture than a bargaining strategy: by refusing to commit, Third World leaders could play the superpowers against each other for dams, weapons, and development aid. Neutrality, in practice, meant keeping both doors open."
+ },
+ {
+  "id": "wh-fivesteps-u1-011",
+  "batch": "batch-02",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks what the Gandhara Buddha frieze illustrates about Hellenistic exchange (conquered peoples adapted Greek forms); explaining a historical process.",
+    "recheck_rationale": "'What does this best illustrate about Hellenistic cultural exchange' -- identifying the process shown by the Gandhara Buddha frieze (conquered peoples adapting Greek artistic forms to their own religi"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 1,
+  "stem": "A stone frieze from Gandhara (in modern Pakistan) shows the Buddha carved with flowing Greek-style robes and a naturalistic stance borrowed from Hellenistic sculpture. What does this best illustrate about Hellenistic cultural exchange?",
+  "stimulus": "The frieze, carved in the centuries after Alexander's conquests, depicts the Buddha with deeply folded Greco-Roman drapery, a naturalistic body stance, and wavy hair tied in a Greco-style topknot — yet the subject is unmistakably the Buddha, seated among Indian devotees.",
+  "options": [
+   "(A) The Greeks imposed their religion on India",
+   "(B) Indians had no artistic traditions before the Greeks arrived",
+   "(C) Alexander banned all local art forms",
+   "(D) Conquered peoples adapted Greek artistic forms to their own religious purposes"
+  ],
+  "explanation": "The Buddha wears Greek drapery and stands in a Greek pose, but the figure is the Buddha, serving a Buddhist devotional purpose. Greek forms were borrowed, yet local artisans and patrons decided what those forms would mean — conquest supplied a visual vocabulary, but the conquered wrote the sentences. (A) is wrong because the image shows a Buddhist figure, not a Greek god imposed on India. (B) is wrong because India had rich artistic traditions long before Alexander. (C) is wrong because the frieze itself proves local art flourished under Hellenistic influence."
+ },
+ {
+  "id": "wh-fivesteps-u1-021",
+  "batch": "batch-02",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Asks the fundamental reason for pre-1492 American isolation (oceans too wide for existing ships); explaining a historical process.",
+    "recheck_rationale": "'What was the fundamental reason' the pre-1492 Americas were isolated from Afro-Eurasian networks (oceans too wide for existing ships) -- identification of the cause of a historical condition. Pre-con"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 1,
+  "stem": "Before 1492, the Americas were isolated from Afro-Eurasian trade networks. What was the fundamental reason?",
+  "stimulus": "",
+  "options": [
+   "(A) American peoples banned all foreign trade",
+   "(B) The Americas had no goods worth trading",
+   "(C) Oceans too wide for existing ships physically isolated the Americas",
+   "(D) Europeans deliberately hid the Americas from Asian merchants to monopolize trade"
+  ],
+  "explanation": "The Atlantic is roughly 3,000 miles wide and the Pacific far wider; no ship of the ancient or medieval world could carry enough water and provisions to cross them. Afro-Eurasian networks stopped at the water's edge because the technology to cross did not yet exist."
+ },
+ {
+  "id": "wh-fivesteps-u1-046",
+  "batch": "batch-03",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Asks what historians credit the Pax Mongolica with -> identify (secure trade routes) (1.A); Mongol-era connectivity - closest unit-1 topic is 1.1 (East Asia).",
+    "recheck_rationale": "Stem asks what historians credit the Pax Mongolica with; answer explains the development (secure Eurasian trade routes spreading goods/technology/disease). Explaining a development (1.B). Content is M"
+   },
+   "topic": {
+    "first": "1.1",
+    "recheck": "1.7",
+    "first_rationale": "Asks what historians credit the Pax Mongolica with -> identify (secure trade routes) (1.A); Mongol-era connectivity - closest unit-1 topic is 1.1 (East Asia).",
+    "recheck_rationale": "Stem asks what historians credit the Pax Mongolica with; answer explains the development (secure Eurasian trade routes spreading goods/technology/disease). Explaining a development (1.B). Content is M"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 1,
+  "stem": "Mongol conquests killed millions, yet historians also credit the Pax Mongolica. With what?",
+  "stimulus": "Paraphrase of two European accounts of the Mongols: Marco Polo (c. 1298) describes their arms, bows, iron maces, and spears, with the bow as their master weapon, practiced from childhood. They wear armor, fight with desperate bravery, and endure every privation, living for a month on mare's milk and game; their horses graze on grass alone. The men stay mounted for two days and nights without dismounting. No people surpass them in fortitude and patience; they obey their chiefs absolutely and cost little to maintain. William of Rubruck, a Franciscan friar visiting the Mongols in the 1250s for the King of France, describes the division of labor: one woman drives twenty or thirty wagons over the level steppe; women drive the wagons, load and unload the dwellings, milk the cows, make butter and cheese, and dress skins with sinew thread; men make bows, arrows, stirrups, bits, and saddles, build the dwellings and wagons, tend the horses, and churn the mare's milk.",
+  "options": [
+   "(A) Secure trade routes spreading goods, technologies, and diseases across Eurasia",
+   "(B) The spread of democracy",
+   "(C) The invention of printing in Europe",
+   "(D) The end of Christianity, as the Mongols suppressed churches and monasteries across Eurasia"
+  ],
+  "explanation": "The Mongol peace, enforced by terror and maintained by law, let caravans cross from China to Persia to Europe in relative safety. Along those roads traveled paper money, gunpowder, printing, and crops, and also the fleas that carried the Black Death. The same connectivity that enriched Eurasia could also kill it."
+ },
+ {
+  "id": "wh-fivesteps-u4-003",
+  "batch": "batch-03",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Asks for which reason the potato drove European population growth -> identify (calories per acre on poor soils) (1.A); Columbian Exchange crop transfer (4.3).",
+    "recheck_rationale": "Stem asks the reason the potato drove European population growth; explanation gives the causal account (calories per acre, poor soils). Explaining a historical development (1.B). Potato as a Columbian"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "The introduction of the potato from the Americas most directly contributed to European population growth for which reason?",
+  "stimulus": "",
+  "options": [
+   "(A) It became a luxury food affordable only to elites",
+   "(B) It immediately replaced all grain farming in Europe",
+   "(C) Its nutritional benefits were confined to the Mediterranean",
+   "(D) More calories per acre than grain, on poor soils"
+  ],
+  "explanation": "Potatoes produce far more calories per acre than wheat or rye and thrive in thin, cool soils where grain fails, so their spread let European families feed more children on small plots — a direct driver of population growth. (A) is wrong because the potato was a peasant staple, not an elite luxury. (B) is wrong because grain farming continued alongside potatoes; there was no sudden total replacement. (C) is wrong because the potato's demographic impact was greatest in northern and Atlantic Europe, not the Mediterranean."
+ },
+ {
+  "id": "wh-fivesteps-u4-013",
+  "batch": "batch-03",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Asks in which belief Deists differed from traditional Christians -> identify (clockmaker God) (1.A); Enlightenment thought - least-bad unit-4 topic is 4.1.",
+    "recheck_rationale": "Stem asks which belief most clearly distinguished deists from traditional Christians; explanation explicates the deist concept (clockmaker God, natural laws, no intervention). Explaining a historical "
+   },
+   "topic": {
+    "first": "4.1",
+    "recheck": "4.8",
+    "first_rationale": "Asks in which belief Deists differed from traditional Christians -> identify (clockmaker God) (1.A); Enlightenment thought - least-bad unit-4 topic is 4.1.",
+    "recheck_rationale": "Stem asks which belief most clearly distinguished deists from traditional Christians; explanation explicates the deist concept (clockmaker God, natural laws, no intervention). Explaining a historical "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "Deists of the Enlightenment differed from traditional Christians most clearly in which belief?",
+  "stimulus": "",
+  "options": [
+   "(A) God predestines every human action",
+   "(B) God reveals truth only through the Church hierarchy and its ordained clergy",
+   "(C) The universe operates without any natural laws",
+   "(D) God created the universe to run by natural laws and does not intervene"
+  ],
+  "explanation": "Deists accepted a Creator but held that He designed the universe to operate by discoverable natural laws and then stepped back — no miracles, no revelation, no clerical mediation. That removed the interventionist God of traditional Christianity while keeping a rational first cause. (A) is wrong because predestination is a Calvinist doctrine about God decreeing every event, the opposite of the deist clockmaker. (B) is wrong because deists rejected clerical authority as a channel of divine truth. (C) is wrong because natural laws were the very centerpiece of deist thought."
+ },
+ {
+  "id": "wh-fivesteps-u4-043",
+  "batch": "batch-03",
+  "fields": {
+   "topic": {
+    "first": "4.7",
+    "recheck": "4.8",
+    "first_rationale": "Asks what explains Ottoman tolerance vs Spanish expulsion -> explain (valued Jewish merchants' skills) (1.B); minority status in empires, social hierarchies (4.7).",
+    "recheck_rationale": "Stem asks what explains the Ottoman reception of expelled Jews vs. Spain's expulsion; explanation gives the causal account (pragmatic tolerance of useful minorities in a multi-religious empire). Expla"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "The Ottoman Empire received many expelled Jews rather than expelling them. What explains this contrast with Spain?",
+  "stimulus": "The map traces Jewish population movements in Europe from the 1200s to the 1500s: solid arrows mark forced expulsions (from England in 1290, France, and Spain in 1492), dotted arrows mark voluntary migrations, with most movement flowing toward Central and Eastern Europe and the Ottoman Empire.",
+  "options": [
+   "(A) The Ottoman rulers were secretly Jewish and favored their co-religionists over Muslims",
+   "(B) The Ottomans expelled even more Jews than Spain",
+   "(C) The Ottomans had never encountered Jews",
+   "(D) The Ottomans valued Jewish merchants' skills and tolerated religious minorities"
+  ],
+  "explanation": "The Ottomans, ruling a multi-religious empire, welcomed Jewish merchants, physicians, and artisans expelled from Christian Europe, valuing their skills and trade networks. Where Catholic Spain demanded uniformity, the Islamic empire practiced pragmatic tolerance for useful minorities."
+ },
+ {
+  "id": "wh-fivesteps-u5-002",
+  "batch": "batch-03",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Asks which priority 'rich country, strong army' reflects -> identify (industrial/military strength to resist West) (1.A); government's role in industrialization (5.6).",
+    "recheck_rationale": "Stem asks what priority the slogan fukoku kyohei reflects; explanation gives the causal account (industrial and military strength to resist the West, defensive modernization). Explaining a historical "
+   },
+   "topic": {
+    "first": "5.6",
+    "recheck": "5.4",
+    "first_rationale": "Asks which priority 'rich country, strong army' reflects -> identify (industrial/military strength to resist West) (1.A); government's role in industrialization (5.6).",
+    "recheck_rationale": "Stem asks what priority the slogan fukoku kyohei reflects; explanation gives the causal account (industrial and military strength to resist the West, defensive modernization). Explaining a historical "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 5,
+  "stem": "The Meiji slogan 'rich country, strong army' (fukoku kyohei) best reflects which priority of the new government?",
+  "stimulus": "A modern historian summarizes Japan's transformation: after decades of weakness, it was good to be Japanese at last, and to humble the mighty neighbor that had dominated the horizon for so long. In under forty years, Japan had gone from a feudal society to a modern state — with advanced weaponry, a professional military bureaucracy, reformed governing structures, and a new educational system reaching the whole population.",
+  "options": [
+   "(A) Industrial and military strength to resist the West",
+   "(B) Restoring the shogun's traditional authority",
+   "(C) Making Japan fully self-sufficient in raw materials",
+   "(D) Spreading democratic government throughout Japan"
+  ],
+  "explanation": "Fukoku kyohei meant building the economic and military muscle to stand up to the Western powers, end the humiliation of the unequal treaties, and keep Japan from suffering China's fate. Every Meiji reform — industry, conscription, education — served that defensive modernization. (B) is wrong because the Meiji reforms destroyed the shogunate rather than restoring it. (C) is wrong because Japan knew it could never supply all raw materials domestically; the goal was strength, not autarky. (D) is wrong because the Meiji state was oligarchic, not democratic."
+ },
+ {
+  "id": "wh-fivesteps-u6-008",
+  "batch": "batch-03",
+  "fields": {
+   "topic": {
+    "first": "6.2",
+    "recheck": "6.5",
+    "first_rationale": "Asks what the treaty-port system meant in practice -> explain (foreigners under own laws, treaty tariffs) (1.B); state expansion in China (6.2).",
+    "recheck_rationale": "Stem asks what the treaty-port system meant in practice; explanation gives the causal account (extraterritoriality, treaty-fixed tariffs, loss of sovereign trade rights). Explaining a historical devel"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 6,
+  "stem": "The Treaty of Nanjing (1842) created 'treaty ports' in China. What did this system mean in practice?",
+  "stimulus": "",
+  "options": [
+   "(A) China was partitioned into European colonies governed directly by foreign powers",
+   "(B) Foreigners lived under their own laws and treaty-fixed tariffs inside China",
+   "(C) The emperor was replaced by a democratic parliament",
+   "(D) China withdrew from all foreign trade"
+  ],
+  "explanation": "Under the treaty-port system, foreign merchants resided in designated ports under their own consular courts (extraterritoriality) and paid tariffs fixed by treaty rather than by Beijing. China kept its emperor and its territory but lost the sovereign right to govern foreigners and set its own trade taxes within its borders. (A) is wrong because the powers took only Hong Kong outright; they did not partition China into colonies. (C) is wrong because the Qing emperor remained on the throne. (D) is wrong because the treaties forced China open to foreign trade rather than sealing it shut."
+ },
+ {
+  "id": "wh-fivesteps-u7-001",
+  "batch": "batch-03",
+  "fields": {
+   "topic": {
+    "first": "7.7",
+    "recheck": "7.6",
+    "first_rationale": "Asks what the Poland invasion most directly caused -> identify (Britain/France declared war) (1.A); conducting World War II (7.7).",
+    "recheck_rationale": "Stem asks what the September 1939 invasion of Poland most directly caused; the task is to identify the consequence (Britain and France declared war) among discrete events, not to explicate a concept's"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 7,
+  "stem": "The photograph shows German troops and tanks crossing into Poland in September 1939. What did this invasion most directly cause?",
+  "stimulus": "The photograph, dated September 1939, shows German infantry and armored vehicles advancing across the Polish frontier as Polish border posts burn in the background.",
+  "options": [
+   "(A) Britain and France declared war on Germany",
+   "(B) The Soviet Union immediately joined Britain and France",
+   "(C) The United States immediately entered the war",
+   "(D) German forces were stopped at the Polish border"
+  ],
+  "explanation": "Germany's invasion of Poland on September 1, 1939 crossed the line Britain and France had drawn at Munich: both issued ultimatums and declared war on September 3, turning a regional invasion into a world war. (B) is wrong because the USSR remained bound by the Nazi-Soviet Pact until Germany invaded it in 1941. (C) is wrong because the United States stayed neutral until Pearl Harbor in December 1941. (D) is wrong because Poland was overrun within weeks; Germany was not stopped at the border."
+ }
+]

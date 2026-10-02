@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "The Buddha wears Greek drapery and stands in a Greek pose, but the figure is the Buddha, serving a Buddhist devotional purpose. Greek forms were borrowed, yet local artisans and patrons decided what those forms would mean — conquest supplied a visual vocabulary, but the conquered wrote the sentences. (A) is wrong because the image shows a Buddhist figure, not a Greek god imposed on India. (B) is wrong because India had rich artistic traditions long before Alexander. (C) is wrong because the frieze itself proves local art flourished under Hellenistic influence.",
     "id": "wh-fivesteps-u1-011",
+    "skill_code": "1.A",
+    "topic_code": "1.3",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The figure is the Buddha, not a Greek deity; no religious imposition is shown.",
@@ -35,6 +37,8 @@
     "difficulty": "hard",
     "explanation": "The Ptolemies in Egypt and Seleucids in Persia kept pharaonic rituals, Babylonian temples, and local bureaucracies running while adding Greek cities, gymnasia, and administration on top. 'Hellenistic' names that fusion — Greek-style monarchy ruling through adapted native institutions. (A) is wrong because these kingdoms operated in Egyptian, Aramaic, and Persian as well as Greek. (B) is wrong because they preserved and patronized local customs rather than erasing them. (D) is wrong because they were monarchies, not Athenian-style democracies.",
     "id": "wh-fivesteps-u1-012",
+    "skill_code": "1.B",
+    "topic_code": "1.7",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The Hellenistic kingdoms operated in Egyptian, Aramaic, and Persian as well as Greek.",
@@ -66,6 +70,8 @@
     "difficulty": "hard",
     "explanation": "Macedonian veterans mutinied at Opis in 324 BCE, protesting Persian dress, Persian marriages, and Persian troops in the army — they saw their king going native. The episode shows that cultural fusion imposed from the throne had sharp limits when it collided with the conquerors' own identity. (A) is wrong because the veterans protested and in some cases mutinied. (B) is wrong because there is no evidence of mass Macedonian conversion to Zoroastrianism. (D) is wrong because the sources record loud, organized resentment.",
     "id": "wh-fivesteps-u1-013",
+    "skill_code": "1.A",
+    "topic_code": "1.7",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Macedonian veterans protested and mutinied against Alexander's Persian-style policies.",
@@ -98,6 +104,8 @@
     "difficulty": "hard",
     "explanation": "The Mongols were a tiny ruling minority over a vast empire of Muslims, Buddhists, Christians, and others. Exempting clergy from taxes and labor bought the goodwill — or at least the neutrality — of the religious leaders who shaped popular opinion, a cheap price for stability. It was strategy, not conviction. (A) is wrong because Chinggis Khan followed Mongol shamanism and never converted. (B) is wrong because the Mongols patronized religions rather than despising them. (C) is wrong because Mongol policy had nothing to do with Quranic requirements.",
     "id": "wh-fivesteps-u1-014",
+    "skill_code": "1.B",
+    "topic_code": "1.7",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Chinggis Khan remained a Mongol shamanist; he did not convert to the religions he tolerated.",
@@ -130,6 +138,8 @@
     "difficulty": "hard",
     "explanation": "The yam placed fresh horses and supplies at stations a day's ride apart across the entire empire, letting official messengers and spies cross Asia in weeks. For a nomadic dynasty ruling sedentary millions, fast information was the nervous system of control. (A) is wrong because the yam served officials and the military, not casual travelers. (C) is wrong because it was an administrative and military system, not a pilgrimage service. (D) is wrong because tribute moved by caravan and cart, not through the relay stations.",
     "id": "wh-fivesteps-u1-015",
+    "skill_code": "1.A",
+    "topic_code": "1.7",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The yam served imperial officials and the military, not private or tourist travelers.",
@@ -162,6 +172,8 @@
     "difficulty": "hard",
     "explanation": "The khans appointed Moscow's princes as their chief tribute-collectors, letting them skim wealth and crush rival principalities with Mongol backing. By the time Mongol power faded, Moscow had grown rich and dominant enough to claim leadership of all Russia. (B) is wrong because the Mongols never made Moscow their capital; Sarai was the Golden Horde's seat. (C) is wrong because Moscow did not expel the Mongols in 1240 — that was the invasion's beginning, not its end. (D) is wrong because Moscow remained Orthodox Christian; Islam did not take root there.",
     "id": "wh-fivesteps-u1-016",
+    "skill_code": "1.B",
+    "topic_code": "1.6",
     "key": "A",
     "option_explanations": {
       "A": "Correct. As the khans' tribute-collectors, Moscow's princes accumulated wealth and Mongol backing to dominate rival principalities.",
@@ -194,6 +206,8 @@
     "difficulty": "hard",
     "explanation": "Neither empire tried to administer every province directly: Persian satraps and Mongol vassal princes kept their thrones, laws, and customs so long as tribute flowed and rebellion did not. Indirect rule through native elites was cheaper and more stable than garrisons everywhere. (B) is wrong because neither empire was democratic. (C) is wrong because both preserved local cultures rather than abolishing them. (D) is wrong because tribute extraction was central to both imperial systems.",
     "id": "wh-fivesteps-u1-017",
+    "skill_code": "5.A",
+    "topic_code": "1.7",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Both empires relied on native rulers and local traditions to keep order cheaply while tribute flowed upward.",
@@ -226,6 +240,8 @@
     "difficulty": "hard",
     "explanation": "The Lampere learned of the Spanish approach and prepared: spike-lined pits, a 4,000-man army, and a three-day defense of their town. Conquest was no walkover — native peoples mounted organized, prepared resistance. Yet the Spaniards' brass guns routed the defenders and they took the town after three days: the conquest-era pattern of fierce indigenous resistance ultimately broken by firepower, disease, and relentless follow-through. (A) is wrong because the passage describes elaborate preparations and a three-day defense. (C) is wrong because the Spaniards fired their guns and assaulted the town for three days. (D) is wrong because the pits were the Lampere's own defensive work, dug before the Spanish arrived.",
     "id": "wh-fivesteps-u4-014",
+    "skill_code": "3.D",
+    "topic_code": "4.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The passage describes elaborate defensive preparations and a three-day defense of the town.",
@@ -257,6 +273,8 @@
     "difficulty": "hard",
     "explanation": "The Lampere warriors had never encountered firearms: men dropped dead with 'neither bullets nor arrows' visible, only mysterious holes in their bodies. That incomprehensible, invisible killing shattered their courage and sent four thousand men fleeing from three hundred — terror multiplying the guns' physical effect. (A) is wrong because the passage shows guns routing the defenders, not failing. (B) is wrong because the natives had only bows and arrows. (C) is wrong because the Spaniards fought a three-day assault; they did not win without combat.",
     "id": "wh-fivesteps-u4-015",
+    "skill_code": "3.D",
+    "topic_code": "4.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The passage shows firearms routing the defenders, not proving inferior to bows.",
@@ -288,6 +306,8 @@
     "difficulty": "hard",
     "explanation": "Before any shot was fired, Lampere's people offered the Spaniards provisions in exchange for a peaceful withdrawal — a diplomatic attempt to buy off the invaders and avoid bloodshed. Only after the Spanish refused did they fight, and then courageously for three days. (A) is wrong because the offer of food was a peace gesture, not worship. (B) is wrong because the town is described as having 'plenty of victual.' (C) is wrong because they wanted the Spaniards to leave, not to enlist.",
     "id": "wh-fivesteps-u4-016",
+    "skill_code": "3.D",
+    "topic_code": "4.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Offering food was a diplomatic peace gesture, not an act of worship.",
@@ -319,6 +339,8 @@
     "difficulty": "hard",
     "explanation": "The casta system ranked people by blood proximity to Spain: peninsulares (born in Spain) at the top, then criollos (American-born Spaniards), then mestizos of mixed parentage, with Africans and natives below. A commander's child with a native woman fell into the mixed middle — above natives, below Spaniards. (A) is wrong because wealth alone could not move a person up the blood-based hierarchy. (C) is wrong because religious devotion did not determine casta rank. (D) is wrong because military rank did not override the ancestry principle.",
     "id": "wh-fivesteps-u4-017",
+    "skill_code": "1.A",
+    "topic_code": "4.7",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Wealth alone could not lift someone in a hierarchy organized by blood and birthplace.",
@@ -350,6 +372,8 @@
     "difficulty": "hard",
     "explanation": "Old World populations had endured smallpox, measles, and influenza for centuries, developing partial immunity passed across generations. Native Americans, isolated from these diseases for millennia, possessed no such acquired resistance, so infections that were survivable in Europe killed on a catastrophic scale. (A) is wrong because there is no evidence of systematic poisoning. (B) is wrong because natives lacked immunity; they did not possess superior resistance. (D) is wrong because these diseases were killers precisely because the population had no defenses.",
     "id": "wh-fivesteps-u4-018",
+    "skill_code": "1.B",
+    "topic_code": "4.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. There is no evidence that Europeans systematically poisoned native water supplies.",
@@ -382,6 +406,8 @@
     "difficulty": "hard",
     "explanation": "Mesoamerican warriors fought with obsidian-edged clubs and spears — lethally sharp but brittle. Against steel plate and mail, obsidian shattered and wooden weapons splintered, while Spanish steel blades cut through cotton armor with ease. The materials gap made close combat brutally one-sided. (B) is wrong because native warriors were well-armed by their own standards; the issue was materials. (C) is wrong because steel is not poisonous; its advantage was hardness and edge retention. (D) is wrong because native warriors fought fiercely, as the sources attest.",
     "id": "wh-fivesteps-u4-019",
+    "skill_code": "1.B",
+    "topic_code": "4.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Brittle obsidian and wood shattered against steel plate and mail, while steel blades cut through native cotton armor.",
@@ -413,6 +439,8 @@
     "difficulty": "hard",
     "explanation": "Manorial serfs were bound to a lord's estate within a reciprocal (if unequal) web of obligations; encomienda grants gave Spaniards rights over the labor of native communities specifically to feed the colonial extraction economy — mines and plantations — with no pretense of the manor's mutual duties. (A) is wrong because encomienda labor was coerced, not voluntary. (B) is wrong because manorialism rested on bound peasant labor, not wages. (C) is wrong because the two systems differed fundamentally in their legal basis and economic purpose.",
     "id": "wh-fivesteps-u4-020",
+    "skill_code": "5.A",
+    "topic_code": "4.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Encomienda labor was coerced through colonial authority, not freely volunteered.",
@@ -445,6 +473,8 @@
     "difficulty": "hard",
     "explanation": "Mapping the Brahman to the mouth, the Kshatriya to the arms, the Vaishya to the thighs, and the Shudra to the feet presents rank as anatomy — built into the cosmic body at creation. Hierarchy is thereby not a human convention but the structure of the universe itself. (A) is wrong because the hymn ranks the varnas explicitly; it does not teach equality. (B) is wrong because the body parts are deliberately hierarchical, from mouth down to feet. (D) is wrong because the hymn is a cosmogonic religious text, not a medical one.",
     "id": "wh-fivesteps-u1-018",
+    "skill_code": "3.A",
+    "topic_code": "1.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The hymn explicitly ranks the varnas from mouth to feet; it does not teach equality.",
@@ -477,6 +507,8 @@
     "difficulty": "hard",
     "explanation": "The hymn belongs to the Rig-Veda, composed around 1500-1000 BCE — the fountainhead of Hindu scripture. That the varna order appears in India's oldest religious text shows caste was sacralized from the very beginning, carrying divine authority rather than being a late or purely secular invention. (A) is wrong because the hymn itself gives caste a religious origin. (B) is wrong because British colonialism came three millennia later. (D) is wrong because the hymn affirms the varna order; it does not oppose it.",
     "id": "wh-fivesteps-u1-019",
+    "skill_code": "3.A",
+    "topic_code": "1.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The hymn derives the varnas from a divine sacrifice, giving caste an explicitly religious foundation.",
@@ -509,6 +541,8 @@
     "difficulty": "hard",
     "explanation": "Bhakti saints like Kabir and Ravidas — themselves of low or humble birth — taught that loving devotion to god mattered more than ritual purity or birth, drawing followers across caste lines. That caste could be challenged from inside Hindu tradition shows the system was contested in practice, not monolithic. (A) is wrong because caste ideology and hierarchy persisted for centuries after. (B) is wrong because bhakti devotion often bypassed Brahman ritual authority rather than reinforcing it. (D) is wrong because the bhakti critics themselves prove questioning happened.",
     "id": "wh-fivesteps-u1-020",
+    "skill_code": "1.B",
+    "topic_code": "1.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Caste hierarchy persisted for centuries; bhakti softened its edges without abolishing it.",
@@ -541,6 +575,8 @@
     "difficulty": "hard",
     "explanation": "Luther's 'three walls' were the legal fictions that made Rome untouchable: the claim that secular rulers could not judge the Church, that only the pope could interpret scripture, and that only the pope could summon a reforming council. Knocking down those walls was the necessary first step.",
     "id": "wh-fivesteps-u4-021",
+    "skill_code": "2.A",
+    "topic_code": "4.8",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Luther aimed to make the Church accountable, not to defend papal immunity.",
@@ -573,6 +609,8 @@
     "difficulty": "hard",
     "explanation": "Luther knew Rome would condemn him. Survival required a protector with armies: the German princes who could defy both pope and emperor. By addressing the nobility, he was recruiting the political and military shield the Reformation needed.",
     "id": "wh-fivesteps-u4-022",
+    "skill_code": "2.B",
+    "topic_code": "4.8",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Luther wrote Latin fluently; addressing the nobility in German was a deliberate strategic choice.",
@@ -605,6 +643,8 @@
     "difficulty": "hard",
     "explanation": "Protestant critics had hammered the Church for absentee bishops who never visited their dioceses, illiterate priests, and the sale of offices. Trent answered by ordering bishops to reside in their sees and creating seminaries to train priests properly.",
     "id": "wh-fivesteps-u6-010",
+    "skill_code": "1.B",
+    "topic_code": "6.8",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Overpopulation was not the clerical problem Trent addressed.",
@@ -637,6 +677,8 @@
     "difficulty": "hard",
     "explanation": "Borders drawn by diplomats in Berlin, often with rulers, sliced through kingdoms, language groups, and grazing lands without consultation. Straight lines on the map are the signature of outsiders dividing territory on paper, indifferent to the peoples living there.",
     "id": "wh-fivesteps-u6-011",
+    "skill_code": "3.D",
+    "topic_code": "6.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Africans were not consulted at the Berlin Conference; Europeans divided the continent among themselves.",
@@ -668,6 +710,8 @@
     "difficulty": "medium",
     "explanation": "Redrawing dozens of borders would have meant war between every new state and its neighbors over every disputed mile. The Organization of African Unity therefore froze the colonial map in 1964, trading the injustice of arbitrary borders for the stability of settled ones.",
     "id": "wh-fivesteps-u6-012",
+    "skill_code": "1.B",
+    "topic_code": "6.8",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Leaders kept the borders from hard pragmatism, not from any fondness for colonialism.",
@@ -699,6 +743,8 @@
     "difficulty": "hard",
     "explanation": "Colonial railroads ran from the copper mine or the peanut basin straight to the port, built to drain wealth outward, not to connect African producers to African consumers. Independence inherited economies wired to export raw materials and import finished goods.",
     "id": "wh-fivesteps-u6-013",
+    "skill_code": "1.B",
+    "topic_code": "6.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Colonial infrastructure served extraction, not balanced industrial development.",
@@ -731,6 +777,8 @@
     "difficulty": "hard",
     "explanation": "In Timbuktu, imported manuscripts commanded higher prices than any other merchandise, salt, horses, or cloth. That price signal reveals a city where learning was the most valued commodity: a thriving market for books means a thriving community of readers, teachers, and judges.",
     "id": "wh-fivesteps-u2-004",
+    "skill_code": "3.D",
+    "topic_code": "2.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Manuscripts outselling every other good shows scholarship was Timbuktu's most prized commodity.",
@@ -763,6 +811,8 @@
     "difficulty": "hard",
     "explanation": "By marrying his daughters into merchant families, the king tied the commercial elite to the throne; by funding mosques, judges, and scholars, he presented himself as a pious Muslim ruler worthy of obedience. Trade wealth was converted into political legitimacy — the dynasty's prosperity visibly served religion and learning, not just the palace. (A) is wrong because the passage shows merchants enriched and honored, not banned. (B) is wrong because Europeans had no role in funding Timbuktu's scholars. (C) is wrong because the king invested heavily in scholars and merchant alliances, not force alone.",
     "id": "wh-fivesteps-u2-005",
+    "skill_code": "3.D",
+    "topic_code": "2.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The passage shows merchants enriched and honored, not banned or plundered.",
@@ -795,6 +845,8 @@
     "difficulty": "hard",
     "explanation": "Horses overheat, need frequent water, and cannot browse on desert scrub; the passage itself notes that horses had to be imported from North Africa at great expense. Camels carry water in their bodies, tolerate extreme heat, and eat thorny desert plants, the physiological toolkit for crossing the Sahara.",
     "id": "wh-fivesteps-u2-006",
+    "skill_code": "1.B",
+    "topic_code": "2.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Camels are slower than horses; their advantage was endurance, not speed.",
@@ -827,6 +879,8 @@
     "difficulty": "hard",
     "explanation": "Islam entered West Africa along the trade routes, winning first the urban merchants and then the kings who profited from the commerce, while villages and commoners held to older beliefs for generations. The great mosque beside enduring traditional practice shows a top-down, gradual conversion, not a sudden mass transformation.",
     "id": "wh-fivesteps-u2-007",
+    "skill_code": "1.B",
+    "topic_code": "2.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Conversion was gradual and incomplete; traditional practices persisted alongside Islam for generations.",
@@ -859,6 +913,8 @@
     "difficulty": "medium",
     "explanation": "Norse sailors reached Iceland, Greenland, and the North American coast around 1000 CE, but the settlements were tiny, short-lived, and soon abandoned, leaving no sustained exchange of goods, crops, or diseases. Without follow-through, the voyages changed nothing, unlike the Iberian voyages five centuries later, which permanently linked the hemispheres.",
     "id": "wh-fivesteps-u4-023",
+    "skill_code": "1.B",
+    "topic_code": "4.2",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Norse ships were superb ocean-going vessels; technology was not the problem.",

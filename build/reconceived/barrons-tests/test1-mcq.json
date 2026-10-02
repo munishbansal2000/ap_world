@@ -3,6 +3,8 @@
   "difficulty": "medium",
   "explanation": "Palm oil became the world's dominant vegetable oil because large food-processing firms replaced costlier fats with it after the 1990s; it was cheap, had a long shelf life, and worked well in packaged foods. That corporate shift matches the timing of the chart's steep climb better than any other option.",
   "id": "wh-barrons-t1-001",
+  "skill_code": "1.A",
+  "topic_code": "9.4",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The Green Revolution of the 1960s centered on wheat and rice, not palm oil, and it came decades before the chart's acceleration.",
@@ -34,6 +36,8 @@
   "difficulty": "medium",
   "explanation": "Oil palms need a hot, humid tropical climate, so the plantation boom concentrated in maritime Southeast Asia and West Africa. Those are the places where land was cleared, labor was hired, and local environments were transformed.",
   "id": "wh-barrons-t1-002",
+  "skill_code": "4.A",
+  "topic_code": "9.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Indonesia, Malaysia, and Nigeria are the tropical producers where the plantation boom actually took place.",
@@ -65,6 +69,8 @@
   "difficulty": "hard",
   "explanation": "The chart displays quantities over time, so it can support purely descriptive statements about the trend. But it says nothing about causes. Claiming that biofuel demand caused the surge introduces a causal explanation the chart itself cannot prove.",
   "id": "wh-barrons-t1-003",
+  "skill_code": "3.B",
+  "topic_code": "9.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. This is a direct description of the curve's shape, which the chart shows clearly.",
@@ -95,6 +101,8 @@
   "difficulty": "medium",
   "explanation": "Meeting the surging demand for palm oil required vast new plantations, and in Indonesia and Malaysia those were carved overwhelmingly out of tropical rainforest. Deforestation, with its loss of habitat and biodiversity, is the signature environmental cost of the palm-oil boom.",
   "id": "wh-barrons-t1-004",
+  "skill_code": "1.B",
+  "topic_code": "9.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Methane from rice paddies is a real issue, but it belongs to rice cultivation, not oil-palm plantations.",
@@ -126,6 +134,8 @@
   "difficulty": "medium",
   "explanation": "De Beauvoir's point is that women's historical disadvantage came from the physical burdens of uncontrolled reproduction combined with men's monopolization of tools and projects, not from any innate inferiority. Because the cause was material and historical, she implied it could be changed.",
   "id": "wh-barrons-t1-005",
+  "skill_code": "3.A",
+  "topic_code": "9.5",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. This is the opposite of her argument; she explicitly rejects the idea that biology makes men naturally superior.",
@@ -157,6 +167,8 @@
   "difficulty": "medium",
   "explanation": "First-wave feminism centered on legal and political rights, above all suffrage. The postwar movement de Beauvoir influenced shifted the focus to the body and private life: contraception, reproductive choice, and freedom from the biological burdens the passage describes.",
   "id": "wh-barrons-t1-006",
+  "skill_code": "5.A",
+  "topic_code": "9.5",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Suffrage was the defining goal of the earlier first wave, not the new departure of the postwar movement.",
@@ -187,6 +199,8 @@
   "difficulty": "hard",
   "explanation": "The passage is a primary source showing a leading postwar feminist arguing that women's position resulted from historical and material circumstances rather than biology. That reframing is exactly what historians identify as the intellectual break made by second-wave feminist thought.",
   "id": "wh-barrons-t1-007",
+  "skill_code": "2.C",
+  "topic_code": "9.5",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passage directly demonstrates the move from biological explanations of inequality to social and material ones.",
@@ -218,6 +232,8 @@
   "difficulty": "medium",
   "explanation": "Friedan's The Feminine Mystique (1963) carried de Beauvoir's line of thought into the American context, arguing that women's dissatisfaction came from socially imposed domestic roles rather than from nature. The other figures worked in different movements or earlier eras.",
   "id": "wh-barrons-t1-008",
+  "skill_code": "5.A",
+  "topic_code": "9.5",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Carson launched the modern environmental movement; she did not develop de Beauvoir's feminist argument.",
@@ -249,6 +265,8 @@
   "difficulty": "medium",
   "explanation": "States put historical figures on currency to foster pride and unity, not to apologize or threaten neighbors. For post-communist Mongolia, Genghis Khan serves as the most powerful shared symbol of Mongolian identity and independence.",
   "id": "wh-barrons-t1-009",
+  "skill_code": "4.A",
+  "topic_code": "1.7",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Governments do not use their currency to apologize for medieval conquests; commemoration is celebratory, not penitential.",
@@ -280,6 +298,8 @@
   "difficulty": "hard",
   "explanation": "The banknote implies a direct line from Genghis Khan's empire to the modern Mongolian nation. In reality his empire split apart after his death into competing khanates, and most of that territory is not part of Mongolia today, so the 'national founder' story smooths over a much messier history.",
   "id": "wh-barrons-t1-010",
+  "skill_code": "3.D",
+  "topic_code": "1.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. He was born on the Mongolian steppe, within the broader Mongol homeland; this claim is false.",
@@ -310,6 +330,8 @@
   "difficulty": "medium",
   "explanation": "Mongolia's international airport and national holidays honoring Genghis Khan do the same work as the banknote: they keep a founding figure constantly visible in daily life, reinforcing national identity. The other options all weaken rather than strengthen such commemoration.",
   "id": "wh-barrons-t1-011",
+  "skill_code": "5.A",
+  "topic_code": "1.7",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Airport names and holidays, like currency portraits, embed the national symbol in everyday public life.",
@@ -341,6 +363,8 @@
   "difficulty": "hard",
   "explanation": "The empire did not fall to outside invasion; it broke apart from within as Genghis Khan's descendants fought over the succession, producing the Toluid civil war and the separate khanates. Governing an empire that stretched from China to Eastern Europe made such fragmentation almost inevitable.",
   "id": "wh-barrons-t1-012",
+  "skill_code": "1.B",
+  "topic_code": "1.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Plague struck Eurasia a century later and devastated settled populations; it did not break up the Mongol Empire.",
@@ -371,6 +395,8 @@
   "difficulty": "medium",
   "explanation": "The cartoon appeared in a province unsettled by Asian immigration and campaigned for the Asiatic Exclusion League. Its imagery of exclusion was propaganda meant to build political support for keeping Asian migrants out of Canada.",
   "id": "wh-barrons-t1-013",
+  "skill_code": "2.A",
+  "topic_code": "6.7",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The cartoon attacks Asian immigrants rather than celebrating them; its message is exclusionary.",
@@ -402,6 +428,8 @@
   "difficulty": "medium",
   "explanation": "The United States passed the Chinese Exclusion Act in 1882 after decades of anti-Chinese agitation on the West Coast, closely paralleling the Canadian movement the cartoon represents. Both were nativist campaigns against Asian labor migration in the same era and region.",
   "id": "wh-barrons-t1-014",
+  "skill_code": "5.A",
+  "topic_code": "6.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Irish immigration peaked in the 1840s, a different era, and the Irish were European Catholics, not targets of Asian-exclusion laws.",
@@ -433,6 +461,8 @@
   "difficulty": "hard",
   "explanation": "Both the Canadian exclusion movement and Australia's White Australia Policy rested on the doctrine that these settler colonies should remain 'white men's countries.' The same racial ideology produced immigration barriers across the British settler world in this era.",
   "id": "wh-barrons-t1-015",
+  "skill_code": "5.A",
+  "topic_code": "6.7",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The belief in white racial superiority and the desire for a 'white' settler society drove both policies.",
@@ -464,6 +494,8 @@
   "difficulty": "medium",
   "explanation": "Anti-Asian agitation in Canada did not end in 1907; it continued until Parliament passed the Chinese Immigration Act of 1923, which virtually barred Chinese entry. That law shows the exclusionist sentiment hardening into national policy.",
   "id": "wh-barrons-t1-016",
+  "skill_code": "1.A",
+  "topic_code": "6.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The 1971 multiculturalism policy embraced diversity, reversing rather than continuing the cartoon's sentiment.",
@@ -495,6 +527,8 @@
   "difficulty": "medium",
   "explanation": "The painting is a Persian-style miniature, made for a Muslim court, depicting a Hindu story about Krishna. That combination, produced under Mughal patronage, is the textbook example of Indo-Persian cultural fusion.",
   "id": "wh-barrons-t1-017",
+  "skill_code": "1.B",
+  "topic_code": "3.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Akbar never converted to Hinduism; he remained Muslim while tolerating and engaging Hindu traditions.",
@@ -526,6 +560,8 @@
   "difficulty": "medium",
   "explanation": "Strict readings of Islam discouraged the depiction of living beings, and Ottoman court art largely avoided figures. Mughal India was different: Akbar's eclectic court culture and deep engagement with Indian traditions relaxed those strictures, allowing figural miniatures to flourish.",
   "id": "wh-barrons-t1-018",
+  "skill_code": "4.B",
+  "topic_code": "3.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The Mughal emperors remained Muslim throughout; their faith is not in doubt.",
@@ -557,6 +593,8 @@
   "difficulty": "hard",
   "explanation": "Akbar established a translation bureau that rendered Sanskrit epics like the Mahabharata and Harivamsha into Persian, the language of his court. Commissioning a Persian Krishna story was part of that deliberate program of engaging Hindu culture.",
   "id": "wh-barrons-t1-019",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Reimposing the jizya was Aurangzeb's policy, not Akbar's; Akbar had abolished it.",
@@ -588,6 +626,8 @@
   "difficulty": "medium",
   "explanation": "The painting dates from Akbar's tolerant peak around 1590, while Aurangzeb's reign (1658-1707) brought renewed orthodoxy and temple policies that strained Hindu-Muslim relations. Together they show toleration rising and falling rather than marching steadily forward.",
   "id": "wh-barrons-t1-020",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Mughal religious toleration peaked under Akbar and receded under Aurangzeb; it fluctuated rather than progressed.",
@@ -619,6 +659,8 @@
   "difficulty": "hard",
   "explanation": "De Tocqueville was a French aristocrat touring Britain, and his account constantly measures English industrial cities against continental conditions he knew. His outsider's comparative perspective is what gives the passage its distinctive tone of astonishment at both the wealth and the squalor.",
   "id": "wh-barrons-t1-021",
+  "skill_code": "2.B",
+  "topic_code": "5.9",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. He was French, not English, so English patriotism cannot explain his perspective.",
@@ -650,6 +692,8 @@
   "difficulty": "medium",
   "explanation": "The passage pairs 'pure gold' with 'civilized man turned almost into a savage,' showing that industrialization produced enormous wealth alongside brutal working and living conditions. De Tocqueville sees the two as inseparable parts of the same process.",
   "id": "wh-barrons-t1-022",
+  "skill_code": "3.A",
+  "topic_code": "5.9",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Manchester's growth was driven by private enterprise, not by government urban planning.",
@@ -681,6 +725,8 @@
   "difficulty": "medium",
   "explanation": "De Tocqueville describes Manchester as a place whose entire existence serves industry, with nothing in the passage suggesting an older civic past. Historians use such accounts as evidence of the explosive, factory-driven urban growth that created entirely new industrial cities in early nineteenth-century Britain.",
   "id": "wh-barrons-t1-023",
+  "skill_code": "4.A",
+  "topic_code": "5.9",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passage depicts a city created by industry, illustrating the rapid rise of new factory towns.",
@@ -712,6 +758,8 @@
   "difficulty": "hard",
   "explanation": "The brutal conditions of the 1830s did not last unchanged. Over the following decades, trade unions, labor movements, and reform legislation (limits on hours, factory inspection, public-health laws) gradually forced improvements in workers' lives.",
   "id": "wh-barrons-t1-024",
+  "skill_code": "1.B",
+  "topic_code": "5.8",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Factory owners did not voluntarily close their mills; improvement came through pressure and legislation.",
@@ -743,6 +791,8 @@
   "difficulty": "medium",
   "explanation": "Juvaini was a Persian bureaucrat who served the Mongol conquerors and wrote decades after the events. His account is therefore precious not as a Mongol voice but as a record of how the conquest looked to the educated Persian elite who lived through its aftermath.",
   "id": "wh-barrons-t1-025",
+  "skill_code": "2.C",
+  "topic_code": "1.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. This is Juvaini's history, written long after the fact, not a diary kept by Genghis Khan himself.",
@@ -774,6 +824,8 @@
   "difficulty": "hard",
   "explanation": "Chinese emperors justified their rule by claiming Heaven had granted them a mandate to govern; defeat or disorder showed Heaven's displeasure. Genghis Khan's claim to be God's punishment on sinful Bukhara uses the same logic: divine favor expressed through military success legitimizes the conqueror.",
   "id": "wh-barrons-t1-026",
+  "skill_code": "5.A",
+  "topic_code": "1.7",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Enlightenment thinkers attacked divine-right claims; they did not make them, and they wrote five centuries later.",
@@ -805,6 +857,8 @@
   "difficulty": "hard",
   "explanation": "Juvaini was not an eyewitness partisan of either side; he was a Persian administrator who rose to serve the Mongol regime and wrote his history decades later under their patronage. His position shaped what he emphasized and how he portrayed both Mongols and Persians.",
   "id": "wh-barrons-t1-027",
+  "skill_code": "2.C",
+  "topic_code": "1.7",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Juvaini served the Mongol administration and wrote under its patronage, which shaped his portrayal of events.",
@@ -835,6 +889,8 @@
   "difficulty": "medium",
   "explanation": "The Mongol conquests were devastating in the short term, but the empire that followed reunited Eurasia under a single political umbrella, reviving and protecting the Silk Road routes. Bukhara's conquest illustrates the pattern of destruction followed by integration into Mongol-sponsored trade networks.",
   "id": "wh-barrons-t1-028",
+  "skill_code": "1.A",
+  "topic_code": "1.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Central Asia was badly damaged but not permanently depopulated; its cities recovered and traded again.",
@@ -866,6 +922,8 @@
   "difficulty": "medium",
   "explanation": "The cartoon shows Catherine stepping across a map from Russia toward Constantinople and India, a visual joke about territorial greed. The artist's point is that Russian foreign policy under Catherine was acquisitive and expansionist.",
   "id": "wh-barrons-t1-029",
+  "skill_code": "2.A",
+  "topic_code": "5.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The cartoon mocks expansion, not domestic law; enlightened legal reform is not its subject.",
@@ -896,6 +954,8 @@
   "difficulty": "hard",
   "explanation": "British alarm at Russian moves toward the Ottoman Empire and Central Asia in the 1790s was the opening chapter of a rivalry that would dominate the nineteenth century, when Britain and Russia competed for influence across Persia, Afghanistan, and Central Asia in the 'Great Game.'",
   "id": "wh-barrons-t1-030",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The 1904 Entente Cordiale allied Britain with France, not Russia, and came more than a century later.",
@@ -926,6 +986,8 @@
   "difficulty": "medium",
   "explanation": "Catherine was one of Europe's most powerful rulers, yet the cartoonist undermines her by turning her gender into the joke. The image is evidence that female authority, however real, was still mocked in gendered terms.",
   "id": "wh-barrons-t1-031",
+  "skill_code": "2.A",
+  "topic_code": "5.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The cartoon uses Catherine's gender to mock her, showing that powerful women faced gendered ridicule.",
@@ -957,6 +1019,8 @@
   "difficulty": "medium",
   "explanation": "Russia's great strategic prize was a warm-water outlet: the straits between the Black Sea and the Mediterranean would let the Russian Black Sea fleet reach the open sea. That is why Catherine's push toward Constantinople alarmed Britain.",
   "id": "wh-barrons-t1-032",
+  "skill_code": "1.B",
+  "topic_code": "5.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The tea trade ran through different routes; it was not what made the straits vital to Russia.",
@@ -988,6 +1052,8 @@
   "difficulty": "medium",
   "explanation": "One image shows organized public support for masking rules, the other shows a newspaper reporting fierce opposition to them. Taken together they document a society divided over how to respond collectively to a pandemic, a pattern familiar from other public-health crises.",
   "id": "wh-barrons-t1-033",
+  "skill_code": "3.A",
+  "topic_code": "7.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The images do not evaluate whether masks worked; they document public disagreement about them.",
@@ -1019,6 +1085,8 @@
   "difficulty": "medium",
   "explanation": "World War I moved millions of soldiers, workers, and supplies across continents and oceans in crowded ships, trains, and trenches. That unprecedented circulation of people gave the influenza virus the perfect vehicle for rapid global spread.",
   "id": "wh-barrons-t1-034",
+  "skill_code": "1.B",
+  "topic_code": "7.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. This is anachronistic; commercial air travel did not exist in 1918.",
@@ -1050,6 +1118,8 @@
   "difficulty": "medium",
   "explanation": "A century apart, both pandemics produced the same collision: scientific advice about masks and mandates ran into arguments about personal liberty and political authority. The 1918 masking fights are an early version of the 2020-2021 disputes.",
   "id": "wh-barrons-t1-035",
+  "skill_code": "5.B",
+  "topic_code": "7.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. In both pandemics, public-health mandates sparked recurring political conflict over liberty versus collective safety.",
@@ -1081,6 +1151,8 @@
   "difficulty": "medium",
   "explanation": "Aizawa's whole complaint is that the exclusion laws exist on paper but are not enforced: the English land, map the coast, and trade, while officials do nothing. His argument is that Japan's safety requires applying the seclusion policy consistently, not abandoning it.",
   "id": "wh-barrons-t1-036",
+  "skill_code": "3.A",
+  "topic_code": "5.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Aizawa denounces foreign contact; legalizing trade is the opposite of what he wants.",
@@ -1111,6 +1183,8 @@
   "difficulty": "hard",
   "explanation": "Writing in 1825, Aizawa had watched Britain consolidate its hold on India and press against China and Southeast Asia. His fear that trading ships would become warships was a response to the visible pattern of Western imperial expansion across Asia in his own lifetime.",
   "id": "wh-barrons-t1-037",
+  "skill_code": "4.B",
+  "topic_code": "5.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Japan won no naval victories over Britain in this era; no such battles occurred.",
@@ -1142,6 +1216,8 @@
   "difficulty": "medium",
   "explanation": "Aizawa demanded that foreign ships be driven off by force; the 'expel the barbarians' (joi) movement of the 1850s-1860s carried exactly that program. Treaties, student missions, and foreign advisers were all policies of accommodation he would have despised.",
   "id": "wh-barrons-t1-038",
+  "skill_code": "1.A",
+  "topic_code": "5.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Signing commercial treaties meant accepting the foreign presence Aizawa wanted expelled.",
@@ -1172,6 +1248,8 @@
   "difficulty": "hard",
   "explanation": "Aizawa's underlying fear was military subjugation by the West. The Meiji leaders answered it not by restoring seclusion but by building the modern army, navy, and industries that let Japan resist Western domination and eventually compete as an imperial power itself.",
   "id": "wh-barrons-t1-039",
+  "skill_code": "1.B",
+  "topic_code": "5.4",
   "key": "A",
   "option_explanations": {
    "A": "Correct. A modern military and industrial base was Japan's answer to the Western threat Aizawa feared.",
@@ -1203,6 +1281,8 @@
   "difficulty": "medium",
   "explanation": "The edict is a municipal ordinance dictating exactly how bread and fruit may be handled and sold, down to punishing anyone who touches goods they do not buy. It shows medieval town governments intervening in the fine details of everyday commerce.",
   "id": "wh-barrons-t1-040",
+  "skill_code": "4.A",
+  "topic_code": "1.6",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Church and municipal authority were deeply intertwined in the 1200s; there was no separation to illustrate.",
@@ -1234,6 +1314,8 @@
   "difficulty": "medium",
   "explanation": "The edict singles out Jews for degrading restrictions rooted in the fear that their touch contaminates Christian food. It is a concrete example of the legal and social boundaries that Christian authorities imposed on Jewish communities in medieval Europe.",
   "id": "wh-barrons-t1-041",
+  "skill_code": "2.A",
+  "topic_code": "1.6",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. This is anachronistic: Protestantism did not exist in 1243, so no Protestant-Catholic conflict can be studied here.",
@@ -1265,6 +1347,8 @@
   "difficulty": "medium",
   "explanation": "The edict treats Jewish touch as a source of contamination. A century later, during the Black Death, that same logic of contamination fueled accusations that Jews had poisoned wells, leading to massacres across Europe.",
   "id": "wh-barrons-t1-042",
+  "skill_code": "5.A",
+  "topic_code": "1.6",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The Crusaders generally fought Muslim rulers rather than allying with them; this misstates the history.",
@@ -1296,6 +1380,8 @@
   "difficulty": "hard",
   "explanation": "Medieval Church teaching forbade Christians from lending money at interest, which was classified as usury. Jews, not bound by canon law, could fill that economic role, and the resulting association of Jews with moneylending bred lasting resentment.",
   "id": "wh-barrons-t1-043",
+  "skill_code": "1.B",
+  "topic_code": "1.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The Church's usury ban pushed Christians out of moneylending, leaving the role to Jews and generating resentment.",
@@ -1327,6 +1413,8 @@
   "difficulty": "medium",
   "explanation": "Benin artists deliberately enlarged important figures and used symbolic details like the oba's coral regalia; the style was a conscious artistic language, not a failed attempt at realism. Reading it as mere inability misunderstands how the art worked.",
   "id": "wh-barrons-t1-044",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The stylization was deliberate and conventional, not the result of unskilled carving.",
@@ -1358,6 +1446,8 @@
   "difficulty": "medium",
   "explanation": "Brass plaques required copper and zinc, metals Benin obtained through long-distance trade, plus specialized guilds of casters supported by the royal court. The plaque is evidence of a wealthy, organized kingdom plugged into regional and trans-Saharan exchange networks.",
   "id": "wh-barrons-t1-045",
+  "skill_code": "1.A",
+  "topic_code": "4.4",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The plaque itself depicts European visitors, proving that outside contact had already occurred.",
@@ -1389,6 +1479,8 @@
   "difficulty": "medium",
   "explanation": "In Benin art, size indicated status: the oba towers over attendants and foreigners to show his supreme rank. The Europeans' small scale marks them as lesser figures in the oba's courtly world.",
   "id": "wh-barrons-t1-046",
+  "skill_code": "3.A",
+  "topic_code": "4.4",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. This reads the image naively; the size differences are symbolic, not measurements of actual height.",
@@ -1420,6 +1512,8 @@
   "difficulty": "hard",
   "explanation": "In the 1500s Europeans were coastal traders whom African rulers like the oba could treat as minor visitors. By the 1800s that relationship had inverted: industrializing European powers imposed direct colonial rule over nearly the entire continent, including Benin itself in 1897.",
   "id": "wh-barrons-t1-047",
+  "skill_code": "1.B",
+  "topic_code": "4.8",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The trader-to-ruler relationship of the 1500s was replaced by European colonial domination in the 1800s.",
@@ -1451,6 +1545,8 @@
   "difficulty": "medium",
   "explanation": "Galileo does not attack the Bible; he argues that its words must be read for their true meaning rather than their bare literal sense, so that scripture and Copernican astronomy can coexist. It is an argument for reinterpretation, not rejection.",
   "id": "wh-barrons-t1-048",
+  "skill_code": "3.A",
+  "topic_code": "4.1",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Galileo insists the Bible 'can never speak untruth'; he does not claim it contains scientific errors.",
@@ -1482,6 +1578,8 @@
   "difficulty": "hard",
   "explanation": "Galileo's move, treating biblical passages about nature as non-literal, became the standard strategy by which later thinkers accommodated new science within religious belief. His letter is an early landmark of that long-running accommodation.",
   "id": "wh-barrons-t1-049",
+  "skill_code": "5.A",
+  "topic_code": "4.1",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The Church did not accept heliocentrism in Galileo's lifetime; opposition continued for decades.",
@@ -1513,6 +1611,8 @@
   "difficulty": "medium",
   "explanation": "Galileo was promoting a view the Church might condemn, so addressing the Medici grand duchess was a bid for the protection of Tuscany's ruling family. Patronage from a powerful dynasty was his shield against ecclesiastical censure.",
   "id": "wh-barrons-t1-050",
+  "skill_code": "2.B",
+  "topic_code": "4.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. She held no astronomical office; this invents a position that did not exist.",
@@ -1544,6 +1644,8 @@
   "difficulty": "medium",
   "explanation": "Galileo's 1633 trial ended with his forced public recantation of heliocentrism. The episode became the classic example of how religious authority in early modern Europe could constrain the expression of new scientific ideas.",
   "id": "wh-barrons-t1-051",
+  "skill_code": "6.A",
+  "topic_code": "4.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. His trial and forced recantation showed the power of religious institutions to limit new ideas.",
@@ -1575,6 +1677,8 @@
   "difficulty": "hard",
   "explanation": "Huntington's whole thesis rests on the claim that cultural identity, not ideology or economics, will drive future conflict. Without the assumption that culture outweighs the other two forces, his argument that 'fault lines between civilizations will be the battle lines' collapses.",
   "id": "wh-barrons-t1-052",
+  "skill_code": "6.A",
+  "topic_code": "9.6",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Huntington ranks civilizations and predicts Western conflict with others; he does not treat them as morally equal.",
@@ -1606,6 +1710,8 @@
   "difficulty": "hard",
   "explanation": "Huntington treats civilizations as ancient, coherent blocs destined to clash. Historians of decolonization object that many modern 'civilizational' divisions were actually produced by colonial borders, colonial categories, and the Cold War itself, making the model ahistorical.",
   "id": "wh-barrons-t1-053",
+  "skill_code": "6.D",
+  "topic_code": "9.6",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Huntington wrote in 1993, after the Cold War ended; this gets the chronology backwards.",
@@ -1637,6 +1743,8 @@
   "difficulty": "medium",
   "explanation": "Huntington's supporters point to post-Cold War violence that falls along ethnic and religious lines, such as the wars in the former Yugoslavia, as exactly the kind of civilization-fault-line conflict he predicted. The other options all show cooperation or integration, which his thesis would not predict.",
   "id": "wh-barrons-t1-054",
+  "skill_code": "6.B",
+  "topic_code": "9.6",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. EU expansion is economic and political integration, the opposite of civilizational clash.",
@@ -1668,6 +1776,8 @@
   "difficulty": "medium",
   "explanation": "The strongest rival explanation holds that states fight over tangible interests, oil, trade routes, and strategic advantage, with culture serving as a cover story. If conflicts are really about resources, then Huntington's cultural explanation mistakes the justification for the cause.",
   "id": "wh-barrons-t1-055",
+  "skill_code": "6.D",
+  "topic_code": "9.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. A resource-and-interest explanation directly competes with Huntington's cultural one for the same conflicts.",

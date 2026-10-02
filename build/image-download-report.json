@@ -1,0 +1,4355 @@
+{
+ "date": "2026-10-02",
+ "downloaded": {
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/A_silver_mine_in_Potos%C3%AD%2C_Bolivia_-_cross-section_and_miners_digging_%28ca._1750%29.jpg/1920px-A_silver_mine_in_Potos%C3%AD%2C_Bolivia_-_cross-section_and_miners_digging_%28ca._1750%29.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-011.jpg",
+   "bytes": 808655,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-011",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Code_civil_des_Fran%C3%A7ais_%281804%29.jpg/1920px-Code_civil_des_Fran%C3%A7ais_%281804%29.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-020.jpg",
+   "bytes": 264873,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-020",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Triangular_trade_en.svg/1920px-Triangular_trade_en.svg.png": {
+   "local_path": "assets/images/u4/wh-vis-u4-003.png",
+   "bytes": 565169,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-003",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Map_of_Tenochtitlan_and_Gulf_of_Mexico%2C_1524.jpg/1920px-Map_of_Tenochtitlan_and_Gulf_of_Mexico%2C_1524.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-022.jpg",
+   "bytes": 616759,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-022",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-03.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/1776_Bonne_Map_of_the_Hudson_Bay%2C_Canada_-_Geographicus_-_HudsonBay-bonne-1776.jpg/1920px-1776_Bonne_Map_of_the_Hudson_Bay%2C_Canada_-_Geographicus_-_HudsonBay-bonne-1776.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-035.jpg",
+   "bytes": 653490,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-035",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Casta_-_de_Negra_y_Espa%C3%B1ol_sale_Mulato%2C_s._XVIII_-_An%C3%B3nimo.jpg/1920px-Casta_-_de_Negra_y_Espa%C3%B1ol_sale_Mulato%2C_s._XVIII_-_An%C3%B3nimo.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-013.jpg",
+   "bytes": 344190,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-013",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Mary_Wollstonecraft._After_a_painting_by_John_Opie.jpg/1920px-Mary_Wollstonecraft._After_a_painting_by_John_Opie.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-037.jpg",
+   "bytes": 355068,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-037",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Signing_the_declaration_of_their_independence_-_Ehrhart_with_acknowledgements._LCCN2011645976.jpg/1920px-Signing_the_declaration_of_their_independence_-_Ehrhart_with_acknowledgements._LCCN2011645976.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-013.jpg",
+   "bytes": 702495,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-013",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/General_Bonaparte%2C_G.40249.jpg/1920px-General_Bonaparte%2C_G.40249.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-048.jpg",
+   "bytes": 260808,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-048",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Luddite.jpg/1920px-Luddite.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-025.jpg",
+   "bytes": 742428,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-025",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ex%C3%A9cution_%C3%A0_la_guillotine_de_Charlotte_Corday_le_17_juillet_1793._Place_de_la_R%C3%A9volution%2C_actuelle_place_de_la_Concorde%2C_G.28824.jpg/1920px-Ex%C3%A9cution_%C3%A0_la_guillotine_de_Charlotte_Corday_le_17_juillet_1793._Place_de_la_R%C3%A9volution%2C_actuelle_place_de_la_Concorde%2C_G.28824.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-007.jpg",
+   "bytes": 494036,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-007",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tupinamb%C3%A1_cannibals_%28de_Bry%2C_1593%29.jpg/1920px-Tupinamb%C3%A1_cannibals_%28de_Bry%2C_1593%29.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-026.jpg",
+   "bytes": 1208771,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-026",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-03.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Waterloo_Campaign_map-alt3.svg/1920px-Waterloo_Campaign_map-alt3.svg.png": {
+   "local_path": "assets/images/u5/wh-vis-u5-047.png",
+   "bytes": 771287,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-047",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bird%27s-eye_view_of_the_Beurs_van_Hendrick_de_Keyser_by_Claes_Jansz._Visscher_%28II%29_1612_Stadsarchief_Amsterdam_010001000620.jpg/1920px-Bird%27s-eye_view_of_the_Beurs_van_Hendrick_de_Keyser_by_Claes_Jansz._Visscher_%28II%29_1612_Stadsarchief_Amsterdam_010001000620.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-031.jpg",
+   "bytes": 951149,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-031",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_storming_of_the_Bastille_on_the_14_July_1789._Line_engra_Wellcome_V0041874.jpg/1920px-The_storming_of_the_Bastille_on_the_14_July_1789._Line_engra_Wellcome_V0041874.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-001.jpg",
+   "bytes": 770725,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-001",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Sans-Souci_Palace_Haiti_%288070547181%29.jpg/1920px-Sans-Souci_Palace_Haiti_%288070547181%29.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-046.jpg",
+   "bytes": 371294,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-046",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Slaveshipposter.jpg/1920px-Slaveshipposter.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-032.jpg",
+   "bytes": 562072,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-032",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg/1920px-Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-003.jpg",
+   "bytes": 420627,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-003",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg/1920px-Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-011.jpg",
+   "bytes": 315821,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-011",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Nanban_Byobu_Folding_Screen_Carrack_Portuguese_Traders_in_Nagasaki_by_Kano_Domi.jpg/1920px-Nanban_Byobu_Folding_Screen_Carrack_Portuguese_Traders_in_Nagasaki_by_Kano_Domi.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-020.jpg",
+   "bytes": 348856,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-020",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-03.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cantino_planisphere_%281502%29.jpg/1920px-Cantino_planisphere_%281502%29.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-006.jpg",
+   "bytes": 371773,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-006",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Allegorie_d%C3%A8di%C3%A8_au_tiers_etat_LCCN2004676887-restored.jpg/1920px-Allegorie_d%C3%A8di%C3%A8_au_tiers_etat_LCCN2004676887-restored.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-002.jpg",
+   "bytes": 696955,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-002",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Crowe-Slaves_Waiting_for_Sale_-_Richmond%2C_Virginia.jpg/1920px-Crowe-Slaves_Waiting_for_Sale_-_Richmond%2C_Virginia.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-033.jpg",
+   "bytes": 297374,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-033",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1920px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-043.jpg",
+   "bytes": 548353,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-043",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Trade_wind_chart_of_the_Atlantic_Ocean_LOC_2009575918.jpg/1920px-Trade_wind_chart_of_the_Atlantic_Ocean_LOC_2009575918.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-004.jpg",
+   "bytes": 495147,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-004",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Brookes_slave_ship%2C_British_Library.jpg/1920px-Brookes_slave_ship%2C_British_Library.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-031.jpg",
+   "bytes": 583770,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-031",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Peterloo_Massacre_by_Richard_Carlile.jpg/1920px-Peterloo_Massacre_by_Richard_Carlile.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-028.jpg",
+   "bytes": 661341,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-028",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg/1920px-Stad_Amsterdam_in_Nieuw_Nederland_%28City_Amsterdam_in_New_Netherland%29_Castello_Plan_1660.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-024.jpg",
+   "bytes": 443318,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-024",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-03.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/1920px-Boston_Tea_Party_w.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-012.jpg",
+   "bytes": 461611,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-012",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Toussaint_Louverture._Kupfer%2C_1806.jpg/1920px-Toussaint_Louverture._Kupfer%2C_1806.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-019.jpg",
+   "bytes": 514598,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-019",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Gezicht_in_vogelvluchtperspectief_op_Dejima%2C_RP-P-OB-47.391.jpg/1920px-Gezicht_in_vogelvluchtperspectief_op_Dejima%2C_RP-P-OB-47.391.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-033.jpg",
+   "bytes": 458591,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-033",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-04.json"
+   ]
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/ASSEMBLEE_NATIONALE_-_EPOQUE_DU_4_FEVRIER_1790._G.28049.jpg/1920px-ASSEMBLEE_NATIONALE_-_EPOQUE_DU_4_FEVRIER_1790._G.28049.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-006.jpg",
+   "bytes": 457500,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-006",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/01/2_Battle_of_El_Alamein_001.png": {
+   "local_path": "assets/images/u7/wh-vis-u7-027.png",
+   "bytes": 158003,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-027",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/03/Life_expectancy_by_world_region_since_1770%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-038.svg",
+   "bytes": 67703,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-038",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/04/Tomioka_Silk_Mill_Machine.JPG": {
+   "local_path": "assets/images/u6/wh-vis-u6-044.jpg",
+   "bytes": 303779,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-044",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/06/OttomanEmpireIn1683.png": {
+   "local_path": "assets/images/u3/wh-fresh-u3-011.png",
+   "bytes": 625784,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u3-011",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/08/Map_of_the_Ilkhanate.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-009.png",
+   "bytes": 2544845,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-009",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0a/Students_marching%2C_School_strikes_for_climate_-_Fridays_For_Future_in_Milan%2C_Italy_-_24_May%2C_2019-05-24.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-027.jpg",
+   "bytes": 413481,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-027",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bete_Giyorgis_03.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-025.jpg",
+   "bytes": 458778,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-025",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Daily_hours_spent_with_digital_media%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-008.svg",
+   "bytes": 9549,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-008",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/McDonalds_Moscow_Pushkinskaya_2013_%2814982067455%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-014.jpg",
+   "bytes": 160670,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-014",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0d/Global_Temperature_Anomalies_from_1880_to_2022_%28SVS5060_-_GISTEMP-2022-TemperatureAnomalyBothCelsiusFahrenheit_00899_print%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-017.jpg",
+   "bytes": 82145,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-017",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_183-R99301%2C_M%C3%BCnchener_Abkommen%2C_Chamberlain%2C_Mussolini%2C_Ciano.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-019.jpg",
+   "bytes": 48340,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-019",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Map_of_Ruins_of_Chichen-Itza%2C_Yucatan%2C_Mexico_1935.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-016.png",
+   "bytes": 2130457,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-016",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/11/The_British_Army_in_the_UK-_Evacuation_From_Dunkirk%2C_May-June_1940_H1630.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-022.jpg",
+   "bytes": 85255,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-022",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/12/Korea-Haeinsa-Tripitaka_Koreana-01.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-031.jpg",
+   "bytes": 78693,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-031",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/12/Vase_with_chrysanthemum_design_in_inlay%2C_Korea%2C_Goryeo_dynasty%2C_1300s_AD%2C_ceramic%2C_celadon_glaze_-_Tokyo_National_Museum_-_Tokyo%2C_Japan_-_DSC08179.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-035.jpg",
+   "bytes": 185859,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-035",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg": {
+   "local_path": "assets/images/u3/wh-fresh-u3-020.svg",
+   "bytes": 560689,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u3-020",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-09.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Daifu_Sama%2C_PA08073.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-042.jpg",
+   "bytes": 260292,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-042",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Delhi_Durbar_1877.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-006.jpg",
+   "bytes": 43479,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-006",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/THEODOSIA_01.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-017.jpg",
+   "bytes": 311180,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-017",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/17/Battle_of_Omdurman_Frank_Dadd_1898.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-049.jpg",
+   "bytes": 75042,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-049",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Cato_fugitive_slave_advertisement%2C_Pennsylvania_Gazette%2C_May_12%2C_1748.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-039.jpg",
+   "bytes": 219654,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-039",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/M%C5%8Dko_Sh%C5%ABrai_Ekotoba.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-031.jpg",
+   "bytes": 173011,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-031",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1a/Osaka_Castle%2C_Main_Tower_%282850633888%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-045.jpg",
+   "bytes": 101386,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-045",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bombardment_of_Alexandria.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-031.jpg",
+   "bytes": 86761,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-031",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1c/Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-016.jpg",
+   "bytes": 342578,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-016",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-043.jpg",
+   "bytes": 84391,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-043",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1d/Communist_China_14_December_1949_-_DPLA_-_96c46fc755f7c2c9d8637659fe17a37f.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-014.jpg",
+   "bytes": 368821,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-014",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1d/Orpen%2C_William_%28Sir%29_%28RA%29_-_The_Signing_of_Peace_in_the_Hall_of_Mirrors%2C_Versailles%2C_28th_June_1919_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-012.jpg",
+   "bytes": 909270,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-012",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ivan_IV_by_anonim_%2818th_c.%2C_GIM%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-038.jpg",
+   "bytes": 83597,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-038",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1e/R%C3%A9volution_fran%C3%A7aise._Ancien_R%C3%A9gime._Caricature_sur_les_Trois-Ordres_Le_Tiers-Etat_portant_sur_son_dos_le_Clerg%C3%A9_et_la%2C_G.23830.jpg": {
+   "local_path": "assets/images/u5/wh-fresh-u5-031.jpg",
+   "bytes": 426198,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u5-031",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u5/batch-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-08.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-10.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1f/World_map_of_HIV_prevalence%2C_2023.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-036.png",
+   "bytes": 461724,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-036",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/SA-2_Launch_sites_in_Cuba.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-012.jpg",
+   "bytes": 621540,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-012",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/22/Mongol_siege_Jami_al-Tawarikh_Edinburgh_extract.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-009.jpg",
+   "bytes": 59500,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-009",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/Atlas_g%C3%A9n%C3%A9ral_de_la_Chine%2C_de_la_Tartarie_chinoise%2C_et_du_Tibet_-_pour_servir_aux_diff%C3%A9rentes_descriptions_et_histoires_de_cet_empire_LOC_00552972-18.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-034.jpg",
+   "bytes": 547054,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-034",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Suleiman_the_Magnificent_by_Dell%27Altissimo.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-009.jpg",
+   "bytes": 204090,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-009",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-017.jpg",
+   "bytes": 229000,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-017",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Emperor_Aurangzeb_on_Horseback_ca._1690%E2%80%931710_The_Cleveland_Museum_of_Art.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-027.jpg",
+   "bytes": 112564,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-027",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/26/Keeling_Curve_up-to-date_-_MLO_record.png": {
+   "local_path": "assets/images/u9/wh-fresh-u9-020.png",
+   "bytes": 375571,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u9-020",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u9/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-05.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-08.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-09.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/26/Map_Europe_alliances_1914-en.svg": {
+   "local_path": "assets/images/u7/wh-fresh-u7-001.svg",
+   "bytes": 98885,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u7-001",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u7/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-08.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/26/Nestorian_stele_1.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-021.jpg",
+   "bytes": 347451,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-021",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/Fertilizer_use_in_kg_per_hectare_of_arable_land%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-030.svg",
+   "bytes": 143044,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-030",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/29/Opium_ship_of_English.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-037.jpg",
+   "bytes": 35755,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-037",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/29/Pestilence_spreading_1347-1351_europe.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-024.png",
+   "bytes": 363795,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-024",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Commerce_transsaharien.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-002.jpg",
+   "bytes": 251261,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-002",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Olympe_de_Gouges_19178_%28D%C3%A9couper%29.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-038.jpg",
+   "bytes": 262917,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-038",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2b/1526-Suleiman_the_Magnificent_and_the_Battle_of_Mohacs-Hunername.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-003.jpg",
+   "bytes": 142754,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-003",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2c/ElminaCastle1668.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-029.jpg",
+   "bytes": 244290,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-029",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2c/Trade_%E2%80%93_exports_plus_imports_%E2%80%93_as_share_of_GDP%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-001.svg",
+   "bytes": 144500,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-001",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2e/Vaccination-polio-india.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-034.jpg",
+   "bytes": 223365,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-034",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2f/Declaration_sentiments_foote_lrg.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-036.jpg",
+   "bytes": 163043,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-036",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-023.jpg",
+   "bytes": 252401,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-023",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Rhodes_Colossus_Punch_1892.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-001.jpg",
+   "bytes": 475517,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-001",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png": {
+   "local_path": "assets/images/u9/wh-fresh-u9-004.png",
+   "bytes": 373819,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u9-004",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u9/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-09.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-10.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-005.jpg",
+   "bytes": 42264,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-005",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/34/Penny_Magazine_1836_269_Hargreaves%27_Spinning_Jenny.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-022.jpg",
+   "bytes": 192965,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-022",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Great_Clay_Mosque_in_Djenne%2C_Mali.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-021.jpg",
+   "bytes": 352243,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-021",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-032.jpg",
+   "bytes": 396164,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-032",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/38/Vasily_Surikov_-_%D0%A3%D1%82%D1%80%D0%BE_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-039.jpg",
+   "bytes": 307675,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-039",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3b/Partition_of_India_1947_en.svg": {
+   "local_path": "assets/images/u8/wh-vis-u8-024.svg",
+   "bytes": 718082,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-024",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3c/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-032.jpg",
+   "bytes": 291518,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-032",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3c/Klondikers_with_Indian_packers_near_the_summit_of_Chilkoot_Pass%2C_Alaska%2C_1897_%28LAROCHE_105%29.jpeg": {
+   "local_path": "assets/images/u6/wh-vis-u6-047.jpg",
+   "bytes": 136899,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-047",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/1967_Six_Day_War_-_The_Jordan_salient.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-023.jpg",
+   "bytes": 150144,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-023",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/IvyMike2.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-044.jpg",
+   "bytes": 129589,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-044",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Primary_plastic_production_by_polymer_type%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-041.svg",
+   "bytes": 8283,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-041",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/%22The_White_Man%27s_Burden%22_Judge_1899.png": {
+   "local_path": "assets/images/u6/wh-vis-u6-003.png",
+   "bytes": 1217175,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-003",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/Silk-Road_course.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-025.jpg",
+   "bytes": 333217,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-025",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/45/Aerial_view_of_shipping_containers%2C_and_big_container_cranes_at_Tacoma%27s_container_port_-a.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-004.jpg",
+   "bytes": 496543,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-004",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/46/1846_-_Anti-Corn_Law_League_Meeting.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-029.jpg",
+   "bytes": 243154,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-029",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/46/Air_passengers_carried%2C_World%2C_2010.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-005.svg",
+   "bytes": 165866,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-005",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-001.jpg",
+   "bytes": 479113,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-001",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Constitution_of_the_Lowell_Factory_Girls_Association.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-026.jpg",
+   "bytes": 150783,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-026",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Map_of_the_Mali_Empire.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-002.png",
+   "bytes": 41305,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-002",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Construction_of_the_Transsiberian_Railway.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-024.jpg",
+   "bytes": 144904,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-024",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Islamic_Astrolabe_%2828084953514%29.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-026.jpg",
+   "bytes": 229501,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-026",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Moscow_-_2026_-_St._Basil%E2%80%99s_Cathedral%2C_daytime_view_from_Red_Square.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-037.jpg",
+   "bytes": 320992,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-037",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg": {
+   "local_path": "assets/images/u2/wh-fresh-u2-014.svg",
+   "bytes": 2014138,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u2-014",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u2/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-10.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/50/Keppel_Container_Terminal%2C_Singapore_-_20120525.jpg": {
+   "local_path": "assets/images/u9/wh-fresh-u9-008.jpg",
+   "bytes": 278621,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u9-008",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u9/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u9/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-06.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/Second_world_war_asia_1937-1942_map_en6.png": {
+   "local_path": "assets/images/u7/wh-vis-u7-024.png",
+   "bytes": 211398,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-024",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/Soviet_May_day_1929.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-013.jpg",
+   "bytes": 42819,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-013",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/54/Dardanelles_Gun_Turkish_Bronze.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-011.jpg",
+   "bytes": 388533,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-011",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-019.jpg",
+   "bytes": 214277,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-019",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/54/Marco_Polo_portrait.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-034.jpg",
+   "bytes": 59526,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-034",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/56/Bundesarchiv_Bild_183-85458-0002%2C_Berlin%2C_Mauerbau%2C_Kampfgruppen_am_Brandenburger_Tor.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-005.jpg",
+   "bytes": 103912,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-005",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/56/Nutmeg_harvest_on_Lontor%2C_Banda.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-047.jpg",
+   "bytes": 730922,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-047",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/Majapahit_Map.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-020.png",
+   "bytes": 689307,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-020",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/58/Ibn_Battuta_1349-1354.png": {
+   "local_path": "assets/images/u2/wh-vis-u2-013.png",
+   "bytes": 144275,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-013",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/59/J._M._Flagg%2C_I_Want_You_for_U.S._Army_poster_%281917%29.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-011.jpg",
+   "bytes": 264183,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-011",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Attack_on_a_Barricade_in_Paris%2C_1848_WDL2946.png": {
+   "local_path": "assets/images/u5/wh-vis-u5-044.png",
+   "bytes": 3355320,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-044",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bison_skull_pile-restored.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-043.jpg",
+   "bytes": 402025,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-043",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5b/Protest_of_Greenpeace_with_coal_in_front_of_the_German_Chancellery_07.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-026.jpg",
+   "bytes": 315170,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-026",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-012.jpg",
+   "bytes": 531066,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-012",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-023.jpg",
+   "bytes": 283329,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-023",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-006.jpg",
+   "bytes": 298497,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-006",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/D%C3%A9barquement_en_1802_de_la_flotte_fran%C3%A7aise_%C3%A0_Saint-Domingue_%28future_Ha%C3%AFti%29_lors_de_l%27exp%C3%A9dition_contre_les_noirs_r%C3%A9volt%C3%A9s.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-017.jpg",
+   "bytes": 481105,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-017",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Toussaint_L%27Ouverture_engraving.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-018.jpg",
+   "bytes": 48032,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-018",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ethiopian_soldiers_at_the_Battle_of_Adwa_1896.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-014.jpg",
+   "bytes": 103386,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-014",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Toyotomi_Hideyoshi_%28Kodaiji%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-043.jpg",
+   "bytes": 370165,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-043",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/60/French_Indochina_post_partition.png": {
+   "local_path": "assets/images/u8/wh-vis-u8-018.png",
+   "bytes": 16965,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-018",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/Eastern_front_October_1%2C_1915.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-002.jpg",
+   "bytes": 302415,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-002",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/HaymarketRiot-Harpers.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-042.jpg",
+   "bytes": 155314,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u6-042",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/Trinity_Test_-_Oppenheimer_and_Groves_at_Ground_Zero_001.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-032.jpg",
+   "bytes": 141015,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-032",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg": {
+   "local_path": "assets/images/u5/wh-fresh-u5-019.jpg",
+   "bytes": 342236,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u5-019",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u5/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-017.jpg",
+   "bytes": 506547,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-017",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/65/Blockade_Against_Blockade_%28NAPOLEON_159%29.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-050.jpg",
+   "bytes": 611230,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-050",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/65/Diwan-i-Am_%28Red_Fort%29%2C_Delhi%2C_India%2C_2018.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-022.jpg",
+   "bytes": 319337,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-022",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/65/Euro_coins_and_banknotes.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-011.jpg",
+   "bytes": 405064,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-011",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Child_with_Smallpox_Bangladesh.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-032.jpg",
+   "bytes": 242729,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-032",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Inca_road_system_map-en.svg": {
+   "local_path": "assets/images/u1/wh-vis-u1-010.svg",
+   "bytes": 1284695,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-010",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Literacy-rate-of-young-men-and-women-line.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-040.png",
+   "bytes": 213402,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-040",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg": {
+   "local_path": "assets/images/u2/wh-fresh-u2-021.jpg",
+   "bytes": 346820,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u2-021",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u2/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-10.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Trench_Warfare_on_the_Western_Front%2C_1914-1918_Q6422.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-006.jpg",
+   "bytes": 54263,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-006",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/69/Aerial_view_Loos-Hulluch_trench_system_July_1917.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-005.jpg",
+   "bytes": 578614,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-005",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/Afghan-Soviet_war.png": {
+   "local_path": "assets/images/u8/wh-vis-u8-033.png",
+   "bytes": 935952,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u8-033",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pesa_ya_sarafu.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-023.jpg",
+   "bytes": 327526,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-023",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/DEUTSCHLANDS_SIEG_EUROPAS_FREIHEIT_NSDAP_Kriegsplakate_GERMANY%27S_VICTORY_EUROPE%27S_FREEDOM_WW2_Nazi_propaganda_poster_1941-42_Wehrmacht_soldier_defeats_communist_dragon_Dalkeith_Poster_Card_P118_Anonymous_No_known_copyright.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-018.jpg",
+   "bytes": 431016,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-018",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nyssa%2C_Oregon._FSA_%28Farm_Security_Administration%29_mobile_camp._Cooperative_mess_halls_of_the_Japanese-Americans_digital_file_from_original_neg.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-025.jpg",
+   "bytes": 141662,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-025",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ibn_Battuta_1325-1332.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-034.png",
+   "bytes": 157301,
+   "content_type": "image/png",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u1-034",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6c/Member_States_of_the_European_Union_2020_%28polar_stereographic_projection%29_EN.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-009.svg",
+   "bytes": 1747269,
+   "content_type": "image/svg+xml",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u9-009",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-014.jpg",
+   "bytes": 898804,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-014",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/71/Idn.duke.edu_Soviet_propaganda_poster_1929%3F_-_Bednyi%2C_Demian_-_Deni%2C_V._N._Enemies_of_the_Five_Year_Plan_%D0%92%D1%80%D0%B0%D0%B3%D0%B8_%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_No_known_copyright.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-014.jpg",
+   "bytes": 390907,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u7-014",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Fur_traders_in_canada_1777.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-018.jpg",
+   "bytes": 291261,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u4-018",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Qutb_Minar_17.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-019.jpg",
+   "bytes": 280205,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-019",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Silk_route.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-001.jpg",
+   "bytes": 282221,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u2-001",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg": {
+   "local_path": "assets/images/u3/wh-fresh-u3-015.jpg",
+   "bytes": 230788,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-fresh-u3-015",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/75/Bataille_de_Verti%C3%A8res.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-015.jpg",
+   "bytes": 70134,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u5-015",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Hall_of_Supreme_Harmony_%28Forbidden_City%29_1.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-031.jpg",
+   "bytes": 286987,
+   "content_type": "image/jpeg",
+   "note": "resumed: already downloaded by earlier partial run",
+   "item_id": "wh-vis-u3-031",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Vasily_Surikov_-_Yermak%27s_Conquest_of_Siberia_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-035.jpg",
+   "bytes": 225524,
+   "content_type": "image/jpeg",
+   "note": "downscaled 21167x9856 -> 1600x745",
+   "item_id": "wh-vis-u3-035",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/77/BRI_Columbian_Exchange.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-007.jpg",
+   "bytes": 90280,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 975x768",
+   "item_id": "wh-vis-u4-007",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Coolies_boarding_ship_LCCN2004707914.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-039.jpg",
+   "bytes": 41342,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 560x402",
+   "item_id": "wh-vis-u6-039",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Photovoltaic_Panels_Reap_Solar_Energy_on_Farms_%2820240809-USDA-RD-DCK-0324%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-025.jpg",
+   "bytes": 362333,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4000x3000 -> 1600x1200",
+   "item_id": "wh-vis-u9-025",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Serdar_Ferhat_Pasha%27s_conquest_of_Revan_%28Yerevan%29_and_the_Tokmak_%28Tokhmaq_Khan_Ustajlu%29_infidel%27s_escape_to_the_G%C3%B6k%C3%A7e_Sea_%28Lake_Sevan%2C_Armenia%29_and_her_destruction_%28101b%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-010.jpg",
+   "bytes": 434475,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1650x2552 -> 1034x1600",
+   "item_id": "wh-vis-u3-010",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Soldiers_in_trench_wearing_gas_masks_1917.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-007.jpg",
+   "bytes": 150280,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1200x979",
+   "item_id": "wh-vis-u7-007",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Depression%2C_Breadlines-long_line_of_people_waiting_to_be_fed%2C_New_York_City_-_NARA_-_196499.tif": {
+   "local_path": "assets/images/u7/wh-vis-u7-015.tif",
+   "bytes": 2060922,
+   "content_type": "image/tiff",
+   "note": "downscaled 1611x2000 -> 1288x1600",
+   "item_id": "wh-vis-u7-015",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7b/C-54_landing_at_Tempelhof_1948.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-004.jpg",
+   "bytes": 70453,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 530x422",
+   "item_id": "wh-vis-u8-004",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7b/Inchon_landing_map_%28en%29.svg": {
+   "local_path": "assets/images/u8/wh-vis-u8-016.svg",
+   "bytes": 122532,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u8-016",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/FlorentineCodex_BK12_F54_smallpox.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-009.jpg",
+   "bytes": 124398,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 640x494",
+   "item_id": "wh-vis-u4-009",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/A_bowl-mouthed_cannon_found_in_Java%2C_from_Julian_Permata_colllection.png": {
+   "local_path": "assets/images/u2/wh-vis-u2-029.png",
+   "bytes": 585999,
+   "content_type": "image/png",
+   "note": "kept as-is 1245x509",
+   "item_id": "wh-vis-u2-029",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg": {
+   "local_path": "assets/images/u2/wh-fresh-u2-011.jpg",
+   "bytes": 540953,
+   "content_type": "image/jpeg",
+   "note": "downscaled 6810x6009 -> 1600x1411",
+   "item_id": "wh-fresh-u2-011",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u2/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-08.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Darbarscene.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-028.jpg",
+   "bytes": 323536,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1212x1079",
+   "item_id": "wh-vis-u3-028",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/U-2_photo_during_Cuban_Missile_Crisis.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-011.jpg",
+   "bytes": 481401,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1800x1480 -> 1600x1315",
+   "item_id": "wh-vis-u8-011",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/80/Alcazaba%2C_Alhambra%2C_Granada%2C_Spain.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-028.jpg",
+   "bytes": 269413,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4592x3056 -> 1600x1064",
+   "item_id": "wh-vis-u1-028",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/Armoured_Kangxi_Emperor.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-029.jpg",
+   "bytes": 220798,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 741x901",
+   "item_id": "wh-vis-u3-029",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/DurbanSign1989.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-031.jpg",
+   "bytes": 88964,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 587x1000",
+   "item_id": "wh-vis-u8-031",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/Kaiser_Akbar_b%C3%A4ndigt_einen_Elefanten.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-025.jpg",
+   "bytes": 413886,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 921x1353",
+   "item_id": "wh-vis-u3-025",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/82/MongolEmpireDivisions1300.png": {
+   "local_path": "assets/images/u2/wh-vis-u2-008.png",
+   "bytes": 222693,
+   "content_type": "image/png",
+   "note": "downscaled 1644x959 -> 1600x933",
+   "item_id": "wh-vis-u2-008",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/Cliff_Palace-Colorado-Mesa_Verde_NP.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-032.jpg",
+   "bytes": 488790,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4000x2279 -> 1600x911",
+   "item_id": "wh-vis-u1-032",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-010.png",
+   "bytes": 38606,
+   "content_type": "image/png",
+   "note": "kept as-is 753x532",
+   "item_id": "wh-vis-u9-010",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/84/Victims_of_the_Madras_Famine_by_WW_Hooper%2C_1877.png": {
+   "local_path": "assets/images/u6/wh-vis-u6-007.png",
+   "bytes": 286900,
+   "content_type": "image/png",
+   "note": "kept as-is 600x467",
+   "item_id": "wh-vis-u6-007",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/Viva_la_rep%C3%BAblica%21_Viva_el_Cura_Hidalgo%21_Una_p%C3%A1gina_de_gloria_LCCN99615902.jpg": {
+   "local_path": "assets/images/u5/wh-fresh-u5-029.jpg",
+   "bytes": 207020,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 705x1024",
+   "item_id": "wh-fresh-u5-029",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u5/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-09.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/88/271_Yuan_Dynasty_Coins.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-007.jpg",
+   "bytes": 368124,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3888x2592 -> 1600x1066",
+   "item_id": "wh-vis-u1-007",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/88/Machu_Picchu.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-011.png",
+   "bytes": 1914374,
+   "content_type": "image/png",
+   "note": "downscaled 3072x1910 -> 1600x994",
+   "item_id": "wh-vis-u1-011",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-041.jpg",
+   "bytes": 141975,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1040x681",
+   "item_id": "wh-vis-u5-041",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mobile_phone_subscriptions_per_100_people_by_world_region%2C_OWID_chart.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-007.png",
+   "bytes": 462211,
+   "content_type": "image/png",
+   "note": "downscaled 1620x1620 -> 1600x1600",
+   "item_id": "wh-vis-u9-007",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8b/Galleon_after_Gonz%C3%A1lez_Cabrera_Bueno_1734.png": {
+   "local_path": "assets/images/u4/wh-vis-u4-028.png",
+   "bytes": 959931,
+   "content_type": "image/png",
+   "note": "kept as-is 738x675",
+   "item_id": "wh-vis-u4-028",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8e/Graph_of_Major_Developing_Economies_by_Real_GDP_per_capita_at_PPP%2C_from_1990%2C_OWID.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-013.png",
+   "bytes": 373642,
+   "content_type": "image/png",
+   "note": "downscaled 3400x2371 -> 1600x1115",
+   "item_id": "wh-vis-u9-013",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8e/Women%27s_War_work_during_the_First_World_War%2C_Woolwich%2C_1918_Q27881.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-009.jpg",
+   "bytes": 372671,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3194x2480 -> 1600x1242",
+   "item_id": "wh-vis-u7-009",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-047.jpg",
+   "bytes": 291897,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1465x1046",
+   "item_id": "wh-vis-u3-047",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/D%C3%A9claration_des_Droits_de_lHomme_et_du_Citoyen%2C_d%C3%A9cr%C3%A9t%C3%A9s_par_lAssembl%C3%A9e_Nationale_dans_les_s%C3%A9ances_du_20%2C_21%2C_23_%2C_2%2C_G.29754.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-004.jpg",
+   "bytes": 544010,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3675x5151 -> 1141x1600",
+   "item_id": "wh-vis-u5-004",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-002.jpg",
+   "bytes": 634683,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3675x4095 -> 1435x1600",
+   "item_id": "wh-vis-u6-002",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/China%2C_the_cake_of_kings_and_emperors%2C_Le_Petit_Journal_1898.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-041.jpg",
+   "bytes": 447084,
+   "content_type": "image/jpeg",
+   "note": "downscaled 5481x7908 -> 1108x1600",
+   "item_id": "wh-vis-u6-041",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-033.jpg",
+   "bytes": 234518,
+   "content_type": "image/jpeg",
+   "note": "downscaled 5738x4594 -> 1600x1281",
+   "item_id": "wh-vis-u7-033",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/95/Aral_Sea_1989-2008.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-023.jpg",
+   "bytes": 296113,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1471x1250",
+   "item_id": "wh-vis-u9-023",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/1956_Suez_war_-_conquest_of_Sinai.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-022.jpg",
+   "bytes": 179101,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 740x918",
+   "item_id": "wh-vis-u8-022",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg": {
+   "local_path": "assets/images/u2/wh-fresh-u2-007.jpg",
+   "bytes": 248036,
+   "content_type": "image/jpeg",
+   "note": "downscaled 9000x4500 -> 1600x800",
+   "item_id": "wh-fresh-u2-007",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u2/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-06.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/Tet_Offensive_map.png": {
+   "local_path": "assets/images/u8/wh-vis-u8-019.png",
+   "bytes": 1065453,
+   "content_type": "image/png",
+   "note": "downscaled 1576x2038 -> 1237x1600",
+   "item_id": "wh-vis-u8-019",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/Aernout_Smit_Table_Bay%2C_1683_William_Fehr_Collection_Cape_Town.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-037.jpg",
+   "bytes": 233807,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1755x1237 -> 1600x1127",
+   "item_id": "wh-vis-u4-037",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/UN_Partition_Plan_For_Palestine_1947.png": {
+   "local_path": "assets/images/u8/wh-vis-u8-020.png",
+   "bytes": 69680,
+   "content_type": "image/png",
+   "note": "kept as-is 627x1147",
+   "item_id": "wh-vis-u8-020",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/98/Enslaved_Africans_harvesting_sugar_cane_in_a_colonial_plantation_in_the_Caribbean.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-016.jpg",
+   "bytes": 341257,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 976x802",
+   "item_id": "wh-vis-u4-016",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Vecellio-373-Janizary-16thC.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-005.jpg",
+   "bytes": 35257,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 281x491",
+   "item_id": "wh-vis-u3-005",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9a/%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_%28Paiza%29_with_Inscription_in_Phakpa_Script_MET_DT7052.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-010.jpg",
+   "bytes": 239132,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2978x3722 -> 1280x1600",
+   "item_id": "wh-vis-u2-010",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Truman_Doctrine_-_DPLA_-_ed51a4ec220b91bd944d05f6ca81bf5b_%28page_1%29.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-002.jpg",
+   "bytes": 57227,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 386x600",
+   "item_id": "wh-vis-u8-002",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9f/N%C2%B078_Supplice_de_Louis_XVI%2C_place_de_la_r%C3%A9volution._Le_21_Janvier_1793_ou_Ier_Pluvi%C3%B4se_An_Ier_de_la_R%C3%A9publique._G.28718.jpg": {
+   "local_path": "assets/images/u5/wh-fresh-u5-033.jpg",
+   "bytes": 475079,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3564x2851 -> 1600x1279",
+   "item_id": "wh-fresh-u5-033",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u5/batch-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-08.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-01.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-019.jpg",
+   "bytes": 284162,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4288x2800 -> 1600x1044",
+   "item_id": "wh-vis-u1-019",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Great_Wall_of_China_-_Badaling_%28built_in_1505_during_Ming_Dynasty%29_-_panoramio.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-033.jpg",
+   "bytes": 420178,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4592x3055 -> 1600x1064",
+   "item_id": "wh-vis-u3-033",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a0/US_Navy_F-14A_Tomcat_flying_over_burning_Kuwaiti_oil_wells_during_Operation_Desert_Storm.JPEG": {
+   "local_path": "assets/images/u8/wh-vis-u8-034.jpg",
+   "bytes": 322695,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3000x2449 -> 1600x1306",
+   "item_id": "wh-vis-u8-034",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a0/WLA_brooklynmuseum_Am_I_Not_A_Man_And_A_Brother_Medallion.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-030.jpg",
+   "bytes": 72428,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 799x604",
+   "item_id": "wh-vis-u5-030",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a1/NAM_Map.svg": {
+   "local_path": "assets/images/u8/wh-vis-u8-028.svg",
+   "bytes": 1157494,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u8-028",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a1/Portuguese_Caravel.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-015.jpg",
+   "bytes": 302363,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1126x1747 -> 1031x1600",
+   "item_id": "wh-vis-u4-015",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brouillon_du_d%C3%A9cret_d%E2%80%99abolition_de_l%E2%80%99esclavage_annot%C3%A9_par_Victor_Schoelcher%2C_1848.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-034.jpg",
+   "bytes": 242285,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1434x2208 -> 1039x1600",
+   "item_id": "wh-vis-u5-034",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Asian-African_Conference_Participants.svg": {
+   "local_path": "assets/images/u8/wh-vis-u8-027.svg",
+   "bytes": 819216,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u8-027",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bete_Giyorgis_01.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-023.jpg",
+   "bytes": 506627,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3297x2326 -> 1600x1128",
+   "item_id": "wh-vis-u1-023",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mound_at_Cahokia_Mounds_State_Historic_Site.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-033.jpg",
+   "bytes": 182368,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2047x1261 -> 1600x985",
+   "item_id": "wh-vis-u1-033",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Alecto_and_her_train%2C_at_the_gate_of_Pandaemonium-or-The_recruiting_sarjeant_enlisting_John-Bull%2C_into_the_Revolution_Service._%28BM_1851%2C0901.535%29.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-008.jpg",
+   "bytes": 572261,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1600x1410",
+   "item_id": "wh-vis-u5-008",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gate_of_Salutation_%28Topkapi_Palace%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-007.jpg",
+   "bytes": 239545,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1024x684",
+   "item_id": "wh-vis-u3-007",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Simon-Bolivar_-_Gil_de_Castro.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-014.jpg",
+   "bytes": 389718,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1920x2708 -> 1134x1600",
+   "item_id": "wh-vis-u5-014",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Landing_of_Australian_troops_at_ANZAC_Cove%2C_25_April_1915_slnsw.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-004.jpg",
+   "bytes": 196384,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4344x2625 -> 1600x966",
+   "item_id": "wh-vis-u7-004",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Photograph_of_the_U.S._Immigrant_Building_at_Ellis_Island%2C_01-11-1900_%285008202931%29.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-023.jpg",
+   "bytes": 39745,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 600x469",
+   "item_id": "wh-vis-u6-023",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Siege_of_Constantinople_1453_map-en.svg": {
+   "local_path": "assets/images/u3/wh-vis-u3-001.svg",
+   "bytes": 245531,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u3-001",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a7/British_Lusitania_poster_1915_LOC_cph.3g10930.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-010.jpg",
+   "bytes": 131526,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 522x786",
+   "item_id": "wh-vis-u7-010",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/aa/Map_of_the_Delhi_Sultanate_in_1330_%28world%29.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-003.png",
+   "bytes": 3151887,
+   "content_type": "image/png",
+   "note": "downscaled 3196x1840 -> 1600x921",
+   "item_id": "wh-vis-u1-003",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/aa/Plan_du_fort_fran%C3%A7ois_de_Whidah-1747.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-043.jpg",
+   "bytes": 77158,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 512x679",
+   "item_id": "wh-vis-u4-043",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-050.jpg",
+   "bytes": 45309,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 530x398",
+   "item_id": "wh-vis-u3-050",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ab/PSM_V12_D152_Watt_steam_engine_1780.jpg": {
+   "local_path": "assets/images/u5/wh-fresh-u5-039.jpg",
+   "bytes": 229966,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1102x1192",
+   "item_id": "wh-fresh-u5-039",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u5/batch-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Apollo_11_launch.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-009.jpg",
+   "bytes": 203376,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2400x3000 -> 1280x1600",
+   "item_id": "wh-vis-u8-009",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Belvedere_of_the_God_of_Literature%2C_Summer_Palace%2C_Beijing%2C_6%E2%80%9318_October%2C_1860.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-046.jpg",
+   "bytes": 355977,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3500x3093 -> 1600x1413",
+   "item_id": "wh-vis-u6-046",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emperor_Kangxi_at_his_desk.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-030.jpg",
+   "bytes": 457646,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1569x2452 -> 1023x1600",
+   "item_id": "wh-vis-u3-030",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Capture_of_Cetewayo_-_The_king_embarking_on_board_the_transport_ship_%27Natal%27_at_Port_Durnford_-_The_Graphic_1879.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-015.jpg",
+   "bytes": 58478,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 941x351",
+   "item_id": "wh-vis-u6-015",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Their_sitting_at_meate_-_Travels_through_Virginia_%281618%29%2C_f.85_-_BL_Sloane_MS_1622.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-041.jpg",
+   "bytes": 483510,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1505x1348",
+   "item_id": "wh-vis-u4-041",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ae/2024_Our_World_In_Data_Population%2C_1800_to_2100_chart_with_future_projections_based_on_UN%27s_medium-fertility_scenario.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-039.png",
+   "bytes": 374879,
+   "content_type": "image/png",
+   "note": "downscaled 3400x2706 -> 1600x1273",
+   "item_id": "wh-vis-u9-039",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/af/Dien_Bien_Phu_map.png": {
+   "local_path": "assets/images/u8/wh-vis-u8-017.png",
+   "bytes": 68127,
+   "content_type": "image/png",
+   "note": "kept as-is 712x1048",
+   "item_id": "wh-vis-u8-017",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bangladesh_1971_Liberation.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-026.jpg",
+   "bytes": 609881,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1596x2000 -> 1276x1600",
+   "item_id": "wh-vis-u8-026",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b0/Garibaldi_departing_on_the_Expedition_of_the_Thousand_in_1860.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-039.jpg",
+   "bytes": 59152,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 512x365",
+   "item_id": "wh-vis-u5-039",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sputnik_1.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-008.jpg",
+   "bytes": 137691,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1339x1800 -> 1190x1600",
+   "item_id": "wh-vis-u8-008",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/Djinguereber_Mosque%2C_Timbuktu%2C_Mali.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-018.jpg",
+   "bytes": 387546,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1207x2000 -> 965x1600",
+   "item_id": "wh-vis-u2-018",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wheat_yields%2C_World%2C_2023.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-029.svg",
+   "bytes": 165362,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-029",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marshall_Plan_poster.JPG": {
+   "local_path": "assets/images/u8/wh-vis-u8-003.jpg",
+   "bytes": 122047,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 714x976",
+   "item_id": "wh-vis-u8-003",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg": {
+   "local_path": "assets/images/u3/wh-fresh-u3-030.jpg",
+   "bytes": 247928,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3837x1978 -> 1600x824",
+   "item_id": "wh-fresh-u3-030",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-09.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-044.jpg",
+   "bytes": 684224,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4080x3072 -> 1600x1204",
+   "item_id": "wh-vis-u3-044",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-022.jpg",
+   "bytes": 368164,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3836x3000 -> 1600x1251",
+   "item_id": "wh-vis-u9-022",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Atomic_cloud_over_Hiroshima.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-031.jpg",
+   "bytes": 277956,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2491x2937 -> 1357x1600",
+   "item_id": "wh-vis-u7-031",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Caricature_of_CongressVienna.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-010.jpg",
+   "bytes": 31819,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 460x294",
+   "item_id": "wh-vis-u5-010",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Child_mortality_rate_%28UN_IGME_data_world_map%29%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-037.svg",
+   "bytes": 161840,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-037",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Niger_saharan_medieval_trade_routes.PNG": {
+   "local_path": "assets/images/u2/wh-vis-u2-004.png",
+   "bytes": 272375,
+   "content_type": "image/png",
+   "note": "kept as-is 817x326",
+   "item_id": "wh-vis-u2-004",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b8/Russian_prisoners_at_work_at_the_Amur_Railway.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-025.jpg",
+   "bytes": 168767,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1015x825",
+   "item_id": "wh-vis-u6-025",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b9/United_Nations_Building_NY.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-042.jpg",
+   "bytes": 223568,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2436x3648 -> 1068x1600",
+   "item_id": "wh-vis-u9-042",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sir_Godfrey_Kneller_%281646-1723%29_-_Peter_the_Great%2C_Tsar_of_Russia_%281672-1725%29_-_RCIN_405645_-_Royal_Collection.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-040.jpg",
+   "bytes": 214339,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 906x1500",
+   "item_id": "wh-vis-u3-040",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-04.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bb/Haitian_revolution.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-049.jpg",
+   "bytes": 176185,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 700x480",
+   "item_id": "wh-vis-u5-049",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Migrant_Mother_%28LOC_fsa.8b29516%29.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-016.jpg",
+   "bytes": 297474,
+   "content_type": "image/jpeg",
+   "note": "downscaled 6309x8099 -> 1246x1600",
+   "item_id": "wh-vis-u7-016",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Liu-Kuan-Tao-Jagd.JPG": {
+   "local_path": "assets/images/u2/wh-vis-u2-033.jpg",
+   "bytes": 354070,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2100x1728 -> 1600x1316",
+   "item_id": "wh-vis-u2-033",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Share_of_global_primary_energy_consumption_by_source%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-018.svg",
+   "bytes": 13784,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-018",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-035.jpg",
+   "bytes": 179230,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3493x4961 -> 1126x1600",
+   "item_id": "wh-vis-u9-035",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_reversing_station%2C_Bhore_Ghaut%2C_1869.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-050.jpg",
+   "bytes": 491778,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2762x1725 -> 1600x999",
+   "item_id": "wh-vis-u6-050",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png": {
+   "local_path": "assets/images/u3/wh-fresh-u3-026.png",
+   "bytes": 94377,
+   "content_type": "image/png",
+   "note": "kept as-is 636x365",
+   "item_id": "wh-fresh-u3-026",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c0/Qutb_Minar_2011.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-004.jpg",
+   "bytes": 119812,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1800x7304 -> 394x1600",
+   "item_id": "wh-vis-u1-004",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Great_Zimbabwe_-_aerial_view.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-022.jpg",
+   "bytes": 390340,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x960",
+   "item_id": "wh-vis-u1-022",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mansa_Musa.jpg": {
+   "local_path": "assets/images/u2/wh-fresh-u2-030.jpg",
+   "bytes": 82701,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 500x381",
+   "item_id": "wh-fresh-u2-030",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u2/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Smallpox-countries-endemic-eradication-desktop.png": {
+   "local_path": "assets/images/u9/wh-vis-u9-033.png",
+   "bytes": 409959,
+   "content_type": "image/png",
+   "note": "downscaled 1700x1276 -> 1600x1200",
+   "item_id": "wh-vis-u9-033",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Korean_front_line_23_November_1950.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-015.jpg",
+   "bytes": 106710,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 735x583",
+   "item_id": "wh-vis-u8-015",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Map_of_the_D-Day_landings.svg": {
+   "local_path": "assets/images/u7/wh-vis-u7-028.svg",
+   "bytes": 1991879,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u7-028",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ozone_hole_area.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-024.jpg",
+   "bytes": 54789,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 792x611",
+   "item_id": "wh-vis-u9-024",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Nur_Jahan_holding_a_gun.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-026.jpg",
+   "bytes": 98458,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 481x768",
+   "item_id": "wh-vis-u3-026",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_David_Vases%2C_1351.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-027.jpg",
+   "bytes": 312034,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2119x1877 -> 1600x1417",
+   "item_id": "wh-vis-u2-027",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Krak_des_Chevaliers_01.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-029.jpg",
+   "bytes": 273003,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3044x1723 -> 1600x905",
+   "item_id": "wh-vis-u1-029",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mauna_Loa_CO2_monthly_mean_concentration.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-015.svg",
+   "bytes": 454598,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-015",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c7/Opening_of_the_Liverpool_and_Manchester_Railway.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-023.jpg",
+   "bytes": 245139,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 972x707",
+   "item_id": "wh-vis-u5-023",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c7/Western_front_1914_EN.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-003.jpg",
+   "bytes": 447879,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1471x1518",
+   "item_id": "wh-vis-u7-003",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-003.jpg",
+   "bytes": 353832,
+   "content_type": "image/jpeg",
+   "note": "downscaled 5280x3956 -> 1600x1198",
+   "item_id": "wh-vis-u9-003",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tlamatini_observe_stars_-_Codex_Mendoza.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-014.jpg",
+   "bytes": 26440,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 279x292",
+   "item_id": "wh-vis-u1-014",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bundesarchiv_Bild_183-H25224%2C_Guernica%2C_Ruinen.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-020.jpg",
+   "bytes": 74010,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 798x584",
+   "item_id": "wh-vis-u7-020",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/German_and_Indian_troops%2C_Boxer_Rebellion%2C_China%2C_1900.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-011.jpg",
+   "bytes": 122933,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 960x708",
+   "item_id": "wh-vis-u6-011",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/KhubilaiOnTheHunt.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-008.jpg",
+   "bytes": 210740,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1346x2366 -> 910x1600",
+   "item_id": "wh-vis-u1-008",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Quipu.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-012.png",
+   "bytes": 67229,
+   "content_type": "image/png",
+   "note": "kept as-is 299x449",
+   "item_id": "wh-vis-u1-012",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cuba_Missiles_Crisis_U-2_photo.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-010.jpg",
+   "bytes": 417907,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1250x1063",
+   "item_id": "wh-vis-u8-010",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unknown%2C_Turkey%2C_16th_Century_-_Ferman_with_a_Tughra_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u3/wh-fresh-u3-001.jpg",
+   "bytes": 262304,
+   "content_type": "image/jpeg",
+   "note": "downscaled 7402x10357 -> 1143x1600",
+   "item_id": "wh-fresh-u3-001",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-05.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d1/Georg_Marcgraf_Engenho_de_A%C3%A7ucar.PNG": {
+   "local_path": "assets/images/u4/wh-vis-u4-045.png",
+   "bytes": 972350,
+   "content_type": "image/png",
+   "note": "kept as-is 862x668",
+   "item_id": "wh-vis-u4-045",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d1/German_Heinkel_He_111_bombing_Warsaw_1939.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-021.jpg",
+   "bytes": 169943,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 700x1000",
+   "item_id": "wh-vis-u7-021",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Aztec_Empire.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-015.png",
+   "bytes": 1547463,
+   "content_type": "image/png",
+   "note": "downscaled 20000x13333 -> 1600x1066",
+   "item_id": "wh-vis-u1-015",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bodleian_Libraries%2C_The_bungling_tinkers_or%2C_Congress_of_blockheads_who_battered_a_hole_in_great_Europe%27s_kettle.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-009.jpg",
+   "bytes": 94348,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1000x628",
+   "item_id": "wh-vis-u5-009",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Yalta_summit_1945_with_Churchill%2C_Roosevelt%2C_Stalin.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-030.jpg",
+   "bytes": 313027,
+   "content_type": "image/jpeg",
+   "note": "downscaled 5010x4044 -> 1600x1291",
+   "item_id": "wh-vis-u7-030",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Yuan_Bronze_Cannon.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-030.jpg",
+   "bytes": 149947,
+   "content_type": "image/jpeg",
+   "note": "downscaled 5184x3456 -> 1600x1066",
+   "item_id": "wh-vis-u2-030",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-024.jpg",
+   "bytes": 664951,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3024x4032 -> 1200x1600",
+   "item_id": "wh-vis-u2-024",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mamluk_era_astrolabe%2C_1282.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-028.jpg",
+   "bytes": 413090,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2044x2076 -> 1575x1600",
+   "item_id": "wh-vis-u2-028",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d3/Medieval_Venetian_ducat_%28FindID_805820%29.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-016.jpg",
+   "bytes": 188548,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3840x2192 -> 1600x913",
+   "item_id": "wh-vis-u2-016",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d3/The_Yuan_Dynasty_map_of_Nanjing%2Cby_Chen_Yi.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-006.jpg",
+   "bytes": 79098,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 640x444",
+   "item_id": "wh-vis-u1-006",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chernobyl_reactor_4.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-020.jpg",
+   "bytes": 262503,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2989x2048 -> 1600x1096",
+   "item_id": "wh-vis-u9-020",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg": {
+   "local_path": "assets/images/u3/wh-fresh-u3-041.jpg",
+   "bytes": 415644,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3272x4907 -> 1066x1600",
+   "item_id": "wh-fresh-u3-041",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-06.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Siege_of_Constantinople_BnF_MS_Fr_9087.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-008.jpg",
+   "bytes": 381624,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1297x1851 -> 1121x1600",
+   "item_id": "wh-vis-u3-008",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Yuan_dynasty_under_Kublai_Khan.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-005.png",
+   "bytes": 3600837,
+   "content_type": "image/png",
+   "note": "downscaled 2496x2073 -> 1600x1328",
+   "item_id": "wh-vis-u1-005",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Codex_Mendoza_folio_37r.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-013.jpg",
+   "bytes": 284420,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 735x1084",
+   "item_id": "wh-vis-u1-013",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Kublai_Khan_meeting_Marco_Polo.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-027.png",
+   "bytes": 2308378,
+   "content_type": "image/png",
+   "note": "kept as-is 1592x966",
+   "item_id": "wh-vis-u1-027",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Norman_Borlaug_%282004%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-031.jpg",
+   "bytes": 91426,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1270x1116",
+   "item_id": "wh-vis-u9-031",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d8/Divided_Bulgaria_after_the_Congress_of_Berlin.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-033.jpg",
+   "bytes": 104894,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 720x506",
+   "item_id": "wh-vis-u6-033",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuremberg_Trials._Looking_down_on_defendants_dock%2C_circa_1945-1946._-_NARA_-_540127.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-034.jpg",
+   "bytes": 337071,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2951x2404 -> 1599x1303",
+   "item_id": "wh-vis-u7-034",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Global_annual_CO2_emissions_by_world_region_since_1750.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-016.svg",
+   "bytes": 133069,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-016",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/C._1400_Northern_Europe_Hanseatic_League.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-035.jpg",
+   "bytes": 439988,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2907x1933 -> 1600x1063",
+   "item_id": "wh-vis-u1-035",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Fidel_Castro%27s_entry_into_Havana%2C_1959.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-013.jpg",
+   "bytes": 112442,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1024x768",
+   "item_id": "wh-vis-u8-013",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg": {
+   "local_path": "assets/images/u3/wh-fresh-u3-008.jpg",
+   "bytes": 118289,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 912x549",
+   "item_id": "wh-fresh-u3-008",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u3/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-05.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-05.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-06.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg": {
+   "local_path": "assets/images/u8/wh-vis-u8-001.svg",
+   "bytes": 350362,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u8-001",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-005.jpg",
+   "bytes": 409429,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2631x1918 -> 1599x1166",
+   "item_id": "wh-vis-u2-005",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/Description_of_a_Slave_Ship%2C_1789.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-001.jpg",
+   "bytes": 532814,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1675x2000 -> 1340x1600",
+   "item_id": "wh-vis-u4-001",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-026.jpg",
+   "bytes": 226975,
+   "content_type": "image/jpeg",
+   "note": "downscaled 6782x8784 -> 1235x1600",
+   "item_id": "wh-vis-u7-026",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Allied_occupation_in_Germany_%281945-1949%29.png": {
+   "local_path": "assets/images/u7/wh-fresh-u7-017.png",
+   "bytes": 244126,
+   "content_type": "image/png",
+   "note": "kept as-is 1012x1198",
+   "item_id": "wh-fresh-u7-017",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u7/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Anton_von_Werner_-_Kaiserproklamation_in_Versailles_1871.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-040.jpg",
+   "bytes": 540908,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1292x1095",
+   "item_id": "wh-vis-u5-040",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Earth%27s_City_Lights_by_DMSP%2C_1994-1995_%28large%29.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-045.jpg",
+   "bytes": 134946,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4800x2400 -> 1600x800",
+   "item_id": "wh-vis-u9-045",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Late_Medieval_Trade_Routes.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-015.jpg",
+   "bytes": 359072,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1457x1088",
+   "item_id": "wh-vis-u2-015",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e2/Map_of_Meridian_Line_set_under_the_Treaty_of_Tordesillas.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-005.jpg",
+   "bytes": 146348,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 990x709",
+   "item_id": "wh-vis-u4-005",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_at_the_Landing_Homestead_Strike_of_1892.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-048.jpg",
+   "bytes": 83802,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 600x354",
+   "item_id": "wh-vis-u6-048",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/%22Attack_of_the_Mutineers_on_the_Redan_Battery_at_Lucknow%2C_July_30th%2C_1857%2C.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-042.jpg",
+   "bytes": 119731,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 914x592",
+   "item_id": "wh-vis-u5-042",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/US_Patent_72x_Eli_Whitney_cotton_gin.png": {
+   "local_path": "assets/images/u5/wh-vis-u5-024.png",
+   "bytes": 82897,
+   "content_type": "image/png",
+   "note": "kept as-is 640x940",
+   "item_id": "wh-vis-u5-024",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/1948_Arab_Israeli_War_-_May_15-June_10.svg": {
+   "local_path": "assets/images/u8/wh-vis-u8-021.svg",
+   "bytes": 465085,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u8-021",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Portraits_of_Shah_Abbas_I_by_Bishandas_%281615-1620%29.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-016.jpg",
+   "bytes": 289609,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1324x1674 -> 1265x1600",
+   "item_id": "wh-vis-u3-016",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/WTO-Seattle-PuppetMarchers-28_or_29Nov1999.jpg": {
+   "local_path": "assets/images/u9/wh-vis-u9-012.jpg",
+   "bytes": 289891,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1176x1760 -> 1069x1600",
+   "item_id": "wh-vis-u9-012",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/African-civilizations-map-pre-colonial.svg": {
+   "local_path": "assets/images/u3/wh-vis-u3-049.svg",
+   "bytes": 499458,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u3-049",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/KAR_Mau_Mau.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-030.jpg",
+   "bytes": 89945,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 800x617",
+   "item_id": "wh-vis-u8-030",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Edo_LEFT_SCREEN.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-046.jpg",
+   "bytes": 85554,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 595x269",
+   "item_id": "wh-vis-u3-046",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Baker_nuclear_test_blast_at_Bikini_atoll_1946.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-007.jpg",
+   "bytes": 200259,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2851x2005 -> 1599x1125",
+   "item_id": "wh-vis-u8-007",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Internet_users_by_world_region%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-006.svg",
+   "bytes": 12292,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-006",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chartist_Demonstration.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-027.jpg",
+   "bytes": 320523,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 936x1138",
+   "item_id": "wh-vis-u5-027",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bibi-Khanum_%28Samarkand%29-16.jpg": {
+   "local_path": "assets/images/u1/wh-vis-u1-030.jpg",
+   "bytes": 539195,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3296x2472 -> 1600x1200",
+   "item_id": "wh-vis-u1-030",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Descolonizacion_d%27Africa_%281945-1991%29.png": {
+   "local_path": "assets/images/u8/wh-vis-u8-029.png",
+   "bytes": 231450,
+   "content_type": "image/png",
+   "note": "kept as-is 1317x670",
+   "item_id": "wh-vis-u8-029",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bundesarchiv_Bild_102-04062A%2C_N%C3%BCrnberg%2C_Reichsparteitag%2C_SA-_und_SS-Appell.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-017.jpg",
+   "bytes": 98184,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 553x795",
+   "item_id": "wh-vis-u7-017",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/eb/Crowds_of_French_patriots_line_the_Champs_Elysees.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-035.jpg",
+   "bytes": 415889,
+   "content_type": "image/jpeg",
+   "note": "downscaled 7282x5704 -> 1600x1253",
+   "item_id": "wh-vis-u7-035",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Ardabil_Carpet_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-015.jpg",
+   "bytes": 758603,
+   "content_type": "image/jpeg",
+   "note": "downscaled 8029x4189 -> 1600x834",
+   "item_id": "wh-vis-u3-015",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png": {
+   "local_path": "assets/images/u3/wh-vis-u3-020.png",
+   "bytes": 998802,
+   "content_type": "image/png",
+   "note": "kept as-is 801x749",
+   "item_id": "wh-vis-u3-020",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json",
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ed/Quanzhou_Qingjing_Si_20120229-03.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-020.jpg",
+   "bytes": 201352,
+   "content_type": "image/jpeg",
+   "note": "downscaled 4752x3168 -> 1600x1066",
+   "item_id": "wh-vis-u2-020",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bundesarchiv_Bild_183-1989-1115-023%2C_Berlin%2C_Brandenburger_Tor%2C_vor_Grenz%C3%B6ffnung.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-035.jpg",
+   "bytes": 96725,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 800x572",
+   "item_id": "wh-vis-u8-035",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f0/Long-term_wheat_yields_in_Europe%2C_OWID.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-028.svg",
+   "bytes": 43700,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-028",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg": {
+   "local_path": "assets/images/u8/wh-vis-u8-025.jpg",
+   "bytes": 300437,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2516x1795 -> 1600x1141",
+   "item_id": "wh-vis-u8-025",
+   "unit": 8,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u8/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Route_rubrouck_1253_55.JPG": {
+   "local_path": "assets/images/u2/wh-vis-u2-007.jpg",
+   "bytes": 63179,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 760x324",
+   "item_id": "wh-vis-u2-007",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bahadur_Shah_Zafar.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-045.jpg",
+   "bytes": 38589,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 420x324",
+   "item_id": "wh-vis-u6-045",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/Barricade_durant_la_r%C3%A9volution_de_1848._Paris_Mus%C3%A9es_20230513123656.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-045.jpg",
+   "bytes": 576249,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1847x1147 -> 1600x993",
+   "item_id": "wh-vis-u5-045",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/Greenhouse_effect_with_energy_flows_shown_by_altitude.svg": {
+   "local_path": "assets/images/u9/wh-vis-u9-021.svg",
+   "bytes": 11490,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u9-021",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u9/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Kaan%27s_Fleet_passing_through_the_Indian_Archipelago.jpg": {
+   "local_path": "assets/images/u2/wh-vis-u2-011.jpg",
+   "bytes": 334036,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2672x1621 -> 1599x970",
+   "item_id": "wh-vis-u2-011",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f4/Khmer_Empire_1203_Map.png": {
+   "local_path": "assets/images/u1/wh-vis-u1-018.png",
+   "bytes": 3609507,
+   "content_type": "image/png",
+   "note": "downscaled 1800x1800 -> 1600x1600",
+   "item_id": "wh-vis-u1-018",
+   "unit": 1,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u1/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg": {
+   "local_path": "assets/images/u9/wh-fresh-u9-027.jpg",
+   "bytes": 127610,
+   "content_type": "image/jpeg",
+   "note": "downscaled 17809x3557 -> 1600x319",
+   "item_id": "wh-fresh-u9-027",
+   "unit": 9,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u9/batch-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/British_Mark_I_male_tank_Somme_25_September_1916.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-008.jpg",
+   "bytes": 404773,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3503x2480 -> 1600x1132",
+   "item_id": "wh-vis-u7-008",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f8/12_Abu%27l_Hasan_Jahangir_Welcoming_Shah_%27Abbas%2C_ca._1618%2C_Freer_Gallery_of_Art%2C_Washington_DC.jpg": {
+   "local_path": "assets/images/u3/wh-vis-u3-019.jpg",
+   "bytes": 517830,
+   "content_type": "image/jpeg",
+   "note": "downscaled 5351x7750 -> 1104x1600",
+   "item_id": "wh-vis-u3-019",
+   "unit": 3,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u3/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f8/Golden_Spike_ceremony%2C_Promontory%2C_Utah%2C_May_10%2C_1869.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-018.jpg",
+   "bytes": 164507,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 862x587",
+   "item_id": "wh-vis-u6-018",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg": {
+   "local_path": "assets/images/u7/wh-fresh-u7-003.jpg",
+   "bytes": 369327,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1400x1069",
+   "item_id": "wh-fresh-u7-003",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u7/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fb/Emancipation_of_the_serfs_in_1861.jpg": {
+   "local_path": "assets/images/u5/wh-vis-u5-035.jpg",
+   "bytes": 237260,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1142x1220",
+   "item_id": "wh-vis-u5-035",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u5/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ocho_reales_de_plata_1759_%28reverso%29.jpg": {
+   "local_path": "assets/images/u4/wh-vis-u4-049.jpg",
+   "bytes": 224303,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 957x965",
+   "item_id": "wh-vis-u4-049",
+   "unit": 4,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u4/batch-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wiener_kongress.jpg": {
+   "local_path": "assets/images/u5/wh-fresh-u5-010.jpg",
+   "bytes": 84652,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 589x440",
+   "item_id": "wh-fresh-u5-010",
+   "unit": 5,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/bank/mcq-bank.json",
+    "/home/hatch/workspace/ap_world/build/fresh-written/u5/batch-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fe/Opening_of_the_Suez_Canal%2C_Port_Said%2C_1869.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-030.jpg",
+   "bytes": 253638,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1260x1015",
+   "item_id": "wh-vis-u6-030",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/RIAN_archive_2383_The_ruins_of_Stalingrad.jpg": {
+   "local_path": "assets/images/u7/wh-vis-u7-029.jpg",
+   "bytes": 157886,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1024x686",
+   "item_id": "wh-vis-u7-029",
+   "unit": 7,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u7/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Trans-Saharan_routes_early.svg": {
+   "local_path": "assets/images/u2/wh-vis-u2-003.svg",
+   "bytes": 120619,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "wh-vis-u2-003",
+   "unit": 2,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u2/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A_Bessemer_steel_converter_LCCN90715020.jpg/1280px-A_Bessemer_steel_converter_LCCN90715020.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-026.jpg",
+   "bytes": 390839,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1280x1607 -> 1274x1600",
+   "item_id": "wh-vis-u6-026",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Map_of_colonial_Africa_in_1897.jpg/1280px-Map_of_colonial_Africa_in_1897.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-034.jpg",
+   "bytes": 585935,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x993",
+   "item_id": "wh-vis-u6-034",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_coolie_ship_Volga_II_RMG_BHC2331.tiff/lossy-page1-1280px-The_coolie_ship_Volga_II_RMG_BHC2331.tiff.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-040.jpg",
+   "bytes": 187244,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x923",
+   "item_id": "wh-vis-u6-040",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Chinese_Catholic_militiamen_prepared_to_defend_in_the_Boxer_rebellion_1900_Peking.jpg/1280px-Chinese_Catholic_militiamen_prepared_to_defend_in_the_Boxer_rebellion_1900_Peking.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-012.jpg",
+   "bytes": 227858,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x1121",
+   "item_id": "wh-vis-u6-012",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/China%2C_Opium_smokers_by_Lai_Afong%2C_c1880.JPG/1280px-China%2C_Opium_smokers_by_Lai_Afong%2C_c1880.JPG": {
+   "local_path": "assets/images/u6/wh-vis-u6-009.jpg",
+   "bytes": 322855,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x942",
+   "item_id": "wh-vis-u6-009",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/On_the_Way_to_the_Proclamation%2C_1877.jpg/1280px-On_the_Way_to_the_Proclamation%2C_1877.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-038.jpg",
+   "bytes": 445976,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x732",
+   "item_id": "wh-vis-u6-038",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Alice_Seely_Harris%2C_picture_of_Bompenju%2C_Lofiko%2C_a_third_person%2C_John_Harris_and_Edgar_Stannard_with_the_hands_of_Lingomo_and_Bolengo%2C_which_have_allegedly_been_killed_by_sentries_of_the_ABIR_%28May_1904%29.png/1280px-thumbnail.png": {
+   "local_path": "assets/images/u6/wh-vis-u6-013.png",
+   "bytes": 561377,
+   "content_type": "image/png",
+   "note": "kept as-is 1280x996",
+   "item_id": "wh-vis-u6-013",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jacob_Riis_-_Bohemian_Cigarmakers_at_Work_in_their_Tenement.jpg/1280px-Jacob_Riis_-_Bohemian_Cigarmakers_at_Work_in_their_Tenement.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-020.jpg",
+   "bytes": 481471,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x976",
+   "item_id": "wh-vis-u6-020",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Y%C5%8Dsh%C5%AB_Chikanobu_Sino-Japanese_War.jpg/1280px-Y%C5%8Dsh%C5%AB_Chikanobu_Sino-Japanese_War.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-010.jpg",
+   "bytes": 322059,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x646",
+   "item_id": "wh-vis-u6-010",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sweatshop_in_Ludlow_Street_Tenement%2C_New_York_cph.3a24271.jpg/1280px-Sweatshop_in_Ludlow_Street_Tenement%2C_New_York_cph.3a24271.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-021.jpg",
+   "bytes": 207486,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x1005",
+   "item_id": "wh-vis-u6-021",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/An_Opium_Den%2C_Chinatown%2C_San_Francisco%2C_California_%28NYPL_b11707328-G89F406_020F%29.tiff/lossy-page1-1280px-An_Opium_Den%2C_Chinatown%2C_San_Francisco%2C_California_%28NYPL_b11707328-G89F406_020F%29.tiff.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-035.jpg",
+   "bytes": 154058,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x745",
+   "item_id": "wh-vis-u6-035",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Iwakura_mission.jpg/1280px-Iwakura_mission.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-004.jpg",
+   "bytes": 349378,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x1008",
+   "item_id": "wh-vis-u6-004",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_%E2%80%98Nemesis%E2%80%99_and_boats_attacking_a_masked_Battery%2C_February_23rd_1841_%28First_Opium_War%29_CKS_2019.jpg/1280px-HMS_%E2%80%98Nemesis%E2%80%99_and_boats_attacking_a_masked_Battery%2C_February_23rd_1841_%28First_Opium_War%29_CKS_2019.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-008.jpg",
+   "bytes": 242887,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x794",
+   "item_id": "wh-vis-u6-008",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twee_gezichten_op_de_mijn_Die_Groot_Gat_te_Kimberley_Diamond_fields-Kimberley_mine_%28titel_op_object%29_Diamond_fields-Tramway%2C_Kimberley_mine_%28titel_op_object%29%2C_RP-F-2001-7-425-25.jpg/1280px-thumbnail.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-016.jpg",
+   "bytes": 537639,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1280x1856 -> 1103x1600",
+   "item_id": "wh-vis-u6-016",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Naval_battle_at_Santiago%2C_Cuba%2C_Spanish-American_War%2C_July_3%2C_1898_%2830588162266%29.jpg/1280px-Naval_battle_at_Santiago%2C_Cuba%2C_Spanish-American_War%2C_July_3%2C_1898_%2830588162266%29.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-028.jpg",
+   "bytes": 333127,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x863",
+   "item_id": "wh-vis-u6-028",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boer_War%3B_Veldkornet_Thring%27s_Commandos_Q68470.jpg/1280px-Boer_War%3B_Veldkornet_Thring%27s_Commandos_Q68470.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-017.jpg",
+   "bytes": 201276,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x797",
+   "item_id": "wh-vis-u6-017",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Immigrants_at_Castle_Garden%2C_New_York_City%2C_1866.jpg/1280px-Immigrants_at_Castle_Garden%2C_New_York_City%2C_1866.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-022.jpg",
+   "bytes": 415006,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x1012",
+   "item_id": "wh-vis-u6-022",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Congress_of_Berlin%2C_13_July_1878%2C_by_Anton_von_Werner.jpg/1280px-Congress_of_Berlin%2C_13_July_1878%2C_by_Anton_von_Werner.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-032.jpg",
+   "bytes": 221553,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x775",
+   "item_id": "wh-vis-u6-032",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jacob_Riis%2C_Lodgers_in_a_Crowded_Bayard_Street_Tenement.jpg/1280px-Jacob_Riis%2C_Lodgers_in_a_Crowded_Bayard_Street_Tenement.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-019.jpg",
+   "bytes": 288015,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x981",
+   "item_id": "wh-vis-u6-019",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-02.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/School_Begins_%28Puck_Magazine_1-25-1899%29.jpg/1280px-School_Begins_%28Puck_Magazine_1-25-1899%29.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-036.jpg",
+   "bytes": 409803,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x849",
+   "item_id": "wh-vis-u6-036",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Opening_of_the_Tokyo-Yokohama_Railway_by_Omura_Taiun_%28Meiji_Memorial_Picture_Gallery%29.jpg/1280px-Opening_of_the_Tokyo-Yokohama_Railway_by_Omura_Taiun_%28Meiji_Memorial_Picture_Gallery%29.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-029.jpg",
+   "bytes": 506160,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x1542",
+   "item_id": "wh-vis-u6-029",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Albany_Buoying_a_Bight_of_the_Cable_of_1865_on_the_Night_of_August_26th%2C_1866_MET_DP801236.jpg/1280px-The_Albany_Buoying_a_Bight_of_the_Cable_of_1865_on_the_Night_of_August_26th%2C_1866_MET_DP801236.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-027.jpg",
+   "bytes": 272710,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x814",
+   "item_id": "wh-vis-u6-027",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Felice_Beato_%28British%2C_born_Italy_-_Two_Sepoys_of_the_31st_Native_Infantry%2C_Who_Were_Hanged_at_Lucknow%2C_1857_-_Google_Art_Project.jpg/1280px-Felice_Beato_%28British%2C_born_Italy_-_Two_Sepoys_of_the_31st_Native_Infantry%2C_Who_Were_Hanged_at_Lucknow%2C_1857_-_Google_Art_Project.jpg": {
+   "local_path": "assets/images/u6/wh-vis-u6-005.jpg",
+   "bytes": 266180,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 1280x1007",
+   "item_id": "wh-vis-u6-005",
+   "unit": 6,
+   "files": [
+    "/home/hatch/workspace/ap_world/build/visual-backfill/u6/batch-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/Inca_Empire_South_America.svg": {
+   "local_path": "assets/images/dbq/dbq-03-doc7.svg",
+   "bytes": 56898,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "dbq-03-doc7",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/United_Nations_Member_States-1945.png": {
+   "local_path": "assets/images/dbq/dbq-07-doc7.png",
+   "bytes": 33615,
+   "content_type": "image/png",
+   "note": "kept as-is 1450x628",
+   "item_id": "dbq-07-doc7",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-07.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/British_Decolonisation_in_Africa.png": {
+   "local_path": "assets/images/dbq/dbq-07-doc6.png",
+   "bytes": 701738,
+   "content_type": "image/png",
+   "note": "downscaled 2000x2000 -> 1600x1600",
+   "item_id": "dbq-07-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-07.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-07.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_183-R96374%2C_Berlin%2C_Olympiade%2C_Jesse_Owens_beim_Weitsprung.jpg": {
+   "local_path": "assets/images/dbq/dbq-09-doc7.jpg",
+   "bytes": 47994,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 568x800",
+   "item_id": "dbq-09-doc7",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-09.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-09.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Diagram_of_Tennessee_Valley_Authority_Water_Control_System_%2879440%29.jpg": {
+   "local_path": "assets/images/dbq/dbq-10-doc7.jpg",
+   "bytes": 560122,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2125x3306 -> 1028x1600",
+   "item_id": "dbq-10-doc7",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-10.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-10.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hoover_dam_from_air.jpg": {
+   "local_path": "assets/images/dbq/dbq-10-doc6.jpg",
+   "bytes": 404189,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2272x1704 -> 1600x1200",
+   "item_id": "dbq-10-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-10.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-10.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Triangle_trade2.png": {
+   "local_path": "assets/images/dbq/dbq-04-doc7.png",
+   "bytes": 176994,
+   "content_type": "image/png",
+   "note": "kept as-is 448x327",
+   "item_id": "dbq-04-doc7",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg": {
+   "local_path": "assets/images/dbq/dbq-06-doc6.jpg",
+   "bytes": 328365,
+   "content_type": "image/jpeg",
+   "note": "downscaled 3215x2077 -> 1600x1033",
+   "item_id": "dbq-06-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-06.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-06.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg": {
+   "local_path": "assets/images/dbq/dbq-03-doc6.svg",
+   "bytes": 284361,
+   "content_type": "image/svg+xml",
+   "note": "svg kept raw",
+   "item_id": "dbq-03-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-03.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-03.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Blanchisseuses_1865.jpg": {
+   "local_path": "assets/images/dbq/dbq-08-doc6.jpg",
+   "bytes": 149362,
+   "content_type": "image/jpeg",
+   "note": "kept as-is 612x804",
+   "item_id": "dbq-08-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-08.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-08.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Casta_painting_all.jpg": {
+   "local_path": "assets/images/dbq/dbq-04-doc6.jpg",
+   "bytes": 466980,
+   "content_type": "image/jpeg",
+   "note": "downscaled 1419x2000 -> 1135x1600",
+   "item_id": "dbq-04-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-04.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-04.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mongol_Empire_map.gif": {
+   "local_path": "assets/images/dbq/dbq-01-doc6.gif",
+   "bytes": 18710,
+   "content_type": "image/gif",
+   "note": "kept as-is 752x591",
+   "item_id": "dbq-01-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-01.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-01.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/AbulFazlPresentingAkbarnama.jpg": {
+   "local_path": "assets/images/dbq/dbq-05-doc6.jpg",
+   "bytes": 345328,
+   "content_type": "image/jpeg",
+   "note": "downscaled 2459x4220 -> 932x1600",
+   "item_id": "dbq-05-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-05.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-05.json"
+   ]
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wu_bei_zhi_LOC_2004633695-17.tif/800px-Wu_bei_zhi_LOC_2004633695-17.tif.jpg": {
+   "local_path": "assets/images/dbq/dbq-02-doc6.jpg",
+   "bytes": 486736,
+   "content_type": "image/tiff",
+   "note": "recovered: 800px thumb 400d; used original TIF downscaled 6428x6157 -> 1600x1532",
+   "item_id": "dbq-02-doc6",
+   "unit": "dbq",
+   "files": [
+    "/home/hatch/workspace/ap_world/build/frq-remapped/dbqs/dbq-02.json",
+    "/home/hatch/workspace/ap_world/build/tests/test-02.json"
+   ]
+  }
+ },
+ "dead": {},
+ "skipped": [
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/Inca_Empire_South_America.svg",
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/United_Nations_Member_States-1945.png",
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/British_Decolonisation_in_Africa.png",
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_183-R96374%2C_Berlin%2C_Olympiade%2C_Jesse_Owens_beim_Weitsprung.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Diagram_of_Tennessee_Valley_Authority_Water_Control_System_%2879440%29.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hoover_dam_from_air.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Triangle_trade2.png",
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Quipu.png",
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Islamic_Gunpowder_Empires.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg",
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Blanchisseuses_1865.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Casta_painting_all.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mongol_Empire_map.gif",
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/AbulFazlPresentingAkbarnama.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wu_bei_zhi_LOC_2004633695-17.tif/800px-Wu_bei_zhi_LOC_2004633695-17.tif.jpg"
+ ]
+}

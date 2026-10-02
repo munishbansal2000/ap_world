@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "Civil service examinations began under earlier dynasties, and the Song expanded them into the main route to office. This continued China's long pattern of legitimating imperial rule through Confucian learning and a professional bureaucracy — a continuity, not an invention.",
     "id": "wh-fresh-u1-001",
+    "skill_code": "4.A",
+    "topic_code": "1.1",
     "key": "B",
     "option_explanations": {
       "A": "Examinations existed before the Song, under the Han, Sui, and Tang dynasties; the Song expanded rather than invented them.",
@@ -34,6 +36,8 @@
     "difficulty": "hard",
     "explanation": "The passage shows conquered provinces paying regular tribute in goods that sustained the Aztec court, religion, and military. This matches the wider pattern of tributary empires — Inca, Roman, Ottoman — whose power rested on systematic extraction from subject peoples.",
     "id": "wh-fresh-u1-002",
+    "skill_code": "4.A",
+    "topic_code": "1.4",
     "key": "D",
     "option_explanations": {
       "A": "The Aztecs did conduct trade, but the passage describes tribute imposed on conquered provinces, not a trade monopoly, as the state's revenue base.",
@@ -65,6 +69,8 @@
     "difficulty": "hard",
     "explanation": "The passage describes a two-way relationship: households owed rotating labor, and the state redistributed goods in return. This reciprocal obligation was central to how the Inca state mobilized labor and justified its authority over subject communities.",
     "id": "wh-fresh-u1-003",
+    "skill_code": "6.B",
+    "topic_code": "1.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct — the passage shows both the labor demand and the state's reciprocal distribution, which together legitimated Inca rule.",
@@ -96,6 +102,8 @@
     "difficulty": "medium",
     "explanation": "Mansa Musa's hajj and mosque-building show elite patronage, and Ibn Battuta's account shows Quranic learning at court alongside griots honoring pre-Islamic kings. Islam arrived through trade contacts and royal adoption, blending with rather than erasing local traditions.",
     "id": "wh-fresh-u1-004",
+    "skill_code": "6.B",
+    "topic_code": "1.5",
     "key": "C",
     "option_explanations": {
       "A": "The passage describes a royal pilgrimage, mosque-building, and scholarship — not military campaigns of forced conversion.",
@@ -127,6 +135,8 @@
     "difficulty": "medium",
     "explanation": "Equiano was a formerly enslaved man writing in London during the abolitionist campaign. A firsthand account of the Middle Passage's horrors was meant to shock readers into opposing the trade — the passage is evidence meant to persuade, not entertain.",
     "id": "wh-fresh-u4-001",
+    "skill_code": "2.A",
+    "topic_code": "4.7",
     "key": "C",
     "option_explanations": {
       "A": "The passage's graphic suffering is not written as entertainment; its tone is one of testimony and moral appeal.",
@@ -158,6 +168,8 @@
     "difficulty": "hard",
     "explanation": "The passage contrasts two models of empire: the Ottomans absorbing neighboring lands into one contiguous realm, and the Spanish linking distant colonies by sea. Both were gunpowder empires, but their geography produced different strategies of control and revenue.",
     "id": "wh-fresh-u4-002",
+    "skill_code": "5.A",
+    "topic_code": "4.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct — the passage's core contrast is contiguous overland rule versus overseas colonies held together by ships and sea-lanes.",
@@ -189,6 +201,8 @@
     "difficulty": "medium",
     "explanation": "The passage shows smallpox killing the Aztec emperor and defenders at the decisive moment of the siege, while the Spanish were spared. Disease was not a Spanish plan, but it devastated the Aztecs and decided the outcome as much as any weapon.",
     "id": "wh-fresh-u4-003",
+    "skill_code": "6.B",
+    "topic_code": "4.3",
     "key": "B",
     "option_explanations": {
       "A": "The passage credits smallpox, not firearms, with crippling Aztec resistance at the critical moment.",
@@ -220,6 +234,8 @@
     "difficulty": "hard",
     "explanation": "The passage traces one chain: the mita draft supplied forced labor, the crown took its fifth, and the silver continued to China for Asian goods. Potosi was not just a Spanish mine but a node connecting Andean labor, European empires, and Asian markets.",
     "id": "wh-fresh-u4-004",
+    "skill_code": "6.B",
+    "topic_code": "4.5",
     "key": "D",
     "option_explanations": {
       "A": "The passage emphasizes mass deaths from accidents and mercury poisoning — the human cost was enormous.",
@@ -251,6 +267,8 @@
     "difficulty": "hard",
     "explanation": "The passage shows the system's two faces — labor extraction paired with a Christianizing duty — and shows its violence triggering a real policy response: Las Casas's advocacy and the crown's New Laws. The encomienda was contested, not simply imposed and accepted.",
     "id": "wh-fresh-u4-005",
+    "skill_code": "6.B",
+    "topic_code": "4.5",
     "key": "C",
     "option_explanations": {
       "A": "The passage describes granted labor and reported brutal abuse, not voluntary contracts.",
@@ -282,6 +300,8 @@
     "difficulty": "medium",
     "explanation": "The passage shows a company funded by private shareholders yet exercising sovereignty — armies, treaties, coinage. This hybrid let the Dutch state extend its reach in Asia through private capital and risk rather than direct royal expense.",
     "id": "wh-fresh-u4-006",
+    "skill_code": "6.B",
+    "topic_code": "4.4",
     "key": "B",
     "option_explanations": {
       "A": "The company raised armies and built forts; it was far from purely commercial.",
@@ -313,6 +333,8 @@
     "difficulty": "hard",
     "explanation": "The passage links the trade to plantation labor demand, notes African states' and merchants' participation, and records the Middle Passage's death toll. It was a vast system joining European demand, African supply networks, and plantation production — not a marginal or one-sided operation.",
     "id": "wh-fresh-u4-007",
+    "skill_code": "6.B",
+    "topic_code": "4.7",
     "key": "A",
     "option_explanations": {
       "A": "Correct — the passage supports all three elements: plantation demand drove it, African polities participated in supplying captives, and the crossing was massively deadly.",
@@ -344,6 +366,8 @@
     "difficulty": "medium",
     "explanation": "The passage shows Europeans setting the rules of the partition among themselves while Africans were excluded, followed by the near-total colonization of the continent. Berlin did not stop the scramble — it gave it a legal framework.",
     "id": "wh-fresh-u6-001",
+    "skill_code": "6.A",
+    "topic_code": "6.2",
     "key": "D",
     "option_explanations": {
       "A": "The scramble was already underway; the conference regulated how Europeans divided Africa, not whether they would.",

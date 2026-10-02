@@ -1,6 +1,8 @@
 [
   {
     "id": "wh-barrons-u6-030",
+    "skill_code": "2.B",
+    "topic_code": "6.2",
     "source_id": "barrons-u6-030",
     "unit": 6,
     "stimulus": "In 1829, India's British governor-general Lord William Bentinck outlawed sati — the practice of a widow burning herself on her husband's funeral pyre. He acted despite knowing that interfering in Hindu custom risked angering Indians and destabilizing British rule.\n\nThe pressure for action had been building for years. Evangelicals like William Wilberforce denounced sati in Parliament; utilitarians like James Mill called it a test case for rational government; and crucially, Indian reformers — above all Rammohan Roy, who campaigned against the practice after his own sister-in-law was burned — gave the British Indian allies. Bentinck's Regulation XVII (1829) declared sati 'illegal, and punishable by the Criminal Courts.' Enforcement was uneven, but the regulation marked the moment the Company claimed the right to remake Indian society.",
@@ -31,6 +33,8 @@
   },
   {
     "id": "wh-barrons-u4-007",
+    "skill_code": "4.A",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-007",
     "unit": 4,
     "stimulus": "George Simpson, a 19th-century governor of the Hudson's Bay Company, managed a vast commercial empire in northern North America whose wealth came overwhelmingly from a single commodity, traded with Indigenous trappers and shipped to European markets.\n\nThe charter — granted by Charles II to his cousin Prince Rupert and 'the Governor and Company of Adventurers of England trading into Hudson's Bay' — gave the Company a monopoly over all trade in the Hudson Bay drainage basin, a territory called Rupert's Land covering nearly four million square kilometers. Within it the Company could make laws, build forts, maintain ships of war, and make peace or war with non-Christian peoples. For two centuries the Hudson's Bay Company was the government of western Canada in all but name.",
@@ -61,6 +65,8 @@
   },
   {
     "id": "wh-barrons-u6-031",
+    "skill_code": "6.B",
+    "topic_code": "6.2",
     "source_id": "barrons-u6-031",
     "unit": 6,
     "stimulus": "The East India Company usually avoided interfering in Indian religious customs. Officials argued that meddling would provoke rebellion, disrupt trade, and threaten the profits and stability on which British power depended.\n\nThe policy was born of early disasters: the Company learned that meddling in religion and custom produced exactly the unrest that threatened revenue. Officials were instructed to respect 'the religious prejudices of the natives' — not from tolerance but from prudence. The Company's servants collected the land revenue; they did not run a civilizing mission. That is what made Bentinck's sati ban so controversial within the Company itself: it broke the rule that had kept the peace, and critics warned — with 1857 seeming to prove them right — that interference would end in rebellion.",
@@ -91,6 +97,8 @@
   },
   {
     "id": "wh-barrons-u4-008",
+    "skill_code": "5.A",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-008",
     "unit": 4,
     "stimulus": "The British East India Company and the Hudson's Bay Company were both private enterprises granted royal charters: monopoly trading rights over vast territories, in exchange for which they governed, taxed, and defended those lands at their own expense.\n\nThe model was everywhere in the age of expansion: the Dutch East India Company ruled Indonesia, the Royal African Company traded in enslaved people, the Virginia Company founded Jamestown. Investors bought shares; the company raised armies, built forts, and governed territories — all for private profit under a sovereign's flag. When the companies grew too powerful or too corrupt, states absorbed them: the Crown took over the East India Company's Indian empire after 1857 and bought out the Hudson's Bay Company's territorial claims in 1869.",
@@ -121,6 +129,8 @@
   },
   {
     "id": "wh-barrons-u1-022",
+    "skill_code": "3.A",
+    "topic_code": "1.2",
     "source_id": "barrons-u1-022",
     "unit": 1,
     "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel carrying groundwater from an upland aquifer to lowland fields, with vertical shafts dug at intervals for construction and maintenance. Similar systems appear from Persia to North Africa to western China.",
@@ -152,6 +162,8 @@
   },
   {
     "id": "wh-barrons-u1-023",
+    "skill_code": "1.B",
+    "topic_code": "1.2",
     "source_id": "barrons-u1-023",
     "unit": 1,
     "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel, sometimes many kilometers long, carrying groundwater from upland aquifers to lowland fields, with vertical shafts at intervals. Digging it required surveyors, engineers, and coordinated teams of laborers working for months or years.",
@@ -183,6 +195,8 @@
   },
   {
     "id": "wh-barrons-u1-024",
+    "skill_code": "3.A",
+    "topic_code": "1.2",
     "source_id": "barrons-u1-024",
     "unit": 1,
     "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel carrying groundwater from an upland aquifer to fields in an arid lowland. The tunnel minimizes evaporation — critical in desert climates — and delivers a steady supply of water where no river flows.",
@@ -214,6 +228,8 @@
   },
   {
     "id": "wh-barrons-u1-025",
+    "skill_code": "5.A",
+    "topic_code": "1.2",
     "source_id": "barrons-u1-025",
     "unit": 1,
     "stimulus": "Medieval Muslim jurists divided the world into dar al-Islam — the 'house of Islam,' lands under Muslim rule — and dar al-harb — the 'house of war,' lands not yet under Muslim rule, against which jihad could in principle be waged.\n\nThe division was a legal theory, not a map: jurists debated endlessly which lands belonged in which 'house,' and rulers routinely made truces, alliances, and commercial treaties across the boundary. The classical doctrine also assumed a single Muslim polity waging jihad under a caliph — a condition that rarely held even in the theory's heyday, as rival Muslim rulers fought each other as readily as they fought outsiders.",
@@ -244,6 +260,8 @@
   },
   {
     "id": "wh-barrons-u1-026",
+    "skill_code": "6.A",
+    "topic_code": "1.2",
     "source_id": "barrons-u1-026",
     "unit": 1,
     "stimulus": "Medieval Muslim jurists disagreed about jihad: some argued it was fundamentally defensive — to protect the Muslim community — while most held that the obligation did not lapse until the whole world was brought under Islamic rule. Both positions were argued from the same scriptural sources.\n\nThe debate reveals the flexibility of the legal tradition: the same Qur'anic verses and prophetic reports could support both readings, and which reading prevailed often depended on circumstance. Rulers facing invasion found the defensive interpretation convenient; rulers seeking expansion preferred the universal one. The disagreement itself — conducted in the same sources, with the same methods — is evidence of a legal culture that argued from texts rather than simply obeying them.",
@@ -274,6 +292,8 @@
   },
   {
     "id": "wh-barrons-u1-027",
+    "skill_code": "6.C",
+    "topic_code": "1.2",
     "source_id": "barrons-u1-027",
     "unit": 1,
     "stimulus": "During the Crusades, Muslim and Christian rulers preached holy war against each other — yet in the ports and markets of the Levant, Muslim, Christian, and Jewish merchants continued to trade, lend, and even partner with one another throughout the fighting.\n\nThe explanation lies in the separation of spheres. Holy war was the business of rulers and clerics, proclaimed in sermons and legal opinions; trade was the business of merchants, governed by contracts, partnerships, and the practical need for goods. Italian city-states signed commercial treaties with Muslim rulers even as popes preached crusades, and the customs houses of Alexandria collected their duties through every war. Ideology set the rhetoric; interest kept the ships sailing.",
@@ -304,6 +324,8 @@
   },
   {
     "id": "wh-barrons-u2-006",
+    "skill_code": "3.A",
+    "topic_code": "2.3",
     "source_id": "barrons-u2-006",
     "unit": 2,
     "stimulus": "A chart shows the flow of major goods across the Indian Ocean trade network, c. 1200–1450: spices and textiles moving west from India and Southeast Asia, horses moving east from Arabia, porcelain and silk moving west from China, and gold and ivory moving north from East Africa.",
@@ -334,6 +356,8 @@
   },
   {
     "id": "wh-barrons-u2-007",
+    "skill_code": "1.A",
+    "topic_code": "2.3",
     "source_id": "barrons-u2-007",
     "unit": 2,
     "stimulus": "The workhorse of the Indian Ocean trade network, c. 1200–1450, was a sewn-plank wooden ship with a distinctive triangular sail, built from East Africa to India to Arabia and capable of long open-water voyages.",
@@ -364,6 +388,8 @@
   },
   {
     "id": "wh-barrons-u2-008",
+    "skill_code": "1.A",
+    "topic_code": "2.3",
     "source_id": "barrons-u2-008",
     "unit": 2,
     "stimulus": "The Indian Ocean trade network, c. 1200–1450, is famous for creating far-flung merchant communities: Arabs settled in Indian ports, Gujaratis in East Africa, Persians in Southeast Asia — each maintaining ties to a homeland while putting down roots abroad.",
@@ -394,6 +420,8 @@
   },
   {
     "id": "wh-barrons-u2-009",
+    "skill_code": "1.B",
+    "topic_code": "2.3",
     "source_id": "barrons-u2-009",
     "unit": 2,
     "stimulus": "For centuries, the Indian Ocean trade network operated largely free of European interference. That changed in the early 1500s, when Portuguese fleets seized Goa, Malacca, and Hormuz and began intercepting the merchant ships of others.",
@@ -424,6 +452,8 @@
   },
   {
     "id": "wh-barrons-u1-028",
+    "skill_code": "3.A",
+    "topic_code": "1.7",
     "source_id": "barrons-u1-028",
     "unit": 1,
     "stimulus": "A map shows the Mongol Empire divided into four large khanates: the Yuan dynasty ruling China, the Ilkhanate in Persia, the Chagatai Khanate in Central Asia, and the Golden Horde across Russia and the western steppe. The once-unified empire founded by Genghis Khan has become four separate states.",
@@ -455,6 +485,8 @@
   },
   {
     "id": "wh-barrons-u1-029",
+    "skill_code": "5.A",
+    "topic_code": "1.7",
     "source_id": "barrons-u1-029",
     "unit": 1,
     "stimulus": "A map shows the Mongol Empire divided into four rival khanates — Yuan China, the Ilkhanate, the Chagatai Khanate, and the Golden Horde — where a single unified empire had once guaranteed safe passage for merchants across Eurasia.",
@@ -486,6 +518,8 @@
   },
   {
     "id": "wh-barrons-u1-030",
+    "skill_code": "1.A",
+    "topic_code": "1.7",
     "source_id": "barrons-u1-030",
     "unit": 1,
     "stimulus": "The Mongol rulers of the Golden Horde — the khanate controlling Russia and the western steppe — converted to Islam in the 1300s under leaders like Özbeg Khan, even as their cousins in China patronized Buddhism and their cousins in Persia also became Muslims.",
@@ -517,6 +551,8 @@
   },
   {
     "id": "wh-barrons-u1-031",
+    "skill_code": "1.A",
+    "topic_code": "1.1",
     "source_id": "barrons-u1-031",
     "unit": 1,
     "stimulus": "After conquering China, Kublai Khan founded the Yuan dynasty (1271–1368). Though the Yuan adopted much of Chinese administration, they distrusted the scholar-official class that had staffed earlier dynasties and suspended the institution that produced it.",
@@ -548,6 +584,8 @@
   },
   {
     "id": "wh-barrons-u5-004",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-004",
     "unit": 5,
     "stimulus": "In 1791, Olympe de Gouges published her 'Declaration of the Rights of Woman and of the Female Citizen' — a deliberate, article-by-article parallel to the revolutionary 'Declaration of the Rights of Man.' Where the original proclaimed the rights of 'man,' hers substituted 'woman,' exposing every exclusion.\n\nThe parallel was exact and therefore damning: seventeen articles, each mirroring the original's language — 'Woman is born free and remains equal to man in rights.' The strategy forced readers to confront the original's universal claims: if the rights of man were truly natural and inalienable, on what grounds could half of humanity be excluded? The revolution's leaders had no good answer, which is partly why they eventually silenced the questioner.",
@@ -578,6 +616,8 @@
   },
   {
     "id": "wh-barrons-u5-005",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-005",
     "unit": 5,
     "stimulus": "Olympe de Gouges, author of the 1791 'Declaration of the Rights of Woman,' was arrested during the Terror and sent to the guillotine in November 1793 — one of a number of outspoken women silenced as the revolution turned against its own.\n\nHer real offense was political, not literary. De Gouges had attacked Robespierre and the Montagnards, defended the Girondins, and — fatally — proposed a plebiscite on the form of government, which the revolutionary tribunal read as royalism. At her trial she was denied a lawyer. The Terror devoured its critics indiscriminately, but women who entered politics faced an additional charge simply for speaking in public at all.",
@@ -608,6 +648,8 @@
   },
   {
     "id": "wh-barrons-u5-006",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-006",
     "unit": 5,
     "stimulus": "Algerian women fought prominently in the war of independence (1954–1962) as couriers, bombers, and organizers. After independence, many hoped the new nation would enshrine gender equality — but in 1984 Algeria adopted a Family Code preserving male guardianship, unequal divorce rights, and polygamy.\n\nThe disappointment was political. The FLN's wartime promises of emancipation gave way, after 1962, to a conservative state that needed the support of traditional and religious constituencies. The 1984 Family Code — making women legal minors under male guardianship, preserving polygamy and unequal divorce — was the price of that alliance. Algerian feminists, many of them veterans of the war, spent the next decades fighting the code article by article.",
@@ -638,6 +680,8 @@
   },
   {
     "id": "wh-barrons-u8-007",
+    "skill_code": "4.A",
+    "topic_code": "8.5",
     "source_id": "barrons-u8-007",
     "unit": 8,
     "stimulus": "During Algeria's war of independence (1954–1962), women served the FLN as couriers smuggling weapons through French checkpoints, as bombers in the Battle of Algiers, and as organizers, nurses, and fundraisers — roles the French had never imagined Algerian women playing.\n\nThe FLN deliberately deployed women where the French least expected them: young, European-looking Algerian women could pass French checkpoints carrying bombs in shopping bags — the Battle of Algiers (1956–57) made this tactic infamous. Women also ran the underground's logistics: safe houses, communications, fundraising. Their prominence embarrassed the French claim to be defending 'civilization,' and it created expectations — of equality after independence — that the new Algerian state would largely disappoint.",
@@ -668,6 +712,8 @@
   },
   {
     "id": "wh-barrons-u9-016",
+    "skill_code": "4.A",
+    "topic_code": "9.4",
     "source_id": "barrons-u9-016",
     "unit": 9,
     "stimulus": "The Uruguayan writer Eduardo Galeano opened his 1971 book 'Open Veins of Latin America' with a stark claim: 'The division of labor among nations is that some specialize in winning and others in losing. Our part of the world, known today as Latin America, was precocious: it has specialized in losing.'\n\nDependency theory emerged in the 1960s among Latin American economists — Raúl Prebisch at the UN Economic Commission for Latin America above all — who argued that the world economy was structured to enrich the industrial 'center' at the expense of the raw-material 'periphery.' Galeano's book was the theory's most passionate popular statement: a five-century indictment arguing that Latin America's poverty was not a stage of development but the product of development elsewhere.",
@@ -698,6 +744,8 @@
   },
   {
     "id": "wh-barrons-u9-017",
+    "skill_code": "1.A",
+    "topic_code": "9.4",
     "source_id": "barrons-u9-017",
     "unit": 9,
     "stimulus": "In 'Open Veins of Latin America,' Eduardo Galeano traced the region's poverty to five centuries of extraction, beginning with the silver mines of Potosí — where, he wrote, the wealth of an empire was dug from a mountain by forced Indigenous labor while the silver itself flowed to Spain.\n\nThe figures in Galeano's telling are staggering: the mountain's silver — dug by the mita's forced Indigenous labor under lethal conditions — funded Spain's European wars and flowed onward to pay for Asian luxuries, while miners died by the thousands from mercury poisoning, cave-ins, and exhaustion. 'One could build a bridge of silver from Potosí to Spain,' went the saying, 'and another of bones back again.' For Galeano, the two bridges are the whole of Latin American history in miniature.",
@@ -728,6 +776,8 @@
   },
   {
     "id": "wh-barrons-u3-011",
+    "skill_code": "4.A",
+    "topic_code": "3.4",
     "source_id": "barrons-u3-011",
     "unit": 3,
     "stimulus": "In the 1600s, Russia exacted the yasak — a fur tribute — from the native peoples of Siberia. As Russian trappers pushed east, fur-bearing animals grew scarce, and native communities struggled to meet quotas fixed in better times.\n\nThe yasak was Russia's Siberian fur tribute: native communities were assessed annual quotas of sable and other pelts, enforced by Cossack collectors who took hostages to ensure payment. Like the Spanish encomienda, it converted conquest into revenue — furs flowing to Moscow as silver flowed to Seville. And like the encomienda, it devastated the peoples it bound: overhunting depleted the animals, the quotas stayed fixed, and communities faced ruin trying to meet demands set in more abundant times. Moscow's treasury depended on the tribute: in some years fur accounted for a tenth or more of state revenue, making the yasak not a frontier curiosity but a pillar of the early Russian fiscal state.",
@@ -758,6 +808,8 @@
   },
   {
     "id": "wh-barrons-u3-012",
+    "skill_code": "1.A",
+    "topic_code": "3.1",
     "source_id": "barrons-u3-012",
     "unit": 3,
     "stimulus": "In the 1600s, Russian Cossacks and fur trappers pushed across Siberia with astonishing speed, reaching the Pacific Ocean by the late 1630s — a continental crossing achieved in roughly sixty years.\n\nThe advance was led by promyshlenniki — fur trappers — and Cossacks, moving river by river across the taiga: Yermak's crossing of the Urals in 1581 opened the door, and by 1639 Ivan Moskvitin reached the Pacific. Forts (ostrogs) planted the flag; the yasak filled the treasury. Sable — 'soft gold' — financed much of the early Russian state. It was an empire built not primarily by settlers or soldiers, but by hunters following the fur frontier east. By the time the trappers reached the Pacific, the sable frontier was already moving on — the animals depleted behind them, the hunters pushing ever eastward in a pattern that would repeat across Siberia for a century.",
@@ -788,6 +840,8 @@
   },
   {
     "id": "wh-barrons-u4-009",
+    "skill_code": "4.A",
+    "topic_code": "4.5",
     "source_id": "barrons-u4-009",
     "unit": 4,
     "stimulus": "High in the Andes, the mercury mine at Huancavelica employed thousands of Indigenous workers under the mita draft. The mercury they produced was shipped south to Potosí — not to be sold as a curiosity, but as an essential ingredient in the refining of silver.\n\nThe patio process — mixing crushed silver ore with mercury, salt, and water, then trampling the slurry for weeks — was the chemical foundation of Spanish America's silver boom. Potosí's mines produced the ore; Huancavelica produced the mercury that made the ore pay. The two mines were linked by the mita: the same draft system that sent workers underground at Potosí sent them into Huancavelica's mercury shafts, where the fumes poisoned miners slowly and horribly. Silver and mercury, twin pillars of the colonial economy, were twin engines of Indigenous mortality.",
@@ -818,6 +872,8 @@
   },
   {
     "id": "wh-barrons-u4-010",
+    "skill_code": "1.A",
+    "topic_code": "4.5",
     "source_id": "barrons-u4-010",
     "unit": 4,
     "stimulus": "Spanish America used two great systems of Indigenous labor: the encomienda, which granted individual colonists the right to exact labor and tribute from a community, and the mita, which drafted workers on a rotating basis for state enterprises — above all the silver mines.\n\nThe two systems differed in form. The encomienda was a grant: the crown 'entrusted' (encomendó) a community's labor and tribute to a colonist, who owed Christian instruction in return — a fiction that masked exploitation. The mita was a draft: communities owed the state rotating contingents of workers for mines and public works, a system the Spanish adapted from the Inca mit'a. Over time the encomienda faded and the mita endured — because the crown's silver mines needed the mita, and the crown always got what it needed.",

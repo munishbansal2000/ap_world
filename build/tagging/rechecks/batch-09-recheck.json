@@ -1,0 +1,73 @@
+[
+  {
+    "id": "wh-vis-u7-020",
+    "skill_code": "5.A",
+    "topic_code": "7.6",
+    "rationale": "Stem asks why the Guernica bombing matters 'beyond the Spanish Civil War' -- the student must identify a connection between one historical development (German/Italian terror bombing of Guernica) and another (aerial warfare of WWII, 'previewing WWII'). This is identifying patterns/connections between historical developments and processes (5.A), not explaining the mechanism of the relationship (5.B). Topic: Guernica as a foreshadowing of World War II's warfare maps to 7.6 Causes of World War II; the item's emphasis is the link forward to WWII, not interwar tensions (7.5).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u7-030",
+    "skill_code": "4.B",
+    "topic_code": "7.7",
+    "rationale": "Stem asks what the Yalta photo foreshadows about the postwar world -- the specific development (the three leaders' wartime negotiations) must be situated within a broader historical context (cooperation fracturing into Cold War rivalry). That matches 4.B 'explain how a specific development is situated within a broader historical context' rather than merely identifying a context (4.A). Topic: Yalta (Feb 1945) wartime planning of the peace settlement is 7.7 Conducting World War II; the distractor-based task centers on the war's final phase, not the causes of WWII (7.6).",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u8-005",
+    "skill_code": "2.B",
+    "topic_code": "8.2",
+    "rationale": "Stem asks why East German authorities deployed armed militia at the Brandenburg Gate -- this requires explaining the historical situation behind the source (mass emigration of East Germans through open Berlin draining the workforce, Soviet-bloc embarrassment) that produced the Wall's construction. That is 2.B 'explain the ... historical situation ... of a source'. Topic: building the Berlin Wall (Aug 1961) is a core Cold War development in Europe: 8.2 The Cold War.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u8-015",
+    "skill_code": "5.A",
+    "topic_code": "8.2",
+    "rationale": "Map shows UN forces at the Yalu (Nov 1950); stem asks which development the situation 'most directly led to' -- China massive intervention. The student identifies a connection between two historical developments (overextended UN advance -> Beijing's intervention). That is 5.A 'identify patterns among or connections between historical developments and processes' rather than a mechanistic explanation (5.B). Topic: Korean War as a Cold War proxy conflict in Asia: 8.2 The Cold War.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u8-025",
+    "skill_code": "4.B",
+    "topic_code": "8.5",
+    "rationale": "Stem explicitly asks which broader development the Indonesian independence proclamation is 'most directly connected to' -- the specific event (Aug 17, 1945 proclamation) situated within the broader context of Asian decolonization after Japan's surrender. That matches 4.B 'explain how a specific historical development is situated within a broader historical context'. Topic: nationalist independence proclamation is 8.5 Decolonization After 1900 (not 8.1 Setting the Stage, which covers the lead-up, not the decolonization wave itself).",
+    "confidence": "high"
+  }
+,
+  {
+    "id": "wh-vis-u8-035",
+    "skill_code": "1.A",
+    "topic_code": "8.8",
+    "rationale": "Stem asks what the scene (crowds/media at Brandenburg Gate, Nov 15 1989, days after the Wall opened) is 'most significant as' -- the student must identify the historical development the image represents (the Cold War's end in Europe). That is 1.A 'identify a historical concept, development, or process' rather than an explanation (1.B). Topic: the fall of the Berlin Wall / reunification possibility is 8.8 End of the Cold War.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u9-010",
+    "skill_code": "3.D",
+    "topic_code": "9.1",
+    "rationale": "Stem asks which claim the smartphone-sales chart 'best supports' -- the student must work from chart data as evidence to determine how evidence supports a claim (market consolidation around two platforms, Android dominant, earlier leaders driven out). That is 3.D 'explain how claims or evidence support, modify, or refute a source's argument', not merely identifying a claim stated in the source (3.A). Topic: communications technology and global exchange in the late 20th/21st century is 9.1 Advances in Technology and Exchange.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u9-020",
+    "skill_code": "2.B",
+    "topic_code": "9.3",
+    "rationale": "This is a weak fit for its Sourcing and Situation label: the stem asks what the New Safe Confinement arch 'best illustrates ... in debates over nuclear energy' -- that is really an explanation of a historical development's significance (would be 1.B under Developments and Processes). Staying within the required parent, 2.B is the closest available: understanding the source requires explaining its historical situation (built in response to the 1986 Chernobyl disaster, entombing Reactor 4) as the basis for what it can show. Topic: nuclear accidents' long-term environmental/containment costs is squarely 9.3 Technological Advances and the Environment.",
+    "confidence": "low"
+  },
+  {
+    "id": "wh-vis-u9-030",
+    "skill_code": "5.A",
+    "topic_code": "9.3",
+    "rationale": "Stem asks what point the fertilizer-use map, 'taken together with the wheat-yield maps', best supports in Green Revolution debates -- the student identifies the connection between two developments (heavy chemical inputs concentrated in China/Europe vs. Africa's low use; yield gains tied to those inputs, with pollution/cost/inequality concerns). That is 5.A 'identify patterns among or connections between historical developments and processes'. Topic: Green Revolution inputs and their environmental costs is 9.3 Technological Advances and the Environment.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-vis-u9-040",
+    "skill_code": "1.A",
+    "topic_code": "9.5",
+    "rationale": "Stem asks which social change the literacy trend 'best reflects' -- the student identifies the development (massive schooling expansion, especially for girls, nearly closing the gender gap). That is 1.A 'identify a historical concept, development, or process'. Topic: the closing gender gap in literacy reflects reform-driven change (women's movements pushing equal access to education), matching 9.5 Calls for Reform and Responses more closely than 9.6 Globalized Culture.",
+    "confidence": "medium"
+  }
+]

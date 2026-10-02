@@ -1,6 +1,8 @@
 [
   {
     "id": "wh-barrons-u9-018",
+    "skill_code": "2.A",
+    "topic_code": "9.4",
     "source_id": "barrons-u9-018",
     "unit": 9,
     "stimulus": "Eduardo Galeano's 'Open Veins of Latin America' (1971) — a blistering account of five centuries of foreign exploitation — was banned by the military dictatorships of Uruguay, Chile, and Argentina in the 1970s, even as it became a bestseller across the continent.\n\nThe bans tell their own story. Uruguay's dictatorship seized copies; Chile's junta burned them; Argentina's generals listed the book as subversive. Yet it circulated in samizdat and exile editions and became a sacred text of the Latin American left — Hugo Chávez famously handed a copy to Barack Obama in 2009. A book that dictatorships fear enough to ban has, in a sense, already proved its argument about how power works.",
@@ -31,6 +33,8 @@
   },
   {
     "id": "wh-barrons-u9-019",
+    "skill_code": "5.A",
+    "topic_code": "9.4",
     "source_id": "barrons-u9-019",
     "unit": 9,
     "stimulus": "In 1954, Guatemala's reformist president Jacobo Árbenz was overthrown in a CIA-backed coup after his land reform expropriated unused lands of the United Fruit Company — the American corporation that dominated Guatemala's banana exports, railroads, and ports.\n\nThe company's power in Guatemala was the stuff of legend: it owned the railroads, the ports, the telegraphs, and vast banana lands — 'the octopus,' Guatemalans called it. When Árbenz's Decree 900 expropriated uncultivated company lands (with compensation in government bonds), United Fruit's lobbyists — with close ties to the Eisenhower administration — painted the reform as communist. The CIA's Operation PBSUCCESS toppled Árbenz in 1954, inaugurating decades of military rule and civil war.",
@@ -61,6 +65,8 @@
   },
   {
     "id": "wh-barrons-u9-020",
+    "skill_code": "1.A",
+    "topic_code": "9.1",
     "source_id": "barrons-u9-020",
     "unit": 9,
     "stimulus": "World population reached 1 billion around 1800, 2 billion around 1930, 4 billion around 1975, and 6 billion around 1999 — with the time needed to add each billion shrinking dramatically.",
@@ -91,6 +97,8 @@
   },
   {
     "id": "wh-barrons-u9-021",
+    "skill_code": "3.A",
+    "topic_code": "9.1",
     "source_id": "barrons-u9-021",
     "unit": 9,
     "stimulus": "A chart of world population (1 CE–1999) shows accelerating global growth. Behind the global curve lie sharp regional differences: Europe's birth rates began falling in the late 1800s, while much of Asia, Africa, and Latin America maintained high birth rates deep into the 1900s.",
@@ -121,6 +129,8 @@
   },
   {
     "id": "wh-barrons-u9-022",
+    "skill_code": "3.A",
+    "topic_code": "9.1",
     "source_id": "barrons-u9-022",
     "unit": 9,
     "stimulus": "World population reached 1 billion around 1800, 2 billion around 1930, 4 billion around 1975, and 6 billion around 1999. Each doubling arrived faster than the last, raising urgent questions about whether the planet's resources could sustain the growth.",
@@ -151,6 +161,8 @@
   },
   {
     "id": "wh-barrons-u9-023",
+    "skill_code": "3.A",
+    "topic_code": "9.1",
     "source_id": "barrons-u9-023",
     "unit": 9,
     "stimulus": "In 1998, the United States — with under 5 percent of the world's population — consumed about 94.6 quadrillion BTU of primary energy, roughly a quarter of the world total. China, with over a fifth of humanity, consumed about 33.9 quadrillion BTU.",
@@ -181,6 +193,8 @@
   },
   {
     "id": "wh-barrons-u9-024",
+    "skill_code": "1.A",
+    "topic_code": "9.8",
     "source_id": "barrons-u9-024",
     "unit": 9,
     "stimulus": "A 1998 chart ranks the world's top energy consumers: the United States first by far, followed by China, Russia, Japan, and Germany. The chart appeared one year after the Kyoto Protocol, the first international treaty to set binding limits on greenhouse-gas emissions.",
@@ -211,6 +225,8 @@
   },
   {
     "id": "wh-barrons-u9-025",
+    "skill_code": "3.A",
+    "topic_code": "9.1",
     "source_id": "barrons-u9-025",
     "unit": 9,
     "stimulus": "A 1998 chart ranks the world's top energy consumers: the United States first by far, followed by China, Russia, Japan, and Germany. China ranked second despite having a far lower per-capita income than any other country on the list.",
@@ -241,6 +257,8 @@
   },
   {
     "id": "wh-barrons-u6-032",
+    "skill_code": "5.A",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-032",
     "unit": 6,
     "stimulus": "Two images: a Japanese woodcut of musket-armed troops from the late 1500s, and a photograph of Senegalese soldiers in French uniforms carrying modern rifles, c. 1900. Both show non-Europeans wielding gunpowder weapons.",
@@ -271,6 +289,8 @@
   },
   {
     "id": "wh-barrons-u3-013",
+    "skill_code": "1.A",
+    "topic_code": "3.1",
     "source_id": "barrons-u3-013",
     "unit": 3,
     "stimulus": "A Japanese woodcut from the late 1500s shows foot soldiers armed with muskets — weapons introduced by Portuguese traders in 1543 and quickly copied by Japanese gunsmiths. A century later, under the Tokugawa shogunate, firearms had all but vanished from Japanese warfare.",
@@ -301,6 +321,8 @@
   },
   {
     "id": "wh-barrons-u6-033",
+    "skill_code": "1.A",
+    "topic_code": "6.2",
     "source_id": "barrons-u6-033",
     "unit": 6,
     "stimulus": "A photograph shows Senegalese tirailleurs — African infantrymen in French service — in uniform with modern rifles, c. 1900. France recruited tens of thousands of West Africans into its colonial army.",
@@ -331,6 +353,8 @@
   },
   {
     "id": "wh-barrons-u6-034",
+    "skill_code": "5.A",
+    "topic_code": "6.3",
     "source_id": "barrons-u6-034",
     "unit": 6,
     "stimulus": "A photograph shows Senegalese tirailleurs in French service, c. 1900. After African independence in the 1960s, many veterans discovered that France had frozen their military pensions at 1959 levels — worth a fraction of what French veterans received.",
@@ -361,6 +385,8 @@
   },
   {
     "id": "wh-barrons-u5-007",
+    "skill_code": "4.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-007",
     "unit": 5,
     "stimulus": "In 1804, the Islamic scholar Usman dan Fodio proclaimed a jihad in what is now northern Nigeria, denouncing the Hausa kings for corruption, unjust taxation, and un-Islamic practices. His followers overthrew the Hausa states and founded the Sokoto Caliphate.\n\nThe accusation was specific: the Hausa kings levied taxes Islam did not sanction, mixed Islamic observance with local custom, and — in dan Fodio's telling — oppressed Muslim scholars and commoners alike. The jihad was thus framed as reform, not conquest: a return to proper Islam against rulers who were Muslim in name only. It was fellow Muslims, not outsiders, who were the primary target.",
@@ -391,6 +417,8 @@
   },
   {
     "id": "wh-barrons-u5-008",
+    "skill_code": "4.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-008",
     "unit": 5,
     "stimulus": "Usman dan Fodio's 1804 jihad founded the Sokoto Caliphate in what is now northern Nigeria — a state that at its height governed some 10 million people across a vast territory, with a bureaucracy, courts, schools, and a celebrated tradition of Islamic scholarship.\n\nThe caliphate's administration was run by a literate elite: qadis applied Islamic law in the courts, emirs governed provinces, and a celebrated scholarly tradition — including the writings of dan Fodio's daughter Nana Asma'u, who organized women's education — made Sokoto a center of Islamic learning. It was among the largest states in nineteenth-century Africa, and its institutions survived its conquest: the British preserved the emirate system under indirect rule after 1903.",
@@ -421,6 +449,8 @@
   },
   {
     "id": "wh-barrons-u5-009",
+    "skill_code": "2.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-009",
     "unit": 5,
     "stimulus": "Usman dan Fodio's 1804 jihad in West Africa proclaimed a purified Islamic state under a caliph uniting religious and political authority. Half a century later, al-Hajj Umar Tall launched a similar Islamic reform jihad in the same region, likewise denouncing corrupt rulers and founding a new state.\n\nAl-Hajj Umar Tall's jihad (1850s–1860s) in the Senegal valley followed the same script: denunciation of corrupt rulers, proclamation of a purified Islamic state, and military expansion under a leader uniting spiritual and temporal authority. Both movements belong to the great nineteenth-century wave of Islamic reform jihads across West Africa — responses to the perceived decay of Muslim rulership and the first pressures of European encroachment.",
@@ -451,6 +481,8 @@
   },
   {
     "id": "wh-barrons-u5-010",
+    "skill_code": "4.A",
+    "topic_code": "5.3",
     "source_id": "barrons-u5-010",
     "unit": 5,
     "stimulus": "An 18th-century engraving shows Chinese silk workshops: rows of workers reeling silk, operating looms, and organizing production in large households that sold their cloth to distant markets — manufacturing without factories.",
@@ -481,6 +513,8 @@
   },
   {
     "id": "wh-barrons-u5-011",
+    "skill_code": "6.A",
+    "topic_code": "5.5",
     "source_id": "barrons-u5-011",
     "unit": 5,
     "stimulus": "An 18th-century English engraving, 'The Silk Manufacture in China,' depicts Chinese workshops with sophisticated machinery for reeling and weaving silk. The engraving was based on detailed reports sent home by Jesuit missionaries living in China.",
@@ -511,6 +545,8 @@
   },
   {
     "id": "wh-barrons-u5-012",
+    "skill_code": "5.A",
+    "topic_code": "5.7",
     "source_id": "barrons-u5-012",
     "unit": 5,
     "stimulus": "In the 1700s, China sold Europe enormous quantities of silk, tea, and porcelain while buying almost nothing in return. The difference was paid in silver — much of it mined in the Americas — which flowed into China in staggering quantities.",
@@ -541,6 +577,8 @@
   },
   {
     "id": "wh-barrons-u8-008",
+    "skill_code": "4.A",
+    "topic_code": "8.6",
     "source_id": "barrons-u8-008",
     "unit": 8,
     "stimulus": "Ghana's Kwame Nkrumah told fellow African leaders: 'Is it not unity alone that can weld us into an effective force?' In 1963, his vision produced the Organization of African Unity, founded in Addis Ababa — though as a loose association of sovereign states, not the continental union government he had wanted.",
@@ -571,6 +609,8 @@
   },
   {
     "id": "wh-barrons-u8-009",
+    "skill_code": "4.A",
+    "topic_code": "8.6",
     "source_id": "barrons-u8-009",
     "unit": 8,
     "stimulus": "Kwame Nkrumah demanded rapid continental political union for Africa. Many fellow leaders — the 'Monrovia group' — preferred to move slowly, building economic cooperation first while guarding the sovereignty their nations had just won.\n\nThe Monrovia group's caution was born of recent experience: their nations had just won sovereignty after long struggles, and they were reluctant to surrender it to a new continental authority. They preferred functional cooperation — trade, development, diplomacy — through the Organization of African Unity (1963), which enshrined non-interference in members' internal affairs. Nkrumah's union government never materialized; the OAU's loose confederal model won.",
@@ -601,6 +641,8 @@
   },
   {
     "id": "wh-barrons-u8-010",
+    "skill_code": "1.A",
+    "topic_code": "8.6",
     "source_id": "barrons-u8-010",
     "unit": 8,
     "stimulus": "Kwame Nkrumah, Ghana's founding president and the great prophet of Pan-African unity, was overthrown in a military coup in February 1966 while on a state visit to Vietnam. Economic crisis, authoritarian measures, and the creation of a one-party state had eroded his once-vast popularity.\n\nThe coup of February 24, 1966 was greeted with celebration in Accra — and with suspicion abroad, where many assumed CIA involvement. Nkrumah spent his final years in exile in Guinea, still writing and still preaching continental union. Ghana cycled through military and civilian governments for the next fifteen years. The prophet of Pan-Africanism lived to see his own country reject him and his continental dream deferred.",
@@ -631,6 +673,8 @@
   },
   {
     "id": "wh-barrons-u4-011",
+    "skill_code": "3.A",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-011",
     "unit": 4,
     "stimulus": "A world map shows European colonial claims in the 1600s–1700s: Spain holds most of South and Central America plus the Philippines; Portugal holds Brazil and scattered coastal forts in Africa and Asia; France, England, and the Netherlands hold smaller coastal settlements and Caribbean islands.",
@@ -662,6 +706,8 @@
   },
   {
     "id": "wh-barrons-u4-012",
+    "skill_code": "1.B",
+    "topic_code": "4.4",
     "source_id": "barrons-u4-012",
     "unit": 4,
     "stimulus": "A world map shows European colonial claims in the 1600s–1700s: vast claimed territories, but actual European control mostly confined to coastlines, ports, and islands — with the interiors of Africa and Asia still governed by independent states.",
@@ -693,6 +739,8 @@
   },
   {
     "id": "wh-barrons-u4-013",
+    "skill_code": "4.A",
+    "topic_code": "4.7",
     "source_id": "barrons-u4-013",
     "unit": 4,
     "stimulus": "A world map shows European colonial claims in the 1600s–1700s, with the Caribbean dotted by the sugar islands of the Spanish, French, English, and Dutch — small territories that generated enormous wealth.",
@@ -724,6 +772,8 @@
   },
   {
     "id": "wh-barrons-u5-013",
+    "skill_code": "4.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-013",
     "unit": 5,
     "stimulus": "In 1790, France's National Assembly decreed that 'all free citizens' of the colonies — including free men of color born of free parents — would enjoy political rights. Slavery itself was left untouched. In Saint-Domingue, the mixed-race leader Vincent Ogé demanded the decree be enforced.\n\nThe decree of March 8, 1790 was the National Assembly's attempt to square revolutionary principles with colonial interests. It declared that 'every person' over twenty-five owning property was an active citizen — language that free men of color, many of them wealthy planters and slaveholders themselves, seized upon. White colonists insisted the decree had never been meant for them; the Assembly, unwilling to choose between its principles and its colonies, issued vague 'clarifications' that satisfied no one.",
@@ -754,6 +804,8 @@
   },
   {
     "id": "wh-barrons-u5-014",
+    "skill_code": "2.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-014",
     "unit": 5,
     "stimulus": "Vincent Ogé, a wealthy mixed-race merchant of Saint-Domingue, demanded that white colonists implement the National Assembly's 1790 decree granting rights to free men of color. When they refused, he raised an armed revolt — and was captured, tortured, and broken on the wheel in February 1791.\n\nOgé had lobbied in Paris for the rights of free coloreds before returning to Saint-Domingue to demand the March decree's enforcement. Refused by the governor, he raised some 300 armed followers in October 1790. The revolt was quickly crushed, and in February 1791 Ogé and his lieutenant Chavannes were broken on the wheel — a deliberately gruesome public execution meant to terrorize free coloreds into submission. It had the opposite effect: it convinced them, and soon the enslaved, that nothing would be won without force.",
@@ -784,6 +836,8 @@
   },
   {
     "id": "wh-barrons-u5-015",
+    "skill_code": "1.A",
+    "topic_code": "5.2",
     "source_id": "barrons-u5-015",
     "unit": 5,
     "stimulus": "In August 1791, enslaved people across northern Saint-Domingue rose in a coordinated insurrection. Tradition holds that the revolt was planned at a vodou ceremony at Bois Caïman, led by the maroon leader Dutty Boukman — the beginning of the Haitian Revolution.\n\nThe uprising of August 1791 was meticulously planned: enslaved leaders coordinated across plantations, and on the night of August 14 a vodou ceremony at Bois Caïman — led by the maroon Dutty Boukman — sealed the conspiracy. Within weeks northern Saint-Domingue was in flames; within two years the French Republic, desperate for soldiers, abolished slavery; within thirteen, Haiti was independent. The ceremony at Bois Caïman is remembered as the night the largest slave revolt in history began.",

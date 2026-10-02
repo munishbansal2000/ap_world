@@ -1,0 +1,128 @@
+[
+  {
+    "confidence": "high",
+    "id": "wh-vis-u3-045",
+    "rationale": "Stem asks how Hideyoshi's castle-building is 'best understood' -- it requires explaining the political meaning of the development (a display of centralized power over a unified Japan), not merely identifying it. 1.B Explain a historical concept, development, or process. Topic: Hideyoshi's unification of Japan is land-based empire consolidation in 1450-1750, squarely 3.1 Empires Expand.",
+    "skill_code": "1.B",
+    "topic_code": "3.1"
+  },
+  {
+    "confidence": "high",
+    "id": "wh-vis-u4-005",
+    "rationale": "The 1601 Spanish map with the Tordesillas meridian is a specific artifact; the stem asks which broader 1450-1750 development it illustrates -- identifying the historical context (Spain/Portugal partition of exploration zones) for the specific source. 4.A Identify and describe a historical context. Topic: exclusive Iberian exploration/trade zones = establishment of maritime empires, 4.4 Maritime Empires Established.",
+    "skill_code": "4.A",
+    "topic_code": "4.4"
+  },
+  {
+    "confidence": "high",
+    "id": "wh-vis-u4-015",
+    "rationale": "'Were significant because they...' calls for an explanation of why lateen sails mattered (tacking against headwinds, enabling Atlantic loops) -- 1.B Explain. Topic: the caravel/lateen is a sailing-technology innovation driving exploration, 4.1 Technological Innovations.",
+    "skill_code": "1.B",
+    "topic_code": "4.1"
+  },
+  {
+    "confidence": "medium",
+    "id": "wh-vis-u4-025",
+    "rationale": "The stem requires explaining how New Amsterdam's harbor-warehouse organization differed from the Spanish plaza-cathedral pattern and what that reveals about Dutch commercial priorities -- an explanation of a historical development, 1.B. Topic: Dutch commercial settlement as an established maritime-empire form vs. Spanish imperial cities. Best fit 4.4 Maritime Empires Established, though the commercial-system angle could also sit in 4.5.",
+    "skill_code": "1.B",
+    "topic_code": "4.4"
+  },
+  {
+    "confidence": "medium",
+    "id": "wh-vis-u4-035",
+    "rationale": "'Best reflects which British interest' is an identification question: the map's detailed rivers/coasts point to the fur-trade network -- 1.A Identify a historical concept, development, or process. Topic: the Hudson's Bay Company as a joint-stock commercial system operating within and maintaining Britain's maritime empire -- 4.5 Maritime Empires Maintained and Developed.",
+    "skill_code": "1.A",
+    "topic_code": "4.5"
+  },
+  {
+    "confidence": "high",
+    "id": "wh-vis-u4-045",
+    "rationale": "'Best exemplifies which feature of the Brazilian sugar economy' asks the test-taker to identify the characteristic the engraving shows (field + mill + boiling house under one management) -- 1.A Identify. Topic: the engenho as the plantation agro-industrial complex, part of how maritime empires were maintained and developed through coerced-labor export economies -- 4.5.",
+    "skill_code": "1.A",
+    "topic_code": "4.5"
+  },
+  {
+    "id": "wh-vis-u5-005",
+    "skill_code": "5.B",
+    "topic_code": "5.2",
+    "rationale": "Stem asks what the preamble wording reveals about the author's purpose -- genuinely a source-purpose question, so the item's skill field (Making Connections) looks mislabeled (should be Sourcing and Situation 2.B). Within the allowed parent, the best fit is 5.B: the key answer explains how de Gouges's demand relates to the French Revolution's universalist logic (one development turned back on another). Topic: the 1791 Declaration of the Rights of Woman within the French Revolution -- 5.2 Nationalism and Revolutions.",
+    "confidence": "medium-low"
+  },
+  {
+    "id": "wh-vis-u5-015",
+    "skill_code": "1.B",
+    "topic_code": "5.2",
+    "rationale": "'Why is the battle shown here historically significant?' requires explaining the significance of Vertieres (decisive victory making Haiti the first independent Black republic founded by formerly enslaved people) -- 1.B Explain. Topic: Haitian Revolution -- 5.2 Nationalism and Revolutions.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u5-025",
+    "skill_code": "2.A",
+    "topic_code": "5.8",
+    "rationale": "'What historical development does this cartoon depict?' asks the test-taker to identify the source's historical situation (Luddite machine-breaking as a response to mechanization) -- 2.A Identify a source's point of view, purpose, historical situation, and/or audience. Topic: worker resistance to mechanization -- 5.8 Reactions to the Industrial Economy.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u5-035",
+    "skill_code": "1.B",
+    "topic_code": "5.6",
+    "rationale": "'What does this image reveal about the character of Russian emancipation?' requires explaining the development (reform from above to preserve autocracy; redemption payments keeping peasants bound) -- 1.B Explain. Topic: state-directed modernization as government's role in industrialization -- 5.6 Industrialization: Government's Role.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-vis-u5-045",
+    "skill_code": "3.A",
+    "topic_code": "5.2",
+    "rationale": "'What does this image show about how the 1848 revolution was fought?' asks the test-taker to identify/describe the claim the lithograph makes (violent urban revolt with barricades and heavy casualties) -- 3.A Identify and describe a claim and/or argument in a source. Topic: the 1848 revolutions -- 5.2 Nationalism and Revolutions.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u6-005",
+    "skill_code": "2.B",
+    "topic_code": "6.3",
+    "rationale": "'What does the existence and circulation of this photograph reveal about the British response?' asks why/how Britain used the image (public exemplary punishment displayed via photography to reassert imperial authority) -- explaining the source's purpose and use, 2.B. Topic: British response to the 1857 Indian rebellion -- 6.3 Indigenous Responses to State Expansion.",
+    "confidence": "medium-high"
+  },
+  {
+    "id": "wh-vis-u6-015",
+    "skill_code": "2.A",
+    "topic_code": "6.3",
+    "rationale": "'This is a British-produced image... What does its framing emphasize?' asks the test-taker to identify the source's point of view (triumphal framing of Cetshwayo's capture as imperial order restored) -- 2.A Identify. Topic: Anglo-Zulu War, British conquest -- 6.3 Indigenous Responses to State Expansion.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u6-025",
+    "skill_code": "2.A",
+    "topic_code": "6.4",
+    "rationale": "'What does this photograph reveal about Russian industrialization?' asks the test-taker to identify the historical situation shown (state use of coerced convict labor for the Amur Railway, contrasted with American free-labor practice) -- 2.A Identify. Topic: state-driven industrialization in Russia -- 6.4 Global Economic Development.",
+    "confidence": "medium"
+  },
+  {
+    "id": "wh-vis-u6-035",
+    "skill_code": "2.A",
+    "topic_code": "6.7",
+    "rationale": "'What does this 1896 stereoview illustrate about Chinese immigrants in the United States?' asks the test-taker to identify the historical situation of the source (Chinatown practices used by nativists to build the exclusion case) -- 2.A Identify. Topic: migrant experience and anti-immigrant exclusion politics -- 6.7 Effects of Migration.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u6-045",
+    "skill_code": "2.A",
+    "topic_code": "6.3",
+    "rationale": "'What does the subject of this photograph reveal about the consequences of the 1857 rebellion?' asks the test-taker to identify the development shown (end of the Mughal dynasty, Company rule replaced by direct Crown rule) -- 2.A Identify. Topic: aftermath of the 1857 rebellion -- 6.3 Indigenous Responses to State Expansion.",
+    "confidence": "high"
+  },
+  {
+    "id": "wh-vis-u7-005",
+    "skill_code": "3.D",
+    "topic_code": "7.3",
+    "rationale": "Stem asks why zigzag trenches rather than straight ones -- genuinely an explanation of a military-technical development, so the item's skill field (Claims and Evidence in Sources) looks mislabeled (should be Developments and Processes 1.B). Within the allowed parent, 3.D (explain how evidence supports an argument) is the least-bad fit: the zigzag pattern visible in the photo is evidence supporting the explanation of its purpose. Low confidence on skill. Topic: WWI trench warfare -- 7.3 Conducting World War I (high confidence on topic).",
+    "confidence": "low"
+  },
+  {
+    "id": "wh-vis-u7-015",
+    "skill_code": "1.B",
+    "topic_code": "7.4",
+    "rationale": "'What does this photograph show about the effects of the Great Depression?' requires explaining the development (mass unemployment overwhelming private charity before federal relief) -- 1.B Explain. Topic: the Great Depression and interwar economic crisis -- 7.4 The Economy in the Interwar Period.",
+    "confidence": "high"
+  }
+]

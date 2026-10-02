@@ -1,0 +1,595 @@
+[
+ {
+  "id": "wh-princeton-pdf6-u4-005",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Explains what the delegated powers illustrate (private trading companies exercising powers normally reserved for governments).",
+    "recheck_rationale": "Stem asks what the charter grant illustrates about early modern expansion; 'Identify a historical concept, development, or process' (joint-stock companies exercising sovereign powers). DWIC charter = "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "The charter gives the Company powers to build forts, sign treaties, and maintain soldiers. What does this grant best illustrate about early modern European expansion?",
+  "stimulus": "Paraphrase of the Charter of the Dutch West India Company, granted by the Dutch States General, 1621: \"Knowing that the prosperity of our lands depends chiefly on navigation and trade, we grant this Company the sole right to trade and sail along the coasts of the Americas and West Africa. The Company may build forts, appoint governors, keep soldiers, make alliances and treaties with native princes, and wage defensive war - all in our name. Its capital shall be raised by selling shares to all who wish to invest, and its directors shall manage the enterprise for the profit of the shareholders.\"",
+  "options": [
+   "(A) Private trading companies exercised powers normally reserved for governments.",
+   "(B) European states refused to involve themselves in overseas trade and expansion.",
+   "(C) The Company was intended to replace the Dutch government at home.",
+   "(D) Native rulers in the Americas welcomed European military bases."
+  ],
+  "explanation": "Forts, treaties, soldiers, and governors are the tools of states. By delegating them to a corporation, European governments let private companies act as sovereign powers overseas — conquering, ruling, and making war in the state's name."
+ },
+ {
+  "id": "wh-princeton-pdf6-u6-008",
+  "batch": "batch-06",
+  "fields": {
+   "topic": {
+    "first": "6.6",
+    "recheck": "6.7",
+    "first_rationale": "Explains the post-1800 Americas population surge (mass European migration for land and work during industrialization).",
+    "recheck_rationale": "Stem asks what best explains the post-1800 population rise; 'Explain a historical concept, development, or process' (causal explanation). The population surge is a demographic effect of mass European "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 6,
+  "stem": "Which of the following best explains the sharp population rise after 1800?",
+  "stimulus": "Chart: Estimated population of the Americas (North and South America combined), 1200-1900. The vertical axis uses a logarithmic scale from 1 million to 1,000 million; the horizontal axis marks each century. The curve begins at roughly 8-10 million in the 1200s, stays fairly flat through the 1400s, then plunges steeply during the 1500s to only a few million. It recovers gradually through the 1600s and 1700s, then climbs sharply after 1800, approaching 100 million by 1900.",
+  "options": [
+   "(A) The end of all disease in the Western Hemisphere.",
+   "(B) The political reunification of the long-vanished Inca and Aztec empires.",
+   "(C) Mass European migration for land and work during industrialization.",
+   "(D) The migration of Americans to Europe."
+  ],
+  "explanation": "The post-1800 surge coincides with the great age of European emigration: tens of millions left industrializing Europe for land and jobs in the United States, Canada, Argentina, and Brazil. Immigration, far more than natural increase alone, drove the Americas toward 100 million. [UNVERIFIED: the chart's pre-1500 baseline of roughly 8-10 million reflects a low-end estimate; scholarly estimates of the pre-contact Americas population range from about 8 million to over 100 million.]"
+ },
+ {
+  "id": "wh-princeton-pdf6-u8-003",
+  "batch": "batch-06",
+  "fields": {
+   "topic": {
+    "first": "8.5",
+    "recheck": "8.1",
+    "first_rationale": "Explains the Mandate's origin (Ottoman defeat in WWI and the resulting League mandates).",
+    "recheck_rationale": "Stem asks what the Palestine Mandate was 'a direct result of'; explaining the cause of a historical development = 'Explain a historical concept, development, or process.' Mandates arose from Ottoman c"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 8,
+  "stem": "The \"Mandate for Palestine\" mentioned in both sources was created as a direct result of which of the following?",
+  "stimulus": "Source 1 - Israel's Declaration of Independence, 1948 (excerpt): \"The Land of Israel was the birthplace of the Jewish people. Here their spiritual, religious and political identity was shaped. After being forcibly exiled, the people remained faithful to it throughout their Dispersion. In recent decades they returned in their masses. Pioneers, they made deserts bloom, revived the Hebrew language, built villages and towns. This right was recognized in the Balfour Declaration of 1917 and re-affirmed in the Mandate of the League of Nations. The catastrophe which recently befell the Jewish people - the massacre of millions of Jews in Europe - demonstrated the urgency of re-establishing the Jewish State.\" Source 2 - Palestinian National Charter, 1968 (excerpt): \"Palestine is the homeland of the Arab Palestinian people. The partition of Palestine in 1947 and the establishment of the state of Israel are entirely illegal, because they were contrary to the will of the Palestinian people and to their natural right in their homeland. The Balfour Declaration, the Mandate for Palestine, and everything based upon them, are deemed null and void. Claims of historical or religious ties of Jews with Palestine are incompatible with the facts of history.\"",
+  "options": [
+   "(A) The Ottoman defeat in World War I and the resulting League of Nations mandates.",
+   "(B) The Roman occupation of the Levant.",
+   "(C) The Ottoman conquest of Mamluk Egypt.",
+   "(D) The wave of independent states created in the Middle East following World War II."
+  ],
+  "explanation": "World War I destroyed the Ottoman Empire, which had ruled Palestine for centuries. The victorious powers then divided Ottoman Arab lands into League of Nations mandates, including the Mandate for Palestine."
+ },
+ {
+  "id": "wh-princeton-u1-010",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.A",
+    "first_rationale": "Explains how Kublai's reception illustrates the Mongol practice (recruiting talented foreigners into imperial service).",
+    "recheck_rationale": "Stem asks which Mongol practice the Polo reception illustrates; 'Identify and describe a claim and/or argument in a text-based source.' NOTE: Mongol/Yuan content belongs to 2.2 in the framework, but t"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 1,
+  "stem": "Kublai Khan's reception of the Polos, including enrolling Marco among his attendants of honor, best illustrates which of the following Mongol practices?",
+  "stimulus": "'Upon their arrival they were honorably and graciously received by the grand Khan, in a full assembly of his principal officers. When they drew nigh to his person, they paid their respects by prostrating themselves on the floor. He immediately commanded them to rise, and to relate to him the circumstances of their travels. The letters and the presents from the pope were then laid before him, and he bestowed much commendation on the fidelity of his ambassadors; receiving with due reverence the oil from the holy sepulchre, he gave directions that it should be preserved with religious care. Upon his observing Marco Polo, Nicolo made answer, This is your servant, and my son; upon which the grand Khan replied, He is welcome, and it pleases me much, and he caused him to be enrolled amongst his attendants of honor. And as long as the said brothers and Marco remained in the court of the grand Khan, they were honored even above his own courtiers. Marco learnt in a short time and adopted the manners of the Tartars, and acquired a proficiency in four different languages.'\n\nSource: Marco Polo's Travels, circa 1300",
+  "options": [
+   "(A) The Mongol court recruited talented foreigners into imperial service.",
+   "(B) The Mongols refused to employ non-Mongols in any official administrative capacity.",
+   "(C) The Polos were imprisoned upon arriving at the Mongol court.",
+   "(D) Kublai Khan rejected the pope's gifts with open contempt."
+  ],
+  "explanation": "Kublai enrolls a young Venetian among his 'attendants of honor' above his own courtiers, showing that the Mongol court recruited capable outsiders into imperial service without regard to their origins."
+ },
+ {
+  "id": "wh-princeton-u1-020",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.A",
+    "first_rationale": "Explains how Battuta's observation illustrates the Mongol practice (favoring foreign Muslims as administrators and intermediaries in Yuan China).",
+    "recheck_rationale": "Stem asks which Mongol administrative practice Battuta's observation illustrates; 'Identify and describe a claim and/or argument in a text-based source.' Same unit caveat as u1-010: Yuan China is 2.2 "
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 1,
+  "stem": "Battuta's observation that Muslims were 'made much of by the Kings of China' best illustrates which of the following Mongol administrative practices?",
+  "stimulus": "'The King of China is a Tartar, and one of the descendants of Genghis Khan. In all the Chinese provinces, there is a town for the Muslims, and in this they reside. They also have cells, colleges, and mosques, and are made much of by the Kings of China. When we approached Hangzhou we were met by its judge, the elders of Islamism, and the great merchants. The Muslims are exceedingly numerous here. In the city there are a great number of Muslims, with some of whom I resided for fifteen days, and was treated most honorably.'\n\nSource: Ibn Battuta, Voyages, 1332-1346",
+  "options": [
+   "(A) The Mongols favored foreign Muslims as administrators and intermediaries.",
+   "(B) Muslims were persecuted in Yuan China.",
+   "(C) The Mongols employed only Chinese officials.",
+   "(D) Battuta was describing Ming-dynasty China."
+  ],
+  "explanation": "Battuta observes that Muslims in Yuan China had their own quarters, colleges, and mosques and were 'made much of' by the kings, reflecting the Mongol practice of employing Central Asian Muslims as administrators, tax collectors, and intermediaries."
+ },
+ {
+  "id": "wh-princeton-u2-009",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.A",
+    "first_rationale": "Explains how the Russia/China comparison supports the conclusion (Mongols adapted: direct rule or tribute-taking as each suited).",
+    "recheck_rationale": "Stem asks how Mongol rule in Russia differed from China primarily because...; single-source item identifying the difference supported by the source = 'Identify and describe a claim and/or argument in "
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 2,
+  "stem": "Mongol rule in Russia differed from Mongol rule in China primarily because",
+  "stimulus": "'The King of China is a Tartar, and one of the descendants of Genghis Khan. In all the Chinese provinces, there is a town for the Muslims, and in this they reside. They also have cells, colleges, and mosques, and are made much of by the Kings of China. When we approached Hangzhou we were met by its judge, the elders of Islamism, and the great merchants. The Muslims are exceedingly numerous here. In the city there are a great number of Muslims, with some of whom I resided for fifteen days, and was treated most honorably.'\n\nSource: Ibn Battuta, Voyages, 1332-1346",
+  "options": [
+   "(A) The Mongols never conquered the Russian principalities.",
+   "(B) Russia was more densely populated than China.",
+   "(C) The Mongols preferred Russian culture and Orthodox customs to Chinese culture.",
+   "(D) Mongols adapted to conditions: direct rule or tribute-taking as each suited."
+  ],
+  "explanation": "In China the Mongols inherited a dense population and a ready-made bureaucracy worth running directly; in Russia they confronted scattered principalities whose tribute was easier to collect through native princes than to administer themselves."
+ },
+ {
+  "id": "wh-princeton-u3-009",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.A",
+    "first_rationale": "Explains how the reverse-tribute detail illustrates negotiated Mughal sovereignty (emperors sometimes paying tribute to powerful groups).",
+    "recheck_rationale": "Stem asks what Bernier's tribute observation illustrates; 'Identify and describe a claim and/or argument in a text-based source' (negotiated sovereignty). Tributary bargaining as imperial administrati"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 3,
+  "stem": "Bernier's observation that some peoples 'receive tribute from' the Mughal emperor best illustrates which of the following?",
+  "stimulus": "My lord, you may have seen by the maps of Asia how great every way is the extent of the empire of the Great Mogul, which is commonly called India. In this country there are sundry nations which the Mogul is not full master of, most of them still retaining their particular sovereigns and lords that neither obey him nor pay him tribute but from constraint; many that do little, some that do nothing at all, and some also that receive tribute from him.\n\nSuch are the Pathans, a Mohammedan people toward Bengal, who before the invasion of the Moguls in India had made themselves potent in many places, and chiefly at Delhi, and had rendered many rajahs thereabout their tributaries. These Pathans are fierce and warlike, and even the meanest of them, though they be but waiting men and porters, are still of a very high spirit.\n\nSource: An Account of India and the Great Moghul, by Francois Bernier, 1655",
+  "options": [
+   "(A) The Mughal emperor's authority was absolute and unquestioned throughout his extensive domains.",
+   "(B) Mughal sovereignty was negotiated, with emperors sometimes paying tribute to powerful groups.",
+   "(C) Every people within the empire paid regular annual tribute to the Mughal emperor.",
+   "(D) The Mughals had no significant dealings with the Pathan peoples at all."
+  ],
+  "explanation": "An emperor who must pay tribute to some of his own nominal subjects is bargaining for their compliance, not commanding it; Bernier's detail exposes Mughal sovereignty as something negotiated with powerful groups rather than simply imposed."
+ },
+ {
+  "id": "wh-princeton-u4-007",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "4.B",
+    "recheck": "4.A",
+    "first_rationale": "Situates the triangular trade in the broader economic context (enslaved labor producing commodities that fueled European commercial growth).",
+    "recheck_rationale": "Stem asks which relationship the triangular trade illustrates (slave labor -> plantation commodities -> European commercial growth); 'Identify and describe a historical context for a specific historic"
+   },
+   "topic": {
+    "first": "4.7",
+    "recheck": "4.5",
+    "first_rationale": "Situates the triangular trade in the broader economic context (enslaved labor producing commodities that fueled European commercial growth).",
+    "recheck_rationale": "Stem asks which relationship the triangular trade illustrates (slave labor -> plantation commodities -> European commercial growth); 'Identify and describe a historical context for a specific historic"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 4,
+  "stem": "The triangular trade system best illustrates which of the following relationships?",
+  "stimulus": "Source 1: Diagram of a slave ship from the transatlantic slave trade, circa 1790. The diagram shows the cross-section and deck plans of a slave ship, with hundreds of human figures packed shoulder-to-shoulder in rows within the hold, illustrating the extreme crowding of the Middle Passage.\n\nSource 2: 'Are you a man? Then you should have an human heart. But have you indeed? What is your heart made of? Is there no such principle as compassion there? When you squeezed the agonizing creatures down in the ship, or when you threw their poor mangled remains into the sea, had you no relenting? If you do not, you must go on, till the measure of your iniquities is full. Then will the great GOD deal with you, as you have dealt with them, and require all their blood at your hands.'\n\nSource: John Wesley, Thoughts Upon Slavery, 1774",
+  "options": [
+   "(A) Enslaved labor in the Americas produced commodities that fueled European commercial growth.",
+   "(B) The slave trade had no significant connection to European economic growth.",
+   "(C) African economies benefited equally with European ones from the trade.",
+   "(D) The triangular trade was mainly about exchanging European manufactured goods for Asian spices."
+  ],
+  "explanation": "The triangular system linked enslaved African labor in American plantations to the sugar, tobacco, and cotton that enriched European merchants and financed further commercial expansion; the trade's profits and European growth were inseparable."
+ },
+ {
+  "id": "wh-princeton-u4-017",
+  "batch": "batch-06",
+  "fields": {
+   "topic": {
+    "first": "4.7",
+    "recheck": "4.5",
+    "first_rationale": "Identifies the view Rodney challenges (African poverty as natural or self-inflicted); a 1974 historiographical argument about the slave-trade/imperial era, 4.7 least-bad.",
+    "recheck_rationale": "Stem asks which view Rodney's argument challenges; 'Identify and describe a claim and/or argument in a text-based source.' Argument about European extraction via slave trade/colonialism underdevelopin"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 4,
+  "stem": "Rodney's argument is best understood as a challenge to which of the following views?",
+  "stimulus": "'The question as to who, and what, is responsible for African underdevelopment can be answered at two levels. Firstly, the answer is that the operation of the imperialist system bears major responsibility for African economic retardation by draining African wealth and by making it impossible to develop more rapidly the resources of the continent. Secondly, one has to deal with those who manipulate the system and those who are either agents or unwitting accomplices of the said system. The capitalists of Western Europe were the ones who actively extended their exploitation from inside Europe to cover the whole of Africa.'\n\nSource: Walter Rodney, historian, How Europe Underdeveloped Africa, 1974",
+  "options": [
+   "(A) He blamed European extraction, not African backwardness, for underdevelopment.",
+   "(B) He argued that Africa's poverty resulted from its own traditions and customs alone.",
+   "(C) He defended European colonialism as beneficial.",
+   "(D) He ignored economic factors in explaining African poverty."
+  ],
+  "explanation": "Writing in 1974 as decolonization concluded, Rodney attacked the then-common view that Africa's poverty was natural or self-inflicted, arguing instead that centuries of European extraction, from the slave trade to colonialism, had actively underdeveloped the continent."
+ },
+ {
+  "id": "wh-princeton-u6-007",
+  "batch": "batch-06",
+  "fields": {
+   "skill": {
+    "first": "4.A",
+    "recheck": "4.B",
+    "first_rationale": "Identifies the context explaining spheres of influence (China too large and organized to conquer, so Europeans settled for commercial privileges).",
+    "recheck_rationale": "Stem asks why spheres of influence rather than direct colonization in China; 'Explain how a specific historical development or process is situated within a broader historical context' (China's size/or"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 6,
+  "stem": "Which of the following best explains why Europeans established spheres of influence in China rather than colonizing it directly as they did in much of Africa?",
+  "stimulus": "The new Imperialism has nowhere extended the political and civil liberties of the mother country to any part of the vast territories which, since 1870, have fallen under the government of Western civilized Powers. Politically, the new Imperialism is an expansion of autocracy.\n\nTaking the growth of Imperialism as illustrated in the recent expansion of Great Britain and of the chief continental Powers, we find the distinction between Imperialism and colonization closely borne out by facts and figures, and warranting the following general judgments: First, almost the whole of recent imperial expansion is occupied with the political absorption of tropical or sub-tropical lands in which white men will not settle with their families. Second, nearly all the lands are thickly peopled by 'lower races.'\n\nThus this recent imperial expansion stands entirely distinct from the colonisation of sparsely peopled lands in temperate zones, where white colonists carry with them the modes of government, the industrial and other arts of the civilisation of the mother country. The 'occupation' of these new territories is comprised in the presence of a small minority of white men, officials, traders, and industrial organisers, exercising political and economic sway over great hordes of population regarded as inferior and as incapable of exercising any considerable rights of self-government, in politics or industry.\n\nSource: Imperialism, A Study by English economist John A. Hobson (1902)",
+  "options": [
+   "(A) Europeans had little real economic interest in the vast Chinese market.",
+   "(B) The Chinese Qing government voluntarily invited European colonization of its coastal treaty ports.",
+   "(C) International law in the nineteenth century prohibited the colonization of China.",
+   "(D) China was too large and organized to conquer, so Europeans settled for commercial privileges."
+  ],
+  "explanation": "China combined a huge population, a functioning centralized bureaucracy, and enough military strength to make outright conquest prohibitively costly, so the European powers competed for commercial privileges and leased ports instead of annexing the country."
+ },
+ {
+  "id": "wh-princeton-u6-012",
+  "batch": "batch-07",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.C",
+    "first_rationale": "Synthesizes Ferry's speech with the Africa map to show moral 'duty' language masked strategic/economic motives; the task is explaining how the source's claims function as justification for empire.",
+    "recheck_rationale": "Stem asks what the two sources TOGETHER illustrate about imperialism; the key (C) synthesizes the main ideas of Ferry's speech and the Africa map into one claim about imperialism's rationales. Compari"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 6,
+  "stem": "Taken together, Ferry's speech and the map of African colonies best illustrate which of the following about European imperialism?",
+  "stimulus": "Source 1: Map of European colonies in Africa, early twentieth century. The map shows Africa partitioned among the European powers: France controls most of northwest Africa, Britain controls Egypt, Sudan, and a corridor of eastern and southern Africa, Portugal holds Angola and Mozambique, Belgium holds the Congo, Germany holds several scattered colonies, and Italy holds Libya and territories in the Horn of Africa.\n\nSource 2: 'I repeat, that the superior races have a right because they have a duty. They have the duty to civilize the inferior races. I say that French colonial policy, the policy of colonial expansion, was inspired by the fact that a navy such as ours cannot do without safe harbors, defenses, supply centers on the high seas. Are you unaware of this? Look at a map of the world.'\n\nSource: Jules Ferry, On French Colonial Expansion, 1884",
+  "options": [
+   "(A) Ferry openly opposed French colonial expansion.",
+   "(B) The map's boundaries were drawn by African leaders.",
+   "(C) Moral justifications for empire masked underlying economic and strategic motives.",
+   "(D) France colonized Africa solely to spread Christianity and build churches among its peoples."
+  ],
+  "explanation": "Ferry speaks of a 'duty to civilize' while in the same breath citing the navy's need for harbors and supply centers; the lofty moral language sits alongside, and masks, frank admissions of strategic and economic motive."
+ },
+ {
+  "id": "wh-princeton-u7-014",
+  "batch": "batch-07",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.A",
+    "first_rationale": "Uses the GDP table as evidence that American bombing and military defeat devastated the Japanese economy between 1944 and 1946.",
+    "recheck_rationale": "Student reads the GDP table (non-text source) and identifies the claim it supports — the 1944-1946 collapse reflects bombing and defeat = 3.A. Content is WWII's economic devastation of Japan (total wa"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 7,
+  "stem": "Which of the following best explains the changes illustrated in the table from 1944 to 1946?",
+  "stimulus": "Gross Domestic Product (total economic output) of Japan, selected years:\n\nYear | GDP (million yen) | GDP per capita\n1934 | 17,422 | 255\n1937 | 19,949 | 282\n1940 | 22,848 | 312\n1942 | 23,445 | 322\n1944 | 22,538 | 303\n1946 | 13,083 | 173\n1955 | 25,399 | 282",
+  "options": [
+   "(A) American bombing and military defeat devastated the Japanese economy.",
+   "(B) The Japanese economy continued to grow through 1946.",
+   "(C) The decline was caused by unfavorable trade deals.",
+   "(D) Japan's economy was unaffected by the outcome of the war."
+  ],
+  "explanation": "Japanese GDP fell by nearly half between 1944 and 1946 as American bombing destroyed cities and industry and defeat ended the war economy, the economic wreckage of total defeat."
+ },
+ {
+  "id": "wh-princeton-u8-008",
+  "batch": "batch-07",
+  "fields": {
+   "skill": {
+    "first": "2.B",
+    "recheck": "2.A",
+    "first_rationale": "Analyzes what Berryman's 1938 cartoon reveals about the US historical situation — American contempt for fascist Italy alongside official neutrality. Weak Unit-8 fit (pre-WWII content); 8.1 is the clos",
+    "recheck_rationale": "Stem asks what the 1938 cartoon illustrates about the United States in 1938 — identifying the source's historical situation (contempt for fascism amid official neutrality) = 2.A. (FLAG: item is labele"
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 8,
+  "stem": "Berryman's 1938 cartoon mocking Mussolini's Italy best illustrates which of the following about the United States in 1938?",
+  "stimulus": "Clifford Berryman's 1938 cartoon 'Telling the Italians!' mocks Mussolini's Italy, depicting the fascist regime as an object of American ridicule on the eve of the Second World War.",
+  "options": [
+   "(A) The cartoon proves the United States government had already decided to enter the war by 1938.",
+   "(B) Many Americans held fascist Italy in contempt while the United States stayed neutral.",
+   "(C) American public opinion uniformly supported Mussolini and his regime in 1938.",
+   "(D) The cartoon was secretly commissioned by the Italian government as propaganda."
+  ],
+  "explanation": "A cartoon mocking Mussolini in 1938 shows that fascist Italy was already an object of American contempt, yet the United States stayed out of the looming war for three more years, illustrating the gap between public disdain for fascism and official isolationist policy."
+ },
+ {
+  "id": "wh-princeton-u8-018",
+  "batch": "batch-07",
+  "fields": {
+   "skill": {
+    "first": "3.D",
+    "recheck": "3.A",
+    "first_rationale": "Explains how the program's claims work together — national independence and confiscation of banks and plantations presented as one inseparable struggle, not two separate goals.",
+    "recheck_rationale": "Stem asks which conclusion the program's pairing of independence with confiscations illustrates — identifying/describing the argument in Ho Chi Minh's 1930 text (nationalism and communism as one strug"
+   },
+   "topic": {
+    "first": "8.4",
+    "recheck": "8.5",
+    "first_rationale": "Explains how the program's claims work together — national independence and confiscation of banks and plantations presented as one inseparable struggle, not two separate goals.",
+    "recheck_rationale": "Stem asks which conclusion the program's pairing of independence with confiscations illustrates — identifying/describing the argument in Ho Chi Minh's 1930 text (nationalism and communism as one strug"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 8,
+  "stem": "The program's pairing of national independence with the confiscation of banks and plantations best illustrates which of the following?",
+  "stimulus": "'Workers, peasants, soldiers, youth, pupils! Oppressed and exploited compatriots! The Communist Party of Indochina is founded. It is the party of the working class. It will help the proletarian class lead the revolution in order to struggle for all the oppressed and exploited people.\n\nTo overthrow French imperialism, feudalism, and the reactionary Vietnamese capitalist class. To make Indochina completely independent. To establish a worker-peasant and soldier government. To confiscate the banks and other enterprises belonging to the imperialists and put them under the control of the worker-peasant and soldier government. To confiscate all of the plantations and property belonging to the imperialists and the Vietnamese reactionary capitalist class and distribute them to poor peasants.'\n\nSource: Ho Chi Minh, Program for the Communists of Indochina (1930)",
+  "options": [
+   "(A) The program treats nationalism and socialism as separate, unrelated goals.",
+   "(B) Ho modeled his program on French colonial administrative policy.",
+   "(C) Ho cared only about economic reform, not national independence.",
+   "(D) Anti-colonial nationalism and communist change were inseparable for Ho."
+  ],
+  "explanation": "The program's slogans interweave 'independence' with confiscation of banks and plantations: national liberation from France and social revolution against landlords and capitalists are presented as a single struggle, not two separate ones."
+ },
+ {
+  "id": "wh-vis-u1-010",
+  "batch": "batch-07",
+  "fields": {
+   "skill": {
+    "first": "1.B",
+    "recheck": "1.A",
+    "first_rationale": "Explains the Inca road system's function — letting Cuzco move officials, armies, and supplies quickly across a mountainous empire with no writing or wheel.",
+    "recheck_rationale": "Stem asks what the Inca road system enabled — identifying the historical development/process and its function (administrative control of the empire) = 1.A. Content is Inca state building in the Americ"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 1,
+  "stem": "The road system shown on the map primarily enabled the Inca state to:",
+  "stimulus": "Map of the Inca road system (Qhapaq Ñan). Two main north–south highways — one along the coast, one through the Andes mountains — are linked by connecting roads, joining cities from Quito in the north to the southern Andes, all centered on the capital Cuzco.",
+  "options": [
+   "(A) transport goods in wheeled carts pulled by teams of horses between the cities",
+   "(B) move officials, armies, and supplies quickly across a mountainous empire",
+   "(C) prove that local communities along the route needed no central government at all",
+   "(D) carry on direct overland trade with merchants from Spain"
+  ],
+  "explanation": "The Qhapaq Ñan ran some 25,000 miles, with the two trunk roads joined by cross-links. Chasqui runners, officials, armies, and llama caravans moved along it, letting Cuzco project authority over an empire stretching 2,500 miles — an administrative nervous system for a state with no writing, wheeled vehicles, or draft animals."
+ },
+ {
+  "id": "wh-vis-u2-035",
+  "batch": "batch-07",
+  "fields": {
+   "topic": {
+    "first": "2.1",
+    "recheck": "2.5",
+    "first_rationale": "Identifies the development the celadon illustrates — Korea producing luxury goods and taking part in East Asian exchange networks. 2.1 is approximate, since the CED exchange topics center on the Silk ",
+    "recheck_rationale": "Stem asks which development the celadon vase illustrates — identifying the connection between Korean luxury production and East Asian exchange networks = 5.A. Content is cultural/economic consequences"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 2,
+  "stem": "This Goryeo dynasty celadon vase (1300s) best illustrates which development in East Asia?",
+  "stimulus": "This photograph shows a Korean celadon vase from the Goryeo dynasty (1300s): a pale green-glazed vessel with an inlaid chrysanthemum design, now in the Tokyo National Museum.",
+  "options": [
+   "(A) Korea was completely isolated from all regional trade in this period.",
+   "(B) Korea produced luxury goods and took part in East Asian trade.",
+   "(C) Celadon pottery was invented in Japan and imported into Korea.",
+   "(D) The vase was manufactured in China and only later brought to Korea."
+  ],
+  "explanation": "The vase's pale green glaze and inlaid chrysanthemum design are hallmarks of Goryeo celadon, the luxury ceramic of medieval Korea, prized across East Asia. Goryeo Korea was deeply tied into the Yuan-era regional economy — as a Mongol ally and trading partner — and its refined crafts circulated among elites in China and Japan. The vase is evidence that Korea participated in, rather than stood apart from, the period's East Asian exchange networks."
+ },
+ {
+  "id": "wh-vis-u3-040",
+  "batch": "batch-07",
+  "fields": {
+   "topic": {
+    "first": "3.2",
+    "recheck": "3.1",
+    "first_rationale": "Identifies what the portrait's Western style reflects — Peter deliberately adopting Western military and cultural models to transform Russia into a European great power.",
+    "recheck_rationale": "Stem asks which development the Kneller portrait reflects — identifying the process of Peter's Westernization of Russia = 1.A. Content is Russian Empire building; Peter's reforms are taught under Russ"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 3,
+  "stem": "The portrait's Western style and its creation during Peter's European tour most directly reflect which of the following?",
+  "stimulus": "Sir Godfrey Kneller's 1698 portrait of Peter the Great, painted in England during Peter's Grand Embassy to Western Europe: the young tsar stands in Western-style armor with a baton of command, an ermine-trimmed cloak over his shoulder.",
+  "options": [
+   "(A) Peter had abdicated the Russian throne and taken service as an English officer.",
+   "(B) The portrait shows Peter rejecting all contact with Western Europe and turning Russia firmly back toward Muscovite traditions.",
+   "(C) English artists forced the tsar to sit for the portrait while holding him prisoner.",
+   "(D) Peter deliberately adopted Western military and cultural models to transform Russia into a European great power."
+  ],
+  "explanation": "The 1697–98 Grand Embassy was a study mission: Peter worked in Dutch and English shipyards and hired hundreds of Western specialists. Being painted by England's leading portraitist in Western armor announced the program — Russia would master Europe's military and technical arts."
+ },
+ {
+  "id": "wh-vis-u3-045",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Stem asks what Hideyoshi's Osaka Castle is best understood as: a display of power announcing a single authority over a unified Japan. The cognitive task is identifying the historical concept (state-bu",
+    "recheck_rationale": "Stem asks how Hideyoshi's castle-building is 'best understood' -- it requires explaining the political meaning of the development (a display of centralized power over a unified Japan), not merely iden"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 3,
+  "stem": "Hideyoshi's construction of Japan's largest castle at Osaka is best understood as...",
+  "stimulus": "A modern photograph of Osaka Castle's main tower: a white, five-tiered tower with gold ornamentation rising above massive sloping stone walls. Toyotomi Hideyoshi built the original castle beginning in 1583 as the center of a unified Japan; the present tower is a 1931 reconstruction of the historic keep.",
+  "options": [
+   "(A) a deliberate display of power — the castle's unprecedented scale announced that a single authority now ruled a unified Japan.",
+   "(B) a defensive refuge built so Hideyoshi could hide from peasant uprisings and from rival warlords in the surrounding countryside.",
+   "(C) a trading post designed to draw Portuguese merchants inland from the coast.",
+   "(D) a religious monastery where Hideyoshi retired from political life."
+  ],
+  "explanation": "Osaka was the biggest castle Japan had ever seen, raised on the site of the Honganji temple-fortress Hideyoshi's predecessor had destroyed. Its scale was the message: the age of warring daimyo was over, and the new order had one center — Hideyoshi's."
+ },
+ {
+  "id": "wh-vis-u4-005",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "4.B",
+    "recheck": "4.A",
+    "first_rationale": "Stem asks which development of 1450-1750 the Tordesillas map best illustrates: Spain and Portugal claiming exclusive exploration zones. Placing the source within the broader imperial-division context.",
+    "recheck_rationale": "The 1601 Spanish map with the Tordesillas meridian is a specific artifact; the stem asks which broader 1450-1750 development it illustrates -- identifying the historical context (Spain/Portugal partit"
+   }
+  },
+  "skill_field": "Contextualization",
+  "unit_period": 4,
+  "stem": "This map best illustrates which development of the period 1450-1750?",
+  "stimulus": "A Spanish map of the Americas (from a 1601 atlas) showing the Pacific Ocean labeled 'MAR DEL SVR.' A caption reads, in translation: 'Between the two marked meridians lies the navigation and discovery belonging to the Castilians.' A vertical meridian line divides the map.",
+  "options": [
+   "(A) Spain and Portugal claimed exclusive rights to explore and trade in separate zones",
+   "(B) Spain abandoned its American empire in order to focus all of its energies on Asian trade",
+   "(C) European mapmakers of the period had no knowledge of the Pacific Ocean at all",
+   "(D) The pope forbade all Catholic nations from undertaking any overseas exploration"
+  ],
+  "explanation": "The key is (A). The Treaty of Tordesillas (1494), building on papal grants, drew a meridian dividing the non-Christian world between Spain and Portugal. This 1601 Spanish map still displays that logic a century later: the marked meridians and the caption assigning 'navigation and discovery' to Castile show the division hardened into official imperial geography."
+ },
+ {
+  "id": "wh-vis-u4-025",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Stem contrasts with sprawling Spanish plaza-cathedral cities: New Amsterdam was organized around the harbor and warehouses for commerce. Identifying the comparative feature. Establishment of maritime ",
+    "recheck_rationale": "The stem requires explaining how New Amsterdam's harbor-warehouse organization differed from the Spanish plaza-cathedral pattern and what that reveals about Dutch commercial priorities -- an explanati"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "Unlike the sprawling Spanish colonial cities built around a central plaza and cathedral, New Amsterdam as shown in the plan was organized primarily around",
+  "stimulus": "The Castello Plan of New Amsterdam (1660), a Dutch manuscript map. It shows a compact walled settlement at the tip of Manhattan: a fort, a grid of streets, a canal, a windmill, houses, and warehouses along the waterfront, with ships anchored offshore.",
+  "options": [
+   "(A) the harbor and warehouses of a settlement designed for commerce",
+   "(B) military barracks of a settlement designed primarily for conquest",
+   "(C) churches and monasteries of a settlement designed for missions",
+   "(D) plantation fields of a settlement designed for farming"
+  ],
+  "explanation": "The key is (A). Spanish colonial cities expressed crown and church authority through the plaza-cathedral-palace layout. The Castello Plan shows a different logic: the town's energy faces the water, where warehouses, the canal, and anchored ships dominate. The comparison reveals a settlement whose organizing principle was trade, matching the Dutch commercial empire's priorities versus Spain's imperial-administrative ones."
+ },
+ {
+  "id": "wh-vis-u4-035",
+  "batch": "batch-08",
+  "fields": {
+   "topic": {
+    "first": "4.4",
+    "recheck": "4.5",
+    "first_rationale": "Stem asks which British interest the Hudson Bay charting reflects: securing the fur-trade network of the Hudson's Bay Company. Identifying the concept. Establishment of maritime empires.",
+    "recheck_rationale": "'Best reflects which British interest' is an identification question: the map's detailed rivers/coasts point to the fur-trade network -- 1.A Identify a historical concept, development, or process. Top"
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 4,
+  "stem": "The map's careful charting of Hudson Bay's rivers and coasts best reflects which British interest?",
+  "stimulus": "A 1776 British map of Hudson Bay and the surrounding lands. It labels the bay, its rivers, and the northern coastline in detail, with a cartouche celebrating the region's commercial importance.",
+  "options": [
+   "(A) establishing sugar plantations in the north of Canada",
+   "(B) securing the fur-trade network of the Hudson's Bay Company",
+   "(C) finding gold mines in the Arctic regions",
+   "(D) converting the Indigenous peoples of the region to Christianity"
+  ],
+  "explanation": "The key is (B). The Hudson's Bay Company, chartered in 1670, built its fur empire on the bay's river systems, which carried pelts from the interior to its coastal posts. A detailed commercial map of those rivers and shores served the fur trade's logistics: locating posts, planning canoe routes, and defending the company's chartered monopoly."
+ },
+ {
+  "id": "wh-vis-u5-005",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "5.A",
+    "recheck": "5.B",
+    "first_rationale": "Stem asks what de Gouges's wording reveals about her purpose: turning the Revolution's own logic back on itself, demanding rights promised to 'men' apply to women. Identifying the connection between r",
+    "recheck_rationale": "Stem asks what the preamble wording reveals about the author's purpose -- genuinely a source-purpose question, so the item's skill field (Making Connections) looks mislabeled (should be Sourcing and S"
+   }
+  },
+  "skill_field": "Making Connections",
+  "unit_period": 5,
+  "stem": "What does the wording of this preamble reveal about the author's purpose?",
+  "stimulus": "The first page of Olympe de Gouges's 1791 pamphlet, 'Déclaration des droits de la femme et de la citoyenne.' Its preamble reads: 'Les mères, les filles, les soeurs, représentantes de la nation, demandent d'être constituées en assemblée nationale' (The mothers, daughters, and sisters, representatives of the nation, demand to be constituted as a national assembly).",
+  "options": [
+   "(A) She opposed the French Revolution and wanted to restore the monarchy.",
+   "(B) She was turning the Revolution's own logic back on itself, demanding that the rights promised to 'men' in 1789 apply to women as well.",
+   "(C) She was defending the traditional exclusion of women from politics as natural and proper, arguing that women's place was in the home rather than in the assembly.",
+   "(D) She was announcing that women had already won the vote in 1791."
+  ],
+  "explanation": "By mirroring the men's declaration — 'representatives of the nation' demanding a national assembly — de Gouges exposed the contradiction of a revolution proclaiming universal rights while excluding women."
+ },
+ {
+  "id": "wh-vis-u5-035",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "1.A",
+    "recheck": "1.B",
+    "first_rationale": "Stem asks what the 1861 emancipation image reveals: the tsar freed the serfs from above to preserve autocracy, though redemption payments kept peasants bound. Identifying the concept. Reform-era natio",
+    "recheck_rationale": "'What does this image reveal about the character of Russian emancipation?' requires explaining the development (reform from above to preserve autocracy; redemption payments keeping peasants bound) -- "
+   },
+   "topic": {
+    "first": "5.2",
+    "recheck": "5.6",
+    "first_rationale": "Stem asks what the 1861 emancipation image reveals: the tsar freed the serfs from above to preserve autocracy, though redemption payments kept peasants bound. Identifying the concept. Reform-era natio",
+    "recheck_rationale": "'What does this image reveal about the character of Russian emancipation?' requires explaining the development (reform from above to preserve autocracy; redemption payments keeping peasants bound) -- "
+   }
+  },
+  "skill_field": "Developments and Processes",
+  "unit_period": 5,
+  "stem": "What does this image reveal about the character of Russian emancipation?",
+  "stimulus": "An official painting of the emancipation of the serfs in 1861: a priest in ornate robes reads the imperial manifesto from a paper to a large, solemn crowd of bearded Russian peasants gathered around him.",
+  "options": [
+   "(A) Russian peasants won emancipation through a successful revolt.",
+   "(B) The tsar freed the serfs from above to preserve autocracy and modernize Russia, but redemption payments kept peasants economically tied to the land.",
+   "(C) The decree gave peasants full, free, and unconditional ownership of all the land they worked, with no redemption payments of any kind ever required from them whatsoever.",
+   "(D) The decree abolished the Russian monarchy."
+  ],
+  "explanation": "Alexander II emancipated the serfs by imperial decree in 1861 — reform from above meant to preserve autocracy and modernize the army and economy — but redemption payments and the commune kept peasants economically bound."
+ },
+ {
+  "id": "wh-vis-u6-015",
+  "batch": "batch-08",
+  "fields": {
+   "topic": {
+    "first": "6.2",
+    "recheck": "6.3",
+    "first_rationale": "Stem asks what the British engraving's framing emphasizes: British triumph, the defeated Zulu king shipped into exile beneath the British flag. Identifying the point of view. State expansion.",
+    "recheck_rationale": "'This is a British-produced image... What does its framing emphasize?' asks the test-taker to identify the source's point of view (triumphal framing of Cetshwayo's capture as imperial order restored) "
+   }
+  },
+  "skill_field": "Sourcing and Situation",
+  "unit_period": 6,
+  "stem": "This is a British-produced image of the Anglo-Zulu War. What does its framing emphasize?",
+  "stimulus": "An 1879 British engraving from the illustrated newspaper The Graphic, titled \"The Capture of Cetewayo.\" It shows the Zulu king Cetshwayo being escorted onto the British transport ship \"Natal\" at Port Durnford, with the British flag flying on the shore.",
+  "options": [
+   "(A) A great Zulu military victory won over the invading British forces during the Anglo-Zulu War of 1879",
+   "(B) Cetshwayo's voluntary and deliberate decision to seek a lasting military alliance with Great Britain against his regional rivals",
+   "(C) British triumph: the defeated Zulu king shipped into exile beneath the British flag, declaring resistance crushed",
+   "(D) The image was created by Zulu artists working to honor their captured king and preserve his memory for future generations"
+  ],
+  "explanation": "The engraving was made for a British illustrated newspaper to show readers at home that the Zulu War was won: their king captured, embarked under guard, the Union Jack flying. Like much Victorian war art, it turns conquest into a reassuring spectacle of imperial order restored."
+ },
+ {
+  "id": "wh-vis-u7-005",
+  "batch": "batch-08",
+  "fields": {
+   "skill": {
+    "first": "3.A",
+    "recheck": "3.D",
+    "first_rationale": "Stem asks why zigzag trenches were built: angles contained shell blasts and enfilading fire. Identifying the claim the aerial photo supports. Conducting World War I.",
+    "recheck_rationale": "Stem asks why zigzag trenches rather than straight ones -- genuinely an explanation of a military-technical development, so the item's skill field (Claims and Evidence in Sources) looks mislabeled (sh"
+   }
+  },
+  "skill_field": "Claims and Evidence in Sources",
+  "unit_period": 7,
+  "stem": "The trenches in this photograph were built in zigzag patterns rather than straight lines primarily because",
+  "stimulus": "Aerial photograph labeled \"Aerial view Loos-Hulluch trench system July 1917.\" From above, the ground is covered with dense, zigzagging white lines forming interlocking networks of trenches, pocked with dark shell craters; two roughly parallel systems face each other across a scarred strip of land.",
+  "options": [
+   "(A) A straight trench would let a shell blast or enfilading fire sweep the whole line; angles contained the damage.",
+   "(B) The zigzag pattern was designed mainly to confuse enemy aerial photographers and hide the trenches from observation balloons.",
+   "(C) Zigzag trenches drained rainwater more effectively than straight ones did.",
+   "(D) International treaties had banned straight trenches as an inhumane design, so all armies were forced to dig zigzags."
+  ],
+  "explanation": "The photograph shows the sharp angular bends characteristic of fire-bays and traverses: if a shell landed in the trench or an enemy fired down its length, the blast and bullets would be stopped by the next angle instead of sweeping the whole line."
+ }
+]

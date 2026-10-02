@@ -3,6 +3,8 @@
   "difficulty": "medium",
   "explanation": "The painting abandons realistic perspective — the couple floats impossibly above the town — which was exactly what early-1900s avant-garde artists did when they broke with nineteenth-century realist conventions.",
   "id": "wh-barrons-t2-001",
+  "skill_code": "4.A",
+  "topic_code": "8.7",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The impossible scene rejects the realistic representation that dominated nineteenth-century art, a hallmark of avant-garde movements.",
@@ -33,6 +35,8 @@
   "difficulty": "medium",
   "explanation": "Chagall's floating figures come from memory and dream imagery, part of a wider early-twentieth-century turn among artists and thinkers toward the inner life — dreams, memory, and the subconscious — as worthy subjects.",
   "id": "wh-barrons-t2-002",
+  "skill_code": "1.B",
+  "topic_code": "8.7",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The painting carries no hidden political message; its subject is personal and dreamlike.",
@@ -64,6 +68,8 @@
   "difficulty": "medium",
   "explanation": "Chagall was a Russian Jew living in France when he painted the town of his youth with a soaring couple. The nostalgic, loving scene reads as an émigré's fond memory of home, a common experience for the era's many migrants and exiles.",
   "id": "wh-barrons-t2-003",
+  "skill_code": "3.A",
+  "topic_code": "8.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Nothing in the painting endorses any government.",
@@ -95,6 +101,8 @@
   "difficulty": "medium",
   "explanation": "Realism showed the world as it looked; this painting shows lifelike people in a scene that could never happen. That deliberate break with 'how things look' was the avant-garde's signature move across early-twentieth-century culture.",
   "id": "wh-barrons-t2-004",
+  "skill_code": "1.A",
+  "topic_code": "8.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Mass reproduction spread images widely but did not standardize what artists painted.",
@@ -125,6 +133,8 @@
   "difficulty": "medium",
   "explanation": "Gandhi, an Indian activist in South Africa, wrote to Tolstoy, a Russian author famous for writings on nonviolence. Their correspondence shows how reformers of the era exchanged ideas across continents, building international networks of moral and political support.",
   "id": "wh-barrons-t2-005",
+  "skill_code": "2.B",
+  "topic_code": "8.7",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The letter itself is evidence of a transnational exchange — an Indian in South Africa writing to a Russian about nonviolent resistance.",
@@ -156,6 +166,8 @@
   "difficulty": "medium",
   "explanation": "Gandhi calls the law 'degrading' and says submitting to it would violate 'the spirit of true religion.' His argument is that a law this unjust no longer deserves obedience — the moral basis for his later campaigns of nonviolent noncooperation.",
   "id": "wh-barrons-t2-006",
+  "skill_code": "3.A",
+  "topic_code": "8.7",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Gandhi argues the opposite: this law should not be obeyed.",
@@ -187,6 +199,8 @@
   "difficulty": "medium",
   "explanation": "Gandhi reports that nearly half of Transvaal's Indians left the colony rather than live under the degrading law. Their departure was a political choice forced by discrimination — migration as a response to unjust policy.",
   "id": "wh-barrons-t2-007",
+  "skill_code": "1.A",
+  "topic_code": "8.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Leaving the colony shows the failure, not success, of British policy toward Indians.",
@@ -218,6 +232,8 @@
   "difficulty": "hard",
   "explanation": "Gandhi describes laws that singled out Indians for legal disabilities based on race. South Africa would later extend exactly this principle — racial classification written into law — into the full apartheid system after 1948.",
   "id": "wh-barrons-t2-008",
+  "skill_code": "4.A",
+  "topic_code": "8.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. South Africa became a self-governing dominion in 1910, but racial laws continued and deepened.",
@@ -249,6 +265,8 @@
   "difficulty": "medium",
   "explanation": "The king and crown prince wear European military uniforms with medals — the visual language of a 'modern' nineteenth-century state. The portrait was a deliberate signal that Siam's monarchy was reforming along Western lines.",
   "id": "wh-barrons-t2-009",
+  "skill_code": "3.A",
+  "topic_code": "6.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The Western uniforms were a conscious display of modernization, matching Chulalongkorn's reform program.",
@@ -279,6 +297,8 @@
   "difficulty": "hard",
   "explanation": "Siam watched Britain and France swallow neighboring Burma and Indochina. By modernizing its army, administration, and infrastructure, Siam aimed to look too strong and 'civilized' to justify colonization.",
   "id": "wh-barrons-t2-010",
+  "skill_code": "4.A",
+  "topic_code": "6.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Siam sought survival, not its own empire.",
@@ -309,6 +329,8 @@
   "difficulty": "medium",
   "explanation": "Like Siam, Meiji Japan kept its independence by deliberately adopting Western military, industrial, and administrative models. China, India, and Burma all fell under varying degrees of Western domination in this period.",
   "id": "wh-barrons-t2-011",
+  "skill_code": "5.A",
+  "topic_code": "6.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Qing China suffered foreign spheres of influence and unequal treaties.",
@@ -339,6 +361,8 @@
   "difficulty": "medium",
   "explanation": "The reforms worked: while Britain took Burma and France took Indochina, Siam negotiated, modernized, and survived as the region's one state never placed under formal colonial rule.",
   "id": "wh-barrons-t2-012",
+  "skill_code": "1.A",
+  "topic_code": "6.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Siam ceded some border territories but was never partitioned.",
@@ -369,6 +393,8 @@
   "difficulty": "medium",
   "explanation": "The speaker literally embodies both grandfathers — African and Spanish — and ends by joining them in an embrace 'of equal size.' The poem presents Latin American identity as born from the painful fusion of these two heritages.",
   "id": "wh-barrons-t2-013",
+  "skill_code": "3.A",
+  "topic_code": "8.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The embrace of the two grandfathers symbolizes the mixed African-European roots of Latin American identity.",
@@ -400,6 +426,8 @@
   "difficulty": "medium",
   "explanation": "Ships carried enslaved Africans ('so many Blacks') to cut sugar cane ('so much resplendent cane') under 'the trader's whip.' The lines describe the Atlantic slave trade feeding Caribbean sugar plantations, Cuba's colonial economy.",
   "id": "wh-barrons-t2-014",
+  "skill_code": "1.A",
+  "topic_code": "8.6",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The poem's ships belong to the slave-trade era, not twentieth-century commerce.",
@@ -431,6 +459,8 @@
   "difficulty": "hard",
   "explanation": "The poem denounces 'the trader's whip' and the dying cries of the black grandfather, yet ends with the speaker joining both grandfathers in an embrace. Guillén condemns the violence while accepting both ancestries as his own.",
   "id": "wh-barrons-t2-015",
+  "skill_code": "3.A",
+  "topic_code": "8.6",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The poem portrays conquest as cruel — galleons 'burning for gold,' coasts 'deceived.'",
@@ -461,6 +491,8 @@
   "difficulty": "hard",
   "explanation": "The poem traces Latin American identity to African and Spanish ancestors only. Indigenous peoples — a third major root of the region's population and culture — are absent, which limits the poem as a complete picture.",
   "id": "wh-barrons-t2-016",
+  "skill_code": "2.C",
+  "topic_code": "8.6",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Chinese laborers, though present in Cuba, were a smaller part of the region's heritage than indigenous peoples.",
@@ -492,6 +524,8 @@
   "difficulty": "medium",
   "explanation": "Da Gama's ships are heading for India and ask for 'a pilot to guide them to India.' The voyage's purpose was commercial: finding an ocean route to Asian markets that bypassed the overland routes controlled by Muslim and Venetian middlemen.",
   "id": "wh-barrons-t2-017",
+  "skill_code": "4.A",
+  "topic_code": "4.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The passage mentions no missionaries or conversions.",
@@ -523,6 +557,8 @@
   "difficulty": "hard",
   "explanation": "The chronicler calls the Portuguese 'corrupt' men who came 'to seize' the land and ends with 'God curse it!' A historian must treat claims of motive from so hostile a source with caution — the author's anger may color his account of what the Portuguese intended.",
   "id": "wh-barrons-t2-018",
+  "skill_code": "2.C",
+  "topic_code": "4.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passage's open hostility is exactly the kind of bias a historian must weigh when using it.",
@@ -554,6 +590,8 @@
   "difficulty": "medium",
   "explanation": "Da Gama needed a local pilot because Portugal aimed to sail the Indian Ocean itself. The voyage led to a Portuguese network of fortified ports and sea lanes linking Europe to Asia — a trading-post empire, not a land empire.",
   "id": "wh-barrons-t2-019",
+  "skill_code": "1.B",
+  "topic_code": "4.4",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Portugal never conquered India's interior kingdoms.",
@@ -584,6 +622,8 @@
   "difficulty": "medium",
   "explanation": "A Māori leader wears a European suit while keeping his traditional tattoos; a British officer poses in Indian dress. Each portrait shows someone adopting the other's culture — evidence that imperial contact changed both sides, not just the colonized.",
   "id": "wh-barrons-t2-020",
+  "skill_code": "5.A",
+  "topic_code": "6.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Ngatata's tattoos show he kept Māori tradition alongside the suit.",
@@ -615,6 +655,8 @@
   "difficulty": "medium",
   "explanation": "Ngatata entered the colonial legislature — the system imposed by Britain — while his facial tattoos publicly marked him as Māori. The combination reads as a political choice: engage the new institutions without surrendering who he was.",
   "id": "wh-barrons-t2-021",
+  "skill_code": "3.A",
+  "topic_code": "6.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. There is no evidence of such a law; his dress was his own choice.",
@@ -646,6 +688,8 @@
   "difficulty": "hard",
   "explanation": "In the 1760s the British East India Company was still mainly a trading concern, and men like Foote lived among Indian society. Choosing Indian dress for a formal portrait suggests genuine interest or admiration — before later Victorian attitudes hardened into rigid racial separation.",
   "id": "wh-barrons-t2-022",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. A formal portrait in Indian dress signals real engagement with Indian culture in the early Company period.",
@@ -677,6 +721,8 @@
   "difficulty": "medium",
   "explanation": "Foote, an officer of the more powerful culture, adopted the dress of the people Britain was coming to dominate. Modern historians would note the imbalance: borrowing by the powerful from the less powerful carries different weight than equal exchange.",
   "id": "wh-barrons-t2-023",
+  "skill_code": "5.A",
+  "topic_code": "6.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Wearing Indian dress for a portrait did not mean abandoning British identity.",
@@ -707,6 +753,8 @@
   "difficulty": "medium",
   "explanation": "An anthem praising 'our workers' air force, the first in the world' turns a military branch into a source of collective pride. The early Soviet state used songs, posters, and poems like this to bind citizens emotionally to the revolution.",
   "id": "wh-barrons-t2-024",
+  "skill_code": "3.A",
+  "topic_code": "8.4",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The anthem celebrates the air force; it would attract, not discourage, recruits.",
@@ -738,6 +786,8 @@
   "difficulty": "medium",
   "explanation": "Early Soviet ideology held that a backward Russia could be transformed by mastering nature through industry and technology — conquering the country's vast distances was part of conquering backwardness itself.",
   "id": "wh-barrons-t2-025",
+  "skill_code": "1.A",
+  "topic_code": "8.4",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The space program began decades later, in the 1950s.",
@@ -769,6 +819,8 @@
   "difficulty": "medium",
   "explanation": "The Bolsheviks claimed to rule in the name of workers. Calling the air force the 'workers' air force' wrapped a military institution in that legitimacy, making national defense feel like the workers' own cause.",
   "id": "wh-barrons-t2-026",
+  "skill_code": "3.A",
+  "topic_code": "8.4",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The phrase links the military to the regime's core claim — that it embodied the working class.",
@@ -800,6 +852,8 @@
   "difficulty": "hard",
   "explanation": "The anthem is plain-spoken, heroic, and optimistic about the Soviet project. Under Stalin, this became the official formula — socialist realism: art had to be accessible to ordinary people and serve socialist ideals, while experimental styles were suppressed.",
   "id": "wh-barrons-t2-027",
+  "skill_code": "4.A",
+  "topic_code": "8.4",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Stalin's regime suppressed abstract and experimental art.",
@@ -831,6 +885,8 @@
   "difficulty": "medium",
   "explanation": "Forests pull carbon dioxide out of the air as they grow; destroying them both releases stored carbon and removes future absorption. Faster tree-cover loss therefore directly accelerates the buildup of greenhouse gases.",
   "id": "wh-barrons-t2-028",
+  "skill_code": "1.B",
+  "topic_code": "9.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Ozone depletion is caused by industrial chemicals, not deforestation.",
@@ -861,6 +917,8 @@
   "difficulty": "hard",
   "explanation": "The chart shows the change in the rate of loss — the acceleration. It tells us the pace is quickening and where, but says nothing about the total forest area left standing.",
   "id": "wh-barrons-t2-029",
+  "skill_code": "3.B",
+  "topic_code": "9.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The chart's whole point is showing whether the pace is speeding up.",
@@ -891,6 +949,8 @@
   "difficulty": "medium",
   "explanation": "Oil palm grows in the humid tropics shown on the map, and plantations require clear-cutting forest first. Soaring global demand for palm oil — used in processed foods and cosmetics — has made it a leading driver of tropical deforestation.",
   "id": "wh-barrons-t2-030",
+  "skill_code": "4.A",
+  "topic_code": "9.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Oil palm plantations in Southeast Asia, Africa, and South America are a primary cause of tropical forest clearing.",
@@ -922,6 +982,8 @@
   "difficulty": "hard",
   "explanation": "Acceleration measures whether the rate itself is rising. A region can lose huge areas every year yet not appear on this chart if its annual loss stays constant — the rate isn't accelerating even though the damage continues.",
   "id": "wh-barrons-t2-031",
+  "skill_code": "3.B",
+  "topic_code": "9.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Total prior loss doesn't determine whether the current rate is accelerating.",
@@ -952,6 +1014,8 @@
   "difficulty": "medium",
   "explanation": "Both authors insist women should stay out of 'participation in power.' The direct rebuttal came from the organized suffrage movements of the late 1800s, which demanded exactly what Bushnell and Comte said women should shun — the vote.",
   "id": "wh-barrons-t2-032",
+  "skill_code": "4.A",
+  "topic_code": "6.8",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Household devices changed domestic labor, not women's exclusion from politics.",
@@ -983,6 +1047,8 @@
   "difficulty": "medium",
   "explanation": "Both authors flatter women — 'angelic,' 'priestesses of humanity' — and then use that flattery as the reason women are too pure for the dirty world of politics and business. The praise is the mechanism of the exclusion.",
   "id": "wh-barrons-t2-033",
+  "skill_code": "3.A",
+  "topic_code": "6.8",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Neither author argues from physical weakness.",
@@ -1013,6 +1079,8 @@
   "difficulty": "hard",
   "explanation": "Bushnell, a minister, frames women's subordination as a moral and religious matter; Comte, a sociologist, frames it as the rational structure of a properly ordered society. Same conclusion, different foundations — faith versus would-be science.",
   "id": "wh-barrons-t2-034",
+  "skill_code": "2.A",
+  "topic_code": "6.8",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The minister argues from religion and morals; the sociologist argues from his 'science' of society.",
@@ -1043,6 +1111,8 @@
   "difficulty": "medium",
   "explanation": "Both passages confine women's influence to the home and family — Bushnell's 'field of peace,' Comte's 'family circle' — while praising their moral nature. That is the nineteenth-century cult of domesticity: women as the moral center of the private sphere, excluded from the public one.",
   "id": "wh-barrons-t2-035",
+  "skill_code": "4.A",
+  "topic_code": "6.8",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Neither author imagines women in armies.",
@@ -1074,6 +1144,8 @@
   "difficulty": "hard",
   "explanation": "Repeating rifles and machine guns let small European forces defeat larger African armies, while quinine and other malaria treatments let Europeans survive in the interior. Without these industrial-era advantages, the partition shown on the map would have been impossible.",
   "id": "wh-barrons-t2-036",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Borders were drawn by Europeans, often at the Berlin Conference, not at African invitation.",
@@ -1104,6 +1176,8 @@
   "difficulty": "medium",
   "explanation": "The straight-line borders on the map slice through kingdoms and ethnic groups alike — the signature of boundaries drawn by distant Europeans, at conferences like Berlin (1884–85), without consulting the Africans who lived within them.",
   "id": "wh-barrons-t2-037",
+  "skill_code": "1.A",
+  "topic_code": "6.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Africans were not present at the Berlin Conference.",
@@ -1134,6 +1208,8 @@
   "difficulty": "hard",
   "explanation": "Conrad worked in the Congo and wrote Heart of Darkness (1899) about the greed and brutality of the colonial enterprise there. The novel became one of the most famous literary attacks on the abuses of the Congo Free State.",
   "id": "wh-barrons-t2-038",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Heart of Darkness drew directly on Conrad's experience of the Congo's brutal labor regime.",
@@ -1165,6 +1241,8 @@
   "difficulty": "medium",
   "explanation": "In 1896 Emperor Menelik II's army crushed the Italian invaders at Adwa — one of the rare nineteenth-century cases of an African state decisively defeating a European power. The victory forced Europe to recognize Ethiopian independence.",
   "id": "wh-barrons-t2-039",
+  "skill_code": "1.B",
+  "topic_code": "6.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. It was Liberia, not Ethiopia, that had American patronage.",
@@ -1195,6 +1273,8 @@
   "difficulty": "medium",
   "explanation": "Lin wrote in 1839 as he confiscated British opium at Canton. His actions triggered Britain's military response — the First Opium War (1839–42), which ended with the Treaty of Nanjing.",
   "id": "wh-barrons-t2-040",
+  "skill_code": "4.A",
+  "topic_code": "6.5",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The Boxer Rebellion came sixty years later, in 1900.",
@@ -1226,6 +1306,8 @@
   "difficulty": "hard",
   "explanation": "Lin's whole argument is an appeal to consistency: Britain bans opium at home because it knows the drug is harmful, so it should be ashamed to sell it abroad. The argument only works if he assumes Britain cares about living up to its own standards.",
   "id": "wh-barrons-t2-041",
+  "skill_code": "3.A",
+  "topic_code": "6.5",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Lin makes no military threats in this passage.",
@@ -1257,6 +1339,8 @@
   "difficulty": "medium",
   "explanation": "Britain bought enormous quantities of Chinese tea and silk, but China wanted almost nothing Britain made, so silver flowed east. Opium — grown in British India — was the one product that sold in China, and it reversed the flow of silver.",
   "id": "wh-barrons-t2-042",
+  "skill_code": "4.B",
+  "topic_code": "6.5",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The trade imbalance drove Britain to find something, anything, that Chinese buyers would purchase.",
@@ -1287,6 +1371,8 @@
   "difficulty": "medium",
   "explanation": "Britain won the war decisively. The Treaty of Nanjing (1842) forced China to open ports to British trade, cede Hong Kong, and grant extraterritoriality — the first of the 'unequal treaties' that defined China's nineteenth century.",
   "id": "wh-barrons-t2-043",
+  "skill_code": "1.B",
+  "topic_code": "6.5",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Westerners gained more access to China, not less.",
@@ -1318,6 +1404,8 @@
   "difficulty": "medium",
   "explanation": "Spanish authorities demanded Catholic worship, but Andean peoples poured their own meanings into it — seeing the Virgin in their mountain goddess Pachamama. The painting shows indigenous belief surviving inside the colonizer's religion.",
   "id": "wh-barrons-t2-044",
+  "skill_code": "3.A",
+  "topic_code": "4.5",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Missionaries did not abandon Catholicism; the blending came from the Andean side.",
@@ -1349,6 +1437,8 @@
   "difficulty": "medium",
   "explanation": "The painting is neither purely European nor purely Andean — it is both at once. That blending of traditions under colonial rule is the broader pattern historians call syncretism, visible across religion, art, and language in Spanish America.",
   "id": "wh-barrons-t2-045",
+  "skill_code": "5.A",
+  "topic_code": "4.5",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The painting proves indigenous beliefs were not erased — they were woven into the new art.",
@@ -1379,6 +1469,8 @@
   "difficulty": "medium",
   "explanation": "Cerro Rico's silver made Potosí one of the world's great mining centers. Its output flowed through Spanish trade networks to Europe and — via Manila — to China, tying the Americas into a genuinely global economy.",
   "id": "wh-barrons-t2-046",
+  "skill_code": "4.A",
+  "topic_code": "4.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Potosí silver was the engine of the early modern global silver trade.",
@@ -1409,6 +1501,8 @@
   "difficulty": "hard",
   "explanation": "Like the Potosí painting, Haitian Vodou grew where an imposed Catholicism met African beliefs: enslaved Africans identified their spirits with Catholic saints, creating a blended religion. Both are products of religious fusion under colonial conditions.",
   "id": "wh-barrons-t2-047",
+  "skill_code": "5.A",
+  "topic_code": "4.5",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Lutheranism was a reform movement within European Christianity, not a fusion of two cultures.",
@@ -1440,6 +1534,8 @@
   "difficulty": "medium",
   "explanation": "Wagner argues that by portraying thuggee as a vast, terrifying conspiracy that only he could dismantle, Sleeman made himself indispensable — turning a law-enforcement campaign into a career-building performance for his superiors.",
   "id": "wh-barrons-t2-048",
+  "skill_code": "3.A",
+  "topic_code": "6.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Parliament never abolished the caste system.",
@@ -1471,6 +1567,8 @@
   "difficulty": "hard",
   "explanation": "Wagner takes a story the British told about themselves — heroic officials crushing a murderous cult — and dismantles it by exposing exaggerations in the colonial sources. Reexamining accepted narratives with a critical eye is what historians mean by revisionism.",
   "id": "wh-barrons-t2-049",
+  "skill_code": "2.A",
+  "topic_code": "6.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Wagner is a modern historian analyzing sources, not a participant writing a memoir.",
@@ -1501,6 +1599,8 @@
   "difficulty": "hard",
   "explanation": "The standard story — brave Britons suppressing the murderous thugs — cast empire as a rescue mission bringing order to a chaotic India. If the danger was largely invented, that justification collapses: the 'rescue' was solving a problem the British had exaggerated.",
   "id": "wh-barrons-t2-050",
+  "skill_code": "6.D",
+  "topic_code": "6.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The thuggee campaign was Exhibit A for the claim that empire brought order; Wagner removes the exhibit.",
@@ -1532,6 +1632,8 @@
   "difficulty": "medium",
   "explanation": "British interference with Indian customs — from the thuggee and sati campaigns to the greased cartridges rumored to violate Hindu and Muslim practice — built the resentment that exploded in the 1857 uprising, the largest revolt against British rule in the nineteenth century.",
   "id": "wh-barrons-t2-051",
+  "skill_code": "1.B",
+  "topic_code": "6.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The Congress was founded decades later as a political organization, not an armed revolt.",
@@ -1562,6 +1664,8 @@
   "difficulty": "medium",
   "explanation": "Fukuzawa argues Japan has already moved 'to the Western civilization' and must 'cast our lot with the civilized nations of the West.' For Meiji reformers, imitating the West was not admiration alone — it was survival, the only way to avoid China's fate.",
   "id": "wh-barrons-t2-052",
+  "skill_code": "3.A",
+  "topic_code": "6.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Fukuzawa explicitly rejects isolation; he wants engagement with the West.",
@@ -1593,6 +1697,8 @@
   "difficulty": "medium",
   "explanation": "Fukuzawa contrasts Japan's turn toward 'Western civilization' with neighbors stuck in 'ancient ways.' The implied program is the Meiji one: remake Japan's military, industry, and government on Western models as fast as possible.",
   "id": "wh-barrons-t2-053",
+  "skill_code": "1.A",
+  "topic_code": "6.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The Meiji reforms dismantled samurai power; Fukuzawa opposed the old order.",
@@ -1624,6 +1730,8 @@
   "difficulty": "medium",
   "explanation": "'Good-Bye Asia' is a leading intellectual's manifesto for the Meiji project: Japan should stop identifying with a 'backward' Asia and join the West. Historians cite it as a classic statement of the era's Westernizing ideology.",
   "id": "wh-barrons-t2-054",
+  "skill_code": "4.A",
+  "topic_code": "6.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passage is a primary-source expression of Meiji Westernization.",
@@ -1654,6 +1762,8 @@
   "difficulty": "hard",
   "explanation": "Japan learned the West's methods — including imperialism. The modernized military and industry Fukuzawa championed became the tools with which Japan seized Taiwan, Korea, and later much of East Asia, imitating the very empires it had feared.",
   "id": "wh-barrons-t2-055",
+  "skill_code": "1.B",
+  "topic_code": "6.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Japan fought in both world wars — against Germany in WWI and as an Axis power in WWII.",

@@ -3,6 +3,8 @@
   "difficulty": "medium",
   "explanation": "Bloch admits that historians never witness the past directly, but he is optimistic: new evidence and better methods keep improving what we know, as shown by the recovery of ancient Egypt and Mesopotamia. The passage never claims knowledge is impossible, and it does not call for laboratory science.",
   "id": "wh-barrons-t3-001",
+  "skill_code": "3.A",
+  "topic_code": "8.9",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Bloch calls knowledge of the past 'indirect,' not impossible; the whole passage stresses progress, not futility.",
@@ -33,6 +35,8 @@
   "difficulty": "medium",
   "explanation": "The magistrate image captures Bloch's central point: the historian was not there, so the work consists of weighing witness accounts and reconstructing what happened from them. It is about method, not about passing judgment or achieving eyewitness certainty.",
   "id": "wh-barrons-t3-002",
+  "skill_code": "3.A",
+  "topic_code": "8.9",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Bloch uses the magistrate as an image of investigation, not of sentencing or moral judgment.",
@@ -63,6 +67,8 @@
   "difficulty": "hard",
   "explanation": "Bloch names Egypt and Mesopotamia — civilizations recovered through excavation and the deciphering of hieroglyphs and cuneiform in the 1800s. Those breakthroughs literally brought lost peoples back into history, exactly the 'shadows' image he uses.",
   "id": "wh-barrons-t3-003",
+  "skill_code": "4.A",
+  "topic_code": "8.9",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Excavation plus decipherment recovered Egypt and Mesopotamia — the very examples Bloch gives.",
@@ -94,6 +100,8 @@
   "difficulty": "medium",
   "explanation": "The engraving centers on a domesticated reindeer used as a pack animal, managed by a herder — the hallmark of pastoralism, in which a community's livelihood depends on tending and moving with animal herds. There is no sign of plowed fields, plantations, or factories.",
   "id": "wh-barrons-t3-004",
+  "skill_code": "1.A",
+  "topic_code": "5.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Nothing in the image suggests plowed fields or settled grain farming; the focus is entirely on the herd animal.",
@@ -125,6 +133,8 @@
   "difficulty": "medium",
   "explanation": "A pack reindeer is a traveling animal: herders load their goods onto the herd and follow its grazing needs across the terrain. That mobility is the defining feature of pastoral life, and it is the only inference the image's details actually support.",
   "id": "wh-barrons-t3-005",
+  "skill_code": "3.A",
+  "topic_code": "5.7",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The remote mountain setting and the traveling pack animal point away from settled city life.",
@@ -155,6 +165,8 @@
   "difficulty": "hard",
   "explanation": "Like the Sami, the Cossacks were a semi-autonomous frontier people living by herding, hunting, and military service on the edges of a centralizing state — in their case, the Russian Empire. The other groups were urban industrial, plantation-owning, or feudal-elite populations with entirely different relationships to the state.",
   "id": "wh-barrons-t3-006",
+  "skill_code": "5.A",
+  "topic_code": "5.7",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Manchester factory workers were urban wage laborers inside an industrial economy — the opposite of a remote herding life.",
@@ -186,6 +198,8 @@
   "difficulty": "medium",
   "explanation": "As modern nation-states consolidated control over their territories in the 1900s, small frontier peoples like the Sami were typically absorbed as minorities within Norway, Sweden, Finland, and Russia — losing autonomy but surviving. They neither built empires nor vanished, and their way of life could not continue untouched by railways, borders, and schools.",
   "id": "wh-barrons-t3-007",
+  "skill_code": "4.A",
+  "topic_code": "5.7",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The Sami had neither the numbers, technology, nor organization to conquer neighboring states.",
@@ -217,6 +231,8 @@
   "difficulty": "medium",
   "explanation": "Aguinaldo calls the Americans 'our redeemers' and urges Filipinos to rally to the American flag, expecting U.S. help against Spain. His disappointment came later, when Washington chose annexation instead — but in 1898 he was welcoming an ally.",
   "id": "wh-barrons-t3-008",
+  "skill_code": "2.A",
+  "topic_code": "6.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Aguinaldo hoped for American help; immediate annexation was the outcome he did not yet foresee.",
@@ -247,6 +263,8 @@
   "difficulty": "medium",
   "explanation": "Aguinaldo speaks of independence within reach; McKinley speaks of 'the lawful rule we have assumed' and 'benevolent assimilation' — the language of a government taking charge. The two men are describing different futures: liberation versus American administration.",
   "id": "wh-barrons-t3-009",
+  "skill_code": "3.C",
+  "topic_code": "6.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. McKinley assumes the United States will govern the islands — 'the lawful rule we have assumed' — while Aguinaldo expects independence.",
@@ -277,6 +295,8 @@
   "difficulty": "medium",
   "explanation": "Aguinaldo expected an ally; McKinley announced American rule. When Filipinos resisted annexation, the result was the Philippine-American War (1899-1902), a brutal conflict that killed hundreds of thousands of Filipinos. None of the peaceful outcomes occurred.",
   "id": "wh-barrons-t3-010",
+  "skill_code": "1.B",
+  "topic_code": "6.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. No treaty made the Philippines a state; Congress explicitly ruled that out.",
@@ -307,6 +327,8 @@
   "difficulty": "hard",
   "explanation": "The United States defeated Spain in 1898 calling itself a liberator, then fought a colonial war to keep the Philippines. That contradiction sits uneasily with the American story of anti-colonial origins, so the episode gets little attention in popular memory.",
   "id": "wh-barrons-t3-011",
+  "skill_code": "4.B",
+  "topic_code": "6.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The war lasted three years and involved heavy fighting and atrocities — it was not brief or bloodless.",
@@ -338,6 +360,8 @@
   "difficulty": "medium",
   "explanation": "The header says 'per person' growth — each figure is the annual rate at which the average inhabitant's share of output grew, not the region's total production. Confusing per-capita growth with total output is the classic misreading of this kind of table.",
   "id": "wh-barrons-t3-012",
+  "skill_code": "3.B",
+  "topic_code": "8.9",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Nothing in the table concerns population size or its growth; every column is about output.",
@@ -368,6 +392,8 @@
   "difficulty": "medium",
   "explanation": "Between 1820 and 1913 the United States industrialized at extraordinary speed — railroads, steel, and factories — and because the U.S. economy dominated the hemisphere, the whole region's per-person growth led the world. The other factors mattered, but none produced growth on this scale.",
   "id": "wh-barrons-t3-013",
+  "skill_code": "1.B",
+  "topic_code": "6.4",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Independence movements were political events of the early 1800s; they did not by themselves generate a century of economic growth.",
@@ -399,6 +425,8 @@
   "difficulty": "hard",
   "explanation": "Europe's 1913-1950 rate was depressed by two world wars fought on its soil; the 1950-1970 surge is the rebound — factories rebuilt, trade restored, and in the west, Marshall Plan aid accelerating recovery. Growth looks spectacular partly because it started from rubble.",
   "id": "wh-barrons-t3-014",
+  "skill_code": "4.B",
+  "topic_code": "8.9",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Steam power belongs to the 1700s and early 1800s — a century too early to explain a post-1950 surge.",
@@ -429,6 +457,8 @@
   "difficulty": "medium",
   "explanation": "From 1950 on, Asia's row beats the world average in every period — 3.5 vs 2.8, then 2.1 vs 1.3, then 3.4 vs 2.1. That is Japan's postwar boom, the Asian 'tigers,' and then China and India industrializing. The numbers show modernization, whatever the political system.",
   "id": "wh-barrons-t3-015",
+  "skill_code": "3.A",
+  "topic_code": "8.9",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Asia outgrew the world average in every period after 1950 — the statistical signature of rapid industrialization.",
@@ -459,6 +489,8 @@
   "difficulty": "medium",
   "explanation": "Samarkand, Bukhara, and Transoxiana fell to the Mongols around 1220, in the first great wave of conquest led by Genghis Khan. Timur campaigned in the same region but nearly two centuries later; the Crusades and the Ottoman capture of Constantinople belong to different places and times.",
   "id": "wh-barrons-t3-016",
+  "skill_code": "1.A",
+  "topic_code": "2.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Timur's campaigns came around 1400, almost two centuries after Ibn al-Athir wrote.",
@@ -489,6 +521,8 @@
   "difficulty": "hard",
   "explanation": "Ibn al-Athir lived in Mosul, far from the steppe; his lurid details about sun worship and marriage customs read like travelers' tales amplified by terror. A historian can trust him on the invasion's scale but should verify the ethnographic claims against other evidence.",
   "id": "wh-barrons-t3-017",
+  "skill_code": "2.C",
+  "topic_code": "2.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Ibn al-Athir was a Muslim scholar in Mesopotamia, horrified by the invaders — not one of them.",
@@ -519,6 +553,8 @@
   "difficulty": "medium",
   "explanation": "Around 1220 the Crusader states still held coastal strongholds in the Levant, and new crusades were being preached — the Fifth Crusade was underway. For a Muslim scholar in Mosul, the Franks in Syria-Palestine were the other great military preoccupation of the age.",
   "id": "wh-barrons-t3-018",
+  "skill_code": "4.A",
+  "topic_code": "2.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The Reformation began in 1517, three centuries after Ibn al-Athir wrote.",
@@ -550,6 +586,8 @@
   "difficulty": "medium",
   "explanation": "The invasion Ibn al-Athir witnessed kept rolling west. In 1258 Hülegü's Mongol army stormed Baghdad, executed the last Abbasid caliph, and ended a caliphate that had lasted five centuries — the catastrophe he had feared.",
   "id": "wh-barrons-t3-019",
+  "skill_code": "1.A",
+  "topic_code": "2.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. In 1258 the Mongols sacked Baghdad and extinguished the Abbasid Caliphate.",
@@ -580,6 +618,8 @@
   "difficulty": "medium",
   "explanation": "The stamp celebrates an artificial satellite and the photograph shows a ballistic missile — both are rockets, devices that travel by expelling exhaust. The other fields are real 20th-century innovations, but neither image belongs to them.",
   "id": "wh-barrons-t3-020",
+  "skill_code": "1.A",
+  "topic_code": "8.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Neither image shows an airplane or anything related to passenger flight.",
@@ -610,6 +650,8 @@
   "difficulty": "medium",
   "explanation": "A Soviet satellite stamp and an American missile photograph, dated a year apart, are two sides of the same contest: each superpower advertising its technological might to intimidate the other. That is Cold War competition in visual form.",
   "id": "wh-barrons-t3-021",
+  "skill_code": "4.A",
+  "topic_code": "8.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. In 1957–58 the space programs were rival showcases, not cooperative ventures.",
@@ -641,6 +683,8 @@
   "difficulty": "medium",
   "explanation": "Sputnik itself was harmless, but the rocket that lifted it proved the USSR could loft heavy payloads across continents. Americans did the math: a rocket that can orbit a satellite can deliver a warhead to Chicago.",
   "id": "wh-barrons-t3-022",
+  "skill_code": "1.B",
+  "topic_code": "8.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. No human had yet flown in space in 1957; Gagarin's flight came in 1961.",
@@ -672,6 +716,8 @@
   "difficulty": "medium",
   "explanation": "The missile-and-satellite rivalry of the late 1950s matured into decades of nuclear standoff, then wound down through arms-control treaties and the Soviet collapse of 1991. The other options contradict the record: only Americans walked on the moon, the programs competed for decades, and several other states built nuclear arsenals.",
   "id": "wh-barrons-t3-023",
+  "skill_code": "4.A",
+  "topic_code": "8.8",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The superpowers competed fiercely in space for decades before cooperating.",
@@ -702,6 +748,8 @@
   "difficulty": "medium",
   "explanation": "Durant claims religion saturated medieval life, while the monks' own song shows them drinking heartily in taverns. Together they depict a society where Christianity was central yet imperfectly obeyed — devotion mixed with ordinary human appetites.",
   "id": "wh-barrons-t3-024",
+  "skill_code": "3.C",
+  "topic_code": "1.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passages together show a deeply religious culture in which even monks fell short of the ideal.",
@@ -732,6 +780,8 @@
   "difficulty": "medium",
   "explanation": "The singers identify priests drinking alongside everyone else — they have not left the Church, but they are plainly ignoring its rules about clerical behavior. The song is evidence of imperfect discipline, not of unbelief or rebellion.",
   "id": "wh-barrons-t3-025",
+  "skill_code": "3.D",
+  "topic_code": "1.6",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The song never suggests the monks stopped being Christians; they drank, they did not preach heresy.",
@@ -762,6 +812,8 @@
   "difficulty": "hard",
   "explanation": "Durant generalizes about what 'the age' believed, but the vast majority of medieval people were illiterate peasants who wrote nothing down. Church records tell us what clergy preached and recorded, not what ordinary people inwardly believed.",
   "id": "wh-barrons-t3-026",
+  "skill_code": "2.C",
+  "topic_code": "1.6",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Medieval churches and monasteries were the great record-keepers of the age.",
@@ -792,6 +844,8 @@
   "difficulty": "medium",
   "explanation": "The Goliards were young scholar-clerics — educated men in minor orders who wrote Latin verse. Their drinking songs show them sampling tavern life, which the Church condemned, while remaining within the clerical world. They were neither peasants nor reformers.",
   "id": "wh-barrons-t3-027",
+  "skill_code": "2.A",
+  "topic_code": "1.6",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The song is in Latin and full of clerical references — the work of educated churchmen, not farmers.",
@@ -822,6 +876,8 @@
   "difficulty": "medium",
   "explanation": "In the 1500s, gunpowder weapons invented in China spread across Afro-Eurasia: Ottoman infantry carried muskets, and Japanese soldiers used Portuguese-introduced matchlocks. Two images from opposite ends of Asia showing the same weapon type is technology transfer made visible.",
   "id": "wh-barrons-t3-028",
+  "skill_code": "5.A",
+  "topic_code": "3.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Muskets in both Ottoman and Japanese hands show gunpowder technology spreading across Asia in the 1500s.",
@@ -853,6 +909,8 @@
   "difficulty": "medium",
   "explanation": "The janissaries were the Ottoman sultan's standing infantry, recruited through the devshirme system and among the first troops anywhere to drill with muskets. The match cord in the woodcut is the signature of an early firearm infantryman, not a horseman.",
   "id": "wh-barrons-t3-029",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The figure is on foot with a musket; Ottoman cavalry (sipahis) were a separate, horse-mounted force.",
@@ -884,6 +942,8 @@
   "difficulty": "medium",
   "explanation": "After unifying Japan, the Tokugawa shogunate saw firearms as a threat to the samurai-dominated order and clamped down: production was restricted and guns were kept from commoners and rival lords. Restriction preserved peace — it did not mean the weapons vanished or had failed.",
   "id": "wh-barrons-t3-030",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The shogunate did the opposite, keeping firearms out of peasant hands to protect the social hierarchy.",
@@ -914,6 +974,8 @@
   "difficulty": "hard",
   "explanation": "The disease argument does not deny that guns existed — it claims they mattered less than epidemics. Schmidel pushes back with a vivid battlefield scene: gunfire alone routing warriors who had never seen firearms. It complicates the disease thesis without disproving it.",
   "id": "wh-barrons-t3-031",
+  "skill_code": "6.D",
+  "topic_code": "4.4",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Schmidel describes taking captives as slaves but never discusses converting anyone to Christianity.",
@@ -945,6 +1007,8 @@
   "difficulty": "medium",
   "explanation": "Acosta was a Spanish Jesuit writing about rituals he learned of secondhand; his lurid precision ('tore out his heart while half alive') comes from reports, not attendance. Secondhand testimony can still be useful, but it is the clearest limit on the passage.",
   "id": "wh-barrons-t3-032",
+  "skill_code": "2.C",
+  "topic_code": "4.4",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Acosta describes ceremonies he never witnessed himself, so his details rest on hearsay.",
@@ -975,6 +1039,8 @@
   "difficulty": "hard",
   "explanation": "Both writers were agents or allies of Spanish expansion, and both paint Indigenous peoples as savage — man-eaters in Paraguay, mass human sacrificers in Mexico. Such portraits reassured European readers that conquest was a civilizing mission, whether or not the authors stated it outright.",
   "id": "wh-barrons-t3-033",
+  "skill_code": "6.A",
+  "topic_code": "4.4",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Neither passage suggests Europeans should adopt Indigenous religions; both treat them as barbaric.",
@@ -1006,6 +1072,8 @@
   "difficulty": "medium",
   "explanation": "The passage glorifies a unique Japanese national essence centered on a divine emperor and blames Western borrowing for social decay. That combination — extreme devotion to the nation, its traditions, and its ruler — is ultranationalism, the ideology of 1930s militarist Japan.",
   "id": "wh-barrons-t3-034",
+  "skill_code": "1.A",
+  "topic_code": "7.6",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Nothing here criticizes private property or calls for workers to seize power; the passage defends hierarchy.",
@@ -1037,6 +1105,8 @@
   "difficulty": "medium",
   "explanation": "The passage opens by blaming Japan's ills on 'importing European and American learning, culture, and institutions too quickly' while neglecting native foundations. It assumes Japan already industrialized successfully — its complaint is cultural, not economic.",
   "id": "wh-barrons-t3-035",
+  "skill_code": "3.A",
+  "topic_code": "7.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passage explicitly blames hasty Western borrowing and neglected traditions for Japan's ills.",
@@ -1068,6 +1138,8 @@
   "difficulty": "medium",
   "explanation": "The divine descent of the emperor is invoked to demand that 'all the people... obey the imperial will.' Religion here is a political tool: State Shinto supplied the sacred authority behind obedience to the regime.",
   "id": "wh-barrons-t3-036",
+  "skill_code": "3.A",
+  "topic_code": "7.6",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The passage promotes the native imperial cult, not Buddhist meditation.",
@@ -1099,6 +1171,8 @@
   "difficulty": "medium",
   "explanation": "The passage discusses Germany's war of extermination against the Herero people in its African colony — a colonial administration destroying an Indigenous population. That is colonial violence, whatever the legal debate surrounding it.",
   "id": "wh-barrons-t3-037",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The German-Herero War of 1904–1907 predates the Cold War by half a century.",
@@ -1129,6 +1203,8 @@
   "difficulty": "hard",
   "explanation": "The author quotes the standard defense — 'genocide was only criminalized in 1948, so earlier colonial killings broke no law' — and then attacks it, arguing that prohibitions already existed in customary law and treaties. The whole article is a rebuttal of that ex-post-facto defense.",
   "id": "wh-barrons-t3-038",
+  "skill_code": "6.A",
+  "topic_code": "6.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The passage's assumption is precisely this: that extermination campaigns before 1948 broke no international law because genocide was not yet a defined crime.",
@@ -1159,6 +1235,8 @@
   "difficulty": "medium",
   "explanation": "The article's title speaks of 'redress' and a Herero 'cause of action against Germany' — legal language for seeking a remedy. In practice that means an official apology, compensation, or both for the descendants of victims, not punishment of ordinary citizens today.",
   "id": "wh-barrons-t3-039",
+  "skill_code": "6.A",
+  "topic_code": "6.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The argument concerns moral and legal responsibility of the state, not criminal trials of individuals alive today.",
@@ -1190,6 +1268,8 @@
   "difficulty": "medium",
   "explanation": "The painting shows workers dredging lake mud, weaving reed frames, and building rectangular plots — a massive, deliberate reshaping of the lake bed to create farmland. That is environmental transformation for food production on a grand scale.",
   "id": "wh-barrons-t3-040",
+  "skill_code": "1.A",
+  "topic_code": "3.4",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. The scene shows local farmers working their own plots; no imported grain is in evidence.",
@@ -1221,6 +1301,8 @@
   "difficulty": "medium",
   "explanation": "Intensive agriculture means getting very high yields from limited land through heavy labor and inputs. Chinampas did exactly that: small raised beds, constantly tended, fertilized with nutrient-rich lake mud, producing multiple harvests a year.",
   "id": "wh-barrons-t3-041",
+  "skill_code": "1.B",
+  "topic_code": "3.1",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. There were no tractors in 1500; the work was done entirely by human labor.",
@@ -1252,6 +1334,8 @@
   "difficulty": "medium",
   "explanation": "Chinampas were Mesoamerican garden plots, and Mesoamerican farmers grew the classic trio of maize, beans, and squash. Wheat, barley, rice, sugarcane, and coffee all arrived with Europeans or belong to other continents.",
   "id": "wh-barrons-t3-042",
+  "skill_code": "4.A",
+  "topic_code": "3.4",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Wheat and barley are Old World grains, brought to the Americas by Europeans.",
@@ -1282,6 +1366,8 @@
   "difficulty": "hard",
   "explanation": "Both lines were strategic imperial projects: Britain wanted an all-British corridor the length of Africa, Germany wanted a land route to the Ottoman Empire and the Persian Gulf. Railroads let empires move soldiers quickly, ship resources out, and mark territory as theirs.",
   "id": "wh-barrons-t3-043",
+  "skill_code": "4.A",
+  "topic_code": "6.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. These railways were tools of imperial control — moving troops, extracting resources, and claiming territory.",
@@ -1313,6 +1399,8 @@
   "difficulty": "hard",
   "explanation": "Cecil Rhodes's dream was an unbroken chain of British territory from Cairo to the Cape. German East Africa sat squarely across that corridor, so every mile of German claim was a direct frustration of the British plan — a classic imperial collision.",
   "id": "wh-barrons-t3-044",
+  "skill_code": "5.B",
+  "topic_code": "6.2",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Britain was obsessed with African railways; the whole map is proof of that interest.",
@@ -1343,6 +1431,8 @@
   "difficulty": "medium",
   "explanation": "The two maps show Britain and Germany each trying to carve exclusive spheres of influence across Africa and the Middle East. That scramble for advantage was one of the frictions that made the great powers warier of each other in the years before 1914.",
   "id": "wh-barrons-t3-045",
+  "skill_code": "1.B",
+  "topic_code": "6.8",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. No Anglo-German alliance resulted; the two powers grew more suspicious, not friendlier.",
@@ -1373,6 +1463,8 @@
   "difficulty": "medium",
   "explanation": "Owen calls patriotic sacrifice 'the old Lie' and dwells on a gas attack's horror; McCrae, writing from the grave, urges the living to 'take up our quarrel.' One poem denounces the war's glorification, the other demands its continuation — opposite attitudes toward carrying on.",
   "id": "wh-barrons-t3-046",
+  "skill_code": "3.C",
+  "topic_code": "7.3",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Both poems describe the same war's weapons — gas, guns, trenches; technology is not what divides them.",
@@ -1403,6 +1495,8 @@
   "difficulty": "medium",
   "explanation": "The dead soldiers hand 'the torch' to the living and warn that breaking faith means they 'shall not sleep.' It is a solemn call to continue their struggle so their deaths are not meaningless — patriotic duty framed as a debt to the fallen.",
   "id": "wh-barrons-t3-047",
+  "skill_code": "3.A",
+  "topic_code": "7.3",
   "key": "A",
   "option_explanations": {
    "A": "Correct. 'Take up our quarrel with the foe' is a direct call to carry on the fight in the dead soldiers' name.",
@@ -1434,6 +1528,8 @@
   "difficulty": "medium",
   "explanation": "Owen addresses 'my friend' — the civilian at home who repeats the Latin tag about the sweetness of dying for one's country 'with such high zest' to eager children. His fury is aimed at those who romanticize war from a safe distance, having never choked in a gas attack themselves.",
   "id": "wh-barrons-t3-048",
+  "skill_code": "2.B",
+  "topic_code": "7.3",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Owen fought the Germans; his anger is directed homeward, at civilian glorifiers of war.",
@@ -1464,6 +1560,8 @@
   "difficulty": "medium",
   "explanation": "The table shows China trading hundreds of billions with the United States and Hong Kong, but also deeply with Japan, South Korea, Taiwan, Germany, and Australia. That is integration across ideological and geographic lines — communist China woven into both Western and Asian economies.",
   "id": "wh-barrons-t3-049",
+  "skill_code": "3.A",
+  "topic_code": "9.4",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The table lists Japan, South Korea, Germany, Australia, and others — none of them communist states.",
@@ -1494,6 +1592,8 @@
   "difficulty": "hard",
   "explanation": "Beijing treats Taiwan as a breakaway province and refuses to recognize its independence, yet the two economies trade nearly $200 billion. The numbers show that even sharp political disputes do not necessarily stop commerce.",
   "id": "wh-barrons-t3-050",
+  "skill_code": "4.A",
+  "topic_code": "9.4",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Heavy trade across the strait coexists with Beijing's refusal to recognize Taiwan — politics and economics diverge.",
@@ -1525,6 +1625,8 @@
   "difficulty": "medium",
   "explanation": "Communist China trades over $500 billion with the capitalist United States — the table's single largest bilateral flow. Whatever divides the two systems politically, the pursuit of economic advantage clearly overrides it.",
   "id": "wh-barrons-t3-051",
+  "skill_code": "6.D",
+  "topic_code": "9.4",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The table confirms China's status as a trading giant; it does not challenge it.",
@@ -1555,6 +1657,8 @@
   "difficulty": "medium",
   "explanation": "Woolsey spoke in 1993 as the incoming CIA director, just after the Soviet Union's 1991 collapse ended the Cold War. The 'dragon' America had spent four decades tracking was the USSR — no other rival fits the date or the scale.",
   "id": "wh-barrons-t3-052",
+  "skill_code": "4.A",
+  "topic_code": "8.8",
   "key": "D",
   "option_explanations": {
    "A": "Wrong. Nazi Germany was destroyed in 1945, nearly fifty years before Woolsey spoke.",
@@ -1585,6 +1689,8 @@
   "difficulty": "medium",
   "explanation": "Woolsey's contrast is between one huge, predictable adversary and a 'bewildering variety' of smaller ones. His warning is that the intelligence task gets harder, not easier, when threats multiply and scatter.",
   "id": "wh-barrons-t3-053",
+  "skill_code": "3.A",
+  "topic_code": "8.8",
   "key": "A",
   "option_explanations": {
    "A": "Correct. A jungle of many small threats is harder to monitor than a single large dragon.",
@@ -1615,6 +1721,8 @@
   "difficulty": "hard",
   "explanation": "The metaphor contrasts one dragon with a 'bewildering variety' of snakes — many small, scattered dangers rather than one giant one. In the 1990s that meant regional wars, ethnic conflicts, terrorism, and rogue states: threats that were individually smaller than the USSR but harder to predict.",
   "id": "wh-barrons-t3-054",
+  "skill_code": "3.A",
+  "topic_code": "8.8",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The 'snakes' are the many diffuse smaller threats — regional wars, terrorism, rogue states — that replaced one big adversary.",
@@ -1645,6 +1753,8 @@
   "difficulty": "medium",
   "explanation": "Woolsey assumed the Soviet threat was gone for good. But post-2000 Russia — nuclear-armed, increasingly anti-Western, and willing to use force against neighbors — looks uncomfortably like the dragon stirring again, which is exactly what his metaphor said would not happen.",
   "id": "wh-barrons-t3-055",
+  "skill_code": "4.A",
+  "topic_code": "8.8",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The EU is an economic and political union of allies, not a revival of the Soviet threat.",

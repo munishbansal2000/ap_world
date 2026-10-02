@@ -3,6 +3,8 @@
     "difficulty": "hard",
     "explanation": "The passage presents the railways as British-financed, profit-guaranteed, and oriented toward moving raw materials out and British goods in — with Indian textiles as the casualty. Infrastructure under the Raj served the imperial economy, not Indian industrialization.",
     "id": "wh-fresh-u6-002",
+    "skill_code": "6.A",
+    "topic_code": "6.5",
     "key": "B",
     "option_explanations": {
       "A": "The passage shows British goods displacing Indian textiles, the opposite of developing Indian industry.",
@@ -34,6 +36,8 @@
     "difficulty": "medium",
     "explanation": "The passage traces a direct line: Lin Zexu's crackdown, British military victory, and the Treaty of Nanjing's concessions — ceded territory, opened ports, extraterritoriality. The war forced China to accept British terms of trade.",
     "id": "wh-fresh-u6-003",
+    "skill_code": "6.A",
+    "topic_code": "6.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct — the defeat led directly to the Treaty of Nanjing's one-sided terms, which opened China on British terms.",
@@ -65,6 +69,8 @@
     "difficulty": "medium",
     "explanation": "The passage presents two distinct responses to industrialization: Japan's top-down state modernization that borrowed selectively from the West while keeping the emperor, and Europe's worker responses split between union reform and Marxist revolution. Each rejected the simplistic readings offered by the other options.",
     "id": "wh-fresh-u6-004",
+    "skill_code": "6.A",
+    "topic_code": "6.4",
     "key": "C",
     "option_explanations": {
       "A": "Japan's leaders deliberately studied and adopted Western industry, law, and education; the borrowing was selective, not a rejection.",
@@ -97,6 +103,8 @@
     "difficulty": "medium",
     "explanation": "Truman was the American president addressing Congress — the body that controls spending — in the first year of the Cold War. He framed aid to Greece and Turkey as one battle in a worldwide struggle so that Congress would fund containment of Soviet influence.",
     "id": "wh-fresh-u8-001",
+    "skill_code": "2.A",
+    "topic_code": "8.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct — Truman's office, his congressional audience, and his freedom-versus-totalitarianism framing all served the purpose of winning support for containment.",
@@ -127,6 +135,8 @@
     "difficulty": "medium",
     "explanation": "The passage deliberately contrasts two routes to independence — India's negotiated transfer with mass campaigns, and Ghana's movement-led victory a decade later — and notes Ghana's inspirational effect. Decolonization was one broad wave but not one single method.",
     "id": "wh-fresh-u8-002",
+    "skill_code": "5.A",
+    "topic_code": "8.5",
     "key": "D",
     "option_explanations": {
       "A": "India's 1947 independence in Asia shows decolonization was not confined to Africa.",
@@ -158,6 +168,8 @@
     "difficulty": "hard",
     "explanation": "The passage shows Washington treating communist victory in China as a threat to be contained: refusing recognition and fighting communists in Korea within a year. The Chinese Revolution did not end the Cold War in Asia — it widened it.",
     "id": "wh-fresh-u8-003",
+    "skill_code": "5.B",
+    "topic_code": "8.4",
     "key": "B",
     "option_explanations": {
       "A": "U.S. refusal to recognize the new government and the Korean War show tensions rising, not ending.",
@@ -189,6 +201,8 @@
     "difficulty": "hard",
     "explanation": "The passage sets up the contrast directly: independence sweeping Africa while South Africa moved the opposite way, codifying racial domination. Apartheid preserved colonial-style racial hierarchy through domestic law after the era of formal empires was ending.",
     "id": "wh-fresh-u8-004",
+    "skill_code": "5.A",
+    "topic_code": "8.5",
     "key": "C",
     "option_explanations": {
       "A": "Apartheid entrenched white-minority rule; it was the opposite of decolonization.",
@@ -220,6 +234,8 @@
     "difficulty": "hard",
     "explanation": "The passage shows the Plan's dual logic: aid rebuilt economies while American officials openly hoped recovery would weaken communism's appeal, and Moscow's veto on Eastern participation split Europe further. It was economic statecraft, not charity alone.",
     "id": "wh-fresh-u8-005",
+    "skill_code": "6.A",
+    "topic_code": "8.2",
     "key": "D",
     "option_explanations": {
       "A": "American officials explicitly tied the aid to making communism less appealing — the political aim was central.",
@@ -251,6 +267,8 @@
     "difficulty": "medium",
     "explanation": "The passage shows Mao building the movement in the countryside on peasant support and land reform, not in the cities. The 1949 victory came from peasant armies — a deliberate adaptation of Marxism to a country with almost no industrial working class.",
     "id": "wh-fresh-u8-006",
+    "skill_code": "6.A",
+    "topic_code": "8.4",
     "key": "A",
     "option_explanations": {
       "A": "Correct — the peasant base, the land-reform promise, and the rural Long March all show a revolution adapted to China's countryside.",
@@ -282,6 +300,8 @@
     "difficulty": "hard",
     "explanation": "The passage distinguishes the two outcomes: communist forces were driven back with heavy losses, yet the gap between official optimism and the televised attacks destroyed public trust. Tet was a battlefield defeat that became a political turning point.",
     "id": "wh-fresh-u8-007",
+    "skill_code": "6.A",
+    "topic_code": "8.2",
     "key": "B",
     "option_explanations": {
       "A": "The passage says the offensive was repelled with heavy communist losses — it was not a military victory.",
@@ -313,6 +333,8 @@
     "difficulty": "medium",
     "explanation": "The passage describes a comprehensive legal system — racial classification, land and job reservation, pass books, police violence — all serving one purpose: keeping political and economic power in white hands. That is the defining structure of apartheid.",
     "id": "wh-fresh-u8-008",
+    "skill_code": "6.A",
+    "topic_code": "8.5",
     "key": "C",
     "option_explanations": {
       "A": "The laws reserved rights, land, and jobs for whites and stripped Black South Africans of citizenship — the opposite of equality.",
@@ -344,6 +366,8 @@
     "difficulty": "medium",
     "explanation": "The passage shows non-alignment as an active strategy: refusing bloc membership while still taking aid and trade from both sides and pushing anti-colonial goals. It was independence of action, not isolation.",
     "id": "wh-fresh-u8-009",
+    "skill_code": "6.A",
+    "topic_code": "8.7",
     "key": "D",
     "option_explanations": {
       "A": "Members accepted aid from both blocs; non-alignment was about avoiding military blocs, not all contact.",

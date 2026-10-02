@@ -527,6 +527,9 @@ ORPHAN_CLASSES = [
     ("FRQ-BANK", "build/frq-remapped/"),
     ("TEST", "build/tests/test-"),
     ("REFERENCE", "build/released-cb/"),
+    ("GENERATED", "build/image-download-report.json"),
+    ("TAGGING-AUDIT", "build/tagging/"),
+    ("TAGGING-AUDIT", "build/tagging-audit/"),
 ]
 
 

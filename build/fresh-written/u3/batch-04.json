@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "Devshirme graduates owed everything to the sultan; examination graduates owed their rank to the imperial system. In both cases the ruler gained officials independent of old noble families.",
     "id": "wh-fresh-u3-034",
+    "skill_code": "5.A",
+    "topic_code": "3.4",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: both systems are presented as alternatives to hereditary privilege, not examples of it.",
@@ -35,6 +37,8 @@
     "difficulty": "hard",
     "explanation": "Palace schooling raised devshirme boys inside the sultan's household, while the classics taught that proper order meant obedience to the emperor. Both were curricula of loyalty.",
     "id": "wh-fresh-u3-035",
+    "skill_code": "3.B",
+    "topic_code": "3.4",
     "key": "A",
     "option_explanations": {
       "A": "Right: palace training and Confucian moral education both socialized officials into obedience to the throne.",
@@ -67,6 +71,8 @@
     "difficulty": "medium",
     "explanation": "The passage's implicit argument is functional: rulers who could appoint and promote their own trained officials could govern directly, instead of bargaining with nobles who held power by birth.",
     "id": "wh-fresh-u3-036",
+    "skill_code": "6.B",
+    "topic_code": "3.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: the officials described depended on the ruler; they were instruments of central power, not rivals to it.",
@@ -99,6 +105,8 @@
     "difficulty": "hard",
     "explanation": "Muskets and cannon rewarded disciplined infantry paid by the state and devalued the mounted aristocratic warrior. The samurai survived as a status group precisely by becoming the administrators of a peaceful realm.",
     "id": "wh-fresh-u3-037",
+    "skill_code": "1.B",
+    "topic_code": "3.1",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: firearms undermined heavy cavalry; they did not enhance it.",
@@ -131,6 +139,8 @@
     "difficulty": "medium",
     "explanation": "The janissaries repeatedly mutinied and removed sultans who threatened their privileges — the classic kingmaker problem: the force that protects the throne can also seize it.",
     "id": "wh-fresh-u3-038",
+    "skill_code": "3.B",
+    "topic_code": "3.2",
     "key": "A",
     "option_explanations": {
       "A": "Right: janissary revolts deposing sultans are direct evidence of military elites becoming kingmakers.",
@@ -163,6 +173,8 @@
     "difficulty": "medium",
     "explanation": "Timars, zamindars, and intendants look different, but all answered the same fiscal-military problem: turning peasant agriculture into money and soldiers for the central state.",
     "id": "wh-fresh-u3-039",
+    "skill_code": "5.A",
+    "topic_code": "3.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: two of the three systems worked through intermediaries; none eliminated them.",
@@ -194,6 +206,8 @@
     "difficulty": "hard",
     "explanation": "When the collector keeps the surplus, the incentive is to squeeze. States got predictable income; peasants got unpredictable exactions, which is why revenue disputes sparked so many rural revolts.",
     "id": "wh-fresh-u3-040",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong: intermediary collection was notoriously burdensome; 'no burden' contradicts the economics of the system.",
@@ -225,6 +239,8 @@
     "difficulty": "medium",
     "explanation": "A mosque plus schools, hospital, and soup kitchen did three jobs at once: honored God, served the city, and stamped Suleyman's name on all of it. Legitimation you could pray in, study in, and eat in.",
     "id": "wh-fresh-u3-041",
+    "skill_code": "6.B",
+    "topic_code": "3.3",
     "key": "A",
     "option_explanations": {
       "A": "Right: the complex fused piety, public welfare, and an unmistakable display of imperial power.",
@@ -250,7 +266,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg",
+        "image_url": "assets/images/u3/wh-fresh-u3-041.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -260,6 +278,8 @@
     "difficulty": "hard",
     "explanation": "Both complexes turned architecture into political theology: enormous, ordered, impossible to ignore, they told every visitor that the dynasty's power was as permanent as stone.",
     "id": "wh-fresh-u3-042",
+    "skill_code": "5.A",
+    "topic_code": "3.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong: Dejima was an instrument of trade control, not a monument to dynastic glory.",
@@ -285,7 +305,9 @@
     "type": "mcq",
     "unit": 3,
     "visual_needs_url": false,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg",
+        "image_url": "assets/images/u3/wh-fresh-u3-041.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/S%C3%BCleymaniye_Mosque%2C_Istanbul%2C_20260606_0805_1307.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "CC BY 4.0",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -295,6 +317,8 @@
     "difficulty": "hard",
     "explanation": "Gunpowder weapons were expensive — cannon foundries, powder mills, and paid infantry required treasuries and bureaucracies. That is why the winners of the military revolution were big centralized states: Ottomans, Safavids, Mughals, and their peers.",
     "id": "wh-fresh-u3-043",
+    "skill_code": "4.A",
+    "topic_code": "3.1",
     "key": "A",
     "option_explanations": {
       "A": "Right: only centralized states could afford the artillery and standing infantry the new warfare demanded.",
@@ -327,6 +351,8 @@
     "difficulty": "medium",
     "explanation": "Expensive armies created a fiscal imperative: rulers who could not tax regularly could not fight regularly. The 'military revolution' drove the growth of bureaucracies, intendants, and revenue systems across Eurasia.",
     "id": "wh-fresh-u3-044",
+    "skill_code": "1.B",
+    "topic_code": "3.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong: costly armies required more revenue and more officials, not less.",

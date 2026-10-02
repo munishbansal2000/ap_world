@@ -1,6 +1,8 @@
 [
   {
     "id": "wh-fresh-u2-021",
+    "skill_code": "5.A",
+    "topic_code": "2.3",
     "unit": 2,
     "stimulus": "Shared stimulus for items 021-022. Monsoon and trade-wind chart of the Indian Ocean (U.S. Navy, 1859), showing prevailing winds in February (left) and August (right). In February the winds blow from the northeast, carrying ships from India toward Arabia and Africa; in August they reverse to the southwest, carrying ships back toward India.",
     "stimulus_words": 53,
@@ -28,7 +30,9 @@
     ],
     "difficulty": "medium",
     "type": "mcq",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg",
+        "image_url": "assets/images/u2/wh-fresh-u2-021.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "Public domain",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -36,6 +40,8 @@
   },
   {
     "id": "wh-fresh-u2-022",
+    "skill_code": "3.B",
+    "topic_code": "2.3",
     "unit": 2,
     "stimulus": "Shared stimulus for items 021-022. Monsoon and trade-wind chart of the Indian Ocean (U.S. Navy, 1859), showing prevailing winds in February (left) and August (right). In February the winds blow from the northeast, carrying ships from India toward Arabia and Africa; in August they reverse to the southwest, carrying ships back toward India.",
     "stimulus_words": 53,
@@ -63,7 +69,9 @@
     ],
     "difficulty": "hard",
     "type": "mcq",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg",
+        "image_url": "assets/images/u2/wh-fresh-u2-021.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "Public domain",
     "image_verified": "2026-10-02",
     "source_id": "original",
@@ -71,6 +79,8 @@
   },
   {
     "id": "wh-fresh-u2-023",
+    "skill_code": "2.A",
+    "topic_code": "2.2",
     "unit": 2,
     "stimulus": "Adapted from Francesco Pegolotti's merchant handbook, c. 1340: 'The road from Tana to Cathay is perfectly safe, whether by day or by night. A merchant with proper papers will find organized relay stations with food and lodging every day's journey. You may travel with a woman and gold and fear nothing.'",
     "stimulus_words": 50,
@@ -102,6 +112,8 @@
   },
   {
     "id": "wh-fresh-u2-024",
+    "skill_code": "6.B",
+    "topic_code": "2.4",
     "unit": 2,
     "stimulus": "A description of trans-Saharan trade, c. 1300: 'Salt from the desert mines is cut into slabs and carried south by camel caravan. In the Sahel markets, one slab buys gold dust weighed on small scales. The kings of Mali tax every load that enters and leaves their lands, and with this revenue they maintain armies, mosques, and the city of Timbuktu.'",
     "stimulus_words": 61,
@@ -133,6 +145,8 @@
   },
   {
     "id": "wh-fresh-u2-025",
+    "skill_code": "3.B",
+    "topic_code": "2.6",
     "unit": 2,
     "stimulus": "A Song dynasty account notes: 'Champa rice, brought from the southern kingdom of Champa, ripens early and resists drought. In the Yangzi valley, farmers now harvest two crops a year where one grew before. The registers record twice as many households as a century ago.'",
     "stimulus_words": 45,
@@ -164,6 +178,8 @@
   },
   {
     "id": "wh-fresh-u2-026",
+    "skill_code": "1.B",
+    "topic_code": "2.5",
     "unit": 2,
     "stimulus": "A historian's summary of weapons technology: 'Gunpowder was invented in China, where Song armies used fire-lances and bombs. Mongol conquerors carried the knowledge westward; by the 1300s, metal-barreled cannon appeared in the Middle East and Europe, where rulers quickly adopted them for siege warfare.'",
     "stimulus_words": 44,
@@ -195,6 +211,8 @@
   },
   {
     "id": "wh-fresh-u2-027",
+    "skill_code": "4.A",
+    "topic_code": "2.5",
     "unit": 2,
     "stimulus": "An account of Sumatra in the 1300s: 'In the port of Samudera, the ruler has embraced Islam. Sufi teachers from Arabia and India preach in the markets, and local chiefs who trade with them take Muslim names. No armies came; the faith arrived with the monsoon ships.'",
     "stimulus_words": 47,
@@ -226,6 +244,8 @@
   },
   {
     "id": "wh-fresh-u2-028",
+    "skill_code": "5.A",
+    "topic_code": "2.7",
     "unit": 2,
     "stimulus": "Two trading city-states, c. 1300: Venice, at the head of the Adriatic, grew rich carrying Eastern spices and silks into Europe in its galleys, and its merchants financed voyages with sea-loans. Kilwa, on the Swahili coast, grew rich carrying Arabian cloth and Indian porcelain into Africa in its dhows, exchanging them for interior gold.",
     "stimulus_words": 54,
@@ -257,6 +277,8 @@
   },
   {
     "id": "wh-fresh-u2-029",
+    "skill_code": "6.B",
+    "topic_code": "2.6",
     "unit": 2,
     "stimulus": "Adapted from accounts of the plague's aftermath: 'In England, so many laborers died that surviving workers demanded triple wages, and lords who once bound peasants to the land now competed to hire them. In the Egyptian countryside, the loss of farmers shrank the harvests, and the Mamluk treasury, starved of taxes, debased its coinage.'",
     "stimulus_words": 54,
@@ -288,6 +310,8 @@
   },
   {
     "id": "wh-fresh-u2-030",
+    "skill_code": "2.A",
+    "topic_code": "2.4",
     "unit": 2,
     "stimulus": "Illuminated panel from the Catalan Atlas, made in Majorca in 1375: a dark-skinned crowned king sits on a throne holding a large gold nugget in one hand and a scepter in the other. A caption reads: 'This Black lord is called Musa Mali, lord of the Black people of Guinea. So abundant is the gold found in his country that he is the richest and most noble king in all the land.'",
     "stimulus_words": 72,
@@ -315,7 +339,9 @@
     ],
     "difficulty": "hard",
     "type": "mcq",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mansa_Musa.jpg",
+        "image_url": "assets/images/u2/wh-fresh-u2-030.jpg",
+    "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mansa_Musa.jpg",
+    "image_local_verified": "2026-10-02",
     "image_license": "Public domain",
     "image_verified": "2026-10-02",
     "source_id": "original",

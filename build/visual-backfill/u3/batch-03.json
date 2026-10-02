@@ -1,6 +1,8 @@
 [
  {
   "id": "wh-vis-u3-021",
+  "skill_code": "3.A",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "Detail from the 'Mughal Empire under Aurangzeb (1707)' map: at the empire's southern edge the green shading stops around Arcot \u2014 the far southern tip of the subcontinent lies outside Mughal territory, as do parts of the northeast frontier.",
   "stimulus_words": 39,
@@ -30,11 +32,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png",
+    "image_url": "assets/images/u3/wh-vis-u3-020.png",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  },
  {
   "id": "wh-vis-u3-022",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A modern photograph of the Diwan-i-Am (Hall of Public Audience) in Delhi's Red Fort: a long open hall of red sandstone with rows of cusped arches, its broad veranda open to a courtyard where visitors gather.",
   "stimulus_words": 36,
@@ -64,11 +70,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Diwan-i-Am_%28Red_Fort%29%2C_Delhi%2C_India%2C_2018.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-022.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Diwan-i-Am_%28Red_Fort%29%2C_Delhi%2C_India%2C_2018.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  },
  {
   "id": "wh-vis-u3-023",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A modern photograph of the Buland Darwaza at Fatehpur Sikri: a colossal red-sandstone gateway, 54 meters tall, approached by a steep flight of steps. Akbar built it around 1576-77 to commemorate his conquest of Gujarat.",
   "stimulus_words": 35,
@@ -98,11 +108,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-023.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  },
  {
   "id": "wh-vis-u3-024",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "The same Buland Darwaza gateway. Around its main arch runs a Persian inscription quoting a saying attributed to Jesus, son of Mary: 'The world is a bridge, pass over it, but build no houses upon it.'",
   "stimulus_words": 36,
@@ -132,11 +146,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-023.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "CC BY-SA 4.0"
  },
  {
   "id": "wh-vis-u3-025",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Mughal court miniature showing the young emperor Akbar riding and subduing a charging, musth elephant with an ankus (goad), trees and birds around him.",
   "stimulus_words": 25,
@@ -166,11 +184,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Kaiser_Akbar_b%C3%A4ndigt_einen_Elefanten.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-025.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Kaiser_Akbar_b%C3%A4ndigt_einen_Elefanten.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-026",
+  "skill_code": "2.B",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Mughal court miniature by Abu'l Hasan showing Empress Nur Jahan, wife of Emperor Jahangir, dressed in a man's turban and trousers and loading a long hunting musket, with a powder horn and bullet pouch at her waist.",
   "stimulus_words": 38,
@@ -200,11 +222,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Nur_Jahan_holding_a_gun.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-026.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Nur_Jahan_holding_a_gun.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-027",
+  "skill_code": "1.B",
+  "topic_code": "3.1",
   "unit": 3,
   "stimulus": "A Mughal miniature (ca. 1690-1710, Cleveland Museum of Art) showing the aged emperor Aurangzeb \u2014 white-bearded and haloed \u2014 on horseback holding a spear, an attendant carrying a parasol behind him.",
   "stimulus_words": 31,
@@ -234,11 +260,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Emperor_Aurangzeb_on_Horseback_ca._1690%E2%80%931710_The_Cleveland_Museum_of_Art.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-027.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Emperor_Aurangzeb_on_Horseback_ca._1690%E2%80%931710_The_Cleveland_Museum_of_Art.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-028",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
   "unit": 3,
   "stimulus": "A Mughal miniature (ca. 1660, attributed to Bichitr) showing Emperor Aurangzeb holding court under a canopied throne: nobles stand in ranked order around him, one holding a parasol over the emperor, another a shield, while a prince and a hunting falcon attend at his side.",
   "stimulus_words": 45,
@@ -268,11 +298,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Darbarscene.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-028.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Darbarscene.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-029",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Qing court portrait of the Kangxi emperor in full armor, mounted on a white horse, bow and quiver of arrows on his back, an inscription in Chinese characters above.",
   "stimulus_words": 30,
@@ -302,11 +336,15 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Armoured_Kangxi_Emperor.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-029.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Armoured_Kangxi_Emperor.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  },
  {
   "id": "wh-vis-u3-030",
+  "skill_code": "3.A",
+  "topic_code": "3.3",
   "unit": 3,
   "stimulus": "A Qing court portrait of the Kangxi emperor in informal dress and a red cap, seated at a writing desk holding a large calligraphy brush, with dragons painted on the screen behind him.",
   "stimulus_words": 33,
@@ -336,7 +374,9 @@
   "source_id": null,
   "source_stimulus_words": null,
   "image_verified": "2026-10-02",
-  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emperor_Kangxi_at_his_desk.jpg",
+    "image_url": "assets/images/u3/wh-vis-u3-030.jpg",
+  "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emperor_Kangxi_at_his_desk.jpg",
+  "image_local_verified": "2026-10-02",
   "image_license": "Public domain"
  }
 ]

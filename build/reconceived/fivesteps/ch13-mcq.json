@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "Caribbean sugar plantations were brutally labor-intensive: cane had to be cut by hand and processed immediately, and the work killed enslaved laborers so rapidly that planters constantly imported replacements. As European demand for sugar soared in the 1700s, the Caribbean became the largest single destination for the transatlantic slave trade. (A) is wrong because tobacco drove earlier Chesapeake demand, not the eighteenth-century Caribbean surge. (C) is wrong because wheat was not a Caribbean plantation crop worked by enslaved gangs. (D) is wrong because coffee's great expansion as a slave-grown crop came later and centered elsewhere.",
   "id": "wh-fivesteps-u4-006",
+  "skill_code": "1.A",
+  "topic_code": "4.5",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Tobacco drove earlier demand in the Chesapeake, not the eighteenth-century Caribbean surge.",
@@ -35,6 +37,8 @@
   "difficulty": "medium",
   "explanation": "The Atlantic crossing, though enormous, was only one branch of a wider world of enslavement: millions more Africans were held within Africa itself — in households, armies, farms, and mines — than ever boarded Atlantic ships. (A) is wrong because the transatlantic trade was historically massive and transformative; 'only one part' does not mean insignificant. (B) is wrong because African slave systems varied widely and differed from Caribbean plantation gang labor. (D) is wrong because African states and merchants were major participants in capturing and holding enslaved people.",
   "id": "wh-fivesteps-u4-007",
+  "skill_code": "1.B",
+  "topic_code": "4.5",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. The transatlantic trade was enormous and transformative; being one part of a larger picture does not make it insignificant.",
@@ -65,6 +69,8 @@
   "difficulty": "hard",
   "explanation": "Enslaved people preserved African deities and rituals by identifying them with Catholic saints — outwardly practicing the masters' religion while inwardly sustaining their own. That blending of two traditions under coercion is syncretism as cultural resistance. (B) is wrong because the practices show African beliefs surviving, not being abandoned. (C) is wrong because the African content persisted inside the Catholic forms; conversion was not complete. (D) is wrong because these were religious adaptations, not armed uprisings.",
   "id": "wh-fivesteps-u4-008",
+  "skill_code": "1.A",
+  "topic_code": "4.7",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Mapping African spirits onto Catholic saints blended two traditions, preserving African identity under coercion.",
@@ -96,6 +102,8 @@
   "difficulty": "medium",
   "explanation": "Cheap European cloth flooded West African markets, and local weavers could not match its price. With manufactured imports readily available, there was little incentive or opportunity to develop local industry — the classic pattern by which the triangular trade discouraged African manufacturing. (A) is wrong because no African industrial revolution followed this trade pattern. (C) is wrong because the trade demonstrably reshaped African production. (D) is wrong because Africa exported raw materials and captives, not finished manufactured goods, in this exchange.",
   "id": "wh-fivesteps-u4-009",
+  "skill_code": "1.B",
+  "topic_code": "4.5",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The trade pattern discouraged rather than created African industrial development.",

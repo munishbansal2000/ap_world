@@ -3,6 +3,8 @@
     "difficulty": "medium",
     "explanation": "In 1494 the pope drew a meridian through the Atlantic, granting Spain lands west of it and Portugal lands east. That both Catholic powers accepted a papal line as settling their rivalry shows the pope still functioned as the recognized arbiter of Christian princes' overseas claims.",
     "id": "wh-fivesteps-u4-024",
+    "skill_code": "3.D",
+    "topic_code": "4.2",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Both powers accepted the pope's line as binding, showing his recognized authority to arbitrate their claims.",
@@ -34,6 +36,8 @@
     "difficulty": "hard",
     "explanation": "Zheng He's expeditions were floating embassies of intimidation and prestige: scores of great ships displaying Ming splendor, collecting tribute and envoys. The court sought political deference, not commercial profit, so when Confucian officials argued the money was better spent defending the northern frontier, the voyages ended without economic regret.",
     "id": "wh-fivesteps-u2-008",
+    "skill_code": "1.B",
+    "topic_code": "2.3",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Zheng He's fleets reached East Africa and Arabia, contacting dozens of cultures.",
@@ -66,6 +70,8 @@
     "difficulty": "medium",
     "explanation": "The Atlantic is roughly 3,000 miles wide and the Pacific far wider; no ship of the ancient or medieval world could carry enough water and provisions to cross them. Afro-Eurasian networks stopped at the water's edge because the technology to cross did not yet exist.",
     "id": "wh-fivesteps-u1-021",
+    "skill_code": "1.A",
+    "topic_code": "1.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. American peoples traded extensively among themselves; no ban isolated them.",
@@ -98,6 +104,8 @@
     "difficulty": "medium",
     "explanation": "Mercantilists equated wealth with bullion, but Spain's American silver mostly flowed out again to pay for imports and wars, while prices at home soared. The Price Revolution showed that piling up precious metal without productive industry produces inflation, not lasting prosperity.",
     "id": "wh-fivesteps-u4-025",
+    "skill_code": "3.D",
+    "topic_code": "4.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Silver had real purchasing power; the problem was what Spain did (and did not do) with it.",
@@ -130,6 +138,8 @@
     "difficulty": "hard",
     "explanation": "Wordsworth wrote in the dawn of 1789 as a young sympathizer, drunk on hope; Dickens wrote in 1859 with the Terror, the guillotine, and Napoleon's empire in full view. The same Revolution looks different from inside its hopeful opening than from after its violent sequel, showing how a writer's moment and experience color judgment of the past.",
     "id": "wh-fivesteps-u5-008",
+    "skill_code": "2.C",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Neither writer's age alone determines correctness; the point is how moment and experience shape interpretation.",
@@ -162,6 +172,8 @@
     "difficulty": "hard",
     "explanation": "American colonists kept their property structure and much of their elite; the French revolutionaries abolished feudal dues, seized Church lands, and executed the king, attempting to remake the social order from the ground up. One was a war of independence, the other a social revolution.",
     "id": "wh-fivesteps-u5-009",
+    "skill_code": "5.A",
+    "topic_code": "5.2",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Both revolutions were fueled by tax grievances; taxation does not distinguish them.",
@@ -194,6 +206,8 @@
     "difficulty": "hard",
     "explanation": "Robespierre argued that the Revolution's virtue, its devotion to the public good, could not survive against its enemies, royalists, hoarders, traitors, without terror to crush them: virtue wedded to terror would save the republic. It was the classic logic of ends justifying extreme means.",
     "id": "wh-fivesteps-u5-010",
+    "skill_code": "3.A",
+    "topic_code": "5.2",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Robespierre was the Terror's chief architect and defender, not its opponent.",
@@ -226,6 +240,8 @@
     "difficulty": "hard",
     "explanation": "Enlightenment thinkers argued that governments rest on a contract with the governed, who retain natural rights. That claim pulled the rug from under divine-right monarchy: if legitimacy comes from consent, an absolute king ruling without it is a usurper by definition.",
     "id": "wh-fivesteps-u5-011",
+    "skill_code": "1.B",
+    "topic_code": "5.1",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Consent-based legitimacy made divine-right absolutism illegitimate by definition.",
@@ -258,6 +274,8 @@
     "difficulty": "hard",
     "explanation": "A bubble is beautiful, fragile, and doomed to pop. By showing Wilson blowing the League as a soap bubble, the cartoonist mocks the League as a delicate fantasy of idealists, certain to burst against the hard realities of international conflict.",
     "id": "wh-fivesteps-u7-004",
+    "skill_code": "3.A",
+    "topic_code": "7.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The bubble metaphor presents the League as a fragile idealist fantasy doomed to burst.",
@@ -289,6 +307,8 @@
     "difficulty": "hard",
     "explanation": "The League's fatal weakness was the absence of the great powers, above all the United States, whose Senate rejected membership. The UN's founders therefore built the organization around the great powers, giving the victors of WWII permanent Security Council seats and vetoes to guarantee their participation.",
     "id": "wh-fivesteps-u7-005",
+    "skill_code": "1.A",
+    "topic_code": "7.5",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The UN never banned all war; its charter regulates and in practice tolerates armed conflict.",
@@ -319,6 +339,8 @@
     "difficulty": "hard",
     "explanation": "The 'stab-in-the-back' legend claimed Germany's undefeated army was betrayed by revolutionaries and politicians at home. Article 231, the war-guilt clause, then forced Germany to accept sole blame for the war, which nationalists denounced as a dictated lie, proof that November criminals had sold out the nation.",
     "id": "wh-fivesteps-u7-006",
+    "skill_code": "1.B",
+    "topic_code": "7.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. The war-guilt clause's assignment of sole blame fed the myth that traitors, not defeat, had doomed Germany.",
@@ -351,6 +373,8 @@
     "difficulty": "hard",
     "explanation": "Adult men fetched the lowest prices because they were considered escape risks; young women and children commanded the highest. That price structure reflects buyers seeking household servants, concubines, and trainable children, not the massed male field gangs of the Atlantic plantations.",
     "id": "wh-fivesteps-u4-026",
+    "skill_code": "3.D",
+    "topic_code": "4.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. High prices for young women and children and low prices for adult men reflect demand for domestic service and households, not plantation gangs.",
@@ -382,6 +406,8 @@
     "difficulty": "hard",
     "explanation": "Sixteen men left Algeria and came back with four hundred human beings to sell — the price list values each captive in the thousands of cowries. Raiding required almost no investment beyond the expedition itself, while the returns, measured in human cargo, were staggering. That lopsided arithmetic is why the trade persisted: violence paid. (B) is wrong because the price list values captives in the thousands of cowries. (C) is wrong because the captives were driven in chains under the lash, not hired. (D) is wrong because the passage describes a caravan whose business was captives.",
     "id": "wh-fivesteps-u4-027",
+    "skill_code": "3.D",
+    "topic_code": "4.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Sixteen men returned with four hundred captives worth thousands of cowries each — violence paid.",
@@ -414,6 +440,8 @@
     "difficulty": "hard",
     "explanation": "Islamic law prohibited enslaving Muslims, so raiders needed their victims to be unbelievers. Calling the targets 'idolatrous' classified them as legitimate prey under religious law, turning a commercial raid into a religiously sanctioned hunt.",
     "id": "wh-fivesteps-u4-028",
+    "skill_code": "1.B",
+    "topic_code": "4.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The raiders were Muslims invoking Islamic categories; they were not Christians.",
@@ -446,6 +474,8 @@
     "difficulty": "hard",
     "explanation": "Islamic law and custom encouraged manumission, especially of converts, and freed slaves could marry into families, serve as soldiers and officials, and rise socially. Status was not permanently fixed by race as in the Americas, where slavery was hereditary and inescapable.",
     "id": "wh-fivesteps-u4-029",
+    "skill_code": "5.A",
+    "topic_code": "4.5",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The caravan account shows captives seized by force and driven with whips; nothing was voluntary.",
@@ -478,6 +508,8 @@
     "difficulty": "hard",
     "explanation": "The mandate formula was a compromise between Wilsonian self-determination and Allied imperial appetites: the territories would not be annexed outright but held 'in trust,' with the mandatory power obligated to guide them toward self-rule under League oversight. In practice the guidance often looked like colonialism, but the legal theory promised eventual independence.",
     "id": "wh-fivesteps-u7-007",
+    "skill_code": "1.A",
+    "topic_code": "7.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Mandates were temporary trusteeships meant to prepare territories for eventual self-government.",
@@ -508,6 +540,8 @@
     "difficulty": "hard",
     "explanation": "Wilson proclaimed the right of peoples to choose their governments, and Arab leaders who had revolted against the Ottomans expected independence. Instead Britain and France took mandates, applying self-determination to Eastern Europe while treating the Arab Middle East as wards. The double standard bred lasting resentment.",
     "id": "wh-fivesteps-u7-008",
+    "skill_code": "3.D",
+    "topic_code": "7.5",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The Arabs received mandates under foreign control, not the independence they expected.",
@@ -538,6 +572,8 @@
     "difficulty": "hard",
     "explanation": "The 1915 Hussein-McMahon correspondence encouraged Arab revolt with hints of independence; the 1917 Balfour Declaration promised British support for a Jewish national home in the same land. After the war both communities invoked Britain's word, and Britain could satisfy neither, guaranteeing decades of conflict.",
     "id": "wh-fivesteps-u7-009",
+    "skill_code": "1.A",
+    "topic_code": "7.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Contradictory wartime pledges to Arabs and Jews planted the seeds of the Arab-Israeli conflict.",
@@ -568,6 +604,8 @@
     "difficulty": "hard",
     "explanation": "Italians believed their sacrifices in the war entitled them to Dalmatia and colonial gains; receiving neither, nationalists denounced the liberal government as weak and treacherous. Mussolini harnessed that humiliation, promising to restore Italy's greatness, and marched on Rome in 1922.",
     "id": "wh-fivesteps-u7-010",
+    "skill_code": "1.B",
+    "topic_code": "7.5",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Italy did not turn communist; it turned to fascism.",
@@ -599,6 +637,8 @@
     "difficulty": "medium",
     "explanation": "The chart's rising curves tell a story of socialist triumph, but the years of collectivization, 1932-33, brought one of history's worst famines, killing millions in Ukraine and Kazakhstan. Stalin's statistics trumpet recovery while erasing the catastrophe that preceded it.",
     "id": "wh-fivesteps-u7-011",
+    "skill_code": "3.D",
+    "topic_code": "7.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The famine years saw catastrophic harvest failures, not bumper crops.",
@@ -631,6 +671,8 @@
     "difficulty": "medium",
     "explanation": "Under Stalin, reporting bad news could mean arrest or execution, while reporting success brought rewards. Managers and officials therefore inflated output figures at every level, turning statistics into instruments of political survival rather than measurements of reality.",
     "id": "wh-fivesteps-u7-012",
+    "skill_code": "2.C",
+    "topic_code": "7.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. The Soviet Union employed many statisticians; the problem was political pressure, not absence.",
@@ -663,6 +705,8 @@
     "difficulty": "hard",
     "explanation": "The regime branded relatively prosperous peasants as 'kulaks,' class enemies sabotaging socialism, and 'liquidated them as a class': hundreds of thousands were shot or deported to Siberia and Central Asia, their property seized for the collectives.",
     "id": "wh-fivesteps-u7-013",
+    "skill_code": "1.A",
+    "topic_code": "7.4",
     "key": "B",
     "option_explanations": {
       "A": "Wrong. Kulaks were peasants, not factory owners.",
@@ -695,6 +739,8 @@
     "difficulty": "medium",
     "explanation": "Peasants preferred killing their cattle, pigs, and horses to handing them to the hated collective. The resulting collapse of livestock numbers, combined with grain seizures, turned policy into famine: collectivization destroyed the incentives and the herds that fed the countryside.",
     "id": "wh-fivesteps-u7-014",
+    "skill_code": "1.B",
+    "topic_code": "7.4",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. Peasants resisted the collectives fiercely; they did not welcome them.",
@@ -727,6 +773,8 @@
     "difficulty": "hard",
     "explanation": "The Qing court operated within a tributary worldview: China was the civilized center, and foreign rulers properly approached it as vassals bearing tribute. Qianlong therefore read Macartney's embassy not as diplomacy between equals but as submission, and lectured George III on his future 'devotion and loyalty.'",
     "id": "wh-fivesteps-u4-030",
+    "skill_code": "3.D",
+    "topic_code": "4.5",
     "key": "C",
     "option_explanations": {
       "A": "Wrong. The letter shows supreme confidence, not fear; the emperor dismisses British goods as worthless.",
@@ -758,6 +806,8 @@
     "difficulty": "hard",
     "explanation": "China bought tea, silk, and porcelain with silver but sold almost nothing British in return, draining Britain's silver. The East India Company's answer was opium grown in Bengal: Chinese demand for the drug reversed the silver flow and balanced Britain's books through addiction.",
     "id": "wh-fivesteps-u4-031",
+    "skill_code": "1.B",
+    "topic_code": "4.5",
     "key": "A",
     "option_explanations": {
       "A": "Correct. Selling Indian opium in China reversed the silver drain caused by Britain's one-sided purchases.",
@@ -789,6 +839,8 @@
     "difficulty": "hard",
     "explanation": "The Canton system funneled all Western trade through the single port of Canton and through the licensed Cohong merchants, who were answerable to officials for foreigners' behavior. The design extracted the profits of commerce while keeping barbarians contained, supervised, and at arm's length.",
     "id": "wh-fivesteps-u4-032",
+    "skill_code": "1.B",
+    "topic_code": "4.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. The system restricted trade to one port and licensed intermediaries; it was the opposite of free trade.",
@@ -820,6 +872,8 @@
     "difficulty": "hard",
     "explanation": "Because China accepted mainly silver for its exports, the world's mined silver streamed eastward, making China the great sink of global bullion. That insatiable demand financed the expansion of Spanish American mining at Potosi and Zacatecas and tied world silver prices to Chinese markets.",
     "id": "wh-fivesteps-u4-033",
+    "skill_code": "1.B",
+    "topic_code": "4.5",
     "key": "D",
     "option_explanations": {
       "A": "Wrong. Silver retained its value; China's demand is what made it so sought after.",

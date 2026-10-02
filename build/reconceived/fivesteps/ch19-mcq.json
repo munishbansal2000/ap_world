@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "Germany's invasion of Poland on September 1, 1939 crossed the line Britain and France had drawn at Munich: both issued ultimatums and declared war on September 3, turning a regional invasion into a world war. (B) is wrong because the USSR remained bound by the Nazi-Soviet Pact until Germany invaded it in 1941. (C) is wrong because the United States stayed neutral until Pearl Harbor in December 1941. (D) is wrong because Poland was overrun within weeks; Germany was not stopped at the border.",
   "id": "wh-fivesteps-u7-001",
+  "skill_code": "1.A",
+  "topic_code": "7.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The invasion triggered the British and French ultimatums and their declarations of war on September 3, 1939.",
@@ -33,6 +35,8 @@
   "difficulty": "medium",
   "explanation": "Haunted by the slaughter of World War I, British and French leaders believed that meeting Hitler's 'last territorial demand' would satisfy him and preserve peace — the logic of appeasement. (B) is wrong because by 1938 Germany was visibly rearming and strong, not weak. (C) is wrong because the Western powers distrusted Stalin and excluded the USSR from Munich. (D) is wrong because Czechoslovakia fiercely opposed dismemberment; it was sacrificed without its consent.",
   "id": "wh-fivesteps-u7-002",
+  "skill_code": "1.A",
+  "topic_code": "7.6",
   "key": "A",
   "option_explanations": {
    "A": "Correct. British and French leaders believed conceding the Sudetenland would satisfy Hitler and avert another great war.",
@@ -64,6 +68,8 @@
   "difficulty": "medium",
   "explanation": "Where the Red Army stood in 1945, Soviet power stayed: Moscow installed loyal communist parties, rigged or suppressed genuine elections, and used the army and secret police to crush non-communist opposition, creating the Eastern Bloc. (B) is wrong because Eastern Europeans were denied self-determination; borders and regimes were imposed. (C) is wrong because the region was tied economically and politically to Moscow, not Western Europe. (D) is wrong because these states were not permitted an isolationist option; Soviet control was compulsory.",
   "id": "wh-fivesteps-u7-003",
+  "skill_code": "1.B",
+  "topic_code": "7.1",
   "key": "A",
   "option_explanations": {
    "A": "Correct. The Red Army's presence let Moscow install loyal communist regimes and suppress opposition across the region.",

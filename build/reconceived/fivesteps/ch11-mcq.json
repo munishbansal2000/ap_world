@@ -3,6 +3,8 @@
   "difficulty": "hard",
   "explanation": "Ming tax reforms, culminating in the Single Whip Reform, commuted labor obligations and many taxes into payments in silver. That created an empire-wide official demand for the metal, which is why China absorbed so much American silver through Manila and other routes. (B) is wrong because China did mine some silver domestically; the demand came from fiscal policy, not total absence. (C) is wrong because Confucian officials did not ban paper money on doctrinal grounds — earlier dynasties had used it heavily, and it was inflation that discredited it. (D) is wrong because Ming China did not hire European mercenary armies on a scale requiring American silver.",
   "id": "wh-fivesteps-u3-001",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
   "key": "A",
   "option_explanations": {
    "A": "Correct. Reforms commuting taxes and labor dues into silver payments created empire-wide official demand for the metal.",
@@ -34,6 +36,8 @@
   "difficulty": "medium",
   "explanation": "When prices rise faster than wages, people paid fixed money wages can buy less food and fewer goods — and across sixteenth-century Europe, real wages for laborers fell as the Price Revolution outran pay. (A) is wrong because long-distance merchants generally profited from rising prices and expanding trade. (B) is wrong because the Spanish crown was the great beneficiary of American bullion revenues. (D) is wrong because mine owners and operators profited directly from high silver output and prices.",
   "id": "wh-fivesteps-u3-002",
+  "skill_code": "1.A",
+  "topic_code": "3.1",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Long-distance merchants generally profited from rising prices and the expansion of trade.",
@@ -65,6 +69,8 @@
   "difficulty": "medium",
   "explanation": "The Glorious Revolution deposed James II and the 1689 Bill of Rights barred the monarch from suspending laws, levying taxes, or keeping a standing army without Parliament's consent — the legal foundation of England's limited monarchy. (A) is wrong because the Civil War ended with the Restoration of the monarchy in 1660, not with parliamentary supremacy secured. (C) is wrong because England never adopted a single written constitution in 1700. (D) is wrong because the Stuarts resisted limits on their power; parliamentary supremacy was imposed on them, not volunteered.",
   "id": "wh-fivesteps-u3-003",
+  "skill_code": "1.A",
+  "topic_code": "3.2",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. The Civil War ended with the monarchy restored in 1660; parliamentary supremacy was not secured until decades later.",
@@ -95,6 +101,8 @@
   "difficulty": "medium",
   "explanation": "Akbar abolished the jizya tax on non-Muslims, appointed Hindus to high office, and proclaimed sulh-i-kul — 'universal peace' or tolerance — as state policy, deliberately binding a Hindu-majority population to a Muslim-ruled empire. (A) is wrong because imposing sharia on all subjects was closer to the later policy direction under Aurangzeb, not Akbar. (C) is wrong because Akbar patronized Hindu festivals and Rajput alliances rather than banning them. (D) is wrong because Akbar famously appointed Hindus, including Raja Todar Mal and Birbal, to senior posts without requiring conversion.",
   "id": "wh-fivesteps-u3-004",
+  "skill_code": "1.A",
+  "topic_code": "3.3",
   "key": "B",
   "option_explanations": {
    "A": "Wrong. Imposing sharia on all subjects reflects the later direction under Aurangzeb, not Akbar's policy of accommodation.",
@@ -127,6 +135,8 @@
   "difficulty": "medium",
   "explanation": "Neither regime cut itself off entirely: the Ming permitted regulated trade at Canton and the Tokugawa at Nagasaki, keeping the profits of commerce while using strict controls to limit missionary activity and foreign political influence. (A) is wrong because both regimes restricted rather than embraced unrestricted foreign trade. (B) is wrong because neither was conquered or colonized by Europeans in this period. (D) is wrong because regulated, limited trade continued at designated ports; the 'total isolation' picture is the oversimplification this question corrects.",
   "id": "wh-fivesteps-u3-005",
+  "skill_code": "5.A",
+  "topic_code": "3.4",
   "key": "C",
   "option_explanations": {
    "A": "Wrong. Both regimes restricted foreign trade to state-controlled channels rather than embracing free trade.",

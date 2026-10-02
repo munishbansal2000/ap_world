@@ -1,0 +1,128 @@
+[
+  {
+    "confidence": 0.7,
+    "id": "wh-fresh-u5-044",
+    "rationale": "Stem asks which argument is supported by synthesizing two sources (Declaration of the Rights of Man vs Napoleonic Code). The work is using historical reasoning to relate the two excerpts to form a claim; topic is the French Revolution and Napoleon's legal consolidation (5.2 Nationalism and Revolutions).",
+    "skill_code": "6.C",
+    "topic_code": "5.2"
+  },
+  {
+    "confidence": 0.85,
+    "id": "wh-fresh-u5-054",
+    "rationale": "Stem directly compares outcomes of the American and French revolutions and asks how one development relates to another (different outcomes from shared Enlightenment starting points); topic is the revolutionary era (5.2 Nationalism and Revolutions).",
+    "skill_code": "5.B",
+    "topic_code": "5.2"
+  },
+  {
+    "confidence": 0.6,
+    "id": "wh-fresh-u6-003",
+    "rationale": "Stem asks which statement is best supported by the Opium War passage; the student must select a historically defensible claim from the evidence. Note: task also resembles 3.A (claims in sources) but the item's skill field is Argumentation, so 6.A is the best fit within the required parent skill. Topic is forced British opening of China via the Opium Wars (6.2 State Expansion).",
+    "skill_code": "6.A",
+    "topic_code": "6.2"
+  },
+  {
+    "confidence": 0.85,
+    "id": "wh-fresh-u7-009",
+    "rationale": "Stem compares Wilson's League proposal to the 19th-century Concert of Europe and asks how the two developments differ; topic is the post-1900 shift in international order (7.1 Shifting Power After 1900).",
+    "skill_code": "5.B",
+    "topic_code": "7.1"
+  },
+  {
+    "confidence": 0.9,
+    "id": "wh-fresh-u8-002",
+    "rationale": "Stem asks which connection is supported by the two cases (India 1947 and Ghana 1957) together: varied paths to independence within one broad wave of decolonization. Topic is decolonization (8.5 Decolonization After 1900).",
+    "skill_code": "5.B",
+    "topic_code": "8.5"
+  },
+  {
+    "confidence": 0.55,
+    "id": "wh-fresh-u9-003",
+    "rationale": "Stem asks for the best-supported argument about Gorbachev's reforms (reforms meant to preserve the system hastened its collapse). Within the required Argumentation parent, 6.A fits. Topic constraint forces unit 9; the dissolution of the USSR as a continuity-and-change case fits 9.9 best, though the content arguably belongs in unit 8 (8.8 End of the Cold War) - see flag.",
+    "skill_code": "6.A",
+    "topic_code": "9.9"
+  },
+  {
+    "confidence": 0.7,
+    "id": "wh-fresh-u9-013",
+    "rationale": "Stem asks what the Tahrir Square report illustrates about the connection between communications technology and protest organization; the student identifies a connection between two developments. Topic is technology-enabled exchange and protest in the global age (9.1 Advances in Technology and Exchange).",
+    "skill_code": "5.A",
+    "topic_code": "9.1"
+  },
+  {
+    "confidence": 0.6,
+    "id": "wh-fresh-u9-023",
+    "rationale": "Stem asks what the 2000 Durban AIDS march campaign contributed most directly to; this is explaining the effect of a development/process (activist pressure producing access to lower-cost antiretrovirals). Borderline with 1.A; 1.B chosen because the question is causal explanation. Topic is reform movements in the global age (9.5 Calls for Reform and Responses).",
+    "skill_code": "1.B",
+    "topic_code": "9.5"
+  },
+  {
+    "confidence": 0.65,
+    "id": "wh-fresh-u9-033",
+    "rationale": "Stem asks for the best-supported argument about global culture from the stimulus (homogenization plus hybridization). Within the required Argumentation parent, 6.A fits; the task also resembles 3.A (claims in sources) - see flag. Topic is globalized culture (9.6 Globalized Culture).",
+    "skill_code": "6.A",
+    "topic_code": "9.6"
+  },
+  {
+    "confidence": 0.7,
+    "id": "wh-princeton-pdf4-u3-006",
+    "rationale": "Stem asks which option is most directly comparable to the zamindar's intermediary role; the student identifies a historical concept by matching the structural arrangement (Mughal zamindar to Ottoman timar holder). Topic is comparison across land-based empires (3.4 Comparison in Land-Based Empires).",
+    "skill_code": "1.A",
+    "topic_code": "3.4"
+  },
+  {
+    "confidence": 0.7,
+    "id": "wh-princeton-pdf4-u6-001",
+    "rationale": "Stem asks how settler letters contributed to British imperial expansion in southern Africa; this is explaining the mechanism of a development/process (lobbying creating political pressure for the 1879 invasion). Topic is imperial state expansion (6.2 State Expansion).",
+    "skill_code": "1.B",
+    "topic_code": "6.2"
+  },
+  {
+    "confidence": 0.65,
+    "id": "wh-princeton-pdf4-u6-011",
+    "rationale": "Stem asks what recognition makes the 1882 Chinese-exclusion cartoon ironic; the student identifies the historical concept (a nation built by immigrants practicing racial exclusion). Topic is the effects of migration, specifically exclusion policies (6.7 Effects of Migration).",
+    "skill_code": "1.A",
+    "topic_code": "6.7"
+  },
+  {
+    "confidence": 0.85,
+    "id": "wh-princeton-pdf4-u7-003",
+    "rationale": "Stem asks which feature of WWII the poster's direct address to young men and women reflects; the student identifies the historical development (total war mobilizing entire populations). Topic is WWII conduct (7.7 Conducting World War II).",
+    "skill_code": "1.A",
+    "topic_code": "7.7"
+  },
+  {
+    "confidence": 0.85,
+    "id": "wh-princeton-pdf4-u8-009",
+    "rationale": "Stem asks which broader twentieth-century development the anti-apartheid struggle belongs to; the student identifies the development (anti-colonial movements for self-determination). Topic is decolonization-era struggles against white-minority rule (8.5 Decolonization After 1900).",
+    "skill_code": "1.A",
+    "topic_code": "8.5"
+  },
+  {
+    "confidence": 0.9,
+    "id": "wh-princeton-pdf5-u2-001",
+    "rationale": "Stem asks what Musa's account of copper-for-gold exchange most directly illustrates; the student identifies the development (the trans-Saharan trade circuit). Topic is the trans-Saharan trade routes (2.4 Trans-Saharan Trade Routes).",
+    "skill_code": "1.A",
+    "topic_code": "2.4"
+  },
+  {
+    "confidence": 0.7,
+    "id": "wh-princeton-pdf5-u4-002",
+    "rationale": "Stem asks what Columbus's description of the islanders as unarmed most directly foreshadows; the student identifies the development it points to (Spanish arguments that conquest would be easy). Topic is exploration and its consequences (4.2 Exploration: Causes and Events).",
+    "skill_code": "1.A",
+    "topic_code": "4.2"
+  },
+  {
+    "confidence": 0.85,
+    "id": "wh-princeton-pdf5-u4-012",
+    "rationale": "Stem asks whose interests are most clearly ignored by the Treaty of Tordesillas division; the student identifies the concept (Indigenous peoples' sovereignty assumed away). Topic is the exploration-era division of the world (4.2 Exploration: Causes and Events).",
+    "skill_code": "1.A",
+    "topic_code": "4.2"
+  },
+  {
+    "confidence": 0.85,
+    "id": "wh-princeton-pdf5-u6-005",
+    "rationale": "Stem asks what the sepoys' rallying around Bahadur Shah Zafar most directly demonstrates; the student identifies the concept (the Mughal dynasty's symbolic authority as a focus of resistance). Topic is indigenous responses to state expansion (6.3 Indigenous Responses to State Expansion).",
+    "skill_code": "1.A",
+    "topic_code": "6.3"
+  }
+]

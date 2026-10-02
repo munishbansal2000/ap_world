@@ -43,7 +43,9 @@
   },
   {
    "date": "1621 (chart of 15th-century voyages)",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wu_bei_zhi_LOC_2004633695-17.tif/800px-Wu_bei_zhi_LOC_2004633695-17.tif.jpg",
+      "image_url": "assets/images/dbq/dbq-02-doc6.jpg",
+   "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wu_bei_zhi_LOC_2004633695-17.tif/800px-Wu_bei_zhi_LOC_2004633695-17.tif.jpg",
+   "image_local_verified": "2026-10-02",
    "kind": "map",
    "license": "Public domain (1621 work)",
    "n": 6,
