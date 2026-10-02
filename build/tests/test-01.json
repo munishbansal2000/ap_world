@@ -1,0 +1,1135 @@
+{
+ "id": "ap-world-practice-test-01",
+ "format": "Fall 2026 CED",
+ "section_1a": {
+  "directions": "Each of the questions or incomplete statements below is followed by four suggested answers or completions. Select the one that is best in each case. You have 55 minutes.",
+  "questions": [
+   {
+    "n": 1,
+    "id": "wh-barrons-u9-010",
+    "unit": 9,
+    "stimulus": "A chart shows estimated numbers of people living with HIV/AIDS by region in the early 2000s. Sub-Saharan Africa accounts for the large majority of cases worldwide; South and Southeast Asia account for a substantial minority; North America, Western Europe, and Oceania account for small shares of the global total.",
+    "image_url": null,
+    "stem": "Which of the following conclusions is NOT supported by the chart?",
+    "options": [
+     "(A) Western Europe and North America had far fewer cases than sub-Saharan Africa",
+     "(B) Asia accounted for a substantial minority of global cases",
+     "(C) Sub-Saharan Africa had the largest number of people living with HIV/AIDS",
+     "(D) The chart proves that HIV/AIDS originated in Africa"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 2,
+    "id": "wh-princeton-u4-020",
+    "unit": 4,
+    "stimulus": "A 1667 plan of Batavia, the Dutch East India Company's capital on Java, shows a walled grid city: a fort and garrison barracks guarding one edge, the company administration building and marketplace at the center, residence blocks laid out in ordered rows, and a Muslim mosque, a Calvinist chapel, and a Buddhist stupa marking the city's religious diversity.",
+    "image_url": null,
+    "stem": "The combination of fort, administration building, and marketplace in Batavia's plan best illustrates which of the following about the Dutch East India Company?",
+    "options": [
+     "(A) The company combined trade, territorial rule, and military force like a state.",
+     "(B) The Dutch East India Company was purely a commercial firm with no political or military power.",
+     "(C) The Dutch made no military preparations in their Asian settlements.",
+     "(D) Batavia was built and governed by the Javanese."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 3,
+    "id": "wh-princeton-u4-007",
+    "unit": 4,
+    "stimulus": "Source 1: Diagram of a slave ship from the transatlantic slave trade, circa 1790. The diagram shows the cross-section and deck plans of a slave ship, with hundreds of human figures packed shoulder-to-shoulder in rows within the hold, illustrating the extreme crowding of the Middle Passage.\n\nSource 2: 'Are you a man? Then you should have an human heart. But have you indeed? What is your heart made of? Is there no such principle as compassion there? When you squeezed the agonizing creatures down in the ship, or when you threw their poor mangled remains into the sea, had you no relenting? If you do not, you must go on, till the measure of your iniquities is full. Then will the great GOD deal with you, as you have dealt with them, and require all their blood at your hands.'\n\nSource: John Wesley, Thoughts Upon Slavery, 1774",
+    "image_url": null,
+    "stem": "The triangular trade system best illustrates which of the following relationships?",
+    "options": [
+     "(A) Enslaved labor in the Americas produced commodities that fueled European commercial growth.",
+     "(B) The slave trade had no significant connection to European economic growth.",
+     "(C) African economies benefited equally with European ones from the trade.",
+     "(D) The triangular trade was mainly about exchanging European manufactured goods for Asian spices."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 4,
+    "id": "wh-princeton-u3-021",
+    "unit": 3,
+    "stimulus": "A sixteenth-century fresco portraying the 1453 Ottoman siege of Constantinople: Turkish soldiers and great cannon battering the city's massive land walls while defenders struggle to hold the breaches, the moment the Byzantine capital fell to Mehmed II.",
+    "image_url": null,
+    "stem": "The 1453 siege of Constantinople best illustrates which of the following changes in warfare?",
+    "options": [
+     "(A) The city's walls proved impregnable to all contemporary weapons.",
+     "(B) Gunpowder artillery could defeat the greatest fortifications of the medieval world.",
+     "(C) The Ottomans won the siege through naval blockade alone.",
+     "(D) Gunpowder played no significant role in the 1453 siege."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 5,
+    "id": "wh-princeton-pdf6-u2-002",
+    "unit": 2,
+    "stimulus": "Map: African trade centers, c. 1250-1600. In West Africa: the Ghana region, the Mali Empire (c. 1230s-1400s) with Timbuktu and the Hausa city-states, and the Songhai Empire (1460s-1591). The Sahara Desert lies to the north, crossed by caravan routes linking the Sahel to Mediterranean ports. In East and southern Africa: the Swahili city-states (1400s), including Mogadishu, Kilwa, and Sofala on the Indian Ocean coast, and Great Zimbabwe (1300s-1400s) in the interior. Also shown: the Red Sea, the Nile River, the Zambezi and Limpopo Rivers, and the Kalahari Desert. Trade routes connect gold-producing interior regions to both Saharan and Indian Ocean outlets.",
+    "image_url": null,
+    "stem": "Several major trading cities on the map, such as Timbuktu and the Hausa city-states, lie far from any ocean coast. What does their prosperity best demonstrate about African trade networks in this period?",
+    "options": [
+     "(A) Only cities on the Nile River could support large populations.",
+     "(B) Interior cities grew wealthy by deliberately cutting off all contact with foreign merchants and caravans.",
+     "(C) Coastal trade was unimportant compared with the Saharan trade.",
+     "(D) Inland cities could prosper when connected to long-distance caravan routes."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 6,
+    "id": "wh-princeton-pdf4-u8-004",
+    "unit": 8,
+    "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+    "image_url": null,
+    "stem": "The Communist Party produced posters like this one primarily in order to",
+    "options": [
+     "(A) Mobilize citizens' labor and enthusiasm behind state campaigns",
+     "(B) Advertise consumer goods for sale in Chinese shops and markets",
+     "(C) Publish accurate statistics about the nation's industrial output",
+     "(D) Encourage private entrepreneurship in the countryside and towns"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 7,
+    "id": "wh-barrons-u4-012",
+    "unit": 4,
+    "stimulus": "A world map shows European colonial claims in the 1600s–1700s: vast claimed territories, but actual European control mostly confined to coastlines, ports, and islands — with the interiors of Africa and Asia still governed by independent states.",
+    "image_url": null,
+    "stem": "Despite their naval technology, Europeans in this era generally could not conquer the interiors of Africa and Asia because",
+    "options": [
+     "(A) They possessed no ships",
+     "(B) International law forbade inland conquest",
+     "(C) They preferred to colonize the Arctic",
+     "(D) Disease and strong states kept them on the coasts"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 8,
+    "id": "wh-princeton-u7-005",
+    "unit": 7,
+    "stimulus": "Clifford Berryman's 1938 cartoon 'Telling the Italians!' shows Mussolini grandly announcing to the Italian people, taking credit for the expansionist achievements of Germany as though they were Italian victories.",
+    "image_url": null,
+    "stem": "Mussolini's invasion of Ethiopia in 1935 is most significant as evidence of which of the following?",
+    "options": [
+     "(A) It proved the League of Nations could enforce collective security worldwide.",
+     "(B) It was welcomed by most members of the League of Nations in Geneva.",
+     "(C) It exposed the League's inability to stop aggression by a major power.",
+     "(D) It had no significant international consequences at all."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 9,
+    "id": "wh-princeton-u6-012",
+    "unit": 6,
+    "stimulus": "Source 1: Map of European colonies in Africa, early twentieth century. The map shows Africa partitioned among the European powers: France controls most of northwest Africa, Britain controls Egypt, Sudan, and a corridor of eastern and southern Africa, Portugal holds Angola and Mozambique, Belgium holds the Congo, Germany holds several scattered colonies, and Italy holds Libya and territories in the Horn of Africa.\n\nSource 2: 'I repeat, that the superior races have a right because they have a duty. They have the duty to civilize the inferior races. I say that French colonial policy, the policy of colonial expansion, was inspired by the fact that a navy such as ours cannot do without safe harbors, defenses, supply centers on the high seas. Are you unaware of this? Look at a map of the world.'\n\nSource: Jules Ferry, On French Colonial Expansion, 1884",
+    "image_url": null,
+    "stem": "Taken together, Ferry's speech and the map of African colonies best illustrate which of the following about European imperialism?",
+    "options": [
+     "(A) Ferry openly opposed French colonial expansion.",
+     "(B) The map's boundaries were drawn by African leaders.",
+     "(C) Moral justifications for empire masked underlying economic and strategic motives.",
+     "(D) France colonized Africa solely to spread Christianity and build churches among its peoples."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 10,
+    "id": "wh-princeton-pdf6-u5-001",
+    "unit": 5,
+    "stimulus": "\"If I were to record the services I have rendered the French government, I should need many volumes. As a reward, I have been arbitrarily arrested at St. Domingo, bound, and put on board ship like a criminal, without regard for my rank. I was once worth 648,000 francs; I spent it in the service of my country. Today they seek to cover me with opprobrium and infamy. I am made the most unhappy of men: my liberty is taken from me, and I am separated from my aged father, my wife, and my children.\" - Toussaint L'Ouverture, memoirs written in a French prison, 1802. Context: L'Ouverture, a formerly enslaved man, led the revolution in the French colony of Saint-Domingue. After helping expel Spanish and British forces, he was seized by French troops in 1802 and deported to France, where he died in prison in 1803. Haiti declared independence in 1804.",
+    "image_url": null,
+    "stem": "In this passage, L'Ouverture stresses his sacrifices and service to France. What is the most likely purpose of this argument?",
+    "options": [
+     "(A) To request that the French government send more troops to defend Saint-Domingue against invasion.",
+     "(B) To persuade enslaved people in other colonies to remain peaceful.",
+     "(C) To argue that France should restore the monarchy.",
+     "(D) To rebut treason charges by showing that France, not he, betrayed the Revolution's promises."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 11,
+    "id": "wh-barrons-u9-012",
+    "unit": 9,
+    "stimulus": "A chart shows estimated numbers of people living with HIV/AIDS by region in the early 2000s. Sub-Saharan Africa accounts for the large majority of cases worldwide; South and Southeast Asia account for a substantial minority; North America, Western Europe, and Oceania account for small shares.",
+    "image_url": null,
+    "stem": "To measure how deadly the epidemic was in each region — not just how widespread — the chart would most need to add",
+    "options": [
+     "(A) the number of hospitals in each region",
+     "(B) each region's average temperature",
+     "(C) the number of languages spoken in each region's population",
+     "(D) Deaths from AIDS-related illnesses in each region"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 12,
+    "id": "wh-princeton-u6-010",
+    "unit": 6,
+    "stimulus": "Thomas Jones Barker's 1863 painting 'The Secret of England's Greatness' shows Queen Victoria in royal dress graciously presenting a Bible to a kneeling African chief, who receives it with deference. The composition presents the monarch as a majestic, almost sacred figure bestowing Christianity upon a grateful African ruler.",
+    "image_url": null,
+    "stem": "The painting's celebration of empire in 1863 best illustrates which of the following about Victorian Britain?",
+    "options": [
+     "(A) The monarchy's direct political power was steadily increasing in the 1860s.",
+     "(B) Imperial pride was becoming central to British identity as the monarchy's political power waned.",
+     "(C) The British public was largely indifferent to the empire in 1863.",
+     "(D) The painting was commissioned to oppose any further imperial expansion."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 13,
+    "id": "wh-barrons-u1-013",
+    "unit": 1,
+    "stimulus": "A map of Mesoamerica marks major pre-Columbian centers — Teotihuacan, Monte Albán, Tikal, Palenque, Copán — with arrows showing trade routes between them. Across these cities, archaeologists find recurring features: stepped pyramids, ritual ball courts, and similar religious iconography.",
+    "image_url": null,
+    "stem": "The shared features visible across the sites on the map are often traced by archaeologists to the influence of which earlier culture?",
+    "options": [
+     "(A) The Spanish colonizers of the 1500s",
+     "(B) The Mississippian peoples of North America",
+     "(C) The Olmec, Mesoamerica's 'mother culture'",
+     "(D) The Inca of the South American Andes"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 14,
+    "id": "wh-princeton-u3-020",
+    "unit": 3,
+    "stimulus": "A sixteenth-century fresco portraying the 1453 Ottoman siege of Constantinople: Turkish soldiers and great cannon battering the city's massive land walls while defenders struggle to hold the breaches, the moment the Byzantine capital fell to Mehmed II.",
+    "image_url": null,
+    "stem": "The fall of Constantinople in 1453 contributed to which of the following developments in Russia?",
+    "options": [
+     "(A) Orthodox Christianity ceased to exist.",
+     "(B) Moscow submitted to Ottoman religious authority after 1453.",
+     "(C) Moscow claimed the Byzantine legacy as the 'Third Rome'.",
+     "(D) The fall had no effect on Orthodox churches outside Constantinople at all."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 15,
+    "id": "wh-princeton-u4-006",
+    "unit": 4,
+    "stimulus": "Source 1: Diagram of a slave ship from the transatlantic slave trade, circa 1790. The diagram shows the cross-section and deck plans of a slave ship, with hundreds of human figures packed shoulder-to-shoulder in rows within the hold, illustrating the extreme crowding of the Middle Passage.\n\nSource 2: 'Are you a man? Then you should have an human heart. But have you indeed? What is your heart made of? Is there no such principle as compassion there? When you squeezed the agonizing creatures down in the ship, or when you threw their poor mangled remains into the sea, had you no relenting? If you do not, you must go on, till the measure of your iniquities is full. Then will the great GOD deal with you, as you have dealt with them, and require all their blood at your hands.'\n\nSource: John Wesley, Thoughts Upon Slavery, 1774",
+    "image_url": null,
+    "stem": "The extreme crowding shown in the slave-ship diagram is best explained by which of the following?",
+    "options": [
+     "(A) The crowding was accidental, caused by poor ship design.",
+     "(B) Traders packed ships tightly to improve the health and survival rates of the enslaved.",
+     "(C) The layout was designed for the comfort of the enslaved people.",
+     "(D) The packing reflected a profit calculation that treated human beings as cargo."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 16,
+    "id": "wh-barrons-t2-031",
+    "unit": 9,
+    "stimulus": "[Chart: 'Acceleration of Tree Cover Loss, 2001–2014' (World Resources Institute). A world map highlighting tropical regions — including parts of Southeast Asia, Central Africa, and South America — where the annual rate of forest loss sped up during the period.]",
+    "image_url": null,
+    "stem": "Because the chart tracks the acceleration of loss rather than total loss, a region suffering severe, long-running deforestation might not stand out if",
+    "options": [
+     "(A) It had already lost all of its forests before 2001",
+     "(B) Its yearly rate of loss stopped rising and held steady",
+     "(C) Its government banned logging during the period",
+     "(D) It replanted every tree that was cut down"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 17,
+    "id": "wh-princeton-u5-006",
+    "unit": 5,
+    "stimulus": "The image, 'Burning of the Plaine du Cap, 1791,' shows plantations in flames around Cap-Francais: great houses burning, fields alight, and columns of smoke rising as enslaved rebels attack the plantation district of northern Saint-Domingue in the uprising that began the Haitian Revolution.",
+    "image_url": null,
+    "stem": "The 1791 uprising depicted here is most historically significant because",
+    "options": [
+     "(A) It preserved the plantation system and slavery unchanged.",
+     "(B) It was quickly suppressed like most other slave revolts in the Caribbean.",
+     "(C) It was the only slave revolt to overthrow slavery and found a new state.",
+     "(D) It was led and organized by French abolitionists."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 18,
+    "id": "wh-fresh-u5-010",
+    "unit": 5,
+    "stimulus": "Group portrait of the Congress of Vienna (engraving, 1819, after Jean-Baptiste Isabey): dozens of bewigged diplomats and monarchs — including Metternich of Austria, Talleyrand of France, and representatives of Britain, Prussia, and Russia — seated around a conference table in a grand hall, with papers and maps spread before them. No ordinary citizens, soldiers, or revolutionaries appear in the scene.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wiener_kongress.jpg",
+    "stem": "Which of the following is the best-supported argument about the Congress of Vienna's long-term significance?",
+    "options": [
+     "(A) It permanently eliminated nationalism and liberalism from European politics",
+     "(B) It was a democratic gathering that gave ordinary Europeans a direct voice in redrawing the map and choosing the rulers of their own countries",
+     "(C) It restored conservative order for a generation, but could not prevent the nationalist and liberal revolutions of 1830 and 1848",
+     "(D) It had no influence outside Europe and was ignored by the rest of the world"
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 19,
+    "id": "wh-princeton-pdf4-u6-009",
+    "unit": 6,
+    "stimulus": "An 1882 American magazine cartoon titled 'The Only One Barred Out' shows a Chinese laborer stopped at a gate beneath the dome of the U.S. Capitol, while a smug figure labeled 'Enlightened American Statesman' declares, 'We must draw the line somewhere, you know.' In the background, immigrants of other nations stream through the open gate unhindered.",
+    "image_url": null,
+    "stem": "The 1882 law depicted in the cartoon was significant in American history because it was the first federal law to",
+    "options": [
+     "(A) Grant citizenship to all immigrants regardless of origin",
+     "(B) Establish Ellis Island as an immigration station",
+     "(C) Abolish all restrictions on immigration",
+     "(D) Bar immigration to the United States on ethnic grounds"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 20,
+    "id": "wh-princeton-u8-008",
+    "unit": 8,
+    "stimulus": "Clifford Berryman's 1938 cartoon 'Telling the Italians!' mocks Mussolini's Italy, depicting the fascist regime as an object of American ridicule on the eve of the Second World War.",
+    "image_url": null,
+    "stem": "Berryman's 1938 cartoon mocking Mussolini's Italy best illustrates which of the following about the United States in 1938?",
+    "options": [
+     "(A) The cartoon proves the United States government had already decided to enter the war by 1938.",
+     "(B) Many Americans held fascist Italy in contempt while the United States stayed neutral.",
+     "(C) American public opinion uniformly supported Mussolini and his regime in 1938.",
+     "(D) The cartoon was secretly commissioned by the Italian government as propaganda."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 21,
+    "id": "wh-princeton-pdf5-u7-003",
+    "unit": 7,
+    "stimulus": "[Image reconstructed from its caption] A Soviet newspaper image captioned 'Old Way of Life,' published in Izvestiia on International Women's Day, March 8, 1930. The image contrasts two worlds: on one side, the pre-revolutionary peasant woman — bent and weary, burdened with endless domestic labor in a dark hut under the watchful eyes of a stern husband and a priest; on the other, the new Soviet woman the state promised — upright and confident, a collective-farm worker and tractor driver striding toward a bright socialist future.",
+    "image_url": null,
+    "stem": "Which of the following developments of the 1930s most directly contradicted the emancipatory message of images like this one?",
+    "options": [
+     "(A) The 1936 abortion ban and laws promoting traditional family roles.",
+     "(B) The opening of universities to women students.",
+     "(C) The founding of the party's Zhenotdel women's department back in 1919.",
+     "(D) The election of women deputies to the Supreme Soviet."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 22,
+    "id": "wh-princeton-pdf5-u7-002",
+    "unit": 7,
+    "stimulus": "[Image reconstructed from its caption] A Soviet newspaper image captioned 'Old Way of Life,' published in Izvestiia on International Women's Day, March 8, 1930. The image contrasts two worlds: on one side, the pre-revolutionary peasant woman — bent and weary, burdened with endless domestic labor in a dark hut under the watchful eyes of a stern husband and a priest; on the other, the new Soviet woman the state promised — upright and confident, a collective-farm worker and tractor driver striding toward a bright socialist future.",
+    "image_url": null,
+    "stem": "The Soviet government's publication of images like this one on International Women's Day most directly reflects which of the following goals?",
+    "options": [
+     "(A) Restoring the Orthodox Church's authority over family life and marriage.",
+     "(B) Encouraging Soviet women to emigrate to the West.",
+     "(C) Limiting women's education to domestic skills.",
+     "(D) Drawing women into the paid workforce and the new collective farms."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 23,
+    "id": "wh-princeton-pdf5-u2-005",
+    "unit": 2,
+    "stimulus": "[Map reconstructed from its caption] A map of British undersea telegraph cables, circa 1870. Bold lines trace the cable routes from Britain across the Mediterranean to Alexandria in Egypt, then overland through Egypt to Suez, down the Red Sea to Aden, and across the Arabian Sea to Karachi and Bombay in India, with onward lines to Madras, Singapore, and Australia; a branch runs up the Persian Gulf. The map presents the whole network as a single British system binding London to its empire in Asia.",
+    "image_url": null,
+    "stem": "The network shown was part of a nineteenth-century communications revolution that shrank the time for a message between London and Bombay from months to hours. Which of the following best explains why such a network mattered to both empires and merchants?",
+    "options": [
+     "Faster information let governments direct distant officials and let merchants respond to distant markets.",
+     "The cables ended Britain's need for any ships or navies in Asian waters.",
+     "Instant communication made all colonial officials unnecessary.",
+     "The network was used only for personal letters between private individuals."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 24,
+    "id": "wh-princeton-u2-010",
+    "unit": 2,
+    "stimulus": "A 1667 plan of Batavia, the Dutch East India Company's capital on Java, shows a walled grid city: a fort and garrison barracks guarding one edge, the company administration building and marketplace at the center, residence blocks laid out in ordered rows, and a Muslim mosque, a Calvinist chapel, and a Buddhist stupa marking the city's religious diversity.",
+    "image_url": null,
+    "stem": "The presence of a mosque and a Buddhist stupa on the 1667 plan best illustrates which of the following about Java before Dutch colonization?",
+    "options": [
+     "(A) Java had no religious traditions of its own before the Dutch arrived in force.",
+     "(B) Java was already a crossroads of layered religions before the Europeans.",
+     "(C) Islam and Buddhism were introduced to Java by the Dutch.",
+     "(D) The Dutch introduced religious diversity to Java."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 25,
+    "id": "wh-princeton-pdf4-u8-001",
+    "unit": 8,
+    "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+    "image_url": null,
+    "stem": "The 1958 campaign promoted by this poster, known as the Great Leap Forward, was based on which of the following beliefs?",
+    "options": [
+     "(A) China should open its economy to foreign capitalist investment",
+     "(B) Economic growth requires slow, gradual market reforms",
+     "(C) Mass mobilization and ideological enthusiasm achieving rapid industrialization",
+     "(D) Only trained engineers and specialists should take part in industrial production"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 26,
+    "id": "wh-princeton-pdf4-u8-002",
+    "unit": 8,
+    "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+    "image_url": null,
+    "stem": "The most devastating human consequence of the campaign depicted in the poster was",
+    "options": [
+     "(A) Sustained rapid industrial growth that outpaced the Soviet Union",
+     "(B) A famine that killed tens of millions of Chinese people",
+     "(C) The immediate adoption of capitalist markets across China",
+     "(D) The peaceful reunification of China and Taiwan"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 27,
+    "id": "wh-princeton-u4-002",
+    "unit": 4,
+    "stimulus": "The map traces a sea route departing from Lisbon, sailing south along the Atlantic coast of Africa, rounding the Cape of Good Hope, continuing north along the East African coast, crossing the Indian Ocean to Calicut on India's Malabar Coast, and returning to Portugal by the same route. The voyage shown is that of Vasco da Gama, 1497-1499.",
+    "image_url": null,
+    "stem": "The voyage shown on the map was made possible primarily by which of the following?",
+    "options": [
+     "(A) Advances in ship design, sails, navigational instruments, and cartography made such voyages possible.",
+     "(B) The voyage depended on gunpowder weapons to defeat African navies along the route.",
+     "(C) European ships of the period were copied directly from Chinese ocean-going junks.",
+     "(D) The route could only have been sailed after the invention of steam-powered ships."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 28,
+    "id": "wh-fivesteps-u5-003",
+    "unit": 5,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Why did governments across the industrializing world subsidize railroad construction even when private investors hesitated?",
+    "options": [
+     "(A) Railroads could never turn a profit without permanent charity",
+     "(B) Railroads linked resources, factories, and markets into integrated national economies",
+     "(C) Railroads were built mainly to serve passenger tourism",
+     "(D) Governments built railroads mainly to provide salaried jobs for aristocrats and officials"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 29,
+    "id": "wh-barrons-u1-030",
+    "unit": 1,
+    "stimulus": "The Mongol rulers of the Golden Horde — the khanate controlling Russia and the western steppe — converted to Islam in the 1300s under leaders like Özbeg Khan, even as their cousins in China patronized Buddhism and their cousins in Persia also became Muslims.",
+    "image_url": null,
+    "stem": "The conversion of the Golden Horde's rulers to Islam best illustrates which Mongol trait?",
+    "options": [
+     "(A) Hostility to every form of religion",
+     "(B) Imposing Buddhism on the Russian population",
+     "(C) Religious adaptability — adopting the faiths of conquered majorities",
+     "(D) Forcing all subjects to convert to Mongolian shamanism by law"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 30,
+    "id": "wh-barrons-u9-013",
+    "unit": 9,
+    "stimulus": "A photograph shows a McDonald's restaurant sign in an Arabic-speaking country: the golden arches are unchanged, but the restaurant's name is written in Arabic script, and the menu includes items adapted to local tastes.",
+    "image_url": null,
+    "stem": "The translation of the sign into Arabic best illustrates which of the following?",
+    "options": [
+     "(A) A government ban on the English language",
+     "(B) Glocalization — global brands adapting locally",
+     "(C) The disappearance of all local culture",
+     "(D) Arab ownership of the McDonald's corporation itself"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 31,
+    "id": "wh-princeton-u3-019",
+    "unit": 3,
+    "stimulus": "A sixteenth-century fresco portraying the 1453 Ottoman siege of Constantinople: Turkish soldiers and great cannon battering the city's massive land walls while defenders struggle to hold the breaches, the moment the Byzantine capital fell to Mehmed II.",
+    "image_url": null,
+    "stem": "The Ottoman capture of Constantinople in 1453 is most significant for which of the following reasons?",
+    "options": [
+     "(A) It gave the Ottomans a new intercontinental capital.",
+     "(B) The Ottomans abandoned the city after conquering it in 1453.",
+     "(C) It destroyed all trade passing through the region.",
+     "(D) It ended Ottoman territorial expansion."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 32,
+    "id": "wh-fresh-u5-034",
+    "unit": 5,
+    "stimulus": "Contemporary engraving (Swebach-Desfontaines, 1793): 'Supplice de Louis XVI, Place de la Révolution, le 21 Janvier 1793.' The guillotine scaffold rises over the vast square before the Garde-Meuble; Louis XVI stands on the scaffold with his executioners while mounted soldiers and a huge crowd ring the scene.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/N%C2%B078_Supplice_de_Louis_XVI%2C_place_de_la_r%C3%A9volution._Le_21_Janvier_1793_ou_Ier_Pluvi%C3%B4se_An_Ier_de_la_R%C3%A9publique._G.28718.jpg",
+    "stem": "Which of the following is the best-supported argument about Napoleon's relationship to the French Revolution's principles?",
+    "options": [
+     "(A) He was the pure continuation of the Revolution, changing none of its principles",
+     "(B) He fully restored feudalism, brought back the old hereditary nobility, and returned the Catholic Church to its complete pre-revolutionary power in France",
+     "(C) He had no connection to the Revolution and ruled as a traditional absolute monarch",
+     "(D) He preserved some revolutionary gains — legal equality and the Code — while destroying others, such as the republic and colonial emancipation"
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 33,
+    "id": "wh-princeton-pdf6-u1-003",
+    "unit": 1,
+    "stimulus": "Image: a Ming dynasty paper banknote (baochao) issued under the Hongwu Emperor, c. 1375. The large rectangular note is printed with Chinese characters stating its denomination - one string (1,000 copper cash) - and bordered with a pattern of interlocking coins. An official red seal is stamped at the center. A printed warning reads: \"Counterfeiters shall be decapitated; informers shall receive a reward of 250 taels of silver.\" Source: British Museum.",
+    "image_url": null,
+    "stem": "By the late Ming dynasty, silver had largely replaced paper currency in China's economy. Which of the following best explains where this silver came from?",
+    "options": [
+     "(A) The Ming conquest of Japan supplied China's silver needs.",
+     "(B) Annual tribute payments in silver from European kingdoms to the Ming court.",
+     "(C) The melting down of all copper coinage.",
+     "(D) Spanish American silver reaching China via Pacific and Indian Ocean trade."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 34,
+    "id": "wh-fresh-u3-031",
+    "unit": 3,
+    "stimulus": "Historic Japanese map of Nagasaki Bay showing European (Dutch) trading ships anchored in the harbor and the small artificial island of Dejima near the city — the confined trading post of Dutch merchants under the Tokugawa shogunate.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+    "stem": "The sankin-kotai system of the Tokugawa shogunate most directly strengthened Tokugawa control by:",
+    "options": [
+     "(A) Forcing daimyo into costly processions and Edo residences that drained rebellious wealth, while holding their families hostage in the capital.",
+     "(B) Abolishing the great daimyo domains entirely and replacing every daimyo with loyal bureaucrats appointed directly by the shogunate in Edo.",
+     "(C) Requiring all daimyo to convert to Christianity.",
+     "(D) Granting the daimyo full independence from oversight by Edo."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 35,
+    "id": "wh-princeton-pdf5-u2-006",
+    "unit": 2,
+    "stimulus": "[Map reconstructed from its caption] A map of British undersea telegraph cables, circa 1870. Bold lines trace the cable routes from Britain across the Mediterranean to Alexandria in Egypt, then overland through Egypt to Suez, down the Red Sea to Aden, and across the Arabian Sea to Karachi and Bombay in India, with onward lines to Madras, Singapore, and Australia; a branch runs up the Persian Gulf. The map presents the whole network as a single British system binding London to its empire in Asia.",
+    "image_url": null,
+    "stem": "Britain's seizure of Aden in 1839 is best understood as part of which broader British strategy in the Indian Ocean?",
+    "options": [
+     "(A) Spreading Christianity throughout the Arabian Peninsula through missionary stations.",
+     "(B) Establishing a penal colony for British convicts.",
+     "(C) Securing coaling stations and fortified ports along the route to India.",
+     "(D) Conquering the Ottoman Empire's capital."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 36,
+    "id": "wh-princeton-pdf6-u2-001",
+    "unit": 2,
+    "stimulus": "Map: African trade centers, c. 1250-1600. In West Africa: the Ghana region, the Mali Empire (c. 1230s-1400s) with Timbuktu and the Hausa city-states, and the Songhai Empire (1460s-1591). The Sahara Desert lies to the north, crossed by caravan routes linking the Sahel to Mediterranean ports. In East and southern Africa: the Swahili city-states (1400s), including Mogadishu, Kilwa, and Sofala on the Indian Ocean coast, and Great Zimbabwe (1300s-1400s) in the interior. Also shown: the Red Sea, the Nile River, the Zambezi and Limpopo Rivers, and the Kalahari Desert. Trade routes connect gold-producing interior regions to both Saharan and Indian Ocean outlets.",
+    "image_url": null,
+    "stem": "The map shows both the trans-Saharan trade of West Africa and the Indian Ocean trade of East Africa. Which of the following best describes a difference between these two trading systems?",
+    "options": [
+     "(A) The Swahili city-states depended on Mali for most of their food, importing grain across the Sahara by caravan.",
+     "(B) Saharan trade crossed the desert by camel caravan; Swahili trade crossed the ocean by monsoon-driven ship.",
+     "(C) West African kingdoms traded directly with the Americas, while the Swahili states traded only with China.",
+     "(D) The gold fields of southern Africa caused the trans-Saharan trade to collapse."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 37,
+    "id": "wh-barrons-u1-022",
+    "unit": 1,
+    "stimulus": "A diagram shows a qanat: a gently sloping underground tunnel carrying groundwater from an upland aquifer to lowland fields, with vertical shafts dug at intervals for construction and maintenance. Similar systems appear from Persia to North Africa to western China.",
+    "image_url": null,
+    "stem": "The qanat technology originated in ancient Persia and later appeared from North Africa to China. Its spread best illustrates",
+    "options": [
+     "(A) European colonial engineering projects",
+     "(B) the agricultural methods of the Green Revolution",
+     "(C) the diffusion of useful technologies across Afro-Eurasia",
+     "(D) the independent invention of identical systems in every region"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 38,
+    "id": "wh-princeton-pdf5-u3-001",
+    "unit": 3,
+    "stimulus": "As to the barbarian countries on all sides that send tribute to the Court: on the east is Korea; on the southeast, the Liuqiu islands and Sulu; on the south, Annam and Siam; on the southwest, the lands of the Western Ocean, Burma, and Laos. All send officers as envoys to come to Court and present tributary memorials and pay tribute. As to the tribute objects, in each case they should send the products of the soil of the country; things that are not locally produced are not to be presented. — Rules governing tributary missions, from the Qing imperial statutes, 1764 edition",
+    "image_url": null,
+    "stem": "The rule that tribute goods must be 'the products of the soil of the country' most directly suggests that the tribute system was designed to do which of the following?",
+    "options": [
+     "(A) Raise cash revenue to pay the Qing imperial army.",
+     "(B) Let the court survey and catalog the natural resources of neighboring lands.",
+     "(C) Force foreign rulers to adopt Confucian rituals at court.",
+     "(D) Supply Chinese workshops with finished manufactured goods imported from foreign countries."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 39,
+    "id": "wh-fresh-u7-004",
+    "unit": 7,
+    "stimulus": "Black-and-white photograph, Battle of the Somme, July 1916. British soldiers of the Cheshire Regiment occupy a captured German trench near Ovillers-la-Boisselle, on the Albert-Bapaume road: one kneels on the parapet with fixed bayonet while another huddles below among wicker revetments and timber beams.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg",
+    "stem": "The historical situation captured in this photograph best illustrates which of the following?",
+    "options": [
+     "(A) War was still the work of small professional armies, as it had been in the nineteenth century",
+     "(B) New weapons had made battlefield deaths rare by 1916",
+     "(C) Civilians far from the front were untouched by the war",
+     "(D) Industrial states could raise mass citizen armies and sustain years of stalemate"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 40,
+    "id": "wh-princeton-u5-007",
+    "unit": 5,
+    "stimulus": "The image, 'Burning of the Plaine du Cap, 1791,' shows plantations in flames around Cap-Francais: great houses burning, fields alight, and columns of smoke rising as enslaved rebels attack the plantation district of northern Saint-Domingue in the uprising that began the Haitian Revolution.",
+    "image_url": null,
+    "stem": "The timing of the 1791 uprising, two years after the French Revolution began, is most significant because",
+    "options": [
+     "(A) The revolt had no connection to political events in France.",
+     "(B) The rebels appropriated the French Revolution's ideals of liberty to demand their own freedom.",
+     "(C) The Haitian rebels rejected all French political ideas.",
+     "(D) The French revolutionary government in Paris initiated and organized the slave uprising."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 41,
+    "id": "wh-princeton-u4-003",
+    "unit": 4,
+    "stimulus": "The map traces a sea route departing from Lisbon, sailing south along the Atlantic coast of Africa, rounding the Cape of Good Hope, continuing north along the East African coast, crossing the Indian Ocean to Calicut on India's Malabar Coast, and returning to Portugal by the same route. The voyage shown is that of Vasco da Gama, 1497-1499.",
+    "image_url": null,
+    "stem": "Which of the following best describes the impact of the new sea route shown on the map on Afro-Eurasian trade?",
+    "options": [
+     "(A) Asian rulers immediately opened their ports to merchants from every European nation.",
+     "(B) The Portuguese built large territorial empires across Asia like Spain's in the Americas.",
+     "(C) The spice trade shifted from overland routes to sea routes controlled by Europeans.",
+     "(D) Overland Silk Road trade increased as a result of the new sea route."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 42,
+    "id": "wh-princeton-u3-022",
+    "unit": 3,
+    "stimulus": "A sixteenth-century fresco portraying the 1453 Ottoman siege of Constantinople: Turkish soldiers and great cannon battering the city's massive land walls while defenders struggle to hold the breaches, the moment the Byzantine capital fell to Mehmed II.",
+    "image_url": null,
+    "stem": "The Ottoman organization of Christians and Jews into self-governing religious communities best illustrates which of the following?",
+    "options": [
+     "(A) The Ottomans sought the immediate forced conversion of all non-Muslims.",
+     "(B) Non-Muslims were excluded from all Ottoman economic life.",
+     "(C) The millet system of communal autonomy was invented in the nineteenth century.",
+     "(D) Religious autonomy in exchange for taxes was pragmatic governance."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 43,
+    "id": "wh-fresh-u9-027",
+    "unit": 9,
+    "stimulus": "Color photograph from a hilltop overlooking Shenzhen, China: a dense skyline of modern skyscrapers and residential towers stretches across the horizon, the built-up megacity filling the view. Caption: 'Shenzhen: from market town to megacity.'",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+    "stem": "The growth of the city shown resulted primarily from:",
+    "options": [
+     "(A) Deng Xiaoping's 1980 designation of Shenzhen as a Special Economic Zone open to foreign investment and export manufacturing",
+     "(B) the city's decision to ban all foreign trade",
+     "(C) Shenzhen's selection as China's capital in 1980",
+     "(D) the discovery of large oil reserves beneath the city"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 44,
+    "id": "wh-princeton-u6-019",
+    "unit": 6,
+    "stimulus": "The charts show coal production in Japan climbing steeply from negligible levels in 1875 to massive output by 1905, and the number of Japanese steamships rising from a handful in 1873 to several hundred by 1905, with both curves accelerating sharply after the 1880s.",
+    "image_url": null,
+    "stem": "The growth of Japanese naval power shown in the charts culminated in the Russo-Japanese War (1904-1905), whose outcome is most significant for which of the following reasons?",
+    "options": [
+     "(A) It proved European navies were invincible against non-Western powers.",
+     "(B) It inspired anti-colonial nationalists across Asia and Africa to resist empire.",
+     "(C) It led to the Russian colonization of Japan.",
+     "(D) It discouraged all Asian nationalist movements."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 45,
+    "id": "wh-princeton-pdf4-u8-003",
+    "unit": 8,
+    "stimulus": "A 1958 Chinese Communist Party propaganda poster shows smiling peasants and workers marching forward together, carrying farm tools, baskets of grain, and steel bars, beneath large red characters urging the people to brave the wind and the waves and to achieve miraculous feats of production through their own remarkable abilities.",
+    "image_url": null,
+    "stem": "The Great Leap Forward differed from the Soviet Union's Five-Year Plans of the 1930s primarily in its reliance on",
+    "options": [
+     "(A) Large-scale foreign loans borrowed from capitalist banks",
+     "(B) The complete abandonment of every industrial goal",
+     "(C) Private ownership of factories by individual entrepreneurs and investors",
+     "(D) Peasant labor in backyard furnaces, driven by political campaigns"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 46,
+    "id": "wh-barrons-u4-013",
+    "unit": 4,
+    "stimulus": "A world map shows European colonial claims in the 1600s–1700s, with the Caribbean dotted by the sugar islands of the Spanish, French, English, and Dutch — small territories that generated enormous wealth.",
+    "image_url": null,
+    "stem": "The sugar economy of the Caribbean depended on",
+    "options": [
+     "(A) Indigenous volunteers",
+     "(B) automated machinery",
+     "(C) enslaved African labor on plantations",
+     "(D) free European wage workers paid by the day"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 47,
+    "id": "wh-fresh-u7-003",
+    "unit": 7,
+    "stimulus": "Black-and-white photograph, Battle of the Somme, July 1916. British soldiers of the Cheshire Regiment occupy a captured German trench near Ovillers-la-Boisselle, on the Albert-Bapaume road: one kneels on the parapet with fixed bayonet while another huddles below among wicker revetments and timber beams.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg",
+    "stem": "The conditions shown in the photograph were most directly the result of which of the following?",
+    "options": [
+     "(A) The defensive advantage given by machine guns, rapid-fire artillery, and barbed wire",
+     "(B) The use of tanks to smash through trenches in the war's first months",
+     "(C) A deliberate decision by generals to protect their soldiers and hold casualties to a minimum",
+     "(D) The refusal of colonial soldiers to serve on the Western Front"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 48,
+    "id": "wh-princeton-pdf4-u3-003",
+    "unit": 3,
+    "stimulus": "Under the Mughal emperors, the collection of land revenue in northern India rested upon the zamindars, the hereditary chiefs and headmen of the countryside. The imperial treasury assessed each district's revenue, but it was the zamindar who gathered it from the peasantry, keeping a share for himself and forwarding the remainder to the emperor's officers. So long as the payments arrived, Delhi generally left these local lords undisturbed in their customs and authority. When the central government grew weak or distracted, however, a zamindar might withhold his revenue, raise his own followers, and rule his territory as an independent prince, only to submit again when an imperial army marched against him. Their loyalty, in short, was measured in silver, and it rose and fell with the fortunes of the throne.",
+    "image_url": null,
+    "stem": "According to the passage, Mughal authority in northern India depended primarily on",
+    "options": [
+     "(A) A large salaried bureaucracy that administered every village directly",
+     "(B) The abolition of all local chiefs and landlords",
+     "(C) Naval power in the Indian Ocean",
+     "(D) The cooperation of local elites who collected revenue for the throne"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 49,
+    "id": "wh-princeton-u1-012",
+    "unit": 1,
+    "stimulus": "Source 1: Reconstruction of the Aztec Great Temple of Tenochtitlan, fourteenth to early sixteenth century. The reconstruction shows a massive stepped pyramid with twin stairways climbing to two shrines at the summit, standing within a large walled ceremonial precinct.\n\nSource 2: 'This great city contains a large number of temples, very handsome edifices, situated in the different districts and the suburbs. Among these temples there is one which far surpasses all the rest; for within its precincts, surrounded by a lofty wall, there is room enough for a town of five hundred families. There are fully forty towers, lofty and well built, the largest of which has fifty steps leading to its main body, and is higher than the tower of the principal church at Seville. The stone and wood of which they are constructed are so well wrought in every part that nothing could be better done.'\n\nSource: Hernando Cortes, Second Letter to Charles V, circa 1520",
+    "image_url": null,
+    "stem": "The scale of the Great Temple complex as described by Cortés best illustrates which of the following about the Aztec state?",
+    "options": [
+     "(A) Aztec religion was a private, individual affair with no public dimension.",
+     "(B) The Aztec state could mobilize massive labor forces for ceremonial construction.",
+     "(C) The temples were constructed by Spanish missionaries after the conquest.",
+     "(D) The Aztecs lacked the organized labor needed for large building projects."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 50,
+    "id": "wh-barrons-u3-006",
+    "unit": 3,
+    "stimulus": "Babur wrote his memoirs in Chagatai Turkic, the language of his Central Asian homeland. A generation later, his grandson Akbar's court conducted administration in Persian, the prestigious literary language of Islamic civilization, while ruling a largely non-Muslim Indian population.",
+    "image_url": null,
+    "stem": "This combination best illustrates",
+    "options": [
+     "(A) the Mughals' complete rejection of everything Persian",
+     "(B) the spread of Arabic as India's common administrative tongue",
+     "(C) the Mughal court's adoption of Sanskrit for government business",
+     "(D) Turkic Central Asian origins layered with Persianate court culture"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 51,
+    "id": "wh-princeton-pdf6-u4-008",
+    "unit": 4,
+    "stimulus": "Chart: Estimated population of the Americas (North and South America combined), 1200-1900. The vertical axis uses a logarithmic scale from 1 million to 1,000 million; the horizontal axis marks each century. The curve begins at roughly 8-10 million in the 1200s, stays fairly flat through the 1400s, then plunges steeply during the 1500s to only a few million. It recovers gradually through the 1600s and 1700s, then climbs sharply after 1800, approaching 100 million by 1900.",
+    "image_url": null,
+    "stem": "A historian studying the colonial economies of the Americas would see the steep population decline of the 1500s as most directly contributing to which of the following?",
+    "options": [
+     "(A) The immediate abolition of all forced labor systems.",
+     "(B) A labor shortage that drove European demand for enslaved Africans.",
+     "(C) A rapid rise in wages for European artisans working in the Americas.",
+     "(D) The abandonment of plantation agriculture."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 52,
+    "id": "wh-princeton-u6-013",
+    "unit": 6,
+    "stimulus": "Source 1: Map of European colonies in Africa, early twentieth century. The map shows Africa partitioned among the European powers: France controls most of northwest Africa, Britain controls Egypt, Sudan, and a corridor of eastern and southern Africa, Portugal holds Angola and Mozambique, Belgium holds the Congo, Germany holds several scattered colonies, and Italy holds Libya and territories in the Horn of Africa.\n\nSource 2: 'I repeat, that the superior races have a right because they have a duty. They have the duty to civilize the inferior races. I say that French colonial policy, the policy of colonial expansion, was inspired by the fact that a navy such as ours cannot do without safe harbors, defenses, supply centers on the high seas. Are you unaware of this? Look at a map of the world.'\n\nSource: Jules Ferry, On French Colonial Expansion, 1884",
+    "image_url": null,
+    "stem": "Ferry's claim that empire is a 'duty' of 'superior races' differs from earlier imperial justifications in which of the following ways?",
+    "options": [
+     "(A) Earlier empires never offered justifications for their conquests.",
+     "(B) It replaced religious and dynastic justifications with a secular racial ideology.",
+     "(C) Ferry's argument for empire was purely economic.",
+     "(D) Ferry rejected all earlier European colonial practices."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 53,
+    "id": "wh-princeton-pdf4-u6-006",
+    "unit": 6,
+    "stimulus": "An 1835 engraving shows the interior of an English textile mill: rows of large iron power looms clatter in a long hall, tended by women and children, with leather belts and iron shafts overhead driving every machine from a single central steam engine.",
+    "image_url": null,
+    "stem": "The spread of machines like the one illustrated most directly contributed to which of the following social changes in nineteenth-century Britain?",
+    "options": [
+     "(A) A return of textile workers to rural cottage production and handlooms",
+     "(B) A sharp decline in the global demand for cotton cloth worldwide",
+     "(C) The growth of factory towns and a new industrial working class",
+     "(D) The immediate end of child labor in British industry by law"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 54,
+    "id": "wh-fivesteps-u5-008",
+    "unit": 5,
+    "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
+    "image_url": null,
+    "stem": "Wordsworth wrote as a young witness of 1789; Dickens wrote decades later, after the Terror. What does their difference illustrate about historical interpretation?",
+    "options": [
+     "(A) Older writers always judge the past more accurately",
+     "(B) Poetry is useless as historical evidence",
+     "(C) The Revolution had no genuine supporters",
+     "(D) A writer's moment in time and personal experience shape judgment of the same event"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 55,
+    "id": "wh-princeton-u6-009",
+    "unit": 6,
+    "stimulus": "Thomas Jones Barker's 1863 painting 'The Secret of England's Greatness' shows Queen Victoria in royal dress graciously presenting a Bible to a kneeling African chief, who receives it with deference. The composition presents the monarch as a majestic, almost sacred figure bestowing Christianity upon a grateful African ruler.",
+    "image_url": null,
+    "stem": "As imperial propaganda, this painting most clearly functions by",
+    "options": [
+     "(A) The painting accurately documents a real historical meeting between Victoria and an African ruler.",
+     "(B) The painting harshly criticizes British imperialism in Africa.",
+     "(C) The painting presents empire as a benevolent gift, concealing its conquest and exploitation.",
+     "(D) The African chief is depicted as Victoria's equal in power and status."
+    ],
+    "skill": "Sourcing and Situation"
+   }
+  ]
+ },
+ "section_1b": {
+  "directions": "Answer all three questions. Each question has three parts (a, b, and c). You have 40 minutes for this section.",
+  "saq_sets": [
+   {
+    "q1": {
+     "attribution": "—Historian's account of the Song dynasty's commercial revolution, 960–1279",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE way in which the Song economy changed between 960 and 1279.",
+      "b": "Explain ONE cause of the commercial growth described in the passage.",
+      "c": "Explain ONE continuity in Chinese governance that persisted despite the economic changes described in the passage."
+     },
+     "sample_answers": {
+      "a": "One change was the deep monetization of the economy: the Song state issued paper money and minted copper coins on an enormous scale, so taxes, wages, and long-distance trade increasingly ran on money rather than on barter or payment in kind.",
+      "b": "One cause was technological innovation in production, especially the use of coal in iron smelting, which lowered costs and expanded the output of tools, weapons, and coinage metal, feeding urban markets and interregional trade.",
+      "c": "One continuity was rule by a Confucian scholar-bureaucracy selected through civil service examinations. The state kept its centralized administrative structure and its ideological commitment to Confucian order even as commerce transformed daily life."
+     },
+     "source_type": "secondary text",
+     "stimulus": "During the Song dynasty (960–1279), China experienced what historians call a commercial revolution. Iron production soared with the use of coal, paper money circulated alongside copper coinage, and cities such as Hangzhou grew to more than a million residents supported by regional markets and interregional trade. Yet this economic dynamism unfolded inside a political system that never wavered in its Confucian bureaucratic character: scholar-officials selected by examination still governed, and the state still claimed ultimate authority over commerce."
+    },
+    "q2": {
+     "attribution": "—Adapted from Marco Polo, Venetian merchant's account of his travels in China, c. 1300",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE feature of Hangzhou that Marco Polo emphasizes in the passage.",
+      "b": "Explain ONE way the passage reflects China's participation in Afro-Eurasian exchange networks in the thirteenth century.",
+      "c": "Explain ONE limitation of using Polo's account as evidence about Song-dynasty China."
+     },
+     "sample_answers": {
+      "a": "Polo emphasizes the city's extraordinary size and wealth — its countless inhabitants, lofty houses, and people dressed in silk.",
+      "b": "The passage reflects exchange networks because a Venetian merchant was present in China at all: the Silk Roads and maritime routes of the Mongol era carried travelers, goods, and information between Europe and East Asia.",
+      "c": "One limitation is one of period: Polo traveled in the Mongol (Yuan) period, decades after the Song fell in 1279, so his description reflects Yuan-ruled Hangzhou, not Song conditions. He also wrote to impress a European audience and could not read Chinese, so he may have exaggerated the city's splendor through an admiring but incomplete foreigner's lens."
+     },
+     "source_type": "primary text",
+     "stimulus": "Hangzhou is without doubt the finest and most splendid city in the world. The houses are lofty and handsome, and the people dress in silk. So great is the multitude of its inhabitants that they cannot be counted, and the streets are kept clean and orderly."
+    },
+    "q3": {
+     "attribution": "Map of Northern Song China, c. 1100",
+     "directions": "Use the map below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE geographic feature of the Song state shown on the map.",
+      "b": "Explain ONE way the Song dynasty's geographic position affected its economic development.",
+      "c": "Explain ONE continuity in the political organization of China visible on the map compared with earlier imperial dynasties."
+     },
+     "sample_answers": {
+      "a": "The map shows the Song controlling only the eastern portion of historic China, with the Liao state occupying the north and Western Xia the northwest — China proper was divided among rival states.",
+      "b": "Cut off from the Central Asian overland routes by the Liao and Xia, the Song turned to the sea, expanding maritime trade through ports such as Quanzhou and Guangzhou, which funded the state through customs revenue.",
+      "c": "The map shows a single centralized imperial state with a capital administering a defined territory through provinces — the same centralized bureaucratic empire model used since the Qin and Han, even though its borders had shrunk."
+     },
+     "source_type": "non-text: map",
+     "stimulus": "Map of Northern Song China circa 1100, showing the imperial territory with its capital at Kaifeng, the neighboring Liao state to the north and Western Xia to the northwest, and major cities and rivers.",
+     "stimulus_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/China_-_Song_Dynasty_-_cs.svg/1280px-China_-_Song_Dynasty_-_cs.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    "reasoning_process": "continuity and change",
+    "set_id": "set-01",
+    "theme": "ECN",
+    "unit": 1,
+    "unit_title": "The Global Tapestry"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of Ibn Khaldun's theory of state formation in the fourteenth-century Islamic world",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE element of Ibn Khaldun's explanation for the rise of dynasties.",
+      "b": "Explain ONE cause of dynastic decline according to the interpretation in the passage.",
+      "c": "Explain ONE way Ibn Khaldun's theory could be applied to a state outside the Islamic world in the period 1200–1450."
+     },
+     "sample_answers": {
+      "a": "Dynasties rise, in his view, on asabiya — the group solidarity built through shared hardship in nomadic or tribal life, which gives a group the cohesion to conquer and rule.",
+      "b": "He argues that luxury and settled urban life erode the ruling group's solidarity within a few generations, leaving rulers dependent on paid soldiers and crushing taxes, which invites overthrow by a tougher new group.",
+      "c": "The theory could be applied to the Mongol Empire: united by steppe solidarity under Chinggis Khan, it fragmented within generations as the successor khanates settled into the luxurious courts of China, Persia, and Russia and lost their unifying cohesion."
+     },
+     "source_type": "secondary text",
+     "stimulus": "Writing in North Africa in the 1370s, the scholar Ibn Khaldun argued that dynasties rise on the strength of group solidarity — asabiya — forged in the hardships of nomadic life, and then decline as city luxury softens later generations. Rulers who begin as vigorous tribal chiefs become, within a few generations, palace-bound monarchs dependent on mercenaries and heavy taxation, until a new group with fresh solidarity overthrows them. For Ibn Khaldun, this was not a story about one dynasty but a recurring cycle in the history of states."
+    },
+    "q2": {
+     "attribution": "—Adapted from Ibn Khaldun, Muqaddimah (Introduction to History), 1377",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE claim Ibn Khaldun makes about luxury in the passage.",
+      "b": "Explain ONE piece of evidence from the history of Dar al-Islam between 1200 and 1450 that supports his claim.",
+      "c": "Explain ONE limitation of Ibn Khaldun's cyclical theory as an explanation for state formation."
+     },
+     "sample_answers": {
+      "a": "He claims that settled urban luxury weakens a ruling group's solidarity and causes its power to pass to others who still possess the toughness of desert life.",
+      "b": "The Abbasid caliphate's decline fits his claim: as Baghdad grew wealthy, the caliphs relied on Turkish slave-soldiers rather than Arab tribal solidarity, and real power slipped first to the Buyids and then to the Seljuks.",
+      "c": "The theory struggles with states that endured for centuries without collapsing on schedule — the Ottoman Empire, for example, maintained power for over 600 years through institutions such as the devshirme and a standing army, not just tribal solidarity."
+     },
+     "source_type": "primary text",
+     "stimulus": "When people settle in cities and grow accustomed to luxury, their group solidarity weakens. The ruling house, once vigorous, becomes accustomed to a life of ease and pleasure, and its power passes to others who still possess the toughness of desert life."
+    },
+    "q3": {
+     "attribution": "Copy of the world map of al-Sharif al-Idrisi, drawn 1154 for Roger II of Sicily (1929 copy by Konrad Miller)",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the map that reflects the geographic knowledge of the Islamic world in the twelfth century.",
+      "b": "Explain ONE cause of the advanced state of geographic knowledge shown on the map.",
+      "c": "Explain ONE way the map illustrates cultural interaction between the Islamic world and Christian Europe."
+     },
+     "sample_answers": {
+      "a": "The map shows a detailed, connected Afro-Eurasian world — from the Atlantic coast of Spain and North Africa across to India and China — reflecting knowledge gathered along Muslim trade and pilgrimage routes. (Note: south is at the top of the map.)",
+      "b": "One cause was the expansion of Islamic trade networks and the hajj pilgrimage, which moved merchants, scholars, and sailors across vast distances, generating firsthand geographic information that court geographers compiled.",
+      "c": "The map was made by a Muslim scholar working at the court of a Christian Norman king in Sicily, showing direct collaboration and the transfer of Islamic learning into Latin Europe."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "A copy of the world map drawn by the Muslim geographer al-Sharif al-Idrisi in 1154 for Roger II of Sicily. South is at the top; the map depicts the known world from Spain to China with detailed coastlines of the Mediterranean, Arabia, India, and East Africa.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tabula_Rogeriana_1929_copy_by_Konrad_Miller.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "causation",
+    "set_id": "set-02",
+    "theme": "GOV",
+    "unit": 1,
+    "unit_title": "The Global Tapestry"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of the Mongol impact on Afro-Eurasian trade in the thirteenth century",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE change the Mongol conquests brought to Afro-Eurasian trade.",
+      "b": "Explain ONE cause of the increased safety of long-distance trade under Mongol rule.",
+      "c": "Explain ONE continuity in the goods traded along the Silk Roads before and after the Mongol conquests."
+     },
+     "sample_answers": {
+      "a": "The Mongols unified the Silk Road routes under one political system, so merchants could travel from China to the Black Sea within a single empire's protection instead of crossing many rival states.",
+      "b": "One cause was the Mongols' deliberate policy of protecting merchants — they issued paiza passport tablets, punished robbery on the routes, and taxed trade lightly because they valued both the revenue and the luxury goods it brought.",
+      "c": "Silk, spices, and other luxury goods continued to flow west while horses and manufactured goods moved east; the Mongols intensified the volume of exchange but did not invent the luxury trade itself."
+     },
+     "source_type": "secondary text",
+     "stimulus": "Historians debate whether the Mongols were primarily destroyers or connectors. The conquests of the thirteenth century killed millions and leveled cities from Baghdad to Kyiv. Yet the peace the Mongols then imposed — the Pax Mongolica — made the Silk Roads safer than they had been in centuries: a single imperial administration guarded the routes, standardized weights and passport tablets, and welcomed merchants of every faith. The result was the largest surge of long-distance exchange the world had yet seen."
+    },
+    "q2": {
+     "attribution": "—Adapted from Ata-Malik Juvayni, Persian official and historian, account of the Mongol conquests, c. 1260",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE aspect of Mongol warfare described in the passage.",
+      "b": "Explain ONE reason the Mongols were able to conquer established states such as the Khwarazmian Empire.",
+      "c": "Explain ONE way Juvayni's position as a Persian official serving the Mongols might shape his account."
+     },
+     "sample_answers": {
+      "a": "The passage describes systematic destruction — undermining walls, burning, killing, and plundering — as deliberate Mongol strategy.",
+      "b": "One reason was superior mobility and coordination: Mongol cavalry armies moved faster than sedentary armies, used feigned retreats and Chinese siege engineers, and struck before divided rulers could unite against them.",
+      "c": "As a Persian bureaucrat who served the Mongol administration, Juvayni had reason both to record the horror of the conquest honestly and to present Mongol rule afterward as legitimate and orderly, since his own career depended on it."
+     },
+     "source_type": "primary text",
+     "stimulus": "Of the city of Bukhara, Juvayni wrote that the Mongols 'came, they sapped, they burnt, they slew, they plundered and they departed,' leaving a city that had been a center of Islamic learning in ruins."
+    },
+    "q3": {
+     "attribution": "Map of the Mongol Empire at its greatest extent, c. 1259",
+     "directions": "Use the map below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the Mongol Empire's territorial extent shown on the map.",
+      "b": "Explain ONE cause of the empire's division into separate khanates.",
+      "c": "Explain ONE continuity in the administration of conquered territories across the different khanates."
+     },
+     "sample_answers": {
+      "a": "The map shows a single empire stretching from Eastern Europe and Russia across Central Asia to China and Persia — the largest contiguous land empire in history.",
+      "b": "One cause was Chinggis Khan's division of the empire among his sons combined with the Mongol tradition of shared inheritance; the sheer distance between regions also made unified rule from one capital impractical.",
+      "c": "Across the khanates, Mongol rulers continued to rely on local bureaucrats and existing administrative systems — Persian officials in the Ilkhanate, Chinese scholar-officials in the Yuan — rather than replacing them with Mongol institutions."
+     },
+     "source_type": "non-text: map",
+     "stimulus": "Map of the Mongol Empire at its greatest extent, circa 1259, showing the four khanates: the Golden Horde in Russia and Central Asia, the Chagatai Khanate in Central Asia, the Ilkhanate in Persia, and the Yuan dynasty in China.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mongol_Empire_map.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "continuity and change",
+    "set_id": "set-03",
+    "theme": "ECN",
+    "unit": 1,
+    "unit_title": "The Global Tapestry"
+   }
+  ]
+ },
+ "section_2a": {
+  "directions": "Question 1 is based on the accompanying documents. The documents have been edited for the purpose of this exercise. You are advised to spend 15 minutes reading and planning and 45 minutes writing your answer.",
+  "dbq": {
+   "analysis_note": "All pre-1900 excerpts are plain-language renderings of public-domain sources.",
+   "documents": [
+    {
+     "date": "1246",
+     "kind": "text",
+     "n": 1,
+     "source_line": "Letter from the Mongol imperial chancery (Güyük Khan) to Pope Innocent IV",
+     "sourcing_note": "Written by the Mongol court, addressed to the Pope; purpose is to assert universal Mongol dominion and demand submission. Shows both Mongol ideology of conquest and the existence of long-distance diplomatic communication.",
+     "text_or_description": "This is the command of Güyük Khan to the great Pope. You ask us to submit, but it is you who must come in person, with all your kings, to serve us. If you refuse our order, we will count you among our enemies. This is decreed by the power of the Eternal Heaven."
+    },
+    {
+     "date": "c. 1300",
+     "kind": "text",
+     "n": 2,
+     "source_line": "Marco Polo, Venetian merchant, describing the court of the Great Khan (Khubilai)",
+     "sourcing_note": "A European merchant writing for a European audience; purpose is to describe the wealth and wonders he saw. His ability to travel from Venice to China and back illustrates the connectivity of the Mongol peace.",
+     "text_or_description": "In the city of Kanbalu the Great Khan has his mint. From the bark of mulberry trees they make a paper, cut into pieces of money of different values and stamped with the Khan's seal. All the people of his empire must accept it, and merchants from distant lands trade with it as readily as with gold."
+    },
+    {
+     "date": "c. 1340",
+     "kind": "text",
+     "n": 3,
+     "source_line": "Francesco Pegolotti, Florentine merchant, in a handbook for traders (La Pratica della Mercatura)",
+     "sourcing_note": "A practical guide written by an Italian merchant for other merchants; purpose is commercial instruction, not praise. Its matter-of-fact tone about the safety of the route is strong evidence for routine, large-scale overland trade.",
+     "text_or_description": "The road from Tana to Cathay is safe to travel by day and by night. A merchant carrying goods can go with confidence, for the Tartars guard the route and punish robbers. Whatever a man spends on the journey, he will recover with profit in Cathay."
+    },
+    {
+     "date": "1254",
+     "kind": "text",
+     "n": 4,
+     "source_line": "William of Rubruck, Franciscan friar, reporting on the Mongol capital Karakorum",
+     "sourcing_note": "A Catholic missionary writing to King Louis IX of France; purpose is to report on prospects for conversion. His surprise at religious diversity reveals Mongol policy rather than his own agenda.",
+     "text_or_description": "In Karakorum I found Nestorian Christians with their churches, Muslims with their houses of prayer, and Buddhist monks with their temples. The Khan permits every faith to practice freely, and on appointed days their priests debate before him while he listens."
+    },
+    {
+     "date": "1238",
+     "kind": "text",
+     "n": 5,
+     "source_line": "The Novgorod Chronicle, written by Russian Orthodox monks",
+     "sourcing_note": "Written by monks of a city the Mongols did not destroy; audience is fellow Christians. Purpose is to lament the invasion as divine punishment. Its horror reflects the conquerors' violence, though the religious framing shapes the telling.",
+     "text_or_description": "In the winter the godless Tatars came against the land of Rus'. They surrounded the cities, burned the churches, and slew the people without mercy. There was weeping and wailing, and none remained to bury the dead."
+    },
+    {
+     "date": "modern (historical map)",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mongol_Empire_map.gif",
+     "kind": "map",
+     "license": "CC BY-SA 3.0 (Wikimedia Commons)",
+     "n": 6,
+     "source_line": "Animated map of Mongol Empire expansion, 1206-1294",
+     "sourcing_note": "A modern historian's animated map; purpose is to illustrate expansion and division. Supports both arguments: unprecedented political unification of Eurasia, achieved through conquest — and its later fragmentation.",
+     "text_or_description": "This animated map shows the Mongol Empire expanding from 1206 to 1294: a single empire stretching from Eastern Europe and Persia across Central Asia to China and Korea, ending divided into four khanates (Golden Horde, Chagatai Khanate, Ilkhanate, Yuan).",
+     "source_page": "https://commons.wikimedia.org/wiki/File:Mongol_Empire_map.gif"
+    },
+    {
+     "date": "14th century",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
+     "kind": "image",
+     "license": "Public domain (14th-century album leaf; National Palace Museum, Taipei)",
+     "n": 7,
+     "source_line": "Portrait of Genghis Khan from a Yuan dynasty imperial album",
+     "sourcing_note": "Painted by a Yuan court artist for the imperial court; purpose is dynastic legitimation. A Mongol conqueror portrayed in the formal style of Chinese imperial portraiture shows cultural synthesis at the top of the empire.",
+     "text_or_description": "A formal seated portrait of Genghis Khan in imperial robes, painted in the traditional Chinese court style generations after his death.",
+     "source_page": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg"
+    }
+   ],
+   "id": "dbq-01",
+   "period": "c. 1200-1400",
+   "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which Mongol rule promoted or hindered cultural and economic exchange across Eurasia in the period c. 1200-1400.",
+   "reasoning_process": "comparison",
+   "rubric_map": {
+    "analysis": {
+     "complexity": "Multiple paths: argue exchange flourished because of conquest (Pax Mongolica) vs. despite it; corroborate trade claims across Docs 2 and 3; qualify by region (Doc 5 destruction in Rus' vs. Doc 4 tolerance at Karakorum); note Doc 1 itself is evidence of long-distance communication even as it threatens war.",
+     "sourcing": "Doc 1 (audience/purpose: a demand for submission sent across continents); Doc 3 (purpose: a merchant manual, unusually reliable on trade conditions); Doc 4 (point of view: a missionary surprised by tolerance); Doc 5 (context/purpose: monks framing invasion as divine punishment)."
+    },
+    "contextualization": "Situate Mongol expansion within the post-Abbasid fragmentation of Eurasia, the Song-Jin wars in China, and the growth of long-distance trade before 1200 (e.g., the Silk Roads under earlier empires).",
+    "evidence": {
+     "describe": "All seven documents are describable; strongest for describe-and-explain: Docs 2, 3, 4 (mechanisms of exchange), Doc 5 (destruction).",
+     "outside": "Outside evidence: the Yam postal relay system; transfer of gunpowder, printing, and medical knowledge; the Black Death's spread along Mongol trade routes; destruction of Baghdad (1258) and its libraries.",
+     "support": "'Promoted' line: Docs 2, 3, 4, 6, 7. 'Hindered' line: Docs 1, 5. Doc 6 (map) serves both: unity enabling trade, unity built by conquest."
+    },
+    "thesis": "An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."
+   },
+   "sample_thesis": "Although Mongol conquests brought terrible destruction to cities like those of Rus', Mongol rule promoted cultural and economic exchange across Eurasia to a greater extent because the Mongols' unification of the continent, religious tolerance, and protection of merchants created safer and more connected trade routes than had existed before.",
+   "themes": [
+    "ECN - Economic Systems",
+    "CDI - Cultural Developments and Interactions",
+    "GOV - Governance"
+   ],
+   "title": "The Mongols and Eurasian Exchange",
+   "units": [
+    1,
+    2
+   ]
+  }
+ },
+ "section_2b": {
+  "directions": "Answer the question below. You have 40 minutes.",
+  "leq": {
+   "id": "leq-01",
+   "format": "leq",
+   "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+   "units": [
+    2
+   ],
+   "themes": [
+    "ENV",
+    "ECN",
+    "TEC"
+   ],
+   "target_reasoning_process": "causation",
+   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+   "prompt": "In the period c. 1200-c. 1450, new technologies and commercial practices supported the growth of regional and trans-regional trade. Develop an argument that evaluates the extent to which technological innovation was responsible for the expansion of interregional trade in this period. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
+   "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the Mongol conquests and Pax Mongolica, the revival of Afro-Eurasian trade routes, demand for luxury goods in Song China and Europe, or the growth of maritime states.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: magnetic compass, sternpost rudder, lateen sails, caravanserai, paper money/flying cash, bills of exchange, improved ship designs (junks, dhows).",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the claim about technology's role (e.g., how a specific innovation lowered costs or opened new routes), not just named.",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: explains how and why technology did or did not cause trade growth, and weighs technology against other causes such as state policies, political stability, or demand.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+   },
+   "sample_thesis": "Although innovations such as the compass and improved ship design lowered the costs and risks of long-distance commerce, technology was only one of several causes of trade expansion; the political security provided by the Mongol Empire and growing state investment in commerce mattered at least as much.",
+   "evidence_directions": "Strong responses may contrast technological causes (navigational instruments, shipbuilding, commercial instruments like bills of exchange) with non-technological causes (Mongol protection of the Silk Roads, state-built infrastructure, demand from wealthy elites). Weaker responses that credit technology alone or ignore political context should be scored down on reasoning and complexity.",
+   "source_inspiration": "princeton-epub: princeton-pt1-leq2"
+  }
+ }
+}

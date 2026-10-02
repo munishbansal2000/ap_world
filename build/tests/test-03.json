@@ -1,0 +1,1136 @@
+{
+ "id": "ap-world-practice-test-03",
+ "format": "Fall 2026 CED",
+ "section_1a": {
+  "directions": "Each of the questions or incomplete statements below is followed by four suggested answers or completions. Select the one that is best in each case. You have 55 minutes.",
+  "questions": [
+   {
+    "n": 1,
+    "id": "wh-princeton-u2-006",
+    "unit": 2,
+    "stimulus": "The map shows trans-Saharan trade routes crossing the desert from the West African kingdoms of Mali and Songhai to North African ports, alongside Indian Ocean maritime routes linking the Swahili city-states of the East African coast to Arabia, India, and beyond. No significant routes cross the central African interior.",
+    "image_url": null,
+    "stem": "The prosperity of the Swahili city-states shown on the map best illustrates which of the following?",
+    "options": [
+     "(A) African societies took part in and profited from ocean commerce.",
+     "(B) East Africans were passive victims of Asian traders.",
+     "(C) The Swahili city-states were founded by European colonists.",
+     "(D) The trade brought no significant cultural change to East Africa."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 2,
+    "id": "wh-princeton-pdf6-u7-001",
+    "unit": 7,
+    "stimulus": "Source 1 - \"The Steam Roller,\" a political cartoon from the satirical magazine Judge, March 9, 1917: a giant steamroller labeled \"Votes for Women\" crushes flat the tiny figures of its opponents, who flee before it. Source 2 - Jane Addams, \"Why Women Should Vote,\" 1915 (excerpt): \"If woman would fulfill her traditional responsibility to her own children; if she would protect factory children who must find their recreation on the street; if she would bring cultural forces to bear upon our materialistic civilization - then she must bring herself to the use of the ballot, that latest implement for self-government.\"",
+    "image_url": null,
+    "stem": "Addams argues that women need the vote in order to carry out their \"traditional responsibility\" to children. What political strategy does this argument reflect?",
+    "options": [
+     "(A) Arguing that women are intellectually superior to men.",
+     "(B) Demanding the immediate overthrow of the government.",
+     "(C) Claiming that women deserve the vote because men have failed at governing well.",
+     "(D) Presenting suffrage as an extension of women's domestic roles."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 3,
+    "id": "wh-fresh-u3-054",
+    "unit": 3,
+    "stimulus": "By 1700, states as different as France, Prussia, Russia, the Ottoman Empire, and Mughal India all maintained standing armies, centralized tax systems, and professional or semi-professional bureaucracies.",
+    "image_url": null,
+    "stem": "The pattern described is best understood in the context of which of the following?",
+    "options": [
+     "(A) A uniquely European invention of modern government that the great land empires of Asia later copied, imitated, and adapted to their own societies.",
+     "(B) Parallel Eurasian responses to the fiscal-military pressures of gunpowder warfare: rulers needed reliable revenue and loyal administrators.",
+     "(C) The direct export of French administrative models to Asia by Jesuit missionaries.",
+     "(D) The worldwide abolition of monarchies during the 1700s."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 4,
+    "id": "wh-barrons-t2-036",
+    "unit": 6,
+    "stimulus": "[Map: Africa around 1900, divided into European colonies and protectorates — British, French, German, Portuguese, Belgian, and Italian holdings covering nearly the entire continent, with only Ethiopia and Liberia uncolonized.]",
+    "image_url": null,
+    "stem": "Which development most directly enabled Europeans to impose the boundaries shown on the map?",
+    "options": [
+     "(A) African rulers inviting European powers to draw their borders at conferences held in European capitals like Berlin",
+     "(B) The United States financing European colonial administrations",
+     "(C) Industrial-era weapons and medicines that let Europeans defeat African states and survive in the interior",
+     "(D) The end of all trade between Europe and Africa"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 5,
+    "id": "wh-fresh-u3-039",
+    "unit": 3,
+    "stimulus": "Text excerpt: land-tax collection systems, c. 1600-1700. Ottoman Empire: timar cavalrymen received land-revenue grants in exchange for military service. Mughal Empire: zamindar intermediaries collected peasant land taxes and remitted a share to the treasury. France: royal intendants, appointed bureaucrats, supervised tax collection in the provinces, bypassing local nobles.",
+    "image_url": null,
+    "stem": "The three systems in the table are most similar in which of the following ways?",
+    "options": [
+     "(A) Each eliminated every intermediary between the ruler and the peasantry, creating a system of direct centralized rule over every village and district.",
+     "(B) Each was funded by taxes on overseas colonial trade.",
+     "(C) Each abolished the nobility's role in government.",
+     "(D) Each was a state's effort to secure reliable land revenue for armies and administration, via grants, intermediaries, or royal bureaucrats."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 6,
+    "id": "wh-princeton-u1-013",
+    "unit": 1,
+    "stimulus": "Source 1: Reconstruction of the Aztec Great Temple of Tenochtitlan, fourteenth to early sixteenth century. The reconstruction shows a massive stepped pyramid with twin stairways climbing to two shrines at the summit, standing within a large walled ceremonial precinct.\n\nSource 2: 'This great city contains a large number of temples, very handsome edifices, situated in the different districts and the suburbs. Among these temples there is one which far surpasses all the rest; for within its precincts, surrounded by a lofty wall, there is room enough for a town of five hundred families. There are fully forty towers, lofty and well built, the largest of which has fifty steps leading to its main body, and is higher than the tower of the principal church at Seville. The stone and wood of which they are constructed are so well wrought in every part that nothing could be better done.'\n\nSource: Hernando Cortes, Second Letter to Charles V, circa 1520",
+    "image_url": null,
+    "stem": "Cortés's comparison of the Great Temple's largest tower to 'the principal tower of the church at Seville' best illustrates which of the following?",
+    "options": [
+     "(A) European observers measured unfamiliar societies against familiar benchmarks.",
+     "(B) Cortés considered Aztec architecture superior to all European buildings he knew.",
+     "(C) The comparison proves the Aztecs copied Spanish church designs.",
+     "(D) Cortés refused to describe what he had seen in any detail."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 7,
+    "id": "wh-fivesteps-u9-001",
+    "unit": 9,
+    "stimulus": "",
+    "image_url": null,
+    "stem": "Which development most directly challenged the Washington Consensus in the late 1990s?",
+    "options": [
+     "(A) The collapse of the Soviet Union",
+     "(B) The founding of the WTO in 1995",
+     "(C) The East Asian financial crisis of 1997",
+     "(D) The adoption of the euro as Europe's common currency"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 8,
+    "id": "wh-fivesteps-u7-003",
+    "unit": 7,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "How did the Soviet Union convert its wartime military presence in Eastern Europe into lasting political domination?",
+    "options": [
+     "(A) Moscow installed loyal regimes backed by the Red Army",
+     "(B) They exercised genuine self-determination",
+     "(C) They were tied economically and politically to Western Europe",
+     "(D) They adopted isolationism to avoid future wars"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 9,
+    "id": "wh-princeton-pdf6-u1-001",
+    "unit": 1,
+    "stimulus": "Image: a Ming dynasty paper banknote (baochao) issued under the Hongwu Emperor, c. 1375. The large rectangular note is printed with Chinese characters stating its denomination - one string (1,000 copper cash) - and bordered with a pattern of interlocking coins. An official red seal is stamped at the center. A printed warning reads: \"Counterfeiters shall be decapitated; informers shall receive a reward of 250 taels of silver.\" Source: British Museum.",
+    "image_url": null,
+    "stem": "China used paper currency centuries before any other civilization. Which of the following developments best explains why paper money emerged in China first?",
+    "options": [
+     "(A) China had no metal with which to make coins.",
+     "(B) European merchants demanded that China adopt paper money for their trade.",
+     "(C) China's commercial economy generated transaction volumes suited to paper.",
+     "(D) The Chinese government banned all forms of trade."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 10,
+    "id": "wh-princeton-pdf4-u4-002",
+    "unit": 4,
+    "stimulus": "Our vessel lay three weeks upon the Guinea coast before our cargo was complete, the factors bringing the captives down in canoes from the inland markets. Once embarked, they were stowed between decks in so narrow a compass that none could turn or sit upright. Many fell into a settled despair, refusing all food though we offered them the best provisions aboard, and several starved themselves to death despite every effort to force nourishment upon them. On the twenty-seventh day at sea, a number of the men broke their irons in the night and rose against the crew; we recovered the ship only after a sharp fight in which eleven of them were killed and thrown overboard. Those who survived the crossing were sold at Bridgetown to the sugar planters, who set them at once to cutting cane.",
+    "image_url": null,
+    "stem": "European plantation owners in the Americas turned increasingly to enslaved African labor in the sixteenth and seventeenth centuries largely because",
+    "options": [
+     "(A) African kingdoms volunteered their subjects for work on American plantations",
+     "(B) European laborers arrived in the Americas in numbers too great to employ",
+     "(C) Native American populations had collapsed from disease, leaving too few laborers",
+     "(D) Enslaved Africans were legally classified as free wage workers in the colonies"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 11,
+    "id": "wh-princeton-pdf6-u3-002",
+    "unit": 3,
+    "stimulus": "Adapted from Jean Rousset de Missy, Life of Peter the Great (c. 1730): \"The tsar set out to reform Russian dress. Russians had always worn long beards with great pride, letting them hang upon their bosoms. Peter ordered that gentlemen, merchants, and officials who wished to keep their beards must pay a tax of one hundred rubles a year; commoners paid one kopek. Officers were posted at the gates of towns to collect it. The Russians regarded this as a grave sin by the tsar, as though he meant to abolish their religion.\" A copper 'beard token' dated 1705, stamped with a nose, mouth, and beard, was carried as proof that the tax had been paid.",
+    "image_url": null,
+    "stem": "Why would Peter the Great impose a tax on beards rather than simply outlawing them?",
+    "options": [
+     "(A) It pressured Russians toward European styles and raised revenue.",
+     "(B) Peter wanted to protect the traditional Russian clergy from any change.",
+     "(C) The Russian government lacked the authority to ban any custom.",
+     "(D) European advisors insisted that beards were medically necessary."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 12,
+    "id": "wh-princeton-pdf6-u6-008",
+    "unit": 6,
+    "stimulus": "Chart: Estimated population of the Americas (North and South America combined), 1200-1900. The vertical axis uses a logarithmic scale from 1 million to 1,000 million; the horizontal axis marks each century. The curve begins at roughly 8-10 million in the 1200s, stays fairly flat through the 1400s, then plunges steeply during the 1500s to only a few million. It recovers gradually through the 1600s and 1700s, then climbs sharply after 1800, approaching 100 million by 1900.",
+    "image_url": null,
+    "stem": "Which of the following best explains the sharp population rise after 1800?",
+    "options": [
+     "(A) The end of all disease in the Western Hemisphere.",
+     "(B) The political reunification of the long-vanished Inca and Aztec empires.",
+     "(C) Mass European migration for land and work during industrialization.",
+     "(D) The migration of Americans to Europe."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 13,
+    "id": "wh-princeton-pdf6-u2-005",
+    "unit": 2,
+    "stimulus": "Map: The Mongol Empire in Asia, early 13th century. From the original Mongolian heartland, the empire by 1227 stretched from the Russian principalities and Volga Bulgaria in the west, across the Kipchak steppe and the former Kara-Khitan Khanate, through the conquered Khwarazmian cities of Samarkand, Bukhara, and Merv, to Korea and the borders of Tibet in the east. Arrows trace the campaigns of Genghis Khan and his generals across Persia, the Caucasus, and toward eastern Europe. Text - adapted from Marco Polo, The Travels (c. 1300), on the Mongol imperial post: \"The Great Khan keeps relay stations across his whole empire, each a day's ride from the next, with fresh horses always ready. His messengers ride from station to station, covering two hundred miles or more in a day and night, so that news from even the remotest province reaches the Khan within days.\"",
+    "image_url": null,
+    "stem": "After the initial conquests, the Mongol Empire controlled most of Eurasia. This control most directly contributed to which of the following?",
+    "options": [
+     "The revival and protection of Silk Road trade under Mongol rule.",
+     "The permanent end of all contact between East Asia and Europe.",
+     "The conversion of the Mongol ruling class to Christianity.",
+     "The abandonment of gunpowder weapons across Asia."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 14,
+    "id": "wh-princeton-pdf4-u7-002",
+    "unit": 7,
+    "stimulus": "A Soviet World War II poster shows a young soldier and a young woman worker standing shoulder to shoulder beneath a red banner. The caption reads: 'Young men and women, defend the freedom, the motherland, and the honor that was won by your fathers.'",
+    "image_url": null,
+    "stem": "The 'freedom' and 'honor' that the poster says were 'won by your fathers' most directly refer to which of the following?",
+    "options": [
+     "(A) The Great Purge of the 1930s",
+     "(B) The Yalta Conference of 1945",
+     "(C) Russia's victories in World War I",
+     "(D) The Russian Revolution of 1917"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 15,
+    "id": "wh-fivesteps-u4-010",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Francis Bacon argued that natural knowledge should advance through which method?",
+    "options": [
+     "(A) From observation and experiment to general principles",
+     "(B) Deduction from the writings of ancient authorities",
+     "(C) Revelation through scripture",
+     "(D) Pure mathematical reasoning detached from experiment"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 16,
+    "id": "wh-barrons-u1-028",
+    "unit": 1,
+    "stimulus": "A map shows the Mongol Empire divided into four large khanates: the Yuan dynasty ruling China, the Ilkhanate in Persia, the Chagatai Khanate in Central Asia, and the Golden Horde across Russia and the western steppe. The once-unified empire founded by Genghis Khan has become four separate states.",
+    "image_url": null,
+    "stem": "The fragmentation shown on the map resulted most directly from",
+    "options": [
+     "(A) conquest of the empire by European armies",
+     "(B) a volcanic eruption that destroyed the capital",
+     "(C) succession disputes after Möngke Khan's death and the resulting Toluid civil war",
+     "(D) a unified, peaceful decision by all the Mongols to divide power equally"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 17,
+    "id": "wh-barrons-t1-020",
+    "unit": 3,
+    "stimulus": "[Image: 'Krishna Holds up Mount Govardhan to Shelter the Villagers of Braj,' a miniature painting from the Persian translation of the Harivamsha (Legend of Krishna), produced at the Mughal court, ca. 1590-1595. The Hindu deity Krishna, shown in blue, lifts a mountain to shelter villagers, rendered in refined Persian miniature style.]",
+    "image_url": null,
+    "stem": "The painting (ca. 1590) and Aurangzeb's later policies together best illustrate that",
+    "options": [
+     "(A) religious toleration under the Mughals fluctuated rather than steadily increasing",
+     "(B) Hindu-Muslim relations improved continuously and without interruption from Akbar onward",
+     "(C) the Mughal Empire collapsed immediately after Akbar's death",
+     "(D) Islam faded from Indian public life after 1600"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 18,
+    "id": "wh-princeton-pdf6-u4-006",
+    "unit": 4,
+    "stimulus": "Paraphrase of the Charter of the Dutch West India Company, granted by the Dutch States General, 1621: \"Knowing that the prosperity of our lands depends chiefly on navigation and trade, we grant this Company the sole right to trade and sail along the coasts of the Americas and West Africa. The Company may build forts, appoint governors, keep soldiers, make alliances and treaties with native princes, and wage defensive war - all in our name. Its capital shall be raised by selling shares to all who wish to invest, and its directors shall manage the enterprise for the profit of the shareholders.\"",
+    "image_url": null,
+    "stem": "Which of the following mercantilist ideas best explains why European states created chartered companies?",
+    "options": [
+     "(A) Governments should avoid interfering in the economy and let markets work alone.",
+     "(B) Nations grow wealthy by controlling trade and directing colonial profits home.",
+     "(C) Colonies should be allowed to trade freely with any nation.",
+     "(D) Wealth comes mainly from agricultural self-sufficiency."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 19,
+    "id": "wh-barrons-u1-029",
+    "unit": 1,
+    "stimulus": "A map shows the Mongol Empire divided into four rival khanates — Yuan China, the Ilkhanate, the Chagatai Khanate, and the Golden Horde — where a single unified empire had once guaranteed safe passage for merchants across Eurasia.",
+    "image_url": null,
+    "stem": "The process shown contributed to which change in Eurasian trade?",
+    "options": [
+     "(A) The invention of the Silk Road",
+     "(B) The unification of all Eurasian currencies under one system",
+     "(C) Weaker overland security, pushing Europe toward sea routes",
+     "(D) The complete end of all Eurasian trade"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 20,
+    "id": "wh-princeton-pdf6-u2-003",
+    "unit": 2,
+    "stimulus": "Map: African trade centers, c. 1250-1600. In West Africa: the Ghana region, the Mali Empire (c. 1230s-1400s) with Timbuktu and the Hausa city-states, and the Songhai Empire (1460s-1591). The Sahara Desert lies to the north, crossed by caravan routes linking the Sahel to Mediterranean ports. In East and southern Africa: the Swahili city-states (1400s), including Mogadishu, Kilwa, and Sofala on the Indian Ocean coast, and Great Zimbabwe (1300s-1400s) in the interior. Also shown: the Red Sea, the Nile River, the Zambezi and Limpopo Rivers, and the Kalahari Desert. Trade routes connect gold-producing interior regions to both Saharan and Indian Ocean outlets.",
+    "image_url": null,
+    "stem": "The map shows Great Zimbabwe in the gold-producing interior and Sofala and Kilwa on the Indian Ocean coast. Which commodity most directly linked the southern African interior to Indian Ocean markets?",
+    "options": [
+     "(A) Gold",
+     "(B) Salt",
+     "(C) Silk",
+     "(D) Wheat"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 21,
+    "id": "wh-barrons-t1-054",
+    "unit": 9,
+    "stimulus": "A political scientist writing in 1993 argued that with the Cold War over, future global conflict would be driven less by ideology or economics than by culture. The great divisions among peoples, he wrote, would follow the 'fault lines between civilizations,' with the West facing Islamic and Confucian states as the central focus of coming conflict. (Paraphrased from Samuel Huntington, 'The Clash of Civilizations,' 1993.)",
+    "image_url": null,
+    "stem": "A supporter of Huntington's thesis would most likely cite which development as confirmation?",
+    "options": [
+     "(A) the expansion of the European Union",
+     "(B) the growth of global trade after 1990",
+     "(C) sectarian violence in the former Yugoslavia",
+     "(D) the negotiated end of apartheid in South Africa"
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 22,
+    "id": "wh-princeton-u6-015",
+    "unit": 6,
+    "stimulus": "The charts show coal production in Japan climbing steeply from negligible levels in 1875 to massive output by 1905, and the number of Japanese steamships rising from a handful in 1873 to several hundred by 1905, with both curves accelerating sharply after the 1880s.",
+    "image_url": null,
+    "stem": "The steep upward trends shown in the charts are best explained by which of the following?",
+    "options": [
+     "(A) Industrialization happened spontaneously without government involvement.",
+     "(B) The Meiji government deliberately promoted industrialization as a state project.",
+     "(C) Japan industrialized mainly to supply its traditional artisan economy.",
+     "(D) Foreign powers directly administered Japan's industrialization."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 23,
+    "id": "wh-princeton-u3-014",
+    "unit": 3,
+    "stimulus": "'The Romanists have, with great adroitness, drawn three walls round themselves, with which they have hitherto protected themselves, so that no one could reform them, whereby all Christendom has fallen terribly. Firstly, if pressed by the temporal power, they have affirmed that the temporal power has no jurisdiction over them, but that the spiritual power is above the temporal. Secondly, if it were proposed to admonish them with the Scriptures, they objected that no one may interpret the Scriptures but the Pope. Thirdly, if they are threatened with a council, they pretend that no one may call a council but the Pope.\n\nThe second wall is even more tottering and weak: that they alone pretend to be considered masters of the Scriptures. They assume authority, saying that the Pope cannot err in matters of faith, whether he be evil or good, albeit they cannot prove it by a single letter. But were this true, where were the need and use of the Holy Scriptures? Let us burn them, and content ourselves with the unlearned gentlemen at Rome.'\n\nSource: Martin Luther, Address to the Nobility of the German Nation, 1520",
+    "image_url": null,
+    "stem": "Luther's decision to address his 'three walls' argument to the nobility of the German nation best illustrates which of the following about his reform strategy?",
+    "options": [
+     "(A) He believed the German nobles were better theologians than the clergy.",
+     "(B) He needed secular rulers to impose reforms the Church would never make itself.",
+     "(C) He was asking the German nobles to become Catholic bishops.",
+     "(D) He wanted the nobles to lead armies against France."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 24,
+    "id": "wh-fivesteps-u5-009",
+    "unit": 5,
+    "stimulus": "Paraphrase of two literary responses to the French Revolution: Charles Dickens, writing in 1859, opens with famous paired opposites, calling the age of revolution simultaneously the best and worst of times, an age of wisdom and of foolishness, a season of light and of darkness, a spring of hope and a winter of despair. William Wordsworth, remembering his youth during the Revolution's opening, writes simply that it was bliss to be alive in that dawn, and to be young was very heaven.",
+    "image_url": null,
+    "stem": "Both the American and French Revolutions protested unfair taxation. In which crucial respect did the French Revolution differ from the American?",
+    "options": [
+     "(A) Only the American Revolution involved taxation",
+     "(B) France had no tax grievances",
+     "(C) Both revolutions immediately restored their monarchies within a few years of republican rule",
+     "(D) The French Revolution overturned the entire social order; the American kept its elites"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 25,
+    "id": "wh-princeton-pdf5-u6-008",
+    "unit": 6,
+    "stimulus": "[Map reconstructed from its caption] A map of British undersea telegraph cables, circa 1870. Bold lines trace the cable routes from Britain across the Mediterranean to Alexandria in Egypt, then overland through Egypt to Suez, down the Red Sea to Aden, and across the Arabian Sea to Karachi and Bombay in India, with onward lines to Madras, Singapore, and Australia; a branch runs up the Persian Gulf. The map presents the whole network as a single British system binding London to its empire in Asia.",
+    "image_url": null,
+    "stem": "The cable's route through Egypt — rather than around the Cape of Good Hope — most directly reflects which of the following?",
+    "options": [
+     "(A) Britain's annexation of Egypt in 1870.",
+     "(B) An Ottoman ban on all British telegraph cables in Turkish and Egyptian waters.",
+     "(C) The 1869 opening of the Suez Canal, making Egypt the shortest link to India.",
+     "(D) French ownership of the canal, which excluded British cables."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 26,
+    "id": "wh-princeton-pdf5-u7-001",
+    "unit": 7,
+    "stimulus": "[Image reconstructed from its caption] A Soviet newspaper image captioned 'Old Way of Life,' published in Izvestiia on International Women's Day, March 8, 1930. The image contrasts two worlds: on one side, the pre-revolutionary peasant woman — bent and weary, burdened with endless domestic labor in a dark hut under the watchful eyes of a stern husband and a priest; on the other, the new Soviet woman the state promised — upright and confident, a collective-farm worker and tractor driver striding toward a bright socialist future.",
+    "image_url": null,
+    "stem": "The image's sharp contrast between the degraded 'old way of life' and the bright Soviet future best illustrates which technique of Soviet propaganda?",
+    "options": [
+     "(A) Praising the achievements of the tsarist era.",
+     "(B) Presenting the revolution as a break from a backward past.",
+     "(C) Urging women to return to traditional domestic roles in the home.",
+     "(D) Criticizing the Five-Year Plan as a failure."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 27,
+    "id": "wh-fivesteps-u5-021",
+    "unit": 5,
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "image_url": null,
+    "stem": "Why is the Haitian Revolution (1791-1804) unique among Atlantic revolutions?",
+    "options": [
+     "(A) It was the only slave revolt to create an independent state",
+     "(B) It restored slavery",
+     "(C) It was led by the French government acting to punish the white planters",
+     "(D) It failed to achieve independence"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 28,
+    "id": "wh-barrons-u4-005",
+    "unit": 4,
+    "stimulus": "A portrait shows Leonard Parkinson, a Maroon resistance fighter in Jamaica (c. 1796). Maroon communities across the Caribbean and the Americas were founded by Africans who escaped enslavement and built free societies in mountains and forests.",
+    "image_url": null,
+    "stem": "The largest and most famous maroon society in the Americas was",
+    "options": [
+     "(A) A maroon republic in the mountains of Jamaica",
+     "(B) Palmares in Brazil",
+     "(C) A maroon state in the swamps of Florida",
+     "(D) A maroon kingdom in the Andes"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 29,
+    "id": "wh-princeton-u8-002",
+    "unit": 8,
+    "stimulus": "I believe strongly and sincerely that with the deep-rooted wisdom and dignity, the innate respect for human lives, the intense humanity that is our heritage, the African race, united under one federal government, will emerge not as just another world bloc to flaunt its wealth and strength, but as a Great Power whose greatness is indestructible because it is built not on fear, envy and suspicion, nor won at the expense of others, but founded on hope, trust, friendship and directed to the good of all mankind. The emergence of such a mighty stabilising force in this strife-worn world should be regarded not as the shadowy dream of a visionary, but as a practical proposition, which the peoples of Africa can, and should, translate into reality. There is a tide in the affairs of every people when the moment strikes for political action. Such was the moment in the history of the United States of America when the Founding Fathers saw beyond the petty wranglings of the separate states and created a Union. This is our chance. We must act now. Tomorrow may be too late and the opportunity will have passed, and with it the hope of free Africa's survival.\n\nSource: I Speak of Freedom: A Statement of African Ideology by Kwame Nkrumah, 1961",
+    "image_url": null,
+    "stem": "Nkrumah's insistence that African greatness must not be 'won at the expense of others' primarily serves to",
+    "options": [
+     "(A) He is praising European colonial administration as a model for independent Africa.",
+     "(B) He contrasts his vision of African greatness with exploitative European imperialism.",
+     "(C) He believes Africa should imitate European military strategies to become a Great Power.",
+     "(D) He is rejecting all foreign historical models as irrelevant to Africa's future."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 30,
+    "id": "wh-fivesteps-u9-009",
+    "unit": 9,
+    "stimulus": "Paraphrase of Eleanor Roosevelt's 1958 remarks on human rights, delivered on the tenth anniversary of the Universal Declaration: Where do universal rights begin? In small places, close to home — places so small and so close that they cannot be seen on any maps of the world. Yet they are the world of the individual person: the neighborhood he lives in, the school or college he attends, the factory, farm, or office where he works. These are the places where every man, woman, and child seeks equal justice, equal opportunity, and equal dignity without discrimination. Unless these rights have meaning there, they have little meaning anywhere. Without concerted citizen action to uphold them close to home, we shall look in vain for progress in the larger world. The Declaration itself, adopted in 1948, opens by recalling that disregard for human rights produced barbarous acts that outraged the conscience of mankind, and proclaims a common standard of achievement for all peoples and nations.",
+    "image_url": null,
+    "stem": "Many newly independent nations after 1945 wrote bills of rights into their constitutions. What influence did the UDHR exert on them?",
+    "options": [
+     "(A) It was a binding treaty that compelled all states to obey it",
+     "(B) Newly independent states universally rejected its principles",
+     "(C) It applied only to European nations",
+     "(D) A model vocabulary of rights that new states adopted"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 31,
+    "id": "wh-barrons-u5-009",
+    "unit": 5,
+    "stimulus": "Usman dan Fodio's 1804 jihad in West Africa proclaimed a purified Islamic state under a caliph uniting religious and political authority. Half a century later, al-Hajj Umar Tall launched a similar Islamic reform jihad in the same region, likewise denouncing corrupt rulers and founding a new state.\n\nAl-Hajj Umar Tall's jihad (1850s–1860s) in the Senegal valley followed the same script: denunciation of corrupt rulers, proclamation of a purified Islamic state, and military expansion under a leader uniting spiritual and temporal authority. Both movements belong to the great nineteenth-century wave of Islamic reform jihads across West Africa — responses to the perceived decay of Muslim rulership and the first pressures of European encroachment.",
+    "image_url": null,
+    "stem": "The movement described is most similar to which of the following?",
+    "options": [
+     "(A) Other West African reform jihads",
+     "(B) The Protestant Reformation in Europe",
+     "(C) The Meiji Restoration in Japan",
+     "(D) The Russian Revolution of 1917"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 32,
+    "id": "wh-fresh-u3-026",
+    "unit": 3,
+    "stimulus": "Map of Russian territorial growth from 1547 to 1725, showing the stages by which the empire expanded eastward from Muscovy across Siberia to the Pacific Ocean.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+    "stem": "Russian expansion across Siberia, shown on the map, is best understood in the context of which of the following?",
+    "options": [
+     "(A) A European search for direct sea routes to Asian markets, which Russia pursued by constructing a powerful Atlantic fleet and naval bases.",
+     "(B) A land-based empire's drive to secure furs and strategic depth, using Cossack bands and fur tribute like other expanding land empires.",
+     "(C) A campaign by the Russian Orthodox Church to convert the Ottoman Empire.",
+     "(D) An alliance with the Qing dynasty to partition the Japanese islands."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 33,
+    "id": "wh-princeton-pdf6-u4-005",
+    "unit": 4,
+    "stimulus": "Paraphrase of the Charter of the Dutch West India Company, granted by the Dutch States General, 1621: \"Knowing that the prosperity of our lands depends chiefly on navigation and trade, we grant this Company the sole right to trade and sail along the coasts of the Americas and West Africa. The Company may build forts, appoint governors, keep soldiers, make alliances and treaties with native princes, and wage defensive war - all in our name. Its capital shall be raised by selling shares to all who wish to invest, and its directors shall manage the enterprise for the profit of the shareholders.\"",
+    "image_url": null,
+    "stem": "The charter gives the Company powers to build forts, sign treaties, and maintain soldiers. What does this grant best illustrate about early modern European expansion?",
+    "options": [
+     "(A) Private trading companies exercised powers normally reserved for governments.",
+     "(B) European states refused to involve themselves in overseas trade and expansion.",
+     "(C) The Company was intended to replace the Dutch government at home.",
+     "(D) Native rulers in the Americas welcomed European military bases."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 34,
+    "id": "wh-princeton-pdf5-u8-010",
+    "unit": 8,
+    "stimulus": "This government represents a regime whose leader and his father held power illegally; this government is therefore illegal. How can anyone appointed by the Shah be legal? We tell all of them that they are illegal and that they should go. We hereby announce that this government, which presents itself as a legal government, is in fact illegal; even its own ministers, before accepting office, considered the whole establishment to be illegal. Only America backs him and has ordered the army to support him. Britain has backed him too and has said that he must be supported. If one searched among the nation, one would not find a single person, in any stratum, who accepts this man — yet he says one country cannot have two governments. Well, of course it is clear that this country does not have two governments, and in any case the illegal government must go. — Ayatollah Khomeini, denouncing the Shah's government, Iran, 1979",
+    "image_url": null,
+    "stem": "The 'illegal government' Khomeini denounces was the cabinet of Shapour Bakhtiar, appointed by the shah in January 1979. Khomeini's return to Iran the following month led most directly to which of the following?",
+    "options": [
+     "(A) The restoration of the shah to full power.",
+     "(B) Iran's admission to NATO.",
+     "(C) The establishment of the Islamic Republic of Iran.",
+     "(D) A United States military occupation of Tehran and Iran."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 35,
+    "id": "wh-princeton-u6-016",
+    "unit": 6,
+    "stimulus": "The charts show coal production in Japan climbing steeply from negligible levels in 1875 to massive output by 1905, and the number of Japanese steamships rising from a handful in 1873 to several hundred by 1905, with both curves accelerating sharply after the 1880s.",
+    "image_url": null,
+    "stem": "The Meiji government's emphasis on coal and steamship production best reflects which of the following priorities?",
+    "options": [
+     "(A) Japan sought to become primarily an agricultural exporter.",
+     "(B) The goal was to supply consumer goods for domestic markets.",
+     "(C) Meiji industrialization was meant to preserve the Tokugawa social order intact.",
+     "(D) Japan built heavy industry for military power to revise the unequal treaties."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 36,
+    "id": "wh-fresh-u2-009",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Silk Road Trade (c. 1200 CE).' Dashed red lines mark overland caravan routes running from Chang'an (Xi'an) through Samarkand, Merv, and Baghdad to Constantinople and the Black Sea ports, with a southern branch passing through India. Goods are labeled at their points of origin: silk, porcelain, paper, and tea from China; horses from Andijan; textiles from Persia; fabric, perfume, and spices from India; incense from Arabia; furs from Siberia. A blue dashed line traces the Chinese coastal route from Beijing through Hangzhou to the coast. The region over Persia is labeled 'PERSIA/ILKHANATE.'",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
+    "stem": "The networks shown on the map most directly contributed to which of the following developments in the fourteenth century?",
+    "options": [
+     "(A) The complete isolation of sub-Saharan Africa from world trade",
+     "(B) The rapid spread of the bubonic plague from Central Asia to the Middle East and Europe",
+     "(C) The abandonment of paper money across Eurasia in favor of a return to simple barter",
+     "(D) The end of all religious exchange between Asia and Europe"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 37,
+    "id": "wh-fresh-u9-025",
+    "unit": 9,
+    "stimulus": "News report, Berlin, November 1989 (paraphrased): Crowds of East and West Berliners climbed onto the Berlin Wall near the Brandenburg Gate, celebrating and chipping pieces from it with hammers as border guards stood by.",
+    "image_url": null,
+    "stem": "The scene is best understood in the context of:",
+    "options": [
+     "(A) the construction of the Berlin Wall in 1961",
+     "(B) Gorbachev's decision not to use Soviet military force to preserve communist governments in Eastern Europe",
+     "(C) the reunification of Germany after World War I, when the Treaty of Versailles merged East and West Germany into one country",
+     "(D) the signing of the Treaty of Versailles in 1919"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 38,
+    "id": "wh-princeton-u4-021",
+    "unit": 4,
+    "stimulus": "A 1667 plan of Batavia, the Dutch East India Company's capital on Java, shows a walled grid city: a fort and garrison barracks guarding one edge, the company administration building and marketplace at the center, residence blocks laid out in ordered rows, and a Muslim mosque, a Calvinist chapel, and a Buddhist stupa marking the city's religious diversity.",
+    "image_url": null,
+    "stem": "The geometric grid layout of Batavia best illustrates which of the following?",
+    "options": [
+     "(A) The city grew organically without any central planning at all.",
+     "(B) The layout follows traditional Javanese urban patterns very closely.",
+     "(C) The Dutch imposed planned order to display and enforce authority.",
+     "(D) The plan shows a city without any social hierarchy."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 39,
+    "id": "wh-fresh-u2-013",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 011-013. Map titled 'Asia under the Mongols, 1290 A.D.' The Mongol Empire is divided into four labeled divisions: the EMPIRE OF THE GREAT KHAN (Yuan) across China and Mongolia, the ILKHAN EMPIRE in Persia, the GOLDEN HORDE across the western steppes and Russia, and the DJAGATAI EMPIRE in Central Asia. A red line marks the route of Marco Polo (1271-1295), running overland from Europe across the empire to China and back by sea.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
+    "stem": "Which of the following best explains the political development shown on the map — the division of the Mongol Empire into four khanates?",
+    "options": [
+     "(A) The Mongols gave up their empire because nomadic life could not work with ruling cities.",
+     "(B) Succession disputes plus the empire's vast size led Chinggis Khan's heirs to rule separate, increasingly independent realms.",
+     "(C) European crusaders conquered the western empire and split it among themselves.",
+     "(D) The khanates divided because a single Mongol defeat in the attempted invasions of Japan destroyed all Mongol military power."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 40,
+    "id": "wh-princeton-pdf5-u4-009",
+    "unit": 4,
+    "stimulus": "To settle the controversy between their sovereigns over which lands, among all those discovered in the ocean sea up to the present day, belong to each side, and for the sake of peace and concord and the preservation of the love between the King of Portugal and the King and Queen of Castile and Aragon, their representatives have covenanted and agreed as follows. A boundary — a straight line — shall be determined and drawn north and south, from pole to pole, across the said ocean sea, from the Arctic to the Antarctic pole. This line shall be drawn straight at a distance of 370 leagues west of the Cape Verde Islands, calculated by degrees or by whatever method is judged best and readiest, provided the distance is no greater than stated. All lands, both islands and mainlands, already found and discovered, or to be found and discovered hereafter, lying on the eastern side of this line — whether reached by the King of Portugal or by his vessels — in either north or south latitude, provided the said line is not crossed, shall belong to, and remain forever in the possession of, the King of Portugal and his successors. And all other lands, both islands and mainlands, already found or to be found hereafter, discovered or to be discovered hereafter by the King and Queen of Castile and Aragon or by their vessels, lying on the western side of this line after passing it toward the west, in either north or south latitude, shall belong to, and remain forever in the possession of, the King and Queen of Castile and Leon and their successors. — Treaty of Tordesillas between Spain and Portugal, 1494",
+    "image_url": null,
+    "stem": "The line drawn 370 leagues west of the Cape Verde Islands most directly resulted in which of the following?",
+    "options": [
+     "(A) Portugal's legal claim to Brazil.",
+     "(B) Spain's undisputed control of the Philippines.",
+     "(C) The end of all Portuguese voyaging in the Atlantic.",
+     "(D) France's permanent exclusion from the Americas."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 41,
+    "id": "wh-barrons-u8-007",
+    "unit": 8,
+    "stimulus": "During Algeria's war of independence (1954–1962), women served the FLN as couriers smuggling weapons through French checkpoints, as bombers in the Battle of Algiers, and as organizers, nurses, and fundraisers — roles the French had never imagined Algerian women playing.\n\nThe FLN deliberately deployed women where the French least expected them: young, European-looking Algerian women could pass French checkpoints carrying bombs in shopping bags — the Battle of Algiers (1956–57) made this tactic infamous. Women also ran the underground's logistics: safe houses, communications, fundraising. Their prominence embarrassed the French claim to be defending 'civilization,' and it created expectations — of equality after independence — that the new Algerian state would largely disappoint.",
+    "image_url": null,
+    "stem": "During the Algerian war itself, women participated prominently as",
+    "options": [
+     "(A) generals in the French army",
+     "(B) neutral observers with no role in the fighting",
+     "(C) soldiers of the Ottoman Empire",
+     "(D) FLN couriers, bombers, and organizers"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 42,
+    "id": "wh-fresh-u5-039",
+    "unit": 5,
+    "stimulus": "Technical diagram of a Watt steam engine, c. 1780 (from an 1878 engineering history). Labeled parts show the cylinder, the great overhead beam, the flywheel, and the centrifugal governor that regulated its speed — the rotary-motion engine able to drive mill machinery anywhere, not only beside water or a coal mine.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/PSM_V12_D152_Watt_steam_engine_1780.jpg",
+    "stem": "A historian claims that Watt's engine was a key enabling technology of the Industrial Revolution. Which evidence best supports this claim?",
+    "options": [
+     "(A) The engine provided reliable rotary power independent of water or wind, letting factories locate in cities near workers and markets",
+     "(B) The engine was immediately used to build steam railroads across every continent in the 1770s, decades before Stephenson, even in Asia",
+     "(C) Watt's engine replaced all human workers in British factories",
+     "(D) The engine was powered by electricity, the era's newest energy source"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 43,
+    "id": "wh-fresh-u5-019",
+    "unit": 5,
+    "stimulus": "Contemporary engraved portrait (c. 1802): Toussaint Louverture in the uniform of a French general, captioned 'Toussaint Louverture.' He had been born enslaved in Saint-Domingue and rose to command its armies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Portret_van_Toussaint_Louverture%2C_RP-P-1878-A-2156.jpg",
+    "stem": "Which sequence best explains how French government policies shaped the course of the Haitian Revolution?",
+    "options": [
+     "(A) France supported the enslaved rebels from the very start of the 1791 uprising and then willingly granted Haiti full and unconditional independence in 1804 after negotiations in Paris",
+     "(B) The United States intervened militarily to secure Haitian independence from France",
+     "(C) The National Convention's 1794 abolition decree won Black support for France; Napoleon's 1802 expedition to restore slavery then reignited a full war for independence",
+     "(D) Toussaint Louverture remained loyal to France throughout and opposed Haitian independence"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 44,
+    "id": "wh-fresh-u5-022",
+    "unit": 5,
+    "stimulus": "Key events of Latin American independence, 1810–1825: Mexico — Hidalgo's revolt, 1810; independence, 1821, under Iturbide; Gran Colombia — Bolívar's campaign, victory at Boyacá, 1819; Peru — San Martín crosses the Andes, 1817, enters Lima, 1821; Chile — Maipú, 1818; Brazil — independence, 1822, under Pedro I. Bolívar campaigned in the north and San Martín in the south; the two generals met at Guayaquil in 1822.",
+    "image_url": null,
+    "stem": "Compared with the Haitian Revolution, the Spanish American independence movements were distinctive in that:",
+    "options": [
+     "(A) they abolished slavery immediately and completely at the moment of independence in every new Spanish American republic without exception",
+     "(B) they were led by enslaved people who overthrew the planter class",
+     "(C) they produced no lasting independent states",
+     "(D) they were led by creole elites who broke with Spain but largely preserved slavery and the colonial social hierarchy"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 45,
+    "id": "wh-princeton-u6-014",
+    "unit": 6,
+    "stimulus": "Source 1: Map of European colonies in Africa, early twentieth century. The map shows Africa partitioned among the European powers: France controls most of northwest Africa, Britain controls Egypt, Sudan, and a corridor of eastern and southern Africa, Portugal holds Angola and Mozambique, Belgium holds the Congo, Germany holds several scattered colonies, and Italy holds Libya and territories in the Horn of Africa.\n\nSource 2: 'I repeat, that the superior races have a right because they have a duty. They have the duty to civilize the inferior races. I say that French colonial policy, the policy of colonial expansion, was inspired by the fact that a navy such as ours cannot do without safe harbors, defenses, supply centers on the high seas. Are you unaware of this? Look at a map of the world.'\n\nSource: Jules Ferry, On French Colonial Expansion, 1884",
+    "image_url": null,
+    "stem": "The speed with which Africa was partitioned between the 1880s and the early 1900s is best explained by which of the following?",
+    "options": [
+     "(A) The partition was achieved through diplomacy with willing African states.",
+     "(B) Europeans had controlled the African interior for centuries before 1880.",
+     "(C) The colonial partition was reversed within a decade.",
+     "(D) Industrial-era technologies enabled the rapid conquest of the interior."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 46,
+    "id": "wh-fresh-u3-029",
+    "unit": 3,
+    "stimulus": "Leo Africanus, Description of Africa (c. 1526), adapted from pre-1900 editions: 'In Timbuktu there are many judges, scholars, and priests, all supported by the king, who shows great respect to men of learning. Manuscripts brought from North Africa are sold here, and the book trade is more profitable than any other merchandise. The king, Askia Muhammad, made the pilgrimage to Mecca and endowed mosques and schools upon his return.'",
+    "image_url": null,
+    "stem": "A historian argues that trans-Saharan trade revenues enabled Songhai's Islamic cultural flowering. Which of the following best supports this argument?",
+    "options": [
+     "(A) Askia's patronage of scholars and mosques was funded by taxes on the gold and salt caravans passing through Songhai's trading cities.",
+     "(B) Songhai armies marched across the Sahara to conquer Mecca, seizing permanent control of pilgrimage revenues and the holy cities of Arabia.",
+     "(C) Portuguese merchants financed Timbuktu's universities in order to spread Christianity.",
+     "(D) Songhai banned all trade with North Africa to preserve the purity of Islam."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 47,
+    "id": "wh-princeton-u7-003",
+    "unit": 7,
+    "stimulus": "Clifford Berryman's 1938 cartoon 'Telling the Italians!' shows Mussolini grandly announcing to the Italian people, taking credit for the expansionist achievements of Germany as though they were Italian victories.",
+    "image_url": null,
+    "stem": "Berryman's depiction of Mussolini boasting about German conquests as if they were his own best illustrates which of the following about American media portrayals of the Axis?",
+    "options": [
+     "(A) Berryman portrayed Mussolini as the dominant partner in the Axis alliance.",
+     "(B) The cartoon shows that Americans admired Mussolini's leadership.",
+     "(C) The cartoon argues that fascist Italy posed no threat to anyone.",
+     "(D) American cartoonists depicted Mussolini as a boastful junior partner riding on Hitler's coattails."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 48,
+    "id": "wh-fivesteps-u5-019",
+    "unit": 5,
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "image_url": null,
+    "stem": "De Gouges asks why blonds do not claim superiority over brunettes. What is her rhetorical move?",
+    "options": [
+     "(A) She believed blonds were naturally superior to brunettes in intellect and virtue",
+     "(B) She was writing about fashion",
+     "(C) She pushed racial logic to absurdity to expose its arbitrariness",
+     "(D) She supported the slave system"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 49,
+    "id": "wh-barrons-u1-031",
+    "unit": 1,
+    "stimulus": "After conquering China, Kublai Khan founded the Yuan dynasty (1271–1368). Though the Yuan adopted much of Chinese administration, they distrusted the scholar-official class that had staffed earlier dynasties and suspended the institution that produced it.",
+    "image_url": null,
+    "stem": "Under the Yuan dynasty, the traditional Chinese civil-service examinations were",
+    "options": [
+     "(A) expanded so that only Mongolian nomads could ever take them",
+     "(B) left completely unchanged in every respect",
+     "(C) replaced by democratic elections",
+     "(D) suspended for decades, weakening the scholar-officials"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 50,
+    "id": "wh-fresh-u9-006",
+    "unit": 9,
+    "stimulus": "Declaration by student protesters in Beijing, May 1989 (paraphrased): 'We ask for dialogue with the government, an end to official corruption, and freedom of the press. We love our country. We seek reform, not the overthrow of the system.'",
+    "image_url": null,
+    "stem": "The point of view expressed in the declaration is best described as:",
+    "options": [
+     "(A) revolutionary, calling for the violent overthrow of the government and the establishment of an entirely new state",
+     "(B) reformist, seeking change while working within the existing political system",
+     "(C) isolationist, demanding that China close itself to foreign influence",
+     "(D) nostalgic, urging a return to the policies of the Mao era"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 51,
+    "id": "wh-princeton-u6-011",
+    "unit": 6,
+    "stimulus": "Thomas Jones Barker's 1863 painting 'The Secret of England's Greatness' shows Queen Victoria in royal dress graciously presenting a Bible to a kneeling African chief, who receives it with deference. The composition presents the monarch as a majestic, almost sacred figure bestowing Christianity upon a grateful African ruler.",
+    "image_url": null,
+    "stem": "The painting's claim that the Bible is the 'secret of England's greatness' best reveals which of the following Victorian assumptions?",
+    "options": [
+     "(A) It credits Britain's superior industrial technology and steam-powered factories for its global power.",
+     "(B) It credits British military conquest for the empire's success.",
+     "(C) It was intended as a satire mocking imperialist pretensions.",
+     "(D) It assumes British power derived from Protestant Christianity and moral superiority."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 52,
+    "id": "wh-princeton-u8-018",
+    "unit": 8,
+    "stimulus": "'Workers, peasants, soldiers, youth, pupils! Oppressed and exploited compatriots! The Communist Party of Indochina is founded. It is the party of the working class. It will help the proletarian class lead the revolution in order to struggle for all the oppressed and exploited people.\n\nTo overthrow French imperialism, feudalism, and the reactionary Vietnamese capitalist class. To make Indochina completely independent. To establish a worker-peasant and soldier government. To confiscate the banks and other enterprises belonging to the imperialists and put them under the control of the worker-peasant and soldier government. To confiscate all of the plantations and property belonging to the imperialists and the Vietnamese reactionary capitalist class and distribute them to poor peasants.'\n\nSource: Ho Chi Minh, Program for the Communists of Indochina (1930)",
+    "image_url": null,
+    "stem": "The program's pairing of national independence with the confiscation of banks and plantations best illustrates which of the following?",
+    "options": [
+     "(A) The program treats nationalism and socialism as separate, unrelated goals.",
+     "(B) Ho modeled his program on French colonial administrative policy.",
+     "(C) Ho cared only about economic reform, not national independence.",
+     "(D) Anti-colonial nationalism and communist change were inseparable for Ho."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 53,
+    "id": "wh-fresh-u3-027",
+    "unit": 3,
+    "stimulus": "Map of Russian territorial growth from 1547 to 1725, showing the stages by which the empire expanded eastward from Muscovy across Siberia to the Pacific Ocean.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Growth_of_Russia_1547-1725.png",
+    "stem": "The eastward expansion shown on the map most directly resulted in which of the following for Siberia's indigenous peoples?",
+    "options": [
+     "(A) Their mass appointment as bishops, abbots, and senior officials within the rapidly expanding hierarchy of the Russian Orthodox Church.",
+     "(B) Their mass migration from Siberia to the Balkan Peninsula.",
+     "(C) The rapid industrialization of Siberian towns in the 1600s.",
+     "(D) Population decline from newly introduced Eurasian diseases and disruption as the yasak fur-tribute system redirected their labor."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 54,
+    "id": "wh-princeton-pdf6-u4-003",
+    "unit": 4,
+    "stimulus": "Paraphrase of Desiderius Erasmus, In Praise of Folly (1509): \"These monks boast of their poverty, yet they contrive never to go hungry. They pride themselves on their coarse robes and knotted cords, as if holiness lay in the cut of a cowl. Their prayers they chant like parrots, understanding not a word. The theologians spend their days splitting hairs over questions no mortal can answer, while the plain teachings of the Gospels go unheeded. Meanwhile the popes and bishops, who call themselves successors of the apostles, ride about in splendor, raise armies, and sell pardons for cash, as though heaven were a market stall.\"",
+    "image_url": null,
+    "stem": "Erasmus attacked clerical corruption yet remained a Catholic until his death in 1536, while Martin Luther's challenge ended in a permanent break with Rome. What does this contrast best illustrate about early-sixteenth-century religious criticism?",
+    "options": [
+     "Reformist criticism of the Church could lead either to internal Catholic reform or to schism.",
+     "Every critic of the Church in this period was executed for heresy.",
+     "Erasmus converted to Lutheranism late in life and helped draft the Augsburg Confession.",
+     "The papacy abolished all monastic orders in 1520 to silence its critics."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 55,
+    "id": "wh-princeton-u8-001",
+    "unit": 8,
+    "stimulus": "I believe strongly and sincerely that with the deep-rooted wisdom and dignity, the innate respect for human lives, the intense humanity that is our heritage, the African race, united under one federal government, will emerge not as just another world bloc to flaunt its wealth and strength, but as a Great Power whose greatness is indestructible because it is built not on fear, envy and suspicion, nor won at the expense of others, but founded on hope, trust, friendship and directed to the good of all mankind. The emergence of such a mighty stabilising force in this strife-worn world should be regarded not as the shadowy dream of a visionary, but as a practical proposition, which the peoples of Africa can, and should, translate into reality. There is a tide in the affairs of every people when the moment strikes for political action. Such was the moment in the history of the United States of America when the Founding Fathers saw beyond the petty wranglings of the separate states and created a Union. This is our chance. We must act now. Tomorrow may be too late and the opportunity will have passed, and with it the hope of free Africa's survival.\n\nSource: I Speak of Freedom: A Statement of African Ideology by Kwame Nkrumah, 1961",
+    "image_url": null,
+    "stem": "The timing of this speech in 1961 is most significant because it shows Nkrumah intervening in which of the following contemporary debates?",
+    "options": [
+     "(A) It was a response to the Cold War division of Africa into American and Soviet blocs during 1961.",
+     "(B) It celebrated the completed political unification of the entire African continent.",
+     "(C) It was delivered amid decolonization, as new states debated unity versus separate nationhood.",
+     "(D) It was addressed primarily to the remaining European colonial administrators."
+    ],
+    "skill": "Contextualization"
+   }
+  ]
+ },
+ "section_1b": {
+  "directions": "Answer all three questions. Each question has three parts (a, b, and c). You have 40 minutes for this section.",
+  "saq_sets": [
+   {
+    "q1": {
+     "attribution": "—Historian's account of Ottoman imperial administration in the sixteenth century",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of Ottoman administration described in the passage.",
+      "b": "Explain ONE cause of the Ottoman use of the devshirme system.",
+      "c": "Explain ONE difference between Ottoman elite recruitment and elite recruitment in contemporary France."
+     },
+     "sample_answers": {
+      "a": "The Ottomans staffed their army and administration with Christian-born converts recruited through the devshirme levy, promoting them by merit to the highest offices, including the grand vizierate.",
+      "b": "One cause was the sultan's need for administrators and soldiers loyal to him personally rather than to rival Turkish noble families or religious scholars who might challenge his authority.",
+      "c": "In France, high office and military command were dominated by a hereditary Catholic nobility, while the Ottomans deliberately elevated men of humble Christian birth, making birth matter less than demonstrated ability and loyalty to the sultan."
+     },
+     "source_type": "secondary text",
+     "stimulus": "The Ottomans ruled a multi-religious, multi-ethnic empire through a distinctive bargain: the sultan's authority was absolute in theory, but in practice the empire ran on the talents of men recruited from its Christian subjects. Through the devshirme levy, Balkan Christian boys were converted to Islam, educated in the palace, and placed in the army and administration — including the grand vizierate. Merit, at least among this enslaved elite, mattered more than birth, which set the Ottomans apart from the hereditary nobilities of Europe."
+    },
+    "q2": {
+     "attribution": "—Adapted from Ogier de Busbecq, Habsburg ambassador to the Ottoman court, Turkish Letters, 1555–1562",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE observation Busbecq makes about Ottoman society.",
+      "b": "Explain ONE way the passage reflects the rivalry between the Habsburgs and the Ottomans in the sixteenth century.",
+      "c": "Explain ONE limitation of using an ambassador's letters as evidence about Ottoman society."
+     },
+     "sample_answers": {
+      "a": "He observes that the Ottomans award honors and offices by merit rather than birth, so that even low-born men can rise to become pashas.",
+      "b": "Writing as the Habsburg emperor's envoy to a rival empire, Busbecq was struck by an Ottoman system that seemed more meritocratic than the birth-bound hierarchies of his own court — an observation he may have sharpened to criticize Habsburg practice back home.",
+      "c": "As a foreign diplomat, Busbecq saw the court from the outside and relied on interpreters and informants; he may have idealized what he saw, and his letters were written partly to entertain and instruct readers back home."
+     },
+     "source_type": "primary text",
+     "stimulus": "Among the Turks, honors and high offices are the rewards of merit and ability, not of birth. The sultan considers the character and talents of each man, so that even the son of a shepherd may rise to become a pasha."
+    },
+    "q3": {
+     "attribution": "Map of the Ottoman Empire at its greatest extent, 1683",
+     "directions": "Use the map below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the empire's extent shown on the map.",
+      "b": "Explain ONE cause of Ottoman territorial expansion between 1450 and 1683.",
+      "c": "Explain ONE similarity between the Ottoman Empire and the Mughal Empire in how they governed diverse populations."
+     },
+     "sample_answers": {
+      "a": "The map shows the Ottomans controlling the entire eastern Mediterranean, the Black Sea, the Red Sea, and the overland routes between Europe and Asia, with territory on three continents.",
+      "b": "One cause was gunpowder weaponry — Ottoman artillery and Janissary musketeers gave them a decisive edge at Constantinople in 1453 and against the Safavids and Mamluks, letting a centralized state absorb its neighbors.",
+      "c": "Both empires ruled large non-Muslim populations through religious tolerance in exchange for taxes — the Ottomans through the millet system and the Mughals through similar accommodations — prioritizing revenue and stability over forced conversion."
+     },
+     "source_type": "non-text: map",
+     "stimulus": "Map of the Ottoman Empire at its greatest extent in 1683, stretching from Hungary in the west to Yemen in the south and from Algeria to the Persian frontier, encompassing the Balkans, Anatolia, Egypt, and the holy cities of Mecca and Medina.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/OttomanEmpireIn1683.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "comparison",
+    "set_id": "set-07",
+    "theme": "GOV",
+    "unit": 3,
+    "unit_title": "Land-Based Empires"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of absolutism under Louis XIV of France, 1661–1715",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE method Louis XIV used to strengthen royal authority.",
+      "b": "Explain ONE cause of the growth of absolutist monarchy in seventeenth-century Europe.",
+      "c": "Explain ONE continuity in the limits on royal power between medieval and absolutist France."
+     },
+     "sample_answers": {
+      "a": "He forced the high nobility to live at Versailles as courtiers, where competition for royal favor replaced their old role as independent regional powers with their own armies and clients.",
+      "b": "One cause was the chaos of the religious wars and the Fronde, which convinced many French elites that only a strong centralized monarchy could guarantee order — combined with new tax revenues that funded standing armies loyal to the crown.",
+      "c": "Even 'absolute' kings could not simply command revenue into existence: like medieval kings, Louis depended on the cooperation of local officeholders and faced resistance, including revolts, when taxation pressed too hard, so bargaining with elites continued."
+     },
+     "source_type": "secondary text",
+     "stimulus": "Louis XIV made the French monarchy the model of absolutism: he required the nobility to attend him at Versailles, where court ritual replaced their independent power bases; he revoked the Edict of Nantes in 1685, imposing religious uniformity; and he built Europe's largest standing army. Yet his 'absolute' power had hard limits — he could not tax without provoking resistance, could not rule the provinces without intendants who bargained with local elites, and died leaving a state nearly bankrupt from war."
+    },
+    "q2": {
+     "attribution": "—Adapted from Jacques-Bénigne Bossuet, bishop and tutor to the French dauphin, Politics Drawn from the Very Words of Holy Scripture, 1709",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE claim Bossuet makes about the source of royal authority.",
+      "b": "Explain ONE way the passage was useful to Louis XIV's government.",
+      "c": "Explain ONE difference between Bossuet's justification of monarchy and the Confucian justification of imperial rule in China."
+     },
+     "sample_answers": {
+      "a": "He claims kings receive their authority directly from God, are God's image on earth, and answer to God alone — not to the people or the nobility.",
+      "b": "The doctrine gave Louis's centralization a sacred cover: opponents of royal policy could be painted as opposing God's order, and the clergy were enlisted as allies of the crown.",
+      "c": "Confucian theory made the emperor's legitimacy conditional on virtuous rule through the Mandate of Heaven, which could be lost by misrule and justify rebellion; Bossuet's doctrine offered no such conditionality — the king answered only to God."
+     },
+     "source_type": "primary text",
+     "stimulus": "It is God who establishes kings. They are His ministers on earth, and His image. Royal power is absolute, for the king answers to God alone; yet it is not arbitrary, for God commands kings to rule with justice."
+    },
+    "q3": {
+     "attribution": "Photograph of the Hall of Mirrors, Palace of Versailles",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the Hall of Mirrors shown in the image.",
+      "b": "Explain ONE way the palace of Versailles served Louis XIV's political goals.",
+      "c": "Explain ONE change in the relationship between European monarchs and their nobilities between 1500 and 1700 illustrated by Versailles."
+     },
+     "sample_answers": {
+      "a": "The image shows an enormously long gallery lined with mirrors reflecting light from tall windows, decorated with paintings of Louis's military triumphs — an overwhelming display of wealth and royal glory.",
+      "b": "By housing the nobility at Versailles and making access to the king the path to favor, Louis turned potential rivals into dependent courtiers and made the monarchy the visible center of French life.",
+      "c": "Where sixteenth-century nobles still raised their own armies and defied kings in civil wars, by 1700 the French nobility had been domesticated into courtiers whose status depended on royal favor — a shift from independent magnates to servants of the crown."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "Photograph of the Hall of Mirrors in the Palace of Versailles, built under Louis XIV in the 1680s: a 73-meter gallery of mirrors, chandeliers, and ceiling paintings celebrating the king's victories.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "continuity and change",
+    "set_id": "set-08",
+    "theme": "GOV",
+    "unit": 3,
+    "unit_title": "Land-Based Empires"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of Zheng He's voyages in the early fifteenth century",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE achievement of Zheng He's voyages.",
+      "b": "Explain ONE cause of the Ming decision to end the voyages.",
+      "c": "Explain ONE continuity in China's foreign trade after the voyages ended."
+     },
+     "sample_answers": {
+      "a": "The fleets projected Ming power across the Indian Ocean, bringing dozens of rulers into the tribute system and returning with goods, knowledge, and animals that advertised the dynasty's reach.",
+      "b": "One cause was cost combined with ideology: the voyages consumed enormous revenues while Confucian officials viewed maritime trade as morally suspect and strategically secondary to the Mongol threat on the northern border.",
+      "c": "Chinese merchants continued trading privately throughout Southeast Asia after the official voyages ended — the state withdrew, but the commercial networks and the demand for Chinese goods persisted, later drawing in the Portuguese and Spanish."
+     },
+     "source_type": "secondary text",
+     "stimulus": "Between 1405 and 1433, the Ming admiral Zheng He led seven expeditions with fleets of hundreds of ships — the largest wooden vessels ever built — reaching Southeast Asia, India, Arabia, and East Africa. The voyages displayed Ming power, collected tribute, and brought back exotic goods and animals. Then, within a generation, the court abandoned the voyages: the treasure fleets were expensive, the Confucian bureaucracy distrusted merchants and eunuch admirals alike, and the state turned its resources to defending the northern frontier against the Mongols."
+    },
+    "q2": {
+     "attribution": "—Adapted from the stone inscription at Liujiagang commemorating Zheng He's voyages, 1431",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE claim the inscription makes about the voyages.",
+      "b": "Explain ONE purpose the Ming court had in erecting such an inscription.",
+      "c": "Explain ONE difference between the Ming tribute system and European colonial practices in the Indian Ocean after 1500."
+     },
+     "sample_answers": {
+      "a": "It claims the fleets crossed vast oceans and carried the emperor's majesty to distant lands — presenting the voyages as the projection of imperial prestige.",
+      "b": "The inscription advertised the dynasty's power to domestic and foreign audiences, legitimizing the enormous expense of the fleets by framing them as the Son of Heaven's benevolent reach over 'all under heaven.'",
+      "c": "The tribute system sought symbolic submission and prestige goods through ritual exchange, while the Portuguese and later Europeans seized fortified ports, used naval artillery to control shipping, and extracted trade by force."
+     },
+     "source_type": "primary text",
+     "stimulus": "We have traversed immense waters, vast and boundless, more than a hundred thousand li. We have beheld great waves and distant lands, and we have proclaimed the majesty of the Son of Heaven to all under heaven."
+    },
+    "q3": {
+     "attribution": "Map of the seven voyages of Zheng He, 1405–1433",
+     "directions": "Use the map below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the voyages' routes shown on the map.",
+      "b": "Explain ONE way the voyages depended on earlier developments in Chinese maritime technology.",
+      "c": "Explain ONE change in Indian Ocean power dynamics between 1433 and 1550."
+     },
+     "sample_answers": {
+      "a": "The map shows the fleets following the monsoon routes across the entire Indian Ocean, from China to the Persian Gulf and down the East African coast as far as Malindi.",
+      "b": "The voyages depended on Song- and Yuan-era advances — the sternpost rudder, the magnetic compass, and watertight bulkheads — without which such massive ships could not have navigated the open ocean.",
+      "c": "After 1433 China withdrew its state fleets, leaving a vacuum the Portuguese filled after 1498 with armed carracks and fortified bases — the ocean shifted from Chinese-led tribute diplomacy to European-led naval coercion."
+     },
+     "source_type": "non-text: map",
+     "stimulus": "Map of the seven voyages of Zheng He from 1405 to 1433, showing the fleet's routes from Nanjing through Southeast Asia and across the Indian Ocean to Arabia and the Swahili coast of Africa.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Voyages_of_Zheng_He.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "continuity and change",
+    "set_id": "set-09",
+    "theme": "TEC",
+    "unit": 3,
+    "unit_title": "Land-Based Empires"
+   }
+  ]
+ },
+ "section_2a": {
+  "directions": "Question 1 is based on the accompanying documents. The documents have been edited for the purpose of this exercise. You are advised to spend 15 minutes reading and planning and 45 minutes writing your answer.",
+  "dbq": {
+   "analysis_note": "All pre-1900 excerpts are plain-language renderings of public-domain sources.",
+   "documents": [
+    {
+     "date": "c. 1541",
+     "kind": "text",
+     "n": 1,
+     "source_line": "Codex Mendoza: tribute list recorded by Mexica scribes under Spanish direction",
+     "sourcing_note": "Compiled by Aztec scribes for the Spanish king; purpose is to record what conquered provinces owed. The document itself is a product of conquest, but its contents describe the pre-conquest tribute system from the Mexica point of view.",
+     "text_or_description": "Each year, the province of Tochtepec must deliver: 400 loads of large cloaks, 400 loads of loincloths, 20 lip plugs of gold, jars of honey, and warriors' costumes adorned with bright feathers. Forty provinces pay tribute in this manner to Tenochtitlan."
+    },
+    {
+     "date": "1553",
+     "kind": "text",
+     "n": 2,
+     "source_line": "Pedro Cieza de León, Spanish chronicler, describing Inca administration in Peru",
+     "sourcing_note": "A Spaniard who traveled the Andes and interviewed Inca subjects; writing for Spanish readers. His admiration is notable because he served the conquering power yet credits Inca governance.",
+     "text_or_description": "Along the royal roads the Incas built great storehouses filled with maize, cloth, and weapons. The people labored in turn for the Inca, and from these stores they were fed and clothed in times of famine or war. No one went hungry while the storehouses stood full."
+    },
+    {
+     "date": "c. 1570s",
+     "kind": "text",
+     "n": 3,
+     "source_line": "Florentine Codex: account of Mexica religion given by Nahua elders to the friar Bernardino de Sahagún",
+     "sourcing_note": "Nahua informants speaking to a Franciscan friar; purpose on their side is to preserve ancestral knowledge, on his to understand it. The account links warfare, religion, and state power from an Indigenous perspective.",
+     "text_or_description": "The Mexica believed the gods had sacrificed themselves to set the sun in motion. To repay this debt, captives taken in war were offered upon the temples, so that the sun would not cease to move. War and worship were one duty."
+    },
+    {
+     "date": "1609",
+     "kind": "text",
+     "n": 4,
+     "source_line": "Garcilaso de la Vega, son of an Inca princess and a Spanish conquistador, writing in Spain",
+     "sourcing_note": "A mestizo author writing for European readers; purpose is to defend Inca civilization against Spanish contempt. His Inca heritage gives him insider knowledge, while his Spanish audience shapes his praise.",
+     "text_or_description": "The Inca was revered as the son of the Sun, and none might look him in the face. His word was law throughout the four quarters of the empire, and the people obeyed him as a god upon the earth."
+    },
+    {
+     "date": "19th-century illustration of an Inca artifact",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Quipu.png",
+     "kind": "image",
+     "license": "Public domain (1888 illustration, Meyers Konversationslexikon)",
+     "n": 5,
+     "source_line": "Quipu: knotted cords used by Inca administrators",
+     "sourcing_note": "A 19th-century illustration of surviving Inca artifacts; purpose is educational. The quipu embodies the Inca method of rule: centralized record-keeping without writing, tracking tribute, census, and storehouse inventories.",
+     "text_or_description": "Cords of different colors hang from a main rope, each tied with knots in patterns. Inca officials used these quipus to record how much each community owed in labor and goods, and what the storehouses held.",
+     "source_page": "https://en.wikipedia.org/wiki/File:Quipu.png"
+    },
+    {
+     "date": "modern (historical map)",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg",
+     "kind": "map",
+     "license": "Free license per Wikimedia Commons (own work; specific license template did not render in text fetch) [UNVERIFIED]",
+     "n": 6,
+     "source_line": "Map of the Aztec Empire, c. 1519",
+     "sourcing_note": "A modern historian's map; purpose is to show extent. The pattern of a small core ruling many tributary provinces illustrates the Triple Alliance's method: domination without direct administration.",
+     "text_or_description": "The map shows the island capital Tenochtitlan at the center of a compact empire in central Mexico, surrounded by tributary provinces that paid goods but kept their own rulers.",
+     "source_page": "https://commons.wikimedia.org/wiki/File:Aztec_Empire_ME_(orthographic_projection).svg"
+    },
+    {
+     "date": "modern (historical map)",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Inca_Empire_South_America.svg",
+     "kind": "map",
+     "license": "Free license per Wikimedia Commons (own work; specific license template did not render in text fetch) [UNVERIFIED]",
+     "n": 7,
+     "source_line": "Map of the Inca Empire (Tahuantinsuyu), c. 1525",
+     "sourcing_note": "A modern historian's map; purpose is to show extent. The empire's vast length along the Andes helps explain Inca methods: roads, storehouses, and resettlement to hold distant regions together.",
+     "text_or_description": "The map shows the Inca Empire stretching more than 2,500 miles along the Andes, from present-day Ecuador to Chile, divided into its four colored quarters (suyus): Chinchaysuyu, Antisuyu, Collasuyu, and Cuntisuyu.",
+     "source_page": "https://commons.wikimedia.org/wiki/File:Inca_Empire_South_America.svg"
+    }
+   ],
+   "id": "dbq-03",
+   "period": "c. 1300-1500",
+   "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which the Aztec and Incan empires used similar methods to consolidate their power in the period c. 1300-1500.",
+   "reasoning_process": "comparison",
+   "rubric_map": {
+    "analysis": {
+     "complexity": "Multiple paths: argue methods were similar in purpose (extracting surplus, divine legitimation) but different in form (Aztec tribute in goods vs. Inca labor tax; Triple Alliance hegemony vs. direct bureaucracy); corroborate economic control across Docs 1, 2, and 5; qualify similarity by noting the Aztec left local rulers in place while the Inca reorganized populations.",
+     "sourcing": "Doc 1 (context: compiled under Spanish rule, describing a Mexica system); Doc 3 (point of view: Nahua elders preserving knowledge for a friar); Doc 4 (purpose: a mestizo author defending Inca civilization to Europeans); Doc 2 (audience: Spanish readers, yet admiring Inca rule)."
+    },
+    "contextualization": "Situate both empires within post-classic American state-building: the Aztec rising after the fall of earlier central Mexican powers, the Inca expanding from Cuzco after 1438; both built on earlier Andean and Mesoamerican traditions of tribute and sacred kingship.",
+    "evidence": {
+     "describe": "All seven describable; strongest: Docs 1, 2 (economic methods), Docs 3, 4 (ideology), Doc 5 (administration).",
+     "outside": "Outside evidence: the Aztec Triple Alliance (1428) and flower wars; Inca mit'a labor, resettlement (mitmaq), and the royal road system; human sacrifice as Mexica state ritual; ancestor veneration of Inca mummies.",
+     "support": "'Similar' line: Docs 1, 2 (surplus extraction), Docs 3, 4 (divine legitimation), Docs 6, 7 (territorial expansion). 'Different' line: Docs 1 vs. 2 and 5 (goods tribute vs. labor/bureaucracy), Doc 6 vs. 7 (hegemonic vs. administrative control)."
+    },
+    "thesis": "An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."
+   },
+   "sample_thesis": "The Aztec and Inca empires used similar methods to consolidate power to a considerable extent, since both extracted surplus from conquered peoples and legitimized rule through divine kingship; however, their methods differed significantly in form, as the Aztec relied on tribute in goods from semi-independent provinces while the Inca imposed direct bureaucratic control through labor obligations and record-keeping.",
+   "themes": [
+    "GOV - Governance",
+    "ECN - Economic Systems",
+    "CDI - Cultural Developments and Interactions"
+   ],
+   "title": "Aztec and Inca Methods of Rule",
+   "units": [
+    1
+   ]
+  }
+ },
+ "section_2b": {
+  "directions": "Answer the question below. You have 40 minutes.",
+  "leq": {
+   "id": "leq-08",
+   "format": "leq",
+   "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+   "units": [
+    3,
+    4
+   ],
+   "themes": [
+    "GOV"
+   ],
+   "target_reasoning_process": "comparison",
+   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+   "prompt": "In the period c. 1450-c. 1750, European overseas empires expanded and sought trade, territory, and converts in Asia. Several Asian states limited or resisted European influence. Develop an argument that compares the strategies that different Asian states used to resist or limit European influence in this period. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
+   "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: European maritime expansion, the search for Asian markets, missionary activity, or the military and economic strength of Asian empires relative to early Europeans.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: Tokugawa Japan's sakoku closed-country policy, Qing China's Canton system and tributary diplomacy, the Ottoman regulation of European capitulations, Mughal control of European trading posts, Korean isolation.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be used to draw explicit similarities and differences between at least two states' strategies (not just described side by side).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Comparison: identifies similarities and differences in the strategies, and explains their causes or evaluates their effectiveness.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+   },
+   "sample_thesis": "Asian states resisted European influence through a shared toolkit of trade regulation and missionary expulsion, but their strategies differed in form: Tokugawa Japan imposed near-total seclusion backed by domestic control, while Qing China managed Europeans through the regulated Canton system within a confident tributary worldview.",
+   "evidence_directions": "Strong responses compare at least two states directly (e.g., Japan's seclusion vs. China's regulated engagement vs. Ottoman commercial concessions) and evaluate why strategies differed or how effective they were. Parallel descriptions without comparison earn only partial reasoning credit.",
+   "source_inspiration": "princeton-epub: princeton-pt1-leq3"
+  }
+ }
+}

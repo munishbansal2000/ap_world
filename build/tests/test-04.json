@@ -1,0 +1,1134 @@
+{
+ "id": "ap-world-practice-test-04",
+ "format": "Fall 2026 CED",
+ "section_1a": {
+  "directions": "Each of the questions or incomplete statements below is followed by four suggested answers or completions. Select the one that is best in each case. You have 55 minutes.",
+  "questions": [
+   {
+    "n": 1,
+    "id": "wh-fresh-u9-032",
+    "unit": 9,
+    "stimulus": "On September 11, 2001, operatives of the al-Qaeda network hijacked four commercial airliners, crashing two into New York's World Trade Center and one into the Pentagon; nearly 3,000 people were killed. The United States responded by invading Afghanistan in 2001 and Iraq in 2003.",
+    "image_url": null,
+    "stem": "The best-supported argument about September 11 and globalization is that it:",
+    "options": [
+     "(A) proved that global communications networks had no military significance",
+     "(B) ended international terrorism permanently",
+     "(C) showed that only powerful states can wage war in the modern world",
+     "(D) demonstrated how non-state actors could exploit global travel and communications, and how conventional military power struggled against asymmetric threats"
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 2,
+    "id": "wh-fresh-u3-033",
+    "unit": 3,
+    "stimulus": "After the death of Ivan IV (1584), Russia endured the Time of Troubles (1598-1613): famine, invasion by Polish and Swedish armies, rival claimants to the throne, and peasant uprisings — until a national assembly elected Michael Romanov as tsar in 1613.",
+    "image_url": null,
+    "stem": "The restoration of the Russian monarchy in 1613 is best understood in the context of which broader pattern?",
+    "options": [
+     "(A) A supposed inherent and permanent Russian inability to establish stable government without rulers imposed from abroad by stronger foreign military powers.",
+     "(B) A recurring cycle in land-based empires: dynastic crisis followed by recentralization under a new house, as in China's Ming-to-Qing transition.",
+     "(C) The spread of democratic revolutions across Eurasia in the 1600s.",
+     "(D) A papal campaign to restore Catholic monarchs throughout Europe."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 3,
+    "id": "wh-barrons-t3-034",
+    "unit": 7,
+    "stimulus": "Japan's present ideological and social ills come from neglecting our foundations and chasing trivial things — from importing European and American learning, culture, and institutions too quickly since the Meiji era. Our country is centered on the emperor, descended from the sun goddess Amaterasu. The unbroken imperial line reigns eternally over Japan; this is our immutable national essence. All the people, united as one great family nation, must obey the imperial will and cultivate loyalty and filial piety. —Paraphrased from the Japanese Ministry of Education, Fundamentals of Our National Polity, 1937",
+    "image_url": null,
+    "stem": "The ideology expressed in this passage is best described as",
+    "options": [
+     "(A) Marxism, with its call for industrial workers to violently overthrow their rulers.",
+     "(B) Ultranationalism, glorifying Japan's unique essence and divine emperor.",
+     "(C) Liberal democracy, praising elections and individual rights.",
+     "(D) Pacifist internationalism, urging cooperation among nations."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 4,
+    "id": "wh-fivesteps-u4-025",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Spain shipped tons of American silver to Europe, yet Spanish prices soared and its industry lagged. What does this illustrate about mercantilist assumptions?",
+    "options": [
+     "(A) Silver is inherently worthless",
+     "(B) Spain never obtained any American silver",
+     "(C) Accumulating bullion without productive industry causes inflation, not prosperity",
+     "(D) Inflation always benefits the nation experiencing it by increasing tax revenues and trade"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 5,
+    "id": "wh-fresh-u7-002",
+    "unit": 7,
+    "stimulus": "Map of military alliances in Europe, 1914. The Triple Entente (France, Russia, and Britain) is shaded green; the Triple Alliance (Germany, Austria-Hungary, and Italy) in olive. Serbia is highlighted as a Slavic ally of Russia, with Sarajevo marked.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Map_Europe_alliances_1914-en.svg",
+    "stem": "The division of Europe into rival blocs shown on the map is best understood in the context of which of the following broader developments?",
+    "options": [
+     "(A) The ideological struggle between democracy and fascism",
+     "(B) Intensifying imperial rivalries over colonies and naval supremacy",
+     "(C) Centuries-old religious hatreds between Catholic and Protestant states",
+     "(D) The spread of communist revolution across Europe after 1917"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 6,
+    "id": "wh-fivesteps-u4-001",
+    "unit": 4,
+    "stimulus": "",
+    "image_url": null,
+    "stem": "Which was the largest demographic consequence of the Columbian Exchange for the Americas?",
+    "options": [
+     "(A) European immigration doubled the hemisphere's population within a century",
+     "(B) African migrants arrived voluntarily to take up wage labor",
+     "(C) New World crops raised Native American birthrates for two centuries",
+     "(D) Epidemic disease collapsed Native American populations"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 7,
+    "id": "wh-fivesteps-u5-018",
+    "unit": 5,
+    "stimulus": "Paraphrase of Olympe de Gouges's Reflections on Slavery (1788): The law of nature was never more visible: people are equal everywhere. But Europeans, thirsting for blood and for the gold that greed worships, have transformed these happy lands. If the enslaved are animals, are we not animals too? How do whites differ from blacks? Only in color. Why do blonds not claim superiority over brunettes? Why is the mulatto not superior to the black? As nature produces varied animals, plants, and minerals, so human color varies. Does the day quarrel with the night, the sun with the moon? All things differ, and therein lies nature's beauty; why destroy its work? When submission flags, the islanders' barbaric despotism breeds revolts, poisonings, and every atrocity of the oppressed. Is it not monstrous that Europeans, enriched by others' exploitation, have blacks flogged morning to night? These souls would work no less with more freedom and kindness.",
+    "image_url": null,
+    "stem": "In 1791 Olympe de Gouges wrote the Declaration of the Rights of Woman, mirroring the Revolution's Declaration of the Rights of Man. What was her argument?",
+    "options": [
+     "(A) Women should remain in the domestic sphere and avoid all political activity forever",
+     "(B) The Revolution should be overthrown",
+     "(C) Slavery should be preserved",
+     "(D) The Revolution's universal rights must include women or it betrays itself"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 8,
+    "id": "wh-barrons-u1-010",
+    "unit": 1,
+    "stimulus": "Before 1450, farmers in Afro-Eurasia plowed with oxen, horses, and water buffalo, while farmers in the Americas worked their fields without any comparable draft animals. The largest domesticated animals in the Andes — llamas and alpacas — were used as pack animals, not for pulling plows.",
+    "image_url": null,
+    "stem": "Compared with Afro-Eurasian farming, a distinctive feature of pre-1450 American agriculture was that it developed with",
+    "options": [
+     "(A) no fertilizer of any kind",
+     "(B) almost no large draft animals to pull plows",
+     "(C) no use of irrigation in any form whatsoever",
+     "(D) no domesticated plants at all"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 9,
+    "id": "wh-princeton-pdf4-u8-010",
+    "unit": 8,
+    "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+    "image_url": null,
+    "stem": "The author's claim that colonial rule speaks 'the very language of force' is best understood in the context of which of the following?",
+    "options": [
+     "(A) The complete absence of violence in European colonies",
+     "(B) The dehumanization of colonized peoples, ruled by coercion rather than consent",
+     "(C) The democratic participation of colonized peoples in imperial parliaments",
+     "(D) The military alliance between colonizers and the colonized during the Cold War"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 10,
+    "id": "wh-fresh-u7-009",
+    "unit": 7,
+    "stimulus": "President Woodrow Wilson, address to Congress, January 8, 1918: 'A general association of nations must be formed under specific covenants for the purpose of affording mutual guarantees of political independence and territorial integrity to great and small states alike.'",
+    "image_url": null,
+    "stem": "Wilson's proposed 'general association of nations' differed most significantly from the nineteenth-century Concert of Europe in that it:",
+    "options": [
+     "(A) Depended on the same kind of secret treaties and closed-door diplomacy that the great powers had always used",
+     "(B) Excluded every European great power from membership in the organization",
+     "(C) Functioned primarily as a standing military alliance aimed at deterring a shared enemy",
+     "(D) Was designed as an open, rules-based body including small states, rather than informal great-power management"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 11,
+    "id": "wh-fresh-u3-036",
+    "unit": 3,
+    "stimulus": "Two imperial bureaucracies, c. 1600. In the Ottoman Empire, the most talented boys taken in the devshirme were educated in the palace school and appointed as administrators and viziers, owing their positions entirely to the sultan. In Ming and Qing China, officials were chosen through civil service examinations testing mastery of the Confucian classics, theoretically open to any educated male, producing a scholar-official class whose standing came from learning rather than birth.",
+    "image_url": null,
+    "stem": "Which of the following arguments about early modern state-building is best supported by the passage?",
+    "options": [
+     "(A) Centralized bureaucracies weakened empires by creating rival centers of power.",
+     "(B) Bureaucracies of state-dependent officials let empires tax and administer vast territories more effectively than rule through hereditary nobles.",
+     "(C) Only European states developed professional bureaucracies during this period.",
+     "(D) The palace schools and imperial examinations were designed primarily to drastically shrink the size and reduce the enormous cost of the empire's standing armies."
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 12,
+    "id": "wh-barrons-t1-055",
+    "unit": 9,
+    "stimulus": "A political scientist writing in 1993 argued that with the Cold War over, future global conflict would be driven less by ideology or economics than by culture. The great divisions among peoples, he wrote, would follow the 'fault lines between civilizations,' with the West facing Islamic and Confucian states as the central focus of coming conflict. (Paraphrased from Samuel Huntington, 'The Clash of Civilizations,' 1993.)",
+    "image_url": null,
+    "stem": "Which alternative explanation of post-Cold War conflict challenges Huntington's thesis most directly?",
+    "options": [
+     "(A) competition over resources and strategic interests, not culture",
+     "(B) astrological predictions about the fate of nations",
+     "(C) the claim that international conflict ended entirely and permanently in 1991",
+     "(D) Huntington's supposed support for American isolationism"
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 13,
+    "id": "wh-princeton-pdf5-u4-007",
+    "unit": 4,
+    "stimulus": "For one of the world's societies to achieve global hegemony, it would have to enormously increase its productivity — a great leap accomplished before the scientific, technological, agricultural, and industrial revolutions on which our modern world rests. Such a leap could only be made by exploiting the ecosystems, mineral resources, and human labor of whole continents outside the lands of the society making it. Western Europe did just that, by means of its brutality and guns and, more important, by geographical and ecological luck. — Alfred Crosby, historian, Ecological Imperialism, 2004",
+    "image_url": null,
+    "stem": "Crosby's argument most directly challenges which of the following explanations for European global dominance?",
+    "options": [
+     "(A) Explanations emphasizing the role of epidemic disease.",
+     "(B) Explanations claiming Europe's inherent cultural superiority.",
+     "(C) Explanations emphasizing the violence of colonial conquest.",
+     "(D) Explanations emphasizing the wealth of American silver mines."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 14,
+    "id": "wh-barrons-t1-050",
+    "unit": 4,
+    "stimulus": "Critics of Copernicus argued that the Bible says the sun moves and the earth stands still, and that since the Bible cannot err, heliocentrism must be heresy. Galileo replied that the Bible never speaks untruth when its true meaning is understood, but that its words are often abstruse and say things quite different from what their bare wording seems to signify. (Paraphrased from Galileo Galilei's letter to the Grand Duchess Christina of Tuscany, 1615.)",
+    "image_url": null,
+    "stem": "Galileo addressed his argument to the Grand Duchess of Tuscany most likely because",
+    "options": [
+     "(A) she was the pope's officially appointed astronomer",
+     "(B) the Grand Duchy of Tuscany had broken away from the Catholic Church entirely",
+     "(C) he sought the protection of a powerful patron against Church censure",
+     "(D) she had personally discovered Jupiter's moons"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 15,
+    "id": "wh-fivesteps-u4-003",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "The introduction of the potato from the Americas most directly contributed to European population growth for which reason?",
+    "options": [
+     "(A) It became a luxury food affordable only to elites",
+     "(B) It immediately replaced all grain farming in Europe",
+     "(C) Its nutritional benefits were confined to the Mediterranean",
+     "(D) More calories per acre than grain, on poor soils"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 16,
+    "id": "wh-fresh-u2-015",
+    "unit": 2,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Black Death in Europe, 1346-1353.' Color bands with dates show the plague's advance year by year: 1346 in the Crimea and the Levant; 1347 in Constantinople, Alexandria, and the eastern Mediterranean; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1350-1353 across Scandinavia, Russia, and Eastern Europe. White arrows mark land and maritime trade routes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+    "stem": "A historian claims that the plague caused major economic disruption across Afro-Eurasia. Which of the following would be the best evidence to support that claim?",
+    "options": [
+     "(A) Records of steep population losses followed by rising wages and greater peasant mobility in many regions",
+     "(B) Proof that the trade routes were abandoned forever after 1353 and never used again",
+     "(C) Documents showing the plague struck only Europe and spared Asia and the Middle East",
+     "(D) Tax registers demonstrating that government revenues climbed steadily through the worst plague years because rulers taxed the survivors more heavily"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 17,
+    "id": "wh-fivesteps-u4-018",
+    "unit": 4,
+    "stimulus": "The graph plots the estimated Native American population of central Mexico from 1500 to 1600, showing a steep collapse from roughly 25 million to under 2 million within a century of sustained European contact.",
+    "image_url": null,
+    "stem": "The graph shows Native American populations falling by up to 90% within a century of European contact. Why were Old World diseases so devastating?",
+    "options": [
+     "(A) Europeans systematically poisoned native water supplies with Old World toxins",
+     "(B) Native peoples possessed superior immunity to Europeans",
+     "(C) Native peoples had no acquired immunity from centuries of exposure",
+     "(D) The imported diseases were mild and harmless"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 18,
+    "id": "wh-princeton-pdf6-u6-001",
+    "unit": 6,
+    "stimulus": "Source 1 - Adapted from a petition of Leeds woolen workers, 1786: \"The scribbling-machines have thrown thousands of us out of work, leaving our families in great distress. Within seventeen miles of Leeds there are no fewer than one hundred and seventy of these machines, and each one does as much work in twelve hours as ten men can do by hand - working night and day, one machine does the work of twenty men. We beg that you consider our suffering.\" Source 2 - Adapted from a reply by Leeds cloth merchants, 1791: \"Every other manufacture in the kingdom is cutting prices, which can only be done with the aid of machinery. We depend on foreign buyers, where we compete against nations whose taxes are few and whose workers earn half our wages. Our use of machinery serves the advantage of the kingdom in general and the cloth trade in particular.\"",
+    "image_url": null,
+    "stem": "The dispute in the sources was most directly caused by which of the following?",
+    "options": [
+     "(A) Mechanized textile production during the Industrial Revolution.",
+     "(B) The abolition of the British monarchy and its replacement by a republic.",
+     "(C) The independence of the American colonies.",
+     "(D) The introduction of steam-powered ships."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 19,
+    "id": "wh-princeton-pdf6-u3-005",
+    "unit": 3,
+    "stimulus": "Adapted from Ogier Ghiselin de Busbecq, Austrian ambassador to the court of Suleiman the Magnificent, The Turkish Letters, c. 1581: \"On their side: a mighty and wealthy empire, great armies, experience in war, veteran soldiers, a long series of victories, patience in toil, concord, order, discipline, frugality, and vigilance. On our side: public want, private luxury, strength weakened, minds discouraged, soldiers disobedient, commanders greedy, contempt of discipline, licentiousness, rashness, drunkenness. They are accustomed to conquer; we, to be conquered. Only the Persian stands between us and ruin - the Turk's war with Persia gives us respite, not deliverance.\"",
+    "image_url": null,
+    "stem": "Busbecq describes European forces as divided and demoralized while the Ottomans are disciplined and united. Which of the following sixteenth-century developments best explains the European disarray he observed?",
+    "options": [
+     "(A) The political unification of all European states under a single emperor.",
+     "(B) Christendom's religious fragmentation after the Protestant Reformation.",
+     "(C) The complete disappearance of warfare in Europe.",
+     "(D) The Ottoman conquest of England."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 20,
+    "id": "wh-fresh-u3-015",
+    "unit": 3,
+    "stimulus": "Photograph of the Taj Mahal at Agra, completed around 1653 under Shah Jahan: a white marble mausoleum with a great central dome flanked by four minarets, set within formal gardens. Built as a tomb for the emperor's wife Mumtaz Mahal, it employed thousands of artisans and laborers over two decades.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+    "stem": "The building of the Taj Mahal is most similar to which of the following as a strategy of imperial rule?",
+    "options": [
+     "(A) The Tokugawa shogunate's restriction of foreign trade to Nagasaki.",
+     "(B) Ivan IV's creation of the oprichnina, a separate territory administered by his black-clad personal guard, to terrorize the Russian nobility into obedience.",
+     "(C) Suleyman's Suleymaniye mosque complex in Istanbul, displaying the ruler's piety, wealth, and command over labor and resources.",
+     "(D) The Qing requirement that Han Chinese men wear the queue hairstyle."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 21,
+    "id": "wh-fivesteps-u1-030",
+    "unit": 1,
+    "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
+    "image_url": null,
+    "stem": "Battuta praises Malian prayer and Quranic study, yet condemns their unveiled women and easy male-female companionship. What does this combination reveal about him as a source?",
+    "options": [
+     "(A) He considered Malian customs superior to anything in North Africa",
+     "(B) He denied that the Malians were Muslims at all",
+     "(C) He ignored Malian religion entirely and wrote only about trade",
+     "(D) He judged Malian Islam against Middle Eastern urban norms and read local custom as religious failure"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 22,
+    "id": "wh-princeton-u4-012",
+    "unit": 4,
+    "stimulus": "'The King of China is a Tartar, and one of the descendants of Genghis Khan. In all the Chinese provinces, there is a town for the Muslims, and in this they reside. They also have cells, colleges, and mosques, and are made much of by the Kings of China. When we approached Hangzhou we were met by its judge, the elders of Islamism, and the great merchants. The Muslims are exceedingly numerous here. In the city there are a great number of Muslims, with some of whom I resided for fifteen days, and was treated most honorably.'\n\nSource: Ibn Battuta, Voyages, 1332-1346",
+    "image_url": null,
+    "stem": "The contrast between the cosmopolitan China Battuta describes and Ming policies best illustrates which of the following?",
+    "options": [
+     "(A) The Ming continued the Yuan policy of openness to foreigners unchanged.",
+     "(B) The Yuan dynasty had isolated China from all foreign contact.",
+     "(C) A change of dynasty reversed a century of cosmopolitan openness.",
+     "(D) All foreign trade ended permanently under the Ming."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 23,
+    "id": "wh-barrons-u9-022",
+    "unit": 9,
+    "stimulus": "World population reached 1 billion around 1800, 2 billion around 1930, 4 billion around 1975, and 6 billion around 1999. Each doubling arrived faster than the last, raising urgent questions about whether the planet's resources could sustain the growth.",
+    "image_url": null,
+    "stem": "The trend shown has fueled debates about",
+    "options": [
+     "(A) The causes of the last Ice Age",
+     "(B) The speed of light",
+     "(C) Earth's carrying capacity for humans",
+     "(D) Whether the moon is inhabited"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 24,
+    "id": "wh-fivesteps-u1-013",
+    "unit": 1,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Alexander adopted Persian court rituals, married Persian noblewomen, and recruited Persians into his army. How did his Macedonian veterans react?",
+    "options": [
+     "(A) They celebrated the policies enthusiastically and adopted Persian dress themselves",
+     "(B) They converted to Zoroastrianism",
+     "(C) They mutinied, seeing Persian practices as a betrayal of Macedonian identity",
+     "(D) They had no recorded opinion on the matter"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 25,
+    "id": "wh-princeton-pdf6-u2-006",
+    "unit": 2,
+    "stimulus": "Map: The Mongol Empire in Asia, early 13th century. From the original Mongolian heartland, the empire by 1227 stretched from the Russian principalities and Volga Bulgaria in the west, across the Kipchak steppe and the former Kara-Khitan Khanate, through the conquered Khwarazmian cities of Samarkand, Bukhara, and Merv, to Korea and the borders of Tibet in the east. Arrows trace the campaigns of Genghis Khan and his generals across Persia, the Caucasus, and toward eastern Europe. Text - adapted from Marco Polo, The Travels (c. 1300), on the Mongol imperial post: \"The Great Khan keeps relay stations across his whole empire, each a day's ride from the next, with fresh horses always ready. His messengers ride from station to station, covering two hundred miles or more in a day and night, so that news from even the remotest province reaches the Khan within days.\"",
+    "image_url": null,
+    "stem": "Which of the following statements about the Mongol conquests would present-day historians most likely accept?",
+    "options": [
+     "(A) The Mongol invasions permanently destroyed Islam as one of the world's major religions.",
+     "(B) The Mongols waged brutal wars of conquest but later ruled with religious tolerance.",
+     "(C) The Mongols never harmed civilians in the lands they conquered.",
+     "(D) The Mongol Empire collapsed within a decade of Genghis Khan's death."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 26,
+    "id": "wh-barrons-u5-002",
+    "unit": 5,
+    "stimulus": "In his 1815 'Jamaica Letter,' Simón Bolívar denounced Spain's commercial treatment of its American colonies: they were forbidden to trade with any nation but Spain, forced to buy Spanish goods at Spanish prices, and barred from developing their own industries.\n\nThe system was mercantilism applied across an ocean. Colonial ports could legally receive only Spanish ships; colonists could sell their produce — cacao, sugar, hides — only to Spanish merchants, who resold European manufactures at monopoly prices. Smuggling flourished everywhere — the British and Dutch Caribbean lived off it — but the legal structure funneled colonial wealth to Seville and Cádiz, and colonial grievance with it.",
+    "image_url": null,
+    "stem": "The commercial grievance underlying the passage was that Spain",
+    "options": [
+     "(A) encouraged colonial manufacturing that competed with Spanish industry",
+     "(B) forced its colonies to trade only with Spain and buy only Spanish goods",
+     "(C) allowed its colonies complete freedom of trade with all nations",
+     "(D) refused to tax colonial commerce at all"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 27,
+    "id": "wh-fresh-u7-013",
+    "unit": 7,
+    "stimulus": "Two paraphrased wartime appeals, 1943. Soviet factory newspaper: 'Women of the Urals — take your husband's place at the lathe! The front needs shells.' American war poster: 'Women workers are needed in war industries — do your part for victory.'",
+    "image_url": null,
+    "stem": "The two appeals are most similar in that both:",
+    "options": [
+     "(A) Reflect total-war economies' need for women's labor as men were conscripted",
+     "(B) Show that only democratic governments relied on volunteer labor",
+     "(C) Prove that the war permanently ended gender inequality in the workplace",
+     "(D) Were addressed mainly to women who were already serving in front-line combat units"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 28,
+    "id": "wh-princeton-pdf5-u6-002",
+    "unit": 6,
+    "stimulus": "Sunday, the 10th of May, dawned in peace and happiness. The early morning service at the cantonment church saw many assembled together, some never to meet on earth again. The day passed in quiet happiness; no thought of danger disturbed the serenity of that happy home. How differently closed the Sabbath that had dawned so tranquilly! We were on the point of going to the evening service when the disturbance commenced on the native parade ground. Shots and volumes of smoke told of what was going on: our servants begged us not to show ourselves and urged the necessity of closing our doors, as the mob was approaching. My husband, after loading his arms, took me to the terrace on top of the house; two of our countrywomen also took refuge with us to escape the rebels' bullets. Just at this moment an officer of the 3rd Cavalry galloped up at full speed, having dashed through the mutinous troops, fired at on all sides, to give us notice of the danger. — Elisa Greathed, a British resident of Meerut, describing the outbreak of the Indian uprising, May 1857",
+    "image_url": null,
+    "stem": "Which of the following was the most immediate trigger of the 1857 uprising described in the passage?",
+    "options": [
+     "(A) A British ban on all Indian religious practices.",
+     "(B) A famine in Bengal that starved sepoy families.",
+     "(C) The British Parliament's abolition of the East India Company before 1857.",
+     "(D) Rifle cartridges rumored to be greased with cow and pig fat."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 29,
+    "id": "wh-princeton-u7-007",
+    "unit": 7,
+    "stimulus": "Source 1: 'In the days of a great struggle against a foreign enemy who has been endeavoring for three years to enslave our country, it pleased God to send Russia a further painful trial. Internal troubles threatened to have a fatal effect on the further progress of this obstinate war. The destinies of Russia, the honor of her heroic Army, the happiness of the people, and the whole future of our beloved country demand that the war should be conducted at all costs to a victorious end. In these decisive days we have thought that we owed to our people the close union of all its forces; for which reason, in agreement with the Imperial Duma, we have recognized that it is for the good of the country that we should abdicate the Crown of the Russian State and lay down the Supreme Power.'\n\nSource: Tsar Nicholas II, Abdication, March 15, 1917\n\nSource 2: 'History will not forgive revolutionaries for procrastinating when they could be victorious today, while they risk losing much tomorrow. If we seize power today, we seize it not in opposition to the Soviets but on their behalf. The seizure of power is the business of the uprising. It would be an infinite crime on the part of the revolutionaries were they to let the chance slip, knowing that the salvation of the revolution, the offer of peace, the salvation of Petrograd, salvation from famine, the transfer of the land to the peasants depend upon them. The government is tottering. It must be given the death-blow at all costs.'\n\nSource: Vladimir Lenin, Call to Power, October 24, 1917",
+    "image_url": null,
+    "stem": "Lenin's claim to seize power 'on behalf of' the soviets best illustrates which of the following tensions in the October Revolution?",
+    "options": [
+     "(A) The Bolsheviks claimed to act for the soviets while seizing power as a minority.",
+     "(B) Lenin advocated waiting for a bourgeois-democratic stage before seizing state power.",
+     "(C) Lenin opposed the soviets as counterrevolutionary bodies.",
+     "(D) The Bolsheviks held majority support among Russian voters."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 30,
+    "id": "wh-fresh-u5-038",
+    "unit": 5,
+    "stimulus": "By 1871, the patchwork of Italian and German states had become two unified nation-states: Italy under the Kingdom of Piedmont-Sardinia (proclaimed 1861) and Germany under Prussian leadership (proclaimed 1871 at Versailles).",
+    "image_url": null,
+    "stem": "Which development best explains how nationalism contributed to Italian and German unification?",
+    "options": [
+     "(A) Napoleon personally united both countries during his conquests",
+     "(B) Both unifications were achieved by peaceful democratic votes with no wars",
+     "(C) Movements appealing to shared language and culture combined popular uprisings with the military power of Piedmont and Prussia to absorb or defeat rival states",
+     "(D) Nationalism played no role; the unifications were accidents of diplomacy"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 31,
+    "id": "wh-fresh-u3-021",
+    "unit": 3,
+    "stimulus": "Map of the Qing Empire showing the stages of Manchu expansion to its greatest extent (by 1800), beyond the old Ming borders: Taiwan (occupied 1683), Inner and Outer Mongolia, Xinjiang, and Tibet. Korea, Burma, Tonking, Nepal, Siam, and Laos are shaded as tributary states.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
+    "stem": "Qing expansion into Inner and Central Asia, shown on the map, is most similar to which of the following?",
+    "options": [
+     "(A) Portuguese construction of fortified trading posts, naval bases, and customs houses along the coasts of Africa, India, and Southeast Asia.",
+     "(B) Dutch seizure of the Southeast Asian spice islands.",
+     "(C) Spanish establishment of missions in California.",
+     "(D) Russian expansion across Siberia to the Pacific, since both were land-based empires extending control over vast continental frontiers."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 32,
+    "id": "wh-princeton-u2-005",
+    "unit": 2,
+    "stimulus": "The map shows trans-Saharan trade routes crossing the desert from the West African kingdoms of Mali and Songhai to North African ports, alongside Indian Ocean maritime routes linking the Swahili city-states of the East African coast to Arabia, India, and beyond. No significant routes cross the central African interior.",
+    "image_url": null,
+    "stem": "The map shows two distinct trading systems touching Africa. Which of the following best describes how they were connected?",
+    "options": [
+     "(A) European merchants connected the two systems in the 1400s.",
+     "(B) The Mongol Empire directly administered both trading systems.",
+     "(C) They were completely isolated from each other with no contact at all.",
+     "(D) Both systems were linked through North Africa and the Red Sea."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 33,
+    "id": "wh-barrons-u6-012",
+    "unit": 6,
+    "stimulus": "Lord Lugard, Britain's leading colonial theorist, argued that African societies should be governed through their own chiefs and institutions, with British officials supervising from above rather than replacing native authority outright.\n\nLugard worked out the doctrine in northern Nigeria, where a handful of British officials faced the vast Sokoto Caliphate: too few to govern directly, they preserved the emirates, ruling through the emirs under British 'advisers.' It was cheap, it flattered traditional authority, and it froze African societies into an idealized 'tribal' form convenient for administration. Where no suitable chiefs existed, the British simply invented them — creating 'warrant chiefs' whose authority came from the colonial office rather than from their own people. Indirect rule's legacy outlasted empire: the chiefs it empowered — and invented — became key players in postcolonial politics, for better and for worse, across much of Anglophone Africa.",
+    "image_url": null,
+    "stem": "Lugard is best known for advocating which colonial policy?",
+    "options": [
+     "(A) Immediate independence for all colonies",
+     "(B) Settler-only governments with no native participation",
+     "(C) Indirect rule through existing African chiefs and institutions",
+     "(D) The complete cultural assimilation of Africans into French citizenship"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 34,
+    "id": "wh-fresh-u6-003",
+    "unit": 6,
+    "stimulus": "Britain's exports of opium to China reversed the two countries' trade balance, and in 1839 Commissioner Lin Zexu seized and destroyed British opium stocks at Canton. Britain's victory in the First Opium War forced the Treaty of Nanjing in 1842: China ceded Hong Kong, opened five ports to British trade, and granted British subjects extraterritoriality.",
+    "image_url": null,
+    "stem": "Which of the following statements is best supported by the passage?",
+    "options": [
+     "(A) Britain's victory in the Opium Wars forced China into unequal treaties that opened its markets on British terms.",
+     "(B) The Opium Wars were fought because China stubbornly refused to buy British tea and closed all of its markets to British merchants.",
+     "(C) China won the Opium Wars and responded by closing all its ports to foreigners.",
+     "(D) The Treaty of Nanjing abolished the foreign presence in China entirely."
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 35,
+    "id": "wh-fresh-u9-028",
+    "unit": 9,
+    "stimulus": "Color photograph from a hilltop overlooking Shenzhen, China: a dense skyline of modern skyscrapers and residential towers stretches across the horizon, the built-up megacity filling the view. Caption: 'Shenzhen: from market town to megacity.'",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/A_panorama_of_Shenzhen_taken_from_a_high_point_on_Tanglangshan_Country_Park.jpg",
+    "stem": "Shenzhen's growth illustrates the connection between:",
+    "options": [
+     "(A) isolation from world markets and rapid urbanization",
+     "(B) the decline of manufacturing worldwide",
+     "(C) communist ideology and the rejection of market reforms, since the government banned private enterprise and foreign investment in the zone",
+     "(D) state-directed market reforms and the shift of global manufacturing toward regions with lower labor costs"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 36,
+    "id": "wh-barrons-t1-021",
+    "unit": 5,
+    "stimulus": "From this foul drain, the greatest stream of human industry flows out to fertilize the whole world. From this filthy sewer, pure gold flows. Here, humanity attains its most complete development and its most brutish state; here civilization works its miracles, and civilized man is turned almost into a savage. (Alexis de Tocqueville on Manchester, from 'Journeys to England and Ireland,' 1835.)",
+    "image_url": null,
+    "stem": "De Tocqueville's French background most likely shaped the passage by",
+    "options": [
+     "(A) making him a patriotic defender of English industry",
+     "(B) giving him an outsider's comparative perspective on English cities",
+     "(C) leading him to praise French industry as clearly superior to that of England",
+     "(D) causing him to write in the style of French legal documents"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 37,
+    "id": "wh-fivesteps-u1-005",
+    "unit": 1,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Both the Persian Empire and the Inca Empire controlled vast, diverse territories. Which administrative practice did they most notably share?",
+    "options": [
+     "(A) Both empires ran on coined-money market economies",
+     "(B) Imperial road networks with relay stations",
+     "(C) Both maintained professional standing navies for internal control",
+     "(D) Both granted conquered cities full political independence"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 38,
+    "id": "wh-fresh-u5-001",
+    "unit": 5,
+    "stimulus": "Article 1. Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good. Article 3. The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation. Article 6. Law is the expression of the general will. Every citizen has a right to participate personally, or through his representative, in its foundation. — Declaration of the Rights of Man and of the Citizen, France, 1789",
+    "image_url": null,
+    "stem": "The most likely purpose of this document was to:",
+    "options": [
+     "(A) provide a philosophical justification for the National Assembly's authority, replacing the king's claim to rule by divine right",
+     "(B) announce the immediate abolition of slavery in all French colonies",
+     "(C) record the military victories of Napoleon Bonaparte across Europe",
+     "(D) persuade foreign monarchs to invade France and restore order"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 39,
+    "id": "wh-princeton-u8-003",
+    "unit": 8,
+    "stimulus": "I believe strongly and sincerely that with the deep-rooted wisdom and dignity, the innate respect for human lives, the intense humanity that is our heritage, the African race, united under one federal government, will emerge not as just another world bloc to flaunt its wealth and strength, but as a Great Power whose greatness is indestructible because it is built not on fear, envy and suspicion, nor won at the expense of others, but founded on hope, trust, friendship and directed to the good of all mankind. The emergence of such a mighty stabilising force in this strife-worn world should be regarded not as the shadowy dream of a visionary, but as a practical proposition, which the peoples of Africa can, and should, translate into reality. There is a tide in the affairs of every people when the moment strikes for political action. Such was the moment in the history of the United States of America when the Founding Fathers saw beyond the petty wranglings of the separate states and created a Union. This is our chance. We must act now. Tomorrow may be too late and the opportunity will have passed, and with it the hope of free Africa's survival.\n\nSource: I Speak of Freedom: A Statement of African Ideology by Kwame Nkrumah, 1961",
+    "image_url": null,
+    "stem": "A historian using this speech as evidence about African decolonization should recognize which of the following limitations of the source?",
+    "options": [
+     "(A) It proves that most African leaders of the era supported Nkrumah's continental federation.",
+     "(B) It documents the domestic economic policies of independent Ghana.",
+     "(C) It records the formal decisions made by the Organization of African Unity.",
+     "(D) It reveals Nkrumah's aspirations but not the political realities among African leaders."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 40,
+    "id": "wh-barrons-t3-044",
+    "unit": 6,
+    "stimulus": "[Map 1: A 1907 British publicity map, 'Cape to Cairo Railway,' showing a proposed rail line — part built, part projected — running from Cairo south through Sudan, around the Great Lakes, through Rhodesia to Cape Town, crossing through German-claimed territory in East Africa. Map 2: An 1897 German map of the proposed 'Berlin to Baghdad Railway,' tracing a line from Berlin through the Balkans and Constantinople to Baghdad.]",
+    "image_url": null,
+    "stem": "The Cape-to-Cairo scheme most directly sharpened Anglo-German rivalry because",
+    "options": [
+     "(A) Britain had no real interest in African railways.",
+     "(B) African kingdoms built a faster competing line.",
+     "(C) Germany's Berlin-to-Baghdad railway diverted British attention away from Africa.",
+     "(D) German East Africa blocked Britain's hoped-for unbroken north-south corridor."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 41,
+    "id": "wh-fresh-u3-003",
+    "unit": 3,
+    "stimulus": "Image: a 16th-century Ottoman imperial ferman (decree), opening with the sultan's illuminated tughra, his imperial monogram, in blue and gold calligraphy. The decree text in Ottoman Turkish follows below, carrying the sultan's orders to his officials.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Unknown%2C_Turkey%2C_16th_Century_-_Ferman_with_a_Tughra_-_Google_Art_Project.jpg",
+    "stem": "The intended audience for the decree shown was most likely:",
+    "options": [
+     "(A) European ambassadors negotiating commercial privileges and capitulation treaties with the Ottoman Porte.",
+     "(B) Provincial officials and judges responsible for enforcing the sultan's regulations.",
+     "(C) Christian peasant villagers in the Balkans.",
+     "(D) Janissary recruits during their military training."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 42,
+    "id": "wh-fivesteps-u5-004",
+    "unit": 5,
+    "stimulus": "An economist of the Scottish Enlightenment argued that when any trade is left open to free competition, the public gains the most. Each person chasing their own advantage is led, as if by an invisible hand, to serve ends they never intended — cheaper and better goods for everyone.",
+    "image_url": null,
+    "stem": "Smith argued that individuals pursuing their own profit are 'led by an invisible hand' to benefit society. What did he mean?",
+    "options": [
+     "(A) A secret government committee guides market outcomes",
+     "(B) Businessmen are morally superior to other citizens",
+     "(C) All business profits should be donated to the state",
+     "(D) Competition lowers prices and improves goods"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 43,
+    "id": "wh-fivesteps-u9-005",
+    "unit": 9,
+    "stimulus": "Image A: children sitting together outdoors, each absorbed in a smartphone, not speaking to one another. Image B: a boy and an elderly woman sharing a laptop in front of a typical rural house in Myanmar.",
+    "image_url": null,
+    "stem": "Image A shows children sitting together outdoors, each absorbed in a smartphone and not speaking to one another. What social concern does the image raise?",
+    "options": [
+     "(A) Devices can isolate people sharing a space",
+     "(B) Smartphones are now cheap enough for every child",
+     "(C) Technology encourages children to enjoy the outdoors",
+     "(D) Technology has no effect on social life"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 44,
+    "id": "wh-princeton-pdf6-u2-007",
+    "unit": 2,
+    "stimulus": "Map: The Mongol Empire in Asia, early 13th century. From the original Mongolian heartland, the empire by 1227 stretched from the Russian principalities and Volga Bulgaria in the west, across the Kipchak steppe and the former Kara-Khitan Khanate, through the conquered Khwarazmian cities of Samarkand, Bukhara, and Merv, to Korea and the borders of Tibet in the east. Arrows trace the campaigns of Genghis Khan and his generals across Persia, the Caucasus, and toward eastern Europe. Text - adapted from Marco Polo, The Travels (c. 1300), on the Mongol imperial post: \"The Great Khan keeps relay stations across his whole empire, each a day's ride from the next, with fresh horses always ready. His messengers ride from station to station, covering two hundred miles or more in a day and night, so that news from even the remotest province reaches the Khan within days.\"",
+    "image_url": null,
+    "stem": "The Mongols deliberately cultivated a reputation for merciless destruction of cities that resisted. What was the most important strategic result of this reputation?",
+    "options": [
+     "(A) European kingdoms formed a permanent united alliance against the Mongols.",
+     "(B) The Mongols no longer needed to maintain large armies.",
+     "(C) Conquered peoples immediately adopted Mongol customs.",
+     "(D) Many cities surrendered without a fight to avoid annihilation."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 45,
+    "id": "wh-princeton-u4-022",
+    "unit": 4,
+    "stimulus": "Guaman Poma, an Andean native writing around 1610, describes the mercury mines of Huancavelica and the silver mines of Potosi as places where Indian laborers are overworked, tortured, and killed. Mine owners, he writes, pay workers nothing for their travel or labor, force them to buy food and drink at inflated prices deducted from their wages, and trap them in debt. Colonial officials, he charges, take bribes from the owners instead of inspecting the mines, so there is no remedy for the abuses.\n\nSource: Paraphrase of Felipe Guaman Poma de Ayala, The First New Chronicle and Good Government, circa 1610",
+    "image_url": null,
+    "stem": "Guaman Poma's chronicle, addressed to the Spanish king, was most likely intended to",
+    "options": [
+     "(A) He wrote to incite an armed rebellion against Spanish colonial rule.",
+     "(B) He defended the mine owners against their critics.",
+     "(C) He wrote in Quechua for an Andean audience.",
+     "(D) He documented abuses to petition the Spanish crown for reform."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 46,
+    "id": "wh-princeton-pdf6-u2-004",
+    "unit": 2,
+    "stimulus": "Map: The Mongol Empire in Asia, early 13th century. From the original Mongolian heartland, the empire by 1227 stretched from the Russian principalities and Volga Bulgaria in the west, across the Kipchak steppe and the former Kara-Khitan Khanate, through the conquered Khwarazmian cities of Samarkand, Bukhara, and Merv, to Korea and the borders of Tibet in the east. Arrows trace the campaigns of Genghis Khan and his generals across Persia, the Caucasus, and toward eastern Europe. Text - adapted from Marco Polo, The Travels (c. 1300), on the Mongol imperial post: \"The Great Khan keeps relay stations across his whole empire, each a day's ride from the next, with fresh horses always ready. His messengers ride from station to station, covering two hundred miles or more in a day and night, so that news from even the remotest province reaches the Khan within days.\"",
+    "image_url": null,
+    "stem": "Based on the passage, what did the Mongol relay system described by Marco Polo primarily demonstrate about the Mongol Empire?",
+    "options": [
+     "(A) The Mongols built an administrative network letting one ruler govern a vast empire.",
+     "(B) The Mongols depended on European merchants to carry official messages across Asia for them.",
+     "(C) The Mongol Empire was too large for any central government to function.",
+     "(D) The relay stations were used mainly to move armies, not information."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 47,
+    "id": "wh-fivesteps-u8-002",
+    "unit": 8,
+    "stimulus": "The cartoon shows a workman labeled 'United India' carefully assembling a complex machine. Beside him, Muhammad Ali Jinnah leans in holding a sputtering, lit bomb directly over the mechanism.",
+    "image_url": null,
+    "stem": "The cartoonist depicts Muhammad Ali Jinnah actively working against a united India. What does this imply about the cartoonist's view of partition?",
+    "options": [
+     "(A) Jinnah deliberately drove toward division",
+     "(B) Jinnah was a champion of a united India",
+     "(C) The British forced partition on an unwilling Jinnah",
+     "(D) Partition happened by historical accident"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 48,
+    "id": "wh-princeton-pdf4-u8-009",
+    "unit": 8,
+    "stimulus": "In 1960, the township of Sharpeville became a symbol of South Africa's racial order. Under the apartheid laws, every Black South African man was required to carry a passbook, a small document recording where he was permitted to live and work. To be found in a city without the proper stamp meant arrest. On March 21, thousands of Black protesters gathered outside the Sharpeville police station, deliberately leaving their passbooks at home in a planned act of defiance. The police opened fire on the unarmed crowd, killing sixty-nine people, most of them shot in the back as they fled. The government's response was not reform but repression: the African National Congress and its rivals were banned, and leaders such as Nelson Mandela were driven underground and then imprisoned. For the white minority that held all political power, the massacre confirmed the need for ever harsher control. For Black South Africans, it proved that peaceful protest alone would not end a system that denied them citizenship in their own country. Sharpeville drew the world's attention to apartheid and pushed the liberation movement toward armed resistance. Four years later, Mandela stood trial for his life at Rivonia, using the courtroom to indict apartheid before the world. Although the regime survived for three more decades, Sharpeville marked the moment when South Africa's racial order became an international scandal rather than a domestic arrangement.",
+    "image_url": null,
+    "stem": "The struggle against apartheid described in the passage belongs to which of the following broader twentieth-century developments?",
+    "options": [
+     "(A) The expansion of European colonial empires in Africa and Asia",
+     "(B) Anti-colonial movements fighting for self-determination",
+     "(C) The rise of fascist movements in Europe in the 1930s",
+     "(D) The spread of absolute monarchies across the globe"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 49,
+    "id": "wh-fresh-u5-057",
+    "unit": 5,
+    "stimulus": "In 1862, Prussia's chief minister Otto von Bismarck told a parliamentary committee that Germany's great questions would not be settled by 'speeches and majority votes' but by 'blood and iron' — war and military power.",
+    "image_url": null,
+    "stem": "Bismarck's statement best illustrates which process behind German unification (1871)?",
+    "options": [
+     "(A) Unification imposed 'from above' by Prussian military power, after the democratic revolutions of 1848 had failed",
+     "(B) Unification achieved entirely through peaceful democratic revolution and popular votes, with no wars or armies involved at all",
+     "(C) Bismarck's opposition to any German unification",
+     "(D) Austrian leadership of the unification process"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 50,
+    "id": "wh-barrons-u1-014",
+    "unit": 1,
+    "stimulus": "A map of Mesoamerica marks major pre-Columbian centers — Teotihuacan, Monte Albán, Tikal, Palenque, Copán — with arrows showing trade routes between them. Staple foods like maize and beans moved along these routes, but so did rarer goods reserved for elites.",
+    "image_url": null,
+    "stem": "In addition to foodstuffs, long-distance trade among the cities shown most likely included which of the following prestige goods?",
+    "options": [
+     "(A) Coffee and sugar from coastal plantations",
+     "(B) Jade, obsidian, cacao, quetzal feathers",
+     "(C) Chinese silk and porcelain",
+     "(D) Horses and iron tools from Europe"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 51,
+    "id": "wh-fresh-u8-007",
+    "unit": 8,
+    "stimulus": "In January 1968 communist forces launched the Tet Offensive, attacking cities and bases across South Vietnam. The offensive was repelled with heavy communist losses — but it contradicted U.S. officials' claims that victory was near, and American public support for the war collapsed in its aftermath.",
+    "image_url": null,
+    "stem": "Which of the following arguments about the Vietnam War is best supported by the passage?",
+    "options": [
+     "(A) The Tet Offensive was a decisive communist military victory that defeated American forces in the field, destroyed their bases, and forced an immediate withdrawal.",
+     "(B) The Tet Offensive was a military setback for communist forces that nonetheless shattered American confidence and turned U.S. public opinion against the war.",
+     "(C) The Tet Offensive proved that U.S. officials were right that victory was near.",
+     "(D) American public support for the war increased after the Tet Offensive."
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 52,
+    "id": "wh-princeton-pdf4-u3-001",
+    "unit": 3,
+    "stimulus": "In the name of God, let it be known to the judges and commanders of the Balkan provinces. Every fifth year the officers of the levy shall travel through the Christian villages and select the strongest and most promising boys between the ages of eight and fifteen. These youths shall be taken from their families, brought to the capital, and raised in the palace schools, where they shall learn the Turkish tongue, the discipline of arms, and the service of the sultan. They shall have no kin but the sultan, no inheritance but his favor, and no ambition beyond his service. From their ranks shall come the soldiers of the Janissary corps, the guardians of the palace, and the governors of provinces. Let no man hide his son from the levy, for the empire's strength rests upon these servants who owe everything to their master alone. Given at Edirne, in the third year of our reign.",
+    "image_url": null,
+    "stem": "The levy system described in the passage served which of the following purposes for the Ottoman state?",
+    "options": [
+     "(A) It created a corps of soldiers and officials loyal only to the sultan, cut off from family and local ties",
+     "(B) It enlisted volunteer cavalry from the Turkish tribes of Anatolia to garrison the empire's frontier fortresses",
+     "(C) It contracted foreign mercenary companies that the treasury could disband in peacetime",
+     "(D) It educated Christian clergy to administer the empire's Islamic religious courts"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 53,
+    "id": "wh-barrons-u6-019",
+    "unit": 6,
+    "stimulus": "A British reporter in 1857 called the Cawnpore killings an outrage by a 'subject race' against its masters. An Indian academic historian later wrote that while nothing justified the massacre, it had to be understood within a larger pattern of British violence and contempt toward Indians.\n\nThe 'mutiny' school stresses the revolt's military origins — sepoy grievances over pay, cartridges, and annexations — and its limited aims: most rebels proclaimed the Mughal emperor or local rulers, not an Indian nation. The 'uprising' school stresses its breadth — peasants, artisans, and dispossessed landlords joining across northern India — and reads it as anti-colonial resistance. The evidence supports both readings, which is why the argument endures: 1857 was a sepoy mutiny that became something larger, and the name a historian chooses announces which half of that story is thought to matter more.",
+    "image_url": null,
+    "stem": "The contrast between the two passages reflects which ongoing historical debate?",
+    "options": [
+     "(A) Whether 1857 was a 'mutiny' or an anti-colonial uprising",
+     "(B) Whether India was ever actually colonized",
+     "(C) Whether British railways in India served colonial control or Indian development",
+     "(D) Whether Cawnpore is located in India"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 54,
+    "id": "wh-barrons-u3-013",
+    "unit": 3,
+    "stimulus": "A Japanese woodcut from the late 1500s shows foot soldiers armed with muskets — weapons introduced by Portuguese traders in 1543 and quickly copied by Japanese gunsmiths. A century later, under the Tokugawa shogunate, firearms had all but vanished from Japanese warfare.",
+    "image_url": null,
+    "stem": "Under the Tokugawa shogunate, Japan famously",
+    "options": [
+     "(A) forgot the existence of gunpowder entirely",
+     "(B) restricted firearms to preserve the samurai social order",
+     "(C) armed every peasant with a musket",
+     "(D) became the world's leading exporter of guns worldwide"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 55,
+    "id": "wh-barrons-t2-011",
+    "unit": 6,
+    "stimulus": "[Photograph: a formal portrait, circa 1890, of King Chulalongkorn of Siam seated beside his young crown prince. Both wear European-style military uniforms with medals, and the prince holds a Western-style officer's sword.]",
+    "image_url": null,
+    "stem": "Like Siam, which other Asian state preserved its independence in the late nineteenth century through deliberate modernization?",
+    "options": [
+     "(A) China under the Qing dynasty, which also pursued Western-style reforms",
+     "(B) India under the Mughal emperors",
+     "(C) Japan under the Meiji government",
+     "(D) Burma under its monarchy"
+    ],
+    "skill": "Making Connections"
+   }
+  ]
+ },
+ "section_1b": {
+  "directions": "Answer all three questions. Each question has three parts (a, b, and c). You have 40 minutes for this section.",
+  "saq_sets": [
+   {
+    "q1": {
+     "attribution": "—Historian's account of Tokugawa Japan's policy toward Europeans, 1630s–1850s",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE restriction the Tokugawa placed on foreign contact.",
+      "b": "Explain ONE cause of the Tokugawa policy of restriction.",
+      "c": "Explain ONE difference between Tokugawa Japan's response to Europeans and the Mughal Empire's response to Europeans in the seventeenth century."
+     },
+     "sample_answers": {
+      "a": "The shogunate confined all legal European trade to the Dutch factory on Dejima, a tiny artificial island in Nagasaki, and banned Japanese ships from sailing abroad.",
+      "b": "One cause was the fear that Christianity and European firearms would empower rival daimyo and peasant rebels, as they had during the Shimabara Rebellion of 1637–38, threatening the shogun's hard-won unity.",
+      "c": "The Mughals welcomed European traders — the English East India Company received trading rights in 1617 — and employed them as one interest among many, while the Tokugawa treated Europeans as a political danger to be quarantined: engagement versus containment."
+     },
+     "source_type": "secondary text",
+     "stimulus": "After unifying Japan, the Tokugawa shoguns moved to neutralize the two foreign threats they perceived: Christianity, which they associated with rebellion, and European merchants, who armed their rivals. The edicts of the 1630s expelled missionaries, forbade Japanese from traveling abroad, and confined Dutch and Chinese traders to the artificial island of Dejima in Nagasaki harbor. Japan did not close itself to knowledge — Dutch books on medicine and science were eagerly studied — but it closed itself to foreign power."
+    },
+    "q2": {
+     "attribution": "—Adapted from the Tokugawa Seclusion Edict of 1635",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE prohibition in the edict.",
+      "b": "Explain ONE way the edict strengthened the Tokugawa shogunate's control over Japan.",
+      "c": "Explain ONE limitation of the term 'seclusion' for describing Tokugawa foreign relations."
+     },
+     "sample_answers": {
+      "a": "The edict forbids Japanese ships from leaving for foreign countries and bans Japanese subjects from traveling abroad on pain of death.",
+      "b": "By monopolizing all foreign contact through Nagasaki, the shogunate denied rival daimyo independent access to European guns and wealth, keeping military and commercial power concentrated in Edo's hands.",
+      "c": "'Seclusion' is misleading because Japan maintained active trade with China, Korea, and the Dutch throughout the period and systematically imported Western science; it restricted foreign power, not foreign knowledge."
+     },
+     "source_type": "primary text",
+     "stimulus": "Japanese ships are strictly forbidden to leave for foreign countries. No Japanese may go abroad; those who depart and later return shall be put to death. All Portuguese who come to Japan shall be expelled, and no missionary teaching shall be permitted."
+    },
+    "q3": {
+     "attribution": "Nineteenth-century image of Dejima, Nagasaki harbor",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of Dejima shown in the image.",
+      "b": "Explain ONE way Dejima illustrates the Tokugawa approach to foreign trade.",
+      "c": "Explain ONE similarity between Dejima and the Portuguese trading post at Macao in China."
+     },
+     "sample_answers": {
+      "a": "The image shows a tiny, walled, fan-shaped island separated from the city by water, with warehouses and a few Western-style buildings — a visibly quarantined space.",
+      "b": "Dejima embodies controlled contact: the shogunate allowed profitable trade to continue but physically isolated the foreigners, searched their goods and books, and limited their movement — commerce without influence.",
+      "c": "Both were small, confined coastal enclaves where Europeans traded under strict local regulation — the Portuguese at Macao lived under Chinese law and paid ground rent, just as the Dutch at Dejima lived under Japanese surveillance."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "Nineteenth-century image of Dejima, the small fan-shaped artificial island in Nagasaki harbor where Dutch merchants were confined during the Tokugawa period, connected to the mainland by a single guarded bridge.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Dejima.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "comparison",
+    "set_id": "set-10",
+    "theme": "CDI",
+    "unit": 3,
+    "unit_title": "Land-Based Empires"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of the Columbian Exchange after 1492",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE element of the Columbian Exchange described in the passage.",
+      "b": "Explain ONE cause of the catastrophic Native American mortality described in the passage.",
+      "c": "Explain ONE long-term effect of the Columbian Exchange on Afro-Eurasia."
+     },
+     "sample_answers": {
+      "a": "One element was the transfer of American crops — maize, potatoes, cassava — to the Eastern Hemisphere, where they became staple foods.",
+      "b": "One cause was the lack of prior exposure: Native populations had been separated from Eurasian disease pools for thousands of years and had no acquired immunity to smallpox, measles, and influenza.",
+      "c": "One long-term effect was population growth in Europe, Africa, and Asia, as calorie-rich American crops like the potato and maize supported larger populations."
+     },
+     "source_type": "secondary text",
+     "stimulus": "The term 'the Columbian Exchange' describes the vast transfer of plants, animals, diseases, and peoples between the Eastern and Western Hemispheres after 1492. The exchange was radically unequal in its effects: Old World diseases devastated Native populations that had no immunity, while American crops such as the potato, maize, and cassava later fueled population growth in Europe, Africa, and Asia. No single event reshaped the world's biology more."
+    },
+    "q2": {
+     "attribution": "—Adapted from Christopher Columbus, letter announcing his first voyage, 1493",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE claim Columbus makes in the passage.",
+      "b": "Explain ONE way the passage reflects European attitudes toward the Americas in the 1490s.",
+      "c": "Explain ONE limitation of Columbus's letter as evidence about the peoples he encountered."
+     },
+     "sample_answers": {
+      "a": "He claims to have taken possession of the islands he found on behalf of the Spanish monarchs.",
+      "b": "The passage reflects the assumption that newly encountered lands could simply be claimed for a European crown and that their inhabitants existed to trade or serve — the legal and mental framework of conquest.",
+      "c": "Columbus describes the islanders only as trading partners bringing gifts; he records nothing of their societies, languages, or perspectives, and his account was written to secure royal favor and funding for a second voyage."
+     },
+     "source_type": "primary text",
+     "stimulus": "I discovered many islands inhabited by numerous people, and of all of them I took possession for our most fortunate King. They brought us parrots and balls of cotton and spears, and they willingly traded everything they had."
+    },
+    "q3": {
+     "attribution": "The Cantino planisphere, Portuguese world map, 1502",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the map that reflects the new geographic knowledge of the early 1500s.",
+      "b": "Explain ONE cause of the rapid production of maps like this one after 1492.",
+      "c": "Explain ONE way the map illustrates the connection between exploration and the Columbian Exchange."
+     },
+     "sample_answers": {
+      "a": "The map depicts the eastern coast of South America and the Caribbean as newly known lands, integrated into a world picture that still centers on Europe, Africa, and the Indian Ocean.",
+      "b": "One cause was state competition: Portugal and Spain raced to chart and claim new coasts, and accurate maps were strategic assets for navigation, trade monopolies, and treaty negotiations such as Tordesillas.",
+      "c": "The map is itself an instrument of the exchange — charting the Atlantic routes that would carry sugar, silver, enslaved Africans, and diseases between the hemispheres for the next three centuries."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "The Cantino planisphere, a Portuguese world map of 1502, showing the newly charted coasts of Brazil and the Caribbean alongside Africa, Asia, and the Atlantic Ocean.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cantino_planisphere_%281502%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "causation",
+    "set_id": "set-11",
+    "theme": "ENV",
+    "unit": 4,
+    "unit_title": "Transoceanic Interconnections"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of the plantation complex in the Americas, c. 1600–1800",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the plantation system described in the passage.",
+      "b": "Explain ONE cause of the growth of the transatlantic slave trade between 1600 and 1800.",
+      "c": "Explain ONE effect of the slave trade on African societies."
+     },
+     "sample_answers": {
+      "a": "Plantations used enslaved African labor to produce sugar on large estates, working laborers so hard — around the clock during harvest — that deaths exceeded births.",
+      "b": "One cause was European demand for sugar, which made plantations enormously profitable; because enslaved workers died faster than they reproduced, planters constantly needed new captives, driving ever-larger shipments.",
+      "c": "One effect was intensified warfare and political disruption, as states such as Dahomey and Asante raided neighbors to supply captives, while the loss of millions of young people skewed demographics and labor."
+     },
+     "source_type": "secondary text",
+     "stimulus": "The engine of the Atlantic economy was the plantation: large estates in Brazil and the Caribbean producing sugar with enslaved African labor. Sugar was brutal to make — the harvest never stopped, the mills ran day and night, and workers died faster than they could be replaced. That arithmetic is what made the slave trade grow: plantations consumed lives, and Africa was forced to supply them. By 1800, more enslaved Africans had been carried across the Atlantic than Europeans had voluntarily migrated to the Americas."
+    },
+    "q2": {
+     "attribution": "—Adapted from Olaudah Equiano, The Interesting Narrative of the Life of Olaudah Equiano, 1789",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE detail Equiano gives about his arrival at the slave ship.",
+      "b": "Explain ONE way the passage illustrates the dehumanization of the Middle Passage.",
+      "c": "Explain ONE purpose Equiano had in publishing his narrative in 1789."
+     },
+     "sample_answers": {
+      "a": "He describes being carried aboard and immediately 'handled and tossed up' by the crew to inspect whether he was physically sound — like livestock.",
+      "b": "The passage shows captives treated as cargo to be graded for sale rather than as people; the inspection ritual reduced a human being to a commodity whose body determined its price.",
+      "c": "Equiano wrote to support the British abolitionist movement: a firsthand account by a formerly enslaved man who had bought his freedom made an irrefutable moral case against the trade."
+     },
+     "source_type": "primary text",
+     "stimulus": "The first object which saluted my eyes when I arrived on the coast was the sea, and a slave ship riding at anchor. I was carried on board, where I was immediately handled and tossed up to see if I were sound by some of the crew."
+    },
+    "q3": {
+     "attribution": "Map of the triangular trade across the Atlantic, c. 1700",
+     "directions": "Use the map below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE leg of the triangular trade shown on the map.",
+      "b": "Explain ONE cause of the pattern of trade shown on the map.",
+      "c": "Explain ONE continuity in coerced labor in the Americas between the period 1450–1750 and the period 1750–1900."
+     },
+     "sample_answers": {
+      "a": "The map shows ships carrying enslaved Africans from West Africa across the Atlantic to Brazil and the Caribbean — the Middle Passage.",
+      "b": "One cause was the labor demands of American plantations combined with the collapse of Native populations from disease: European capital, African labor, and American land were combined because no single region had all three.",
+      "c": "After the abolition of the slave trade and then slavery itself, plantation owners turned to indentured laborers from India and China under contracts that, while technically voluntary, reproduced many of the coercive conditions of slavery."
+     },
+     "source_type": "non-text: map",
+     "stimulus": "Map of the triangular trade across the Atlantic circa 1700: manufactured goods sail from Europe to Africa, enslaved Africans are carried to the Americas, and plantation crops such as sugar and tobacco sail back to Europe.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Triangular_trade.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "causation",
+    "set_id": "set-12",
+    "theme": "SIO",
+    "unit": 4,
+    "unit_title": "Transoceanic Interconnections"
+   }
+  ]
+ },
+ "section_2a": {
+  "directions": "Question 1 is based on the accompanying documents. The documents have been edited for the purpose of this exercise. You are advised to spend 15 minutes reading and planning and 45 minutes writing your answer.",
+  "dbq": {
+   "analysis_note": "All pre-1900 excerpts are plain-language renderings of public-domain sources.",
+   "documents": [
+    {
+     "date": "1493",
+     "kind": "text",
+     "n": 1,
+     "source_line": "Christopher Columbus, letter to the Spanish monarchs reporting his first voyage",
+     "sourcing_note": "A Genoese captain writing to his royal sponsors; purpose is to report success and secure continued funding. His glowing description of wealth serves his need to justify the voyage.",
+     "text_or_description": "I have discovered many islands rich in gold, spices, and all things men desire. The people are gentle and generous, and I took possession of these lands for our King and Queen. With a little help, great riches will follow."
+    },
+    {
+     "date": "1552",
+     "kind": "text",
+     "n": 2,
+     "source_line": "Bartolomé de Las Casas, Dominican friar, in A Short Account of the Destruction of the Indies",
+     "sourcing_note": "A Spanish friar writing to the Spanish court; purpose is to denounce the encomienda system and demand reform. His horror stories are meant to shock the crown into action, which shapes his emphasis.",
+     "text_or_description": "The Christians laid hands upon the Indians with a cruelty never before seen. For gold they slew men, women, and children without mercy, tearing babes from their mothers and dashing them against the stones. Whole islands were left empty of people."
+    },
+    {
+     "date": "c. 1570s",
+     "kind": "text",
+     "n": 3,
+     "source_line": "Florentine Codex: Nahua account of the smallpox epidemic, given by survivors to the friar Bernardino de Sahagún",
+     "sourcing_note": "Indigenous survivors speaking through a Franciscan friar; purpose is to record the catastrophe. The description of social collapse shows disease as the most devastating force of the exchange.",
+     "text_or_description": "A great plague broke out among us. It covered the body with sores from head to foot. Many died of hunger, for none could cook food or bring water. The dead lay unburied in the houses, and none dared enter to carry them out."
+    },
+    {
+     "date": "1542",
+     "kind": "text",
+     "n": 4,
+     "source_line": "The New Laws, issued by the Spanish Crown",
+     "sourcing_note": "Imperial legislation addressed to colonial officials; purpose is to assert royal authority over the conquistadors and regulate conquest. Shows the crown responding to the very abuses described in Document 2.",
+     "text_or_description": "We command that henceforth no Indian shall be made a slave for any reason. Those held in unjust servitude shall be set free, and the grants of Indian labor given to the first conquerors shall return to our Crown."
+    },
+    {
+     "date": "1609",
+     "kind": "text",
+     "n": 5,
+     "source_line": "Antonio de Morga, Spanish colonial official, in Sucesos de las Islas Filipinas (Events in the Philippine Islands)",
+     "sourcing_note": "A Spanish colonial official in Manila writing a history of the islands for Spanish readers; purpose is to record the colony’s commerce and government. Writing as an insider to the Manila trade, his inventory of Chinese goods bought with American silver documents the global circuit: New World silver flowing east to pay for Asian manufactures.",
+     "text_or_description": "Every year ships arrive from China laden with raw silk, fine silks in many colors, porcelain, and other wares. The Chinese merchants sell their goods and carry the proceeds back to China in silver — minted coin and bars — linking the mines of Spanish America to the markets of Asia through Manila."
+    },
+    {
+     "date": "18th century",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Casta_painting_all.jpg",
+     "kind": "image",
+     "license": "Public domain (18th-century anonymous work)",
+     "n": 6,
+     "source_line": "Casta painting from New Spain, depicting a mixed-race family",
+     "sourcing_note": "Painted by an anonymous colonial artist for Spanish viewers; purpose is to classify the new racial hierarchy of the colonies. Shows both the cultural mixing and the rigid social ranking the exchange produced.",
+     "text_or_description": "The painting shows a Spanish father, an Indigenous mother, and their mixed-race child, labeled with the colonial term for their caste. Such paintings catalogued dozens of racial mixtures in a strict social order.",
+     "source_page": "https://commons.m.wikimedia.org/wiki/File:Casta_painting_all.jpg"
+    },
+    {
+     "date": "modern (historical map)",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Triangle_trade2.png",
+     "kind": "map",
+     "license": "CC BY-SA 3.0 (Wikimedia Commons)",
+     "n": 7,
+     "source_line": "Map of the triangle trade across the Atlantic",
+     "sourcing_note": "A modern educational map; purpose is to illustrate the system. Shows how the exchange created a new forced migration that tied three continents into a single commercial circuit.",
+     "text_or_description": "The map shows three routes: European manufactured goods to Africa, enslaved Africans carried to the Americas, and American plantation goods such as sugar and tobacco shipped to Europe.",
+     "source_page": "https://commons.wikimedia.org/wiki/File:Triangle_trade2.png"
+    }
+   ],
+   "id": "dbq-04",
+   "period": "c. 1450-1750",
+   "prompt": "Using the documents and your knowledge of world history, evaluate the most significant effects of the Columbian Exchange on societies in the Americas and Afro-Eurasia in the period c. 1450-1750.",
+   "reasoning_process": "causation",
+   "rubric_map": {
+    "analysis": {
+     "complexity": "Multiple paths: weigh demographic catastrophe (Docs 2, 3) against economic integration (Docs 5, 7) and social transformation (Doc 6); corroborate Spanish cruelty across Docs 2 and 4 (the crown's laws respond to the friar's charges); qualify 'significance' by region and by who experienced the effect.",
+     "sourcing": "Doc 1 (audience/purpose: a captain justifying his voyage to his sponsors); Doc 2 (purpose: a reformer shocking the court into action); Doc 3 (point of view: Indigenous survivors); Doc 5 (context: a colonial official's history recording the Manila trade — American silver flowing east)."
+    },
+    "contextualization": "Situate the exchange within European maritime expansion, the Reconquista's crusading mentality, the Ottoman control of eastern trade routes pushing Europeans seaward, and the pre-existing American and Afro-Eurasian societies it disrupted.",
+    "evidence": {
+     "describe": "All seven describable; strongest: Docs 2, 3 (human cost), Docs 5, 7 (economic systems), Doc 6 (social order).",
+     "outside": "Outside evidence: the demographic collapse of Indigenous populations (up to 90 percent in some regions); the transfer of crops (maize, potatoes, sugar) and animals (horses, cattle); the Potosí silver mines and the Manila galleons; African kingdoms' participation in and resistance to the slave trade.",
+     "support": "'Demographic/social catastrophe most significant': Docs 2, 3, 6, 7. 'Economic integration most significant': Docs 1, 5, 7. 'Political/administrative effects': Doc 4."
+    },
+    "thesis": "An arguable thesis takes a position on 'most significant' with a line of reasoning, e.g., the sample below."
+   },
+   "sample_thesis": "The most significant effect of the Columbian Exchange was demographic and human: the catastrophic population collapse caused by disease and exploitation in the Americas, and the forced migration of enslaved Africans, reshaped societies more profoundly than the new trade in silver and crops, because the loss and movement of peoples determined who would labor in, govern, and inherit the new Atlantic world.",
+   "themes": [
+    "SIO - Social Interactions and Organization",
+    "ECN - Economic Systems",
+    "GOV - Governance"
+   ],
+   "title": "The Columbian Exchange",
+   "units": [
+    4
+   ]
+  }
+ },
+ "section_2b": {
+  "directions": "Answer the question below. You have 40 minutes.",
+  "leq": {
+   "id": "leq-03",
+   "format": "leq",
+   "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+   "units": [
+    1
+   ],
+   "themes": [
+    "GOV",
+    "ECN",
+    "SIO"
+   ],
+   "target_reasoning_process": "causation",
+   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+   "prompt": "In Afro-Eurasia in the period c. 1200-c. 1450, old empires declined and new states rose in their place. Develop an argument that evaluates the extent to which the decline and reconstitution of empires caused the growth of cities and urban life in this period. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
+   "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the Mongol conquests, the fall of the Abbasid caliphate, the rise of the Ottomans and the Delhi Sultanate, or the expansion of Afro-Eurasian trade.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: the sack of Baghdad (1258) and its urban devastation, Cairo under the Mamluks, Timbuktu and Djenne in Mali, Delhi under the Sultanate, Khanbaliq/Dadu under the Yuan.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must be tied to the causal claim (e.g., how a new capital or court patronage spurred urban growth, or how conquest destroyed it).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Causation: explains how imperial decline or reconstitution did or did not cause urban growth, weighing it against other causes such as trade or agricultural productivity.",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+   },
+   "sample_thesis": "New empires and states often spurred urban growth by founding capitals and patronizing crafts and scholarship, but imperial change alone does not explain urbanization: many cities grew because of trade regardless of who ruled, and conquest sometimes destroyed urban life, as at Baghdad.",
+   "evidence_directions": "Strong responses distinguish cases where reconstitution built cities (Mamluk Cairo, Mali's Timbuktu) from cases where decline devastated them (Baghdad) or where trade drove growth independent of rulers. Simple lists of cities without causal analysis earn only the examples point.",
+   "source_inspiration": "fivesteps: fivesteps-frq-034"
+  }
+ }
+}

@@ -1,0 +1,1133 @@
+{
+ "id": "ap-world-practice-test-09",
+ "format": "Fall 2026 CED",
+ "section_1a": {
+  "directions": "Each of the questions or incomplete statements below is followed by four suggested answers or completions. Select the one that is best in each case. You have 55 minutes.",
+  "questions": [
+   {
+    "n": 1,
+    "id": "wh-fresh-u5-015",
+    "unit": 5,
+    "stimulus": "A) United States Declaration of Independence (1776): 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights.' B) Haitian Constitution (1805), Article 12: 'No white man of whatever nation he may be, shall put his foot on this territory with the title of master or proprietor, neither shall he in future acquire any property therein.' Article 14: 'The Haytians shall hence forward be known only by the generic appellation of Blacks.'",
+    "image_url": null,
+    "stem": "Taken together, the two excerpts best illustrate which broader historical development?",
+    "options": [
+     "(A) Haitian leaders rejected Enlightenment ideas as irrelevant to their struggle",
+     "(B) American revolutionaries applied Enlightenment principles more radically and consistently than any other revolutionaries of the era, including on the question of slavery",
+     "(C) Haitian revolutionaries took the language of universal rights further than the Americans, extending it to race and abolishing slavery",
+     "(D) both documents were written by the same group of French philosophers"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 2,
+    "id": "wh-fresh-u5-029",
+    "unit": 5,
+    "stimulus": "Mexican broadside, 19th century: '¡Viva el cura Hidalgo! Una página de gloria' ('Long live Father Hidalgo! A page of glory'). An oval portrait shows Miguel Hidalgo, the parish priest of Dolores, in clerical dress; the text celebrates his September 1810 uprising for Mexican independence.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Viva_la_rep%C3%BAblica%21_Viva_el_Cura_Hidalgo%21_Una_p%C3%A1gina_de_gloria_LCCN99615902.jpg",
+    "stem": "Hidalgo's revolt began as a mass peasant uprising, yet Mexican independence (1821) was finally secured by the creole officer Agustín de Iturbide. This sequence best illustrates which broader pattern?",
+    "options": [
+     "(A) Indigenous peasants themselves personally led every Latin American independence movement to final military victory across the continent",
+     "(B) Popular revolts opened the crisis, but creole elites steered independence toward outcomes that preserved the social hierarchy",
+     "(C) Spain voluntarily granted Mexico independence after Hidalgo's speech",
+     "(D) Mexican independence immediately gave land to the peasants who fought for it"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 3,
+    "id": "wh-fresh-u3-006",
+    "unit": 3,
+    "stimulus": "The Ottoman state periodically collected Christian boys from Balkan villages through the devshirme levy. Converted to Islam and educated at the palace, the most able entered the janissary infantry or the imperial administration, some rising as high as grand vizier. Separately, the empire organized non-Muslim subjects into millets: self-governing religious communities led by their own clergy, who collected taxes and administered family law for their members.",
+    "image_url": null,
+    "stem": "Which of the following arguments about Ottoman state-building is best supported by the passage?",
+    "options": [
+     "(A) The Ottomans created institutions that bypassed existing elites and tied diverse populations directly to the central state.",
+     "(B) The Ottomans depended entirely on religious minorities to staff their government.",
+     "(C) The Ottomans preserved the old Byzantine aristocracy as their main administrative class after the conquest of Constantinople, relying on former imperial officials to govern the Balkans.",
+     "(D) The Ottomans granted full political equality to all religious communities."
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 4,
+    "id": "wh-princeton-u2-002",
+    "unit": 2,
+    "stimulus": "The people are Idolaters; and since they were conquered by the Great Kaan they use paper-money. Both men and women are fair and comely, and for the most part clothe themselves in silk, so vast is the supply of that material, both from the whole district of Kinsay, and from the imports by traders from other provinces. And you must know they eat every kind of flesh, even that of dogs and other unclean beasts, which nothing would induce a Christian to eat.\n\nSince the Great Kaan occupied the city he has ordained that each of the 12,000 bridges should be provided with a guard of ten men, in case of any disturbance, or of any being so rash as to plot treason or insurrection against him. Each guard is provided with a hollow instrument of wood and with a metal basin, and with a time-keeper to enable them to know the hour of the day or night. And so when one hour of the night is past the sentry strikes one on the wooden instrument and on the basin, so that the whole quarter of the city is made aware that one hour of the night is gone. At the second hour he gives two strokes, and so on, keeping always wide awake and on the look out. In the morning again, from the sunrise, they begin to count anew, and strike one hour as they did in the night, and so on hour after hour.\n\nSource: The Glories of Kinsay [Hangchow], Marco Polo, c. 1300",
+    "image_url": null,
+    "stem": "Polo's observation that the people of Kinsay have used paper money 'since they were conquered by the Great Kaan' is most significant as evidence that",
+    "options": [
+     "(A) Europeans were struck by a Chinese monetary practice with no thirteenth-century European equivalent.",
+     "(B) The Mongols introduced paper currency to China from their Central Asian homeland.",
+     "(C) Mongol conquest destroyed the commercial economy of southern China.",
+     "(D) Paper money had replaced coinage throughout the entire Mongol Empire by 1300."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 5,
+    "id": "wh-fivesteps-u4-004",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Which feature most clearly distinguishes the capitalist enterprises emerging in early modern Europe from the mercantilist policies of their governments?",
+    "options": [
+     "(A) The government owned all land, labor, and capital",
+     "(B) All overseas trade was abolished",
+     "(C) Private individuals risking their own capital",
+     "(D) Private profit was banned by law"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 6,
+    "id": "wh-fivesteps-u5-005",
+    "unit": 5,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Industrialization popularized the ideal of 'separate spheres' for men and women. What did this ideal claim?",
+    "options": [
+     "(A) Women should work in factories while men manage the household",
+     "(B) Men belonged to public work and politics; women belonged to domestic life",
+     "(C) Industrial society abolished distinct gender roles",
+     "(D) Children should leave school and become the family's primary earners in factories"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 7,
+    "id": "wh-fresh-u3-030",
+    "unit": 3,
+    "stimulus": "Historic Japanese map of Nagasaki Bay showing European (Dutch) trading ships anchored in the harbor and the small artificial island of Dejima near the city — the confined trading post of Dutch merchants under the Tokugawa shogunate.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_the_bay_of_Nagasaki_and_Deshima.jpg",
+    "stem": "The arrangement shown at Nagasaki is most similar to which of the following?",
+    "options": [
+     "(A) The Ottoman conquest of Constantinople in 1453.",
+     "(B) The Spanish expulsion of every foreign merchant from Manila.",
+     "(C) The Qing restriction of European trade to the single supervised port of Canton; both systems confined foreign contact to one controlled port.",
+     "(D) The Russian decision to throw open St. Petersburg and its Baltic ports to unrestricted foreign settlement, commerce, and missionary activity by all denominations."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 8,
+    "id": "wh-fresh-u9-004",
+    "unit": 9,
+    "stimulus": "Line chart titled 'Trade as a share of global GDP.' The line rises from about 25 percent around 1970 to about 60 percent in 2008, dips sharply in 2009, then recovers and climbs to about 62 percent by 2024. Subtitle: 'Sum of exports and imports of goods and services globally, divided by gross domestic product, expressed as a percentage.' Note below: 'Data source: World Bank (2024).'",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Trade_as_a_share_of_global_GDP.png",
+    "stem": "Which claim about economic globalization is best supported by the chart?",
+    "options": [
+     "(A) the share of national output traded across borders more than doubled between 1970 and 2020",
+     "(B) international trade declined in every decade after 1960",
+     "(C) the 2009 dip proves that globalization ended with the global financial crisis and never recovered afterward",
+     "(D) exports grew mainly because most countries abandoned manufacturing for services"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 9,
+    "id": "wh-fivesteps-u1-021",
+    "unit": 1,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Before 1492, the Americas were isolated from Afro-Eurasian trade networks. What was the fundamental reason?",
+    "options": [
+     "(A) American peoples banned all foreign trade",
+     "(B) The Americas had no goods worth trading",
+     "(C) Oceans too wide for existing ships physically isolated the Americas",
+     "(D) Europeans deliberately hid the Americas from Asian merchants to monopolize trade"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 10,
+    "id": "wh-barrons-u9-004",
+    "unit": 9,
+    "stimulus": "In 1966, a group of American women founded the National Organization for Women (NOW), declaring their intent 'to break through the silken curtain of prejudice and discrimination against women in government, industry, the professions, the churches, the political parties, the judiciary, the labor unions, in education, science, medicine, law, religion and every other field.'\n\nThe immediate spark was the Equal Employment Opportunity Commission's refusal to enforce the ban on sex discrimination in the Civil Rights Act of 1964 — a provision many congressmen had assumed was a joke. Betty Friedan and the other founders, most of them professional women who had hit the wall of workplace discrimination, concluded that women needed their own NAACP: a pressure group that would picket, sue, and lobby. Within a few years NOW was the organizational backbone of the second-wave feminist movement.",
+    "image_url": null,
+    "stem": "The founding of NOW is best understood as part of which broader development?",
+    "options": [
+     "(A) A movement to restrict women to domestic roles",
+     "(B) The anti-war movement's opposition to the draft",
+     "(C) Second-wave feminism's push beyond suffrage",
+     "(D) The campaign for women's suffrage in the early 1900s"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 11,
+    "id": "wh-barrons-t3-053",
+    "unit": 8,
+    "stimulus": "'Yes, we have slain a large dragon. But we now live in a jungle filled with a bewildering variety of poisonous snakes. And in many ways, the dragon was easier to keep track of.' —James Woolsey, incoming director of the CIA, on the end of the Cold War, 1993",
+    "image_url": null,
+    "stem": "Woolsey's central point is that",
+    "options": [
+     "(A) The post-Cold War world would be messier and harder to manage than the Cold War itself.",
+     "(B) The United States had actually lost the Cold War.",
+     "(C) A devastating great-power war between the remaining superpowers was unavoidable in the near future.",
+     "(D) The Cold War had never really happened."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 12,
+    "id": "wh-barrons-t1-019",
+    "unit": 3,
+    "stimulus": "[Image: 'Krishna Holds up Mount Govardhan to Shelter the Villagers of Braj,' a miniature painting from the Persian translation of the Harivamsha (Legend of Krishna), produced at the Mughal court, ca. 1590-1595. The Hindu deity Krishna, shown in blue, lifts a mountain to shelter villagers, rendered in refined Persian miniature style.]",
+    "image_url": null,
+    "stem": "Which policy of Akbar's does this translation project exemplify?",
+    "options": [
+     "(A) reimposing the jizya tax on non-Muslims",
+     "(B) banning all non-Islamic artistic subjects",
+     "(C) commissioning Persian translations of Sanskrit epics at his court",
+     "(D) converting to Christianity under the influence of Jesuit missionaries at court"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 13,
+    "id": "wh-barrons-u6-004",
+    "unit": 6,
+    "stimulus": "In the early 1800s, Britain bought enormous quantities of Chinese tea, silk, and porcelain — but China bought almost nothing from Britain in return. Silver flowed steadily east to pay for the difference, draining British coffers.",
+    "image_url": null,
+    "stem": "Britain's need to sell opium in China arose most directly from which of the following?",
+    "options": [
+     "(A) Chinese government subsidies paid to British merchants",
+     "(B) A British surplus of opium with no other possible buyers",
+     "(C) Strong Chinese popular demand for British textiles",
+     "(D) A persistent British trade deficit with China"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 14,
+    "id": "wh-fresh-u5-014",
+    "unit": 5,
+    "stimulus": "Woman, wake up; the tocsin of reason is being heard throughout the whole universe; discover your rights. Woman is born free and remains equal to man in rights. The law must be the expression of the general will; all female and male citizens must contribute personally or through their representatives to its formation. — Olympe de Gouges, Declaration of the Rights of Woman and of the Female Citizen, 1791",
+    "image_url": null,
+    "stem": "The intended audience and purpose of de Gouges's declaration were most likely:",
+    "options": [
+     "(A) the National Assembly and the French public — to demand that revolutionary rights apply to women",
+     "(B) Napoleon Bonaparte — to persuade him to appoint her as his chief political advisor on women's affairs",
+     "(C) the British Parliament — to lobby for English women's suffrage",
+     "(D) her private diary — she never intended it for public debate"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 15,
+    "id": "wh-fivesteps-u4-019",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Spanish steel swords and armor gave conquistadors an edge in close combat. Why couldn't native warriors easily counter steel weapons?",
+    "options": [
+     "(A) Obsidian and wooden weapons shattered against steel armor",
+     "(B) Native warriors had no weapons at all",
+     "(C) Spanish steel was poisonous to the touch",
+     "(D) Native warriors refused to fight in close combat and fled from every battle"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 16,
+    "id": "wh-princeton-u7-015",
+    "unit": 7,
+    "stimulus": "Gross Domestic Product (total economic output) of Japan, selected years:\n\nYear | GDP (million yen) | GDP per capita\n1934 | 17,422 | 255\n1937 | 19,949 | 282\n1940 | 22,848 | 312\n1942 | 23,445 | 322\n1944 | 22,538 | 303\n1946 | 13,083 | 173\n1955 | 25,399 | 282",
+    "image_url": null,
+    "stem": "Which of the following best explains the growth of Japanese GDP between 1934 and 1942?",
+    "options": [
+     "(A) Peaceful trade with the United States drove steady growth.",
+     "(B) An agricultural boom raised overall output.",
+     "(C) Military expansion and war production drove the measured growth.",
+     "(D) Reduced military spending freed resources for civilian industry."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 17,
+    "id": "wh-barrons-u6-005",
+    "unit": 6,
+    "stimulus": "Before the Opium Wars, all legal European trade with China funneled through a single port — Guangzhou (Canton) — where a licensed guild of Chinese merchants, the Cohong, handled every transaction with foreigners.",
+    "image_url": null,
+    "stem": "This arrangement, known as the Canton system, is best described as",
+    "options": [
+     "(A) an open-door policy welcoming merchants to every Chinese city",
+     "(B) confining foreign merchants to one port and licensed intermediaries",
+     "(C) a complete Chinese ban on all contact with foreigners",
+     "(D) a European-run free-trade zone on the Chinese coast"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 18,
+    "id": "wh-fivesteps-u7-018",
+    "unit": 7,
+    "stimulus": "Paraphrase of a US Army account of Colonel Bonesteel's 1945 decision: Bonesteel needed a surrender line as far north as the Soviets would accept, knowing Russian troops could overrun the whole peninsula before Americans arrived from Okinawa, 600 miles away. He had to craft an arrangement the Russians would accept while keeping them from taking all of Korea. He chose the 38th parallel as the line dividing the zones where Japanese forces would surrender to American and Soviet authorities.",
+    "image_url": null,
+    "stem": "Two American officers chose the 38th parallel in 1945 using a National Geographic map. What does this reveal about Korea's division?",
+    "options": [
+     "(A) Korean leaders chose the line themselves",
+     "(B) It followed an ancient Korean provincial boundary dating back many centuries",
+     "(C) Drawn for American administrative convenience, it became a permanent border",
+     "(D) The Soviet Union proposed the 38th parallel"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 19,
+    "id": "wh-princeton-u8-017",
+    "unit": 8,
+    "stimulus": "'Workers, peasants, soldiers, youth, pupils! Oppressed and exploited compatriots! The Communist Party of Indochina is founded. It is the party of the working class. It will help the proletarian class lead the revolution in order to struggle for all the oppressed and exploited people.\n\nTo overthrow French imperialism, feudalism, and the reactionary Vietnamese capitalist class. To make Indochina completely independent. To establish a worker-peasant and soldier government. To confiscate the banks and other enterprises belonging to the imperialists and put them under the control of the worker-peasant and soldier government. To confiscate all of the plantations and property belonging to the imperialists and the Vietnamese reactionary capitalist class and distribute them to poor peasants.'\n\nSource: Ho Chi Minh, Program for the Communists of Indochina (1930)",
+    "image_url": null,
+    "stem": "Ho Chi Minh's address to 'workers, peasants, soldiers, youth, pupils' best illustrates which of the following about his revolutionary strategy?",
+    "options": [
+     "(A) The party sought the support of urban workers only.",
+     "(B) The movement sought to unite multiple exploited groups under communist leadership.",
+     "(C) Ho Chi Minh rejected any participation by peasants.",
+     "(D) The program ignored the goal of national independence."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 20,
+    "id": "wh-fivesteps-u1-029",
+    "unit": 1,
+    "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
+    "image_url": null,
+    "stem": "Ibn Battuta is astonished that Malians trace descent through the maternal uncle rather than the father. What does his surprise reveal?",
+    "options": [
+     "(A) The Malians were not really Muslims, merely pretending to pray for trade advantages",
+     "(B) He expected patrilineal Islamic norms but found matrilineal custom persisting",
+     "(C) Ibn Battuta was himself Malian",
+     "(D) Matrilineal descent is standard Islamic law"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 21,
+    "id": "wh-fivesteps-u9-019",
+    "unit": 9,
+    "stimulus": "The chart plots life expectancy by region from 1950 to 2020: a steady global rise, with Western Europe, Canada, and Australia highest, Asia in the middle, and sub-Saharan Africa lowest, though rising.",
+    "image_url": null,
+    "stem": "As life expectancy rises in wealthy countries, rates of heart disease and Alzheimer's increase. Why?",
+    "options": [
+     "(A) Modern medicine causes these diseases through its drugs and treatments",
+     "(B) People live long enough to develop diseases of old age",
+     "(C) Old people are inherently unhealthy",
+     "(D) Vaccines cause Alzheimer's"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 22,
+    "id": "wh-princeton-pdf6-u7-006",
+    "unit": 7,
+    "stimulus": "\"The Ethiopian government never expected other governments to shed their soldiers' blood to defend the Covenant. Ethiopian warriors asked only for means to defend themselves. On many occasions I have asked for financial assistance for the purchase of arms. That assistance has been constantly refused me. What, then, in practice, is the meaning of Article 16 and of collective security? Should it happen that a strong government finds it may, with impunity, destroy a weak people, then the hour strikes for that weak people to appeal to the League of Nations. God and history will remember your judgment.\" - Haile Selassie, Emperor of Ethiopia, addressing the League of Nations, June 30, 1936, after Italy's invasion of his country.",
+    "image_url": null,
+    "stem": "Selassie's appeal rests on the idea that Ethiopia, as a member state, deserves the League's protection. This argument most directly reflects which of the following principles?",
+    "options": [
+     "(A) The sovereign equality of nations and collective security.",
+     "(B) The divine right of emperors to rule absolutely over their subjects.",
+     "(C) The belief that only European states deserve independence.",
+     "(D) The rejection of all international organizations."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 23,
+    "id": "wh-princeton-u6-027",
+    "unit": 6,
+    "stimulus": "'The question as to who, and what, is responsible for African underdevelopment can be answered at two levels. Firstly, the answer is that the operation of the imperialist system bears major responsibility for African economic retardation by draining African wealth and by making it impossible to develop more rapidly the resources of the continent. Secondly, one has to deal with those who manipulate the system and those who are either agents or unwitting accomplices of the said system. The capitalists of Western Europe were the ones who actively extended their exploitation from inside Europe to cover the whole of Africa.'\n\nSource: Walter Rodney, historian, How Europe Underdeveloped Africa, 1974",
+    "image_url": null,
+    "stem": "Rodney's argument, published in 1974, is best understood as an intervention in which of the following contemporary debates?",
+    "options": [
+     "(A) It supported the continuation of European colonial rule.",
+     "(B) It provided an intellectual foundation for demands for genuine economic independence.",
+     "(C) It was ignored by African political leaders.",
+     "(D) It argued that Africa needed no economic change after independence."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 24,
+    "id": "wh-barrons-u2-003",
+    "unit": 2,
+    "stimulus": "A Jewish merchant in medieval India wrote home to his wife: 'Now if divorce is your wish, I cannot blame you. For the waiting has been long... I cannot come home with nothing.' The letter, preserved in the Cairo Geniza — a storeroom of discarded documents in a Cairo synagogue — shows a trader stranded abroad by the slow rhythms of monsoon commerce.",
+    "image_url": null,
+    "stem": "Letters like this one, preserved in the Cairo Geniza, are especially valuable to historians because they",
+    "options": [
+     "(A) record the formal laws issued by the Fatimid caliphs in Cairo",
+     "(B) list the exact prices of every traded good",
+     "(C) prove that trade never crossed religious lines",
+     "(D) Reveal merchants' everyday lives, absent from chronicles"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 25,
+    "id": "wh-barrons-u5-001",
+    "unit": 5,
+    "stimulus": "Writing in exile in 1815, Simón Bolívar reflected on the future of Spanish America: 'We are a young people... we are, moreover, neither Indian nor European, but a species midway between the legitimate proprietors of this country and the Spanish usurpers.' He struggled to say what form of government such a people could sustain.\n\nThe uncertainty was practical, not just philosophical. Bolívar had seen the first Venezuelan republic collapse into faction and caudillo rule, and he doubted that Spanish America's deeply divided societies — peninsulares, creoles, mestizos, Indigenous peoples, enslaved Africans — could sustain the federal democracies admired in the United States. His answer, eventually, was strong centralized authority: a president for life, a hereditary senate — proposals that alarmed the very liberals who had fought beside him.",
+    "image_url": null,
+    "stem": "The author's description of Americans as 'neither Indian nor European, but a species midway' most directly reflects",
+    "options": [
+     "(A) a call for the restoration of the Inca Empire",
+     "(B) an argument that Americans should return to Europe",
+     "(C) a rejection of Enlightenment political ideas",
+     "(D) The emergence of a distinct creole identity"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 26,
+    "id": "wh-fresh-u3-052",
+    "unit": 3,
+    "stimulus": "Text excerpt: strategies rulers used to legitimize power, c. 1450-1750. Ottoman sultans: claimed the title of caliph as protectors of Sunni Islam and built great mosques. Safavid shahs: claimed connection to the Shi'a Imams and devotion to Twelver Shi'ism. Mughal emperors under Akbar: presented the emperor as a divine light above sectarian division. Qing emperors: claimed the Mandate of Heaven and patronized Confucian rites. Tokugawa shoguns: upheld the Neo-Confucian social hierarchy as the natural order. Russian tsars: claimed Moscow as the Third Rome, heir to Orthodox Byzantium.",
+    "image_url": null,
+    "stem": "A historian claims that religious legitimation required rulers to make their piety visible through patronage. Which pairing best supports this claim?",
+    "options": [
+     "(A) Ottoman mosque-building and Askia Muhammad's endowment of mosques and schools in Timbuktu.",
+     "(B) The Tokugawa closing of Japan to Christian missionaries and the Qing queue decree imposed on Han Chinese men.",
+     "(C) The Ottoman devshirme levy and Peter the Great's Table of Ranks.",
+     "(D) The Peace of Augsburg and the Council of Trent."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 27,
+    "id": "wh-fivesteps-u7-008",
+    "unit": 7,
+    "stimulus": "Two maps of the Middle East, 1914 and 1922: the first shows the Ottoman Empire spanning the region; the second shows its former Arab lands divided into British and French mandates, including Palestine, Syria, and Mesopotamia.",
+    "image_url": null,
+    "stem": "Wilson's Fourteen Points promised self-determination, yet Arabs who revolted against the Ottomans received mandates instead of independence. What does this contradiction illustrate?",
+    "options": [
+     "(A) The Arabs received the full independence they expected and formed sovereign states",
+     "(B) Self-determination was applied in Europe but set aside in the Middle East",
+     "(C) Wilson opposed self-determination everywhere",
+     "(D) The mandates were administered by Arab governments"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 28,
+    "id": "wh-barrons-u6-028",
+    "unit": 6,
+    "stimulus": "In Leopold II's Congo Free State, ivory was soon eclipsed by an even more valuable commodity: wild rubber, demanded by the bicycle and automobile industries. Villages were assigned rubber quotas enforced by Leopold's private army, the Force Publique.",
+    "image_url": null,
+    "stem": "To enforce rubber quotas, Leopold's agents commonly",
+    "options": [
+     "(A) Paid generous wages to attract willing voluntary workers",
+     "(B) Relied entirely on willing volunteers",
+     "(C) Imported European workers to do the harvesting",
+     "(D) Terrorized villages with hostage-taking and brutality"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 29,
+    "id": "wh-princeton-u1-011",
+    "unit": 1,
+    "stimulus": "'Upon their arrival they were honorably and graciously received by the grand Khan, in a full assembly of his principal officers. When they drew nigh to his person, they paid their respects by prostrating themselves on the floor. He immediately commanded them to rise, and to relate to him the circumstances of their travels. The letters and the presents from the pope were then laid before him, and he bestowed much commendation on the fidelity of his ambassadors; receiving with due reverence the oil from the holy sepulchre, he gave directions that it should be preserved with religious care. Upon his observing Marco Polo, Nicolo made answer, This is your servant, and my son; upon which the grand Khan replied, He is welcome, and it pleases me much, and he caused him to be enrolled amongst his attendants of honor. And as long as the said brothers and Marco remained in the court of the grand Khan, they were honored even above his own courtiers. Marco learnt in a short time and adopted the manners of the Tartars, and acquired a proficiency in four different languages.'\n\nSource: Marco Polo's Travels, circa 1300",
+    "image_url": null,
+    "stem": "Marco Polo's adoption of Tartar manners and mastery of four languages best illustrates which of the following?",
+    "options": [
+     "(A) Cultural exchange in the Mongol Empire flowed only from Europe toward Asia, never in the reverse direction.",
+     "(B) Marco Polo refused to learn anything of Mongol culture.",
+     "(C) Cross-cultural exchange transformed the traveler as well as informing Europe about Asia.",
+     "(D) The Mongols forced Marco Polo to abandon his own identity."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 30,
+    "id": "wh-fresh-u3-043",
+    "unit": 3,
+    "stimulus": "By 1500, bronze cannon and handheld firearms had spread across Eurasia. Fortress walls built to resist catapults crumbled under artillery bombardment, and nomadic horse archers — dominant in warfare for centuries — could not stand against disciplined infantry armed with muskets.",
+    "image_url": null,
+    "stem": "The military changes described are best understood in the context of which broader development?",
+    "options": [
+     "(A) The rise of the gunpowder empires, whose centralized states alone could afford the artillery and standing infantry smaller states and nomads could not.",
+     "(B) The Industrial Revolution's mass production of rifles, cannon, and gunpowder in the vast steam-powered factories of nineteenth-century Europe.",
+     "(C) The abolition of standing armies across early modern Eurasia.",
+     "(D) The return of medieval-style feudal levies as the dominant military force."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 31,
+    "id": "wh-fresh-u3-020",
+    "unit": 3,
+    "stimulus": "Map of the Qing Empire showing the stages of Manchu expansion to its greatest extent (by 1800), beyond the old Ming borders: Taiwan (occupied 1683), Inner and Outer Mongolia, Xinjiang, and Tibet. Korea, Burma, Tonking, Nepal, Siam, and Laos are shaded as tributary states.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Qing_Empire_circa_1820_EN.svg",
+    "stem": "The tributary states shown on the map are best understood in the context of which of the following?",
+    "options": [
+     "(A) A Qing demand that all foreign merchants formally convert to Confucianism and adopt Chinese dress, language, and customs before being allowed to trade.",
+     "(B) A Chinese worldview in which foreign rulers acknowledged the emperor's ritual supremacy in exchange for trading privileges and diplomatic recognition.",
+     "(C) British free-trade treaties imposed on China during the 1700s.",
+     "(D) A Qing policy of refusing all contact with neighboring states."
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 32,
+    "id": "wh-fresh-u9-023",
+    "unit": 9,
+    "stimulus": "News report, Durban, South Africa, 2000 (paraphrased): Thousands of marchers carried a giant red AIDS-awareness ribbon through the city, demanding that pharmaceutical companies and wealthy governments make antiretroviral drugs affordable in developing countries.",
+    "image_url": null,
+    "stem": "Campaigns like the one described contributed most directly to:",
+    "options": [
+     "(A) international pressure that helped expand access to lower-cost AIDS drugs in developing countries during the 2000s",
+     "(B) the immediate discovery of a cure for AIDS",
+     "(C) a ban on all international travel, as governments sealed their borders permanently to stop the movement of people and goods",
+     "(D) the end of the United Nations' health programs"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 33,
+    "id": "wh-princeton-pdf5-u4-016",
+    "unit": 4,
+    "stimulus": "When the Portuguese sail from Macao in China to Japan, they carry much white silk, gold, musk, and porcelain, and they bring back from Japan nothing but silver. A great carrack goes there every year and returns with some six hundred thousand coins' worth of silver; and all this Japanese silver, together with another two hundred thousand coins' worth brought yearly out of India, they employ to great advantage in China, carrying away gold, musk, silk, copper, porcelain, and many other costly and gilded things. When the Portuguese come to Canton to trade, they may remain only a set number of days: on entering the city gate they must write their names in a book, and on going out at night they must strike them out. They may not lie in the town all night but must sleep in their boats outside it; and when their time expires, any man who remains behind is imprisoned. — Ralph Fitch, English traveler, account of the Far East, 1599",
+    "image_url": null,
+    "stem": "The restrictions Fitch describes at Canton — limited stays, name registers, confinement to boats at night — foreshadow which later Ming–Qing trade policy?",
+    "options": [
+     "(A) The confinement of Western trade to Guangzhou under hong merchants.",
+     "(B) The opening of every Chinese port to foreign merchants and missionaries.",
+     "(C) A total Ming ban on all maritime trade.",
+     "(D) The founding of Chinese trading colonies in Europe."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 34,
+    "id": "wh-princeton-pdf5-u6-006",
+    "unit": 6,
+    "stimulus": "Sunday, the 10th of May, dawned in peace and happiness. The early morning service at the cantonment church saw many assembled together, some never to meet on earth again. The day passed in quiet happiness; no thought of danger disturbed the serenity of that happy home. How differently closed the Sabbath that had dawned so tranquilly! We were on the point of going to the evening service when the disturbance commenced on the native parade ground. Shots and volumes of smoke told of what was going on: our servants begged us not to show ourselves and urged the necessity of closing our doors, as the mob was approaching. My husband, after loading his arms, took me to the terrace on top of the house; two of our countrywomen also took refuge with us to escape the rebels' bullets. Just at this moment an officer of the 3rd Cavalry galloped up at full speed, having dashed through the mutinous troops, fired at on all sides, to give us notice of the danger. — Elisa Greathed, a British resident of Meerut, describing the outbreak of the Indian uprising, May 1857",
+    "image_url": null,
+    "stem": "Grievances over military policies perceived as attacks on Hindu and Muslim religious practice also fueled which of the following earlier uprisings?",
+    "options": [
+     "(A) The 1806 Vellore Mutiny, sparked by regulations sepoys saw as insults to their faith.",
+     "(B) The Haitian Revolution, in which enslaved Africans overthrew French plantation slavery.",
+     "(C) Pugachev's Cossack and peasant rebellion in Russia.",
+     "(D) The Taiping Rebellion in Qing China."
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 35,
+    "id": "wh-fresh-u5-054",
+    "unit": 5,
+    "stimulus": "A) United States Declaration of Independence (1776): 'Governments are instituted among Men, deriving their just powers from the consent of the governed.' B) French Constitution of 1791 (paraphrased): France became a constitutional monarchy — the king kept executive power, but an elected Legislative Assembly made the laws, and active (taxpaying) male citizens could vote.",
+    "image_url": null,
+    "stem": "Comparing the outcomes of the American and French revolutions, which statement is best supported?",
+    "options": [
+     "(A) Both revolutions produced stable governments within a few years",
+     "(B) France copied the American Constitution exactly word for word and therefore got completely identical political results in every respect, including slavery",
+     "(C) Similar Enlightenment starting points produced sharply different outcomes: a durable American republic versus France's cycle of republic, Terror, and empire",
+     "(D) The United States experienced its own Reign of Terror in the 1790s"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 36,
+    "id": "wh-princeton-u4-008",
+    "unit": 4,
+    "stimulus": "'In order, most potent Sire, to convey to your Majesty a just conception of the great extent of this noble city of Tenochtitlan, and of the many rare and wonderful objects it contains; of the government and dominions of Moctezuma, the sovereign: it would require the labor of many accomplished writers, and much time for the completion of the task. I shall not be able to relate an hundredth part of what could be told respecting these matters; but I will endeavor to describe what I have myself seen; and imperfectly as I may succeed, I am fully aware that the account will appear so wonderful as to be deemed scarcely worthy of credit; since even we who have seen these things with our own eyes, are yet so amazed as to be unable to comprehend their reality.'\n\nSource: Hernando Cortes's letter to King Charles V of Spain (1520)",
+    "image_url": null,
+    "stem": "Cortés's glowing description of Tenochtitlan's size, wealth, and order was most likely intended to",
+    "options": [
+     "(A) To impress the king and justify his unauthorized expedition with promises of wealth.",
+     "(B) To provide an objective ethnographic study of Aztec society.",
+     "(C) To argue against further Spanish conquest in the Americas.",
+     "(D) To request the crown's permission to abandon the expedition and sail back to Spain at once."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 37,
+    "id": "wh-fivesteps-u4-011",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "Galileo's telescopic observation of moons orbiting Jupiter most directly challenged which established authority?",
+    "options": [
+     "(A) The authority of the printing press",
+     "(B) The doctrine of the divine right of kings",
+     "(C) The germ theory of disease",
+     "(D) Church-endorsed geocentrism"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 38,
+    "id": "wh-fivesteps-u1-008",
+    "unit": 1,
+    "stimulus": "A Tang dynasty official submitted this memorial to the throne in 819 CE, urging action against Buddhist influence: Buddhism, he argued, wears out the people's strength raising temples of earth and timber, and drains their wealth into ornaments of gold and precious stones. It draws men away from serving their lords and parents to follow religious teachers, and its monastic vows sever husbands from wives. No doctrine, he insisted, does more to destroy law and injure mankind. His economic reasoning was blunt: if one man fails to work the fields, someone goes hungry; if one woman neglects her silkworms, someone goes cold. Yet the empire now holds a countless multitude of monks and nuns, each waiting for farmers to feed him and weavers to clothe him, while public temples and private chapels multiply in splendor until their ornamentation rivals the imperial palace itself.",
+    "image_url": null,
+    "stem": "The Silla kingdom's participation in China's tribute system is best understood as which of the following?",
+    "options": [
+     "(A) A system maintained by permanent Chinese military occupation of Korea",
+     "(B) A cultural program through which China adopted Korean technology",
+     "(C) A defensive alliance against Silla raids on China's frontier",
+     "(D) Acknowledged Chinese superiority in exchange for trade and security"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 39,
+    "id": "wh-princeton-u3-012",
+    "unit": 3,
+    "stimulus": "The 1615 Laws for Military Households, issued by the Tokugawa shogunate, instructed warriors to cultivate both literary learning and the martial arts of archery and horsemanship. Though the edicts called war a curse to be resorted to only when unavoidable, they warned that in peacetime the possibility of disturbances must never be forgotten, and ordered warriors to train themselves and remain prepared.\n\nSource: Paraphrase of the Buke Shohatto (Laws for Military Households), 1615",
+    "image_url": null,
+    "stem": "The edicts' emphasis on training and vigilance 'in time of peace' best illustrates which of the following about Tokugawa Japan?",
+    "options": [
+     "(A) The shogunate was planning constant warfare against its Korean and Chinese neighbors.",
+     "(B) The samurai were being converted into a peaceful merchant class.",
+     "(C) The edicts show the shogunate had lost control over the military households.",
+     "(D) The shogunate's central challenge was managing an idle warrior class in peacetime."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 40,
+    "id": "wh-princeton-pdf4-u2-003",
+    "unit": 2,
+    "stimulus": "We came at last to Aden, the great port of Yemen, walled in by black mountains so that it may be entered only from the sea. The place itself is barren beyond belief: no fields, no orchards, no springs, only great cisterns cut into the rock to catch the rains. Yet its harbor is never empty. Ships from Cambay and Calicut ride at anchor beside vessels from Egypt and the Persian Gulf, and the quays swarm with porters carrying pepper, cloth, and frankincense. The merchants of the town are men of astonishing wealth. I was shown one who owned outright a great ocean-going ship with all her cargo, and such fortunes are a matter of open rivalry among them. Though they count their gold by the chest, they are modest in dress, regular in prayer, and generous to travelers and the poor. Indians keep their own quarter here, as do the Egyptians, each community with its houses of worship and its brokers. All the town's livelihood comes from the sea trade, for nothing grows upon its rocks; the very drinking water must be guarded, since the desert tribes sometimes cut the channels until they are bought off with coin and cloth. It is a marvel to see so rich a city rise from so poor a soil, and it is plain that the monsoon winds, which carry the ships hither in their season, are the true foundation of its fortune.",
+    "image_url": null,
+    "stem": "The traveler's praise of the merchants' piety, honesty, and generosity points to which of the following features of medieval Islamic commerce?",
+    "options": [
+     "(A) Islamic law prohibited all forms of trade and profit",
+     "(B) Muslim merchants rejected any contact with non-Muslims",
+     "(C) Shared religious and legal norms built trust for long-distance trade",
+     "(D) Credit and written contracts were unknown in the Indian Ocean world"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 41,
+    "id": "wh-princeton-pdf5-u8-002",
+    "unit": 8,
+    "stimulus": "[Map reconstructed from its caption] A map of British undersea telegraph cables, circa 1870. Bold lines trace the cable routes from Britain across the Mediterranean to Alexandria in Egypt, then overland through Egypt to Suez, down the Red Sea to Aden, and across the Arabian Sea to Karachi and Bombay in India, with onward lines to Madras, Singapore, and Australia; a branch runs up the Persian Gulf. The map presents the whole network as a single British system binding London to its empire in Asia.",
+    "image_url": null,
+    "stem": "The map presents the cable routes as one British system binding London to its Asian empire. Britain's investment in this network best illustrates which of the following about nineteenth-century imperialism?",
+    "options": [
+     "The cables were built entirely by the independent governments of the colonies they served.",
+     "Britain abandoned territorial empire in favor of purely commercial relationships.",
+     "Imperial power depended on communications infrastructure as well as on soldiers and administrators.",
+     "The telegraph immediately ended all resistance to British rule in Asia."
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 42,
+    "id": "wh-princeton-u4-009",
+    "unit": 4,
+    "stimulus": "'In order, most potent Sire, to convey to your Majesty a just conception of the great extent of this noble city of Tenochtitlan, and of the many rare and wonderful objects it contains; of the government and dominions of Moctezuma, the sovereign: it would require the labor of many accomplished writers, and much time for the completion of the task. I shall not be able to relate an hundredth part of what could be told respecting these matters; but I will endeavor to describe what I have myself seen; and imperfectly as I may succeed, I am fully aware that the account will appear so wonderful as to be deemed scarcely worthy of credit; since even we who have seen these things with our own eyes, are yet so amazed as to be unable to comprehend their reality.'\n\nSource: Hernando Cortes's letter to King Charles V of Spain (1520)",
+    "image_url": null,
+    "stem": "Cortés's warning that his account will seem 'scarcely worthy of credit' best illustrates which of the following?",
+    "options": [
+     "(A) Europeans were already well-informed about the societies and peoples of the Americas before 1520.",
+     "(B) Cortés doubted the accuracy of his own observations.",
+     "(C) Europeans had little reliable knowledge of the Americas, so truthful reports strained belief.",
+     "(D) King Charles V had personally visited Tenochtitlan."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 43,
+    "id": "wh-fivesteps-u4-012",
+    "unit": 4,
+    "stimulus": null,
+    "image_url": null,
+    "stem": "According to social-contract theory, what makes a government's rule legitimate?",
+    "options": [
+     "(A) The consent of the governed in exchange for protection of their rights",
+     "(B) Appointment by divine authority",
+     "(C) The ruler's superior military strength and ability to compel obedience by force",
+     "(D) Unbroken hereditary succession"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 44,
+    "id": "wh-princeton-pdf5-u2-004",
+    "unit": 2,
+    "stimulus": "A traveler reported what Sultan Musa of Mali told him: at a certain town the sultan has a copper mine, from which ingots are carried to another town. 'There is nothing in my kingdom,' Musa said, 'on which a duty is levied except this crude copper that is brought in. Duty is collected on this and on nothing else. We send it to the land of the pagan Sudan and sell it for two-thirds of its weight in gold, so that we sell a hundred measures of copper for sixty-six and two-thirds measures of gold.' He added that there are pagan peoples in his kingdom from whom he does not collect the jizya, the tax on non-Muslims, but whom he simply employs in extracting gold from its deposits. The gold is dug from pits about a man's height in depth, found embedded in the sides of the pits or gathered at the bottom. — Al-Umari, Arab historian, writing about 1340",
+    "image_url": null,
+    "stem": "The passage provides the strongest evidence for which of the following developments in West Africa during 1200–1450?",
+    "options": [
+     "(A) The spread of Christianity into the Sahel region.",
+     "(B) The collapse of long-distance trade across Afro-Eurasia following the Mongol conquests.",
+     "(C) The replacement of gold by salt as the chief trade good.",
+     "(D) The rise of wealthy Sudanic states that controlled the trans-Saharan trade in gold."
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 45,
+    "id": "wh-barrons-t1-018",
+    "unit": 3,
+    "stimulus": "[Image: 'Krishna Holds up Mount Govardhan to Shelter the Villagers of Braj,' a miniature painting from the Persian translation of the Harivamsha (Legend of Krishna), produced at the Mughal court, ca. 1590-1595. The Hindu deity Krishna, shown in blue, lifts a mountain to shelter villagers, rendered in refined Persian miniature style.]",
+    "image_url": null,
+    "stem": "Unlike contemporary Ottoman court art, which largely avoided human figures, Mughal miniatures depicted them freely because",
+    "options": [
+     "(A) the fact that the Mughal emperors were not actually Muslim",
+     "(B) an explicit Quranic permission for portraiture",
+     "(C) the work of European missionary painters employed directly at the Mughal imperial court",
+     "(D) the religious eclecticism of Akbar's court and its engagement with Indian traditions"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 46,
+    "id": "wh-fivesteps-u8-008",
+    "unit": 8,
+    "stimulus": "Paraphrase of a US Army account of 1945: American planners needed a surrender line in Korea as far north as the Soviets would accept, knowing Russian troops could overrun the entire peninsula before US forces arrived from Okinawa, 600 miles away. The task was to craft an arrangement the Soviets would accept while preventing them from seizing all of Korea.",
+    "image_url": null,
+    "stem": "The US and USSR cooperated against Japan in 1945 while American officers were already maneuvering to limit Soviet gains in Korea. What does this reveal about their relationship?",
+    "options": [
+     "(A) An alliance of convenience already fraying with mutual suspicion",
+     "(B) Open enemies already at war",
+     "(C) Close and trusting friends",
+     "(D) Powers with no contact at all"
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 47,
+    "id": "wh-fresh-u5-061",
+    "unit": 5,
+    "stimulus": "Revolutionary upheavals, 1776–1848, spread across the globe: North America (1776), France (1789), Haiti (1804), Spanish America (1810–25), Greece (1821–30), Europe (1830 and 1848). Separately, China saw the White Lotus peasant rebellion (1796–1804) — not Enlightenment-inspired. The revolutionary era was global, but not uniform.",
+    "image_url": null,
+    "stem": "Which of the following is the best-supported argument about the revolutions of 1750–1900, based on this list and the era as a whole?",
+    "options": [
+     "(A) Revolutions expanded political participation unevenly — empowering some groups while excluding others, such as women and enslaved people",
+     "(B) Every single revolution fully and completely achieved its stated ideals of liberty and equality for all people in every country without exception",
+     "(C) The era saw no meaningful political change anywhere",
+     "(D) Revolution was a purely European phenomenon with no global reach"
+    ],
+    "skill": "Argumentation"
+   },
+   {
+    "n": 48,
+    "id": "wh-princeton-pdf4-u8-012",
+    "unit": 8,
+    "stimulus": "The colony is a world divided in two. In the European countries, the rulers govern the workers through schools, newspapers, and priests, a thousand intermediaries who persuade the poor that their suffering is natural. In the colonies there are no such intermediaries. The native meets the government only in the person of the policeman and the soldier, who speak to him with rifle butts and make no attempt to disguise their domination. Violence is not hidden behind fine words; it is the very language of colonial rule, carried into every household and planted in the thoughts of the colonized. The settler's peace is maintained by force alone, and the native learns early that the order of the colony rests upon nothing but the gun.",
+    "image_url": null,
+    "stem": "Fanon warned that even after winning formal independence, former colonies might remain dominated because",
+    "options": [
+     "(A) All new nations immediately became wealthy and powerful",
+     "(B) European powers always restored direct colonial rule",
+     "(C) Nationalist movements disappeared after independence",
+     "(D) Colonies could stay economically dependent on their former rulers"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 49,
+    "id": "wh-fresh-u9-021",
+    "unit": 9,
+    "stimulus": "Line graph titled 'Mauna Loa Observatory, Hawaii: Monthly Average Carbon Dioxide Concentration.' One line shows carbon dioxide rising steadily from about 315 parts per million in 1960 to about 425 parts per million in late 2024. Source note: 'Data from Scripps CO2 Program.'",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Keeling_Curve_up-to-date_-_MLO_record.png",
+    "stem": "The trend in the graph connects environmental change to economic globalization because:",
+    "options": [
+     "(A) globalization caused carbon dioxide levels to fall after 2000",
+     "(B) the same industrialization and trade networks that raised living standards also expanded fossil-fuel consumption worldwide",
+     "(C) the graph proves that trade agreements directly control the climate",
+     "(D) developing countries were the only contributors to rising emissions, while industrialized countries produced no greenhouse gases at all"
+    ],
+    "skill": "Making Connections"
+   },
+   {
+    "n": 50,
+    "id": "wh-barrons-t2-035",
+    "unit": 6,
+    "stimulus": "Passage 1 — Horace Bushnell, American minister, Women's Suffrage: The Reform Against Nature (1869): Bushnell argued that women rise 'far above equality with men' when they keep their 'pure atmosphere of silence' and 'field of peace,' creating a realm where wounded men 'may come in, to be quieted, and civilized.' Passage 2 — Auguste Comte, French sociologist, System of Positive Polity (1854): Comte wrote that women's proper independence rested on their exemption from work outside the home, calling women 'priestesses of humanity in the family circle' who should 'shrink from any participation in power as in its very nature degrading.'",
+    "image_url": null,
+    "stem": "The passages reflect which widely held nineteenth-century ideal about gender?",
+    "options": [
+     "(A) The belief that women should serve in national armies",
+     "(B) The 'cult of domesticity,' which assigned women moral authority within the home but not in public life",
+     "(C) The belief that women were naturally suited to factory management and should supervise male workers in textile mills",
+     "(D) The movement to abolish marriage entirely"
+    ],
+    "skill": "Contextualization"
+   },
+   {
+    "n": 51,
+    "id": "wh-princeton-u7-009",
+    "unit": 7,
+    "stimulus": "Source 1: 'It is impossible to demand that an impossible position should be cleared up by peaceful revision and at the same time constantly reject peaceful revision. It is also impossible to say that he who undertakes to carry out these revisions for himself transgresses a law, since the Versailles Diktat is not law to us. A signature was forced out of us with pistols at our head and with the threat of hunger for millions of people. And then this document, with our signature, obtained by force, was proclaimed as a solemn law.'\n\nSource: Adolf Hitler, speech to the Reichstag, September 1, 1939\n\nSource 2: 'We shall not flag or fail. We shall go on to the end. We shall fight in France, we shall fight on the seas and the oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.'\n\nSource: Winston Churchill, speech before Parliament, June 4, 1940",
+    "image_url": null,
+    "stem": "Taken together, the two speeches best illustrate which of the following about wartime leadership rhetoric?",
+    "options": [
+     "(A) Both leaders frame their cause in moral absolutes to mobilize for total war.",
+     "(B) Both leaders advocate a negotiated peace settlement.",
+     "(C) Both speeches are addressed primarily to foreign audiences and neutrals abroad.",
+     "(D) Both leaders express doubt about their chances of victory."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 52,
+    "id": "wh-barrons-u6-003",
+    "unit": 6,
+    "stimulus": "By 1914, only two African states had avoided European colonization: Ethiopia, which defeated Italy at Adowa in 1896, and Liberia, a small West African republic. The two countries' paths to independence could hardly have been more different.",
+    "image_url": null,
+    "stem": "Unlike Ethiopia, Liberia avoided colonization mainly because",
+    "options": [
+     "(A) it was hidden from European mapmakers",
+     "(B) Founded by formerly enslaved Americans under U.S. protection",
+     "(C) it defeated a European army in a major pitched battle",
+     "(D) it possessed no natural resources that Europeans wanted"
+    ],
+    "skill": "Developments and Processes"
+   },
+   {
+    "n": 53,
+    "id": "wh-princeton-u2-001",
+    "unit": 2,
+    "stimulus": "The people are Idolaters; and since they were conquered by the Great Kaan they use paper-money. Both men and women are fair and comely, and for the most part clothe themselves in silk, so vast is the supply of that material, both from the whole district of Kinsay, and from the imports by traders from other provinces. And you must know they eat every kind of flesh, even that of dogs and other unclean beasts, which nothing would induce a Christian to eat.\n\nSince the Great Kaan occupied the city he has ordained that each of the 12,000 bridges should be provided with a guard of ten men, in case of any disturbance, or of any being so rash as to plot treason or insurrection against him. Each guard is provided with a hollow instrument of wood and with a metal basin, and with a time-keeper to enable them to know the hour of the day or night. And so when one hour of the night is past the sentry strikes one on the wooden instrument and on the basin, so that the whole quarter of the city is made aware that one hour of the night is gone. At the second hour he gives two strokes, and so on, keeping always wide awake and on the look out. In the morning again, from the sunrise, they begin to count anew, and strike one hour as they did in the night, and so on hour after hour.\n\nSource: The Glories of Kinsay [Hangchow], Marco Polo, c. 1300",
+    "image_url": null,
+    "stem": "Marco Polo's detailed account of the night-watch system in Kinsay most clearly demonstrates which of the following about Yuan-dynasty administration?",
+    "options": [
+     "(A) The Mongol government left Chinese city administration entirely to local officials.",
+     "(B) The Yuan state relied mainly on religious authorities to keep the urban peace.",
+     "(C) Kinsay's government focused primarily on regulating foreign merchants.",
+     "(D) Urban policing in Kinsay was a routinized, centrally directed system for order."
+    ],
+    "skill": "Claims and Evidence in Sources"
+   },
+   {
+    "n": 54,
+    "id": "wh-barrons-u1-020",
+    "unit": 1,
+    "stimulus": "A verse from the Qur'an opens with the address 'O ye who believe!' before forbidding wine, gambling, and idols as 'an infamy of Satan's handiwork,' urging the faithful to leave such things aside 'in order that ye may succeed.'",
+    "image_url": null,
+    "stem": "The verse's form of address — 'O ye who believe!' — suggests the passage functioned primarily as",
+    "options": [
+     "(A) a diplomatic letter addressed to a foreign king",
+     "(B) a merchant's commercial contract",
+     "(C) a military order to an army",
+     "(D) communal moral instruction for Muslims"
+    ],
+    "skill": "Sourcing and Situation"
+   },
+   {
+    "n": 55,
+    "id": "wh-barrons-u4-002",
+    "unit": 4,
+    "stimulus": "A historian describes the English and Dutch in 1600s North America as 'huddling in their small colonial enclaves,' insular and powerless by comparison with the Indigenous nations around them — able to manage 'little more than glimpses of the Indigenous politics that determined events and outcomes.'\n\nOlder histories told the colonial story from the colonists' viewpoint: Europeans acting, Indigenous peoples reacting. Since the 1980s, ethnohistorians — Richard White's 'middle ground' is the landmark study — have reconstructed the encounter as a negotiation between powers, in which Native nations were often the stronger party. The passage's language of European weakness and Indigenous primacy is the signature of that revisionist turn.",
+    "image_url": null,
+    "stem": "The author's interpretation reflects which broader shift in the writing of colonial history?",
+    "options": [
+     "(A) From passive victims to political agents",
+     "(B) From economic explanations of colonization to purely military ones",
+     "(C) From local studies to histories focused only on European diplomacy",
+     "(D) From archaeological evidence to exclusively written records"
+    ],
+    "skill": "Sourcing and Situation"
+   }
+  ]
+ },
+ "section_1b": {
+  "directions": "Answer all three questions. Each question has three parts (a, b, and c). You have 40 minutes for this section.",
+  "saq_sets": [
+   {
+    "q1": {
+     "attribution": "—Historian's account of the Great Depression as a global crisis, 1929–1939",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE way the Depression spread beyond the United States according to the passage.",
+      "b": "Explain ONE cause of the global severity of the Depression.",
+      "c": "Explain ONE political consequence of the Depression in an industrial democracy."
+     },
+     "sample_answers": {
+      "a": "When American loans to Europe dried up after 1929, German and Austrian banks collapsed, transmitting the American financial crisis into a European banking crisis.",
+      "b": "One cause was the gold standard, which forced countries to match each other's deflationary policies — no nation could reflate alone without losing gold, so contraction spread mechanically.",
+      "c": "In the United States, the Depression discredited the old laissez-faire order and brought Franklin Roosevelt's New Deal — relief, public works, and financial regulation — expanding the federal government's economic role permanently."
+     },
+     "source_type": "secondary text",
+     "stimulus": "The Depression began with an American stock market crash but became global through the mechanisms of an integrated economy: American loans to Europe dried up, collapsing German and Austrian banks; the U.S. Hawley-Smoot tariff of 1930 strangled world trade; and the gold standard transmitted deflation from country to country. By 1932, world industrial output had fallen by a third. The crisis discredited laissez-faire everywhere — and opened the door to Keynes, to the New Deal, and to dictators who promised work."
+    },
+    "q2": {
+     "attribution": "—Adapted from President Franklin D. Roosevelt, First Inaugural Address, 1933",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE claim Roosevelt makes in the passage.",
+      "b": "Explain ONE way the passage reflects the political challenge Roosevelt faced in 1933.",
+      "c": "Explain ONE difference between Roosevelt's response to the Depression and the response of Britain's government in the early 1930s."
+     },
+     "sample_answers": {
+      "a": "Roosevelt claims that fear itself — panic and loss of confidence — is the nation's greatest obstacle, and that action can turn retreat into advance.",
+      "b": "In March 1933, with banks closed and a quarter of workers unemployed, his first task was psychological: restoring the public confidence on which banks, spending, and recovery depended.",
+      "c": "Roosevelt launched large-scale federal relief, public works, and banking reform through the New Deal, while Britain's National Government pursued austerity — balanced budgets and retrenchment — with far less direct state intervention."
+     },
+     "source_type": "primary text",
+     "stimulus": "The only thing we have to fear is fear itself — nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance."
+    },
+    "q3": {
+     "attribution": "Dorothea Lange, 'Migrant Mother,' 1936",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE detail of the photograph.",
+      "b": "Explain ONE way photographs like Lange's were used by the U.S. government.",
+      "c": "Explain ONE cause of the rural migration shown in the photograph."
+     },
+     "sample_answers": {
+      "a": "The photograph shows an anxious mother with a weathered face and hand to chin, children clinging to her shoulders and turned away — poverty made visible in a single family.",
+      "b": "The Farm Security Administration hired photographers to document rural poverty, using images like this to build public support for New Deal relief programs for farmers and migrants.",
+      "c": "One cause was the Dust Bowl: years of drought plus destructive farming practices destroyed Great Plains agriculture, driving hundreds of thousands west to California in search of farm work."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "Dorothea Lange, 'Migrant Mother' (1936): a destitute pea-picker in California, Florence Owens Thompson, with her children — a Farm Security Administration photograph documenting Depression-era rural poverty.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Migrant_Mother.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "causation",
+    "set_id": "set-25",
+    "theme": "ECN",
+    "unit": 7,
+    "unit_title": "Global Conflict"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of decolonization after 1945",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE pattern of decolonization described in the passage.",
+      "b": "Explain ONE cause of the wave of independence after 1945.",
+      "c": "Explain ONE difference between British and French decolonization."
+     },
+     "sample_answers": {
+      "a": "One pattern was variety: some colonies won independence through negotiation, as in India and Ghana, while others required war, as in Algeria and Indochina — the method depended on the colonizer and local conditions.",
+      "b": "One cause was the Second World War, which bankrupted European treasuries, mobilized millions of colonial soldiers who returned with new expectations, and made the cost of holding empires exceed the benefits.",
+      "c": "Britain generally negotiated timetables for withdrawal and tried to preserve Commonwealth ties, while France fought to keep Algeria and Indochina as integral parts of France, leaving far bloodier legacies."
+     },
+     "source_type": "secondary text",
+     "stimulus": "Decolonization took many forms: Britain negotiated withdrawals in India and Ghana, France fought losing wars in Indochina and Algeria, and Portugal clung to Angola until 1975. What the new nations shared was less a method than a moment — the Second World War had bankrupted the empires, armed and trained colonial soldiers, and exposed the gap between Allied promises of freedom and colonial reality. Nationalist leaders from Nehru to Nkrumah turned that gap into independence."
+    },
+    "q2": {
+     "attribution": "—Adapted from Jawaharlal Nehru, address on Indian independence, August 14, 1947",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE goal Nehru sets for independent India in the passage.",
+      "b": "Explain ONE way the passage reflects the challenges facing new nations in 1947.",
+      "c": "Explain ONE difference between India's independence and Ghana's independence a decade later."
+     },
+     "sample_answers": {
+      "a": "Nehru pledges the new nation to ending poverty, ignorance, and inequality — framing independence as the start of a struggle for social justice, not just a flag-raising.",
+      "b": "The passage reflects the enormity of the task: a partitioned subcontinent amid communal violence, with hundreds of millions in poverty — freedom meant inheriting catastrophe as well as sovereignty.",
+      "c": "India won independence through decades of mass nationalist mobilization under the Congress, while Ghana's path was shorter and led by Nkrumah's Convention People's Party using strikes and boycotts — and Ghana became the model for sub-Saharan Africa, whereas India was the first great break."
+     },
+     "source_type": "primary text",
+     "stimulus": "[Paraphrase of Nehru's 'Tryst with Destiny':] At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. We pledge ourselves to the service of our millions — to ending poverty, ignorance, disease, and inequality of opportunity. This is not a moment of triumph alone, but a beginning."
+    },
+    "q3": {
+     "attribution": "Photograph of Kwame Nkrumah addressing supporters, Gold Coast, 1950s",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE detail of the photograph.",
+      "b": "Explain ONE way Nkrumah's movement illustrates the methods of decolonization in Africa.",
+      "c": "Explain ONE continuity between the colonial period and the early independence period in Ghana."
+     },
+     "sample_answers": {
+      "a": "The photograph shows Nkrumah as a charismatic mass leader before a crowd — independence as a popular movement, not a backroom deal.",
+      "b": "Nkrumah's Convention People's Party used 'positive action' — strikes, boycotts, and mass rallies — to make the Gold Coast ungovernable, forcing Britain to negotiate a timetable for independence.",
+      "c": "One continuity was economic: independent Ghana still depended on exporting cocoa within trade structures built for colonial extraction, so political independence did not end economic dependence on world commodity markets."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "Photograph of Kwame Nkrumah, leader of Ghana's independence movement, addressing supporters — Ghana became the first sub-Saharan African colony to win independence, in 1957.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kwame_Nkrumah.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "comparison",
+    "set_id": "set-26",
+    "theme": "GOV",
+    "unit": 8,
+    "unit_title": "Cold War and Decolonization"
+   },
+   {
+    "q1": {
+     "attribution": "—Historian's account of the Cold War as a global rivalry, 1945–1991",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE way the superpowers competed without fighting each other directly.",
+      "b": "Explain ONE cause of the Cold War's emergence after 1945.",
+      "c": "Explain ONE effect of the Cold War on newly independent nations."
+     },
+     "sample_answers": {
+      "a": "They competed through proxy wars — Korea, Vietnam, Afghanistan — where each side armed local allies instead of risking direct superpower combat.",
+      "b": "One cause was the power vacuum in Europe and Asia after 1945: with Germany and Japan destroyed, the United States and the Soviet Union each moved to secure their spheres, and their incompatible visions of security turned friction into permanent rivalry.",
+      "c": "One effect was constrained sovereignty: new nations were pressured to align with one bloc, and leaders who chose neutrality or the 'wrong' side — from Iran's Mossadegh to Chile's Allende — faced coups or interventions."
+     },
+     "source_type": "secondary text",
+     "stimulus": "The Cold War was fought everywhere except on the battlefields of its two main rivals. The United States and the Soviet Union never went to war directly — nuclear weapons made that unthinkable — so they competed through proxies (Korea, Vietnam, Afghanistan), through aid and alliances (NATO, the Warsaw Pact), and through prestige projects from the space race to the Olympics. For much of the world, the Cold War was not a standoff but an intervention: superpower rivalry shaped who governed from Guatemala to Indonesia."
+    },
+    "q2": {
+     "attribution": "—Adapted from President John F. Kennedy, televised address on the Cuban Missile Crisis, October 22, 1962",
+     "directions": "Use the passage below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Identify ONE action Kennedy announces in the passage.",
+      "b": "Explain ONE cause of the crisis described in the passage.",
+      "c": "Explain ONE way the crisis changed Cold War diplomacy afterward."
+     },
+     "sample_answers": {
+      "a": "Kennedy announces a naval quarantine of Cuba to stop further Soviet shipments and demands the removal of the missiles already on the island.",
+      "b": "One cause was the security dilemma in the nuclear age: the Soviets placed missiles in Cuba to offset U.S. missiles in Turkey and protect their Cuban ally, while the United States read the deployment as an intolerable threat.",
+      "c": "The crisis pushed both sides toward better communication — the Moscow–Washington hotline was installed in 1963 — and toward the first arms-control agreement, the Partial Test Ban Treaty."
+     },
+     "source_type": "primary text",
+     "stimulus": "[Paraphrase of Kennedy's address:] American intelligence has discovered Soviet nuclear missiles in Cuba, ninety miles from our shores. I am declaring a naval quarantine of the island. Any missile launched from Cuba will bring full retaliation against the Soviet Union. I call on Chairman Khrushchev to withdraw these weapons."
+    },
+    "q3": {
+     "attribution": "Photograph of the Berlin Wall, 1961–1989",
+     "directions": "Use the image below to answer all parts of the question that follows.",
+     "parts": {
+      "a": "Describe ONE feature of the Wall shown in the photograph.",
+      "b": "Explain ONE cause of the Wall's construction in 1961.",
+      "c": "Explain ONE way the Wall's fall in 1989 symbolized the end of the Cold War."
+     },
+     "sample_answers": {
+      "a": "The photograph shows a stark concrete wall topped with a rounded pipe, flanked by guard towers and a cleared patrol strip — a fortified border running through the middle of a city.",
+      "b": "One cause was the hemorrhage of East Germans fleeing to the West through open Berlin — some 3 million by 1961 — which threatened the East German state's economic and political survival.",
+      "c": "The Wall was the Cold War's most visible symbol of division; crowds dismantling it by hand showed that the Soviet bloc could no longer command obedience, and German reunification followed within a year."
+     },
+     "source_type": "non-text: image",
+     "stimulus": "Photograph of the Berlin Wall dividing East and West Berlin: the concrete barrier with guard towers and floodlights, 1961–1989.",
+     "stimulus_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+    },
+    "reasoning_process": "causation",
+    "set_id": "set-27",
+    "theme": "GOV",
+    "unit": 8,
+    "unit_title": "Cold War and Decolonization"
+   }
+  ]
+ },
+ "section_2a": {
+  "directions": "Question 1 is based on the accompanying documents. The documents have been edited for the purpose of this exercise. You are advised to spend 15 minutes reading and planning and 45 minutes writing your answer.",
+  "dbq": {
+   "analysis_note": "Pre-1929 excerpts are plain-language renderings of public-domain sources; post-1929 documents are paraphrased or original summaries.",
+   "documents": [
+    {
+     "date": "1908",
+     "kind": "text",
+     "n": 1,
+     "source_line": "Pierre de Coubertin, French founder of the modern Olympic Games",
+     "sourcing_note": "The founder of the modern Games writing for a sporting public; purpose is to promote his ideal of peaceful international competition. His vision is the standard against which later politicization is measured.",
+     "text_or_description": "The important thing in the Olympic Games is not winning but taking part. The Games should gather the youth of all nations in peaceful contest, so that sport may serve understanding among peoples rather than rivalry."
+    },
+    {
+     "date": "1936",
+     "kind": "text",
+     "n": 2,
+     "source_line": "Summary of the German government's staging of the Berlin Olympic Games (original treatment)",
+     "sourcing_note": "An original summary of well-documented events; purpose here is to describe state use of the Games. The regime's own newsreels and press show how deliberately the Olympics were turned into political theater.",
+     "text_or_description": "The German government built a vast new stadium, commissioned the filmmaker Leni Riefenstahl to glorify the event on screen, and removed anti-Jewish signs for the duration of the Games. Foreign visitors were shown an orderly, powerful nation — a carefully staged image designed to win acceptance for the regime."
+    },
+    {
+     "date": "1968",
+     "kind": "text",
+     "n": 3,
+     "source_line": "Account of the Mexico City Olympics medal ceremony protest (paraphrased)",
+     "sourcing_note": "A paraphrase of widely reported events; the athletes' own later accounts confirm their intent. The protest shows politics entering the Games from below — from the athletes rather than from governments.",
+     "text_or_description": "After winning gold and bronze in the 200 meters, American sprinters Tommie Smith and John Carlos raised black-gloved fists during the national anthem to protest racial injustice at home. The Olympic authorities expelled them from the Games, insisting the podium was no place for politics."
+    },
+    {
+     "date": "1980",
+     "kind": "text",
+     "n": 4,
+     "source_line": "Account of the United States-led boycott of the Moscow Olympics (paraphrased)",
+     "sourcing_note": "A paraphrase of the public positions of both governments. Each side accused the other of politicizing sport, which itself reveals how fully the Games had become an instrument of Cold War rivalry.",
+     "text_or_description": "After the Soviet invasion of Afghanistan, the United States announced it would boycott the Moscow Games, and some 60 nations joined in whole or in part. The Soviet Union called the boycott political manipulation; four years later it led a boycott of the Los Angeles Games in return."
+    },
+    {
+     "date": "1960s",
+     "kind": "text",
+     "n": 5,
+     "source_line": "Avery Brundage, president of the International Olympic Committee, defending the Games' neutrality (paraphrased)",
+     "sourcing_note": "The IOC's longtime president speaking as the guardian of Coubertin's ideal; purpose is to defend the institution. His repeated need to insist on neutrality is itself evidence of how constantly politics intruded.",
+     "text_or_description": "Brundage insisted that the Olympic Games must be kept entirely free of politics, arguing that allowing national or racial demonstrations would destroy the movement. Critics replied that his neutrality always favored the powerful, since it silenced protest while tolerating state propaganda."
+    },
+    {
+     "date": "1936 (Owens’s later recollections; paraphrased)",
+     "kind": "text",
+     "n": 6,
+     "source_line": "Jesse Owens’s account of the 1936 Olympic long-jump competition (paraphrased)",
+     "sourcing_note": "The memories of the Black American champion, recorded years after the event; purpose is to tell his own story. Memory may polish details, but the friendship was witnessed by thousands in the stadium — and that even Owens’s own account centers German sportsmanship complicates any simple story of the Games as pure propaganda.",
+     "text_or_description": "Owens recalled that after fouling twice in the long-jump qualifying round, his German rival Luz Long came over and advised him to mark his takeoff a few inches before the foul line. Owens qualified, won the gold, and Long — who took the silver — was the first to congratulate him; the two left the field together in full view of the stadium."
+    },
+    {
+     "date": "1936",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_183-R96374%2C_Berlin%2C_Olympiade%2C_Jesse_Owens_beim_Weitsprung.jpg",
+     "kind": "image",
+     "license": "CC BY-SA 3.0 (German Federal Archives, via Wikimedia Commons)",
+     "n": 7,
+     "source_line": "Photograph: Jesse Owens competing in the long jump, Berlin 1936",
+     "sourcing_note": "Taken by an official German press photographer; purpose was to document the Games for the regime. That the regime's own cameras recorded Owens's triumphs made his victories impossible to erase from the propaganda spectacle.",
+     "text_or_description": "The photograph captures Jesse Owens mid-competition in the long jump, the event in which he won one of his four gold medals before crowds that included the Nazi leadership.",
+     "source_page": "https://en.wikiquote.org/wiki/File:Bundesarchiv_Bild_183-R96374,_Berlin,_Olympiade,_Jesse_Owens_beim_Weitsprung.jpg"
+    }
+   ],
+   "id": "dbq-09",
+   "period": "1896-2000",
+   "prompt": "Using the documents and your knowledge of world history, evaluate the extent to which political forces shaped the modern Olympic Games in the period 1896-2000.",
+   "reasoning_process": "causation",
+   "rubric_map": {
+    "analysis": {
+     "complexity": "Multiple paths: argue politics shaped the Games profoundly (Docs 2, 3, 4) while the sporting ideal and athletic achievement retained independent power (Docs 1, 6, 7); corroborate the 1936 propaganda Games across Docs 2, 6, and 7; qualify by distinguishing politics imposed by states (Docs 2, 4) from politics asserted by athletes (Doc 3); Doc 5 cuts both ways — the demand for neutrality was itself a political position.",
+     "sourcing": "Doc 1 (purpose: a founder promoting an ideal); Doc 2 (context: a regime staging its own image, described through its own media); Doc 3 (point of view: the athletes', against the authorities); Doc 4 (purpose: rival governments' competing accusations); Doc 6 (context: a champion's later recollection; memory may polish, but the friendship was public)."
+    },
+    "contextualization": "Situate the Games within the rise of mass nationalism, the Nazi regime's propaganda state, the Cold War's division of the world into rival blocs, the civil rights movement, and the commercialization of sport through television by the 1980s.",
+    "evidence": {
+     "describe": "All seven describable; strongest: Docs 2, 4 (state politics), Doc 3 (athlete protest), Docs 6, 7 (the 1936 counter-narrative).",
+     "outside": "Outside evidence: the 1972 Munich attack on Israeli athletes; the 1956 Melbourne water-polo clash after the Hungarian uprising; apartheid South Africa's exclusion from the Games (1964-1992); the 'ping-pong diplomacy' of 1971; corporate sponsorship and television revenues from the 1980s.",
+     "support": "'Politics shaped the Games' line: Docs 2, 3, 4. 'Limits of politics / independent sporting meaning' line: Docs 1, 6, 7. Doc 5 (neutrality) serves the limits argument while revealing its own politics."
+    },
+    "thesis": "An arguable thesis takes a position on 'extent' with a line of reasoning, e.g., the sample below."
+   },
+   "sample_thesis": "Political forces shaped the modern Olympics to a great extent, as governments from Nazi Germany to the Cold War superpowers used the Games for propaganda and rivalry, and athletes themselves turned the podium into a platform for protest; yet politics never fully captured the Games, because the founder's ideal of peaceful competition and moments of genuine sportsmanship like Owens and Long's friendship kept an independent meaning alive.",
+   "themes": [
+    "SIO - Social Interactions and Organization",
+    "CDI - Cultural Developments and Interactions"
+   ],
+   "title": "Politics and the Olympic Games",
+   "units": [
+    7,
+    8,
+    9
+   ]
+  }
+ },
+ "section_2b": {
+  "directions": "Answer the question below. You have 40 minutes.",
+  "leq": {
+   "id": "leq-15",
+   "format": "leq",
+   "exam": "AP World History: Modern, May 2027 (Fall 2026 CED) - single required prompt, 40 min, 15% of score",
+   "units": [
+    7,
+    8,
+    9
+   ],
+   "themes": [
+    "SIO",
+    "GOV"
+   ],
+   "target_reasoning_process": "comparison",
+   "process_note": "New-format LEQ: the student chooses their own reasoning process and evidence. The target process above is a coverage tag for bank balance, not a constraint on the student.",
+   "prompt": "In the twentieth century, movements for women's equality prompted varied responses from states around the world. Develop an argument that compares how two states responded to movements for women's equality in the period c. 1900-c. 2001. Your response may focus on any example(s) that support your argument. You are not expected to address the entire time period.",
+   "rubric_map": {
+    "thesis_1": "Presents a historically defensible thesis that responds to the prompt and establishes a line of reasoning.",
+    "contextualization_1": "Describes a broader historical context relevant to the prompt. Acceptable context: the global spread of feminist movements, the effects of the World Wars on women's employment, decolonization, or communist and nationalist ideologies.",
+    "evidence_examples_1": "Identifies at least two specific historical examples relevant to the argument. Acceptable examples: suffrage in Britain and the United States, Kemalist reforms in Turkey, the 1949 revolution and the Marriage Law in China, Soviet policies and their Stalin-era reversal, Iran's White Revolution and the 1979 reversal, Indian constitutional equality.",
+    "evidence_supports_argument_1": "Uses the examples to support the argument rather than merely listing or describing them. Examples must support an explicit comparison of the two states' responses (policies adopted, motives, extent of change).",
+    "analysis_reasoning_1": "Uses the targeted historical reasoning process to structure the argument. Comparison: identifies similarities and differences in state responses and explains them (e.g., ideology, religion, regime type, nationalist goals).",
+    "analysis_complex_understanding_1": "Demonstrates a complex understanding of the historical development: e.g., qualifies the argument by explaining nuance or contradiction, evaluates multiple perspectives, or connects the argument across themes or time periods."
+   },
+   "sample_thesis": "Turkey and China both used women's emancipation as tools of state-led modernization, granting suffrage and reforming family law from above, but they differed in durability and depth: Kemalist reforms faced religious and rural resistance that limited their reach, while the Chinese Communist state tied women's liberation to revolution and enforced it more thoroughly, if still incompletely.",
+   "evidence_directions": "Strong responses compare state motives and outcomes directly (e.g., top-down modernization in Turkey vs. revolutionary transformation in China; Western democracies' gradual suffrage vs. communist decrees). Parallel narratives without comparison earn only partial reasoning credit.",
+   "source_inspiration": "princeton-epub: princeton-pt1-leq4"
+  }
+ }
+}
