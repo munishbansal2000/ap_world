@@ -363,21 +363,21 @@
     "id": "wh-barrons-u9-006",
     "source_id": "barrons-u9-006",
     "unit": 9,
-    "stimulus": "In 1966, the National Organization for Women demanded equality for women 'in government, industry, the professions, the churches, the political parties, the judiciary, the labor unions, in education, science, medicine, law, religion and every other field' — far beyond the vote that earlier feminists had sought.\n\nThe contrast marks the difference between first- and second-wave feminism. The late-1800s movement, led by figures like Susan B. Anthony and Emmeline Pankhurst, concentrated its fire on the vote as the key that would unlock everything else. By 1966 the vote was nearly fifty years old in America — and NOW's founders argued it had unlocked far too little. The new demand was equality 'in every field': not just the ballot but the workplace, the bedroom, and the law that governed both.",
-    "stem": "Compared with the main thrust of feminist thinking in the late 1800s and early 1900s, the document shows",
+    "stimulus": "In 1966, Betty Friedan and other professional women founded the National Organization for Women. The immediate spark was the Equal Employment Opportunity Commission's refusal to enforce the Civil Rights Act's ban on sex discrimination — a provision many officials openly treated as a joke. The founders concluded that women needed their own NAACP: an organization that would picket, sue, and lobby for women's rights.\n\nThe comparison was a program, not a compliment. The NAACP had won school desegregation and voting rights through test-case litigation, mass pressure, and congressional lobbying; NOW's founders believed the same methods could break sex-segregated help-wanted ads, workplace discrimination, and quotas in professional schools. The new feminist movement would be built with tools the civil rights movement had already proved.",
+    "stem": "The founders' decision to model NOW on the NAACP — a group that would ‘picket, sue, and lobby’ — best illustrates which of the following about the early second-wave feminist movement?",
     "options": [
-      "(A) An expansion from basic rights to equality in every sphere",
-      "(B) a complete rejection of everything earlier feminists had achieved",
-      "(C) a narrower focus concerned only with voting rights",
-      "(D) an abandonment of interest in legal equality"
+      "(A) It borrowed its organizational tactics from the civil rights movement",
+      "(B) It rejected legal and political action in favor of cultural separatism",
+      "(C) It drew its leadership mainly from elected government officials",
+      "(D) It sought change only through constitutional amendment rather than enforcement of existing laws"
     ],
     "key": "A",
-    "explanation": "First-wave feminism centered on suffrage and basic legal rights. NOW's sweeping list — professions, churches, unions, science — shows the second wave building on that foundation and demanding that equality reach everywhere the first wave had not yet carried it.",
+    "explanation": "NOW was consciously built on the NAACP model: mass pressure, test-case lawsuits, and lobbying. The second wave's organizational DNA came from the Black freedom movement — the founders, many of them veterans of the civil-rights era, took tactics that had desegregated schools and won voting rights and aimed them at sex discrimination.",
     "option_explanations": {
-      "A": "Correct. The document widens feminism's scope from the ballot box to all of society.",
-      "B": "Wrong. Later feminists built on earlier victories; they did not repudiate them.",
-      "C": "Wrong. The passage explicitly goes far beyond voting rights.",
-      "D": "Wrong. Legal equality remained central; the document demands more of it, not less."
+      "A": "Correct. The NAACP comparison shows the new movement adopting civil-rights methods for a new cause.",
+      "B": "Wrong. Picketing, suing, and lobbying are political-legal action — the opposite of withdrawing from politics.",
+      "C": "Wrong. The founders were writers, union officers, and activists, not elected officeholders.",
+      "D": "Wrong. NOW's first campaigns targeted enforcement of laws already on the books; the Equal Rights Amendment came later."
     },
     "skill": "Contextualization",
     "reasoning": "Continuity and Change",
@@ -386,7 +386,7 @@
     ],
     "difficulty": "hard",
     "type": "mcq",
-    "stimulus_words": 128,
+    "stimulus_words": 123,
     "source_stimulus_words": 226
   }
 ]
