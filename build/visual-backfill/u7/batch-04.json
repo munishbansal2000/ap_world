@@ -1,0 +1,274 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The map assigns each beach a national force: Utah and Omaha to American divisions, Gold and Sword to British divisions, Juno to the Canadian 3rd Division (with the British 6th Airborne) -- showing D-Day as a coordinated multinational Allied operation.",
+    "id": "wh-vis-u7-028",
+    "image_license": "CC BY 4.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Map_of_the_D-Day_landings.svg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The map labels each beach with a national flag and division, showing Americans, British, and Canadians landing side by side.",
+      "B": "The flags on Gold, Juno, and Sword beaches are British and Canadian, not American.",
+      "C": "The map shows the Bay of the Seine in Normandy, in northern France, not the south.",
+      "D": "Two of the five beaches (Gold, Sword) were assigned to British divisions and one (Juno) to Canadians."
+    },
+    "options": [
+      "(A) D-Day was a multinational Allied operation, with American, British, and Canadian divisions assigned their own beaches.",
+      "(B) Only American troops took part in the Normandy landings.",
+      "(C) The landings took place on the Mediterranean coast of southern France, far from the German defenses in Normandy and Calais.",
+      "(D) All five landing beaches were assigned to British divisions, with no American or Canadian forces taking part in the assault on June 6."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this map show about Operation Overlord, June 6, 1944?",
+    "stimulus": "Map of the D-Day landings on the Bay of the Seine, Normandy. Five invasion beaches are labeled with flags and divisions: UTAH (United States 4th Infantry Division), OMAHA (United States 1st and 29th Divisions), GOLD (British 50th Infantry Division), JUNO (Canadian 3rd Infantry Division), and SWORD (British 3rd Infantry Division and British 6th Airborne Division).",
+    "stimulus_words": 55,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "After months of brutal urban combat, the Soviet counteroffensive encircled the German 6th Army, which surrendered in February 1943 -- the first major German field army destroyed, after which Germany remained on the defensive in the east. The snow-covered wreckage of the city's factories conveys the battle's total destructiveness.",
+    "id": "wh-vis-u7-029",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RIAN_archive_2383_The_ruins_of_Stalingrad.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Stalingrad ended in February 1943; the war in Europe continued for over two more years.",
+      "B": "Germany lost at Stalingrad: its 6th Army was encircled and forced to surrender.",
+      "C": "Stalingrad was a land battle of urban warfare, fought street by street and factory by factory.",
+      "D": "Correct. The destruction of the German 6th Army at Stalingrad ended Germany's offensive power in the east."
+    },
+    "options": [
+      "(A) Stalingrad was the final battle of World War II in Europe.",
+      "(B) Germany won the battle of Stalingrad and kept advancing.",
+      "(C) Stalingrad was primarily a naval battle fought at sea.",
+      "(D) Destroying the 6th Army made Stalingrad the turning point."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Why is the battle associated with the destruction shown here considered the turning point of the European war?",
+    "stimulus": "Photograph of the ruins of Stalingrad, winter 1942-43: the interior of a destroyed factory, its steel roof girders twisted and collapsed, machinery smashed, everything covered in snow; a Cyrillic sign hangs on a ruined wall.",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "At Yalta in February 1945, the three leaders negotiated Germany's occupation zones, Soviet entry into the Pacific war, and the United Nations -- cooperation that masked deep disagreements over Eastern Europe that would soon harden into the Cold War.",
+    "id": "wh-vis-u7-030",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Yalta_summit_1945_with_Churchill%2C_Roosevelt%2C_Stalin.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The leaders disagreed sharply, especially over the future of Poland and Eastern Europe.",
+      "B": "The photo was taken in February 1945, three months before the war in Europe ended.",
+      "C": "NATO was created in 1949, four years later, as a Western alliance against the Soviet Union.",
+      "D": "Correct. Yalta was where the Allies bargained over the postwar order; their cooperation would soon collapse into Cold War rivalry."
+    },
+    "options": [
+      "(A) The three leaders agreed completely on every aspect of the postwar order, with no disagreements about Eastern Europe or Germany at all.",
+      "(B) The photograph was taken after World War II had ended.",
+      "(C) The Yalta Conference created the NATO alliance.",
+      "(D) The wartime allies were already negotiating the postwar world, a cooperation that would soon fracture into Cold War rivalry."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this photograph foreshadow about the postwar world?",
+    "stimulus": "Color photograph of the Yalta Conference, February 1945: Winston Churchill, Franklin Roosevelt, and Joseph Stalin sit side by side in chairs in a courtyard, with military aides standing behind them.",
+    "stimulus_words": 30,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The photograph shows the mushroom cloud over Hiroshima on August 6, 1945 -- the first use of a nuclear weapon in war, when a single bomb destroyed most of a city, demonstrating a new scale of destructive power.",
+    "id": "wh-vis-u7-031",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Atomic_cloud_over_Hiroshima.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The image captures the first combat use of an atomic bomb, opening the nuclear age.",
+      "B": "This is the distinctive mushroom cloud of a nuclear detonation, not a conventional bombing raid.",
+      "C": "The bombs were dropped on Hiroshima and Nagasaki in Japan, never on Germany.",
+      "D": "The photo shows the actual bombing of Hiroshima, not a test; the Trinity test took place in New Mexico."
+    },
+    "options": [
+      "(A) The photograph captures the first use of a nuclear weapon in warfare, destroying a city with a single bomb.",
+      "(B) The photograph shows a conventional firebombing raid of the kind carried out many times before by both sides during the war.",
+      "(C) The atomic bomb was first used against Germany.",
+      "(D) The photograph shows a nuclear weapons test conducted in a remote desert, not the wartime bombing of any inhabited city."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this photograph represent in the history of warfare?",
+    "stimulus": "Photograph of the atomic cloud over Hiroshima, August 6, 1945: a towering mushroom-shaped column of smoke rises high above the city, spreading outward at the top.",
+    "stimulus_words": 26,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The photograph shows the project's two leaders together at the crater: J. Robert Oppenheimer, the scientific director, and General Leslie Groves, the Army officer in charge -- evidence that the bomb was produced by a secret, state-funded fusion of academic science and military command.",
+    "id": "wh-vis-u7-032",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Trinity_Test_-_Oppenheimer_and_Groves_at_Ground_Zero_001.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "The Manhattan Project was a top-secret U.S. government program employing over 100,000 people, not a university seminar.",
+      "B": "The men are inspecting the twisted remains of the test tower in the New Mexico desert, not a battlefield.",
+      "C": "Correct. The joint presence of the scientific director and the military chief shows the bomb as a product of state-directed science.",
+      "D": "The project was created, funded, and run by the U.S. government; the Army built entire secret cities for it."
+    },
+    "options": [
+      "(A) The atomic bomb was developed by a small group of university professors working independently.",
+      "(B) The photograph shows scientists visiting an active battlefield.",
+      "(C) A secret state program fused science and military command.",
+      "(D) The U.S. government played no role in developing the atomic bomb."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this photograph reveal about the Manhattan Project?",
+    "stimulus": "Photograph from July 1945: J. Robert Oppenheimer (in hat, left) and General Leslie Groves (in uniform, center) stand with others at the Trinity test site in the New Mexico desert, examining the twisted steel stump of the tower that held the first atomic bomb.",
+    "stimulus_words": 44,
+    "themes": [
+      "TEC",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The Japanese foreign minister signs while rows of Allied officers look on aboard an American battleship in Tokyo Bay -- a deliberately staged display of Japan's submission and Allied, above all American, dominance.",
+    "id": "wh-vis-u7-033",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Japan accepted unconditional surrender terms dictated by the Allies; nothing was negotiated as equals.",
+      "B": "Correct. The setting and audience staged Japan's formal submission to Allied power.",
+      "C": "The ceremony was a highly public event, photographed and filmed for the world.",
+      "D": "The surrender was signed aboard the USS Missouri in Tokyo Bay, Japan."
+    },
+    "options": [
+      "(A) Japan negotiated the surrender as an equal partner with the Allies, with both sides compromising on the final terms.",
+      "(B) The ceremony staged Japan's formal, public submission to Allied -- especially American -- power.",
+      "(C) The surrender was signed in secret with no witnesses.",
+      "(D) The surrender ceremony took place in Washington, D.C."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the staging of this ceremony communicate?",
+    "stimulus": "Photograph of September 2, 1945: Japanese Foreign Minister Mamoru Shigemitsu, in top hat and frock coat, bends to sign the Instrument of Surrender on the deck of the battleship USS Missouri in Tokyo Bay, watched by rows of American officers.",
+    "stimulus_words": 40,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "For the first time, an international tribunal held individual leaders -- not just states -- criminally responsible for waging aggressive war and for atrocities, establishing that \"following orders\" and head-of-state status were no defense.",
+    "id": "wh-vis-u7-034",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nuremberg_Trials._Looking_down_on_defendants_dock%2C_circa_1945-1946._-_NARA_-_540127.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Nuremberg established individual criminal responsibility under international law for war crimes and crimes against humanity.",
+      "B": "Only leading Nazi officials were tried; the German population as a whole was not put on trial.",
+      "C": "The trials were conducted by an international tribunal of the Allied powers, not by German courts.",
+      "D": "Nuremberg rejected the 'superior orders' defense and held commanders and officials -- not only front-line soldiers -- accountable."
+    },
+    "options": [
+      "(A) Individuals, including heads of state and generals, could be held criminally responsible under international law for war crimes.",
+      "(B) The entire German population was put on trial at Nuremberg and collectively punished for the crimes of the war, with millions of defendants.",
+      "(C) German courts tried and sentenced the Nazi leaders on their own.",
+      "(D) Only ordinary soldiers, never their commanders or political leaders, could be punished for wartime atrocities under the tribunal's rules."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What legal principle did the trials shown in this photograph establish?",
+    "stimulus": "Photograph of the Nuremberg Trials, 1945-46: the defendants' dock seen from above, with the accused Nazi leaders wearing headphones for translation, seated in two rows while American military police in white helmets stand guard along the dock.",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 7
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The color photograph shows Free French forces parading down the Champs-Elysees past cheering crowds under a \"VIVE DE GAULLE\" banner -- de Gaulle used the liberation to present his movement, not Vichy or the Allies alone, as the legitimate restorer of French sovereignty.",
+    "id": "wh-vis-u7-035",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Crowds_of_French_patriots_line_the_Champs_Elysees.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The vehicles and troops parading are French, and the 'VIVE DE GAULLE' banner celebrates a French leader, not an American-only liberation.",
+      "B": "The crowds are cheering and waving; the banner celebrates de Gaulle.",
+      "C": "The photograph shows August 1944, when Allied and French forces entered Paris; the 1940 German entry looked very different.",
+      "D": "Correct. De Gaulle claimed the liberation for Free France, restoring French political legitimacy after occupation and the Vichy regime."
+    },
+    "options": [
+      "(A) Paris was liberated solely by American troops, with no French forces involved.",
+      "(B) The crowds in the photograph are protesting against the Allied armies.",
+      "(C) The photograph shows German troops entering Paris in triumph in 1940.",
+      "(D) De Gaulle claimed the liberation to restore French sovereignty."
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this photograph show about the liberation of Paris in August 1944?",
+    "stimulus": "Color photograph of the liberation of Paris: enormous crowds line the Champs-Elysees beneath the Arc de Triomphe as French tanks and military vehicles parade down the avenue; a large banner in the crowd reads \"VIVE DE GAULLE.\"",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 7
+  }
+]

@@ -1,0 +1,308 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The poster quotes the jury's verdict on the Lusitania (torpedoed without warning, May 7, 1915) and calls it \"the crime of wilful and wholesale murder,\" then demands enlistment \"to avenge this devil's work\" -- a textbook use of an atrocity narrative to drive voluntary recruitment.",
+  "id": "wh-vis-u7-010",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/British_Lusitania_poster_1915_LOC_cph.3g10930.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "The poster's own text says the victims died when the R.M.S. Lusitania, a passenger liner, was torpedoed.",
+   "B": "The poster says 'ENLIST TO-DAY,' appealing to volunteers; Britain did not introduce conscription until 1916.",
+   "C": "The poster's text says the torpedo was 'fired without warning from a German submarine.'",
+   "D": "Correct. The poster frames the sinking as 'wilful and wholesale murder' demanding that readers 'avenge this devil's work' by enlisting."
+  },
+  "options": [
+   "(A) The Lusitania was a German warship sunk in a fair naval battle.",
+   "(B) Britain already had full military conscription in place in 1915.",
+   "(C) The Lusitania was sunk by a British surface ship, not a submarine.",
+   "(D) Britain used the sinking to drive voluntary enlistment."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "A historian studying British wartime recruitment would use this poster to argue that",
+  "stimulus": "British recruitment poster from 1915. Large red type reads \"REMEMBER THE 'LUSITANIA'.\" The text quotes a jury's verdict: the deceased died \"owing to the sinking of the R.M.S. 'Lusitania' by a torpedo fired without warning from a German submarine\" on \"Friday, May 7th, 1915,\" calling it \"the crime of wilful and wholesale murder.\" Below: \"IT IS YOUR DUTY TO TAKE UP THE SWORD OF JUSTICE TO AVENGE THIS DEVIL'S WORK. ENLIST TO-DAY.\"",
+  "stimulus_words": 72,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The poster addresses \"YOU\" directly with the national personification of the United States, part of the government's campaign to build a mass army in a country that had been officially neutral until April 1917.",
+  "id": "wh-vis-u7-011",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/J._M._Flagg%2C_I_Want_You_for_U.S._Army_poster_%281917%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "The U.S. used both: the poster recruited volunteers while the Selective Service Act of 1917 created a draft.",
+   "B": "The poster's 'YOU' addresses the general public, not any single ethnic group.",
+   "C": "Correct. After entering the war in 1917, the U.S. government used mass-produced patriotic imagery to mobilize the population.",
+   "D": "The poster is dated 1917, the year the United States entered the war; in 1914 the U.S. was neutral."
+  },
+  "options": [
+   "(A) The United States relied entirely on volunteers in World War I and never used a military draft at any point in the conflict.",
+   "(B) The poster was aimed only at recent immigrants.",
+   "(C) The U.S. government used mass patriotic advertising to mobilize a population that had been neutral until 1917.",
+   "(D) The United States entered World War I in 1914, at the very start of the European conflict, and fought for four full years."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this poster reveal about the American war effort?",
+  "stimulus": "Recruitment poster by James Montgomery Flagg, 1917: a stern Uncle Sam in a star-spangled top hat points directly at the viewer. Large text reads \"I WANT YOU FOR U.S. ARMY\" and below, \"NEAREST RECRUITING STATION.\"",
+  "stimulus_words": 35,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "In 1871, after defeating France, Germany had proclaimed its empire in the Hall of Mirrors; in 1919 the Allies made German delegates sign their defeat in the same room, a deliberate symbolic reversal and humiliation.",
+  "id": "wh-vis-u7-012",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Orpen%2C_William_%28Sir%29_%28RA%29_-_The_Signing_of_Peace_in_the_Hall_of_Mirrors%2C_Versailles%2C_28th_June_1919_-_Google_Art_Project.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Germany was presented with the treaty and allowed almost no negotiation; the painting shows a dictated peace.",
+   "B": "The treaty imposed heavy reparations, territorial losses, and the war-guilt clause; it was widely seen in Germany as punitive.",
+   "C": "Correct. The Hall of Mirrors was where the German Empire had been proclaimed in 1871, so signing the defeat there was a symbolic reversal.",
+   "D": "The Allies chose Versailles deliberately for its symbolism, not for convenience."
+  },
+  "options": [
+   "(A) Germany participated as an equal partner in negotiating the treaty's terms.",
+   "(B) The Treaty of Versailles was a lenient settlement that preserved German power.",
+   "(C) The Allies chose the Hall of Mirrors to symbolically reverse Germany's 1871 proclamation of empire in the same room.",
+   "(D) The location was chosen simply because it was the largest available room, with no symbolic meaning attached to the choice at all."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Why is the choice of the Hall of Mirrors for this ceremony historically significant?",
+  "stimulus": "Painting by William Orpen titled \"The Signing of Peace in the Hall of Mirrors, Versailles, 28th June 1919.\" In a grand mirrored hall with tall windows, Allied delegates sit and stand around a long table while a German delegate in the foreground signs documents; more delegates crowd the sides of the room.",
+  "stimulus_words": 52,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Twelve years after the October Revolution, this May Day poster still centers international revolution: the worker stands on a globe (not just Russia), and the banner invokes the Comintern — the organization founded to spread communist revolution worldwide — under Lenin's image. \"Long live the First of May,\" the international workers' holiday, completes the message.",
+  "id": "wh-vis-u7-013",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Soviet_May_day_1929.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. The poster's \"Under the Leninist banner of the Comintern — forward!\" shows the international goal was still promoted in 1929.",
+   "B": "Correct. The globe, the Comintern banner, and the May Day slogan all frame the worker's struggle as worldwide, twelve years after 1917.",
+   "C": "Incorrect. The poster shows a worker breaking chains under a revolutionary banner, not cooperation with capitalist states.",
+   "D": "Incorrect. The worker stands on a globe and the banner names the Comintern — an international, not Russia-only, mission."
+  },
+  "options": [
+   "(A) The Soviet Union had completely abandoned the goal of international revolution by 1929.",
+   "(B) Soviet propaganda still promoted world revolution.",
+   "(C) The Soviet government was seeking peaceful economic cooperation with capitalist states.",
+   "(D) The poster was addressed only to Russian peasants and ignored workers elsewhere."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this 1929 Soviet poster reveal about Soviet goals at the time?",
+  "stimulus": "Soviet poster for May Day, 1929. A worker in red stands atop a globe, breaking chains, and raises a red flag bearing Lenin's silhouette. A banner across the top reads (in Russian): \"Under the Leninist banner of the Comintern — forward!\" The large text at the bottom reads: \"Long live the First of May.\"",
+  "stimulus_words": 54,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The poster's caption says all who \"stand for the old order\" curse the Five-Year Plan and \"declare war on it,\" and its caricatures (kulak, priest, landowner, Menshevik, White officer, \"venal journalist\") define economic foot-dragging as political treason, the justification for dekulakization and purges.",
+  "id": "wh-vis-u7-014",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Idn.duke.edu_Soviet_propaganda_poster_1929%3F_-_Bednyi%2C_Demian_-_Deni%2C_V._N._Enemies_of_the_Five_Year_Plan_%D0%92%D1%80%D0%B0%D0%B3%D0%B8_%D0%BF%D1%8F%D1%82%D0%B8%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_No_known_copyright.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "The poster shows the opposite: factories rise in the background while the 'enemies' are denounced, indicating a state-driven crash program.",
+   "B": "The poster shows coercion and denunciation of whole social groups, not voluntary cooperation.",
+   "C": "Correct. By labeling kulaks, priests, and others as 'enemies,' the state justified force against anyone seen as obstructing collectivization and industrialization.",
+   "D": "The figures are Soviet domestic 'class enemies,' not foreign investors; nothing in the poster courts foreign capital."
+  },
+  "options": [
+   "(A) The Five-Year Plan aimed to reduce industrial output in favor of agriculture and return the economy to small-scale peasant farming across the entire Soviet Union.",
+   "(B) The Plan depended on the voluntary enthusiasm of all social groups.",
+   "(C) The Soviet state framed resistance to rapid industrialization as political treason, justifying repression of labeled 'class enemies.'",
+   "(D) The poster was designed to attract foreign investors and private capital to fund ambitious new Soviet industrial construction projects across the country."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this poster indicate about Stalin's industrialization drive?",
+  "stimulus": "Soviet poster titled (in Russian) \"Enemies of the Five-Year Plan,\" 1929. Eight grotesque caricatures -- a landowner, a kulak, a drunkard, a priest, a \"venal journalist,\" a capitalist, a Menshevik reading \"The Menshevik Herald,\" and a tsarist White officer -- glare out at the viewer, with factories in the background. The caption declares that all who \"stand for the old order\" curse the Five-Year Plan and \"declare war on it.\"",
+  "stimulus_words": 70,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The sign on the line advertises \"20 MEALS FOR $1\" and says \"DONATIONS INVITED / HELP FEED THE HUNGRY\" -- evidence that feeding the unemployed depended on private charity, since the federal government played almost no relief role before the New Deal.",
+  "id": "wh-vis-u7-015",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Depression%2C_Breadlines-long_line_of_people_waiting_to_be_fed%2C_New_York_City_-_NARA_-_196499.tif",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The donation-based 1-cent restaurant shows private charity straining to cope before large-scale federal relief existed.",
+   "B": "The endless line of unemployed men waiting for a 1-cent meal shows mass joblessness, not prosperity.",
+   "C": "The sign appeals for donations, showing relief depended on charity; Hoover's federal government offered little direct aid.",
+   "D": "Breadlines appeared in cities across the country; the Depression struck urban workers as well as farmers."
+  },
+  "options": [
+   "(A) Mass unemployment overwhelmed private charity, which strained to feed the jobless before federal relief programs existed.",
+   "(B) The Depression caused only minor hardship in American cities.",
+   "(C) The federal government was already providing full and generous relief to every unemployed person when this photograph was taken in the early 1930s.",
+   "(D) Only farmers in rural areas suffered during the Great Depression."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph show about the effects of the Great Depression?",
+  "stimulus": "Photograph of a Depression-era breadline in New York City: a long line of unemployed men in coats and caps stretches down the block. A sign in the foreground reads \"LINE FOR 1-CENT RESTAURANT / 20 MEALS FOR $1 / DONATIONS INVITED / HELP FEED THE HUNGRY.\"",
+  "stimulus_words": 46,
+  "themes": [
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Lange worked for the Farm Security Administration, a New Deal agency; its photographers documented rural poverty to demonstrate the need for federal relief and resettlement programs, shaping public and congressional support.",
+  "id": "wh-vis-u7-016",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Migrant_Mother_%28LOC_fsa.8b29516%29.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Lange was employed by the federal Farm Security Administration, not by a newspaper.",
+   "B": "The photograph is a government documentation project, not a tourism advertisement.",
+   "C": "Correct. FSA photographs documented destitution among migrant farm workers to build support for New Deal relief.",
+   "D": "The setting is a pea-pickers' camp in rural California, not a city breadline."
+  },
+  "options": [
+   "(A) Dorothea Lange was an independent newspaper photographer exposing government corruption.",
+   "(B) The photograph was commissioned to promote tourism in California.",
+   "(C) The FSA used such photos to build support for relief programs.",
+   "(D) The photograph shows an urban breadline on a New York City street."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Why did the Farm Security Administration commission photographs like this one?",
+  "stimulus": "Photograph by Dorothea Lange, \"Migrant Mother,\" Nipomo, California, 1936. A worn-looking mother of seven -- a destitute pea picker -- gazes into the distance while two small children lean against her shoulders, turning their faces away; they sit inside a canvas tent.",
+  "stimulus_words": 42,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The photograph shows the regime's choreography of power: tens of thousands of uniformed SA and SS men arranged in exact geometric blocks before swastika banners, a spectacle designed to overwhelm spectators with the appearance of unity, discipline, and unstoppable strength.",
+  "id": "wh-vis-u7-017",
+  "image_license": "CC BY-SA 3.0 de",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bundesarchiv_Bild_102-04062A%2C_N%C3%BCrnberg%2C_Reichsparteitag%2C_SA-_und_SS-Appell.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "The rigid geometric formations and official banners show a state-organized spectacle, not a spontaneous gathering.",
+   "B": "The rally dates from the mid-1930s, before the war; the formations are for display, not combat.",
+   "C": "The photograph shows the opposite: the regime excelled at organizing masses into disciplined formations.",
+   "D": "Correct. The regime staged massive choreographed rallies to project unity and power and to bind participants emotionally to the movement."
+  },
+  "options": [
+   "(A) The Nuremberg rallies were spontaneous popular festivals with no state direction or planning behind them at all.",
+   "(B) The formations in the photograph were assembled for immediate combat deployment to the front lines.",
+   "(C) The Nazi regime discouraged large organized gatherings of its supporters.",
+   "(D) The Nazi regime used choreographed mass spectacles to project unity, discipline, and power."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph reveal about Nazi rule in Germany?",
+  "stimulus": "Photograph of the Nazi Party rally grounds at Nuremberg (Reichsparteitag). Vast blocks of uniformed SA and SS men stand in precise geometric formations stretching to the horizon, facing a grandstand hung with large swastika banners.",
+  "stimulus_words": 35,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The poster's German text proclaims \"Germany's victory [is] Europe's freedom\" while a Wehrmacht soldier slays a dragon marked with the communist star -- framing an invasion aimed at destroying the USSR as a defensive crusade for Europe.",
+  "id": "wh-vis-u7-018",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/DEUTSCHLANDS_SIEG_EUROPAS_FREIHEIT_NSDAP_Kriegsplakate_GERMANY%27S_VICTORY_EUROPE%27S_FREEDOM_WW2_Nazi_propaganda_poster_1941-42_Wehrmacht_soldier_defeats_communist_dragon_Dalkeith_Poster_Card_P118_Anonymous_No_known_copyright.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The poster inverts reality, presenting Germany's invasion of the USSR as Europe's liberation from communism.",
+   "B": "The poster celebrates the invasion; it never suggests the war was a mistake or about territory.",
+   "C": "The dragon bears a communist star, representing the Soviet Union, not Britain.",
+   "D": "The poster's heroic German soldier is meant to inspire Germans, not to persuade Soviet troops."
+  },
+  "options": [
+   "(A) Nazi propaganda framed the invasion of the Soviet Union as a crusade defending 'Europe's freedom' against communism.",
+   "(B) The poster admits that Germany's war in the east was a mistake.",
+   "(C) The dragon in the poster represents Great Britain.",
+   "(D) The poster was designed to persuade Soviet soldiers to surrender and was air-dropped by the thousands behind Soviet lines."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this German poster from 1941-42 reveal about Nazi propaganda during the invasion of the USSR?",
+  "stimulus": "Nazi propaganda poster, 1941-42. A Wehrmacht soldier drives a spear into a dragon marked with a communist red star. The German text reads \"DEUTSCHLANDS SIEG EUROPAS FREIHEIT\" (\"Germany's victory is Europe's freedom\").",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ }
+]

@@ -1,0 +1,308 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The photograph shows the leaders of Britain and Italy deciding the fate of Czechoslovakia's Sudetenland — but no Czech representative is present. The great powers redrew another country's borders to satisfy Hitler, the essence of appeasement.",
+  "id": "wh-vis-u7-019",
+  "image_license": "CC BY-SA 3.0 de",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_183-R99301%2C_M%C3%BCnchener_Abkommen%2C_Chamberlain%2C_Mussolini%2C_Ciano.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Incorrect. No Czech representative appears in the photograph, even though Czechoslovakia was the country being dismembered.",
+   "B": "Correct. Britain and Italy's leaders bargained away Czechoslovak territory without its participation — appeasement in action.",
+   "C": "Incorrect. The conference produced an agreement permitting German annexation, not a military alliance of all four states.",
+   "D": "Incorrect. No declaration of war was issued at Munich; the conference ended with an agreement ceding the Sudetenland to Germany."
+  },
+  "options": [
+   "(A) All nations affected by the agreement, including Czechoslovakia, were fully represented at the conference table.",
+   "(B) Britain and Italy's leaders negotiated the fate of Czechoslovak territory without any Czech representative present.",
+   "(C) The conference created a formal military alliance binding Germany, Italy, Britain, and France together against the Soviet Union.",
+   "(D) Chamberlain is shown holding a British declaration of war against Germany."
+  ],
+  "reasoning": "Causation",
+  "skill": "Contextualization",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What is historically significant about who is — and is not — shown in this photograph?",
+  "stimulus": "Photograph taken at the Munich Conference, September 1938. British Prime Minister Neville Chamberlain (in the dark suit) talks with Italian dictator Benito Mussolini and Italian Foreign Minister Galeazzo Ciano (in uniform). No representative of Czechoslovakia — the country whose borderlands were being negotiated away — appears in the photograph.",
+  "stimulus_words": 49,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Guernica was bombed in April 1937 by German Condor Legion and Italian aircraft supporting Franco's Nationalists -- a foreign-aided terror bombing of a civilian Basque town that previewed the aerial warfare of World War II and drew worldwide condemnation (and Picasso's painting).",
+  "id": "wh-vis-u7-020",
+  "image_license": "CC BY-SA 3.0 de",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bundesarchiv_Bild_183-H25224%2C_Guernica%2C_Ruinen.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Guernica was bombed by German and Italian aircraft supporting Franco's Nationalists, not by the Spanish Republic.",
+   "B": "The bombing was carried out by Germany's Condor Legion and Italian planes -- a major foreign intervention in the civil war.",
+   "C": "Correct. The German-Italian bombing of a civilian town previewed the terror bombing of World War II and made the civil war an international crisis.",
+   "D": "The deliberate bombing of the town center showed that civilian populations were now targets, which is precisely why the world reacted."
+  },
+  "options": [
+   "(A) The Spanish Republican government bombed Guernica to punish Basque nationalists.",
+   "(B) No foreign powers were involved in the Spanish Civil War in any way.",
+   "(C) German and Italian planes bombed civilians, previewing WWII.",
+   "(D) The bombing of Guernica had no significance outside of Spain itself."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Why does the destruction shown in this photograph matter beyond the Spanish Civil War?",
+  "stimulus": "German photograph labeled \"Guernica, Ruinen\" (Guernica, ruins), 1937. A street of shattered buildings: facades stand roofless and windowless above mountains of rubble; the town center has been devastated by bombing.",
+  "stimulus_words": 30,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The photograph captures blitzkrieg in action: Luftwaffe bombers striking Warsaw in direct support of the fast ground offensive, part of the coordinated air-land assault that overwhelmed Poland in about five weeks.",
+  "id": "wh-vis-u7-021",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/German_Heinkel_He_111_bombing_Warsaw_1939.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "The photograph shows a German bomber releasing bombs over Warsaw, a deliberate attack on the city.",
+   "B": "Correct. Coordinated air attacks like this, combined with fast-moving armor, were the core of blitzkrieg, which crushed Poland in weeks.",
+   "C": "Poland was overrun by early October 1939, about five weeks after the invasion began.",
+   "D": "The Luftwaffe was central to the invasion, bombing cities, airfields, and troop columns from the first day."
+  },
+  "options": [
+   "(A) Germany carefully avoided bombing cities during the invasion of Poland.",
+   "(B) Coordinated air power striking cities and armies was central to the blitzkrieg that defeated Poland in weeks.",
+   "(C) Poland successfully resisted the German invasion for several years.",
+   "(D) The German air force played almost no role in the Polish campaign, which was won by infantry and cavalry alone in traditional style."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph illustrate about Germany's strategy in 1939?",
+  "stimulus": "Photograph of a German Heinkel He 111 bomber, its fuselage and tail marked with swastikas, releasing a stick of bombs over Warsaw in September 1939; smoke rises from the burning city below.",
+  "stimulus_words": 32,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Dunkirk was a retreat in which the British Expeditionary Force abandoned its equipment and fled France; the photograph of exhausted evacuees being cared for at home was folded into a narrative of national resilience -- the \"Dunkirk spirit.\"",
+  "id": "wh-vis-u7-022",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/The_British_Army_in_the_UK-_Evacuation_From_Dunkirk%2C_May-June_1940_H1630.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Dunkirk was an evacuation under German pressure, not a battlefield victory; Britain lost France.",
+   "B": "Correct. Britain turned a military defeat into a celebrated story of civilian-military rescue and national resolve.",
+   "C": "The soldiers are arriving in England and boarding trains home, not departing for France.",
+   "D": "Over 300,000 British, French, and Belgian troops of all ranks were evacuated, not just officers."
+  },
+  "options": [
+   "(A) The Dunkirk evacuation was a decisive British military victory over Germany that turned the tide of the war in Britain's favor.",
+   "(B) Britain recast the Dunkirk retreat as a moral victory demonstrating national resilience and civilian courage.",
+   "(C) The photograph shows fresh troops departing England for the front in France, eager to return to combat against Germany.",
+   "(D) Only British officers were evacuated from Dunkirk."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "How did Britain use the Dunkirk evacuation of May-June 1940?",
+  "stimulus": "Photograph titled \"The British Army in the UK -- Evacuation From Dunkirk, May-June 1940.\" Exhausted British soldiers, just brought home from France, are handed buckets of tea by volunteers as they board a train at an English station.",
+  "stimulus_words": 38,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Japan, facing U.S. oil and steel embargoes imposed after its expansion in China and Indochina, gambled that destroying the Pacific Fleet at Pearl Harbor would let it seize Southeast Asia's resources unopposed.",
+  "id": "wh-vis-u7-023",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Japan had no plan or capacity to invade the continental United States; the target was the Pacific Fleet.",
+   "B": "The attack followed years of tension: Japan's war in China, its move into Indochina, and the resulting U.S. embargoes.",
+   "C": "Correct. Japan aimed to neutralize the U.S. Pacific Fleet so it could expand into resource-rich Southeast Asia.",
+   "D": "The United States declared war on Japan after the attack, not before."
+  },
+  "options": [
+   "(A) Japan intended to launch a full-scale invasion and occupation of the mainland United States.",
+   "(B) The attack came with no prior tensions between Japan and the United States.",
+   "(C) Japan aimed to cripple the U.S. fleet and secure Southeast Asia.",
+   "(D) The United States had already declared war on Japan before the attack."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Why did Japan attack Pearl Harbor on December 7, 1941?",
+  "stimulus": "Photograph of the destroyer USS Shaw exploding during the Japanese attack on Pearl Harbor, Hawaii, December 7, 1941: a huge fireball and column of black smoke rise over the harbor as palm fronds frame the scene.",
+  "stimulus_words": 36,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The legend dates Japan's expansion in stages -- Manchukuo/Korea (1931), French Indochina (July 1940), then the December 1941-March 1942 wave across the Philippines, Malaya, the Dutch East Indies, and Burma -- showing a resource-driven empire that lunged south after the U.S. oil embargo.",
+  "id": "wh-vis-u7-024",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Second_world_war_asia_1937-1942_map_en6.png",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "The map shows extensive conquests beyond China, across Southeast Asia and the Pacific islands.",
+   "B": "China is shaded red as an Allied power, resisting Japan throughout the period shown.",
+   "C": "The map covers East and Southeast Asia and the Pacific; Japan held no empire in the Americas.",
+   "D": "Correct. The dated waves of conquest show Japan seizing the oil-, rubber-, and tin-rich colonies of Southeast Asia after Western embargoes cut its supplies."
+  },
+  "options": [
+   "(A) Japan's expansion was limited entirely to mainland China and never extended into Southeast Asia or the Pacific islands.",
+   "(B) China was Japan's ally during this period.",
+   "(C) Japan's empire was centered in North and South America.",
+   "(D) Japan expanded in dated waves, seizing resource-rich Southeast Asia in 1941-42 after Western embargoes cut its oil."
+  ],
+  "reasoning": "Causation",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this map show about Japanese imperialism between 1931 and 1942?",
+  "stimulus": "Map titled \"Second World War Pacific War 1937-1942.\" The legend dates Japan's holdings in stages: Japan, Korea, and Manchukuo (1931); French Indochina (July 1940); the Philippines, British Malaya, and Thailand (December 1941); the Dutch East Indies, Burma, New Guinea, and Pacific islands (March 1942). China and Australia are shaded red as Allies.",
+  "stimulus_words": 52,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The photograph shows Japanese-American civilians -- including U.S. citizens -- confined in a government camp, eating in a communal mess hall among tents. After Pearl Harbor, over 110,000 people of Japanese ancestry were removed from the West Coast and interned without trial, a racially motivated violation of civil liberties.",
+  "id": "wh-vis-u7-025",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nyssa%2C_Oregon._FSA_%28Farm_Security_Administration%29_mobile_camp._Cooperative_mess_halls_of_the_Japanese-Americans_digital_file_from_original_neg.jpg",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "The photo shows Japanese-American civilians, not German prisoners of war.",
+   "B": "Internees were never charged or tried; internment was based on ancestry, not individual evidence of espionage.",
+   "C": "The internment was forced removal by executive order; the tents and mess halls show a confinement camp, not a voluntary program.",
+   "D": "Correct. The U.S. government interned Japanese-Americans without due process, contradicting the freedoms it claimed to defend."
+  },
+  "options": [
+   "(A) The camp in the photograph held German prisoners of war.",
+   "(B) Every person interned had been individually convicted of espionage in a court of law after a fair and public trial with full legal representation.",
+   "(C) Japanese-Americans voluntarily relocated to comfortable, well-supplied government camps for their own protection during the entire war.",
+   "(D) The United States interned Japanese-American civilians without trial, a wartime violation of civil liberties driven by racial prejudice."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph reveal about the United States during World War II?",
+  "stimulus": "Farm Security Administration photograph, 1942: Japanese-American civilians queue at a cooperative mess hall inside a government camp at Nyssa, Oregon -- a woman ladles food from a large pot while men holding bowls wait in line; canvas tents stand behind them.",
+  "stimulus_words": 41,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The small print at the bottom reads \"POST FEB. 15 TO FEB. 28\" and \"WAR PRODUCTION CO-ORDINATING COMMITTEE,\" with a Westinghouse logo -- the poster was displayed for two weeks inside Westinghouse factories to boost employee morale, not issued by the government to recruit women. Its \"Rosie the Riveter\" fame came decades later.",
+  "id": "wh-vis-u7-026",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/We_Can_Do_It%21_NARA_535413_-_Restoration_2.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The bottom text shows it was a two-week internal Westinghouse morale poster, later misremembered as a government recruitment campaign.",
+   "B": "The Westinghouse logo and committee name show it was a company poster, not a federal one.",
+   "C": "The 'POST FEB. 15 TO FEB. 28' line shows it was displayed for only two weeks in 1943.",
+   "D": "The poster celebrates a woman doing industrial work, encouraging -- not discouraging -- female labor."
+  },
+  "options": [
+   "(A) It was a company poster, not a government campaign.",
+   "(B) It was an official poster issued by the U.S. federal government.",
+   "(C) It was displayed in factories throughout the entire war.",
+   "(D) It was designed to discourage women from taking factory jobs."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Look closely at the small print at the bottom of this famous poster. What does it reveal about the poster's actual purpose?",
+  "stimulus": "Poster by J. Howard Miller, 1942: a woman in a red polka-dot headscarf flexes her arm beneath the words \"We Can Do It!\" Small print at the bottom reads \"POST FEB. 15 TO FEB. 28\" on the left and \"WAR PRODUCTION CO-ORDINATING COMMITTEE\" on the right, with a Westinghouse logo.",
+  "stimulus_words": 50,
+  "themes": [
+   "SIO",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Allied side of the line displays the flags of Australia (9th), Britain (51st Highland, 50th, 7th Armoured), New Zealand (2nd NZ), South Africa (1st SA), India (4th IND), Greece (Greek Brigade), and Free France -- a coalition drawn from across the British Empire and occupied Europe, facing German and Italian divisions.",
+  "id": "wh-vis-u7-027",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/2_Battle_of_El_Alamein_001.png",
+  "image_verified": "2026-10-02",
+  "key": "D",
+  "option_explanations": {
+   "A": "The map shows Italian divisions (Trieste, Trento, Bologna, Brescia, Ariete, Folgore, Pavia) fighting alongside the Germans.",
+   "B": "El Alamein is on the Mediterranean coast of Egypt, in North Africa, not Europe.",
+   "C": "The unit flags show Australian, New Zealand, South African, Indian, Greek, and Free French formations alongside British ones.",
+   "D": "Correct. The flags reveal an imperial and Allied coalition -- dominion, colonial, and exile forces -- fighting a global war."
+  },
+  "options": [
+   "(A) No Italian troops fought in the North African campaign.",
+   "(B) The battle of El Alamein was fought in southern Europe.",
+   "(C) Only British troops served on the Allied side at El Alamein; no colonial, dominion, or exile forces from the empire took part in the battle.",
+   "(D) The Allies fielded a multinational coalition of dominion, colonial, and exile forces from across the empire and occupied Europe."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this map of the Second Battle of El Alamein (October 1942) demonstrate about World War II?",
+  "stimulus": "Dispositions map for the Second Battle of El Alamein. Along the Mediterranean coast, Axis divisions (German 15th and 21st Panzer; Italian Trieste, Trento, Bologna, Brescia, Ariete, Folgore, Pavia) face Allied divisions marked with national flags: 9th Australian, 51st Highland, 2nd New Zealand, 1st South African, 4th Indian, 50th Infantry, 7th Armoured, plus a Greek Brigade and Free French unit.",
+  "stimulus_words": 59,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ }
+]

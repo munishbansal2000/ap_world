@@ -1,0 +1,308 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The map shows Serbia and Montenegro in light green as \"Slavic allies of Russia,\" sitting inside territory otherwise held by Austria-Hungary, with Sarajevo marked nearby. A crisis between Austria-Hungary and Serbia would therefore threaten Russia's ally and activate the rival alliance systems shown on the map.",
+  "id": "wh-vis-u7-001",
+  "image_license": "CC BY-SA 2.5",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Map_Europe_alliances_1914-en.svg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "The map shows Italy inside the Triple Alliance in 1914, but Italy actually joined the Entente in 1915; the map cannot prove future loyalty.",
+   "B": "The Ottoman Empire is shaded beige like the other neutral states, not green; it is not shown as a Triple Entente member.",
+   "C": "Correct. The map shows Serbia as a Russian ally embedded in Austria-Hungary's sphere, the arrangement that turned Sarajevo into a continental war.",
+   "D": "The map shows the minority groups but nothing about Austria-Hungary's leaders wanting a wider war; they feared one."
+  },
+  "options": [
+   "(A) Italy remained loyal to the Triple Alliance throughout the entire war.",
+   "(B) The Ottoman Empire entered the war as a member of the Triple Entente.",
+   "(C) Serbia, a Russian ally surrounded by Austria-Hungary, could turn a Balkan crisis into a continental war.",
+   "(D) Austria-Hungary's restive minority groups meant its leaders actively sought a wider European war in 1914."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Which claim about the outbreak of World War I is best supported by this map?",
+  "stimulus": "Map titled \"Military alliances in 1914.\" The Triple Alliance (Germany, Austria-Hungary, Italy) is shaded olive-brown; the Triple Entente (United Kingdom, France, Russia) is shaded green; Serbia and Montenegro appear in light green as \"Slavic allies of Russia.\" Arrows show minority groups (Czechs, Slovaks, Poles, Ukrainians, Serbs, Croats, Romanians) inside Austria-Hungary, and a dot marks Sarajevo.",
+  "stimulus_words": 55,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The front line on the map stretches from the Baltic to the Carpathians and has been pushed deep into Russian territory (Warsaw and Kovno are behind German lines), showing large-scale movement rather than a fixed trench line.",
+  "id": "wh-vis-u7-002",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Eastern_front_October_1%2C_1915.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The long, curving front deep inside Russia shows sweeping offensives and retreats, not a fixed trench line.",
+   "B": "The map shows a fluid front across vast distances, not the dense trench networks of France and Belgium.",
+   "C": "The map shows the opposite: Russian cities like Warsaw and Kovno lie west of the front line, meaning Russia had lost ground.",
+   "D": "A fixed line would show little change, but this front had moved hundreds of miles eastward in the 1915 offensives."
+  },
+  "options": [
+   "(A) The Eastern Front was a war of movement, with the front shifting across hundreds of miles.",
+   "(B) Trench systems like those in France dominated the Eastern Front as well.",
+   "(C) Russia had decisively defeated Germany and Austria-Hungary by October 1915 and was dictating peace terms.",
+   "(D) The Eastern Front barely moved because both sides dug in along a fixed line from the Baltic to the Black Sea."
+  ],
+  "reasoning": "Comparison",
+  "skill": "Making Connections",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "Compared with the Western Front, what does this map indicate about the Eastern Front in 1915?",
+  "stimulus": "Map titled \"Eastern front October 1, 1915.\" A heavy black line marks the front, running from Riga on the Baltic Sea south through Dvinsk, Vilna, Pinsk, and Lemberg to Czernowitz. The word \"RUSSIANS\" is printed across the territory east of the line; Warsaw, Kovno, and Tannenberg lie west of it, inside German and Austro-Hungarian territory.",
+  "stimulus_words": 55,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The blue German arrows advance through Belgium but the red Allied counter-operations at the Marne stop them, and the final \"line front by the end of 1914\" shows the war freezing into a continuous line from the Channel to Switzerland.",
+  "id": "wh-vis-u7-003",
+  "image_license": "CC BY-SA 3.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Western_front_1914_EN.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "The map shows German armies (1A-5A) advancing through Belgium; its neutrality was violated, not bypassed.",
+   "B": "Correct. The halt at the Marne and the fixed end-of-1914 front show the quick-victory plan had failed.",
+   "C": "France is shown counterattacking at the Marne and holding a continuous front; it was not knocked out.",
+   "D": "The map ends with a fixed front line by late 1914 -- the start of trench stalemate, not continued maneuver."
+  },
+  "options": [
+   "(A) German armies bypassed Belgium entirely and struck France directly across the Rhine.",
+   "(B) Germany's drive through Belgium was halted at the Marne, and the campaign ended in a static front line.",
+   "(C) France was knocked out of the war before the end of 1914.",
+   "(D) The war in the west stayed a fast-moving war of maneuver through 1915, with German armies still advancing toward Paris."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this map show about the outcome of Germany's 1914 campaign in the west?",
+  "stimulus": "Map titled \"World War I. The campaign of 1914. Western European theater.\" Blue arrows show German armies (1A through 7A) sweeping through Belgium and northern France; red arrows show Allied attacks and retreats. The map marks \"The operations of Allied troops in Battle of the Marne\" and the \"Race to the Sea,\" ending with the \"Line front by the end of 1914\" running from the English Channel to Switzerland.",
+  "stimulus_words": 69,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The postcard documents Australian troops landing at Gallipoli in the Ottoman Empire, thousands of miles from Australia, showing how the European empires pulled colonial and dominion soldiers into distant theaters of the war.",
+  "id": "wh-vis-u7-004",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Landing_of_Australian_troops_at_ANZAC_Cove%2C_25_April_1915_slnsw.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "The photo directly contradicts this: Australian soldiers are landing in Turkey, not Europe.",
+   "B": "Correct. The image shows Australians fighting in the Ottoman Empire, evidence of the war's global, imperial reach.",
+   "C": "The photo shows a landing, not its outcome; Gallipoli was a costly months-long stalemate ending in Allied evacuation.",
+   "D": "The photo shows Australians landing at Gallipoli in April 1915, so they clearly did serve overseas."
+  },
+  "options": [
+   "(A) The war was fought only by European soldiers on European battlefields.",
+   "(B) Empires sent colonial troops to fight far from home.",
+   "(C) The Gallipoli campaign was a rapid, easy, and decisive Allied victory.",
+   "(D) Australian troops refused to serve outside of Australia during the war."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph best demonstrate about World War I?",
+  "stimulus": "Photograph postcard labeled \"The landing at Anzac -- Gallipoli -- 25th April 1915.\" Australian soldiers wade ashore from crowded rowboats onto a beach while more troops watch from the scrub-covered hillside above; warships are visible offshore.",
+  "stimulus_words": 36,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The photograph shows the sharp angular bends characteristic of fire-bays and traverses: if a shell landed in the trench or an enemy fired down its length, the blast and bullets would be stopped by the next angle instead of sweeping the whole line.",
+  "id": "wh-vis-u7-005",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aerial_view_Loos-Hulluch_trench_system_July_1917.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The zigzags limited how far an explosion or enfilading fire could travel along a trench.",
+   "B": "This photo is itself an aerial photograph that clearly reveals the trenches, so the pattern did not hide them from the air.",
+   "C": "Drainage was a constant problem, but trenches were angled for protection from fire, not for water flow.",
+   "D": "No treaty banned straight trenches; the zigzag was a practical response to artillery and machine-gun fire."
+  },
+  "options": [
+   "(A) A straight trench would let a shell blast or enfilading fire sweep the whole line; angles contained the damage.",
+   "(B) The zigzag pattern was designed mainly to confuse enemy aerial photographers and hide the trenches from observation balloons.",
+   "(C) Zigzag trenches drained rainwater more effectively than straight ones did.",
+   "(D) International treaties had banned straight trenches as an inhumane design, so all armies were forced to dig zigzags."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The trenches in this photograph were built in zigzag patterns rather than straight lines primarily because",
+  "stimulus": "Aerial photograph labeled \"Aerial view Loos-Hulluch trench system July 1917.\" From above, the ground is covered with dense, zigzagging white lines forming interlocking networks of trenches, pocked with dark shell craters; two roughly parallel systems face each other across a scarred strip of land.",
+  "stimulus_words": 44,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The gunner is firing at night from a prepared position while the attackers must cross open ground in the dark; massed machine-gun fire made such attacks extraordinarily costly, so neither side could advance and the front froze.",
+  "id": "wh-vis-u7-006",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Trench_Warfare_on_the_Western_Front%2C_1914-1918_Q6422.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Tanks first appeared in 1916, two years into the stalemate; the machine gun shown here caused the stalemate.",
+   "B": "Correct. Defensive firepower like the machine gun made frontal attacks suicidal, freezing the front.",
+   "C": "Soldiers fought for four years under these conditions; the photo shows a manned, active position.",
+   "D": "The machine gun was one of the war's most common and decisive weapons, with thousands deployed along the front."
+  },
+  "options": [
+   "(A) Tanks quickly broke through trench lines and restored mobility in 1914.",
+   "(B) Defensive firepower such as the machine gun made attacks across open ground so costly that neither side could advance.",
+   "(C) Soldiers on the Western Front generally refused to man their weapons.",
+   "(D) Machine guns were rare experimental weapons with little effect on the fighting, so both sides relied on cavalry charges instead."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph illustrate about why the Western Front became a stalemate?",
+  "stimulus": "Night photograph of a British soldier kneeling in a trench, firing a Vickers machine gun mounted on a tripod; bright tracer lines and flares streak across the dark sky above him.",
+  "stimulus_words": 31,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Poison gas was a new industrial weapon of 1915, and armies had to improvise protective equipment; the photograph shows soldiers already adapted to it as part of ordinary trench equipment.",
+  "id": "wh-vis-u7-007",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Soldiers_in_trench_wearing_gas_masks_1917.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Correct. The image shows rapid military adaptation: a new weapon (poison gas) produced new protective technology and routines.",
+   "B": "Masks were worn when gas attacks threatened, not continuously for months; the photo shows equipment, not constant wear.",
+   "C": "Gas was used precisely because it was terrifying and lethal, not because it was humane.",
+   "D": "Gas caused over a million casualties and forced every army to issue masks and training, so it clearly had major effects."
+  },
+  "options": [
+   "(A) New weapons forced armies to invent protective gear and new tactics.",
+   "(B) Soldiers were required to wear gas masks continuously, day and night, for the entire four years of the war.",
+   "(C) Poison gas was adopted by military leaders because they considered it a humane and merciful weapon.",
+   "(D) Poison gas had almost no effect on the war because soldiers could easily ignore it and keep fighting normally."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this image reveal about warfare in the industrial age?",
+  "stimulus": "Hand-colored lantern slide showing two soldiers standing in a timber-reinforced trench, each wearing a bulky early gas mask covering the whole face.",
+  "stimulus_words": 22,
+  "themes": [
+   "TEC",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Mark I at the Somme in September 1916 was the tank's debut month: a handful of slow, breakdown-prone machines supported by infantry. The photograph shows infantry crowding around the tank rather than exploiting a breakthrough, consistent with an experimental weapon.",
+  "id": "wh-vis-u7-008",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/British_Mark_I_male_tank_Somme_25_September_1916.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Tanks first saw combat on September 15, 1916, ten days before this photo, and only a few dozen were used.",
+   "B": "Correct. In 1916 tanks were a new experiment meant to cross trenches and wire, but they were too few and unreliable to end the stalemate.",
+   "C": "The photo shows infantry massed around the tank; tanks supported infantry attacks rather than replacing them.",
+   "D": "Tanks did not restore mobility until 1918, and even then artillery and infantry remained central; trench warfare continued for two more years."
+  },
+  "options": [
+   "(A) This photograph captures the very first use of tanks in warfare, taken on the day the British Army first deployed the new weapon in combat.",
+   "(B) The tank was introduced to break the trench stalemate but in 1916 remained a slow, unreliable experiment rather than a war-winning weapon.",
+   "(C) Tanks made infantry obsolete on the Western Front.",
+   "(D) Tanks immediately restored fast-moving warfare in September 1916, breaking the trenches and ending static fighting within a matter of weeks."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What claim about the tank is best supported by this photograph?",
+  "stimulus": "Photograph dated 25 September 1916 of a British Mark I \"male\" tank on the Somme battlefield, its riveted armor scarred and muddy, surrounded by a crowd of infantrymen in Brodie helmets standing in churned earth.",
+  "stimulus_words": 35,
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The photo shows women doing heavy industrial war work -- hauling crates of artillery shells at the Woolwich munitions works in 1918 -- evidence that total war drew women into factory labor on an unprecedented scale.",
+  "id": "wh-vis-u7-009",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Women%27s_War_work_during_the_First_World_War%2C_Woolwich%2C_1918_Q27881.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "The photo directly contradicts this: women are shown doing industrial war work.",
+   "B": "The women are hauling crates of munitions shells, not serving as nurses.",
+   "C": "Correct. Total war required mass production of shells, pulling large numbers of women into munitions factories.",
+   "D": "The crates of shells and the factory setting show production running at full wartime intensity."
+  },
+  "options": [
+   "(A) Women were not permitted to work in factories during World War I.",
+   "(B) Women's only contribution to the war effort was nursing.",
+   "(C) Total war drew women into munitions factories in large numbers to sustain industrial-scale warfare.",
+   "(D) Munitions production stayed at peacetime levels, so factories needed few workers of either sex throughout the war."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "What does this photograph show about the home front in World War I?",
+  "stimulus": "Photograph titled \"Women's war work during the First World War, Woolwich, 1918.\" Three women in work smocks and caps push a rail trolley stacked with wooden crates full of artillery shells outside a brick munitions factory.",
+  "stimulus_words": 36,
+  "themes": [
+   "SIO",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 7
+ }
+]
