@@ -1,0 +1,4 @@
+# extraction workspaces — never commit extracted book content
+*_extracted/
+*_workspace/
+/tmp/
