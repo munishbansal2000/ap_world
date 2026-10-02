@@ -2,9 +2,9 @@
   {
     "id": "wh-fresh-u2-021",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 021-022. Diagram titled 'Indian Ocean Monsoon Winds.' Summer arrows (June-September) show winds blowing from the southwest, carrying ships from East Africa and Arabia toward India. Winter arrows (November-February) show winds blowing from the northeast, carrying ships from India back toward Arabia and Africa. Labels read: 'Sailors timed voyages to the seasonal winds; a round trip took one year.'",
-    "stimulus_words": 62,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 021-022. Monsoon and trade-wind chart of the Indian Ocean (U.S. Navy, 1859), showing prevailing winds in February (left) and August (right). In February the winds blow from the northeast, carrying ships from India toward Arabia and Africa; in August they reverse to the southwest, carrying ships back toward India.",
+    "stimulus_words": 53,
+    "visual_needs_url": false,
     "stem": "The wind patterns shown best explain which of the following features of Indian Ocean trade?",
     "options": [
       "(A) Merchants sailed the same routes in both directions and completed round trips within a single month",
@@ -22,16 +22,22 @@
     },
     "skill": "Making Connections",
     "reasoning": "Causation",
-    "themes": ["ENV", "ECN"],
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-022",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 021-022. Diagram titled 'Indian Ocean Monsoon Winds.' Summer arrows (June-September) show winds blowing from the southwest, carrying ships from East Africa and Arabia toward India. Winter arrows (November-February) show winds blowing from the northeast, carrying ships from India back toward Arabia and Africa. Labels read: 'Sailors timed voyages to the seasonal winds; a round trip took one year.'",
-    "stimulus_words": 62,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 021-022. Monsoon and trade-wind chart of the Indian Ocean (U.S. Navy, 1859), showing prevailing winds in February (left) and August (right). In February the winds blow from the northeast, carrying ships from India toward Arabia and Africa; in August they reverse to the southwest, carrying ships back toward India.",
+    "stimulus_words": 53,
+    "visual_needs_url": false,
     "stem": "A historian claims that mastery of the monsoon system made the Indian Ocean the most reliable long-distance trade network of the period. Which evidence would best support that claim?",
     "options": [
       "(A) Monsoon winds blew so unpredictably from season to season that they sank most of the ships that ever attempted the crossing, making scheduled trade impossible.",
@@ -49,14 +55,20 @@
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Causation",
-    "themes": ["TEC", "ENV"],
+    "themes": [
+      "TEC",
+      "ENV"
+    ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Monsoon_%26_trade_wind_chart_of_the_Indian_Ocean_LOC_2009575919.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-023",
     "unit": 2,
-    "stimulus": "From a Florentine merchant's handbook, c. 1340: 'The road from Tana to Cathay is perfectly safe, whether by day or by night. A merchant with proper papers will find organized relay stations with food and lodging every day's journey. You may travel with a woman and gold and fear nothing.'",
+    "stimulus": "Adapted from Francesco Pegolotti's merchant handbook, c. 1340: 'The road from Tana to Cathay is perfectly safe, whether by day or by night. A merchant with proper papers will find organized relay stations with food and lodging every day's journey. You may travel with a woman and gold and fear nothing.'",
     "stimulus_words": 50,
     "stem": "The handbook entry most directly reflects which of the following about its author's historical situation?",
     "options": [
@@ -75,7 +87,10 @@
     },
     "skill": "Sourcing and Situation",
     "reasoning": "Continuity and Change",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -101,7 +116,10 @@
     },
     "skill": "Argumentation",
     "reasoning": "Causation",
-    "themes": ["ECN", "SIO"],
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
@@ -127,7 +145,10 @@
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Causation",
-    "themes": ["ENV", "TEC"],
+    "themes": [
+      "ENV",
+      "TEC"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -153,7 +174,10 @@
     },
     "skill": "Developments and Processes",
     "reasoning": "Causation",
-    "themes": ["TEC", "CDI"],
+    "themes": [
+      "TEC",
+      "CDI"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
@@ -179,7 +203,10 @@
     },
     "skill": "Contextualization",
     "reasoning": "Continuity and Change",
-    "themes": ["CDI", "SIO"],
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
@@ -205,7 +232,10 @@
     },
     "skill": "Making Connections",
     "reasoning": "Comparison",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -231,7 +261,10 @@
     },
     "skill": "Argumentation",
     "reasoning": "Causation",
-    "themes": ["ECN", "SIO"],
+    "themes": [
+      "ECN",
+      "SIO"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
@@ -240,7 +273,7 @@
     "unit": 2,
     "stimulus": "Illuminated panel from the Catalan Atlas, made in Majorca in 1375: a dark-skinned crowned king sits on a throne holding a large gold nugget in one hand and a scepter in the other. A caption reads: 'This Black lord is called Musa Mali, lord of the Black people of Guinea. So abundant is the gold found in his country that he is the richest and most noble king in all the land.'",
     "stimulus_words": 72,
-    "visual_needs_url": true,
+    "visual_needs_url": false,
     "stem": "The panel best reflects which of the following about its makers' historical situation?",
     "options": [
       "(A) Majorcan mapmakers had sailed to Mali themselves and interviewed Mansa Musa.",
@@ -258,8 +291,14 @@
     },
     "skill": "Sourcing and Situation",
     "reasoning": "Comparison",
-    "themes": ["CDI", "ECN"],
+    "themes": [
+      "CDI",
+      "ECN"
+    ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mansa_Musa.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
   }
 ]

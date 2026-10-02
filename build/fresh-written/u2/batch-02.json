@@ -2,63 +2,75 @@
   {
     "id": "wh-fresh-u2-011",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 011-013. Political map titled 'The Mongol Empire, c. 1279.' The empire is divided into four shaded khanates: the Yuan dynasty in China, the Il-Khanate in Persia, the Golden Horde in the western steppes and Russia, and the Chagatai Khanate in Central Asia. Arrows labeled 'tribute and trade' connect the khanates to the Yuan capital at Khanbaliq (Beijing). A caption notes: 'Travelers such as Marco Polo and Ibn Battuta crossed between khanates under Mongol protection.'",
-    "stimulus_words": 78,
-    "visual_needs_url": true,
-    "stem": "A historian claims that Mongol rule created conditions that encouraged long-distance exchange. Which evidence from the map and caption best supports that claim?",
+    "stimulus": "Shared stimulus for items 011-013. Map titled 'Asia under the Mongols, 1290 A.D.' The Mongol Empire is divided into four labeled divisions: the EMPIRE OF THE GREAT KHAN (Yuan) across China and Mongolia, the ILKHAN EMPIRE in Persia, the GOLDEN HORDE across the western steppes and Russia, and the DJAGATAI EMPIRE in Central Asia. A red line marks the route of Marco Polo (1271-1295), running overland from Europe across the empire to China and back by sea.",
+    "stimulus_words": 77,
+    "visual_needs_url": false,
+    "stem": "A historian claims that Mongol rule created conditions that encouraged long-distance exchange. Which evidence from the map best supports that claim?",
     "options": [
-      "(A) Travelers like Polo and Ibn Battuta could cross several khanates under one system of Mongol protection.",
+      "(A) Marco Polo's marked route crosses several khanates, showing one traveler could journey from Europe to China under Mongol protection.",
       "(B) Each khanate developed a wholly separate language and religion.",
       "(C) The Yuan court refused to accept any tribute from the other khanates.",
       "(D) The Golden Horde blocked all trade between Europe and Asia."
     ],
     "key": "A",
-    "explanation": "The caption explicitly says travelers crossed between khanates under Mongol protection, and the map shows the whole corridor linked by trade arrows. Safe passage across a unified empire is exactly the condition that let merchants, envoys, and missionaries travel farther than before.",
+    "explanation": "Marco Polo's route is marked running from Europe across the whole Mongol realm to China, and the map shows all four khanates as parts of one empire. Safe passage across that system is exactly the condition that let merchants, envoys, and missionaries travel farther than before.",
     "option_explanations": {
-      "A": "Correct — protected travel across khanates is direct evidence of conditions encouraging exchange.",
-      "B": "The map shows political division, not linguistic or religious separation — and the Mongols were famously tolerant.",
-      "C": "The arrows show tribute flowing toward the Yuan capital, not being refused.",
-      "D": "The map shows trade links running through Golden Horde territory."
+      "A": "Correct - Polo's marked route across khanates is direct evidence of protected long-distance travel.",
+      "B": "The map shows political division, not linguistic or religious separation - and the Mongols were famously tolerant.",
+      "C": "The map shows the four khanates as parts of one empire, with Polo's route reaching Yuan China - no sign of refused contact.",
+      "D": "The map shows unbroken Mongol territory across Eurasia, with no blockade."
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Causation",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-012",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 011-013. Political map titled 'The Mongol Empire, c. 1279.' The empire is divided into four shaded khanates: the Yuan dynasty in China, the Il-Khanate in Persia, the Golden Horde in the western steppes and Russia, and the Chagatai Khanate in Central Asia. Arrows labeled 'tribute and trade' connect the khanates to the Yuan capital at Khanbaliq (Beijing). A caption notes: 'Travelers such as Marco Polo and Ibn Battuta crossed between khanates under Mongol protection.'",
-    "stimulus_words": 78,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 011-013. Map titled 'Asia under the Mongols, 1290 A.D.' The Mongol Empire is divided into four labeled divisions: the EMPIRE OF THE GREAT KHAN (Yuan) across China and Mongolia, the ILKHAN EMPIRE in Persia, the GOLDEN HORDE across the western steppes and Russia, and the DJAGATAI EMPIRE in Central Asia. A red line marks the route of Marco Polo (1271-1295), running overland from Europe across the empire to China and back by sea.",
+    "stimulus_words": 77,
+    "visual_needs_url": false,
     "stem": "The position of Yuan China shown on the map is best understood in which broader context?",
     "options": [
       "(A) China was cut off from the rest of Eurasia under the Yuan.",
       "(B) The Yuan rulers completely rejected every Chinese administrative tradition and governed China purely as steppe nomads with no bureaucracy at all.",
-      "(C) Yuan China was the richest khanate, drawing tribute and skilled artisans from across the Mongol world.",
+      "(C) Yuan China was the wealthiest and most populous of the khanates, at the heart of the Mongol system.",
       "(D) The Yuan was a minor state overshadowed by the Golden Horde."
     ],
     "key": "C",
-    "explanation": "The trade-and-tribute arrows converge on Khanbaliq, marking Yuan China as the empire's economic and ceremonial center. Khubilai Khan's court drew Persian astronomers, Central Asian administrators, and European visitors — the map's pattern reflects a China plugged into, and at the heart of, a continent-wide Mongol system.",
+    "explanation": "The map shows the EMPIRE OF THE GREAT KHAN (Yuan) as the largest of the four divisions, and Marco Polo's marked route ends at its court in China. Khubilai Khan's court drew Persian astronomers, Central Asian administrators, and European visitors - the map's pattern reflects a China at the center of, and plugged into, a continent-wide Mongol system.",
     "option_explanations": {
-      "A": "The arrows and traveling merchants show China connected, not cut off.",
-      "B": "The word 'completely' is wrong — the Yuan adopted Chinese-style bureaucracy and taxation alongside Mongol practices.",
-      "C": "Correct — converging tribute arrows mark Yuan China as the wealthiest, most central khanate.",
+      "A": "Marco Polo's route ends in Yuan China, showing it connected, not cut off.",
+      "B": "The word 'completely' is wrong - the Yuan adopted Chinese-style bureaucracy and taxation alongside Mongol practices.",
+      "C": "Correct - the largest khanate, and the destination of Polo's journey, marks Yuan China as the Mongol system's center.",
       "D": "The Yuan ruled all of China, the richest prize; the Golden Horde never controlled China."
     },
     "skill": "Contextualization",
     "reasoning": "Comparison",
-    "themes": ["CDI", "SIO"],
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-013",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 011-013. Political map titled 'The Mongol Empire, c. 1279.' The empire is divided into four shaded khanates: the Yuan dynasty in China, the Il-Khanate in Persia, the Golden Horde in the western steppes and Russia, and the Chagatai Khanate in Central Asia. Arrows labeled 'tribute and trade' connect the khanates to the Yuan capital at Khanbaliq (Beijing). A caption notes: 'Travelers such as Marco Polo and Ibn Battuta crossed between khanates under Mongol protection.'",
-    "stimulus_words": 78,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 011-013. Map titled 'Asia under the Mongols, 1290 A.D.' The Mongol Empire is divided into four labeled divisions: the EMPIRE OF THE GREAT KHAN (Yuan) across China and Mongolia, the ILKHAN EMPIRE in Persia, the GOLDEN HORDE across the western steppes and Russia, and the DJAGATAI EMPIRE in Central Asia. A red line marks the route of Marco Polo (1271-1295), running overland from Europe across the empire to China and back by sea.",
+    "stimulus_words": 77,
+    "visual_needs_url": false,
     "stem": "Which of the following best explains the political development shown on the map — the division of the Mongol Empire into four khanates?",
     "options": [
       "(A) The Mongols gave up their empire because nomadic life could not work with ruling cities.",
@@ -76,43 +88,55 @@
     },
     "skill": "Developments and Processes",
     "reasoning": "Causation",
-    "themes": ["GOV", "CDI"],
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Asia_under_the_Mongols_1290_AD.jpg",
+    "image_license": "Public domain",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-014",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Bubonic Plague, 1331-1353.' Shaded regions with dates show the plague's advance: 1331 in Central Asia and China; 1346 at Kaffa on the Black Sea; 1347 in Constantinople and Alexandria; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1351 in Scandinavia and Russia; 1353 in Moscow. A note reads: 'The plague traveled with merchants, soldiers, and ships along established trade routes.'",
-    "stimulus_words": 73,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Black Death in Europe, 1346-1353.' Color bands with dates show the plague's advance year by year: 1346 in the Crimea and the Levant; 1347 in Constantinople, Alexandria, and the eastern Mediterranean; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1350-1353 across Scandinavia, Russia, and Eastern Europe. White arrows mark land and maritime trade routes.",
+    "stimulus_words": 67,
+    "visual_needs_url": false,
     "stem": "The pattern shown on the map best supports which of the following connections between trade and disease?",
     "options": [
       "(A) Disease spread only where trade was absent, since isolated peoples lacked immunity.",
       "(B) The plague traveled from Europe into Asia, moving in the opposite direction from the flow of Silk Road commerce and reaching China last of all.",
       "(C) Land routes spread the plague, but the sea routes were left completely untouched.",
-      "(D) The same networks that moved silk, spices, and paper also moved pathogens, so commercial integration exposed all of Eurasia to pandemic."
+      "(D) The same networks that moved silk, spices, and paper also moved pathogens, so commercial integration exposed the whole region to pandemic."
     ],
     "key": "D",
-    "explanation": "The plague's dated advance follows the trade corridors exactly: from Central Asia to the Black Sea port of Kaffa, then by ship to Constantinople, Alexandria, and Italy, then inland. The map makes the connection visible — the commercial integration that enriched Eurasia also gave a pathogen a continent-wide highway.",
+    "explanation": "The plague's dated advance follows the trade corridors: from the Black Sea ports and the Levant by ship to Constantinople, Alexandria, and Italy, then inland and onward across Europe. The map makes the connection visible - the commercial integration that enriched the region also gave a pathogen a continent-wide highway.",
     "option_explanations": {
       "A": "The plague followed the busiest trade routes, not isolated regions.",
-      "B": "The dates run from Central Asia outward to Europe, the same direction as much Silk Road traffic.",
-      "C": "Alexandria and Constantinople were reached by sea, and the note mentions ships.",
-      "D": "Correct — the plague's path traces the trade networks, showing how integration spread disease."
+      "B": "The dates begin in the Crimea and the Levant and move west and north through Europe - not from Europe into Asia.",
+      "C": "Alexandria and Constantinople were reached by sea along the marked maritime routes.",
+      "D": "Correct - the plague's path traces the trade networks, showing how integration spread disease."
     },
     "skill": "Making Connections",
     "reasoning": "Causation",
-    "themes": ["ENV", "ECN"],
+    "themes": [
+      "ENV",
+      "ECN"
+    ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-015",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Bubonic Plague, 1331-1353.' Shaded regions with dates show the plague's advance: 1331 in Central Asia and China; 1346 at Kaffa on the Black Sea; 1347 in Constantinople and Alexandria; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1351 in Scandinavia and Russia; 1353 in Moscow. A note reads: 'The plague traveled with merchants, soldiers, and ships along established trade routes.'",
-    "stimulus_words": 73,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Black Death in Europe, 1346-1353.' Color bands with dates show the plague's advance year by year: 1346 in the Crimea and the Levant; 1347 in Constantinople, Alexandria, and the eastern Mediterranean; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1350-1353 across Scandinavia, Russia, and Eastern Europe. White arrows mark land and maritime trade routes.",
+    "stimulus_words": 67,
+    "visual_needs_url": false,
     "stem": "A historian claims that the plague caused major economic disruption across Afro-Eurasia. Which of the following would be the best evidence to support that claim?",
     "options": [
       "(A) Records of steep population losses followed by rising wages and greater peasant mobility in many regions",
@@ -125,41 +149,53 @@
     "option_explanations": {
       "A": "Correct — mortality followed by wage rises and mobility is the classic economic signature of the plague.",
       "B": "Trade routes recovered and remained in use; disruption was severe but not permanent.",
-      "C": "The map shows the plague striking China, Central Asia, and the Middle East as well as Europe.",
+      "C": "The map shows the plague striking the Middle East (Alexandria, Jerusalem, Aleppo, Baghdad) and Russia as well as Europe - not Europe alone.",
       "D": "Revenues fell as taxpayers died; rising revenue would argue against disruption."
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Causation",
-    "themes": ["ECN", "ENV"],
+    "themes": [
+      "ECN",
+      "ENV"
+    ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-016",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Bubonic Plague, 1331-1353.' Shaded regions with dates show the plague's advance: 1331 in Central Asia and China; 1346 at Kaffa on the Black Sea; 1347 in Constantinople and Alexandria; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1351 in Scandinavia and Russia; 1353 in Moscow. A note reads: 'The plague traveled with merchants, soldiers, and ships along established trade routes.'",
-    "stimulus_words": 73,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 014-016. Map titled 'Spread of the Black Death in Europe, 1346-1353.' Color bands with dates show the plague's advance year by year: 1346 in the Crimea and the Levant; 1347 in Constantinople, Alexandria, and the eastern Mediterranean; 1348 across Italy, France, and Spain; 1349 in England and Germany; 1350-1353 across Scandinavia, Russia, and Eastern Europe. White arrows mark land and maritime trade routes.",
+    "stimulus_words": 67,
+    "visual_needs_url": false,
     "stem": "Two historians debate the plague's significance. One calls it 'a European catastrophe'; the other calls it 'a Eurasian turning point.' Which argument is best supported by the map?",
     "options": [
       "(A) The first historian, because the map clearly shows the plague beginning inside Europe and spreading outward from there",
       "(B) The first historian, because only European cities appear as labels on the map",
-      "(C) The second historian, because the map shows the plague striking China, Central Asia, the Middle East, and Russia as well as Europe",
+      "(C) The second historian, because the map shows the plague sweeping from the Levant and Crimea across all of Europe, Russia, and North Africa - far beyond a single region",
       "(D) The second historian, because the map proves the plague caused no economic harm anywhere"
     ],
     "key": "C",
-    "explanation": "The map's dated shading starts in Central Asia and China in 1331 and reaches the Middle East, Russia, and Scandinavia — far beyond Europe. A catastrophe that depopulated much of the Eastern as well as the Western world is better described as a Eurasian turning point.",
+    "explanation": "The map's dated bands start at the Black Sea and the Levant in 1346 and reach across all of Europe, Russia, and North Africa by 1353 - far beyond any single region. A catastrophe that swept that much of the world is better described as a Eurasian turning point.",
     "option_explanations": {
-      "A": "The plague began in Central Asia, not Europe.",
-      "B": "The map labels Constantinople, Alexandria, Moscow, and Central Asia alongside European cities.",
-      "C": "Correct — the plague's reach across China, Central Asia, the Middle East, and Russia supports the Eurasian framing.",
-      "D": "The map tracks the disease's spread, not its economic effects — and it shows nothing of the kind."
+      "A": "The earliest band (1346) centers on the Crimea and the Levant, not the European interior.",
+      "B": "The map labels Constantinople, Alexandria, Baghdad, Jerusalem, and Moscow alongside European cities.",
+      "C": "Correct - the plague's reach from the Levant to Scandinavia and Russia supports the Eurasian framing.",
+      "D": "The map tracks the disease's spread, not its economic effects - and it shows nothing of the kind."
     },
     "skill": "Argumentation",
     "reasoning": "Comparison",
-    "themes": ["ENV", "CDI"],
+    "themes": [
+      "ENV",
+      "CDI"
+    ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-017",
@@ -183,7 +219,10 @@
     },
     "skill": "Sourcing and Situation",
     "reasoning": "Causation",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   },
@@ -209,7 +248,9 @@
     },
     "skill": "Claims and Evidence in Sources",
     "reasoning": "Continuity and Change",
-    "themes": ["ECN"],
+    "themes": [
+      "ECN"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -235,7 +276,10 @@
     },
     "skill": "Developments and Processes",
     "reasoning": "Causation",
-    "themes": ["ECN", "CDI"],
+    "themes": [
+      "ECN",
+      "CDI"
+    ],
     "difficulty": "medium",
     "type": "mcq"
   },
@@ -261,7 +305,10 @@
     },
     "skill": "Contextualization",
     "reasoning": "Continuity and Change",
-    "themes": ["CDI", "SIO"],
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
     "difficulty": "hard",
     "type": "mcq"
   }

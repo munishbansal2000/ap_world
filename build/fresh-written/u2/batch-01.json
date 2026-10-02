@@ -175,23 +175,23 @@
   {
     "id": "wh-fresh-u2-007",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
-    "stimulus_words": 81,
-    "visual_needs_url": true,
-    "stem": "Which of the following comparisons between the overland and maritime networks shown on the map is best supported?",
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Silk Road Trade (c. 1200 CE).' Dashed red lines mark overland caravan routes running from Chang'an (Xi'an) through Samarkand, Merv, and Baghdad to Constantinople and the Black Sea ports, with a southern branch passing through India. Goods are labeled at their points of origin: silk, porcelain, paper, and tea from China; horses from Andijan; textiles from Persia; fabric, perfume, and spices from India; incense from Arabia; furs from Siberia. A blue dashed line traces the Chinese coastal route from Beijing through Hangzhou to the coast. The region over Persia is labeled 'PERSIA/ILKHANATE.'",
+    "stimulus_words": 99,
+    "visual_needs_url": false,
+    "stem": "Which of the following comparisons between the overland routes shown on the map is best supported?",
     "options": [
-      "(A) Both spread religions and technologies, but land routes depended on Mongol unity while sea routes linked independent ports.",
-      "(B) The land routes carried only luxuries, while the sea routes carried only bulk foods.",
-      "(C) Chinese admirals commanded the entire Indian Ocean trade from Quanzhou to Kilwa, while Arab merchants alone controlled every mile of the overland Silk Roads.",
-      "(D) Both networks collapsed after 1200 because Mongol conquests destroyed all long-distance trade."
+      "(A) Goods flowed both ways: China sent silk, porcelain, and tea west, while Central and West Asia supplied horses, furs, and incense in return.",
+      "(B) The land routes carried only luxuries eastward, with nothing of value moving westward at all, since Asia produced nothing anyone wanted.",
+      "(C) Chinese admirals commanded the entire coastal route from Beijing to Baghdad, while Arab merchants alone ran every mile of the inland roads.",
+      "(D) All overland trade ended by 1200 because Mongol conquests destroyed every caravan route."
     ],
     "key": "A",
-    "explanation": "Both networks moved more than goods — Buddhism traveled the Silk Roads and Islam the sea lanes, and technologies like paper and the compass diffused along them. The difference is political: the overland roads flourished under a single Mongol peace, while the Indian Ocean had no one ruling power, only independent port cities trading with one another.",
+    "explanation": "The map labels each good at its point of origin: finished luxuries like silk, porcelain, and tea flow out of China, while horses, furs, and incense originate in the interior and West Asia. The roads carried value in both directions, not just one way.",
     "option_explanations": {
-      "A": "Correct — both networks diffused religions and technologies; the land routes rested on Mongol political unity, the sea routes on independent ports.",
-      "B": "The word 'only' is wrong on both sides — overland routes carried horses and other bulk goods too, and ships carried luxuries like porcelain.",
-      "C": "No single power controlled the Indian Ocean; Arabs, Persians, Indians, and Chinese all shared it, and many peoples used the land routes.",
-      "D": "The Mongol conquests first disrupted then revived trade; the map shows the networks thriving around 1300."
+      "A": "Correct - the map's origin labels show two-way exchange: Chinese luxuries westbound, interior goods eastbound.",
+      "B": "The map shows horses, furs, and incense originating outside China and moving eastward.",
+      "C": "The map marks a Chinese coastal route but names no admirals and shows no ethnic monopolies on the inland roads.",
+      "D": "The routes shown cross Mongol-held Central Asia around 1200-1300 busy with labeled goods - the Mongol conquests secured rather than destroyed them."
     },
     "skill": "Making Connections",
     "reasoning": "Comparison",
@@ -200,28 +200,31 @@
       "CDI"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-008",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
-    "stimulus_words": 81,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Silk Road Trade (c. 1200 CE).' Dashed red lines mark overland caravan routes running from Chang'an (Xi'an) through Samarkand, Merv, and Baghdad to Constantinople and the Black Sea ports, with a southern branch passing through India. Goods are labeled at their points of origin: silk, porcelain, paper, and tea from China; horses from Andijan; textiles from Persia; fabric, perfume, and spices from India; incense from Arabia; furs from Siberia. A blue dashed line traces the Chinese coastal route from Beijing through Hangzhou to the coast. The region over Persia is labeled 'PERSIA/ILKHANATE.'",
+    "stimulus_words": 99,
+    "visual_needs_url": false,
     "stem": "The expansion of the exchange networks shown on the map is best understood in the broader context of which development?",
     "options": [
       "(A) The printing press spreading from Europe to Asia and advertising distant markets",
       "(B) The total collapse of centralized states across Eurasia, forcing merchants to trade with no protection at all",
-      "(C) Mongol unification securing overland routes, and better ships and navigation expanding sea routes",
+      "(C) Mongol unification of Central Asia securing the overland caravan routes",
       "(D) The crusades, which directly established the Indian Ocean spice trade"
     ],
     "key": "C",
-    "explanation": "Two things made the 1200s-1300s a peak of exchange: the Mongols united the Silk Road lands under one security system, and improved vessels like junks and dhows, plus better knowledge of monsoon winds, opened the seas. Together they explain why all three networks on the map were so active at once.",
+    "explanation": "Around 1200-1300 the Mongols united the lands the routes cross - Central Asia, Persia (labeled 'PERSIA/ILKHANATE'), and China - under one system of guards, relay stations, and merchant partnerships. That Mongol peace is what let the caravan networks on the map run at full capacity.",
     "option_explanations": {
       "A": "The printing press arose in Europe in the 1400s, and it spread no markets to Asia.",
       "B": "The Mongol Empire was a huge centralized state, and its protection is exactly what made the land routes safe.",
-      "C": "Correct — Mongol security on land plus maritime improvements at sea explain the simultaneous expansion.",
-      "D": "The crusades touched the eastern Mediterranean, not the Indian Ocean, whose trade long predated them."
+      "C": "Correct - Mongol security on land explains why the caravan routes shown were so busy.",
+      "D": "The crusades touched the eastern Mediterranean; they explain none of the routes on this map."
     },
     "skill": "Contextualization",
     "reasoning": "Causation",
@@ -230,14 +233,17 @@
       "TEC"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-009",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
-    "stimulus_words": 81,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Silk Road Trade (c. 1200 CE).' Dashed red lines mark overland caravan routes running from Chang'an (Xi'an) through Samarkand, Merv, and Baghdad to Constantinople and the Black Sea ports, with a southern branch passing through India. Goods are labeled at their points of origin: silk, porcelain, paper, and tea from China; horses from Andijan; textiles from Persia; fabric, perfume, and spices from India; incense from Arabia; furs from Siberia. A blue dashed line traces the Chinese coastal route from Beijing through Hangzhou to the coast. The region over Persia is labeled 'PERSIA/ILKHANATE.'",
+    "stimulus_words": 99,
+    "visual_needs_url": false,
     "stem": "The networks shown on the map most directly contributed to which of the following developments in the fourteenth century?",
     "options": [
       "(A) The complete isolation of sub-Saharan Africa from world trade",
@@ -246,10 +252,10 @@
       "(D) The end of all religious exchange between Asia and Europe"
     ],
     "key": "B",
-    "explanation": "The plague traveled the same roads and sea lanes as the merchants — from Central Asia along caravan routes to Black Sea ports like Kaffa, then by ship into the Mediterranean. The map's connected networks explain how a disease could cross the continent in just a few years.",
+    "explanation": "The plague traveled the same caravan routes as the merchants - from Central Asia along the routes shown, through Baghdad toward Black Sea ports like Constantinople, then by ship into the Mediterranean world. The map's connected networks explain how a disease could cross the continent in just a few years.",
     "option_explanations": {
-      "A": "The map shows trans-Saharan routes linking West Africa to the wider world.",
-      "B": "Correct — the plague followed the caravan and shipping routes shown on the map.",
+      "A": "The map does not show Africa at all; historically, trans-Saharan routes kept West Africa linked to world trade.",
+      "B": "Correct - the plague followed the caravan routes shown on the map.",
       "C": "Paper money continued in China; the plague did not end its use.",
       "D": "Religious exchange continued — the plague disrupted travel but did not end it."
     },
@@ -260,14 +266,17 @@
       "ECN"
     ],
     "difficulty": "medium",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   },
   {
     "id": "wh-fresh-u2-010",
     "unit": 2,
-    "stimulus": "Shared stimulus for items 007-010. Map titled 'Afro-Eurasian Trade Networks, c. 1300.' Overland Silk Roads run from Chang'an (Xi'an) through Samarkand and Baghdad to Constantinople and the Black Sea ports. Maritime routes run from Quanzhou and Hangzhou through the Strait of Malacca to Calicut, then to Hormuz, Aden, and down the East African coast to Kilwa. Trans-Saharan caravan routes connect Sijilmasa to Timbuktu and Gao. Labeled goods: silk and porcelain eastbound; horses, glass, and gold westbound; spices and textiles by sea.",
-    "stimulus_words": 81,
-    "visual_needs_url": true,
+    "stimulus": "Shared stimulus for items 007-010. Map titled 'Silk Road Trade (c. 1200 CE).' Dashed red lines mark overland caravan routes running from Chang'an (Xi'an) through Samarkand, Merv, and Baghdad to Constantinople and the Black Sea ports, with a southern branch passing through India. Goods are labeled at their points of origin: silk, porcelain, paper, and tea from China; horses from Andijan; textiles from Persia; fabric, perfume, and spices from India; incense from Arabia; furs from Siberia. A blue dashed line traces the Chinese coastal route from Beijing through Hangzhou to the coast. The region over Persia is labeled 'PERSIA/ILKHANATE.'",
+    "stimulus_words": 99,
+    "visual_needs_url": false,
     "stem": "A historian argues that the Mongol Empire was primarily a destructive force with little positive historical significance. Which of the following best evaluates that interpretation using the map?",
     "options": [
       "(A) The interpretation is fully correct, because trade routes bypassed all Mongol lands.",
@@ -276,7 +285,7 @@
       "(D) The interpretation is limited, because major overland routes crossed Central Asia at the height of Mongol power, showing Mongol rule aided exchange."
     ],
     "key": "D",
-    "explanation": "The conquests were brutally destructive, but the map shows the Silk Roads running straight through Mongol-held Central Asia around 1300, busy with labeled goods. That pattern fits the Pax Mongolica: Mongol guards, relay stations, and merchant partnerships made the land routes safer than before, so calling the empire only destructive misses a major part of the story.",
+    "explanation": "The conquests were brutally destructive, but the map shows the Silk Roads running straight through Mongol-held Central Asia around 1200-1300, busy with labeled goods. That pattern fits the Pax Mongolica: Mongol guards, relay stations, and merchant partnerships made the land routes safer than before, so calling the empire only destructive misses a major part of the story.",
     "option_explanations": {
       "A": "The routes cross Samarkand and Central Asia — the heart of Mongol territory, not around it.",
       "B": "Samarkand and Baghdad are shown within Mongol lands.",
@@ -290,6 +299,9 @@
       "CDI"
     ],
     "difficulty": "hard",
-    "type": "mcq"
+    "type": "mcq",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Silk_Road_Trade_%28c.1200_CE%29.jpg",
+    "image_license": "CC BY-SA 4.0",
+    "image_verified": "2026-10-02"
   }
 ]
