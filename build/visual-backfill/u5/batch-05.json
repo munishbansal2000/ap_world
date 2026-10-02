@@ -1,0 +1,343 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "Duncan's print shows British steam-and-sail warships annihilating Chinese junks — the industrial military gap that forced China to sign the Treaty of Nanjing (1842), opening ports and ceding Hong Kong.",
+    "id": "wh-vis-u5-041",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The one-sided naval destruction shows the industrial power gap that let Britain impose the 'unequal treaties' on China.",
+      "B": "The burning, sinking junks are Chinese; Britain won the war.",
+      "C": "The flags and 1843 date place it in the First Opium War, not the 1890s Sino-Japanese War.",
+      "D": "Britain was the aggressor, forcing the opium trade on China."
+    },
+    "options": [
+      "(A) Britain's industrial-era naval superiority let it defeat China and force open Chinese ports to foreign trade after the Treaty of Nanjing.",
+      "(B) China won the Opium War decisively, expelled the British from Chinese waters for good, and permanently closed its ports to all foreign trade forever.",
+      "(C) The image shows the Sino-Japanese War.",
+      "(D) Britain was defending itself against a Chinese invasion."
+    ],
+    "reasoning": "Causation",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image reveal about the global balance of power in the mid-19th century?",
+    "stimulus": "E. Duncan's 1843 print of the First Opium War: British warships with billowing sails fire broadsides into Chinese war junks, whose masts collapse in flames and smoke as the wooden vessels break apart.",
+    "stimulus_words": 33,
+    "themes": [
+      "ECN",
+      "GOV",
+      "TEC"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The 1857 engraving shows Indian sepoys attacking the British Redan battery at Lucknow — part of the great anti-colonial uprising Britain crushed, then used to justify replacing Company rule with direct Crown control.",
+    "id": "wh-vis-u5-042",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%22Attack_of_the_Mutineers_on_the_Redan_Battery_at_Lucknow%2C_July_30th%2C_1857%2C.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "The attackers are Indians assaulting a British position, not a British celebration.",
+      "B": "The attackers are Indian sepoys and rebels, not French troops.",
+      "C": "Correct. The image shows the scale of the 1857 anti-British revolt, after which Britain imposed direct Crown rule over India.",
+      "D": "The uniforms, setting, and 1857 date place it in India, not America."
+    },
+    "options": [
+      "(A) It shows a British victory celebration.",
+      "(B) The attackers are French troops.",
+      "(C) The image shows Indian soldiers and rebels attacking British positions in the 1857 uprising, the anti-colonial revolt that led Britain to impose direct Crown rule over India.",
+      "(D) It depicts a dramatic and bloody battle of the American Civil War in 1862 between Union and Confederate armies fiercely fighting over a heavily fortified earthwork position in Virginia."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What historical development does this image depict?",
+    "stimulus": "An 1857 engraving titled 'Attack of the Mutineers on the Redan Battery at Lucknow, July 30th, 1857': Indian sepoys in turbans and uniforms storm a British defensive earthwork, scaling its walls as British defenders fire back through smoke.",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Delacroix painted the July Revolution of 1830 — Parisians toppling Charles X — using Liberty as an allegorical woman with Phrygian cap and tricolor. Students often misdate it to 1789.",
+    "id": "wh-vis-u5-043",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1920px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The painting is dated 1830 and shows the July Revolution, not the 1789 Bastille.",
+      "B": "Correct. Delacroix commemorated the 1830 overthrow of Charles X, using the female Liberty — Phrygian cap, tricolor, musket — as revolutionary allegory.",
+      "C": "It was painted in 1830, eighteen years before the 1848 revolution.",
+      "D": "Napoleon died in 1821; the painting celebrates a popular revolt, not his empire."
+    },
+    "options": [
+      "(A) It depicts the storming of the Bastille in Paris in July of 1789.",
+      "(B) It commemorates the July Revolution of 1830 that overthrew Charles X, with Liberty personified as a woman leading the people, a common source of confusion with 1789.",
+      "(C) It was painted to celebrate the revolution of 1848 in Paris.",
+      "(D) It celebrates the military triumphs of Napoleon's empire, glorifying the emperor's conquests across Europe and portraying Liberty as the spirit of French imperial expansion."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which event does this painting actually commemorate, and why is that significant for interpreting it?",
+    "stimulus": "Delacroix's 'Liberty Leading the People' (1830): a bare-breasted woman wearing a Phrygian cap and holding the French tricolor in one hand and a musket in the other strides over a barricade of rubble and fallen bodies, leading armed men forward — a boy with pistols at her side, a top-hatted rifleman behind.",
+    "stimulus_words": 52,
+    "themes": [
+      "CDI",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The sketch shows 1848 as street warfare — citizens and soldiers fighting over improvised barricades — the revolutionary wave that shook nearly all of Europe.",
+    "id": "wh-vis-u5-044",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Attack_on_a_Barricade_in_Paris%2C_1848_WDL2946.png",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The sketch is dated 1848, not 1789.",
+      "B": "The fighting is in city streets among buildings, not in the countryside.",
+      "C": "Both sides are shown fighting; the insurgents resist rather than collapse.",
+      "D": "Correct. The barricade combat shows 1848 as mass urban insurrection spreading across European capitals."
+    },
+    "options": [
+      "(A) It shows the famous 1789 storming of the Bastille, when the Parisian crowd destroyed the royal fortress and seized its gunpowder stores.",
+      "(B) It depicts a rural peasant revolt.",
+      "(C) It shows government troops facing no resistance.",
+      "(D) The 1848 revolutions brought mass urban insurrection, ordinary people building barricades and fighting troops in the streets."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image reveal about the character of the 1848 revolutions?",
+    "stimulus": "A pencil sketch of an 1848 attack on a Paris barricade: soldiers and insurgents exchange musket fire across a heap of rubble, paving stones, and overturned carts while figures fall in the street.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The lithograph's dead bodies, fallen horse, and advancing troops show 1848's human cost — popular uprisings fought with improvised street fortifications, not just parliamentary debates.",
+    "id": "wh-vis-u5-045",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Barricade_durant_la_r%C3%A9volution_de_1848._Paris_Mus%C3%A9es_20230513123656.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The casualties and rubble show 1848 as violent urban revolt, with citizens turning city streets into battlefields.",
+      "B": "The bodies and fighting show violence, not peace.",
+      "C": "The dress and 1848 caption place it in revolutionary Paris, not Napoleon's wars.",
+      "D": "The street setting is urban Paris, not rural France."
+    },
+    "options": [
+      "(A) The 1848 uprisings were fought as violent urban revolts, with ordinary people building barricades and suffering heavy casualties.",
+      "(B) It shows a peaceful demonstration.",
+      "(C) It depicts one of Napoleon's early victories over the Austrian army in northern Italy during his famous campaigns of 1796 and 1797.",
+      "(D) It shows a revolt in rural France."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image show about how the 1848 revolution was fought?",
+    "stimulus": "An 1848 lithograph of a Paris barricade: bodies lie among rubble and a fallen horse while soldiers advance past a tangle of paving stones, beams, and overturned carts that block the street.",
+    "stimulus_words": 32,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Henri Christophe's palace — built by a formerly enslaved man turned king — used European royal architecture to declare Haiti's sovereignty and Black statehood legitimate.",
+    "id": "wh-vis-u5-046",
+    "image_license": "CC BY 2.0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Sans-Souci_Palace_Haiti_%288070547181%29.jpg/1920px-Sans-Souci_Palace_Haiti_%288070547181%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "The palace was built after independence by Haiti's own king, not by colonists.",
+      "B": "It was a royal residence, not a military fort.",
+      "C": "Correct. The grand European-style palace asserted that independent Haiti was a legitimate sovereign state ruled by Black monarchs.",
+      "D": "Sans-Souci was built in the 1810s, not the 1500s."
+    },
+    "options": [
+      "(A) It was built by French colonists as a plantation great house before the revolution began, serving as the elegant residence of a wealthy white planter family.",
+      "(B) It is a French colonial military fort constructed to defend the harbor from attack.",
+      "(C) Haiti's early leaders built European-style palaces to assert the sovereignty and legitimacy of the new Black-ruled state after independence.",
+      "(D) It was built in the 1500s by the first Spanish settlers on the island."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this building reveal about Haiti after independence?",
+    "stimulus": "A modern photograph of the ruined Sans-Souci Palace in Haiti: the grand stone shell of a multi-story palace with arched windows stands on a green hillside, its roofless walls open to the sky.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The legend shows three forces — French (blue), Anglo-Dutch (red), Prussian (black) — converging June 16–18, with the Prussians arriving from the east at Waterloo on the 18th: a coalition victory, and reading the map is required to see it.",
+    "id": "wh-vis-u5-047",
+    "image_license": "CC BY-SA 3.0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Waterloo_Campaign_map-alt3.svg/1920px-Waterloo_Campaign_map-alt3.svg.png",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The 'Allied victory' marker at Waterloo on June 18 shows Napoleon lost.",
+      "B": "Correct. The legend's three colored forces and dated arrows show a multinational coalition — including the Prussian arrival from the east — defeating Napoleon together.",
+      "C": "The legend explicitly includes Prussian movements in black; they are essential to the outcome.",
+      "D": "The legend dates the campaign June 16–18, 1815."
+    },
+    "options": [
+      "(A) Napoleon won the battle of Waterloo.",
+      "(B) Napoleon was defeated by a coalition of European powers, with Prussian troops arriving from the east at Waterloo on June 18, as the map's legend shows.",
+      "(C) Only French and British forces fought; no other powers were involved.",
+      "(D) The battle of Waterloo was fought in 1814, a full year before Napoleon's final abdication and his permanent exile to the remote island of St. Helena in the South Atlantic."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "A student reads this campaign map carefully, including its legend. Which conclusion is best supported?",
+    "stimulus": "A campaign map of Waterloo with a detailed legend: blue arrows trace French movements, red arrows Anglo-Dutch movements, and black dashed arrows Prussian movements, dated June 16 through June 18; an 'Allied victory' marker sits at Waterloo on the 18th, with Prussian arrows arriving from the east.",
+    "stimulus_words": 47,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The young General Bonaparte engraving captures the revolutionary career path: the wars let talented officers rise by merit, and French armies carried revolutionary reforms — and Napoleonic rule — across Europe.",
+    "id": "wh-vis-u5-048",
+    "image_license": "CC0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/General_Bonaparte%2C_G.40249.jpg/1920px-General_Bonaparte%2C_G.40249.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Napoleon was a Corsican artillery officer who seized power; he inherited no throne.",
+      "B": "The caption says 'General,' and the uniform is a general's — he became emperor only in 1804.",
+      "C": "He was a product of the revolution who then buried the republic.",
+      "D": "Correct. His rise through the revolutionary armies shows how the wars created new avenues of advancement and spread French power and reforms across Europe."
+    },
+    "options": [
+      "(A) He inherited the French throne from his father.",
+      "(B) The image shows him already crowned as emperor, wearing splendid imperial robes and holding the symbols of imperial power at his grand coronation ceremony.",
+      "(C) He opposed the French Revolution from the beginning.",
+      "(D) The revolutionary wars let talented officers rise by merit, and French armies spread revolutionary reforms and Napoleon's rule across Europe."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does Napoleon's early career, shown here, illustrate about the revolutionary era?",
+    "stimulus": "An engraving captioned 'GENERAL BONAPARTE': a young officer in a French general's uniform with epaulettes gazes out, his hair long in the style of the 1790s.",
+    "stimulus_words": 26,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The ambush scene shows Haitians using dense tropical forest for cover — the same environment whose yellow fever killed tens of thousands of French troops, making disease and terrain decisive allies of the revolution.",
+    "id": "wh-vis-u5-049",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Haitian_revolution.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The jungle setting shows how Haitians exploited terrain and climate — and the diseases it bred — against European armies.",
+      "B": "The Haitian fighters are attacking, not surrendering.",
+      "C": "The fighting is hand-to-hand on land, not at sea.",
+      "D": "The French lost the war; their numbers and weapons did not save them."
+    },
+    "options": [
+      "(A) Haiti's tropical terrain and disease devastated European armies, making geography and climate decisive allies of the revolution.",
+      "(B) The image shows Haitian forces surrendering to the French.",
+      "(C) It depicts a naval battle between Haitian and French ships.",
+      "(D) European armies won in Haiti because of their superior numbers, better weapons, professional military discipline, and naval support."
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What role does the environment shown here play in explaining the Haitian Revolution's outcome?",
+    "stimulus": "A 19th-century engraving of fighting in the Haitian Revolution: Black Haitian fighters ambush European soldiers in dense tropical forest, grappling hand-to-hand among thick vegetation while others fire from cover.",
+    "stimulus_words": 29,
+    "themes": [
+      "ENV",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Tegg's 1807 cartoon satirizes the blockade war: Napoleon's Continental System versus Britain's naval blockade. The well-fed John Bull implies British commercial and naval strength would outlast French economic warfare.",
+    "id": "wh-vis-u5-050",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Blockade_Against_Blockade_%28NAPOLEON_159%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "No battle is shown; the weapons are a 'wall of blockade' and rival dinners.",
+      "B": "The two figures glare at each other across a blockade wall — rivals, not allies.",
+      "C": "Correct. The cartoon mocks the rival blockades and uses John Bull's roast beef versus Napoleon's 'soupe maigre' to claim Britain's economy would win the economic war.",
+      "D": "Tegg was a London publisher; the cartoon is pro-British propaganda."
+    },
+    "options": [
+      "(A) The cartoon shows a land battle between British and French armies fighting on a battlefield.",
+      "(B) It depicts a formal military alliance between Britain and Napoleonic France against Russia, showing John Bull and Napoleon setting aside their rivalry to feast together as partners in a new coalition against the Russian Empire.",
+      "(C) Britain and France waged economic warfare through rival blockades, Napoleon's Continental System against Britain's naval blockade, and British propaganda claimed Britain's strength would outlast France.",
+      "(D) It was published by the French government to celebrate Napoleon's economic policies."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What conflict does this cartoon satirize?",
+    "stimulus": "Thomas Tegg's 1807 cartoon 'Blockade against Blockade, or John Bull a Match for Boney': John Bull peers over a wall labeled with blockade orders at a glum Napoleon eating a thin 'soupe maigre,' while Bull enjoys a hearty roast-beef dinner on his side of the wall.",
+    "stimulus_words": 46,
+    "themes": [
+      "ECN",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  }
+]

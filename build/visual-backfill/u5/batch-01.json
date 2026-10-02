@@ -1,0 +1,342 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The engraving shows an armed crowd fighting the fortress's defenders, with cannon and gunfire on both sides. The Bastille was attacked mainly for its gunpowder and arms, and July 14 became the revolution's founding symbol of popular violence toppling royal authority.",
+    "id": "wh-vis-u5-001",
+    "image_license": "CC BY 4.0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_storming_of_the_Bastille_on_the_14_July_1789._Line_engra_Wellcome_V0041874.jpg/1920px-The_storming_of_the_Bastille_on_the_14_July_1789._Line_engra_Wellcome_V0041874.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Nothing in the image suggests the king ordered the demolition; the crowd is attacking the fortress, not carrying out a royal order.",
+      "B": "Correct. The image shows an armed popular assault with cannon and gunfire; the Bastille held gunpowder the crowd wanted, and the storming became the revolution's iconic act of popular revolt.",
+      "C": "The fighters are shown as a Parisian crowd, not a foreign army, and nothing suggests an invasion.",
+      "D": "The Bastille held only a handful of prisoners in 1789; the crowd's goal was weapons and a blow against royal power, not a mass prison break."
+    },
+    "options": [
+      "(A) The crowd attacked because the king had ordered the fortress demolished as punishment for Paris's earlier riots, and the mob was merely carrying out his royal command.",
+      "(B) The crowd sought the fortress's stored gunpowder and weapons, and the attack became the violent symbol of popular revolt against royal authority.",
+      "(C) The crowd was a foreign army invading Paris to overthrow the French monarchy by force.",
+      "(D) The crowd attacked to free hundreds of political prisoners held inside the fortress dungeons."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Based on the image, which statement best explains what drove the crowd's attack on the Bastille?",
+    "stimulus": "A line engraving of the storming of the Bastille, July 14, 1789: a dense crowd of armed men and women surges toward a stone fortress through clouds of smoke. Cannon fire erupts from the fortress walls while figures in the crowd haul a cannon forward and others wave flags and pikes. The scene shows open, chaotic street fighting between the crowd and the fortress's defenders.",
+    "stimulus_words": 65,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The bent peasant carrying the other two orders visualizes the fiscal injustice of the Old Regime: the Third Estate paid most taxes while the privileged orders were exempt — a central grievance behind 1789.",
+    "id": "wh-vis-u5-002",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Allegorie_d%C3%A8di%C3%A8_au_tiers_etat_LCCN2004676887-restored.jpg/1920px-Allegorie_d%C3%A8di%C3%A8_au_tiers_etat_LCCN2004676887-restored.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The carrier-and-riders composition is a visual argument that one order supported the other two through unfair taxation.",
+      "B": "The image argues the opposite: the Third Estate was burdened, not privileged.",
+      "C": "The engraving predates and has nothing to do with Napoleon; it criticizes the Old Regime's social orders.",
+      "D": "Guilds are not shown or labeled; the figures represent the three estates, not guilds."
+    },
+    "options": [
+      "(A) The Third Estate bore the burden of taxation while the clergy and nobility were largely exempt, making the system unjust.",
+      "(B) The Third Estate enjoyed more political rights and privileges than the clergy and nobility combined.",
+      "(C) The image celebrates Napoleon's rise from the Third Estate to emperor of the French.",
+      "(D) The image shows that the trade guilds of Paris controlled the French economy and dictated tax policy to the king's ministers."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What criticism of the Old Regime does this image express?",
+    "stimulus": "An engraving titled 'Allegorie dediée au tiers état' (Allegory dedicated to the Third Estate): a peasant, labeled as the Third Estate, is bent double under the weight of two men he carries on his back — one labeled as the nobility and one as the clergy. The peasant strains forward while the two riders sit comfortably above him.",
+    "stimulus_words": 58,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Locked out of their meeting hall, the Third Estate's deputies swore the Tennis Court Oath not to separate until a constitution was written — the moment the revolution claimed sovereignty from the king.",
+    "id": "wh-vis-u5-003",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg/1920px-Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "The oath was defiance of the king, not loyalty to him; the raised arms pledge a constitution.",
+      "B": "The oath came in June 1789; the king was not executed until 1793, and no such vote is depicted.",
+      "C": "Correct. The unified raised arms and the president reading the pledge show the deputies committing to a constitution against royal wishes.",
+      "D": "No declaration of war is shown; the scene is a political oath, and war came three years later."
+    },
+    "options": [
+      "(A) The deputies swore an oath of personal loyalty to Louis XVI, promising to defend his absolute authority against all challengers and to uphold the traditional social hierarchy of the three estates.",
+      "(B) The deputies voted to have the king executed.",
+      "(C) The deputies of the Third Estate pledged not to disband until they had written a constitution, directly challenging the king's authority.",
+      "(D) The deputies declared war on Austria and Prussia."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What was the historical significance of the event depicted?",
+    "stimulus": "Jacques-Louis David's large unfinished painting of the Tennis Court Oath, June 20, 1789: inside a crowded indoor tennis court, dozens of deputies stand with their right arms raised in unison toward the center, where the assembly's president, Bailly, stands on a table reading from a document. Light streams through high windows onto the raised arms of the crowd.",
+    "stimulus_words": 58,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The Declaration's claims — liberty, property, legal equality, resistance to oppression, law as the general will — are textbook Enlightenment natural-rights ideas from thinkers like Locke, Montesquieu, and Rousseau.",
+    "id": "wh-vis-u5-004",
+    "image_license": "CC0",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/D%C3%A9claration_des_Droits_de_lHomme_et_du_Citoyen%2C_d%C3%A9cr%C3%A9t%C3%A9s_par_lAssembl%C3%A9e_Nationale_dans_les_s%C3%A9ances_du_20%2C_21%2C_23_%2C_2%2C_G.29754.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The document limits royal power rather than defending divine right.",
+      "B": "Mercantilism concerns trade policy, not the rights proclaimed here.",
+      "C": "Napoleon came to power a decade later; the 1789 text predates him.",
+      "D": "Correct. The tablet format itself echoes law-giving, and the content matches Enlightenment natural-rights philosophy."
+    },
+    "options": [
+      "(A) Medieval Catholic theology on the divine right of kings to rule without any limits.",
+      "(B) The economic doctrines of mercantilism, which taught that national wealth came from favorable trade balances and the accumulation of gold and silver in state treasuries.",
+      "(C) Napoleon's military maxims on centralized command and battlefield discipline.",
+      "(D) Enlightenment natural-rights philosophy, which held that liberty, property, and resistance to oppression belong to all men and that law expresses the general will."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "The principles proclaimed in this document drew most directly on which intellectual tradition?",
+    "stimulus": "An engraved 1789 broadside of the Declaration of the Rights of Man and of the Citizen: the text is set on two stone tablets framed by classical columns, with allegorical winged figures above and the heading addressed 'Aux représentants du peuple français' (to the representatives of the French people).",
+    "stimulus_words": 49,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "By mirroring the men's declaration — 'representatives of the nation' demanding a national assembly — de Gouges exposed the contradiction of a revolution proclaiming universal rights while excluding women.",
+    "id": "wh-vis-u5-005",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The text embraces revolutionary language ('assemblée nationale'), not royalism.",
+      "B": "Correct. The deliberate echo of the 1789 declaration shows she is applying its universal claims to women.",
+      "C": "The preamble demands women's political inclusion, the opposite of defending exclusion.",
+      "D": "Women did not gain the vote in 1791; the pamphlet demands rights, not announces their grant."
+    },
+    "options": [
+      "(A) She opposed the French Revolution and wanted to restore the monarchy.",
+      "(B) She was turning the Revolution's own logic back on itself, demanding that the rights promised to 'men' in 1789 apply to women as well.",
+      "(C) She was defending the traditional exclusion of women from politics as natural and proper, arguing that women's place was in the home rather than in the assembly.",
+      "(D) She was announcing that women had already won the vote in 1791."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the wording of this preamble reveal about the author's purpose?",
+    "stimulus": "The first page of Olympe de Gouges's 1791 pamphlet, 'Déclaration des droits de la femme et de la citoyenne.' Its preamble reads: 'Les mères, les filles, les soeurs, représentantes de la nation, demandent d'être constituées en assemblée nationale' (The mothers, daughters, and sisters, representatives of the nation, demand to be constituted as a national assembly).",
+    "stimulus_words": 55,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The National Assembly — the Third Estate's deputies joined by reformers from the other orders — governed France in the king's name, marking the transfer of sovereignty from monarch to nation.",
+    "id": "wh-vis-u5-006",
+    "image_license": "CC0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/ASSEMBLEE_NATIONALE_-_EPOQUE_DU_4_FEVRIER_1790._G.28049.jpg/1920px-ASSEMBLEE_NATIONALE_-_EPOQUE_DU_4_FEVRIER_1790._G.28049.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. A large deliberative body legislating in public, watched by galleries, shows representative sovereignty replacing absolute monarchy.",
+      "B": "The deputies were elected representatives, not royal appointees.",
+      "C": "The Assembly voted by head, not by order; the separate-orders system had been abolished in 1789.",
+      "D": "Napoleon's coronation was in 1804 in Notre-Dame, not a 1790 assembly hall."
+    },
+    "options": [
+      "(A) Sovereignty had shifted from the king ruling alone to a representative assembly claiming to speak for the nation.",
+      "(B) The king had personally appointed the deputies to advise him on financial matters, then dismissed them once they had approved his plan to raise new taxes.",
+      "(C) The assembly is shown voting by the three separate orders, as the Estates-General had traditionally done.",
+      "(D) The image shows Napoleon's coronation as emperor."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What major political change is reflected in this image?",
+    "stimulus": "An engraving of the National Assembly in session on February 4, 1790: a large hall filled with rows of seated deputies facing a central rostrum where a speaker stands, with crowded public galleries above watching the proceedings.",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Corday — a Girondin sympathizer, not a royalist — was guillotined before a mass audience. The Terror made exemplary public execution the state's tool against political enemies of every stripe.",
+    "id": "wh-vis-u5-007",
+    "image_license": "CC0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ex%C3%A9cution_%C3%A0_la_guillotine_de_Charlotte_Corday_le_17_juillet_1793._Place_de_la_R%C3%A9volution%2C_actuelle_place_de_la_Concorde%2C_G.28824.jpg/1920px-Ex%C3%A9cution_%C3%A0_la_guillotine_de_Charlotte_Corday_le_17_juillet_1793._Place_de_la_R%C3%A9volution%2C_actuelle_place_de_la_Concorde%2C_G.28824.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Victims of the Terror included nobles, clergy, and vast numbers of commoners; Corday herself was not nobility acting as such.",
+      "B": "Corday assassinated Marat because she saw him as a radical tyrant; she supported the Girondin republicans, not the monarchy.",
+      "C": "Correct. The staged public spectacle of the guillotine in a renamed 'Revolution' square shows execution deployed as revolutionary justice.",
+      "D": "The image itself, dated 1793, shows executions continuing well after 1789."
+    },
+    "options": [
+      "(A) The guillotine was used only against members of the nobility.",
+      "(B) Charlotte Corday was executed for being a secret royalist agent who had plotted with emigres to assassinate the republic's leaders.",
+      "(C) The revolutionary government used public execution as a political weapon against anyone it defined as an enemy of the revolution.",
+      "(D) Public executions had been abolished after 1789."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image best illustrate about the Reign of Terror?",
+    "stimulus": "A 1793 engraving of the execution of Charlotte Corday in the Place de la Révolution (now Place de la Concorde): a large crowd surrounds the scaffold where the guillotine stands; carts and armed guards manage the dense onlookers gathered to watch the execution of the woman who had assassinated the radical leader Marat.",
+    "stimulus_words": 53,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Gillray, a conservative satirist, portrays French revolutionaries as literal demons from hell (Pandaemonium) luring John Bull — propaganda expressing elite British fear of revolutionary contagion.",
+    "id": "wh-vis-u5-008",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Alecto_and_her_train%2C_at_the_gate_of_Pandaemonium-or-The_recruiting_sarjeant_enlisting_John-Bull%2C_into_the_Revolution_Service._%28BM_1851%2C0901.535%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The revolutionaries are drawn as monsters, which is hostility, not support.",
+      "B": "No alliance is shown; the French figures are menacing recruiters, not allies.",
+      "C": "John Bull is being recruited by the French, not marching to invade them.",
+      "D": "Correct. The demonic imagery and 'Recruiting Sarjeant' caption show a conservative warning that French radicalism threatened Britain."
+    },
+    "options": [
+      "(A) Gillray supported the French Revolution and urged Britons to join it.",
+      "(B) The cartoon celebrates a new military alliance between Britain and revolutionary France against their common continental rivals in central and eastern Europe.",
+      "(C) The cartoon shows British troops preparing to invade France.",
+      "(D) Conservative Britons feared revolutionary ideas would cross the Channel, and the cartoon mocks British radicals as dupes being recruited by French monsters."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this British cartoon reveal about British attitudes toward the French Revolution in 1790?",
+    "stimulus": "James Gillray's 1790 hand-colored cartoon 'Alecto and her train, at the gate of Pandaemonium': a monstrous fury labeled Alecto and a French drummer recruit a bewildered Englishman, 'John Bull,' into what the caption calls 'the Revolution Service,' while speech-filled papers swirl around them.",
+    "stimulus_words": 43,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The 'bungling tinkers' metaphor — incompetent repairmen making the kettle worse — satirizes the Vienna diplomats as self-serving elites whose restoration settlement damaged Europe.",
+    "id": "wh-vis-u5-009",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bodleian_Libraries%2C_The_bungling_tinkers_or%2C_Congress_of_blockheads_who_battered_a_hole_in_great_Europe%27s_kettle.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Calling the diplomats 'blockheads' who worsen the kettle's crack is contempt for their clumsy, self-interested redrawing of Europe.",
+      "B": "The mocking caption and the image of a worsening crack are criticism, not praise.",
+      "C": "Napoleon was exiled during the Congress; the figures are the allied diplomats.",
+      "D": "The cartoon is dated 1815, the year of the Congress, not 1848."
+    },
+    "options": [
+      "(A) The cartoonist saw the diplomats as clumsy elites botching the restoration of Europe's monarchies out of self-interest.",
+      "(B) The cartoonist praised the Congress for skillfully rebuilding Europe.",
+      "(C) The cartoon shows Napoleon himself directing the settlement while the allied diplomats merely watch, take notes, and carry out his personal instructions.",
+      "(D) The cartoon depicts the revolutions of 1848."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What view of the Congress of Vienna does this cartoon express?",
+    "stimulus": "An 1815 British cartoon, 'The bungling tinkers, or Congress of blockheads': bewigged diplomats hammer and patch a large cracked kettle labeled as Europe, while the caption jeers that they have 'battered a hole in great Europe's kettle.'",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The dancing circle mocks the diplomats as out-of-touch aristocrats waltzing while they restored monarchies and suppressed the nationalism and liberalism the revolutionary era had awakened.",
+    "id": "wh-vis-u5-010",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Caricature_of_CongressVienna.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "The Congress restored monarchies; it granted no popular votes.",
+      "B": "The figures dance in formal dress rather than planning war.",
+      "C": "Correct. The festive, unserious dance contrasts with the grave business of redrawing nations, implying elite indifference to popular demands.",
+      "D": "The caption names the Congress of Vienna (1814–1815), not the 1848 Frankfurt Parliament."
+    },
+    "options": [
+      "(A) It celebrates the Congress for giving ordinary people the vote.",
+      "(B) It shows the diplomats as military commanders planning a war.",
+      "(C) It portrays the peacemakers as frivolous elites who redrew Europe's borders to suit monarchs while ignoring liberal and nationalist demands.",
+      "(D) It depicts the Frankfurt Parliament of 1848, where German liberals gathered after the March revolutions to draft a constitution for a united, democratic German nation-state."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Which criticism of the Vienna settlement is this caricature making?",
+    "stimulus": "A French caricature captioned 'LE CONGRÈS': the great-power diplomats of the Congress of Vienna are drawn dancing together in a circle, arms linked, in festive dress, while Europe is rearranged around them.",
+    "stimulus_words": 32,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "difficulty": "medium",
+    "explanation": "The Society for Effecting the Abolition of the Slave Trade published the plan to visualize the Middle Passage — rows of bodies packed like cargo made the trade's cruelty undeniable to Parliament and the public.",
+    "id": "wh-vis-u5-031",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Brookes_slave_ship%2C_British_Library.jpg/1920px-Brookes_slave_ship%2C_British_Library.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The diagram was created by abolitionists to attack the trade, not by captains to promote it.",
+      "B": "Correct. The packed human figures turned abstract suffering into a concrete image that fueled abolitionist campaigns.",
+      "C": "The bodies are packed far tighter than any humane limit; the image argues the opposite.",
+      "D": "The labeled decks, hatches, and human cargo identify it as a slave ship."
+    },
+    "options": [
+      "(A) It was drawn by a slave-ship captain to attract investors to the trade.",
+      "(B) Abolitionists published the diagram to make the Middle Passage's inhumanity visible and concrete, building public support for ending the trade.",
+      "(C) It shows that slavers respected legal limits on how many people they carried.",
+      "(D) It depicts a heavily armed British warship of the Royal Navy on patrol against the pirates and privateers operating along the Atlantic Ocean trade routes."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Why did abolitionists circulate images like this one?",
+    "stimulus": "'Description of a Slave Ship' (British Library): detailed deck plans of the slave ship Brookes show cross-sections and top-down views in which every deck is filled with rows of small drawn human figures packed shoulder-to-shoulder and head-to-toe, each figure labeled.",
+    "stimulus_words": 40,
+    "themes": [
+      "SIO",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The poster's own headline — 'under the regulated slave trade' — concedes Parliament had begun regulating but not abolishing; abolitionists used the regulated stowage plan to prove the trade was unreformable.",
+    "id": "wh-vis-u5-032",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Slaveshipposter.jpg/1920px-Slaveshipposter.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Packing hundreds of people into a hull is shown as brutal, not humane.",
+      "B": "The poster was abolitionist propaganda attacking the trade, not celebrating it.",
+      "C": "The slave trade was not abolished until 1807; regulation came first.",
+      "D": "Correct. 'Regulated' reveals the intermediate stage — Parliament limiting the trade before abolishing it — and the diagram argued regulation could not make it humane."
+    },
+    "options": [
+      "(A) The poster proves that conditions on slave ships were comfortable and well regulated by law, showing that Parliament's rules had ended all suffering and made the Middle Passage a safe and humane journey for everyone aboard.",
+      "(B) It was issued by slave traders to celebrate their business and attract new investors.",
+      "(C) It shows that the slave trade had already been completely abolished by Parliament.",
+      "(D) It shows an intermediate stage in which Parliament regulated but had not yet abolished the trade, and abolitionists used the official stowage plan to argue the trade was inherently inhumane."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the wording of this poster's headline tell a historian about the state of the abolition campaign?",
+    "stimulus": "A printed poster titled 'STOWAGE OF THE BRITISH SLAVE SHIP BROOKES UNDER THE REGULATED SLAVE TRADE': cross-sections and deck plans show tightly packed rows of enslaved people, accompanied by tables and explanatory text.",
+    "stimulus_words": 33,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Crowe, an English artist touring the South in the 1850s, painted enslaved people held in a Richmond pen awaiting auction — documenting the domestic trade's commodification of human beings on the eve of the Civil War.",
+    "id": "wh-vis-u5-033",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Crowe-Slaves_Waiting_for_Sale_-_Richmond%2C_Virginia.jpg/1920px-Crowe-Slaves_Waiting_for_Sale_-_Richmond%2C_Virginia.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The seated, waiting figures and inspecting buyers show enslaved people treated as merchandise in the 1850s South.",
+      "B": "The figures are confined in a pen awaiting sale, not free workers.",
+      "C": "Richmond, Virginia, is in the American South, not the Caribbean.",
+      "D": "Crowe painted it in the 1850s–1861, just before the Civil War."
+    },
+    "options": [
+      "(A) The image documents the domestic slave trade's dehumanization, enslaved people displayed and inspected like goods, persisting in the American South into the 1860s.",
+      "(B) It shows freed Black workers happily attending a crowded public job fair to find paid employment in the hopeful years immediately after emancipation was declared across the South.",
+      "(C) It depicts enslaved laborers on a Caribbean sugar plantation.",
+      "(D) It was painted before 1800."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this painting document about slavery in the United States?",
+    "stimulus": "Eyre Crowe's 1861 painting 'Slaves Waiting for Sale, Richmond, Virginia': inside a dim slave pen, Black men, women, and children sit on benches while white buyers walk among them, inspecting them as if they were merchandise.",
+    "stimulus_words": 36,
+    "themes": [
+      "SIO",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Schoelcher's annotated draft — 'slavery is an attack on human dignity' — became the April 1848 decree by which France's Second Republic abolished slavery in its colonies.",
+    "id": "wh-vis-u5-034",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brouillon_du_d%C3%A9cret_d%E2%80%99abolition_de_l%E2%80%99esclavage_annot%C3%A9_par_Victor_Schoelcher%2C_1848.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Napoleon restored slavery in 1802; the 1848 decree reversed that.",
+      "B": "The decree abolished slavery in the colonies; metropolitan France had no slaves to free.",
+      "C": "Correct. The draft's language and 1848 date show the revolutionary government deliberately applying 'liberty, equality, fraternity' to enslaved colonial subjects.",
+      "D": "The manuscript is dated 1848, not 1789."
+    },
+    "options": [
+      "(A) Napoleon personally issued this sweeping 1848 decree to abolish slavery throughout the entire French colonial empire as a deliberate act of revolutionary justice and reform.",
+      "(B) The decree applied only within France itself.",
+      "(C) France's 1848 revolutionary government abolished slavery in the French colonies, extending revolutionary ideals of liberty and equality to enslaved people.",
+      "(D) The decree was issued during the first French Revolution in 1789."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this document represent in the history of abolition?",
+    "stimulus": "Victor Schoelcher's handwritten, annotated 1848 draft of the abolition decree: headed 'République française. Liberté — Égalité — Fraternité. Au nom du Peuple français,' it declares 'Considérant que l'esclavage est un attentat contre la dignité humaine...' (Considering that slavery is an attack on human dignity...).",
+    "stimulus_words": 44,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Alexander II emancipated the serfs by imperial decree in 1861 — reform from above meant to preserve autocracy and modernize the army and economy — but redemption payments and the commune kept peasants economically bound.",
+    "id": "wh-vis-u5-035",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Emancipation_of_the_serfs_in_1861.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The manifesto was read by a priest as an imperial decree; no peasant revolt forced it.",
+      "B": "Correct. The top-down, officially staged reading shows emancipation as the tsar's gift — legal freedom paired with economic obligations that preserved much of the old order.",
+      "C": "Peasants had to pay redemption dues for decades; the land settlement was far from free and full.",
+      "D": "The tsar remained firmly on the throne; the monarchy lasted until 1917."
+    },
+    "options": [
+      "(A) Russian peasants won emancipation through a successful revolt.",
+      "(B) The tsar freed the serfs from above to preserve autocracy and modernize Russia, but redemption payments kept peasants economically tied to the land.",
+      "(C) The decree gave peasants full, free, and unconditional ownership of all the land they worked, with no redemption payments of any kind ever required from them whatsoever.",
+      "(D) The decree abolished the Russian monarchy."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image reveal about the character of Russian emancipation?",
+    "stimulus": "An official painting of the emancipation of the serfs in 1861: a priest in ornate robes reads the imperial manifesto from a paper to a large, solemn crowd of bearded Russian peasants gathered around him.",
+    "stimulus_words": 35,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The Seneca Falls reformers consciously echoed 1776 — 'all men and women are created equal' — to claim natural rights for women, linking abolitionism and women's rights.",
+    "id": "wh-vis-u5-036",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Declaration_sentiments_foote_lrg.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "Both 'LADIES' and 'GENTLEMEN' columns appear; Frederick Douglass is among the gentlemen.",
+      "B": "The convention was organized by women reformers, not by Congress.",
+      "C": "Most organizers were abolitionists; the card's signer list includes the Black abolitionist Frederick Douglass.",
+      "D": "Correct. The card's title and the convention's text deliberately mirror the Declaration of Independence to demand women's equality."
+    },
+    "options": [
+      "(A) Every single one of the signers was a woman, and absolutely no men participated in, attended, or supported the convention in any public way whatsoever.",
+      "(B) The convention was organized by the United States Congress.",
+      "(C) The signers opposed the abolition of slavery.",
+      "(D) American women reformers modeled their demands on the Declaration of Independence, claiming the natural rights of 1776 applied to women as well."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Making Connections",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What strategy does this card show the Seneca Falls reformers using?",
+    "stimulus": "A printed 'Roll of Honor' card for the Woman's Rights Convention at Seneca Falls, New York, July 19–20, 1848: it lists the signers of the Declaration of Sentiments in two columns, 'LADIES' and 'GENTLEMEN' — the gentlemen's column including the abolitionist Frederick Douglass.",
+    "stimulus_words": 43,
+    "themes": [
+      "SIO",
+      "GOV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Wollstonecraft's 1792 Vindication argued that women, given equal education, were equally rational — applying Enlightenment reason to attack the idea of natural female inferiority.",
+    "id": "wh-vis-u5-037",
+    "image_license": "Public domain (no known copyright restrictions)",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Mary_Wollstonecraft._After_a_painting_by_John_Opie.jpg/1920px-Mary_Wollstonecraft._After_a_painting_by_John_Opie.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Wollstonecraft used Enlightenment arguments about reason and natural rights to demand women's education and equality.",
+      "B": "She welcomed the French Revolution and applied its principles to women.",
+      "C": "Her argument was for universal rights; she did not defend slavery.",
+      "D": "Women could not sit in Parliament in the 1790s; she was a writer, not an MP."
+    },
+    "options": [
+      "(A) She argued that Enlightenment ideas of reason and natural rights applied to women, and that equal education would prove women's equal rational capacity.",
+      "(B) She opposed the French Revolution as a dangerous threat to tradition and the established social order, and urged Britain to strengthen the monarchy and the established church against all democratic reforms.",
+      "(C) She wrote pamphlets in defense of slavery and the colonial plantation system.",
+      "(D) She served as an elected member of the British Parliament representing London."
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Mary Wollstonecraft, shown here, is best known for which argument?",
+    "stimulus": "A portrait after John Opie's 1797 painting of Mary Wollstonecraft, the English writer whose 1792 book 'A Vindication of the Rights of Woman' responded to the French Revolution's talk of universal rights.",
+    "stimulus_words": 32,
+    "themes": [
+      "CDI",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Article X's logic — equal punishment implies equal rights — was precisely the revolutionary universalism the male leadership refused to apply; de Gouges was guillotined in 1793.",
+    "id": "wh-vis-u5-038",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Olympe_de_Gouges_19178_%28D%C3%A9couper%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "The Assembly never adopted her declaration; women's political clubs were soon suppressed.",
+      "B": "The plaque reproduces her demand for equal rights; she was its author, not its opponent.",
+      "C": "Correct. Her articles apply the Revolution's universal logic to women — a claim the revolutionary government rejected, executing her in 1793.",
+      "D": "The declaration was written in 1791, during the first revolution."
+    },
+    "options": [
+      "(A) The National Assembly adopted her declaration as law in 1791.",
+      "(B) Olympe de Gouges opposed women's rights.",
+      "(C) De Gouges used the Revolution's own principle of equality to demand women's rights, but the revolutionary leadership rejected her claims and she was executed in 1793.",
+      "(D) The declaration was actually written much later, during the revolution of 1848, nearly sixty years after the first French Revolution had ended and Napoleon's empire had completely fallen from power."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Argumentation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this text reveal about the limits of the French Revolution's universalism?",
+    "stimulus": "A Paris memorial plaque reproducing Olympe de Gouges's 1791 Declaration of the Rights of Woman: its articles declare women's equal natural rights, including Article X — 'Woman has the right to mount the scaffold; she must equally have the right to mount the rostrum' (to speak in public and govern).",
+    "stimulus_words": 50,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Garibaldi's redshirt volunteers — the Thousand who sailed to Sicily in 1860 — show Italian unification as a popular nationalist crusade, not only Piedmontese statecraft.",
+    "id": "wh-vis-u5-039",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Garibaldi_departing_on_the_Expedition_of_the_Thousand_in_1860.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Garibaldi fought for Italian unification, not for France.",
+      "B": "Correct. The volunteer redshirts boarding boats show nationalism mobilizing ordinary Italians for unification.",
+      "C": "The Thousand sailed from Genoa to Sicily, not to America.",
+      "D": "Garibaldi was unification's most famous popular champion."
+    },
+    "options": [
+      "(A) Garibaldi fought as a general for the French army against the Austrians in the wars of northern Italy, seeking to expand French territory at Italy's expense.",
+      "(B) Italian unification drew on popular nationalist volunteers as well as state power, as the redshirted Thousand sailing to liberate the south shows.",
+      "(C) The Thousand sailed to the Americas.",
+      "(D) Garibaldi opposed Italian unification."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image show about the forces behind Italian unification?",
+    "stimulus": "An 1860 print of Garibaldi departing on the Expedition of the Thousand: Garibaldi in his red shirt directs redshirted volunteers as they board small boats at the shore, with ships waiting offshore.",
+    "stimulus_words": 32,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Proclaiming the German Empire in Louis XIV's palace — just after defeating France — was staged to symbolize German military triumph and French humiliation, cementing Prussian-led unification.",
+    "id": "wh-vis-u5-040",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Anton_von_Werner_-_Kaiserproklamation_in_Versailles_1871.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The scene is a triumphant proclamation, not a defeat.",
+      "B": "The uniforms, banners, and 1871 date place it at Versailles after the Franco-Prussian War, not Frankfurt in 1848.",
+      "C": "The emperor is proclaimed by princes and generals, not crowned by popular vote.",
+      "D": "Correct. Holding the ceremony in the defeated enemy's palace advertised that German unity was won by Prussian arms at France's expense."
+    },
+    "options": [
+      "(A) It shows Germany's defeat in war.",
+      "(B) It depicts the Frankfurt Parliament of 1848.",
+      "(C) It shows Wilhelm I being crowned by a direct popular vote of the German people in a grand, peaceful democratic ceremony celebrating German national unity, freedom, and self-determination.",
+      "(D) Staging the proclamation in the French king's palace was a deliberate symbol of German victory and French humiliation, cementing unification under Prussian leadership."
+    ],
+    "reasoning": "Causation",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Why was the location of the event shown here significant?",
+    "stimulus": "Anton von Werner's painting of the proclamation of the German Empire: on January 18, 1871, in the glittering Hall of Mirrors at Versailles, Wilhelm I of Prussia is hailed as German Emperor before an assembly of German princes and uniformed officers.",
+    "stimulus_words": 41,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  }
+]

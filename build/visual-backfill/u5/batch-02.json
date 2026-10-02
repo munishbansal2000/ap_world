@@ -1,0 +1,343 @@
+[
+  {
+    "difficulty": "hard",
+    "explanation": "Painted in 1851, the dramatic standing pose, flag, and dawn light are romantic invention, not documentation. The painting is excellent evidence of 19th-century nationalist memory — how Americans wanted to remember the founding — but weak evidence of the crossing itself.",
+    "id": "wh-vis-u5-011",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg/1920px-Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "Leutze painted in Germany in 1851, 75 years later; no one present at the crossing informed the work.",
+      "B": "Correct. The theatrical composition made decades later reflects nationalist myth-making, so it reveals memory better than fact.",
+      "C": "The crossing led to the American victory at Trenton, not a defeat.",
+      "D": "The painting was commissioned for an American audience and celebrates the American cause."
+    },
+    "options": [
+      "(A) It is a primary source painted by an eyewitness to the crossing.",
+      "(B) It is more useful as evidence of how 19th-century Americans remembered and mythologized the Revolution than as a record of the 1776 crossing itself.",
+      "(C) It shows Washington's defeat at the Battle of Trenton.",
+      "(D) It was commissioned by the British government to mock the American cause, discourage further rebellion in the colonies, and celebrate British military superiority."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "A historian studying the American Revolution finds this image. What is the most careful conclusion she can draw about its value as evidence?",
+    "stimulus": "Emanuel Leutze's 1851 painting 'Washington Crossing the Delaware': George Washington stands upright in the prow of a crowded rowboat pushing through ice chunks on a dark river at dawn, an American flag streaming behind him while soldiers strain at the oars around him. The scene is dramatic, heroic, and carefully composed — painted 75 years after the 1776 event.",
+    "stimulus_words": 59,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The tea destruction dramatized the colonists' refusal to pay Parliament's tea tax — property destruction as political protest against taxation without representation.",
+    "id": "wh-vis-u5-012",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/1920px-Boston_Tea_Party_w.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The Tea Act of 1773 kept a tax on tea; it did not ban tea.",
+      "B": "The figures dumping the tea are colonists, not a victorious British navy.",
+      "C": "Parliament was the target of the protest, not its organizer.",
+      "D": "Correct. The image shows colonists destroying taxed cargo to reject Parliament's authority to tax them."
+    },
+    "options": [
+      "(A) The colonists were protesting a British ban on all tea imports that threatened the livelihoods of colonial merchants.",
+      "(B) The image shows a British naval victory over French ships.",
+      "(C) The protest was organized and funded by the British Parliament.",
+      "(D) Colonists destroyed tea cargo to protest Parliament's claim to tax them without their consent."
+    ],
+    "reasoning": "Causation",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image show about colonial resistance before 1776?",
+    "stimulus": "A 19th-century print of the Boston Tea Party: under a moonlit sky, men in a harbor row alongside large sailing ships and heave wooden tea chests overboard into the water, where chests already float among the waves.",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "ECN"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The 1840 engraving is a later commemoration — useful for studying 19th-century American memory of the founding, not the 1776 event's details.",
+    "id": "wh-vis-u5-013",
+    "image_license": "Public domain",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Signing_the_declaration_of_their_independence_-_Ehrhart_with_acknowledgements._LCCN2011645976.jpg/1920px-Signing_the_declaration_of_their_independence_-_Ehrhart_with_acknowledgements._LCCN2011645976.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. Like Leutze's Washington, this is a 19th-century idealized commemoration; it reveals how Americans remembered the founding.",
+      "B": "Photography did not exist in 1776, and the print is dated 1840.",
+      "C": "The engraving is a composed scene, not proof of who was in the room on July 4.",
+      "D": "The engraver's credit dates it to 1840, a bank-note company issue."
+    },
+    "options": [
+      "(A) It is a 19th-century idealized commemoration, best used as evidence of how later Americans remembered the founding rather than of the 1776 event itself.",
+      "(B) It is a photograph taken during the signing in 1776.",
+      "(C) It proves that every signer shown was present in the room on July 4, 1776, signed the document on that exact day, and personally witnessed the final vote.",
+      "(D) It was printed and distributed in Philadelphia in 1776."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does the date and style of this engraving tell a historian about how to use it?",
+    "stimulus": "An 1840 engraving by the American Bank Note Company titled 'Signing the declaration of their independence': in a formal, well-lit assembly room, bewigged men in 18th-century dress gather around a central table signing a large document, arranged in a balanced, almost theatrical composition.",
+    "stimulus_words": 43,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Bolívar was a creole — American-born of Spanish descent — and creole elites led most Spanish American independence movements, seeking political power matching their economic status.",
+    "id": "wh-vis-u5-014",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Simon-Bolivar_-_Gil_de_Castro.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Bolívar was a creole of Spanish descent, not an indigenous leader.",
+      "B": "The uniform is that of a revolutionary general; the banner thanks him for liberating Peru from Spain.",
+      "C": "Correct. Creole officers like Bolívar led the independence wars and adopted European military forms to legitimize their new states.",
+      "D": "Bolívar dedicated his life to independence from Spain."
+    },
+    "options": [
+      "(A) Bolivar was an indigenous leader who rejected all European culture and military traditions, seeking instead to build a new state founded entirely on Native American customs and institutions.",
+      "(B) The portrait shows Bolivar as a loyal officer of the Spanish crown defending the empire.",
+      "(C) Bolivar was a creole elite whose military leadership of the independence wars reflects how American-born Spaniards, not the peninsulares, drove Spanish American independence.",
+      "(D) Bolivar opposed independence and fought to keep Peru under Spanish colonial rule."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this portrait suggest about the social leadership of Latin American independence?",
+    "stimulus": "José Gil de Castro's portrait of Simón Bolívar: Bolívar stands in full military dress — ornate gold-epauletted coat, white trousers, sword at his side — beneath a banner reading 'EL PERÚ RECONOCIDO A SIMÓN BOLÍVAR' (Peru grateful to Simón Bolívar), with a framed inscription below.",
+    "stimulus_words": 45,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "At Vertières (1803) Dessalines's Black army defeated the French; Haiti's 1804 independence made it the first Black republic and the only successful revolution by enslaved people.",
+    "id": "wh-vis-u5-015",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bataille_de_Verti%C3%A8res.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The charging Black troops are defeating, not suffering defeat by, the French.",
+      "B": "Correct. Vertières was the decisive Haitian victory that ended French rule and led to the 1804 founding of Haiti.",
+      "C": "The image shows Haitian soldiers advancing as an organized army, not being crushed.",
+      "D": "No American forces fought in Haiti; the combatants are Haitian and French."
+    },
+    "options": [
+      "(A) The image shows a French victory that restored slavery in Saint-Domingue, ended the Haitian rebellion for good, and returned the colony to profitable plantation production.",
+      "(B) The image shows Haitian forces defeating the French army, the decisive victory that made Haiti the first independent Black republic founded by formerly enslaved people.",
+      "(C) The image shows a slave revolt being crushed by colonial militia.",
+      "(D) The image shows American troops aiding the French in Haiti."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "Why is the battle shown here historically significant?",
+    "stimulus": "An engraving of the Battle of Vertières, 1803: Black Haitian soldiers in military uniforms charge forward with muskets and bayonets against French troops, who fall back amid smoke and fallen bodies. The Haitian attackers advance in disciplined formation.",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Raffet shows Haitian troops as a real army storming fortifications — the revolution was waged by organized Black soldiers who defeated Europe's armies.",
+    "id": "wh-vis-u5-016",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The image depicts an intense assault, not a bloodless victory.",
+      "B": "The attackers are Black Haitian troops, not French colonists.",
+      "C": "The uniforms, fort, and landscape are Haitian, not North American.",
+      "D": "Correct. The disciplined assault shows the Haitian revolution as a war fought by organized formerly enslaved soldiers."
+    },
+    "options": [
+      "(A) Haitians won independence without any fighting.",
+      "(B) The image shows French colonists bravely defending their plantations against a disorganized mob of rebels with no military training or leadership.",
+      "(C) The image depicts a battle of the American Revolution.",
+      "(D) Formerly enslaved Haitians fought as organized armies using both conventional assaults and guerrilla tactics to defeat French forces."
+    ],
+    "reasoning": "Causation",
+    "skill": "Claims and Evidence in Sources",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this image demonstrate about how the Haitian Revolution was fought?",
+    "stimulus": "Auguste Raffet's colored engraving of the combat and capture of Crête-à-Pierrot: Black Haitian soldiers swarm up a fortified hillside toward a French-held fort, firing muskets as French defenders resist; bodies lie on the slope beneath drifting smoke.",
+    "stimulus_words": 37,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "Napoleon dispatched General Leclerc's 1802 expedition to retake Saint-Domingue and restore slavery (abolished 1794). Toussaint's arrest and the war's renewal led directly to Haitian independence.",
+    "id": "wh-vis-u5-017",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/D%C3%A9barquement_en_1802_de_la_flotte_fran%C3%A7aise_%C3%A0_Saint-Domingue_%28future_Ha%C3%AFti%29_lors_de_l%27exp%C3%A9dition_contre_les_noirs_r%C3%A9volt%C3%A9s.jpg",
+    "image_verified": "2026-10-02",
+    "key": "A",
+    "option_explanations": {
+      "A": "Correct. The 1802 Leclerc expedition aimed to reimpose French control and slavery, which reignited full-scale war.",
+      "B": "The fleet came to crush the Black leadership, not to free the colony.",
+      "C": "The ships fly French flags; the expedition was French.",
+      "D": "The Louisiana Purchase was a separate 1803 diplomatic sale, not a military landing."
+    },
+    "options": [
+      "(A) Napoleon sent a French army to retake Saint-Domingue and restore slavery, which provoked the renewed war that ended in Haitian independence.",
+      "(B) The French fleet arrived to grant Saint-Domingue its independence peacefully.",
+      "(C) The image shows British troops landing to aid the Haitian rebels.",
+      "(D) The image depicts the American purchase of Louisiana from France in 1803, a peaceful diplomatic transaction negotiated by President Jefferson's envoys in Paris."
+    ],
+    "reasoning": "Causation",
+    "skill": "Contextualization",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What was the purpose of the expedition shown in this image?",
+    "stimulus": "An engraving of the French fleet disembarking at Saint-Domingue in 1802: warships crowd the harbor while rowboats ferry uniformed French soldiers ashore amid cannon smoke, as the expedition moves against the colony's Black forces.",
+    "stimulus_words": 34,
+    "themes": [
+      "GOV",
+      "SIO",
+      "ENV"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "Born enslaved, Toussaint became the revolution's general and governor; the French-style uniform in his portrait asserts his status as a legitimate military and political leader.",
+    "id": "wh-vis-u5-018",
+    "image_license": "Public domain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Toussaint_L%27Ouverture_engraving.jpg",
+    "image_verified": "2026-10-02",
+    "key": "C",
+    "option_explanations": {
+      "A": "Toussaint was born enslaved in Saint-Domingue and rose through the revolution.",
+      "B": "Toussaint led the forces that ended slavery in the colony; he did not oppose abolition.",
+      "C": "Correct. The epaulettes and uniform present him as a commanding general, claiming the authority of a head of state.",
+      "D": "Toussaint died in a French prison in 1803, not by execution in 1791."
+    },
+    "options": [
+      "(A) Toussaint was a French-born officer sent from Paris to govern the colony, suppress the slave rebellion there, and restore the plantation economy to full production under the old system.",
+      "(B) Toussaint opposed the abolition of slavery in Saint-Domingue.",
+      "(C) Toussaint rose from enslavement to command the colony's armies, and his European-style general's uniform projects his claim to legitimate authority.",
+      "(D) Toussaint was executed by the revolutionaries in 1791."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this portrait reveal about Toussaint Louverture's historical role?",
+    "stimulus": "An engraving labeled 'Toussaint L'Ouverture': a Black man in a French general's uniform with heavy epaulettes and a sash gazes directly at the viewer, his hand resting on his sword hilt.",
+    "stimulus_words": 31,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "hard",
+    "explanation": "The 1806 print dresses the Black liberator in the full regalia of European power — plumed hat, sash, sword — while the tropical backdrop marks his Haitian domain: a visual argument that Black sovereignty deserved the same recognition as European states.",
+    "id": "wh-vis-u5-019",
+    "image_license": "CC BY-SA 4.0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Toussaint_Louverture._Kupfer%2C_1806.jpg/1920px-Toussaint_Louverture._Kupfer%2C_1806.jpg",
+    "image_verified": "2026-10-02",
+    "key": "B",
+    "option_explanations": {
+      "A": "The dress is European military, not traditional African clothing.",
+      "B": "Correct. The portrait deliberately fuses European symbols of command with a Black leader to demand recognition of his authority.",
+      "C": "By 1806 Toussaint was Napoleon's prisoner; the print celebrates his leadership, not loyalty to France.",
+      "D": "The heroic full-length format honors rather than mocks him."
+    },
+    "options": [
+      "(A) It shows Toussaint wearing traditional African royal dress and ceremonial ornaments.",
+      "(B) The artist blends European symbols of military power with Toussaint's identity as a Black leader, projecting sovereignty to both European and Haitian viewers.",
+      "(C) It proves that Toussaint remained a loyal general serving Napoleon throughout his entire career, carrying out orders from Paris faithfully from his first commission to his final day.",
+      "(D) It is a British caricature mocking Toussaint's pretensions to grandeur and authority."
+    ],
+    "reasoning": "Comparison",
+    "skill": "Sourcing and Situation",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What is the artist communicating through the combination of European military dress and the tropical landscape?",
+    "stimulus": "A 1806 engraving, 'Toussaint Louverture': a full-length portrait of a Black man in an ornate plumed hat, braided military coat, sash, and sword, holding official papers, with a tropical mountain landscape behind him and his name engraved below.",
+    "stimulus_words": 38,
+    "themes": [
+      "GOV",
+      "CDI"
+    ],
+    "type": "mcq",
+    "unit": 5
+  },
+  {
+    "difficulty": "medium",
+    "explanation": "The Code civil standardized law across Napoleon's empire — equality before the law, property rights, religious toleration — while entrenching his authoritarian, patriarchal rule.",
+    "id": "wh-vis-u5-020",
+    "image_license": "CC BY 2.0",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Code_civil_des_Fran%C3%A7ais_%281804%29.jpg/1920px-Code_civil_des_Fran%C3%A7ais_%281804%29.jpg",
+    "image_verified": "2026-10-02",
+    "key": "D",
+    "option_explanations": {
+      "A": "The Code abolished feudal privileges and standardized law; it did not restore them.",
+      "B": "The title page dates it to 1804 (Year XII), after the revolution.",
+      "C": "It was imposed across France and Napoleon's satellite states, not just Paris.",
+      "D": "Correct. The 'official edition' title page shows the state publishing one uniform law code — a lasting Napoleonic reform."
+    },
+    "options": [
+      "(A) It restored feudal law and noble privilege.",
+      "(B) It was written before the French Revolution.",
+      "(C) It applied only within the city of Paris and was never enforced anywhere else in France or in the conquered satellite states of the Napoleonic empire at all.",
+      "(D) Napoleon's regime imposed a single uniform legal code, spreading legal equality and property rights while consolidating centralized authoritarian rule."
+    ],
+    "reasoning": "Continuity and Change",
+    "skill": "Developments and Processes",
+    "source_id": null,
+    "source_stimulus_words": null,
+    "stem": "What does this title page reveal about Napoleon's government?",
+    "stimulus": "The title page of the 1804 'Code civil des Français': 'CODE CIVIL DES FRANÇAIS. ÉDITION ORIGINALE ET SEULE OFFICIELLE. À PARIS, DE L'IMPRIMERIE DE LA RÉPUBLIQUE. AN XII. — 1804,' beneath an allegorical female figure of Justice with scales.",
+    "stimulus_words": 39,
+    "themes": [
+      "GOV",
+      "SIO"
+    ],
+    "type": "mcq",
+    "unit": 5
+  }
+]
