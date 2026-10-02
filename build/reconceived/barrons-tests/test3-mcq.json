@@ -1131,13 +1131,13 @@
   "id": "wh-barrons-t3-038",
   "key": "A",
   "option_explanations": {
-   "A": "Correct. The author targets the claim that pre-1948 colonial killings cannot be judged as genocide.",
+   "A": "Correct. The passage's assumption is precisely this: that extermination campaigns before 1948 broke no international law because genocide was not yet a defined crime.",
    "B": "Wrong. The author never says the Convention legalized earlier wars; she argues earlier law already forbade such acts.",
    "C": "Wrong. Germany's African colonies (including German South-West Africa) are central to the article.",
    "D": "Wrong. The article is entirely about violence that did occur before 1948."
   },
   "options": [
-   "(A) Pre-1948 colonial killings cannot be called genocide, since the crime was legally undefined.",
+   "(A) Pre-1948 colonial wars of extermination violated no international law, because the crime of genocide was only criminalized in 1948.",
    "(B) The 1948 Convention retroactively legalized all earlier colonial wars.",
    "(C) Germany never established colonies in Africa.",
    "(D) No large-scale organized violence ever occurred anywhere in the world at any time before 1948."
@@ -1317,13 +1317,13 @@
   "option_explanations": {
    "A": "Wrong. Britain was obsessed with African railways; the whole map is proof of that interest.",
    "B": "Wrong. No African kingdom built a rival transcontinental line in this era.",
-   "C": "Wrong. The Suez Canal remained open and under British influence throughout this period.",
+   "C": "Wrong. The Berlin-to-Baghdad railway was a German-Ottoman project aimed at the Middle East, not a factor in Britain's African railway plans.",
    "D": "Correct. German territory in East Africa interrupted the continuous British corridor the scheme required."
   },
   "options": [
    "(A) Britain had no real interest in African railways.",
    "(B) African kingdoms built a faster competing line.",
-   "(C) Powerful African kingdoms built a faster, better-engineered competing railway line.",
+   "(C) Germany's Berlin-to-Baghdad railway diverted British attention away from Africa.",
    "(D) German East Africa blocked Britain's hoped-for unbroken north-south corridor."
   ],
   "reasoning": "Causation",
