@@ -1,0 +1,272 @@
+[
+ {
+  "id": "princeton-pdf4-saq1",
+  "type": "saq",
+  "prompt": "Using the image, respond to parts A, B, and C. A. Explain ONE feature of this image and how it connects to nationalism from 1800 to 1900. B. Identify and explain ONE reason why nationalism became an important political movement in Germany from 1800 to 1900. C. Identify and explain ONE consequence of a Nationalist movement in Europe (other than Germany) from 1800 to 1900.",
+  "stimulus": "[IMAGE] Phillip Veit, Germania, 1848",
+  "format": "old",
+  "note": "OLD-FORMAT SAQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf4-saq2",
+  "type": "saq",
+  "prompt": "Using the passage, respond to parts A, B, and C. A. Identify and explain ONE argument made in the passage. B. Identify and explain ONE way that the development of the technology referenced above affected international relations after World War II. C. Identify and explain ONE factor that led to the development of the technology described.",
+  "stimulus": "“The fact that we can release atomic energy ushers in a new era in man’s understanding of nature’s forces. Atomic energy may in the future supplement the power that now comes from coal, oil, and falling water, but at present it cannot be produced on a basis to compete with them commercially. Before that comes there must be a long period of intensive research. It has never been the habit of the scientists of this country or the policy of this government to withhold from the world scientific knowledge. Normally, therefore, everything about the work with atomic energy would be made public. But under the present circumstances it is not intended to divulge the technical processes of production or all the military applications. Pending further examination of possible methods of protecting us and the rest of the world from the danger of sudden destruction.” Source: President Harry Truman, speech informing American citizens that an atomic weapon had been used against Japan, August 6, 1945",
+  "format": "old",
+  "note": "OLD-FORMAT SAQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf4-saq3",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C. A. Identify and explain ONE way in which improved transportation technology led to cultural diffusion during the period 1200 to 1450. B. Identify and explain ONE motivation for increased cultural interactions during the period 1200 to 1450. C. Identify and explain ONE reason for the rise of nation-states in Europe during the period 1450 to 1750.",
+  "stimulus": null,
+  "format": "old",
+  "note": "OLD-FORMAT SAQ choice (pre-Fall-2026 CED: answer Q3 or Q4)"
+ },
+ {
+  "id": "princeton-pdf4-saq4",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C. A. Identify and explain ONE way that the expansion of the British Empire changed a particular region between 1750 to 1900. B. Identify and explain ONE reason that the British Empire experienced a decline from 1900 to 2000. C. Identify and explain ONE method that the British Empire used to maintain control of its colonies from 1750 to 1900.",
+  "stimulus": null,
+  "format": "old",
+  "note": "OLD-FORMAT SAQ choice (pre-Fall-2026 CED: answer Q3 or Q4)"
+ },
+ {
+  "id": "princeton-pdf4-dbq",
+  "type": "dbq",
+  "prompt": "Using the following documents and your knowledge of world history, discuss the barriers women have faced for more equal treatment in modern society. Consider the goals and methods of such campaigns.",
+  "documents": [
+   {
+    "n": 1,
+    "text": "Source: Anna Manning Comfort, The Public 2, 1899. Home Burdens of Uncle Sam “Take up the white man’s burden” – The Negro, once our slave! Boast lightly of his freedom, This problem still is grave. We scoff and shoot and lynch him, And yet, because he’s black, We shove him out of office And crowd him off the track. “Take up the white man’s burden” – Yes, one of them is sex. Enslaved are your brave women, No ballot, while you tax! Your labors and your conflicts, Columbia’s daughters share, Yet still denied the franchise, Quick give! be just! deal fair!"
+   },
+   {
+    "n": 2,
+    "text": "Source: From the Women’s Charter, adopted at the Founding Conference of the Federation of South African Women, Johannesburg, 1954. This organisation is formed for the purpose of uniting women in common action for the removal of all political, legal, economic, and social disabilities. We shall strive for women to obtain: 1. The right to vote and to be elected to all State bodies, without restriction or discrimination. 2. The right to full opportunities for employment with equal pay and possibilities of promotion in all spheres of work. 3. Equal rights with men in relation to property, marriage and children, and for the removal of all laws and customs that deny women such equal rights. 4. For the development of every child through free compulsory educa- tion for all; for the protection of mother and child through maternity homes, welfare clinics, crèches and nursery schools, in countryside and towns; through proper homes for all, and through the provision of water, light, transport, sanitation, and other amenities of modern civilisation. 5. For the removal of all laws that restrict free movement, that prevent or hinder the right of free association and activity in democratic organi- zations, and the right to participate in the work of these organisations. 6. To build and strengthen women’s sections in the National Liberatory movements, the organisation of women in trade unions, and through the peoples’ varied organisation. 7. To cooperate with all other organisations that have similar aims in South Africa as well as throughout the world. 8. To strive for permanent peace throughout the world."
+   },
+   {
+    "n": 3,
+    "text": "Source: The Plight of Women’s Work in the Early Industrial Revolution in England and Wales, evidence taken by Children’s Employment Commission, 1841. Miss — has been for several years in the dress-making business. The common hours of business are from 8 a.m. ’til 11. p.m. in the winters; in the summer from 6 or half past 6 a.m. ’til 12 at night. During the fashionable season, that is from April ’til the later end of July, it frequently happens that the ordi- nary hours are greatly exceeded; if there is a drawing room or grand fete, or mourning to be made, it often happens that the work goes on for 20 hours out of the 24, occasionally all night. . . . The general result of the long hours and sedentary occupation is to impair seriously and very frequently to destroy the health of the young women. The digestion especially suffers, and also the lungs: pain to the side is very common, and the hands and feet die away from want of circulation and exercise. Miss — is sure that there are some thousands of young women employed in the business in London and in the country. If one vacancy were to occur now there would be 20 applicants for it. Thinks that no men could endure the work enforced from the dress-makers."
+   },
+   {
+    "n": 4,
+    "text": "Source: Aung San Suu Kyi, Nobel Prize Laureate, excerpts from keynote address at APC Conference, 1995. For millennia women have dedicated themselves almost exclusively to the task of nurturing, protecting, and caring for the young and old, striving for the condi- tions of peace that favour life as a whole. To this can be added the fact that, to the best of my knowledge, no war was ever started by women. But it is women and children who have always suffered most in situations of conflict. Now that we are gaining control of the primary historical role imposed on us of sustaining life in the context of the home and family, it is time to apply in the arena of the world the wisdom and experience thus gained in activities of peace over so many thousands of years. The education and empowerment of women throughout the world cannot fail to result in a more caring, tolerant, just, and peaceful life for all."
+   },
+   {
+    "n": 5,
+    "text": "Source: Raja Rammohan Roy, A Second Conference Between an Advocate for, and an Opponent of the Practice of Burning Widows Alive, 1820. Advocate: I alluded. . . to the real reason for our anxiety to persuade widows to follow their husbands, and for our endeavors to burn them pressed down with ropes: viz., that women are by nature of inferior understanding, without resolu- tion, unworthy of trust, subject to passions, And void of virtuous knowledge; they, according to the precepts of the Sastra, are not allowed to marry again after the demise of their husbands, and consequently despair at once of all worldly pleasure; hence it is evident, that death to these unfortunate widows is preferable to existence; for the great difficulty which a widow may experience by living a purely ascetic life, as prescribed by the Sastras, is obvious; may bring disgrace upon her paternal and maternal relations, and those that may be connected with her husband. Under these circumstances, we instruct them from their early life in the idea of the beatitude of their relations, both by birth and marriage, and their reputation in this world. From this many of them, on the death of their husbands, become desirous of accompanying them; but to remove every chance of their trying to escape from the blazing fire, in the burning them we first tie them down to the pile."
+   },
+   {
+    "n": 6,
+    "text": "Source: Pravda (Soviet Newspaper), “On the Path to a Great Emancipation,” March 8, 1929. Capitalist “democracy” has not and cannot give freedom to working and labor- ing women. Working women in all bourgeois countries are economically and politically enslaved. Middle class conventionality has a tenacious vice-grip on daily life. Advanced women workers and revolutionary women proletar- ians are persecuted. The most brutal blows of capitalist “rationalization,” unemployment, and hunger in the midst of plenty descend upon the female half of the proletariat. Fascism, Catholicism, and reformism with increasingly thoroughness exploit the historical backwardness of women workers in order to split apart the proletarian ranks and strengthen the position of imperialism. The temples of “national government”—what a thing to talk about!—are pro- tected by stone walls which prevent the participation of working women."
+   },
+   {
+    "n": 7,
+    "text": "Source: Argentine feminist Maria Eugenia Echenique, “The Emancipation of Women,” 1876. When emancipation was given to men, it was also given to women in recogni- tion of the equality of rights, consistent with the principles of nature on which they are founded, that proclaim the identity of soul between men and women. Thus, Argentine women have been emancipated by law for a long time. The code of law that governs us authorizes a widow to defend her rights in court, just as an educated woman can in North America, and like her, we can man- age the interests of our children, these rights being the basis for emancipation. What we lack is sufficient education and instruction to make use of them, in- struction that North American women have; it is not just recently that we have proclaimed our freedom. To try to question or to oppose women’s emancipa- tion is to oppose something that is almost a fact, it is to attack our laws and destroy the Republic. So let the debate be there, on the true point where it should be: whether or not it is proper for women to make use of those granted rights, asking as a conse- quence the authorization to go to the university so as to practice those rights or make them effective. And this constitutes another right and duty in woman: a duty to accept the role that our own laws bestow on her when extending the circle of her jurisdiction and which makes her responsible before the members of her family."
+   }
+  ],
+  "format": "old",
+  "note": "OLD-FORMAT DBQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf4-leq",
+  "type": "leq",
+  "prompt": "Answer Question 2 or Question 3 or Question 4.",
+  "prompts": [
+   {
+    "n": 2,
+    "prompt": "In the period 1800 to present, imperial subjects challenged their ruling empires through various methods. Develop an argument that evaluates the extent to which resistance to colonialism in the 1800s and 1900s transformed national identities."
+   },
+   {
+    "n": 3,
+    "prompt": "In the period 1750 to 1900, Enlightenment era philosophy began spreading around the world. Develop an argument that evaluates the extent to which Enlightenment philosophy transformed European culture between 1750 and 1900."
+   },
+   {
+    "n": 4,
+    "prompt": "In the period after 1950, the Cold War transformed international relations as the United States and Soviet Union sought to expand their influence. Develop an argument that evaluates the extent to which the Cold War transformed Latin American culture between 1900 and the present."
+   }
+  ],
+  "format": "old",
+  "note": "OLD-FORMAT LEQ choice of 3 (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf5-saq1",
+  "type": "saq",
+  "prompt": "Using the two passages, respond to parts A, B, and C. A. Evaluate one way in which the historical interpretation from source 1 differs from that of Source 2. B. Identify and explain ONE piece of historical evidence that would support Source 1’s interpretation of Europe’s interaction with the Americas from 1450 to 1750. C. Identify and explain ONE piece of historical evidence that would support Source 2’s interpretation of Europe’s interaction with the Americas from 1450 to 1750.",
+  "stimulus": "Source 1 “The voyages of Columbus in 1492 can rightly be said to have begun the discovery and settlement of the New World, as scores of European migrants settled open lands in the Americas and constructed exclaves of Europe on distant shores that lacked much sense of advanced civilization before their arrival. Their task was the settlement and development of wide open continents.” Source 2 “While the bounty of the New World enriched the whole world through trade and transmission once it was finally connected to the Old World in 1492, this bounty came at the cost of the blood of its inhabitants. Europeans neither ‘discovered’ nor ‘settled’ the Americas for humans had done just that for thousands of years before the arrival of the Spaniards. Instead, the Europeans conquered the Americas for God, gold, and glory.”",
+  "format": "old",
+  "note": "OLD-FORMAT SAQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf5-saq2",
+  "type": "saq",
+  "prompt": "Using the image, respond to parts A, B, and C. A. Identify and explain ONE factor that accounts for the development of the division shown on the map from 1945 to 1980. B. Identify and explain ONE economic consequence of the division shown on the map from 1945 to 1980. C. Identify and explain one CHANGE in European politics after 1990.",
+  "stimulus": "[IMAGE] [MAP: Europe circa 1946-1980, showing the division between NATO member states, Warsaw Pact states, and nonaligned/neutral countries (including Iceland, Finland, Sweden). Map labels not machine-readable; see image.]",
+  "format": "old",
+  "note": "OLD-FORMAT SAQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf5-saq3",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C. A. Identify and explain one feature of the Ottoman Empire from 1450 to 1750. B. Identify and explain one CHANGE in Ottoman society from 1750 to 1900. C. Identify and explain one CONTINUITY in Ottoman society from 1750 to 1900.",
+  "stimulus": null,
+  "format": "old",
+  "note": "OLD-FORMAT SAQ choice (pre-Fall-2026 CED: answer Q3 or Q4)"
+ },
+ {
+  "id": "princeton-pdf5-saq4",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C. A. Identify and explain ONE way in which rulers legitimized or consolidated their power during the period 1200 to 1750. B. Identify and explain ONE way that nation-states increased their power through cultural assimilation after 1750. C. Identify and explain ONE way that nation-states used religion to increase their power after 1750.",
+  "stimulus": null,
+  "format": "old",
+  "note": "OLD-FORMAT SAQ choice (pre-Fall-2026 CED: answer Q3 or Q4)"
+ },
+ {
+  "id": "princeton-pdf5-dbq",
+  "type": "dbq",
+  "prompt": "Evaluate the extent to which relations with Western states changed Latin American society from 1875 to 1950.",
+  "documents": [
+   {
+    "n": 1,
+    "text": "[IMAGE] Source: Painting by Thomas Somerscales, sinking of the Esmeralda, a Chilean wooden vessel, by the Peruvian Ironclad Huascar in the battle of Iquique during the War of the Pacific, 1879."
+   },
+   {
+    "n": 2,
+    "text": "Source: Maria Eugenia Echenique, Argentine feminist, The Emancipation of Women, 1876. When emancipation was given to men, it was also given to women in recognition of the equality of rights, consistent with the principles of nature on which they are founded, that proclaim the identity of soul between men and women. Thus, Argen- tine women have been emancipated by law for a long time. The code of law that governs us authorizes a widow to defend her rights in court, just as an educated woman can in North America, and like her, we can manage the interests of our children, these rights being the basis for emancipation. What we lack is sufficient education and instruction to make use of them, instruction that North American women have; it is not just recently that we have proclaimed our freedom. To try to question or to oppose women’s emancipation is to oppose something that is almost a fact, it is to attack our laws and destroy the Republic. So let the debate be there, on the true point where it should be: whether or not it is proper for women to make use of those granted rights, asking as a consequence the authorization to go to the university so as to practice those rights or make them effective."
+   },
+   {
+    "n": 3,
+    "text": "Source: United States Recognition of Cuba’s Independence, Resolution of the U.S. Congress, April 11, 1898. Joint Resolution for the recognition of the independence of the people of Cuba, demanding that the Government of Spain relinquish its authority and government in the Island of Cuba, and to withdraw its land and naval forces from Cuba and Cuban waters, and directing the President of the United States to use the land and naval forces of the United States to carry these resolutions into effect. Whereas, the abhorrent conditions which have existed for more than three years in the Island of Cuba, so near our own borders, have shocked the moral sense of the people of the United States, have been a disgrace to Christian civilization, culminating, as they have, in the destruction of a United States battleship, with two hundred and sixty-six of its officers and crew, while on a friendly visit in the harbor of Havana, and can not longer be endured, as has been set forth by the President of the United States in his message to Congress of April eleventh, eighteen hundred and ninety-eight, upon which the action of Congress was invited: Therefore, Resolved, by the Senate and House of Representatives of the United States of America in Congress as- sembled, First. That the people of the Island of Cuba are, and of right ought to be, free and independent. Second. That it is the duty of the United States to demand, and the Government of the United States does hereby demand, that the Government of Spain at once relinquish its authority and government in the Island of Cuba, and withdraw its land and naval forces from Cuba and Cu- ban waters. Third. That the President of the United States be, and he hereby is, directed and empowered to use the entire land and naval forces of the United States, and to call into the actual service of the United States, the militia of the several States, to such extent as may be necessary to carry these resolutions into effect. Fourth. That the United States hereby disclaims any disposition or intention to exercise sovereignty, jurisdiction, or control over said Islands except for the pacification thereof, and asserts its determination, when that is accomplished, to leave the government and control of the Island to its people. Approved, April 20, 1898."
+   },
+   {
+    "n": 4,
+    "text": "[IMAGE] Source: Photograph of Plantation in Cuba, circa 1900."
+   },
+   {
+    "n": 5,
+    "text": "Source: Pierre Denis, The Coffee Fazenda of Brazil, 1911. Each fazenda constitutes a little isolated world, which is all but self-sufficient and from which the colonists rarely issue; the life is laborious. The coffee is planted in long regular lines in the red soil, abundantly watered by the rains, on which a constant struggle must be maintained against the invasion of noxious weeds. The weeding of the plantation is really the chief labor of the colonist. It is repeated six times a year. When the coffee ripens, towards the end of June, the picking of the crop commences. Sometimes, in a good year, the crop is not all picked until November. The great advantage enjoyed by Saõ Paulo is that the whole crop arrives at maturity almost at the same moment. The crop may thus be harvested in its entirety at one picking… This entails a great reduction in the cost of production and of labor. At the time of picking the colonists are gathered into gangs. They confine themselves to loading the berries on carts, which other laborers drive to the fazenda; there the coffee is soaked, husked, dried, and selected, and then dispatched to Santos, the great export market. All these operations the colonists perform under the supervi- sion of the manager of the fazenda. A bell announces the hour for going to work; another the hour of rest; another the end of the day; the laborers have no illusions of independence. What really enables the colonists to make both ends meet is the crops they have the right to raise on their own account, some- times on allotments reserved for the purpose set apart from the coffee, and sometimes between the rows of the coffee-trees. They often think more of the clauses in their contract which relate to these crops than to those which de- termine their wages in currency… It even happens at times that the colonists produce more maize than they consume. They can then sell a few sacks at the nearest market, and add the price to their other resources. In this way crops which are in theory destined solely for their nourishment take on a different aspect from their point of view, yielding them a revenue which is not always to be despised."
+   },
+   {
+    "n": 6,
+    "text": "Source: George M. McBride: Haciendas from The Land Systems of Mexico, 1923.1 The Haciendas of Mexico are the most conspicuous feature of the land system of the country. They give to agricultural Mexico its distinctive cast, and, by their great size, create the impression that the entire land is divided into vast rural estates. These properties, indeed, are the only type of agricultural hold- ing immediately visible to the traveler in many parts of Mexico, just as the hacendado is the only type of agriculturist whose interest reach beyond the immediate neighborhood of his home...Many of the haciendas are of very great extent; it is estimated that 300 of them contain at least 25,000 acres each...The Mexican hacienda seldom contains less than 2,500 acres—whether situated in the arid plains of the north, where land is worth little or nothing, or in the densely settled areas of the Mesa Central. The haciendas are settlements complete in themselves. Indeed, few of these estates have less than a hundred, while many of them have as many as a thousand inhabitants...Furthermore, the haciendas are all named; they appear on the maps; and they are important units of public administration, often being incorporated as municipios. They include all the customary accessories of an independent community, such as a church, a store, a post office, a burying ground, and sometimes a school or hospital. Workshops are maintained, not only for the repair but even for the manufacture of machinery and of the numerous implements on the estate. The permanent population consists of an administrador, one or more majordomos, a group of foremen, and the regular peons, together with the families of these individuals. 1 Reprinted with permission of the American Geographical Society."
+   },
+   {
+    "n": 7,
+    "text": "Source: Annual Message of the President of the United States Transmitted to Congress December 3, 1912. In Central America the aim has been to help such countries as Nicaragua and Honduras to help themselves. They are the immediate beneficiaries. The national benefit to the United States is twofold. First, it is obvious that the Monroe Doctrine is more vital in the neighborhood of the Panama Canal and the zone of the Caribbean than anywhere else. There, too, the maintenance of that doctrine falls most heavily upon the United States. It is therefore essential that the countries within that sphere shall be removed from the jeopardy involved by heavy foreign debt and chaotic national finances and from the ever-present danger of international complications due to disorder at home. Hence the United States has been glad to encourage and support American bankers who were willing to lend a helping hand to the financial rehabilitation of such countries because this financial rehabilitation and the protection of their customhouses from being the prey of would-be dictators would remove at one stroke the menace of foreign creditors and the menace of revolutionary disorder."
+   }
+  ],
+  "format": "old",
+  "note": "OLD-FORMAT DBQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf5-leq",
+  "type": "leq",
+  "prompt": "Answer Question 2 or Question 3 or Question 4.",
+  "prompts": [
+   {
+    "n": 2,
+    "prompt": "Evaluate the extent to which the emergence of the Mongol Empire changed Afro Eurasian society from 1200 to 1450 CE."
+   },
+   {
+    "n": 3,
+    "prompt": "Evaluate the extent to which the Congress of Vienna transformed European politics from 1750 to 1900."
+   },
+   {
+    "n": 4,
+    "prompt": "Evaluate the extent to which European imperialism transformed Africa from 1850 to 1950."
+   }
+  ],
+  "format": "old",
+  "note": "OLD-FORMAT LEQ choice of 3 (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf6-saq1",
+  "type": "saq",
+  "prompt": "Using the two passages, respond to parts A, B, and C. A. Evaluate ONE difference between the historical interpretations of Munday and Banks on the decline of the Ottoman Empire. B. Identify and explain ONE piece of historical evidence that would support Munday’s interpretation. C. Identify and explain ONE piece of historical evidence that would support Banks’s interpretation.",
+  "stimulus": "Source 1 “The decline of the Ottoman Empire was inevitable. Such an expansive state, with a history of warfare on all its frontiers, made lifelong enemies of its most powerful neighbors. Its battles with the Habsburg Empire in Europe especially highlighted the existential struggle of Muslim vs. Christian, essentially a continuation of the centuries old crusades, demonstrated how the fortunes of the Ottoman state hinged on a single battle, for after the Ottoman defeat outside Vienna in 1683, the Ottomans would never regain their old vigor and would be pieced apart by their rivals over the succeeding centuries.” Source: Alice M. Munday, 1683: The Destiny of Empires, 1967 Source 2 “Some scholars believe that the Ottoman state was destroyed from the outside as greedy enemies parceled out significant chunks of the empire until there was nothing left but its Anatolian heartland. But this view is being convincingly challenged by scholars of late who place the decline of the Ottomans more squarely on internal division and stagnation than on external threats since, even after the Ottoman defeat at Vienna in 1683, the Ottoman Empire still controlled vast regions and commanded awesome resources, both of which could have been levied more effectively to prevent any further dismemberment of the empire.” Source: Dr. Solomon Banks, The “Inevitable” Force of History: Rethinking Ottoman Decline, 1993",
+  "format": "old",
+  "note": "OLD-FORMAT SAQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf6-saq2",
+  "type": "saq",
+  "prompt": "Use the image, respond to parts A, B, and C. A. Identify and explain ONE cultural factor that inspired the architecture depicted in the photograph before 1450. B. Identify and explain ONE way in which the architecture in the photograph compares to architecture from ANOTHER culture or civilization in the period 1200 to 1450 c.e. C. Identify and explain ONE factor which caused the architecture or artistic style depicted in the photograph to fall out of use in Spain in the period 1450 to 1750 c.e.",
+  "stimulus": "[IMAGE] Source: Photograph of the Court of the Lions, a portion of the Alhambra, a palace and fortress complex built in the mid-fourteenth century in Granada, Spain",
+  "format": "old",
+  "note": "OLD-FORMAT SAQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf6-saq3",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C. A. Identify and explain ONE way in which the Byzantine Empire interacted economically with other states in Afro Eurasia before 1450 c.e. B. Identify and explain ONE way in which European trade and commerce CHANGED between 1450 c.e. and 1750 c.e. as compared to 1200 to 1450. C. Identify and explain ONE CONTINUITY in European trade and commerce between 1450 and 1750 c.e. as compared to 1200 to 1450.",
+  "stimulus": null,
+  "format": "old",
+  "note": "OLD-FORMAT SAQ choice (pre-Fall-2026 CED: answer Q3 or Q4)"
+ },
+ {
+  "id": "princeton-pdf6-saq4",
+  "type": "saq",
+  "prompt": "Respond to parts A, B, and C. A. Identify and explain ONE way in which global economic integration increased between 1900 and the present. B. Identify and explain ONE way in which the global economy has CHANGED since 1900. C. Identify and explain ONE CONTINUITY in the global economy since 1900.",
+  "stimulus": null,
+  "format": "old",
+  "note": "OLD-FORMAT SAQ choice (pre-Fall-2026 CED: answer Q3 or Q4)"
+ },
+ {
+  "id": "princeton-pdf6-dbq",
+  "type": "dbq",
+  "prompt": "Using the documents and your knowledge of world history, explain how European nations’ relationships with their colonial holdings changed over time between 1600 and 2000.",
+  "documents": [
+   {
+    "n": 1,
+    "text": "Source: Jorge Juan and Antonio de Ulloa, Spanish mathematicians and scientists, published this account of their travels in 1748 (excerpt) At Lima, as at Quito, and all Spanish America, some of the eminent families have been long since settled there, whilst the prosperity of others is of a later date; for being the center of the whole commerce of Peru, a greater number of Europeans resort to it, than to any other city; some for trade, and others, from being invested in Spain with considerable employments: The Negroes, Mulattoes, and their descendants, form the greater number of the inhabitants; and of these are the greatest part of the mechanics… The third, and last class of inhabitants are the Indians and Mestizos, but these are very small in proportion to the largeness of the city, and the multitudes of the sec- ond class. They are employed in agriculture, in making earthen ware, and bringing all kinds of provisions to market, domestic services being performed by Negroes and Mulattoes, either slaves or free, though generally by the former."
+   },
+   {
+    "n": 2,
+    "text": "Source: Mohandas Gandhi, address to the All India Congress Committee. Bombay, India, August 8 1942. Then, there is the question of your attitude towards the British. I have noticed that there is hatred towards the British among the people. The people say they are disgusted with their behaviour. The people make no distinction between British imperialism and the British people. To them, the two are one This hatred would even make them welcome the Japanese. It is most dangerous. It means that they will exchange one slavery for another. We must get rid of this feeling. Our quarrel is not with the British people, we fight their imperialism."
+   },
+   {
+    "n": 3,
+    "text": "[IMAGE] Source: “The Rhodes Colossus: Ch,” Punch magazine, 1892."
+   },
+   {
+    "n": 4,
+    "text": "Source: Patrice Lumumba, first prime minister of the Democratic Republic of Congo, letter to his wife, 1960. Throughout my struggle for the independence of my country, I have never doubted for a single instant that the sacred cause to which my comrades and I have dedicated our entire lives would triumph in the end. But what we wanted for our country — its right to an honorable life, to perfect dignity, to independence with no restrictions — was never wanted by Belgian colonialism and its Western allies, who found direct and indirect, intentional and unintentional support among certain high officials of the United Nations, that body in which we placed all our trust when we called on it for help. They have corrupted some of our countrymen; they have bought others; they have done their part to distort the truth and defile our independence From Lumumba Speaks by Patrice Lumumba, copyright © 1972. Reprinted by permission of Little, Brown, an imprint of Hachette Book Group, Inc."
+   },
+   {
+    "n": 5,
+    "text": "Source: Fraser, Sir Andrew H. L. Among Indian Rajahs and Ryots; A Civil Servant’s Recollections and Impressions of Thirty-Seven Years of Work and Sport in the Central Provinces and Bengal. 1911. I went to India in 1871 with a good deal of British enthusiasm for the work which lay before me; but I confess that my feelings of love to the country and its peoples, and my pride and pleasure in my work, have intensified year by year. I know more of the country probably than most men. I have not only served for many years in one Province, and for five years in another; but I have also visited every Province in India twice, on Government Commissions, and seen almost every important Native State. I cannot tell of the depth of interest with which I have studied the manners and customs of the people, the various forms of their faith and practice, and the characteristics of their life in town and country. I have had experiences which are practically impossible for any man outside of India: experiences sometimes of difficulty, sometimes of anxiety, and even distress, but almost always experiences such as ought to tend to elevate the mind, to strengthen the character, and to enlarge the belief in human nature. I have found among the people of India multitudes who have elicited my kindliest feelings, and who have shown the kindliest feeling towards myself, and I have found not a few whom I value as among the wor- thiest of my friends."
+   },
+   {
+    "n": 6,
+    "text": "Source: Simón Bolívar, South American revolutionary and leading figure in Gran Colombia, address, Angostura (present-day Ciudad Bolívar, Venezuela), 1819. We are not Europeans; we are not Indians; we are but a mixed species of aborigines and Spaniards. Americans by birth and Europeans by law, we find ourselves engaged in a dual conflict: we are disputing with the natives for titles of ownership, and at the same time we are struggling to maintain our- selves in the country that gave us birth against the opposition of the invaders. Thus our position is most extraordinary and complicated. But there is more. As our role has always been strictly passive and political existence nil, we find that our quest for liberty is now even more difficult of accomplishment; for we, having been placed in a state lower than slavery, had been robbed not only of our freedom but also of the right to exercise an active domestic tyranny."
+   },
+   {
+    "n": 7,
+    "text": "[IMAGE] Source: A propaganda leaflet designed for distribution in West Africa, early 1940s"
+   }
+  ],
+  "format": "old",
+  "note": "OLD-FORMAT DBQ (pre-Fall-2026 CED)"
+ },
+ {
+  "id": "princeton-pdf6-leq",
+  "type": "leq",
+  "prompt": "Answer Question 2 or Question 3 or Question 4.",
+  "prompts": [
+   {
+    "n": 2,
+    "prompt": "Evaluate the extent to which the government of the Ottoman Empire differed from that of the Ming Empire between 1450 and 1600 C.E."
+   },
+   {
+    "n": 3,
+    "prompt": "Evaluate the extent to which the British Empire differed from the Mughal Empire from 1450 to 1750 C.E."
+   },
+   {
+    "n": 4,
+    "prompt": "Evaluate the extent to which China’s interactions with the West differed from those of Japan from 1750 to 1900 C.E."
+   }
+  ],
+  "format": "old",
+  "note": "OLD-FORMAT LEQ choice of 3 (pre-Fall-2026 CED)"
+ }
+]
