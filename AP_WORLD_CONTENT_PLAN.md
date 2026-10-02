@@ -51,8 +51,8 @@ Total 3h15m. Rubrics: DBQ 7 / LEQ 6 / SAQ 3 each. No SAQ choice, no LEQ choice �
 
 - [x] Repo scaffolded (`3625d49`→`207566a`)
 - [x] Phase 0 CED research (`a020070`)
-- [ ] Books ingested (3 books — not yet in repo; awaiting his push)
-- [ ] Reclaim pass
+- [ ] Books ingested (3 books + 3 Princeton test PDFs — in repo, organized)
+- [ ] Reclaim pass (RUNNING — extract + re-conceive from all sources)
 - [ ] Re-conception pass
 - [ ] Bank assembly + blind audit
 - [ ] Test assembly (10 tests)
