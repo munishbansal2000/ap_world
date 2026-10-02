@@ -1,0 +1,680 @@
+[
+ {
+  "id": "barrons-u9-018",
+  "unit": 9,
+  "stimulus": "The division of labor among nations is that some specialize in winning and others in losing. Our part of the world, known today as Latin America, was precocious: it has specialized in losing ever since those remote times when Renaissance Europeans ventured across the ocean and buried their teeth in the throats of the Indian civilizations. Centuries passed, and Latin America perfected its role. Our region still works as a menial. It continues to exist at the service of others’ needs, as a source and reserve of oil and iron, of copper and meat, of fruit and coffee, the raw materials and foods destined for rich countries which profit more from consuming them than Latin America does from producing them.\n\nAlong the way we have even lost the right to call ourselves Americans, although the Haitians and the Cubans appeared in history as new people a century before the Mayflower pilgrims settled on the Plymouth coast. For the world today, America is just the United States; the region we inhabit is a sub-America, a second-class America of nebulous identity.\n\nFor those who see history as a competition, Latin America’s backwardness and poverty are merely the result of its failure. We lost; others won. But the winners happen to have won thanks to our losing: the history of Latin America’s underdevelopment is an integral part of the history of world capitalism’s development.\n\nUruguayan journalist Eduardo Galeano, \nOpen Veins of Latin America\n, 1971",
+  "stem": "Which of the following most probably describes the author’s ideological stance?",
+  "options": [
+   "(A) Neo-liberal",
+   "(B) Fascist",
+   "(C) Marxist",
+   "(D) Capitalist"
+  ],
+  "key": "C",
+  "explanation": "The author mentions capitalism but in terms of condemnation, making D unlikely, and because neo-liberalism is based on admiration for capitalism, A is also wrong. Nothing in the text actively excludes fascism as a possibility, but the strong dislike of capitalism, and of taking advantage of others for profit, is a clear hint that C is much more likely.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-019",
+  "unit": 9,
+  "stimulus": "The division of labor among nations is that some specialize in winning and others in losing. Our part of the world, known today as Latin America, was precocious: it has specialized in losing ever since those remote times when Renaissance Europeans ventured across the ocean and buried their teeth in the throats of the Indian civilizations. Centuries passed, and Latin America perfected its role. Our region still works as a menial. It continues to exist at the service of others’ needs, as a source and reserve of oil and iron, of copper and meat, of fruit and coffee, the raw materials and foods destined for rich countries which profit more from consuming them than Latin America does from producing them.\n\nAlong the way we have even lost the right to call ourselves Americans, although the Haitians and the Cubans appeared in history as new people a century before the Mayflower pilgrims settled on the Plymouth coast. For the world today, America is just the United States; the region we inhabit is a sub-America, a second-class America of nebulous identity.\n\nFor those who see history as a competition, Latin America’s backwardness and poverty are merely the result of its failure. We lost; others won. But the winners happen to have won thanks to our losing: the history of Latin America’s underdevelopment is an integral part of the history of world capitalism’s development.\n\nUruguayan journalist Eduardo Galeano, \nOpen Veins of Latin America\n, 1971",
+  "stem": "Which of the following corporations would be most closely associated with the complaints voiced by the author in the above passage?",
+  "options": [
+   "(A) The Hudson’s Bay Company",
+   "(B) Coca-Cola",
+   "(C) The United Fruit Company",
+   "(D) Unilever"
+  ],
+  "key": "C",
+  "explanation": "All of the companies listed have played a role in expanding Western economic power worldwide. The one that interfered the most frequently and most forcefully in Latin American affairs, however, was the United Fruit Company.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-020",
+  "unit": 9,
+  "stimulus": "World Human Population Growth:\n\n1 \nc.e\n.–1999\n\nYear\n\nPopulation\n\n1 \nc.e\n.\n\n200 million\n\n1650\n\n500 million\n\n1850\n\n1 billion\n\n1930\n\n2 billion\n\n1975\n\n4 billion\n\n1999\n\n6 billion",
+  "stem": "Which of the following would most historians consider the best explanation for the rapid changes depicted in the chart shown above?",
+  "options": [
+   "(A) The global movement of peoples, enabled by industrial-era transportation",
+   "(B) The eradication of major famines by improvements in agricultural science",
+   "(C) The decreased impact that modern wars have had on civilian populations",
+   "(D) The effect of modern medical innovations and increased access to vaccines"
+  ],
+  "key": "D",
+  "explanation": "This question tests use of evidence and historical interpretation as well as causation. Answer A has little to do with population growth, while the steadily increasing impact of war on civilian populations makes C false. Answers B and D are commonly given as reasons for population growth, but most historians favor medical improvements as a prime cause.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-021",
+  "unit": 9,
+  "stimulus": "World Human Population Growth:\n\n1 \nc.e\n.–1999\n\nYear\n\nPopulation\n\n1 \nc.e\n.\n\n200 million\n\n1650\n\n500 million\n\n1850\n\n1 billion\n\n1930\n\n2 billion\n\n1975\n\n4 billion\n\n1999\n\n6 billion",
+  "stem": "Based on the information presented in the chart, the highest \nrate\n of growth was experienced during which of the following periods?",
+  "options": [
+   "(A) 1650–1850",
+   "(B) 1850–1930",
+   "(C) 1930–1975",
+   "(D) 1957–1999"
+  ],
+  "key": "B",
+  "explanation": "This question tests interpretation and understanding of numerical data. Rate of growth does not necessarily involve the difference between raw numbers but what percentage of difference there is between the earlier figure and the later one. By that standard, period B clearly experienced the largest change.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-022",
+  "unit": 9,
+  "stimulus": "World Human Population Growth:\n\n1 \nc.e\n.–1999\n\nYear\n\nPopulation\n\n1 \nc.e\n.\n\n200 million\n\n1650\n\n500 million\n\n1850\n\n1 billion\n\n1930\n\n2 billion\n\n1975\n\n4 billion\n\n1999\n\n6 billion",
+  "stem": "Which of the following statements about recent and future population growth is best supported by the data contained in the chart above?",
+  "options": [
+   "(A) Population growth has declined in recent years and shows little sign of rebounding.",
+   "(B) Population growth continues at roughly the same pace as over the past half century and shows no signs of slowing.",
+   "(C) Population growth has evened out in recent years and seems likely to continue on that track.",
+   "(D) Population growth continues but at a noticeably slower pace than over the past few decades."
+  ],
+  "key": "B",
+  "explanation": "This question requires knowledge of current trends as well as of information related to but not directly mentioned by the stimulus material. Population growth continues at a steady pace, and the potential for overpopulation is a key concern of the present day.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-032",
+  "unit": 6,
+  "stimulus": "Woodcut of Japanese musket troops, ca. late 1500s\n\nSenegalese troops in French service, ca. late 1800s–early 1900s",
+  "stem": "When taken together, both images are most closely connected with which of the following historical developments?",
+  "options": [
+   "(A) Western imperial domination of non-Western powers",
+   "(B) The impact of technology transfer on military affairs",
+   "(C) Agrarian revolutions against abusive centralizing powers",
+   "(D) The worldwide industrialization of weapons production"
+  ],
+  "key": "B",
+  "explanation": "This question tests interpretation and the ability to contextualize broad historical trends. These images depict the diffusion of gunpowder technology from Western armies to non-Western ones, as in B. Nothing about the images proves that the weapons are being industrially produced by the non-Western peoples in question, making D wrong. While the viewer can infer an imperial relationship from the second image, there is no evidence of one in the first, so A is unlikely. No evidence for C exists in either image.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "themes": [
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u3-013",
+  "unit": 3,
+  "stimulus": "Woodcut of Japanese musket troops, ca. late 1500s\n\nSenegalese troops in French service, ca. late 1800s–early 1900s",
+  "stem": "Deployment of the weapons depicted in the first image",
+  "options": [
+   "(A) threatened the elite warrior status traditionally afforded to Japanese samurai.",
+   "(B) rendered horseback warfare completely obsolete in Japan.",
+   "(C) brought about the full democratization of Japanese society.",
+   "(D) caused the rapid destruction of castles built during Japan’s feudal era."
+  ],
+  "key": "A",
+  "explanation": "This question tests causation. It also requires knowledge connected with the stimulus material but not referred to directly by it. Early gunpowder weapons did not render castles or cavalry obsolete, either in Europe or Japan, so B and D do not apply. Japan did not democratize until well after the trend depicted in the image. As they did with knights in Europe, gunpowder weapons threatened Japan’s samurai elite, whose status depended on their skill with pregunpowder arms and armor.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-033",
+  "unit": 6,
+  "stimulus": "Woodcut of Japanese musket troops, ca. late 1500s\n\nSenegalese troops in French service, ca. late 1800s–early 1900s",
+  "stem": "Which of the following can be most safely concluded about the African troops pictured in the second image?",
+  "options": [
+   "(A) The French Empire equipped them with Western gear mainly for the purposes of show.",
+   "(B) They were issued Western weapons due to the French Empire’s desire to defuse racial tensions.",
+   "(C) The French Empire gave them Western uniforms to indicate commitment to racial equality.",
+   "(D) They were trained in Western style to maximize the French Empire’s military manpower."
+  ],
+  "key": "D",
+  "explanation": "This question tests interpretation and contextualization of broad trends, and it requires knowledge connected with the stimulus material but not directly referred to by it. Answers B and C are unlikely due to the prevailing ideologies of imperialism and racial superiority among many Europeans in the 1800s. While A is not impossible, D refers to a standard technique used by imperial regimes.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-034",
+  "unit": 6,
+  "stimulus": "Woodcut of Japanese musket troops, ca. late 1500s\n\nSenegalese troops in French service, ca. late 1800s–early 1900s",
+  "stem": "When viewed from a comparative perspective, the Senegalese troops depicted in the second image most resemble",
+  "options": [
+   "(A) Ottoman janissaries.",
+   "(B) Roman legionaries.",
+   "(C) Indian sepoys.",
+   "(D) Spartan hoplites."
+  ],
+  "key": "C",
+  "explanation": "This question tests comparison, and it requires knowledge connected with the stimulus material but not directly referred to by it. Other imperial nations trained native troops in Western styles of fighting in order to reduce the costs of defending colonial territories. The troop type that fits this category is the Indian sepoy, as in C. No other choice applies.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-023",
+  "unit": 9,
+  "stimulus": "World’s Major Consumers of Primary Energy (1998) Measured in quadrillions of British thermal units (Btu)\n\nUnited States\n\n94.57 quadrillion Btu\n\nChina\n\n33.93 quadrillion Btu\n\nRussia\n\n25.99 quadrillion Btu\n\nJapan\n\n21.21 quadrillion Btu\n\nGermany\n\n13.83 quadrillion Btu\n\nIndia\n\n12.51 quadrillion Btu\n\nCanada\n\n11.85 quadrillion Btu\n\nFrance\n\n10.00 quadrillion Btu\n\nUnited Kingdom\n\n9.75 quadrillion Btu\n\nBrazil\n\n8.08 quadrillion Btu",
+  "stem": "The data contained in the chart above \nmost clearly\n reflects which of the following environmental developments?",
+  "options": [
+   "(A) Expansion of the global total of land under agricultural cultivation",
+   "(B) Fossil-fuel extraction",
+   "(C) Industrialization in the less developed world",
+   "(D) Large-scale resource consumption"
+  ],
+  "key": "D",
+  "explanation": "This question tests interpretation. Most of the answers provided are at least somewhat related to what the chart measures. However, the phrase “most clearly” indicates that you should look for what can be safely concluded from information contained only in the chart. While farming consumes energy, land under cultivation is a topic far removed from this chart, making A irrelevant. The energy consumed is undoubtedly based in large part on fossil fuels, but the chart does not specify energy type, making B a risky option. The nations are a mix of developed and less developed, so C is a weak choice. Resource consumption, a key environmental trend, is the main subject of the chart.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-024",
+  "unit": 9,
+  "stimulus": "World’s Major Consumers of Primary Energy (1998) Measured in quadrillions of British thermal units (Btu)\n\nUnited States\n\n94.57 quadrillion Btu\n\nChina\n\n33.93 quadrillion Btu\n\nRussia\n\n25.99 quadrillion Btu\n\nJapan\n\n21.21 quadrillion Btu\n\nGermany\n\n13.83 quadrillion Btu\n\nIndia\n\n12.51 quadrillion Btu\n\nCanada\n\n11.85 quadrillion Btu\n\nFrance\n\n10.00 quadrillion Btu\n\nUnited Kingdom\n\n9.75 quadrillion Btu\n\nBrazil\n\n8.08 quadrillion Btu",
+  "stem": "What present-day environmental issue can be associated most directly with the energy consumption measured in the chart above?",
+  "options": [
+   "(A) Desertification",
+   "(B) Global warming",
+   "(C) Soil erosion",
+   "(D) Growing stockpiles of nuclear waste"
+  ],
+  "key": "B",
+  "explanation": "The world currently faces all of these environmental issues, and all of them can be tied to one degree or another to energy consumption. Answer D relates only to one specific form of energy, and A and C are less directly connected to energy consumption. Scientific consensus agrees that consuming all but the most renewable forms of energy contributes to climate change and global warming, as in B.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ENV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u9-025",
+  "unit": 9,
+  "stimulus": "World’s Major Consumers of Primary Energy (1998) Measured in quadrillions of British thermal units (Btu)\n\nUnited States\n\n94.57 quadrillion Btu\n\nChina\n\n33.93 quadrillion Btu\n\nRussia\n\n25.99 quadrillion Btu\n\nJapan\n\n21.21 quadrillion Btu\n\nGermany\n\n13.83 quadrillion Btu\n\nIndia\n\n12.51 quadrillion Btu\n\nCanada\n\n11.85 quadrillion Btu\n\nFrance\n\n10.00 quadrillion Btu\n\nUnited Kingdom\n\n9.75 quadrillion Btu\n\nBrazil\n\n8.08 quadrillion Btu",
+  "stem": "Based on the data presented in the chart above, which of the following conclusions can one safely make?",
+  "options": [
+   "(A) The top energy-consuming nations are to be found mainly in the developed world.",
+   "(B) Brazil has a smaller population than China does.",
+   "(C) Russia is a more efficient consumer of energy than China is.",
+   "(D) Japan has a larger population than India does."
+  ],
+  "key": "A",
+  "explanation": "This question requires use of evidence. Since it does not provide population data, this chart does not allow safe conclusions to be reached about efficiency or per capita consumption, making B, C, and D poor choices—even though B is in fact true.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-007",
+  "unit": 5,
+  "stimulus": "The intention of the unbelievers in their governments is only the fulfilling of their lusts, for they are like the beasts. The purpose of the Muslims in their governments is to strip evil things from religious and temporal affairs. Every governor should strive to fortify strongholds and wage holy war against the unbelievers and combat every cause of corruption which occurs in his country. The governor shall strive to repair the mosques, and establish the five prayers in them, and order the people to strive to read the Quran, and make [others] read it, and learn knowledge, and teach it; and he should strive to reform the markets and set to rights the affairs of the poor and the needy.\n\nUsman dan Fodio, founder of the Sokoto Caliphate, \nBook of the Difference between the Governments of the Muslims and the Governments of the Unbelievers\n, ca. 1802",
+  "stem": "The passage above is best seen as exemplifying which of the following?",
+  "options": [
+   "(A) The launch of a national-liberation movement against foreign colonizers",
+   "(B) A call for revolution based on the primacy of natural rights",
+   "(C) The proclamation or justification of jihad",
+   "(D) A manifesto explaining the causes behind a general strike"
+  ],
+  "key": "C",
+  "explanation": "This question requires interpretation and contextualization. The Fulani revolt that led to the founding of the Sokoto Caliphate involved one group rising up against another, making A not unreasonable, but it was not a national-liberation movement of the type that later emerged in colonized places such as Cuba or India. Aside from a vague concern for the “poor and needy,” neither economic concerns nor natural rights are discussed in this document, making D and B unlikely. The author refers openly to holy war, leaving C as the clearly best option.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-008",
+  "unit": 5,
+  "stimulus": "The intention of the unbelievers in their governments is only the fulfilling of their lusts, for they are like the beasts. The purpose of the Muslims in their governments is to strip evil things from religious and temporal affairs. Every governor should strive to fortify strongholds and wage holy war against the unbelievers and combat every cause of corruption which occurs in his country. The governor shall strive to repair the mosques, and establish the five prayers in them, and order the people to strive to read the Quran, and make [others] read it, and learn knowledge, and teach it; and he should strive to reform the markets and set to rights the affairs of the poor and the needy.\n\nUsman dan Fodio, founder of the Sokoto Caliphate, \nBook of the Difference between the Governments of the Muslims and the Governments of the Unbelievers\n, ca. 1802",
+  "stem": "Which of the following political concepts would hold the most meaning for the author of the passage above?",
+  "options": [
+   "(A) Dar al-Islam",
+   "(B) The mandate of heaven",
+   "(C) Divine right",
+   "(D) The circle of justice"
+  ],
+  "key": "A",
+  "explanation": "The mandate of heaven is a Chinese concept, while divine right theory belongs to seventeenth- and eighteenth-century Europe, making B and C invalid choices. The circle of justice concept, described in D, comes from the Ottoman Empire (and \nearlier regimes in the Middle East) and is thus somewhat more relevant but still not correct. The notion that Dar al-Islam—the “house of peace”—must be protected and expanded wherever possible for the benefit of those who worship correctly is precisely the author’s point, making A the correct answer.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-009",
+  "unit": 5,
+  "stimulus": "The intention of the unbelievers in their governments is only the fulfilling of their lusts, for they are like the beasts. The purpose of the Muslims in their governments is to strip evil things from religious and temporal affairs. Every governor should strive to fortify strongholds and wage holy war against the unbelievers and combat every cause of corruption which occurs in his country. The governor shall strive to repair the mosques, and establish the five prayers in them, and order the people to strive to read the Quran, and make [others] read it, and learn knowledge, and teach it; and he should strive to reform the markets and set to rights the affairs of the poor and the needy.\n\nUsman dan Fodio, founder of the Sokoto Caliphate, \nBook of the Difference between the Governments of the Muslims and the Governments of the Unbelievers\n, ca. 1802",
+  "stem": "The author of the passage above would most likely support which of the following political principles?",
+  "options": [
+   "(A) The separation of church and state",
+   "(B) Universal suffrage regardless of gender",
+   "(C) Freedom of thought and expression",
+   "(D) Placing political and religious authority in the hands of one person"
+  ],
+  "key": "D",
+  "explanation": "The author is talking about the exact opposite of separating church and state, and there is little room for the opinions of non-Muslims in his political vision, making A and C incorrect choices. The right to vote is not discussed at all, so one should avoid B as well. The very concept of the caliphate is based on the belief that religious and political authority should go hand in hand, making D the only acceptable answer.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-010",
+  "unit": 5,
+  "stimulus": "Thomas Astley and John Greene, “The Silk Manufacture in China,” ca. 1750",
+  "stem": "The image above relates most directly to which economic trend or practice?",
+  "options": [
+   "(A) Inclusion of women in the workplace",
+   "(B) Protoindustrialization",
+   "(C) Standardization of weights and measures",
+   "(D) The rise of coerced labor in traditional modes of production"
+  ],
+  "key": "B",
+  "explanation": "The image shows the use of machines in Chinese silk production, similar to many of the devices that were simultaneously being incorporated into Europe’s textile industries, pointing clearly to B. The image gives no indication of the conditions under which silk workers labored, and since one should not make assumptions based on other cultures’ clothing and hairstyles, even the gender of the workers remains unclear, so A and D are not safe answers. However important standardization is to a modern economy, it is not relevant to this image, excluding C.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-011",
+  "unit": 5,
+  "stimulus": "Thomas Astley and John Greene, “The Silk Manufacture in China,” ca. 1750",
+  "stem": "The scenes depicted in the image above appear to contradict what commonly held assumption about China during the 1700s?",
+  "options": [
+   "(A) Gender discrimination, justified by Confucian ideology, kept women from working outside the home.",
+   "(B) Complacency discouraged eighteenth-century China from modernizing economic production.",
+   "(C) China’s rulers focused most of their economic policy making on building a more efficient army and navy.",
+   "(D) Technological innovation occurred in China only rarely and without major impact."
+  ],
+  "key": "B",
+  "explanation": "While gender discrimination was prevalent in eighteenth-century China, it has little relevance to this question, making A wrong. Answer D is simply untrue, considering that China was the source of some of the world’s most important inventions, such as gunpowder and the magnetic compass. China’s leaders failed to address, never mind accomplish, the military improvements mentioned in C. What is valid as a general trend—even though the mechanization depicted in the image undercuts and qualifies it somewhat—is the overconfidence of China’s Qing rulership in the 1700s, which caused China to lag behind the nations of the West in terms of economic and technological advancement.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Argumentation",
+  "reasoning": "Comparison",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-012",
+  "unit": 5,
+  "stimulus": "Thomas Astley and John Greene, “The Silk Manufacture in China,” ca. 1750",
+  "stem": "If the silk whose production is depicted above was sold to European merchants, it would most likely have been traded for which of the following commodities?",
+  "options": [
+   "(A) Opium",
+   "(B) Metalware",
+   "(C) Tea",
+   "(D) Silver"
+  ],
+  "key": "D",
+  "explanation": "This question requires an understanding of the broader context related to the stimulus material. China produced metalware of equal or superior quality to anything available elsewhere, and it was a major exporter of tea, so B and C are poor choices. In the 1700s and early 1800s, the balance of trade between China and European merchants greatly favored the former; China sold luxury goods, including silk, in exchange for massive quantities of silver currency but allowed few foreign goods into the country. This makes D the best answer. While the Chinese indeed purchased opium, as in A, this was part of an illegal trade encouraged by Western merchants angered at the uneven balance of trade.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Making Connections",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u8-008",
+  "unit": 8,
+  "stimulus": "Is it not unity alone that can weld us into an effective force, capable of creating our own progress and making our valuable contribution to world peace? Which independent African state will claim that its financial structure and banking institutions are fully harnessed to its national development? Which will claim that its material resources and human energies are available for its own national aspirations? We are fast learning that political independence is not enough to rid us of the consequences of colonial rule. We have been too busy nursing our separate states to understand fully the basic need for union, rooted in common purpose, common planning and common endeavour.\n\nGhana’s president, Kwame Nkrumah, addressing the Organization of African Unity, 1963",
+  "stem": "The speaker in the passage above is espousing which of the following causes?",
+  "options": [
+   "(A) Nationalism",
+   "(B) Socialism",
+   "(C) Pan-Africanism",
+   "(D) Neocolonialism"
+  ],
+  "key": "C",
+  "explanation": "This question involves use of evidence, historical interpretation, and contextualization. The ideologies named in A and D are diametrically opposed to Nkrumah’s worldview, and although he had some sympathy for socialism, it is not the subject of this speech. Nkrumah’s great political goal was to persuade the newly liberated countries of Africa to put aside their national differences and join together in a strong Pan-Africanist union.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u8-009",
+  "unit": 8,
+  "stimulus": "Is it not unity alone that can weld us into an effective force, capable of creating our own progress and making our valuable contribution to world peace? Which independent African state will claim that its financial structure and banking institutions are fully harnessed to its national development? Which will claim that its material resources and human energies are available for its own national aspirations? We are fast learning that political independence is not enough to rid us of the consequences of colonial rule. We have been too busy nursing our separate states to understand fully the basic need for union, rooted in common purpose, common planning and common endeavour.\n\nGhana’s president, Kwame Nkrumah, addressing the Organization of African Unity, 1963",
+  "stem": "Which of the following diplomatic postures toward the Cold War would Nkrumah most likely have wished African nations to take?",
+  "options": [
+   "(A) Alliance with the United States and NATO nations",
+   "(B) Nonalignment with respect to the superpowers",
+   "(C) Cautious cooperation with the Soviet Union",
+   "(D) Armed defiance against former colonizing powers such as Britain and France"
+  ],
+  "key": "B",
+  "explanation": "Knowledge of context would be enough to recall that Nkrumah, like Nasser in Egypt and Sukarno in Indonesia, was a major figure in the Non-Aligned Movement, as in B. Beyond that, his focus on African self-reliance and unity—and the lack in his speech of any aggressive language or declared preference for either superpower—also allows the reader to reason toward B to the exclusion of the other possible answers.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u8-010",
+  "unit": 8,
+  "stimulus": "Is it not unity alone that can weld us into an effective force, capable of creating our own progress and making our valuable contribution to world peace? Which independent African state will claim that its financial structure and banking institutions are fully harnessed to its national development? Which will claim that its material resources and human energies are available for its own national aspirations? We are fast learning that political independence is not enough to rid us of the consequences of colonial rule. We have been too busy nursing our separate states to understand fully the basic need for union, rooted in common purpose, common planning and common endeavour.\n\nGhana’s president, Kwame Nkrumah, addressing the Organization of African Unity, 1963",
+  "stem": "Which of the following factors was most important in preventing the fulfillment of the political dreams described in the passage above?",
+  "options": [
+   "(A) A lack of common ethnicity, language, or religion",
+   "(B) The spread of communism throughout the continent",
+   "(C) Armed intervention on the part of the Cold War superpowers",
+   "(D) Africa’s shortage of natural resources"
+  ],
+  "key": "A",
+  "explanation": "This question, related to the previous one, touches on the same skills but also focuses on causation. Even more so than Nasser’s Pan-Arab aspirations, Nkrumah’s Pan-Africanism proved limited in potential. The factors described in answers B and C had some bearing on this, but D most certainly did not—Africa is incredibly rich in natural resources, which include gold, diamonds, oil, and uranium. Unfortunately for Nkrumah, Africa is so diverse in terms of ethnicity, language, and culture that Pan-Africanists had few if any unifying factors on which to base their movement.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u4-011",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "The map above most clearly indicates that which of the following is true about European colonization of the non-Western world in the 1600s and 1700s?",
+  "options": [
+   "(A) The English were particularly interested in controlling North Atlantic whaling grounds.",
+   "(B) French, Dutch, and English colonial authority extended primarily to places easily reached by sea.",
+   "(C) Dutch colonial expansion came in many cases at the expense of the Portuguese.",
+   "(D) The English, Dutch, and French were less interested than Spain in overseas colonization."
+  ],
+  "key": "B",
+  "explanation": "This question requires use of evidence and some contextualization. As always with this sort of question, be careful not to choose answers that are correct in fact but not supported by the image, map, or chart provided. While the map shows that the territorial extent of French, Dutch, and English colonies was smaller than that of Spain’s empire, it says nothing about those countries’ lack of interest in colonies, making D wrong. Lack of information about intentions similarly excludes A, nor does the map provide information to support C—even though C describes what actually happened. The map does show that at least for now, these three nations maintained a colonial presence only where sea power could readily support it.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book",
+  "visual_stimulus": true
+ },
+ {
+  "id": "barrons-u4-012",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Which of the following scientific or technological innovations most directly enabled the colonial expansion depicted by the map above?",
+  "options": [
+   "(A) The shipboard chronometer",
+   "(B) The lateen sail",
+   "(C) The sailing gunship",
+   "(D) The sternpost rudder"
+  ],
+  "key": "C",
+  "explanation": "This question requires information related to the stimulus material but not directly referred to by it. In this case, the issue has to do with background and causation. Answer B is more appropriate to the Indian Ocean trade network, and the influence of D was felt earlier than the time period depicted in the map. Answer A refers to a later innovation (which allowed for the relatively easy calculation of longitude). The sailing gunship referred to in C allowed the European projection of force and also permitted the French, English, and Dutch to compete with rivals like the Spanish and Portuguese for control over colonies and sea routes.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book",
+  "visual_stimulus": true
+ },
+ {
+  "id": "barrons-u4-013",
+  "unit": 4,
+  "stimulus": null,
+  "stem": "Colonial interest in the Caribbean during this era was motivated primarily by which of the following?",
+  "options": [
+   "(A) The fur trade",
+   "(B) Rich fishing stocks",
+   "(C) Silver mining",
+   "(D) Sugar production"
+  ],
+  "key": "D",
+  "explanation": "This question tests knowledge beyond the stimulus material. European exploration and colonization in the Americas was driven by a desire for all the goods listed, but fur hunting and fishing, as in A and B, dominated in the northern latitudes, while the principal sources of silver, as in C, were in South America. For years, the Caribbean was the world’s center for sugarcane production—a development that, unfortunately, encouraged the Atlantic slave trade.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book",
+  "visual_stimulus": true
+ },
+ {
+  "id": "barrons-u5-013",
+  "unit": 5,
+  "stimulus": "GENTLEMEN: A prejudice, too long maintained, is about to fall. I require you to promulgate throughout the colony [of Saint-Domingue] the instructions of [France’s] National Assembly of the 8th of March, which gives without distinction, to all free citizens, the right of admission to all offices and functions. My pretensions are just, and I hope you will pay due regard to them. I shall not call the plantations to rise; that means would be unworthy of me. Learn to appreciate the merit of a man whose intention is pure. When I solicited from the National Assembly a decree which I obtained in favor of the colonists, formerly known under the injurious epithet of \nmulattos\n, I did not include in my claims the condition of the negroes who live in servitude. Our adversaries have misrepresented my steps in order to bring me into discredit. No, no, gentlemen, we have put forth a claim only on behalf of a class of freemen, who, for two centuries, have been under the yoke of oppression. We require the execution of the decree of the 8th of March. Before employing my means, I make use of mildness. But if, contrary to my expectation, you do not satisfy my demand, I am not answerable for the disorder into which my just vengeance may carry me.\n\nVincent Ogé, mixed-race aristocrat from the French colony of Saint-Domingue and leader of the 1790 Cap-Français revolt, letter to the Provincial Assembly of Le Cap, 1790",
+  "stem": "Into which of the following contexts does the passage above fit most squarely?",
+  "options": [
+   "(A) Disagreement about how widely to apply the rights proclaimed by the French Revolution",
+   "(B) Debates about how to regulate sugar production in France’s overseas possessions",
+   "(C) Expressions of the universal desire among France’s Caribbean colonists to abolish slavery",
+   "(D) Arguments about whether French colonies ought to declare independence"
+  ],
+  "key": "A",
+  "explanation": "This question requires the interpretation of evidence. None of the answers is unrelated to the issues that revolutionary France had to answer when it came to dealing with slavery, colonial policy, and the treatment of minority populations. Careful reading, however, makes it clear that Ogé is interested in the rights of mixed-race and black people who are already free, not in the extension of rights to slaves. Independence and the sugar trade are not mentioned directly or implicitly. This makes A the only viable answer.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-014",
+  "unit": 5,
+  "stimulus": "GENTLEMEN: A prejudice, too long maintained, is about to fall. I require you to promulgate throughout the colony [of Saint-Domingue] the instructions of [France’s] National Assembly of the 8th of March, which gives without distinction, to all free citizens, the right of admission to all offices and functions. My pretensions are just, and I hope you will pay due regard to them. I shall not call the plantations to rise; that means would be unworthy of me. Learn to appreciate the merit of a man whose intention is pure. When I solicited from the National Assembly a decree which I obtained in favor of the colonists, formerly known under the injurious epithet of \nmulattos\n, I did not include in my claims the condition of the negroes who live in servitude. Our adversaries have misrepresented my steps in order to bring me into discredit. No, no, gentlemen, we have put forth a claim only on behalf of a class of freemen, who, for two centuries, have been under the yoke of oppression. We require the execution of the decree of the 8th of March. Before employing my means, I make use of mildness. But if, contrary to my expectation, you do not satisfy my demand, I am not answerable for the disorder into which my just vengeance may carry me.\n\nVincent Ogé, mixed-race aristocrat from the French colony of Saint-Domingue and leader of the 1790 Cap-Français revolt, letter to the Provincial Assembly of Le Cap, 1790",
+  "stem": "Which of the following best describes the position advocated by the author of the above passage?",
+  "options": [
+   "(A) The ideals proclaimed by the Declaration of the Rights of Man cannot be fully realized unless they are extended to all slaves living under French rule.",
+   "(B) Liberating slave populations is an overly radical step that goes against the laws of God and man.",
+   "(C) The rights guaranteed by the French Revolution should be extended to all free men regardless of race, but this does not necessarily imply freeing slaves.",
+   "(D) In order to justify continued authority over its Caribbean colonies, revolutionary France must allow them more political autonomy."
+  ],
+  "key": "C",
+  "explanation": "This question tests use of evidence and interpretation. Although questions of political authority are at stake here, nowhere does the question of greater independence for its own sake arise, making D unlikely. The author is clearly anxious to create the impression that he wants to end slavery, so A cannot be true, but there is nothing to indicate that he is pro-slavery, so B is an unsafe response. (The evidence leaves it uncertain as to whether the author supports slavery, opposes slavery but views abolition as too radical a goal to pursue, or simply has no strong feelings against it.) Answer C encapsulates the author’s views accurately.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-015",
+  "unit": 5,
+  "stimulus": "GENTLEMEN: A prejudice, too long maintained, is about to fall. I require you to promulgate throughout the colony [of Saint-Domingue] the instructions of [France’s] National Assembly of the 8th of March, which gives without distinction, to all free citizens, the right of admission to all offices and functions. My pretensions are just, and I hope you will pay due regard to them. I shall not call the plantations to rise; that means would be unworthy of me. Learn to appreciate the merit of a man whose intention is pure. When I solicited from the National Assembly a decree which I obtained in favor of the colonists, formerly known under the injurious epithet of \nmulattos\n, I did not include in my claims the condition of the negroes who live in servitude. Our adversaries have misrepresented my steps in order to bring me into discredit. No, no, gentlemen, we have put forth a claim only on behalf of a class of freemen, who, for two centuries, have been under the yoke of oppression. We require the execution of the decree of the 8th of March. Before employing my means, I make use of mildness. But if, contrary to my expectation, you do not satisfy my demand, I am not answerable for the disorder into which my just vengeance may carry me.\n\nVincent Ogé, mixed-race aristocrat from the French colony of Saint-Domingue and leader of the 1790 Cap-Français revolt, letter to the Provincial Assembly of Le Cap, 1790",
+  "stem": "The aftermath of the event described above is associated most directly with which of the following events?",
+  "options": [
+   "(A) The drafting of Simón Bolívar’s “Jamaica Letter”",
+   "(B) The Haitian Rebellion",
+   "(C) The Túpac Amaru II Uprising",
+   "(D) The enactment of the U.S. Emancipation Proclamation"
+  ],
+  "key": "B",
+  "explanation": "This question tests knowledge beyond the stimulus material. The Túpac Amaru II revolt preceded the events in question, and Abraham Lincoln’s Emancipation Proclamation, while broadly connected to questions of race and slavery, happened more than half a century later. Answers C and D can therefore be excluded. Bolivár’s “Jamaica Letter” belongs to the right time frame, and the Latin American Wars of Independence are not unrelated to the French Revolution or events on Saint-Domingue, but the Haitian Rebellion was a direct outgrowth of debates over slavery and the treatment of minorities in revolutionary France, making B a better response than A.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "SIO"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons Practice Test 2",
+  "format": "old",
+  "source_type": "book"
+ }
+]

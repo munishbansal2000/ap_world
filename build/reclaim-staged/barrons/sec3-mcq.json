@@ -1,0 +1,302 @@
+[
+ {
+  "id": "barrons-u5-001",
+  "unit": 5,
+  "stimulus": "It is difficult to foresee the future fate of the New World, to set down its political principles, or to prophesy what manner of government it will adopt. We are a young people . . . we are, moreover, neither Indian nor European, but a species midway between the legitimate proprietors of this country and the Spanish usurpers. [We today] who live within the Spanish system occupy a position in society no better than that of serfs destined for labor, or at best they have no more status than that of mere consumers. Yet even this status is surrounded with galling restrictions, such as being forbidden to grow European crops, or to store products which are royal monopolies, or to establish factories of a type [Spain] itself does not possess. To this add the exclusive trading privileges, even in articles of prime necessity, and the barriers between American provinces, designed to prevent all exchange of trade, traffic, and understanding. In short, do you wish to know what our future held?—simply the cultivation of the fields of indigo, grain, coffee, sugar cane, cacao, and cotton; cattle raising on the broad plains; hunting wild game in the jungles; digging in the earth to mine its gold--but even these limitations could never satisfy the greed of Spain.\n\n—Simón Bolívar, “Reply of a South American to a Gentleman of This Island” (the “Jamaica Letter”), 1815",
+  "stem": "This document is most closely associated with which historical context?",
+  "options": [
+   "(A) The Mexican-American War",
+   "(B) The Napoleonic wars",
+   "(C) The Latin American wars of independence",
+   "(D) The American Revolution"
+  ],
+  "key": "C",
+  "explanation": "Simón Bolívar’s “Jamaica Letter” is considered a classic example of Enlightenment-inspired political thinking. Its timeframe (late 1700s and early 1800s) and its abstract concerns place it in the era of Atlantic revolutions, excluding (A), which describes a later event. Although the Napoleonic wars had international components and indeed affected events in the Americas, they took place mainly in Europe, and the American Revolution had already taken place when Bolívar’s letter was written (although many of his ideals matched those of the American revolutionaries). Answers (B) and (D) are therefore less suitable than (C), which fits perfectly because of Bolívar’s starring role in the wars of Latin American independence.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-002",
+  "unit": 5,
+  "stimulus": "It is difficult to foresee the future fate of the New World, to set down its political principles, or to prophesy what manner of government it will adopt. We are a young people . . . we are, moreover, neither Indian nor European, but a species midway between the legitimate proprietors of this country and the Spanish usurpers. [We today] who live within the Spanish system occupy a position in society no better than that of serfs destined for labor, or at best they have no more status than that of mere consumers. Yet even this status is surrounded with galling restrictions, such as being forbidden to grow European crops, or to store products which are royal monopolies, or to establish factories of a type [Spain] itself does not possess. To this add the exclusive trading privileges, even in articles of prime necessity, and the barriers between American provinces, designed to prevent all exchange of trade, traffic, and understanding. In short, do you wish to know what our future held?—simply the cultivation of the fields of indigo, grain, coffee, sugar cane, cacao, and cotton; cattle raising on the broad plains; hunting wild game in the jungles; digging in the earth to mine its gold--but even these limitations could never satisfy the greed of Spain.\n\n—Simón Bolívar, “Reply of a South American to a Gentleman of This Island” (the “Jamaica Letter”), 1815",
+  "stem": "The economic system that the author complains about is best described as",
+  "options": [
+   "(A) mercantilist.",
+   "(B) capitalist.",
+   "(C) socialist.",
+   "(D) syndicalist."
+  ],
+  "key": "A",
+  "explanation": "As with England and the thirteen colonies that became the United States in the late 1700s, relations between Spain and its American colonies (and between Portugal and Brazil) were strained by the former’s strict and exploitative economic control over the latter. Forcing colonies to provide supplies to the homeland and to purchase the homeland’s products was a hallmark of the mercantilist approach to economics, referred to in (A) and based on the assumption that the world contained a finite amount of wealth and that all countries were locked in a stiff competition for it. Mercantilism prevailed during the 1600s and 1700s, eventually giving way to newer economic theories like capitalism and socialism, (B) and (C), in the 1800s and 1900s. Syndicalism, as in (D), is a form of labor organization more associated with the 1900s.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u5-003",
+  "unit": 5,
+  "stimulus": "It is difficult to foresee the future fate of the New World, to set down its political principles, or to prophesy what manner of government it will adopt. We are a young people . . . we are, moreover, neither Indian nor European, but a species midway between the legitimate proprietors of this country and the Spanish usurpers. [We today] who live within the Spanish system occupy a position in society no better than that of serfs destined for labor, or at best they have no more status than that of mere consumers. Yet even this status is surrounded with galling restrictions, such as being forbidden to grow European crops, or to store products which are royal monopolies, or to establish factories of a type [Spain] itself does not possess. To this add the exclusive trading privileges, even in articles of prime necessity, and the barriers between American provinces, designed to prevent all exchange of trade, traffic, and understanding. In short, do you wish to know what our future held?—simply the cultivation of the fields of indigo, grain, coffee, sugar cane, cacao, and cotton; cattle raising on the broad plains; hunting wild game in the jungles; digging in the earth to mine its gold--but even these limitations could never satisfy the greed of Spain.\n\n—Simón Bolívar, “Reply of a South American to a Gentleman of This Island” (the “Jamaica Letter”), 1815",
+  "stem": "Which of the following best describes the author’s historical legacy?",
+  "options": [
+   "(A) He liberated his region from European rule but only at the cost of establishing himself as an authoritarian strongman.",
+   "(B) Contrary to his stated principles, he enslaved indigenous Americans throughout the region for decades to come.",
+   "(C) He was assassinated despite his growing popularity, and his revolutionary efforts collapsed soon afterward.",
+   "(D) He brought freedom to many countries in his region, but most of his constitutional ideals were not realized there in the long run."
+  ],
+  "key": "D",
+  "explanation": "Several revolutionary figures, especially in Mexico, were killed during Latin America’s wars of independence, but not Bolívar, making (C) incorrect. Although he was not completely innocent of racial prejudice, one of the reasons for his political success was his appeal to minorities and enslaved people, and he himself believed in the natural rights promoted in theory by the Enlightenment and the American and French Revolutions, so (A) and (B) are wrong as well. To his frustration, Bolívar lived long enough to see how many of the states he had helped set free—and for which he had helped write constitutions—reverted to strongman rule for various reasons.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-001",
+  "unit": 6,
+  "stimulus": "Unknown painter, detail from \nBattle of Adowa\n, completed ca. 1940–1949 to commemorate the Ethiopian army’s victory over Italian invaders in March 1896",
+  "stem": "The battle depicted above is most accurately characterized as",
+  "options": [
+   "(A) one of a general wave of significant defeats that non-Western armies inflicted on European invaders during the late 1800s.",
+   "(B) a temporary victory by a non-Western army before eventual conquest by imperialist European powers in the late 1800s.",
+   "(C) one of the few examples of non-Western armies not only defeating European invaders in battle but also winning wars against them in the late 1800s.",
+   "(D) a typical mismatch of the late 1800s between the less-advanced technology of non-Western armies and the state-of-the-art armaments used by European forces."
+  ],
+  "key": "C",
+  "explanation": "Answer (A) describes a trend that did not exist at all during the 1800s, making it false. It was not unusual for non-Western armies to inflict temporary defeats on European (or American) colonizers, as in (B), and answer (D) describes the situation that typically prevailed when Euro-American armies, equipped with industrial-era weaponry, faced off against indigenous forces. However, at Adowa (also spelled Adwa), Ethiopia—like Japan against Russia less than a decade later—won the war decisively, pulling off one of the only complete military victories during this era by a non-Western power against a Western one.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-002",
+  "unit": 6,
+  "stimulus": "Unknown painter, detail from \nBattle of Adowa\n, completed ca. 1940–1949 to commemorate the Ethiopian army’s victory over Italian invaders in March 1896",
+  "stem": "Which of the following best describes the artist’s portrayal of the battle?",
+  "options": [
+   "(A) The Ethiopians are shown to enjoy divine protection as well as modern weaponry.",
+   "(B) The Italians are depicted as having a clear advantage in numbers.",
+   "(C) The Italians appear to exhibit bravery equal to that of their opponents.",
+   "(D) The Ethiopians are drawn in a way to indicate their strong patriotic motivation."
+  ],
+  "key": "A",
+  "explanation": "In many respects, this image imitates the feel of a religious icon, and its deliberate rejection of a strictly realistic style fails to provide the sort of clues one would need to make firm judgments about (C) or (D.) The image does not show the Italians outnumbering the Ethiopians (indeed, in real life, the Italians themselves were outnumbered), so (B) is a weak choice. The saint floating in the circle above the battle—Saint George, revered as a patron by the Ethiopian church—appears to lend his holy powers to the Ethiopians, making (A) the best response.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-003",
+  "unit": 6,
+  "stimulus": "Unknown painter, detail from \nBattle of Adowa\n, completed ca. 1940–1949 to commemorate the Ethiopian army’s victory over Italian invaders in March 1896",
+  "stem": "What was the outcome of the battle depicted above?",
+  "options": [
+   "(A) The “scramble for Africa” swallowed up Ethiopia soon after the country’s temporary triumph in this battle.",
+   "(B) Ethiopia remained the only nation in Africa, along with Liberia, to ward off European imperial domination before World War I.",
+   "(C) Ethiopia eventually accepted French rule in order to safeguard itself from repeated Italian assaults.",
+   "(D) The Ethiopian monarchy was compelled to accept an Italian protectorate, similar to the one established over Egypt by Great Britain."
+  ],
+  "key": "B",
+  "explanation": "Having followed a strategy of modernization similar to Japan’s after the Meiji Restoration (although not as comprehensively), Ethiopia maintained its independence on its own. It did not succumb to or rely on outside powers, as in (A), (C), or (D). Like Liberia, founded by former enslaved people from the United States and therefore under American sponsorship, Ethiopia managed to avoid falling victim to the “scramble for Africa” that overwhelmed most of the continent in the 1880s and 1890s.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-004",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "Which of the following best explains the sharp increase in British sales of opium to China between 1800 and 1835?",
+  "options": [
+   "(A) A shift in religious values created a more permissive environment for drug use in nineteenth-century China.",
+   "(B) European colonization of coastal China in the late 1700s allowed countries like Britain to sell more goods there.",
+   "(C) The Chinese government voluntarily lowered trade barriers after 1800, causing a large influx of foreign commodities of all types.",
+   "(D) Frustrated by their unfavorable balance of trade with China, countries such as Britain sought profits from the illegal sale of opium."
+  ],
+  "key": "D",
+  "explanation": "Although European nations later gained a great deal of control over coastal China, this did not happen until the second half of the 1800s and did not amount to full colonization, so (B) is false. \nAnswer (A) refers to something that did not happen, as does (C), both of which are exact opposites of the truth. Qing China famously maintained high trade barriers, eagerly selling its own goods for foreign silver but making it very difficult for foreign merchants to sell their wares in China. Mounting anger on the part of European powers prompted them—and especially the British—to pursue the tactic described in (D).",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-005",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "Which of the following commodities did Britain purchase from China in the greatest quantities?",
+  "options": [
+   "(A) Tea and porcelain",
+   "(B) Silk and lacquerware",
+   "(C) Porcelain and steel",
+   "(D) Lacquerware and jade carvings"
+  ],
+  "key": "A",
+  "explanation": "With the exception of steel, all of these goods were eagerly sought by foreigners who traded with China. By this point in time, however, the British were especially interested in acquiring, shipping, and trading tea under the most favorable conditions possible.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-006",
+  "unit": 6,
+  "stimulus": null,
+  "stem": "What outcome resulted as the trend reflected in this chart continued during the 1800s?",
+  "options": [
+   "(A) Thanks to a long struggle that culminated in the Boxer Rebellion, China ended the European opium trade after 1900.",
+   "(B) Christian missionaries from Europe proved instrumental in ending their countries’ campaigns to sell drugs in China.",
+   "(C) Chinese attempts to end the opium trade led to defeat by European armies and economic concessions to foreign powers.",
+   "(D) European powers used the opium trade as a first step in colonizing China fully during the late 1800s."
+  ],
+  "key": "C",
+  "explanation": "China was never fully colonized, making (D) incorrect. It did, however, surrender a great deal of its autonomy, especially on the coasts, after losing the so-called Opium Wars of the 1840s and 1850s—mainly against Britain but also against other European powers. As described in (C), these conflicts resulted in the “unequal” treaties, which yielded certain ports (most notably Hong Kong, which was controlled by Britain until 1997) and territorial concessions to foreign control. The opium trade never ended completely, making (A) and (B) invalid.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN"
+  ],
+  "difficulty": "hard",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-007",
+  "unit": 6,
+  "stimulus": "The \nbakufu\n [shogun’s court] once made it plain that Japanese law requires us to destroy on sight any barbarian ship approaching our coasts. But now the English regularly appear and anchor off our shores, and we do not lift a finger to drive them away. Will the barbarians have any respect for our laws after they hear about this? The English come and go as they please, draw maps, disrupt our transport, and win over our commoners with their occult religion and the lure of profit. If smuggling increases and we fail to stop commoners from aiding and abetting the barbarians, who knows what future conspiracies may hatch? But our temporizing, gloss-it-over officials reply, “The foreigners are just fishermen and merchants doing nothing out of the ordinary; there is no cause for alarm.” What simpletons! Can anyone guarantee that their merchant vessels and fishing boats of today will not turn into warships tomorrow?\n\n—Confucian scholar Aizawa Seishisai (1781–1863), \nNew Theses\n, 1825, reacting to the appearance of Western ships in Japanese waters",
+  "stem": "The author of the passage above would most likely favor which of the following policies?",
+  "options": [
+   "(A) Isolationism",
+   "(B) Free trade",
+   "(C) Industrialization",
+   "(D) Imperial conquest"
+  ],
+  "key": "A",
+  "explanation": "Although a fierce patriot, the author does not mention warfare except in the context of national defense, making (D) incorrect. Although free trade and industrialization, as in (B) and (C), were policies that Japan eventually embraced, they would not have met with the author’s approval and he does not speak of them. The author clearly favors the national seclusion policy that Japan’s rulers, including the Tokugawa shoguns, had pursued for many decades. This makes (A) the best response.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-008",
+  "unit": 6,
+  "stimulus": "The \nbakufu\n [shogun’s court] once made it plain that Japanese law requires us to destroy on sight any barbarian ship approaching our coasts. But now the English regularly appear and anchor off our shores, and we do not lift a finger to drive them away. Will the barbarians have any respect for our laws after they hear about this? The English come and go as they please, draw maps, disrupt our transport, and win over our commoners with their occult religion and the lure of profit. If smuggling increases and we fail to stop commoners from aiding and abetting the barbarians, who knows what future conspiracies may hatch? But our temporizing, gloss-it-over officials reply, “The foreigners are just fishermen and merchants doing nothing out of the ordinary; there is no cause for alarm.” What simpletons! Can anyone guarantee that their merchant vessels and fishing boats of today will not turn into warships tomorrow?\n\n—Confucian scholar Aizawa Seishisai (1781–1863), \nNew Theses\n, 1825, reacting to the appearance of Western ships in Japanese waters",
+  "stem": "The example of which neighboring country would most likely have been on the mind of the author and others who thought similarly?",
+  "options": [
+   "(A) Russia",
+   "(B) India",
+   "(C) China",
+   "(D) Korea"
+  ],
+  "key": "C",
+  "explanation": "All four of these nations grappled in different ways with the question of how to deal with the European West. Even if it was on the periphery, Russia was considered one of Europe’s great powers, so its situation least resembled Japan’s, making (A) a bad choice. Korea belonged to China’s sphere of influence, so even though parts of it would be occupied by Westerners, this did not represent a sudden loss of independence, making (D) another poor choice. India’s near-complete domination by Britain in the early 1800 would certainly have been a discouraging thing to ponder for the Japanese but would have seemed less directly relevant to their situation than China, which was not actually colonized but was subjected to the same mix of economic and military pressures from the West that the author feared when he asked whether merchant vessels might soon turn into warships. This makes (C) a better choice than (B).",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Contextualization",
+  "reasoning": "Comparison",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ },
+ {
+  "id": "barrons-u6-009",
+  "unit": 6,
+  "stimulus": "The \nbakufu\n [shogun’s court] once made it plain that Japanese law requires us to destroy on sight any barbarian ship approaching our coasts. But now the English regularly appear and anchor off our shores, and we do not lift a finger to drive them away. Will the barbarians have any respect for our laws after they hear about this? The English come and go as they please, draw maps, disrupt our transport, and win over our commoners with their occult religion and the lure of profit. If smuggling increases and we fail to stop commoners from aiding and abetting the barbarians, who knows what future conspiracies may hatch? But our temporizing, gloss-it-over officials reply, “The foreigners are just fishermen and merchants doing nothing out of the ordinary; there is no cause for alarm.” What simpletons! Can anyone guarantee that their merchant vessels and fishing boats of today will not turn into warships tomorrow?\n\n—Confucian scholar Aizawa Seishisai (1781–1863), \nNew Theses\n, 1825, reacting to the appearance of Western ships in Japanese waters",
+  "stem": "What strategy did Japan pursue in the second half of the 1800s to contend with the dilemma that concerns the author of this passage?",
+  "options": [
+   "(A) It declared war on Great Britain and the United States when those countries attempted to impose unfavorable trade terms on the Tokugawa shogunate.",
+   "(B) It continued the Tokugawa policy of national seclusion well into the early 1900s.",
+   "(C) It returned the emperor to full power, abolishing the Tokugawa shogunate and ushering in a period of industrial modernization.",
+   "(D) It restored military authority to the samurai class, which had surrendered much of its martial identity during the Tokugawa era."
+  ],
+  "key": "C",
+  "explanation": "The arrival of U.S. Commodore Matthew Perry and his gunships in 1853–1854, which is generally considered the moment when the West compelled Japan to establish relations with the wider world, makes (B) impossible. Understanding its own military weakness, Japan did not pursue the option described in (A), and (D) was not feasible either, given the traditionalist attitudes felt by most of the country’s samurai class. Answer (C) describes the Meiji Restoration, a watershed moment in Japanese history that ended the shogunate and brought about a thorough modernization of the country—a step the new emperor considered necessary to avoid the fate that had befallen an unprepared China during the Opium Wars.",
+  "explanation_note": "BOOK'S EXPLANATION — SOURCE MATERIAL / REFERENCE ONLY; will be rewritten in reconception pass. Never present as final.",
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV"
+  ],
+  "difficulty": "medium",
+  "type": "mcq",
+  "inspired_by": "barrons ch.13-18 Section 3 Practice: Units 5-6, 1750-1900",
+  "format": "old",
+  "source_type": "book"
+ }
+]

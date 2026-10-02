@@ -1,0 +1,260 @@
+[
+ {
+  "id": "barrons-saq-s1",
+  "type": "saq",
+  "source": "Section 1 Practice SAQ",
+  "prompt": "Human social organization is something necessary. The philosophers expressed this fact by saying: “Man is political by nature.” That is, he cannot do without social organization. . . . This is what civilization means. . . .\n\n[As nomads,] Bedouins are closer to being good than sedentary people. . . . Sedentary people are much concerned with all kinds of pleasures. They are accustomed to luxury and success in worldly occupations and to indulgence in worldly desires. Therefore, their souls are colored with all kinds of blameworthy and evil qualities. Eventually they lose all sense of restraint. . . . Bedouins are closer to the first natural state and more remote from the evil habits that have been impressed upon the souls of sedentary peoples. Thus, they can more easily be cured. . . .\n\nBy dint of their nature, human beings need someone to act as a restraining influence and mediator in every social organization, in order to keep its members from fighting with each other. That person must have superiority over the others in the matter of group feeling. If not, his power cannot be effective. Such superiority is royal authority. It is more than leadership. Leadership means being a chieftain, and the leader is obeyed, but he has no power to force others to accept his rulings. Royal authority means superiority and the power to rule by force. . . . God made the caliph his substitute to handle the affairs of His servants. He is to make them do the things that are good for them and forbid them to do those that are harmful.\n\n—Ibn Khaldun (1332–1406), Arab philosopher, \nAl Muqaddimah\n (“An Introduction to History”), completed in 1377\n\nUsing the excerpt, respond to parts a, b, and c.",
+  "parts": {
+   "a": "Identify ONE claim the author makes in the passage.",
+   "b": "Identify ONE way the author’s point of view likely influenced the argument made in the passage.",
+   "c": "Explain ONE way that the author’s view of politics resembles or differs from those held in non-Muslim states in Afro-Eurasia during the period 1200–1450."
+  },
+  "format": "old",
+  "format_note": "Single required SAQ (no choice); book overall uses OLD Fall-2026-preceding format"
+ },
+ {
+  "id": "barrons-saq-s2",
+  "type": "saq",
+  "source": "Section 2 Practice SAQ",
+  "prompt": "Respond to parts a, b, and c.",
+  "parts": {
+   "a": "Identify ONE economic development that led Europeans to establish systems of forced labor in the Americas during the period 1450–1750.",
+   "b": "Identify ONE technological development that enabled Europeans to establish systems of forced labor in the Americas during the period 1450–1750.",
+   "c": "Explain ONE way that religion affected the way Europeans established systems of forced labor in the Americas during the period 1450–1750."
+  },
+  "format": "old",
+  "format_note": "Single required SAQ (no choice); book overall uses OLD Fall-2026-preceding format"
+ },
+ {
+  "id": "barrons-saq-s3",
+  "type": "saq",
+  "source": "Section 3 Practice SAQ",
+  "prompt": "One of the principal concerns of China’s “self-strengthening movement” in the 1862–1874 period was the question of military reform. Changes in training methods and weapons came to be viewed as essential to the movement. [Recent] experience had brought the Qing government to a greater awareness of the need for introducing Western-style weapons and training in Chinese armies. . . .\n\nOf the foreign-training programs initiated after the suppression of the Taipings, the training camp begun at Feng-huang-shan, near Shanghai, seemed to offer the greatest chance for success. British officials endorsed the program and pledged their support, while the Qing government, through the Zongli Yamen [Board of Ministers for Foreign Affairs], gave assurances that Feng-huang-shan would be maintained as a bona fide institution. But Feng-huang-shan never lived up to expectations. After nearly a decade of operation, the camp had little to show for [large] expenditures. Instead of producing Western-trained Chinese officers for the instruction of other Chinese troops, the program succumbed to a variety of abuses and fell under heavy criticism from foreigner and Chinese alike. In mid-1873 the program was abruptly terminated, to the satisfaction of some and the displeasure of others. In all, the experiment was a failure. Yet the history of the training program at Feng-huang-shan is instructive, for it provides an illuminating perspective on the role of foreign assistance in China’s early self-strengthening movement, and highlights some of the many problems confronting advocates of military reform in [this] period. . . .\n\nBefore the camp had actually been established, officials of the Zongli Yamen had expressed reservations about the plan to train Chinese troops in the use of Western arms and tactics. [British Minister Frederick] Bruce perceived that the Qing government was anxious to keep Western-trained Chinese troops out of [Westernizing official] Li Hongzhang’s complete control, and that [Qing reformer] Wenxiang “was desirous to hold . . . [strategic] places with Manchus and did not wish to see [Han] Chinese initiated in the use of foreign arms.” Yet despite the apprehensions of Qing officials at the capital, by December 1864, Thomas Wade could report that he had received “verbal assurances” that Feng-huang-shan would be maintained as a regular camp of instruction.\n\n—Richard J. Smith, historian, “Foreign Training and China’s Self-Strengthening, 1864–1873,” scholarly article, published in 1976\n\nUsing the excerpt, respond to parts a, b, and c.",
+  "parts": {
+   "a": "Identify ONE nineteenth-century development in Qing China that helped bring about the reform effort mentioned in the passage.",
+   "b": "Identify ONE argument made in the passage concerning the motivations of elites in Qing China for supporting or opposing the modernization of their country.",
+   "c": "Explain how ONE OTHER non-Western state’s efforts to reform in the nineteenth century led to conflicts among that state’s elites."
+  },
+  "format": "old",
+  "format_note": "Single required SAQ (no choice); book overall uses OLD Fall-2026-preceding format"
+ },
+ {
+  "id": "barrons-saq-s4",
+  "type": "saq",
+  "source": "Section 4 Practice SAQ",
+  "prompt": "Respond to parts a, b, and c.",
+  "parts": {
+   "a": "Identify ONE historical development that contributed to the expansion of women’s rights in the period 1900–1945.",
+   "b": "Identify ONE economic effect of the expansion of women’s rights during the period 1945 to the present.",
+   "c": "Explain ONE argument women have made to justify the expansion of women’s rights during the period 1945 to the present."
+  },
+  "format": "old",
+  "format_note": "Single required SAQ (no choice); book overall uses OLD Fall-2026-preceding format"
+ },
+ {
+  "id": "barrons-saq-t1-1",
+  "type": "saq",
+  "source": "Practice Test 1 SAQ 1",
+  "format": "old",
+  "prompt": "Use the passage below to answer all parts of the question that follows.\n\nFor all the apparent gulf between the market-dominated economies of the West and the centrally planned economies of the communist world, when it comes to attitudes to the natural world their outlook turns out to be remarkably similar.\n\nClive Ponting, \nThe Green History of the World\n, 1991",
+  "parts": {
+   "a": "Identify ONE historically specific example of human interaction with the environment during the twentieth century that would support the author’s argument.",
+   "b": "Identify ONE historically specific example of human interaction with the environment during the twentieth century that would challenge the author’s argument.",
+   "c": "Explain ONE likely reason for historians’ increased interest in the subject of the passage."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-saq-t1-2",
+  "type": "saq",
+  "source": "Practice Test 1 SAQ 2",
+  "format": "old",
+  "prompt": "Use the image below to answer all parts of the question that follows.\n\nPropaganda poster from Nazi Germany proclaiming “Death to Lies” and depicting a stalwart Nazi crushing a serpent bearing the labels “Marxism” and “High Finance.”",
+  "parts": {
+   "a": "Identify ONE \nchange\n in twentieth-century European economic life that gave rise to the political extremism that produced the image accompanying this question.",
+   "b": "Identify ONE way that the image accompanying this question reflects a \ncontinuity\n in European economic life during the twentieth century.",
+   "c": "Explain ONE way in which German economic life changed as a result of the rise of Nazism there."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-saq-t1-3",
+  "type": "saq",
+  "source": "Practice Test 1 SAQ 3",
+  "format": "old",
+  "prompt": "Answer all parts of the question that follows.",
+  "parts": {
+   "a": "Identify ONE \nsimilarity\n in the way bubonic plague affected Eurasia in the 1300s \nc.e.\n and the way smallpox affected the Americas in the 1400s and 1500s \nc.e\n.",
+   "b": "Identify ONE \ndifference\n in the way bubonic plague affected Eurasia in the 1300s \nc.e\n. and the way smallpox affected the Americas in the 1400s and 1500s \nc.e\n.",
+   "c": "Explain ONE reason for the difference between the impact of bubonic plague on Eurasia and the impact of smallpox on the Americas."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-saq-t1-4",
+  "type": "saq",
+  "source": "Practice Test 1 SAQ 4",
+  "format": "old",
+  "prompt": "Answer all parts of the question that follows.",
+  "parts": {
+   "a": "Identify ONE \nchange\n in agricultural production in Asia during the period between 1900 and the present.",
+   "b": "Explain ONE reason for \nchange\n in agricultural production in Asia during the period between 1900 and the present.",
+   "c": "Explain ONE reason for \ncontinuity\n in agricultural production in Asia during the period between 1900 and the present."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-dbq-t1",
+  "type": "dbq",
+  "source": "Practice Test 1 DBQ",
+  "prompt": "1.\nUsing the documents and your knowledge of world history, compare and contrast European and non-European encounters with unfamiliar religious traditions between roughly 1300 and 1600 \nc.e.",
+  "documents": [
+   {
+    "id": "barrons-dbq-t1-doc1",
+    "text": "Source: Thomas Coryate, English traveler in Turkey, on witnessing Sufi dervishes (1613).\n\nThere is a College of Turkish Monks in Galata, that are called [Dervishes], . . . who every Tuesday and Friday do perform the strangest exercise of Devotion that ever I saw or heard of. . . .\n\nA little after I came into the room, the Dervishes repaired into the middle void space, sitting Cross-legged, bending their Bodies low toward the floor for Religion[’s] sake, even almost flat upon their Faces . . . the whole company of them were about two and fifty. . . .\n\n[A] certain Singing-man sitting apart in an upper room began to sing certain Hymns, but with the most unpleasant and harsh notes that ever I heard, exceedingly differing from our Christian Church singing, for the yelling and disorderly squeaking did even grate mine ears. [T]hree Pipers sitting in the room with the Singer began to play upon certain long Pipes not unlike Tabors, which yielded a very ridiculous and foolish Music whereupon some five and twenty of the two and fifty Dervishes suddenly rose up bare-legged and bare-footed, and casting aside their upper Garments, some of them having their breasts all uncovered, they began by little and little to turn about the Interpreter of the Law. Afterward they redoubled their force and turned with such incredible swiftness, that I could not choose but admire it."
+   },
+   {
+    "id": "barrons-dbq-t1-doc2",
+    "text": "Source: Council of the Aztec city of Huejotzingo, letter to the king of Spain (1560).\n\nCatholic Royal Majesty!\n\nWhen your servants the Spaniards reached us and your captain general Don Hernando Cortés arrived, not a single town surpassed us here in New Spain, in that first and earliest we threw ourselves toward you.\n\n. . . we also say and declare before you that [when] your padres, the sons of St. Francis, entered the city of Huejotzingo, of our own free will we honored them and showed them esteem. When they [told us to] abandon the wicked belief in many gods, we did it. Very willingly we destroyed, demolished, and burned the temples. . . .\n\nBut now we are taken aback and very afraid, and we ask, have we done something wrong, have we somehow behaved badly, or have we committed some sin against almighty God?"
+   },
+   {
+    "id": "barrons-dbq-t1-doc3",
+    "text": "Source: Jean Bodin, French philosopher (1530–1596), on Ottoman religious policy.\n\nThe King of the Turks, who rules over a great part of Europe, safeguards the rites of religion as well as any prince in this world. He constrains no one, but on the contrary permits everyone to live as his conscience dictates. What is more, even in his seraglio at Pera he permits the practice of four diverse religions, that of the Jews, the Christian according to the Roman rite, and according to the Greek rite, and that of Islam."
+   },
+   {
+    "id": "barrons-dbq-t1-doc4",
+    "text": "Source: Photograph of the Shrine of the Twenty-Six Martyrs, Nagasaki, Japan. Dedicated to twenty-six Japanese converts and Catholic priests crucified in 1597 at the orders of Japanese ruler Toyotomi Hideyoshi."
+   },
+   {
+    "id": "barrons-dbq-t1-doc5",
+    "text": "Source: Dante Alighieri, Florentine poet, \nThe Inferno\n, Canto XXVIII, 28–36 (ca. 1307).\n\nI stood and stared at him from the stone shelf; he noticed me and opening his own breast with both hands cried: “See how I rip myself!\n\nSee how Mahomet’s mangled and split open! Ahead of me walks Ali in his tears his head cleft from the top-knot to the chin.\n\nAll the other souls that bleed and mourn along this ditch were sowers of scandal and schism: as they tore others apart, so are they torn.”"
+   },
+   {
+    "id": "barrons-dbq-t1-doc6",
+    "text": "Source: Baha ad-Din, Kurdish historian, \nThe Life of Saladin\n (ca. 1190) [trans. Francesco Gabrieli, \nArab Historians of the Crusades\n (1969)].\n\nWhile I was standing thus, Saladin turned to me and said: “I think that when God grants me victory over the rest of Palestine, I shall divide my territories, make a will stating my wishes, then set sail on this sea for their far-off lands and pursue the Franks there, so as to free the earth of anyone who does not believe in God, or die in the attempt.”"
+   },
+   {
+    "id": "barrons-dbq-t1-doc7",
+    "text": "Source: Alvise da Cadamosto, Italian explorer sailing for Portugal, upon meeting the West African chieftain Budomel (1455).\n\nI was permitted to enter the mosque there they pray: arriving toward evening, [Budomel] entered with some of his chief lords into a certain place. There they prayed in this fashion: standing upright and frequently looking up at the sky, they took two paces forward, and recited some words in a low voice: then bowed down very often and kissed the earth. When he had finished, he asked me what I thought of it. I told him that his faith was false, and that those who had instructed him in such things were ignorant of the truth. On many grounds I got the better of his learned men in argument, and [Budomel] laughed at this, saying that our faith appeared to him to be good . . . I am certain it would have been easy to have converted him to the Christian faith, if he had not feared to lose his power."
+   }
+  ],
+  "format": "old",
+  "format_note": "DBQ range per prompt; 7 documents (matches new-CED doc count)"
+ },
+ {
+  "id": "barrons-leq-t1",
+  "type": "leq",
+  "source": "Practice Test 1 LEQ",
+  "prompt": "Choose ONE from questions 2, 3, and 4.",
+  "options": [
+   "In the period 1200 to 1450, the rise of interregional trade led to the formation of diaspora communities in several parts of the world.",
+   "In the period 1750 to 1900, economic globalization widened the scope of migration in many parts of the world.",
+   "In the period after 1900, warfare caused the mass displacement of civilian populations in many parts of Afro-Eurasia."
+  ],
+  "format": "old",
+  "format_note": "OLD-FORMAT: LEQ offers 3 choices (new CED = single prompt)"
+ },
+ {
+  "id": "barrons-saq-t2-1",
+  "type": "saq",
+  "source": "Practice Test 2 SAQ 1",
+  "format": "old",
+  "prompt": "Use the passage below to answer all parts of the question that follows.\n\nMost people believe that technology is a staunch friend. It makes life easier, cleaner, and longer. But it is the kind of friend that asks for trust and obedience. There is a dark side to this friend. Its gifts are not without a heavy cost. The accusation can be made that the uncontrolled growth of technology destroys the vital sources of our humanity. It creates a culture without a moral foundation. It undermines certain mental processes and social relations that make human life worth living. Technology, in sum, is both friend and enemy.\n\nNeil Postman, \nTechnopoly: The Surrender of Culture to Technology\n, 1993",
+  "parts": {
+   "a": "Identify ONE historically specific example of technological impact on human society during the period ca. 1800 to the present that would support the author’s argument.",
+   "b": "Identify ONE historically specific example of technological impact on human society during the period ca. 1800 to the present that would challenge the author’s argument.",
+   "c": "Explain ONE nineteenth-century or post-1900 development that likely explains historians’ interest in the subject of the passage."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-saq-t2-2",
+  "type": "saq",
+  "source": "Practice Test 2 SAQ 2",
+  "format": "old",
+  "prompt": "Use the map below to answer all parts of the question that follows.",
+  "parts": {
+   "a": "Identify ONE \nchange\n in European religious practice during the fifteenth and sixteenth centuries that triggered the development depicted in the map accompanying this question.",
+   "b": "Identify ONE way that the map accompanying this question reflects a \ncontinuity\n in European religious practice during the fifteenth and sixteenth centuries.",
+   "c": "Explain ONE way in which European religious practice changed as a result of the development depicted in the map accompanying this question."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-saq-t2-3",
+  "type": "saq",
+  "source": "Practice Test 2 SAQ 3",
+  "format": "old",
+  "prompt": "Answer all parts of the question that follows.",
+  "parts": {
+   "a": "Identify ONE \nsimilarity\n in how women’s roles were defined in the Middle East and in East Asia between 1200 and 1450.",
+   "b": "Identify ONE \ndifference\n in how women’s roles were defined in the Middle East and in East Asia between 1200 and 1450.",
+   "c": "Explain ONE reason for the difference between the Middle East’s and East Asia’s definition of women’s roles between 1200 and 1450."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-saq-t2-4",
+  "type": "saq",
+  "source": "Practice Test 2 SAQ 4",
+  "format": "old",
+  "prompt": "Answer all parts of the question that follows.",
+  "parts": {
+   "a": "Identify ONE \nsimilarity\n in the impact that nongovernmental organizations have had on global politics from 1945 to the present with the impact that transnational corporations have had.",
+   "b": "Explain ONE \ndifference\n in the impact that nongovernmental organizations have had on global politics from 1945 to the present with the impact that transnational corporations have had.",
+   "c": "Explain ONE reason for the difference between the impact of nongovernmental organizations and that of transnational corporations."
+  },
+  "format_note": "OLD-FORMAT: complete 3 of 4; Q1+Q2 required, then choose Q3 or Q4"
+ },
+ {
+  "id": "barrons-dbq-t2",
+  "type": "dbq",
+  "source": "Practice Test 2 DBQ",
+  "prompt": "1.\nUsing the documents and your knowledge of world history, evaluate the various ways that hydroelectric dam projects have affected the interrelationship between humanity and the environment since 1900.",
+  "documents": [
+   {
+    "id": "barrons-dbq-t2-doc1",
+    "text": "Source: Official speeches celebrating the Soviet Union’s opening of the Dnieper Hydroelectric Dam (Dneprostroi), Europe’s largest at the time, 1932.\n\nThe Dnieper is bridled, the Dnieper is conquered, the Dnieper must henceforth serve the people building a new life. . . . Today the Homeland of Soviets celebrates its victory over the Dnieper River. Here a structure has been created, such has never before been seen in history. The Dneprostroi [dam project] serves as a mighty foundation for socialist construction. Only the October Revolution could make possible the building of such a giant. The proletariat of the USSR, in the form of our Dnieper construction workers, has shown the world what the Bolsheviks are capable of!"
+   },
+   {
+    "id": "barrons-dbq-t2-doc2",
+    "text": "Source: Relocation and reassembly of Egypt’s Abu Simbel temple complex, made necessary by the opening of the Aswan High Dam and the creation of Lake Nasser as a water reservoir, 1967–1968."
+   },
+   {
+    "id": "barrons-dbq-t2-doc3",
+    "text": "Source: Publicity poster detailing the purposes of the Tennessee Valley Authority Act, signed into law by Franklin Delano Roosevelt on May 18, 1933."
+   },
+   {
+    "id": "barrons-dbq-t2-doc4",
+    "text": "Source: Mara Hvistendahl, “China’s Three Gorges Dam: An Environmental Catastrophe?” \nScientific American\n, March 2008.\n\nFor over three decades the Chinese government dismissed warnings from scientists and environmentalists that its Three Gorges Dam—the world’s largest—had the potential of becoming one of China’s biggest environmental nightmares. But last fall, denial suddenly gave way to reluctant acceptance that the naysayers were right. Chinese officials staged a sudden about-face, acknowledging for the first time that the massive hydroelectric dam, sandwiched between breathtaking cliffs on the Yangtze River in central China, may be triggering landslides, altering entire ecosystems and causing other serious environmental problems—and, by extension, endangering the millions who live in its shadow.\n\nGovernment officials have long defended the $24-billion project as a major source of renewable power for an energy-hungry nation and as a way to prevent floods downstream. When complete, the dam will generate 18,000 megawatts of power—eight times that of the U.S.’s Hoover Dam on the Colorado River. But in September, the government official in charge of the project admitted that Three Gorges held “hidden dangers” that could breed disaster."
+   },
+   {
+    "id": "barrons-dbq-t2-doc5",
+    "text": "Source: United Nations Framework Convention on Climate Change, “How Hydropower Can Help Climate Action,” UN Climate Change News, November 2018.\n\nThe rapid and responsible deployment of clean, renewable energy is crucial to meet the goals of the Paris Climate Change Agreement, which is to limit the global average temperature so that the worst impact of climate change can be avoided, including ever more severe storms and droughts.\n\nThe evolution of solar and wind energy has been the driving force of the transition to a low-carbon world in the past years, but despite the rise of new energy sources, one technology remains a cornerstone of the renewable energy mix in some regions of the Earth: hydropower.\n\nHydropower still accounts for 70% of the world’s renewable generation capacity, a proportion that rises to more than 80% in Latin America, according to the International Renewable Energy Agency (IRENA). So the sector has a key role to play in the implementation of the Paris Agreement.\n\nLocated on the border of Brazil and Paraguay, the Itaipu Binacional hydroelectric power plant is owned by the two governments and provides around 15% of the energy consumed in Brazil and 86% of the energy consumed in Paraguay. It also holds the world record of annual energy production for a hydroelectric plant, with 103.1 million MWh generated in 2016. Around 500 thousand barrels of oil per day, about a fifth of the Brazilian production, would be required to produce the same amount of energy."
+   },
+   {
+    "id": "barrons-dbq-t2-doc6",
+    "text": "Source: Sami hunger strikers outside the Norwegian Parliament, protesting the potential impact of the Alta-Kautokeino hydroelectric dam on indigenous reindeer husbandry and salmon fishing, ca. 1979."
+   },
+   {
+    "id": "barrons-dbq-t2-doc7",
+    "text": "Source: U.S. folk singer Woody Guthrie, “Roll On, Columbia, Roll On,” 1941.\n\nRoll on, Columbia, roll on\n\nRoll on, Columbia, roll on\n\nYour power is turning the darkness to dawn\n\nSo roll on, Columbia, roll on\n\nAnd up on the river is the Grand Coulee dam\n\nMightiest thing ever built by a man\n\nTo run the great factories and water the land\n\nIt’s roll on, Columbia, roll on"
+   }
+  ],
+  "format": "old",
+  "format_note": "DBQ range per prompt; 7 documents (matches new-CED doc count)"
+ },
+ {
+  "id": "barrons-leq-t2",
+  "type": "leq",
+  "source": "Practice Test 2 LEQ",
+  "prompt": "Choose ONE from questions 2, 3, and 4.",
+  "options": [
+   "In the period 1200 to 1500, major states employed political techniques to centralize and consolidate their authority.",
+   "In the period from 1400 to 1800, states and societies in non-Western parts of the world were forced to respond to European colonization efforts.",
+   "In the period 1750 to 1900, revolutionary processes unfolded in many parts of the Atlantic world."
+  ],
+  "format": "old",
+  "format_note": "OLD-FORMAT: LEQ offers 3 choices (new CED = single prompt)"
+ }
+]
