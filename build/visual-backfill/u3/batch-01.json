@@ -1,0 +1,342 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The map shows the two elements that broke the siege: overwhelming force against the land walls (where Ottoman gunpowder artillery breached the Theodosian fortifications) and the famous maneuver of hauling ships overland into the Golden Horn, outflanking the great chain that blocked the harbor.",
+  "id": "wh-vis-u3-001",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Siege_of_Constantinople_1453_map-en.svg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Right: the map shows both the encirclement of the land walls and the hauled-ships maneuver into the Golden Horn \u2014 artillery plus tactical ingenuity.",
+   "B": "Wrong: the siege was decided at the walls and in the harbor, not by blockading Central Asian caravan routes, which are irrelevant to Constantinople.",
+   "C": "Wrong: the map itself marks 'Emperor Constantine XI' stationed on the walls \u2014 he died in the fighting, he did not flee.",
+   "D": "Wrong: nothing on the map suggests treachery; the labeled Ottoman troop dispositions show a full-scale assault on the fortifications."
+  },
+  "options": [
+   "(A) The Ottomans combined massive gunpowder artillery against the land walls with a naval maneuver that bypassed the harbor chain by hauling ships overland into the Golden Horn.",
+   "(B) The Ottomans starved the city by blockading its overland caravan routes from Central Asia.",
+   "(C) The city's defenders abandoned the walls because Emperor Constantine XI had fled to Italy before the siege began, leaving the defense without leadership or any coordinated plan of resistance.",
+   "(D) Ottoman agents inside the city opened the gates at night, so no assault on the walls was needed."
+  ],
+  "reasoning": "Causation",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The Ottoman success in taking Constantinople in 1453 is best explained by which of the following, as shown on the map?",
+  "stimulus": "A modern map of the 1453 siege of Constantinople. Ottoman troops (green) surround the city's land walls, the Ottoman fleet holds the Bosphorus, and a green arrow labeled 'Route of hauled ships' crosses the land into the Golden Horn, where '70 Ottoman Ships (after 23 April)' are marked. Inside the walls, the defenders' sectors carry names such as Giustiniani, the Bocchiardi brothers, and Catalan troops, and 'Emperor Constantine XI' is marked at his station on the walls.",
+  "stimulus_words": 77,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The sector labels are dominated by Genoese, Venetian, and other Western volunteers and mercenaries (Giustiniani, Bocchiardi, Catalans, Contarini). A city that must entrust whole stretches of its walls to foreign contingents is an empire reduced to a single city, kept alive by outside help.",
+  "id": "wh-vis-u3-002",
+  "image_license": "CC BY-SA 4.0",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Siege_of_Constantinople_1453_map-en.svg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong: the map shows the defenders pinned inside the walls while the Ottoman fleet controls the waters; there is no Byzantine naval victory here.",
+   "B": "Right: the Italian and Western names across the defense sectors show a shrunken Byzantium relying on Western European fighters.",
+   "C": "Wrong: the Italians appear as defenders serving alongside Emperor Constantine XI, not as conquerors \u2014 and the 1204 crusader occupation had ended two centuries earlier.",
+   "D": "Wrong: the labels directly contradict this \u2014 most named sectors are held by Western Europeans, not local militias."
+  },
+  "options": [
+   "(A) The Byzantine navy was strong enough to defeat the Ottoman fleet without any help from the city's garrison.",
+   "(B) Constantinople's defense depended heavily on soldiers and sailors from Western European states, showing how far Byzantine power had shrunk.",
+   "(C) Italian city-states had conquered Constantinople decades earlier and were still occupying it as a colony in 1453.",
+   "(D) The defense was carried out entirely by local Greek militias, proving that the shrunken empire still needed no outside assistance from the West."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Claims and Evidence in Sources",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The names labeling the defenders' sectors inside the walls most directly suggest which of the following about the Byzantine Empire in 1453?",
+  "stimulus": "Detail from a modern map of the 1453 siege of Constantinople. Inside the city walls, the labeled defense sectors read: Giustiniani, the Bocchiardi brothers, Catalan troops, Teodoro Caristo, Filippo Contarini, and Cardinal Isidore and 200 men \u2014 Italian and other Western European names alongside the emperor's own station.",
+  "stimulus_words": 48,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The miniature foregrounds exactly what decided Moh\u00e1cs: Ottoman cannon in the field and huge, disciplined formations. Gunpowder artillery and the professional standing army (janissaries and sipahis) let the Ottomans crush the Hungarian host and open central Europe to expansion.",
+  "id": "wh-vis-u3-003",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/1526-Suleiman_the_Magnificent_and_the_Battle_of_Mohacs-Hunername.jpg",
+  "image_verified": "2026-10-02",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong: Moh\u00e1cs was a battle of annihilation, not an invitation \u2014 King Louis II of Hungary died in the fighting.",
+   "B": "Wrong: the miniature shows a land battle with cavalry, infantry, and field cannon; no naval action decided Moh\u00e1cs.",
+   "C": "Right: the visible cannon and massed disciplined troops reflect the gunpowder-and-standing-army edge behind Ottoman expansion.",
+   "D": "Wrong: the Ottomans and Safavids were bitter rivals (they had fought at Chaldiran in 1514), not allies."
+  },
+  "options": [
+   "(A) Suleiman won because the Hungarian nobility invited him to take the Hungarian throne peacefully.",
+   "(B) The battle was decided by Ottoman naval power on the Danube, with no significant land fighting.",
+   "(C) Ottoman gunpowder weapons and a large, disciplined standing army gave them a decisive advantage over the Hungarian kingdom's forces.",
+   "(D) The victory resulted from a secret military alliance between the Ottomans and the Safavid Empire, united against their common Hungarian enemy."
+  ],
+  "reasoning": "Causation",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The Ottoman victory at Moh\u00e1cs is best understood in the context of which broader development?",
+  "stimulus": "An Ottoman court miniature from the H\u00fcnername (1584) depicting the 1526 Battle of Moh\u00e1cs. Massed Ottoman cavalry and infantry crowd the field, cannon drawn by oxen are visible among the troops, and Sultan Suleiman the Magnificent on horseback sits at the center directing the battle.",
+  "stimulus_words": 45,
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The H\u00fcnername was a dynastic prestige project: decades after Moh\u00e1cs, the court was still commissioning splendid miniatures of the victory. Glorifying past conquests in official histories was how the dynasty advertised its legitimacy and imperial destiny to courtiers and posterity.",
+  "id": "wh-vis-u3-004",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/1526-Suleiman_the_Magnificent_and_the_Battle_of_Mohacs-Hunername.jpg",
+  "image_verified": "2026-10-02",
+  "key": "A",
+  "option_explanations": {
+   "A": "Right: official illustrated histories like the H\u00fcnername existed to glorify the dynasty's conquests and legitimize its imperial claims.",
+   "B": "Wrong: the miniature was produced by the Ottoman court workshop, not by Hungarians, and it celebrates rather than mourns the victory.",
+   "C": "Wrong: the image itself is a detailed battle scene, disproving any such prohibition.",
+   "D": "Wrong: the H\u00fcnername was an Ottoman dynastic history, not an appeal to Europeans - a crusade against the Ottomans is the opposite of its purpose."
+  },
+  "options": [
+   "(A) Ottoman rulers used lavish illustrated histories to celebrate conquests and legitimize the dynasty's claim to universal empire.",
+   "(B) The miniature was painted by a Hungarian artist to mourn the destruction of the Hungarian kingdom and to record the tragedy for posterity.",
+   "(C) Ottoman court art avoided depicting warfare because Islamic tradition forbade all images of battle.",
+   "(D) The H\u00fcnername was written to persuade European rulers to join a crusade against the Ottoman Empire."
+  ],
+  "reasoning": "Causation",
+  "skill": "Sourcing and Situation",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The production of this image for an official court history in 1584 most directly reflects which of the following about the Ottoman state?",
+  "stimulus": "An Ottoman court miniature of the 1526 Battle of Moh\u00e1cs, painted for the H\u00fcnername \u2014 an official illustrated history of the Ottoman sultans completed in 1584, nearly sixty years after the battle \u2014 showing Suleiman triumphant at the center of a victorious army.",
+  "stimulus_words": 43,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The janissaries were the Ottoman standing infantry, created through the devshirme levy of Christian boys who were converted, educated, and trained as the sultan's personal troops \u2014 early adopters of firearms, as the musket over the soldier's shoulder shows.",
+  "id": "wh-vis-u3-005",
+  "image_license": "Public domain",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vecellio-373-Janizary-16thC.jpg",
+  "image_verified": "2026-10-02",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong: the timar system supported the sipahi cavalry, not the infantry corps pictured.",
+   "B": "Right: janissaries were devshirme-recruited standing infantry, armed with gunpowder weapons.",
+   "C": "Wrong: janissaries were recruited from the empire's Christian populations via devshirme, not hired from Western Europe.",
+   "D": "Wrong: janissaries were full-time professional soldiers, not wartime volunteers."
+  },
+  "options": [
+   "(A) The timar system, which granted cavalrymen agricultural land in exchange for military service and formed the backbone of the provincial Ottoman army.",
+   "(B) The devshirme system, which recruited Christian youths, converted them to Islam, and trained them as the sultan's full-time standing infantry.",
+   "(C) A corps of Western European mercenaries hired to guard the sultan's palace in Istanbul.",
+   "(D) A volunteer militia raised from Muslim townspeople only in times of war."
+  ],
+  "reasoning": "Continuity and Change",
+  "skill": "Developments and Processes",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "stem": "The soldier shown is best understood as a product of which Ottoman institution?",
+  "stimulus": "A 16th-century woodcut by the Venetian artist Cesare Vecellio showing an Ottoman janissary: a tall soldier wearing the distinctive tall, floppy bork hat, carrying a long musket over his shoulder and a curved kilij sword at his waist.",
+  "stimulus_words": 38,
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 3
+ },
+ {
+  "id": "wh-vis-u3-006",
+  "unit": 3,
+  "stimulus": "A woodcut of an Ottoman janissary \u2014 tall bork hat, musket over the shoulder \u2014 from a book of world costumes published in Venice in 1590 by Cesare Vecellio.",
+  "stimulus_words": 29,
+  "stem": "That this image of an Ottoman soldier appeared in a Venetian costume book in 1590 most directly reflects which of the following?",
+  "options": [
+   "(A) Venice and the Ottoman Empire had no contact in the 1500s, so Vecellio invented the janissary entirely from imagination and European travelers' tall tales.",
+   "(B) The woodcut was Ottoman propaganda printed in Europe to frighten Venetian merchants into paying higher prices.",
+   "(C) Europeans closely observed and collected knowledge about Ottoman military power because the Ottomans were a major force in European politics and trade.",
+   "(D) European artists had stopped depicting non-Europeans by 1590 because of religious bans on such images."
+  ],
+  "key": "C",
+  "explanation": "Vecellio's 1590 costume book catalogued the dress of the known world, including Ottoman soldiers. Venice traded and warred with the Ottomans for centuries; a Venetian publisher included janissaries precisely because Ottoman military power mattered enormously to European readers.",
+  "option_explanations": {
+   "A": "Wrong: Venice had intense contact with the Ottomans \u2014 the Lepanto campaign of 1571 alone disproves 'no contact.'",
+   "B": "Wrong: it is a Venetian commercial book, not an Ottoman government publication.",
+   "C": "Right: the costume book shows Europeans systematically studying a power that shaped their trade, diplomacy, and wars.",
+   "D": "Wrong: the book itself depicts hundreds of non-European costumes, disproving the claim."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vecellio-373-Janizary-16thC.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-007",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Gate of Salutation (Orta Kapi) at Topkapi Palace in Istanbul: a tall stone gate with twin towers and crenellations, standing between the palace's courtyards.",
+  "stimulus_words": 29,
+  "stem": "The gate's position \u2014 separating the palace's outer public courtyards from the inner courts where the sultan's council met \u2014 most directly reflects which feature of Ottoman government?",
+  "options": [
+   "(A) Power was concentrated in the sultan's household, and access to the ruler was carefully graded by rank and function.",
+   "(B) The sultan held open assemblies where any subject could walk in and petition him directly each day, with no guards, ranks, or intermediaries.",
+   "(C) The palace served only as a military fortress and played no role in administration.",
+   "(D) Ottoman government was run by elected councils of provincial governors."
+  ],
+  "key": "A",
+  "explanation": "Topkapi's successive gated courts physically enacted Ottoman governance: the further inward, the closer to the sultan's person. The imperial household \u2014 not a separate bureaucracy \u2014 was the state, and the gates marked who could approach power.",
+  "option_explanations": {
+   "A": "Right: the graded courts mirror a household-centered state where proximity to the sultan defined authority.",
+   "B": "Wrong: the gate exists precisely to restrict access; petitioners were filtered through officials.",
+   "C": "Wrong: Topkapi was the administrative heart of the empire \u2014 the imperial council (Divan) met there.",
+   "D": "Wrong: Ottoman provincial governors were appointed, not elected, and councils did not run the state."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gate_of_Salutation_%28Topkapi_Palace%29.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-008",
+  "unit": 3,
+  "stimulus": "A French manuscript miniature from the late 1400s (from Bertrandon de la Broquiere's Voyage d'Outremer, illustrated by Jean Le Tavernier) showing the 1453 siege: the Ottoman army's tents fill the foreground while the walled city of Constantinople, ringed by water and ships, stands under attack.",
+  "stimulus_words": 45,
+  "stem": "The production of this image in a French manuscript within a few decades of the siege most directly reflects which of the following?",
+  "options": [
+   "(A) The fall of Constantinople alarmed Western European Christians, who saw the Ottoman advance as a grave threat to Christendom.",
+   "(B) French artists celebrated the Ottoman victory because France was formally allied with Mehmed II in 1453.",
+   "(C) The miniature proves that French soldiers fought alongside the Ottomans during the siege.",
+   "(D) Western Europeans were indifferent to Constantinople's fate because it was an Orthodox rather than Catholic city and therefore none of their concern."
+  ],
+  "key": "A",
+  "explanation": "A Burgundian/French travel manuscript illustrating the siege shows how closely Western Christendom followed the Ottoman advance. The fall of Constantinople in 1453 was received in Europe as a catastrophe for Christendom and spurred decades of crusade preaching.",
+  "option_explanations": {
+   "A": "Right: the manuscript's attention to the siege reflects European alarm at Ottoman expansion.",
+   "B": "Wrong: no such alliance existed in 1453; the Franco-Ottoman alliance came decades later under Suleiman and Francis I.",
+   "C": "Wrong: depicting a siege does not mean the artist's countrymen fought in it \u2014 no French troops served Mehmed II.",
+   "D": "Wrong: the very existence of the miniature shows sustained European interest, not indifference."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Siege_of_Constantinople_BnF_MS_Fr_9087.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-009",
+  "unit": 3,
+  "stimulus": "A 16th-century European oil portrait of Suleiman the Magnificent in profile, wearing an enormous white turban and jeweled robes; the canvas is inscribed 'SOLIMANVS AET XLIII' (Suleiman, age 43). It was painted by Cristofano dell'Altissimo for the portrait collection of Cosimo I de' Medici, Duke of Florence.",
+  "stimulus_words": 47,
+  "stem": "The inclusion of the Ottoman sultan in a Florentine duke's portrait collection most directly suggests which of the following?",
+  "options": [
+   "(A) Suleiman had converted to Christianity and become a military ally of Florence.",
+   "(B) European rulers regarded the Ottoman sultan as a major world power whose appearance and career were worth studying and collecting.",
+   "(C) The portrait was commissioned by Suleiman himself as a diplomatic gift to the duke.",
+   "(D) Florentine artists were forbidden from painting non-Christians, so this portrait was kept hidden from public view in a private collection."
+  ],
+  "key": "B",
+  "explanation": "Cosimo's famous-men portrait series collected rulers who mattered in world affairs. Hanging the Ottoman sultan alongside European princes shows that European courts treated Suleiman as a peer power to be watched and understood, not an unknown barbarian.",
+  "option_explanations": {
+   "A": "Wrong: Suleiman remained Muslim and Florence's overlord's rival; no conversion occurred.",
+   "B": "Right: the collection treated the sultan as a significant world figure worth recording.",
+   "C": "Wrong: it was painted for the duke's own Giovio-series collection, not sent by the sultan.",
+   "D": "Wrong: it was part of a celebrated public collection, not a hidden forbidden work."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Suleiman_the_Magnificent_by_Dell%27Altissimo.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-010",
+  "unit": 3,
+  "stimulus": "An Ottoman court miniature depicting Serdar Ferhat Pasha's 1583 campaign against Safavid-held Yerevan (Revan): dense ranks of Ottoman soldiers in white turbans mass beneath tall red banners, with cavalry and camel-borne supplies below.",
+  "stimulus_words": 33,
+  "stem": "The campaign shown is best understood as part of which of the following?",
+  "options": [
+   "(A) A joint Ottoman-Safavid expedition against Russian expansion into Siberia.",
+   "(B) An Ottoman attempt to conquer Mughal India by marching an army overland through Persia and Afghanistan.",
+   "(C) The long Ottoman-Safavid struggle for control of the Caucasus and the eastern frontier lands.",
+   "(D) A Safavid invasion of Ottoman Anatolia that the Ottoman army was repelling."
+  ],
+  "key": "C",
+  "explanation": "The 1578\u20131590 Ottoman-Safavid war was fought largely over the Caucasus; Ferhat Pasha's 1583 capture of Yerevan was a major Ottoman gain. The two gunpowder empires contested the frontier for two centuries, and the miniature's massed army shows the scale of Ottoman commitment.",
+  "option_explanations": {
+   "A": "Wrong: the Ottomans and Safavids were rivals, not allies, and Siberia was irrelevant to both.",
+   "B": "Wrong: the Ottomans never marched on Mughal India; the target here is Safavid-held Yerevan.",
+   "C": "Right: the campaign was one episode in the long Ottoman-Safavid contest for the Caucasus.",
+   "D": "Wrong: the miniature depicts an Ottoman offensive into Safavid-held territory, labeled as Ferhat Pasha's conquest \u2014 not a defensive action."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Serdar_Ferhat_Pasha%27s_conquest_of_Revan_%28Yerevan%29_and_the_Tokmak_%28Tokhmaq_Khan_Ustajlu%29_infidel%27s_escape_to_the_G%C3%B6k%C3%A7e_Sea_%28Lake_Sevan%2C_Armenia%29_and_her_destruction_%28101b%29.jpg",
+  "image_license": "Public domain"
+ }
+]

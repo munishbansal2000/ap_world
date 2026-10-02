@@ -1,0 +1,342 @@
+[
+ {
+  "id": "wh-vis-u3-031",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Hall of Supreme Harmony in Beijing's Forbidden City: a vast hall with a double-eaved roof of imperial yellow glazed tiles, set on a three-tiered white marble terrace with carved balustrades, a bronze lion guarding the stairs.",
+  "stimulus_words": 41,
+  "stem": "The hall's features \u2014 the yellow roof tiles reserved for the emperor, the elevated marble terraces, and its position on the palace's central axis \u2014 most directly reflect which Chinese imperial concept?",
+  "options": [
+   "(A) The hall was a Buddhist temple open to all worshippers in the capital.",
+   "(B) The yellow tiles were chosen simply because they were the cheapest available roofing material in the Beijing region at the time.",
+   "(C) The emperor as the Son of Heaven, whose palace architecture expressed his cosmic centrality and supreme ritual authority.",
+   "(D) The Forbidden City was designed primarily as a commercial marketplace for foreign merchants."
+  ],
+  "key": "C",
+  "explanation": "Every element is cosmological: yellow is the imperial color, the triple terrace lifts the throne toward heaven, and the central axis aligns the palace with the order of the universe. The architecture physically argues that the emperor stands at the pivot between heaven and earth.",
+  "option_explanations": {
+   "A": "Wrong: it is the throne hall for state ceremony, not a public temple.",
+   "B": "Wrong: yellow glazed tiles were a restricted imperial prerogative, not an economy choice.",
+   "C": "Right: the design encodes the Son of Heaven's cosmic role.",
+   "D": "Wrong: it is the imperial palace, not a market."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hall_of_Supreme_Harmony_%28Forbidden_City%29_1.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-032",
+  "unit": 3,
+  "stimulus": "The same Hall of Supreme Harmony. It was originally built by the Ming emperor Yongle in the early 1400s; after the Manchu conquest of 1644, Qing emperors kept it as the ceremonial heart of the palace, holding court there exactly as Ming emperors had done.",
+  "stimulus_words": 45,
+  "stem": "The Qing decision to preserve and use the Ming throne hall unchanged best illustrates which of the following?",
+  "options": [
+   "(A) The Qing destroyed all Ming palace buildings to erase the memory of the previous dynasty.",
+   "(B) Ming and Qing palaces were architecturally identical because both dynasties hired the very same European royal architects to design them.",
+   "(C) The Manchus moved China's capital away from Beijing after the 1644 conquest.",
+   "(D) Continuity: the Manchu conquerors legitimized their rule by adopting Ming imperial ritual and institutions rather than replacing them."
+  ],
+  "key": "D",
+  "explanation": "Conquest dynasties face a legitimation problem; the Qing solved it by stepping into Ming ritual shoes. Holding court in Yongle's own throne hall told Chinese elites that the Mandate of Heaven had transferred intact \u2014 the dynasty changed, the imperial order did not.",
+  "option_explanations": {
+   "A": "Wrong: they preserved and used the hall; erasure is the opposite of what happened.",
+   "B": "Wrong: no Europeans designed the Ming palace; the forms are Chinese.",
+   "C": "Wrong: Beijing remained the capital under the Qing.",
+   "D": "Right: ritual continuity was a deliberate strategy for legitimizing conquest."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hall_of_Supreme_Harmony_%28Forbidden_City%29_1.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-033",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Great Wall at Badaling: a massive brick-and-stone wall with watchtowers snaking over steep mountain ridges; this section was built up in 1505 under the Ming dynasty.",
+  "stimulus_words": 31,
+  "stem": "The Ming dynasty's massive investment in rebuilding the northern walls is best explained by which of the following?",
+  "options": [
+   "(A) The Ming built the wall as a tourist attraction to impress European visitors.",
+   "(B) The wall was intended to keep Chinese merchants from trading with Southeast Asia and to stop smuggling along the southern coast.",
+   "(C) A plan to wall off southern China in order to prevent peasant rebellions there.",
+   "(D) The need to defend against raids and invasions by Mongol and other steppe peoples along the northern frontier."
+  ],
+  "key": "D",
+  "explanation": "The Ming never solved the steppe problem: after the Tumu debacle (1449) and centuries of Mongol pressure, the dynasty poured resources into the northern wall system. The wall's location \u2014 facing the steppe, not the interior \u2014 shows a land empire managing its most dangerous frontier.",
+  "option_explanations": {
+   "A": "Wrong: no tourism industry existed in 1505; the wall was military infrastructure.",
+   "B": "Wrong: the wall runs along the northern frontier, far from the southern maritime trade.",
+   "C": "Wrong: the wall faces north toward the steppe, not south toward the interior.",
+   "D": "Right: northern frontier defense against steppe peoples drove the Ming wall-building."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Great_Wall_of_China_-_Badaling_%28built_in_1505_during_Ming_Dynasty%29_-_panoramio.jpg",
+  "image_license": "CC BY 3.0"
+ },
+ {
+  "id": "wh-vis-u3-034",
+  "unit": 3,
+  "stimulus": "An 18th-century French-labeled map of China's Shaanxi province ('Province de Chen-Si'), from an atlas compiled in Paris from surveys made by Jesuit missionaries working for the Kangxi emperor.",
+  "stimulus_words": 28,
+  "stem": "The existence of this map is best explained by which of the following?",
+  "options": [
+   "(A) French armies mapped China in preparation for a planned 18th-century invasion of the Qing Empire, carefully scouting landing sites and supply routes along the coast.",
+   "(B) Jesuits served the Qing court as astronomers and cartographers, and their surveys were published in Europe \u2014 deepening European geographic knowledge of China.",
+   "(C) Chinese merchants commissioned French maps to navigate the Indian Ocean spice trade.",
+   "(D) The map proves that China had become a French colony by the 1700s."
+  ],
+  "key": "B",
+  "explanation": "Kangxi employed Jesuits for the empire-wide land survey (1708\u20131718); d'Anville's Paris atlas turned their work into Europe's best maps of China. The map is a two-way artifact: Qing statecraft using European expertise, and Europe learning China through missionary science.",
+  "option_explanations": {
+   "A": "Wrong: no French invasion of China occurred or was planned in this era.",
+   "B": "Right: the Jesuit-Qing cartographic partnership explains a French map of a Chinese province.",
+   "C": "Wrong: it is a landlocked province map made from Jesuit surveys, not a merchant's sea chart.",
+   "D": "Wrong: China was never a French colony."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "TEC"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Atlas_g%C3%A9n%C3%A9ral_de_la_Chine%2C_de_la_Tartarie_chinoise%2C_et_du_Tibet_-_pour_servir_aux_diff%C3%A9rentes_descriptions_et_histoires_de_cet_empire_LOC_00552972-18.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-035",
+  "unit": 3,
+  "stimulus": "A 19th-century painting by Vasily Surikov depicting Yermak's 1582 campaign in Siberia: Russian Cossacks in boats fire muskets (muzzle flashes visible) at Siberian Tatar warriors on a cliff, who shoot back with bows; Orthodox religious banners fly over the Russians.",
+  "stimulus_words": 40,
+  "stem": "The contrast between the two sides' weapons in the painting best illustrates which factor in Russia's eastward expansion?",
+  "options": [
+   "(A) The Siberian Tatars' bows were more advanced than Russian muskets, which is why Russia's eastward expansion stalled at the Urals.",
+   "(B) Both sides used identical European artillery, so the battle ended in a stalemate.",
+   "(C) Firearms gave the small Russian forces a decisive advantage over the bow-armed Siberian peoples they encountered.",
+   "(D) The Russians won because the Siberian peoples submitted voluntarily without any fighting."
+  ],
+  "key": "C",
+  "explanation": "Yermak's few hundred Cossacks toppled the Khanate of Sibir largely because muskets outranged and outshocked bows. The painting's muzzle flashes against drawn bows capture the gunpowder asymmetry that let a thin Russian advance roll across Siberia.",
+  "option_explanations": {
+   "A": "Wrong: Russia's expansion did not stall \u2014 it reached the Pacific within decades.",
+   "B": "Wrong: the image clearly shows muskets on one side and bows on the other.",
+   "C": "Right: the firearms-versus-bows gap was the campaign's decisive military fact.",
+   "D": "Wrong: the painting depicts intense combat, not peaceful submission."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vasily_Surikov_-_Yermak%27s_Conquest_of_Siberia_-_Google_Art_Project.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-036",
+  "unit": 3,
+  "stimulus": "Detail from the same Surikov painting: the Russian boats fly large banners painted with Orthodox Christian images, including the face of Christ.",
+  "stimulus_words": 22,
+  "stem": "The prominent Orthodox banners in the painting suggest which of the following about how Russian expansion was understood?",
+  "options": [
+   "(A) The Cossacks were fighting to spread Islam deeper into Siberia.",
+   "(B) Religious banners were carried only to frighten the Tatars' horses and had no symbolic meaning.",
+   "(C) The Russian Orthodox Church opposed the Siberian campaigns, and the banners are a form of religious protest against the violence.",
+   "(D) Expansion was framed as a Christian mission \u2014 bringing Orthodoxy to non-Christian peoples helped justify conquest."
+  ],
+  "key": "D",
+  "explanation": "Russian eastward expansion was narrated as the gathering of lands for Orthodox Christendom against 'infidel' khanates \u2014 the same ideological frame Ivan IV used at Kazan. Banners of Christ over the boats announce that conquest and conversion marched together.",
+  "option_explanations": {
+   "A": "Wrong: the banners show Christ and Orthodox imagery, not Islamic symbols.",
+   "B": "Wrong: religious war-banners were deeply symbolic, not horse-scaring props.",
+   "C": "Wrong: the Church blessed and benefited from expansion; the banners proclaim support, not protest.",
+   "D": "Right: the banners show conquest legitimized as Orthodox Christian mission."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vasily_Surikov_-_Yermak%27s_Conquest_of_Siberia_-_Google_Art_Project.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-037",
+  "unit": 3,
+  "stimulus": "A modern photograph of St. Basil's Cathedral on Moscow's Red Square: a cluster of brightly colored onion domes and patterned towers around a central tent-roofed spire. Ivan IV ('the Terrible') ordered it built in 1555-1561 to commemorate his 1552 conquest of the Tatar khanate of Kazan.",
+  "stimulus_words": 46,
+  "stem": "The cathedral's construction most directly reflects which of the following?",
+  "options": [
+   "(A) Ivan IV used Orthodox Christianity and victory monuments to legitimize the tsar's expanding autocratic power.",
+   "(B) The cathedral was built by Tatar architects to celebrate their victory over Moscow and the humiliation of the Russian tsar.",
+   "(C) Ivan IV built the church as part of converting Russia to Catholicism.",
+   "(D) The cathedral shows that Moscow's rulers rejected religious symbolism in state-building."
+  ],
+  "key": "A",
+  "explanation": "Each of the cathedral's chapels honored a battle of the Kazan campaign; the whole ensemble turned military triumph into sacred architecture on the empire's main square. It announced that the tsar's wars were God's wars \u2014 and that Moscow was the Orthodox 'Third Rome.'",
+  "option_explanations": {
+   "A": "Right: the victory cathedral fuses Orthodoxy with autocratic state-building.",
+   "B": "Wrong: it commemorates Russia's victory over the Tatars, not the reverse.",
+   "C": "Wrong: it is an Orthodox cathedral, not a Catholic one.",
+   "D": "Wrong: the building is saturated with religious symbolism put to state use."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Moscow_-_2026_-_St._Basil%E2%80%99s_Cathedral%2C_daytime_view_from_Red_Square.jpg",
+  "image_license": "CC BY 4.0"
+ },
+ {
+  "id": "wh-vis-u3-038",
+  "unit": 3,
+  "stimulus": "An 18th-century portrait of Ivan IV: the tsar wears the jewel-studded cap of Monomakh, holds a golden orb in one hand and a scepter topped with a double-headed eagle in the other, with a large cross on his chest.",
+  "stimulus_words": 39,
+  "stem": "The symbols in the portrait (orb, scepter, cross, Monomakh's cap) are best understood as claims that the tsar...",
+  "options": [
+   "(A) shared power equally with the Russian boyar aristocracy.",
+   "(B) was an autocratic ruler and defender of Orthodox Christianity \u2014 the 'Third Rome' succeeding Byzantium after 1453.",
+   "(C) had been elected to office by a national assembly of commoners, who chose him as the first among equals in a free election.",
+   "(D) ruled only as a religious figurehead with no political authority."
+  ],
+  "key": "B",
+  "explanation": "Ivan was the first Russian ruler crowned 'tsar' (1547), a title derived from 'caesar.' Orb and scepter claim universal Christian kingship; the cross claims Orthodoxy's defense; the double-headed eagle was borrowed from Byzantium. Together they argue Moscow inherited Constantinople's mantle.",
+  "option_explanations": {
+   "A": "Wrong: Ivan's oprichnina terrorized the boyars \u2014 power-sharing is the opposite of his reign.",
+   "B": "Right: the regalia encode autocracy plus Orthodox 'Third Rome' ideology.",
+   "C": "Wrong: no such election occurred; tsardom was hereditary and autocratic.",
+   "D": "Wrong: orb and scepter are political symbols of rule, not mere priesthood."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ivan_IV_by_anonim_%2818th_c.%2C_GIM%29.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-039",
+  "unit": 3,
+  "stimulus": "Vasily Surikov's 1881 painting 'The Morning of the Streltsy Execution': on Red Square before St. Basil's Cathedral, condemned streltsy (Moscow's old musketeer regiments) sit on carts awaiting execution while their families grieve; Tsar Peter the Great watches on horseback.",
+  "stimulus_words": 39,
+  "stem": "The event depicted \u2014 Peter's brutal suppression of the streltsy after their 1698 revolt \u2014 is best understood as part of which Petrine policy?",
+  "options": [
+   "(A) Granting Russia's first written constitution, which the streltsy had demanded.",
+   "(B) Peter's decision to abolish the Russian army entirely and rely on foreign mercenaries hired from Prussia and Saxony instead.",
+   "(C) Destroying the old Muscovite military elite to centralize autocratic power and clear the way for a new Western-style army.",
+   "(D) A religious reform that disbanded the Russian Orthodox Church."
+  ],
+  "key": "C",
+  "explanation": "The streltsy were the old regime in arms \u2014 hereditary musketeers who had backed Peter's rivals. Their execution and the regiments' disbandment removed a political threat and freed Peter to build the new regimental army on European lines for the Great Northern War.",
+  "option_explanations": {
+   "A": "Wrong: Peter granted no constitution; the streltsy demanded a return to old ways, not constitutionalism.",
+   "B": "Wrong: he replaced the old army with a new one, he did not abolish armies.",
+   "C": "Right: crushing the streltsy was centralization \u2014 eliminating the old elite to build a new military state.",
+   "D": "Wrong: the target was the military establishment, not the Church."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Vasily_Surikov_-_%D0%A3%D1%82%D1%80%D0%BE_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8_-_Google_Art_Project.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-040",
+  "unit": 3,
+  "stimulus": "Sir Godfrey Kneller's 1698 portrait of Peter the Great, painted in England during Peter's Grand Embassy to Western Europe: the young tsar stands in Western-style armor with a baton of command, an ermine-trimmed cloak over his shoulder.",
+  "stimulus_words": 37,
+  "stem": "The portrait's Western style and its creation during Peter's European tour most directly reflect which of the following?",
+  "options": [
+   "(A) Peter had abdicated the Russian throne and taken service as an English officer.",
+   "(B) The portrait shows Peter rejecting all contact with Western Europe and turning Russia firmly back toward Muscovite traditions.",
+   "(C) English artists forced the tsar to sit for the portrait while holding him prisoner.",
+   "(D) Peter deliberately adopted Western military and cultural models to transform Russia into a European great power."
+  ],
+  "key": "D",
+  "explanation": "The 1697\u201398 Grand Embassy was a study mission: Peter worked in Dutch and English shipyards and hired hundreds of Western specialists. Being painted by England's leading portraitist in Western armor announced the program \u2014 Russia would master Europe's military and technical arts.",
+  "option_explanations": {
+   "A": "Wrong: he remained tsar throughout the embassy.",
+   "B": "Wrong: the embassy was the opposite \u2014 maximum engagement with the West.",
+   "C": "Wrong: Peter sought out the sitting; it was diplomacy, not captivity.",
+   "D": "Right: the portrait embodies Peter's Westernizing transformation project."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sir_Godfrey_Kneller_%281646-1723%29_-_Peter_the_Great%2C_Tsar_of_Russia_%281672-1725%29_-_RCIN_405645_-_Royal_Collection.jpg",
+  "image_license": "Public domain"
+ }
+]

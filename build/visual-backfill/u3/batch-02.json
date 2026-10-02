@@ -1,0 +1,342 @@
+[
+ {
+  "id": "wh-vis-u3-011",
+  "unit": 3,
+  "stimulus": "A modern museum photograph of the Dardanelles Gun: an enormous bronze bombard cast in 1464 for the Ottoman sultan Mehmed II, over five meters long, its muzzle wide enough for a person to crouch inside, its bronze surface worked with inscriptions.",
+  "stimulus_words": 41,
+  "stem": "Artillery pieces like this one were most significant to Ottoman expansion because they...",
+  "options": [
+   "(A) allowed Ottoman armies to batter down the massive stone walls of fortified cities such as Constantinople.",
+   "(B) were mounted on galleys to defeat the Portuguese fleet in the Indian Ocean and secure the Red Sea spice trade.",
+   "(C) replaced cavalry entirely, ending the Ottoman army's reliance on horsemen.",
+   "(D) were sold to European rulers to raise cash for the Ottoman treasury."
+  ],
+  "key": "A",
+  "explanation": "Giant bombards like this were siege weapons: Mehmed II used such cannon to breach Constantinople's Theodosian walls in 1453. Ottoman mastery of gunpowder artillery was a core reason the 'gunpowder empires' could take fortified cities that had resisted sieges for centuries.",
+  "option_explanations": {
+   "A": "Right: the bombard's purpose was siege warfare \u2014 smashing walls that had stood for a thousand years.",
+   "B": "Wrong: these were land siege bombards, not naval guns, and the Ottomans never defeated the Portuguese in the Indian Ocean.",
+   "C": "Wrong: Ottoman cavalry (sipahis) remained central to the army long after cannon arrived.",
+   "D": "Wrong: the guns were instruments of conquest kept for Ottoman campaigns, not export goods."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dardanelles_Gun_Turkish_Bronze.jpg",
+  "image_license": "CC BY 2.0"
+ },
+ {
+  "id": "wh-vis-u3-012",
+  "unit": 3,
+  "stimulus": "A Persian miniature painted at Isfahan in the 1680s depicting Shah Ismail I at the 1514 Battle of Chaldiran: the shah charges on horseback with sword drawn while Ottoman soldiers, some aiming long guns, close in around him.",
+  "stimulus_words": 38,
+  "stem": "The battle shown is most significant as an example of which of the following?",
+  "options": [
+   "(A) A Safavid victory that drove the Ottomans out of Anatolia permanently.",
+   "(B) A joint Ottoman-Safavid defeat of the Uzbek khanates of Central Asia.",
+   "(C) The first battle in which the Mughals used war elephants against the Persians, a tactic borrowed from the Delhi Sultanate that reshaped Central Asian warfare.",
+   "(D) Ottoman muskets and field artillery defeating a Safavid army that relied mainly on cavalry \u2014 a turning point in the Ottoman-Safavid rivalry."
+  ],
+  "key": "D",
+  "explanation": "At Chaldiran (1514) the Ottomans' muskets and field guns shattered Shah Ismail's cavalry army. The defeat checked Safavid expansion westward and taught the Safavids the lesson Shah Abbas later applied: build your own gunpowder infantry (the musketeer corps).",
+  "option_explanations": {
+   "A": "Wrong: Chaldiran was an Ottoman victory; the Safavids lost and retreated.",
+   "B": "Wrong: no Uzbeks were involved \u2014 this was Ottomans versus Safavids.",
+   "C": "Wrong: the Mughals and war elephants have nothing to do with Chaldiran.",
+   "D": "Right: the guns visible in Ottoman hands were the battle's decisive factor."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "TEC",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-013",
+  "unit": 3,
+  "stimulus": "A Persian miniature of the 1514 Battle of Chaldiran \u2014 a battle the Safavids lost \u2014 painted at the Safavid court in Isfahan in the 1680s, more than 170 years after the fighting, with Shah Ismail charging heroically at the center.",
+  "stimulus_words": 41,
+  "stem": "What does the production of this miniature, more than 170 years after a Safavid defeat, best demonstrate about the source?",
+  "options": [
+   "(A) The painting is an eyewitness record made by an artist who fought at Chaldiran.",
+   "(B) Safavid court artists commemorated even a defeat by centering Shah Ismail heroically, showing how dynastic histories reshaped the past to honor the founder.",
+   "(C) By the 1680s the Safavids had forgotten Chaldiran entirely and painted it as pure fantasy.",
+   "(D) The miniature proves the Safavids actually won at Chaldiran and that Ottoman chronicles of an Ottoman victory are deliberate fabrications meant to deceive later readers."
+  ],
+  "key": "B",
+  "explanation": "Court art served the dynasty, not the archive: a 1680s Isfahan workshop had no eyewitnesses, but it had a political need \u2014 to honor Shah Ismail, the dynasty's charismatic founder. So the lost battle becomes a stage for his heroism, a reminder that dynastic images must be read as arguments, not photographs.",
+  "option_explanations": {
+   "A": "Wrong: no 1680s painter could have witnessed a 1514 battle.",
+   "B": "Right: the heroic centering of Ismail shows dynastic memory reshaping even defeat into founder-glorification.",
+   "C": "Wrong: they remembered the battle clearly enough to depict its key figures and moment.",
+   "D": "Wrong: the Ottoman victory at Chaldiran is firmly established; the painting shows a heroic charge, not a Safavid triumph."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22Shah_Ismail_at_the_Battle_of_Chaldiran%22%2C_from_Bijan%E2%80%99s_Tarikh-i_Jahangusha-yi_Khaqan_Sahibqiran%2C_Iran%2C_Isfahan%3B_end_of_the_1680s_%281%29.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-014",
+  "unit": 3,
+  "stimulus": "A modern photograph of the interior of the Sheikh Lotfollah Mosque in Isfahan: the domed chamber is covered floor to ceiling in intricate blue-and-gold tilework with arabesque patterns, light streaming through latticed windows. Built 1603-1619 under Shah Abbas I on the Naqsh-e Jahan square as a private royal-court mosque, it has no minarets and no public courtyard.",
+  "stimulus_words": 57,
+  "stem": "The construction of this mosque most directly reflects which Safavid policy?",
+  "options": [
+   "(A) Shah Abbas promoted Sunni Islam in order to align Persia with the neighboring Ottoman Empire.",
+   "(B) The Safavids discouraged mosque-building because they considered monumental art a wasteful distraction from the more important work of warfare.",
+   "(C) Isfahan's mosques were built mainly to attract European Christian missionaries to Persia.",
+   "(D) The shahs fused royal and religious authority, making Twelver Shi'ism the ideological foundation of the Safavid state."
+  ],
+  "key": "D",
+  "explanation": "The Safavids rose as a Sufi order and then imposed Twelver Shi'ism as the state religion, distinguishing Persia from its Sunni Ottoman and Uzbek neighbors. A jewel-like royal mosque on the new capital's great square \u2014 private to the court \u2014 announced that the shah was both king and guardian of the faith.",
+  "option_explanations": {
+   "A": "Wrong: the Safavids were Twelver Shi'a, the Ottomans' confessional rivals \u2014 aligning with them was the opposite of Safavid policy.",
+   "B": "Wrong: the lavish building itself disproves the claim.",
+   "C": "Wrong: a private court mosque with no minarets was not built for missionaries or the public.",
+   "D": "Right: the mosque embodies the Safavid fusion of kingship with Twelver Shi'a legitimacy."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sheikh_Lotfollah_Mosque%2C_Isfahan%2CIran.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-015",
+  "unit": 3,
+  "stimulus": "The Ardabil Carpet (1539-40), one of the largest and finest Persian carpets in existence, now in the Victoria and Albert Museum. Its woven inscription dates it to the Muslim year 946 and names Maqsud of Kashan; it was made for the shrine of Shaykh Safi al-Din \u2014 the Sufi saint whose descendants founded the Safavid dynasty \u2014 at Ardabil.",
+  "stimulus_words": 59,
+  "stem": "The carpet's destination \u2014 the shrine of the Safavid order's founding saint \u2014 most directly reflects which of the following?",
+  "options": [
+   "(A) The Safavids rejected their Sufi past after adopting Shi'ism and destroyed the old Sufi shrines.",
+   "(B) Persian carpets were produced only for export to European markets and were never used inside Persia, where the court is said to have preferred imported Chinese silks.",
+   "(C) Safavid rulers cultivated their Sufi ancestors' shrines as sources of dynastic legitimacy, since the dynasty began as a Sufi order.",
+   "(D) The carpet shows that the Safavid economy depended on importing textiles from Ming China."
+  ],
+  "key": "C",
+  "explanation": "Before they were shahs, the Safavids were the Safaviyya Sufi order of Ardabil. Even after becoming Twelver Shi'a monarchs, they lavished patronage on Shaykh Safi's shrine \u2014 a carpet of this size and cost was a royal statement that the dynasty's spiritual roots legitimized its throne.",
+  "option_explanations": {
+   "A": "Wrong: they patronized the shrine, as the carpet's commission proves \u2014 they did not destroy it.",
+   "B": "Wrong: it was woven for a Persian shrine, not for export.",
+   "C": "Right: the shrine commission ties dynastic legitimacy to the family's Sufi origins.",
+   "D": "Wrong: the carpet was woven in Persia itself (likely Tabriz region), not imported."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Ardabil_Carpet_-_Google_Art_Project.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-016",
+  "unit": 3,
+  "stimulus": "Four studies of Safavid Shah Abbas I \u2014 a drawn sketch, the shah holding a falcon, and two painted portraits \u2014 made by Bishandas, a Mughal court artist who traveled with Emperor Jahangir's embassy to the Safavid court at Isfahan in 1613.",
+  "stimulus_words": 42,
+  "stem": "The creation of these portraits is best understood as evidence of which of the following?",
+  "options": [
+   "(A) Shah Abbas's conquest of Mughal India, during which he captured Mughal court artists.",
+   "(B) A Safavid ban on portraiture that forced the shah to hire foreign painters in secret, away from the eyes of the religious scholars at court.",
+   "(C) Mughal artists' refusal to paint Muslim rulers for religious reasons.",
+   "(D) Active diplomatic contact between the Mughal and Safavid courts, with artists accompanying embassies to record the rival ruler's likeness."
+  ],
+  "key": "D",
+  "explanation": "Jahangir sent an embassy to Isfahan in 1613 and included his portraitist Bishandas precisely to bring back Shah Abbas's likeness \u2014 diplomacy conducted partly through images. The studies were later used for the allegorical Jahangir-Shah Abbas paintings back in India.",
+  "option_explanations": {
+   "A": "Wrong: Shah Abbas never conquered India; the portraits came from a Mughal embassy to Persia, not a Persian conquest.",
+   "B": "Wrong: the Safavid court had its own rich portrait tradition; no ban forced this.",
+   "C": "Wrong: Bishandas, a Mughal court artist, painted the Muslim shah without issue.",
+   "D": "Right: the portraits document embassy-level contact and the diplomatic uses of court art."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Portraits_of_Shah_Abbas_I_by_Bishandas_%281615-1620%29.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-017",
+  "unit": 3,
+  "stimulus": "A Mughal court miniature by Bichitr (ca. 1620s) showing Emperor Jahangir seated on a giant hourglass throne, handing a book to a Sufi shaikh while ignoring the figures waiting below: an Ottoman sultan, King James I of England, and the artist himself. A radiant sun-and-crescent halo surrounds Jahangir, and cherubs float above.",
+  "stimulus_words": 52,
+  "stem": "The painting's composition \u2014 Jahangir elevated on the throne, preferring the Sufi shaikh while kings wait below \u2014 most directly reflects which Mughal imperial claim?",
+  "options": [
+   "(A) Jahangir presented himself as a universal sovereign whose spiritual legitimacy outranked even foreign kings.",
+   "(B) Jahangir had militarily conquered both the Ottoman Empire and England.",
+   "(C) The Mughal court rejected Sufism as a threat to orthodox Islam.",
+   "(D) European kings were the Mughals' principal military allies against the Safavid Empire, fighting alongside Mughal armies in Persia."
+  ],
+  "key": "A",
+  "explanation": "The allegory is a sovereignty claim: the emperor sits above time itself (the hourglass throne), chooses spiritual wisdom over worldly kings, and dwarfs the Ottoman sultan and the English king. It asserts a universal kingship in which Jahangir's legitimacy \u2014 Sufi-blessed \u2014 surpasses all other rulers.",
+  "option_explanations": {
+   "A": "Right: every element \u2014 elevation, halo, the preferred shaikh, the waiting kings \u2014 proclaims universal, spiritually grounded sovereignty.",
+   "B": "Wrong: Jahangir conquered neither; the painting is allegory, not a battle report.",
+   "C": "Wrong: he honors the shaikh by preferring him \u2014 the opposite of rejection.",
+   "D": "Wrong: James I sought trading privileges (the East India Company), not a military alliance, and the Safavids were rivals, not a joint enemy."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-018",
+  "unit": 3,
+  "stimulus": "Detail from the same Bichitr miniature: below Jahangir's hourglass throne wait three figures \u2014 a man in an Ottoman-style turban, a bearded European in a broad-brimmed black hat (King James I of England), and an Indian artist holding up a painting.",
+  "stimulus_words": 41,
+  "stem": "The inclusion of the Ottoman and English figures in a Mughal court painting most directly reflects which of the following?",
+  "options": [
+   "(A) The Ottomans and the English had formed a military alliance aimed at overthrowing the Mughal emperor.",
+   "(B) The Mughal court knew of and contacted distant powers \u2014 the Ottomans to the west and the English, who sought trading privileges in India.",
+   "(C) Jahangir employed Ottoman and English generals to command his armies against the Rajputs.",
+   "(D) The figures prove that the Ottoman sultan and the English king personally traveled to Jahangir's court and sat for the Mughal artists themselves."
+  ],
+  "key": "B",
+  "explanation": "The figures encode real contacts: the Mughals knew the Ottomans as the great western Muslim power, and the English East India Company was actively petitioning Jahangir for trading rights (Sir Thomas Roe's embassy arrived in 1615). The court artist placed both within Jahangir's symbolic universe.",
+  "option_explanations": {
+   "A": "Wrong: no such alliance existed; the painting shows them as subordinate petitioners, not allies.",
+   "B": "Right: the figures reflect genuine Mughal awareness of Ottoman and English power and contact.",
+   "C": "Wrong: Mughal armies were commanded by Mughal nobles and mansabdars, not foreign generals.",
+   "D": "Wrong: neither ruler ever visited India \u2014 their presence here is allegorical."
+  },
+  "skill": "Making Connections",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bichitr_-_Jahangir_Preferring_a_Sufi_Shaikh_to_Kings%2C_from_the_St._Petersburg_album_-_Google_Art_Project.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-019",
+  "unit": 3,
+  "stimulus": "A Mughal court miniature (ca. 1618-1620, by Abu'l Hasan) showing Emperor Jahangir welcoming Safavid Shah Abbas I at his court: the two rulers sit together on a terrace with servants, fine vessels, and trays of fruit, cherubs holding a medallion above them. In reality the two rulers never met in person.",
+  "stimulus_words": 51,
+  "stem": "Given that the meeting never happened, the painting is best understood as...",
+  "options": [
+   "(A) a documentary record of a real diplomatic summit between the Mughal and Safavid empires.",
+   "(B) a Safavid painting celebrating Shah Abbas's dominance over the Mughal emperor.",
+   "(C) Mughal court propaganda projecting Jahangir as the greater sovereign graciously receiving a rival \u2014 prestige politics during an uneasy rivalry with Persia.",
+   "(D) evidence that the Mughal and Safavid empires had merged into a single state by 1620, with Shah Abbas serving as Jahangir's appointed viceroy in Isfahan in person."
+  ],
+  "key": "C",
+  "explanation": "Jahangir and Shah Abbas were rivals (they contested Qandahar), and the miniature stages a fantasy in which the Persian shah comes to Jahangir as a guest \u2014 with Jahangir the more splendid figure. Imaginary meetings were a Mughal tool for claiming superiority without fighting.",
+  "option_explanations": {
+   "A": "Wrong: the stimulus states the meeting never happened \u2014 it cannot be documentary.",
+   "B": "Wrong: it is a Mughal court work that centers Jahangir, not a Safavid celebration.",
+   "C": "Right: the fantasy meeting is propaganda, asserting Mughal prestige over a rival.",
+   "D": "Wrong: the two empires remained separate rivals throughout this period."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Causation",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/12_Abu%27l_Hasan_Jahangir_Welcoming_Shah_%27Abbas%2C_ca._1618%2C_Freer_Gallery_of_Art%2C_Washington_DC.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-020",
+  "unit": 3,
+  "stimulus": "A modern map titled 'Mughal Empire under Aurangzeb (1707)': the empire's territory (shaded green) covers nearly the entire Indian subcontinent, from Kabul and Kashmir in the north to the Deccan kingdoms of Bijapur and Golkonda in the south, with Delhi marked by a star as the capital.",
+  "stimulus_words": 47,
+  "stem": "The map shows the Mughal Empire at its greatest territorial extent. Which of the following best explains how the Mughals governed such a vast empire?",
+  "options": [
+   "(A) The Mughals left all conquered regions fully independent and collected no taxes from them.",
+   "(B) The empire was administered entirely by European trading companies operating under Mughal license, with the Dutch and English collecting the land revenue.",
+   "(C) Aurangzeb abolished the imperial administration and ruled solely through local Hindu kings.",
+   "(D) A centralized administration assessed and collected land revenue from the empire's rich agricultural lands, funding the army and the court."
+  ],
+  "key": "D",
+  "explanation": "The Mughal state ran on the zabt land-revenue system: measured fields, assessed taxes, collected by imperial officials and mansabdars. That agrarian revenue \u2014 from some of the world's richest farmland \u2014 paid for the armies that held the territory the map shows.",
+  "option_explanations": {
+   "A": "Wrong: the empire taxed its provinces intensively; independence plus no taxes describes nothing about Mughal rule.",
+   "B": "Wrong: Europeans held coastal trading factories; they did not administer the empire.",
+   "C": "Wrong: the mansabdari administration persisted under Aurangzeb; he did not abolish it.",
+   "D": "Right: centralized land-revenue collection was the fiscal base of Mughal power."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png",
+  "image_license": "CC BY-SA 4.0"
+ }
+]

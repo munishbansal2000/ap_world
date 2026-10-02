@@ -1,0 +1,342 @@
+[
+ {
+  "id": "wh-vis-u3-041",
+  "unit": 3,
+  "stimulus": "Detail from Kneller's 1698 portrait of Peter the Great: in the background behind the tsar, several tall-masted sailing ships ride at anchor on the water.",
+  "stimulus_words": 25,
+  "stem": "The ships in the background most directly point to which goal of Peter's reign?",
+  "options": [
+   "(A) Building a navy and gaining sea access \u2014 pursued through the Great Northern War against Sweden and the founding of St. Petersburg.",
+   "(B) Peter's plan to abandon Russia's land borders entirely and remake Russia as a Pacific whaling nation centered on the port of Okhotsk.",
+   "(C) The ships show that the English navy had already conquered Russia by 1698.",
+   "(D) Peter intended to use the new fleet to invade Qing China."
+  ],
+  "key": "A",
+  "explanation": "Russia was a landlocked giant; Peter's obsession was the sea. He built the Baltic fleet, fought Sweden for twenty-one years to win a 'window on the West,' and raised St. Petersburg on conquered marshland. The ships behind him are the program in miniature.",
+  "option_explanations": {
+   "A": "Right: sea access and naval power were the strategic core of Peter's reign.",
+   "B": "Wrong: his focus was the Baltic and European waters, not the Pacific or whaling.",
+   "C": "Wrong: Russia barely possessed a navy in 1698 \u2014 building one was the whole point.",
+   "D": "Wrong: no invasion of China was planned or attempted."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sir_Godfrey_Kneller_%281646-1723%29_-_Peter_the_Great%2C_Tsar_of_Russia_%281672-1725%29_-_RCIN_405645_-_Royal_Collection.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-042",
+  "unit": 3,
+  "stimulus": "A 17th-century European engraving labeled 'DAIFU SAMA. Iaponiae Imperator' ('Daifu Sama, Emperor of Japan'): it shows a man in a turban-like headdress and ornate robes. 'Daifu-sama' was what Jesuit missionaries and European merchants called Tokugawa Ieyasu, founder of the Tokugawa shogunate \u2014 though the headdress looks more Ottoman than Japanese.",
+  "stimulus_words": 50,
+  "stem": "The engraving's inaccurate, vaguely Ottoman-looking depiction of Japan's ruler best illustrates which of the following?",
+  "options": [
+   "(A) Tokugawa Ieyasu actually wore Ottoman-style turbans at official ceremonies, having adopted the fashion from Turkish merchants trading at Nagasaki.",
+   "(B) Even as contact grew, Europeans' direct knowledge of Japan stayed thin, so images of its rulers were often based on hearsay and imagination.",
+   "(C) The engraving is a photograph taken by a Jesuit missionary in Edo.",
+   "(D) Europeans had no interest in Japan in the 1600s and never depicted its rulers."
+  ],
+  "key": "B",
+  "explanation": "Few Europeans ever saw Ieyasu; Japan soon restricted foreign contact sharply. Engravers worked from travelers' tales and recycled 'exotic ruler' conventions \u2014 hence a Japanese shogun in a Turkish-looking turban. The image documents the limits of early-modern European knowledge, not Japanese dress.",
+  "option_explanations": {
+   "A": "Wrong: Ieyasu wore Japanese court and military dress; the turban is the engraver's fantasy.",
+   "B": "Right: the errors reveal how secondhand European images of Japan were.",
+   "C": "Wrong: photography did not exist in the 1600s.",
+   "D": "Wrong: the engraving itself proves sustained European interest in Japan's ruler."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Daifu_Sama%2C_PA08073.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-043",
+  "unit": 3,
+  "stimulus": "A formal Japanese portrait of Toyotomi Hideyoshi (Kodaiji Temple): he sits in elegant white imperial-court robes with a black cap, a sword at his side, with an inscription above recording his imperial court titles.",
+  "stimulus_words": 34,
+  "stem": "Hideyoshi rose from peasant origins to become Japan's unifier. His depiction here in imperial court dress with inscribed court titles most directly reflects which strategy?",
+  "options": [
+   "(A) Hideyoshi's rejection of all Japanese traditions in favor of imported Chinese customs, including the Confucian examination system.",
+   "(B) The portrait proves Hideyoshi was secretly a member of the imperial family by birth.",
+   "(C) Legitimizing his rule by obtaining high imperial court ranks, since his low birth barred him from claiming the title of shogun.",
+   "(D) Hideyoshi's abolition of the imperial court after completing the unification of Japan."
+  ],
+  "key": "C",
+  "explanation": "Hideyoshi could not become shogun \u2014 that title belonged to Minamoto-lineage warriors \u2014 so he had the emperor name him kampaku (imperial regent) and later taiko. The portrait's court robes and inscribed titles advertise the workaround: imperial rank as a substitute for warrior pedigree.",
+  "option_explanations": {
+   "A": "Wrong: he embraced Japanese court tradition; the robes are Japanese imperial dress.",
+   "B": "Wrong: his peasant birth is well documented \u2014 the titles were earned, not inherited.",
+   "C": "Right: court rank legitimized a ruler who could not claim shogun by birth.",
+   "D": "Wrong: he used the imperial institution; he did not abolish it."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Toyotomi_Hideyoshi_%28Kodaiji%29.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-044",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Yomeimon gate at the Toshogu shrine in Nikko: a two-story gate blazing with gold lacquer and hundreds of intricate carvings of dragons, lions, and sages. The shrine is the mausoleum of Tokugawa Ieyasu, whom the shogunate deified as Tosho Daigongen ('Great Deity of the East').",
+  "stimulus_words": 50,
+  "stem": "The shogunate's deification of Ieyasu and the shrine's extravagant decoration most directly served which purpose?",
+  "options": [
+   "(A) Providing a public park where commoners could picnic freely inside the shrine grounds during the annual cherry-blossom festival.",
+   "(B) Converting Japan's population to Christianity.",
+   "(C) Demonstrating the shogunate's rejection of all religious belief.",
+   "(D) Fusing religious reverence with political authority, so that loyalty to the Tokugawa house carried divine sanction."
+  ],
+  "key": "D",
+  "explanation": "A deified founder turns obedience into piety: pilgrimages to Nikko, court rituals, and the shrine's overwhelming splendor all taught that the Tokugawa order was divinely ordained. Deification was legitimation architecture \u2014 politics in the language of religion.",
+  "option_explanations": {
+   "A": "Wrong: it is a shogunal mausoleum-shrine, not a public park.",
+   "B": "Wrong: Christianity was being suppressed by the shogunate, not promoted.",
+   "C": "Wrong: deifying Ieyasu is an intensely religious act, not a rejection of religion.",
+   "D": "Right: the shrine sacralized Tokugawa rule."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikko_Toshogu_Yomeimon_Gate_2024.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-045",
+  "unit": 3,
+  "stimulus": "A modern photograph of Osaka Castle's main tower: a white, five-tiered tower with gold ornamentation rising above massive sloping stone walls. Toyotomi Hideyoshi built the original castle beginning in 1583 as the center of a unified Japan; the present tower is a 1931 reconstruction of the historic keep.",
+  "stimulus_words": 48,
+  "stem": "Hideyoshi's construction of Japan's largest castle at Osaka is best understood as...",
+  "options": [
+   "(A) a deliberate display of power \u2014 the castle's unprecedented scale announced that a single authority now ruled a unified Japan.",
+   "(B) a defensive refuge built so Hideyoshi could hide from peasant uprisings and from rival warlords in the surrounding countryside.",
+   "(C) a trading post designed to draw Portuguese merchants inland from the coast.",
+   "(D) a religious monastery where Hideyoshi retired from political life."
+  ],
+  "key": "A",
+  "explanation": "Osaka was the biggest castle Japan had ever seen, raised on the site of the Honganji temple-fortress Hideyoshi's predecessor had destroyed. Its scale was the message: the age of warring daimyo was over, and the new order had one center \u2014 Hideyoshi's.",
+  "option_explanations": {
+   "A": "Right: the castle's unprecedented size was political theater proclaiming unification.",
+   "B": "Wrong: it was a seat of power and administration, not a hiding place.",
+   "C": "Wrong: castles were military-political centers, not merchant trading posts.",
+   "D": "Wrong: Hideyoshi ruled from Osaka; he did not retire into religion."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Osaka_Castle%2C_Main_Tower_%282850633888%29.jpg",
+  "image_license": "CC BY 2.0"
+ },
+ {
+  "id": "wh-vis-u3-046",
+  "unit": 3,
+  "stimulus": "A 17th-century Japanese folding screen showing a bird's-eye view of Edo: the shogun's great castle complex dominates the city, surrounded by the mansions of daimyo, temples, and townspeople's districts, with gold clouds drifting above.",
+  "stimulus_words": 34,
+  "stem": "The screen's depiction of Edo Castle towering over the surrounding city most directly reflects which feature of the Tokugawa political order?",
+  "options": [
+   "(A) The emperor in Kyoto, not the shogun, controlled Japan's cities in the 1600s.",
+   "(B) The shogun's castle-town of Edo was Japan's political center, with daimyo required to keep residences there under the shogun's watchful control.",
+   "(C) Edo was an independent merchant republic free of samurai control, governed by an elected council of wealthy townsmen who paid no taxes to the shogun.",
+   "(D) The screen shows that Japan had no central government in the 1600s."
+  ],
+  "key": "B",
+  "explanation": "Edo was the bakuhan system's command post: alternate attendance (sankin kotai) forced daimyo to keep households in the shogun's city, and the castle's dominance over the urban landscape \u2014 exactly as the screen paints it \u2014 made the hierarchy visible.",
+  "option_explanations": {
+   "A": "Wrong: the emperor was a figurehead; real power sat with the shogun in Edo.",
+   "B": "Right: the castle-town layout embodies Tokugawa centralized control over the daimyo.",
+   "C": "Wrong: Edo was the shogun's seat, governed by his officials, not a merchant republic.",
+   "D": "Wrong: the Tokugawa shogunate was a strong central government."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Edo_LEFT_SCREEN.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-047",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Sankore Mosque in Timbuktu: massive mud-brick (adobe) walls, wooden beams protruding from the walls, and a tall pyramidal minaret-like tower topped with ostrich eggs. Under the Songhai Empire (especially Askia Muhammad, r. 1493-1528), its madrasa made Timbuktu a famed center of Islamic learning.",
+  "stimulus_words": 48,
+  "stem": "The Sankore madrasa's fame under Songhai rule is best understood in the context of which of the following?",
+  "options": [
+   "(A) The Songhai rulers banned Islam, so the mosque was built carefully in secret by foreign merchants who hid their faith from Askia.",
+   "(B) Timbuktu's scholars were entirely isolated from the rest of the Islamic world.",
+   "(C) Songhai's control of trans-Saharan trade routes generated the wealth that funded mosques, scholars, and libraries at Timbuktu.",
+   "(D) The madrasa taught only European languages to prepare students for trade with Portugal."
+  ],
+  "key": "C",
+  "explanation": "Timbuktu sat where the Niger trade met the Saharan caravan routes: gold and salt duties flowed to the Songhai treasury, and rulers like Askia Muhammad poured wealth into mosques and the scholars' stipends that made the city the 'Athens of Africa.'",
+  "option_explanations": {
+   "A": "Wrong: Askia promoted Islam \u2014 he made the pilgrimage to Mecca and patronized scholars.",
+   "B": "Wrong: Timbuktu's scholars corresponded with North Africa and Egypt; manuscripts prove the connections.",
+   "C": "Right: trade-route wealth funded the scholarly culture.",
+   "D": "Wrong: the madrasa taught Islamic law, theology, and Arabic letters, not European languages."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-048",
+  "unit": 3,
+  "stimulus": "Detail from the same Sankore Mosque: its walls are made of sun-dried mud bricks (banco), with palm-wood beams (toron) sticking out that serve as scaffolding for the annual re-plastering; the tower is crowned with ostrich eggs.",
+  "stimulus_words": 36,
+  "stem": "The mosque's mud-brick construction and ostrich-egg finials best illustrate which of the following?",
+  "options": [
+   "(A) The mosque was built by Egyptian architects using fine imported stone, exactly like the great historic mosques of Cairo and Alexandria.",
+   "(B) Mud-brick construction proves the Songhai Empire was too poor to build in stone.",
+   "(C) Local builders ignored Islamic tradition entirely when designing the mosque.",
+   "(D) West African builders adapted Islamic architecture to local Sudanic materials and traditions, creating a distinctive regional style."
+  ],
+  "key": "D",
+  "explanation": "Sudanic architecture is Islam in a West African idiom: banco brick and toron beams suit the Sahel's climate and materials, while the form \u2014 mosque, minaret, mihrab \u2014 is Islamic. The ostrich eggs, symbols of fertility and purity, show local symbolism woven into the faith.",
+  "option_explanations": {
+   "A": "Wrong: the visible mud brick and wooden beams are local, not imported Cairene stone.",
+   "B": "Wrong: Timbuktu was wealthy; banco is a sophisticated regional tradition, not a poverty marker.",
+   "C": "Wrong: it is unmistakably a mosque \u2014 minaret, prayer hall, qibla orientation.",
+   "D": "Right: the building is a fusion of Islamic forms with Sudanic materials and symbols."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Comparison",
+  "themes": [
+   "CDI",
+   "ENV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/2007_Sankore_Mosque_Timbuktu_01.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-049",
+  "unit": 3,
+  "stimulus": "A modern reference map of pre-colonial African states: the Songhai Empire is shown spanning the great bend of the Niger River in West Africa, with the cities of Timbuktu and Jenne-jeno inside its territory; the earlier Mali Empire lies to its west.",
+  "stimulus_words": 42,
+  "stem": "The map's depiction of Songhai's territory along the Niger bend, including Timbuktu and Jenne, most directly explains which source of Songhai power?",
+  "options": [
+   "(A) Songhai's dominance of Atlantic Ocean shipping lanes.",
+   "(B) The empire's control of East African coastal ports, from which its dhows sailed across the Indian Ocean to India and Arabia.",
+   "(C) Control of the Niger River trade cities and the trans-Saharan routes through them, yielding taxes on gold and salt.",
+   "(D) Songhai's conquest of the Mediterranean coast."
+  ],
+  "key": "C",
+  "explanation": "Songhai's empire was a river-and-caravan empire: holding Timbuktu, Jenne, and Gao meant taxing the gold moving north and the salt moving south. The map's Niger-bend footprint is literally the shape of that commercial control.",
+  "option_explanations": {
+   "A": "Wrong: Songhai was an interior empire; the map shows no Atlantic presence.",
+   "B": "Wrong: East Africa is thousands of kilometers away and outside Songhai territory.",
+   "C": "Right: the Niger-bend cities were the fiscal engine of the empire.",
+   "D": "Wrong: Songhai never reached the Mediterranean."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/African-civilizations-map-pre-colonial.svg",
+  "image_license": "CC BY-SA 3.0"
+ },
+ {
+  "id": "wh-vis-u3-050",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Tomb of Askia in Gao (Mali): a steep mud-brick pyramid, its walls studded with wooden beams, topped with an ostrich egg. Askia Muhammad (r. 1493-1528), who made the pilgrimage to Mecca, built it as his burial place.",
+  "stimulus_words": 42,
+  "stem": "Askia's grand tomb and his famous hajj are best understood as...",
+  "options": [
+   "(A) proof that Askia rejected Islam and promoted traditional African religions instead.",
+   "(B) efforts to legitimize his rule through Islam \u2014 presenting himself as a pious Muslim ruler at home and to the wider Islamic world.",
+   "(C) a sign that Songhai's rulers had no interest in connections beyond West Africa and deliberately rejected all foreign contacts and ideas.",
+   "(D) evidence that the pilgrimage to Mecca was forbidden to West African rulers."
+  ],
+  "key": "B",
+  "explanation": "Askia had seized the throne from Sunni Ali's son; the hajj (1496\u201397), his Abbasid caliphal recognition, and monumental Islamic building were how a usurper became God's deputy. The tomb in Sudanic style and the Meccan pilgrimage together claim legitimacy at home and abroad.",
+  "option_explanations": {
+   "A": "Wrong: the hajj and an Islamic tomb are the opposite of rejecting Islam.",
+   "B": "Right: pilgrimage plus monumental tomb equals Islamic legitimation.",
+   "C": "Wrong: the hajj linked him directly to Cairo and Mecca.",
+   "D": "Wrong: he famously performed the hajj \u2014 it was not forbidden."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg",
+  "image_license": "CC BY-SA 3.0"
+ }
+]

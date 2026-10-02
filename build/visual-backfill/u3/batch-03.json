@@ -1,0 +1,342 @@
+[
+ {
+  "id": "wh-vis-u3-021",
+  "unit": 3,
+  "stimulus": "Detail from the 'Mughal Empire under Aurangzeb (1707)' map: at the empire's southern edge the green shading stops around Arcot \u2014 the far southern tip of the subcontinent lies outside Mughal territory, as do parts of the northeast frontier.",
+  "stimulus_words": 39,
+  "stem": "Even at its greatest extent in 1707, the map shows Mughal territory stopping short of the far south. This pattern best supports which conclusion?",
+  "options": [
+   "(A) Despite its size, the empire never fully subdued the entire subcontinent, and the endless Deccan campaigns strained Mughal resources.",
+   "(B) The Mughals had no interest in southern India because the region lacked the agricultural wealth and tax revenue worth the cost of conquest.",
+   "(C) The British East India Company already controlled southern India by 1707.",
+   "(D) The map proves the Mughal Empire was primarily a maritime trading state rather than a land empire."
+  ],
+  "key": "A",
+  "explanation": "Aurangzeb spent his last 25 years grinding through the Deccan against the Marathas and the sultanates \u2014 wars that bled the treasury white. The map's hard southern limit is the visual signature of overextension: maximum territory coinciding with maximum strain.",
+  "option_explanations": {
+   "A": "Right: the un-conquered south reflects the limits and costs of Aurangzeb's Deccan wars.",
+   "B": "Wrong: the Deccan was wealthy and fiercely contested \u2014 lack of interest is not the explanation.",
+   "C": "Wrong: in 1707 the Company held coastal factories, not territorial control of the south.",
+   "D": "Wrong: the map shows a vast land empire; nothing about it suggests maritime primacy."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ENV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mughal_Empire%2C_1707.png",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-022",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Diwan-i-Am (Hall of Public Audience) in Delhi's Red Fort: a long open hall of red sandstone with rows of cusped arches, its broad veranda open to a courtyard where visitors gather.",
+  "stimulus_words": 36,
+  "stem": "Mughal emperors appeared daily at halls like this one to hear petitions and dispense justice. The hall's open, accessible design most directly reflects which imperial strategy?",
+  "options": [
+   "(A) Hiding the emperor from public view behind carved screens in order to create an aura of divine mystery and unapproachable majesty.",
+   "(B) Cultivating an image of the emperor as an accessible dispenser of justice, legitimizing rule over a vast and diverse population.",
+   "(C) Using the hall as a barracks for housing the imperial guard.",
+   "(D) Demonstrating the emperor's rejection of all public ceremony and ritual."
+  ],
+  "key": "B",
+  "explanation": "The daily jharokha appearance and the public audience were theater of justice: any subject could theoretically be seen and heard. For a Muslim dynasty ruling a Hindu-majority empire, the visible, accessible emperor dispensing justice was a core legitimation tool.",
+  "option_explanations": {
+   "A": "Wrong: the open arcade design is the opposite of concealment.",
+   "B": "Right: accessibility-as-justice was central to Mughal imperial image-making.",
+   "C": "Wrong: it is an audience hall, not a barracks.",
+   "D": "Wrong: the daily appearance was itself one of the empire's most important ceremonies."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Diwan-i-Am_%28Red_Fort%29%2C_Delhi%2C_India%2C_2018.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-023",
+  "unit": 3,
+  "stimulus": "A modern photograph of the Buland Darwaza at Fatehpur Sikri: a colossal red-sandstone gateway, 54 meters tall, approached by a steep flight of steps. Akbar built it around 1576-77 to commemorate his conquest of Gujarat.",
+  "stimulus_words": 35,
+  "stem": "The gateway's enormous scale and its placement as the entrance to the imperial mosque complex most directly reflect which of the following?",
+  "options": [
+   "(A) A ceremonial fortress built to defend Fatehpur Sikri against European artillery, which Akbar feared might arrive with the Portuguese.",
+   "(B) Akbar's tomb for his Sufi spiritual guide, Salim Chishti.",
+   "(C) Akbar's use of monumental architecture to advertise military victory and project imperial power over newly conquered regions.",
+   "(D) A Mughal rejection of all Persian and Indian architectural traditions."
+  ],
+  "key": "C",
+  "explanation": "Victory monuments convert conquest into permanent propaganda. Set into the congregational mosque of his new capital, the gate told every visitor \u2014 and the newly subjected Gujaratis \u2014 that Akbar's victories were divinely favored and irreversible.",
+  "option_explanations": {
+   "A": "Wrong: it is a ceremonial victory arch, not a defensive work.",
+   "B": "Wrong: Salim Chishti's tomb is a separate, smaller marble structure nearby.",
+   "C": "Right: scale plus placement equals a deliberate projection of victorious imperial power.",
+   "D": "Wrong: the gate blends Persianate and Indian forms; it does not reject them."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-024",
+  "unit": 3,
+  "stimulus": "The same Buland Darwaza gateway. Around its main arch runs a Persian inscription quoting a saying attributed to Jesus, son of Mary: 'The world is a bridge, pass over it, but build no houses upon it.'",
+  "stimulus_words": 36,
+  "stem": "The presence of a saying of Jesus on the ceremonial gateway of a Muslim emperor's mosque complex is best understood as evidence of...",
+  "options": [
+   "(A) Akbar's conversion to Christianity late in his reign.",
+   "(B) A Mughal law requiring all public buildings to quote Christian scripture.",
+   "(C) The insignificance of Islam at the Mughal court, which had effectively abandoned the religion in favor of a new imperial cult.",
+   "(D) Akbar's policy of religious inclusivity (sulh-i kul, 'universal peace'), which drew wisdom from multiple religious traditions."
+  ],
+  "key": "D",
+  "explanation": "At Fatehpur Sikri Akbar hosted the famous interfaith debates and pursued sulh-i kul \u2014 'peace with all.' Carving a saying of Jesus onto the empire's grandest gateway announced that truth could come from many traditions, a hallmark of Akbar's ecumenical imperial style.",
+  "option_explanations": {
+   "A": "Wrong: Akbar never converted to Christianity.",
+   "B": "Wrong: no such law existed; the inscription reflects Akbar's personal policy, not a legal requirement.",
+   "C": "Wrong: the complex is itself a great congregational mosque \u2014 Islam was central, not abandoned.",
+   "D": "Right: the Jesus inscription exemplifies Akbar's inclusive, multi-tradition legitimation."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Buland_Darwaza%2C_Fatehpur_Sikri%2C_Agra.jpg",
+  "image_license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "wh-vis-u3-025",
+  "unit": 3,
+  "stimulus": "A Mughal court miniature showing the young emperor Akbar riding and subduing a charging, musth elephant with an ankus (goad), trees and birds around him.",
+  "stimulus_words": 25,
+  "stem": "The Mughal court's production of paintings like this one most directly reflects which of the following?",
+  "options": [
+   "(A) Court art projected the emperor's personal courage and mastery over the wild \u2014 qualities presented as proof of his fitness to rule.",
+   "(B) Elephants were the Mughals' main export commodity, and the painting advertised them regularly to foreign buyers in Persia and Central Asia.",
+   "(C) The painting documents Akbar's abandonment of warfare in favor of animal conservation.",
+   "(D) Mughal artists painted only religious subjects and avoided depicting the emperor."
+  ],
+  "key": "A",
+  "explanation": "The musth-elephant episode (1561) became a stock Mughal image of charismatic kingship: the young ruler's bodily mastery of a raging beast stood for his mastery of the empire. Court ateliers existed to manufacture exactly this aura of the extraordinary ruler.",
+  "option_explanations": {
+   "A": "Right: the image is charisma made visible \u2014 courage as a qualification for sovereignty.",
+   "B": "Wrong: it is court propaganda, not a trade advertisement.",
+   "C": "Wrong: subduing the elephant with a goad is about domination, not conservation.",
+   "D": "Wrong: Mughal ateliers painted court life, portraits, and hunts extensively."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Kaiser_Akbar_b%C3%A4ndigt_einen_Elefanten.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-026",
+  "unit": 3,
+  "stimulus": "A Mughal court miniature by Abu'l Hasan showing Empress Nur Jahan, wife of Emperor Jahangir, dressed in a man's turban and trousers and loading a long hunting musket, with a powder horn and bullet pouch at her waist.",
+  "stimulus_words": 38,
+  "stem": "This portrait is most significant as evidence that...",
+  "options": [
+   "(A) Mughal women were completely secluded and never appeared in public or political life.",
+   "(B) some elite Mughal women could wield public, even sovereign-style power \u2014 Nur Jahan issued imperial orders in her name and hunted, a royal prerogative.",
+   "(C) the musket proves the Mughal army had fallen hopelessly behind European armies in military technology and could no longer win battles decisively against any foe.",
+   "(D) Nur Jahan personally led Mughal armies in battle against the Safavid Empire."
+  ],
+  "key": "B",
+  "explanation": "Nur Jahan was effectively co-sovereign in Jahangir's later years: coins were struck in her name and farmans issued under her seal. A court painter showing the empress loading a musket \u2014 hunting being a sovereign's prerogative \u2014 visualizes a woman wielding imperial power openly.",
+  "option_explanations": {
+   "A": "Wrong: the portrait itself, commissioned at court, contradicts total seclusion.",
+   "B": "Right: the image matches the historical record of Nur Jahan's extraordinary public authority.",
+   "C": "Wrong: the painting is about the empress, not a technology comparison with Europe.",
+   "D": "Wrong: she did not personally command armies against Persia; the claim overreaches what the evidence supports."
+  },
+  "skill": "Sourcing and Situation",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "SIO",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Nur_Jahan_holding_a_gun.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-027",
+  "unit": 3,
+  "stimulus": "A Mughal miniature (ca. 1690-1710, Cleveland Museum of Art) showing the aged emperor Aurangzeb \u2014 white-bearded and haloed \u2014 on horseback holding a spear, an attendant carrying a parasol behind him.",
+  "stimulus_words": 31,
+  "stem": "Aurangzeb spent the last decades of his reign on nearly continuous military campaign in the Deccan. The image of the elderly emperor still on horseback best illustrates which problem facing the later Mughal Empire?",
+  "options": [
+   "(A) The emperor's refusal to ever leave his palace, which provoked the frustrated nobility to openly plot rebellion against his authority.",
+   "(B) A Mughal alliance with the Marathas that had ended all warfare in the Deccan.",
+   "(C) Overextension: endless Deccan wars drained the treasury and kept the emperor from the capital, straining the empire's administration.",
+   "(D) The complete collapse of Mughal miniature painting during Aurangzeb's reign."
+  ],
+  "key": "C",
+  "explanation": "Aurangzeb's 25-year Deccan grind \u2014 against the Marathas and the Deccan sultanates \u2014 consumed revenues, tied down the army, and left the north administered at a distance. The warrior-emperor who never came home is the human face of imperial overextension.",
+  "option_explanations": {
+   "A": "Wrong: the opposite \u2014 he campaigned constantly and rarely saw his capital.",
+   "B": "Wrong: the Marathas were his most relentless enemies, not allies.",
+   "C": "Right: perpetual campaigning shows an empire stretched beyond sustainable limits.",
+   "D": "Wrong: the miniature itself, painted ca. 1690-1710, disproves a total collapse."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Causation",
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "difficulty": "hard",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Emperor_Aurangzeb_on_Horseback_ca._1690%E2%80%931710_The_Cleveland_Museum_of_Art.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-028",
+  "unit": 3,
+  "stimulus": "A Mughal miniature (ca. 1660, attributed to Bichitr) showing Emperor Aurangzeb holding court under a canopied throne: nobles stand in ranked order around him, one holding a parasol over the emperor, another a shield, while a prince and a hunting falcon attend at his side.",
+  "stimulus_words": 45,
+  "stem": "The formal arrangement of figures in the durbar scene most directly reflects which feature of Mughal rule?",
+  "options": [
+   "(A) The emperor shared power equally with an elected council of nobles.",
+   "(B) Mughal nobles were forbidden from attending court in person.",
+   "(C) The durbar was a purely religious ceremony with no political function, attended only by priests and wandering Sufi holy men.",
+   "(D) Court ritual displayed a strict hierarchy centered on the emperor, through whom honors, ranks, and patronage flowed."
+  ],
+  "key": "D",
+  "explanation": "The durbar was government as theater: every noble's place in the ranked semicircle showed his mansab (rank), and all favor flowed from the emperor's person \u2014 the parasol, the throne, the ordered attendants all say that proximity to the ruler was the currency of power.",
+  "option_explanations": {
+   "A": "Wrong: no elected council existed; power radiated from the emperor alone.",
+   "B": "Wrong: the nobles are depicted attending in careful order.",
+   "C": "Wrong: the durbar was the political heart of the empire, where appointments and honors were dispensed.",
+   "D": "Right: the composition visualizes hierarchy and the emperor's monopoly on patronage."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Darbarscene.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-029",
+  "unit": 3,
+  "stimulus": "A Qing court portrait of the Kangxi emperor in full armor, mounted on a white horse, bow and quiver of arrows on his back, an inscription in Chinese characters above.",
+  "stimulus_words": 30,
+  "stem": "That a Manchu emperor who ruled China through a Confucian bureaucracy chose to be portrayed as an armored horseman most directly reflects which of the following?",
+  "options": [
+   "(A) Qing rulers preserved and advertised their Manchu martial identity even while adopting Chinese imperial institutions.",
+   "(B) The Kangxi emperor personally fought as a common foot soldier in every battle of his reign, leading charges on foot with a spear.",
+   "(C) The Qing had abandoned all Manchu customs and become culturally identical to the Ming dynasty.",
+   "(D) Chinese portraiture traditions forbade depicting emperors in military dress."
+  ],
+  "key": "A",
+  "explanation": "The Qing were conquest rulers: Manchu bannermen had taken China, and emperors like Kangxi cultivated the image of the warrior-hunter alongside the Confucian sage. The armored equestrian portrait kept the founding martial identity alive for a dynasty that now governed through Chinese-style civil administration.",
+  "option_explanations": {
+   "A": "Right: the portrait balances Manchu military heritage with Chinese imperial rule.",
+   "B": "Wrong: he is portrayed as a mounted commander-sovereign, not a common foot soldier.",
+   "C": "Wrong: the armor and bow assert a distinct Manchu identity, not its abandonment.",
+   "D": "Wrong: the portrait's existence disproves any such prohibition."
+  },
+  "skill": "Developments and Processes",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Armoured_Kangxi_Emperor.jpg",
+  "image_license": "Public domain"
+ },
+ {
+  "id": "wh-vis-u3-030",
+  "unit": 3,
+  "stimulus": "A Qing court portrait of the Kangxi emperor in informal dress and a red cap, seated at a writing desk holding a large calligraphy brush, with dragons painted on the screen behind him.",
+  "stimulus_words": 33,
+  "stem": "This portrait's emphasis on the brush and the scholarly setting most directly reflects which Qing legitimation strategy?",
+  "options": [
+   "(A) Showing that the emperor had retired from government to become a full-time artist.",
+   "(B) Presenting the Manchu emperor as a Confucian sage-ruler, mastering Chinese civilization's cultural symbols to legitimize conquest rule.",
+   "(C) Proving that Manchu emperors were unable to read or write Chinese and needed court interpreters to understand their own officials' daily memorials.",
+   "(D) Demonstrating the Qing dynasty's rejection of all Chinese cultural traditions."
+  ],
+  "key": "B",
+  "explanation": "Foreign conquerors needed more than armies: by mastering calligraphy, classical learning, and the scholar's brush, Kangxi claimed the Mandate of Heaven in Chinese cultural terms. The portrait argues that Manchu rule was legitimate because the emperor embodied Confucian rulership.",
+  "option_explanations": {
+   "A": "Wrong: he is shown at work as a ruler-scholar, not in retirement.",
+   "B": "Right: the scholar's brush is a deliberate claim to Confucian legitimacy.",
+   "C": "Wrong: wielding the brush expertly implies mastery, not illiteracy.",
+   "D": "Wrong: the portrait embraces Chinese cultural symbols rather than rejecting them."
+  },
+  "skill": "Claims and Evidence in Sources",
+  "reasoning": "Continuity and Change",
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "difficulty": "medium",
+  "source_id": null,
+  "source_stimulus_words": null,
+  "image_verified": "2026-10-02",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Emperor_Kangxi_at_his_desk.jpg",
+  "image_license": "Public domain"
+ }
+]
