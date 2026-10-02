@@ -37,7 +37,7 @@
     "stem": "India's 1950 constitution addressed the practices targeted by the anti-untouchability laws by",
     "options": [
       "(A) mandating Hindi as the country's only official language",
-      "(B) Abolishing 'untouchability' and banning caste discrimination",
+      "(B) Abolishing 'untouchability' and caste discrimination",
       "(C) establishing Hinduism as the state religion",
       "(D) restoring the princely states to full sovereignty"
     ],
@@ -69,7 +69,7 @@
       "(A) Legislation always ends discrimination immediately and completely",
       "(B) Courts never enforce anti-discrimination laws",
       "(C) Constitutions are incapable of addressing social problems",
-      "(D) Legal equality can be proclaimed far faster than social attitudes change"
+      "(D) Legal equality comes far faster than social attitudes change"
     ],
     "key": "D",
     "explanation": "Both India and the United States show the same pattern: the law moves first, society follows slowly. Statutes can desegregate schools or criminalize caste abuse, but prejudices embedded over centuries do not vanish by decree — which is why both countries needed decades of further struggle after their landmark laws.",
@@ -160,7 +160,7 @@
     "options": [
       "(A) the number of hospitals in each region",
       "(B) each region's average temperature",
-      "(C) the number of languages spoken in each region",
+      "(C) the number of languages spoken in each region's population",
       "(D) Deaths from AIDS-related illnesses in each region"
     ],
     "key": "D",
@@ -222,7 +222,7 @@
     "options": [
       "(A) The Spanish colonizers of the 1500s",
       "(B) The Mississippian peoples of North America",
-      "(C) The Olmec, seen as Mesoamerica's 'mother culture'",
+      "(C) The Olmec, Mesoamerica's 'mother culture'",
       "(D) The Inca of the South American Andes"
     ],
     "key": "C",
@@ -251,7 +251,7 @@
     "visual_reconstructed": true,
     "stem": "In addition to foodstuffs, long-distance trade among the cities shown most likely included which of the following prestige goods?",
     "options": [
-      "(A) Coffee and sugar from plantations",
+      "(A) Coffee and sugar from coastal plantations",
       "(B) Jade, obsidian, cacao, quetzal feathers",
       "(C) Chinese silk and porcelain",
       "(D) Horses and iron tools from Europe"
@@ -285,7 +285,7 @@
       "(A) caused entirely by the Spanish invasion",
       "(B) a complete and permanent abandonment of every Maya city",
       "(C) unrelated to any environmental factors",
-      "(D) a political fragmentation of city-states; Maya peoples endured"
+      "(D) political fragmentation; Maya peoples endured"
     ],
     "key": "D",
     "explanation": "What 'collapsed' was a political system — the divine kingship of Classic-period city-states — not a people. Millions of Maya descendants live in the region today, and cities in the northern lowlands thrived after the southern dynasties fell. The old image of a vanished civilization has given way to a story of political transformation.",
@@ -314,7 +314,7 @@
     "options": [
       "(A) Whether China possessed any real military technology at all",
       "(B) Whether naval warfare mattered in this period",
-      "(C) Whether divided Europe innovated militarily faster than unified China",
+      "(C) Whether divided Europe innovated faster than unified China",
       "(D) Whether gunpowder was invented in Europe"
     ],
     "key": "C",
@@ -342,7 +342,7 @@
     "stimulus": "A historian argues that China's rulers invested less in early gunpowder artillery not from cultural blindness but because their most dangerous enemies were mobile nomadic horsemen of the northern steppe — against whom heavy, slow-firing cannon were nearly useless.\n\nThe transmission routes ran both ways across Eurasia: gunpowder recipes and casting techniques traveled west with the Mongol conquests, while improved European cannon designs later flowed back east. What the Islamic world did not import wholesale was the institutional package — standing, drilled infantry armies — that eventually made gunpowder decisive in Europe.",
     "stem": "According to historians who defend the rationality of China's choices, Ming military investment focused instead on",
     "options": [
-      "(A) Defending the northern frontier against nomadic cavalry",
+      "(A) Defending the northern frontier against nomads",
       "(B) Building a blue-water navy to conquer Europe outright",
       "(C) Developing nuclear weapons",
       "(D) Abandoning all military spending"
@@ -435,7 +435,7 @@
       "(A) a diplomatic letter addressed to a foreign king",
       "(B) a merchant's commercial contract",
       "(C) a military order to an army",
-      "(D) communal moral instruction for the Muslim community"
+      "(D) communal moral instruction for Muslims"
     ],
     "key": "D",
     "explanation": "The direct address to the community of believers marks this as communal legislation: God speaking to Muslims as a body about how they should live. The form tells us the audience and the purpose — shaping the moral conduct of the faithful, not conducting diplomacy or business.",
@@ -463,7 +463,7 @@
     "stem": "The existence of this wine poetry alongside the Qur'anic prohibition suggests",
     "options": [
       "(A) Wine was legally sold inside mosques with clerical approval",
-      "(B) Diverse currents in Islamic civilization defying legal norms",
+      "(B) Diverse currents in Islamic civilization defying norms",
       "(C) Persian poets were all non-Muslims outside Islamic law",
       "(D) The Qur'an was unknown in Persia until modern times"
     ],
@@ -493,7 +493,7 @@
     "stem": "The most striking feature of the data is the ratio of native to European troops. This pattern best reflects which British strategy?",
     "options": [
       "(A) Recruiting Europeans from within India's own population",
-      "(B) Garrisoning India cheaply with sepoys under European officers",
+      "(B) Cheap sepoy garrisons under European officers",
       "(C) Excluding Indians from all military service",
       "(D) Preparing to grant India independence soon"
     ],
@@ -554,7 +554,7 @@
     "options": [
       "(A) an invasion of India by Russia",
       "(B) the abolition of the caste system",
-      "(C) Rumors that new cartridges were greased with cow and pig fat",
+      "(C) Rumors of cartridges greased with cow and pig fat",
       "(D) a British decision to disband all sepoy regiments entirely"
     ],
     "key": "C",
@@ -584,7 +584,7 @@
     "stem": "The translation of the sign into Arabic best illustrates which of the following?",
     "options": [
       "(A) A government ban on the English language",
-      "(B) Glocalization — global brands adapting to local cultures",
+      "(B) Glocalization — global brands adapting locally",
       "(C) The disappearance of all local culture",
       "(D) Arab ownership of the McDonald's corporation itself"
     ],
@@ -616,7 +616,7 @@
       "(A) Universal celebration with no criticism anywhere",
       "(B) The collapse of every local business in every single country",
       "(C) The end of all international trade",
-      "(D) Anti-globalization protests defending local cultures and economies"
+      "(D) Anti-globalization protests defending local cultures"
     ],
     "key": "D",
     "explanation": "The global reach of American brands made them symbols — and targets. From French farmers dismantling a McDonald's to campaigns against sweatshop labor, critics have treated multinationals as the face of cultural homogenization and economic inequality, making them focal points of the anti-globalization movement.",
@@ -643,7 +643,7 @@
     "stimulus": "Critics call the worldwide spread of American brands 'cultural imperialism' — the steamrolling of local cultures by U.S. mass culture. Defenders reply that the picture is more complicated: local consumers are not passive, and foreign products are constantly reshaped by the people who buy them.",
     "stem": "Scholars who defend the spread of global brands against the 'cultural imperialism' charge argue that",
     "options": [
-      "(A) Multinational corporations never adapt their products to local markets",
+      "(A) Multinational corporations never adapt their products to any local markets",
       "(B) Local consumers actively adapt foreign products, creating hybrid cultures",
       "(C) globalization has no cultural effects of any kind",
       "(D) all local cultures have already completely disappeared"
@@ -674,7 +674,7 @@
     "stem": "Societies like those shown were able to form mainly because",
     "options": [
       "(A) they possessed industrial-era weapons",
-      "(B) Central states could not project power into frontier zones",
+      "(B) Central states could not reach frontier zones",
       "(C) European empires actively encouraged their formation",
       "(D) they received massive foreign military aid"
     ],
@@ -734,7 +734,7 @@
     "stem": "Over time, the Russian state dealt with the Cossack hosts mainly by",
     "options": [
       "(A) deporting them to the Americas",
-      "(B) absorbing them as military servitors of the empire",
+      "(B) absorbing them as imperial military servitors",
       "(C) exterminating them completely",
       "(D) granting them full and permanent independence"
     ],
@@ -796,7 +796,7 @@
       "(A) a minor mutiny of no real historical significance",
       "(B) a British victory worth celebrating",
       "(C) a religious crusade against Islam",
-      "(D) India's 'First War of Independence' against colonial rule"
+      "(D) India's 'First War of Independence'"
     ],
     "key": "D",
     "explanation": "British histories called 1857 a 'mutiny' — a breakdown of military discipline. Indian nationalists, beginning with V.D. Savarkar's 1909 history, renamed it the First War of Independence: a national uprising against foreign rule. The name you give the event reveals whose history you are writing.",
@@ -824,7 +824,7 @@
     "stem": "British newspapers' coverage of Cawnpore was used in Britain to justify",
     "options": [
       "(A) an alliance with the Mughal emperor",
-      "(B) brutal reprisals against Indian rebels and civilians",
+      "(B) brutal reprisals against rebels and civilians",
       "(C) the immediate granting of Indian independence",
       "(D) the abolition of the British army"
     ],
