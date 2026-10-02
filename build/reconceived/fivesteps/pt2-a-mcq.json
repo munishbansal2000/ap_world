@@ -222,26 +222,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "The 'better man' is the mocked water carrier who, without hesitation, risks and gives his life for the soldier who abused him. Kipling suggests that true nobility, courage and selflessness, can live in the despised native, quietly rebuking the racial arrogance of the empire he served.",
+    "explanation": "'You're a better man than I am' lands differently when the speaker has just confessed to belting and flaying its object. The tribute is not magnanimity from above but guilt from below: the abused native's courage exposes the abuser's moral failure. Kipling turns the imperial hierarchy upside down in the final line, and the confession is what does the turning. (B) is wrong because the narrator describes years of shared service. (C) is wrong because no promotion occurs; Din dies a water carrier. (D) is wrong because the poem's hero is Din, not the narrator.",
     "id": "wh-fivesteps-u6-022",
     "key": "A",
     "option_explanations": {
-      "A": "Correct. Gunga Din's selfless courage under fire makes him morally greater than his abuser.",
-      "B": "Wrong. The poem contrasts moral stature, not physical fitness.",
-      "C": "Wrong. Din is a water carrier, not a strategist; the point is moral, not tactical.",
-      "D": "Wrong. Religion is not the poem's subject; self-sacrifice is."
+      "A": "Correct. The confession makes the tribute guilt, not magnanimity — the abused man's courage indicts the abuser.",
+      "B": "Wrong. The narrator describes years of shared service with Din.",
+      "C": "Wrong. No promotion occurs; Din dies a water carrier.",
+      "D": "Wrong. The poem's hero is Din, not the narrator."
     },
     "options": [
-      "(A) Gunga Din's selfless courage makes him morally greater than the narrator",
-      "(B) Gunga Din is physically stronger",
-      "(C) Gunga Din is a better military strategist",
-      "(D) Gunga Din is more religious, and his piety guarantees him a higher place in heaven"
+      "(A) The praise becomes a confession of guilt: the narrator honors a man he himself abused",
+      "(B) The narrator reveals he never actually met Gunga Din",
+      "(C) The admission proves the narrator promoted Din to officer rank",
+      "(D) The poem is really a boast about the narrator's own battlefield heroism"
     ],
     "reasoning": "Causation",
     "skill": "Causation",
     "source_id": "fivesteps-u6-022",
     "source_stimulus_words": 270,
-    "stem": "The narrator, who once beat Gunga Din, ends by calling him 'a better man than I am.' What is the poem's point?",
+    "stem": "The narrator closes by admitting he once 'beat and cursed' Gunga Din. What does this admission change about the final tribute?",
     "stimulus": "Paraphrase of Rudyard Kipling's 'Gunga Din' (1890): The narrator, a British soldier in India, recalls the regiment's bhisti, or water carrier, Gunga Din, a man the soldiers mocked and beat. With only a rag and a goatskin water bag for equipment, Din followed the regiment through every battle, fearless under fire. One night the narrator, wounded and choking with thirst, was found by Din, who gave him foul water, staunched his wound, and carried him to safety, taking a bullet himself. Dying, Din asked only if the narrator liked his drink. The soldier closes: though I beat and cursed you, you are a better man than I am, Gunga Din.",
     "stimulus_words": 110,
     "themes": [

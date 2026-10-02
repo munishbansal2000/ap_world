@@ -224,26 +224,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "Schmidel dwells on the expedition's hunger — four years without bread, living on fish and meat — and on Lampere's 'plenty of victual' as 'most commodious for us.' The attack is frankly about seizing a well-fed town's food stores to keep starving soldiers alive. (A) is wrong because Christianity is mentioned only in passing; the motive argued is material. (C) is wrong because the passage never discusses the Spanish crown's power. (D) is wrong because the Spaniards sought the town's supplies, not its warriors as allies.",
+    "explanation": "The Lampere learned of the Spanish approach and prepared: spike-lined pits, a 4,000-man army, and a three-day defense of their town. Conquest was no walkover — native peoples mounted organized, prepared resistance. Yet the Spaniards' brass guns routed the defenders and they took the town after three days: the conquest-era pattern of fierce indigenous resistance ultimately broken by firepower, disease, and relentless follow-through. (A) is wrong because the passage describes elaborate preparations and a three-day defense. (C) is wrong because the Spaniards fired their guns and assaulted the town for three days. (D) is wrong because the pits were the Lampere's own defensive work, dug before the Spanish arrived.",
     "id": "wh-fivesteps-u4-014",
     "key": "B",
     "option_explanations": {
-      "A": "Wrong. Christianity appears only incidentally; the passage's emphasis is on hunger and the town's food supplies.",
-      "B": "Correct. Four years without bread made Lampere's abundant food stores the expedition's real objective.",
-      "C": "Wrong. The passage never discusses increasing the Spanish crown's power.",
-      "D": "Wrong. The Spaniards wanted the town's provisions, not its warriors as military allies."
+      "A": "Wrong. The passage describes elaborate defensive preparations and a three-day defense of the town.",
+      "B": "Correct. The Lampere mounted organized, prepared resistance, but Spanish guns and persistence took the town — the conquest-era pattern.",
+      "C": "Wrong. The Spaniards fired their brass guns and assaulted the town for three days.",
+      "D": "Wrong. The pits were the Lampere's own defensive work, dug before the Spanish arrived."
     },
     "options": [
-      "(A) To spread Christianity",
-      "(B) To seize the town's abundant food supplies",
-      "(C) To increase the power of the Spanish crown",
-      "(D) To recruit local allies for further conquests"
+      "(A) Native peoples offered no resistance and fled at the first sight of Europeans",
+      "(B) Indigenous peoples prepared organized defenses, but Spanish persistence and firepower often overcame them",
+      "(C) The Spanish captured Lampere without firing a single shot",
+      "(D) Pit traps with sharpened stakes were a European military invention brought to the Americas"
     ],
     "reasoning": "Causation",
     "skill": "Causation",
     "source_id": "fivesteps-u4-001",
     "source_stimulus_words": 283,
-    "stem": "Schmidel's account stresses that the Spaniards had not seen bread in four years and calls Lampere's plentiful food 'most commodious for us.' What does this reveal about early Spanish expeditions?",
+    "stem": "Before the battle, the Lampere dug pit traps lined with sharpened stakes and massed four thousand bowmen to meet three hundred Spaniards. What does this preparation show about early Spanish conquests?",
     "stimulus": "Paraphrase of an account by a German mercenary who joined a Spanish expedition to South America in 1535 and was present at the founding of Asuncion, Paraguay, in 1537: The town of Lampere had dug pits lined with sharpened stakes to trap pursuing Christians. When our commander gathered his soldiers — no more than three hundred — and marched on Lampere, its people, who had learned of our coming, assembled an army of four thousand with bows and arrows in their fashion. They sent word offering to supply us with food and necessities if we would peacefully return to our companions. But it suited neither our commander nor ourselves to accept, for this nation and country, with its abundance of provisions, was most convenient for us — especially since in four whole years we had not seen a morsel of bread, living only on fish and flesh, and often in great scarcity. We replied that they should keep quiet and we would be their friends. They refused. Then we fired our brass guns at them. Hearing and seeing so many fall dead, with neither bullets nor arrows visible but only holes in their bodies, they fled in terror to shelter in their town, and more than three hundred, in their panic, fell into the very pits they had dug. We then assaulted the town, which they defended courageously for three days.",
     "stimulus_words": 231,
     "themes": [
@@ -761,26 +761,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "The king did not mine salt or breed horses himself; his revenue came from taxing the commerce flowing through his territory: duties on the salt caravans, tribute from subject peoples enforced by skirmishing against those who refused, and control over the horse market. Taxing trade, not producing goods, financed Songhai power.",
+    "explanation": "By marrying his daughters into merchant families, the king tied the commercial elite to the throne; by funding mosques, judges, and scholars, he presented himself as a pious Muslim ruler worthy of obedience. Trade wealth was converted into political legitimacy — the dynasty's prosperity visibly served religion and learning, not just the palace. (A) is wrong because the passage shows merchants enriched and honored, not banned. (B) is wrong because Europeans had no role in funding Timbuktu's scholars. (C) is wrong because the king invested heavily in scholars and merchant alliances, not force alone.",
     "id": "wh-fivesteps-u2-005",
     "key": "D",
     "option_explanations": {
-      "A": "Wrong. Salt was mined at Tegaza, five hundred miles away; the king taxed its trade rather than producing it.",
-      "B": "Wrong. The daughters' marriages were alliances binding merchant wealth to the crown, not sales.",
-      "C": "Wrong. The king imported horses for his cavalry; he was a buyer, not a reseller.",
-      "D": "Correct. Taxing trans-Saharan commerce and exacting tribute from subject peoples financed the king's power and expansion."
+      "A": "Wrong. The passage shows merchants enriched and honored, not banned or plundered.",
+      "B": "Wrong. Europeans had no role in funding Timbuktu's scholars and mosques.",
+      "C": "Wrong. The king invested heavily in scholars and merchant alliances, not force alone.",
+      "D": "Correct. Marrying into merchant wealth and funding Islamic learning turned commerce into royal legitimacy."
     },
     "options": [
-      "(A) By mining and selling salt directly",
-      "(B) By selling his daughters to merchants",
-      "(C) By importing North African warhorses and reselling them at a profit to desert traders",
-      "(D) By taxing trans-Saharan trade and exacting tribute from subject peoples"
+      "(A) The king seized all merchant wealth and banned foreign traders from Timbuktu",
+      "(B) European missionaries paid for the city's scholars and mosques",
+      "(C) Songhai kings ruled by military terror alone and scorned merchants and scholars",
+      "(D) The king converted commercial wealth into legitimacy by binding merchants to the court and patronizing Islamic learning"
     ],
     "reasoning": "Causation",
     "skill": "Causation",
     "source_id": "fivesteps-u2-001",
     "source_stimulus_words": 255,
-    "stem": "How did the Songhai king profit from the trans-Saharan trade passing through his territory?",
+    "stem": "The king married his daughters to wealthy merchants and maintained scholars, judges, and teachers at his own expense. What does this show about the basis of Songhai royal power?",
     "stimulus": "Paraphrase of a description of Timbuktu written around 1500 by the traveler Leo Africanus: The city holds a most stately mosque with walls of stone and lime, and a princely palace built by highly skilled craftsmen from Granada. The inhabitants, and especially foreign residents, are exceedingly rich, since the present king has married both his daughters to wealthy merchants. The region yields abundant grain, cattle, milk, and butter, but salt is very scarce, brought overland from Tegaza five hundred miles away, the traveler saw a single camel-load of salt sell for eighty ducats. When the king travels he rides a camel led by his noblemen, and all his soldiers ride horses. His forces often skirmish with peoples who refuse to pay tribute, and captives are sold to the merchants of Timbuktu. Few horses are bred locally; the best are imported from North Africa, and whenever merchants arrive with horses the king inspects them, chooses the finest for himself, and pays a generous price. The city maintains great numbers of religious teachers, judges, scholars, and learned men at the king's expense, and manuscripts and written books brought from North Africa sell for more money than any other merchandise.",
     "stimulus_words": 197,
     "themes": [

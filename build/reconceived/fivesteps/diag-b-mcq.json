@@ -380,26 +380,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "Three hundred of four hundred captives were women, and the highest prices went to young females. That composition matches a trade feeding elite households and harems across North Africa and the Middle East, where female domestic and concubine labor was prized, unlike the male-heavy gangs of American plantations.",
+    "explanation": "Sixteen men left Algeria and came back with four hundred human beings to sell — the price list values each captive in the thousands of cowries. Raiding required almost no investment beyond the expedition itself, while the returns, measured in human cargo, were staggering. That lopsided arithmetic is why the trade persisted: violence paid. (B) is wrong because the price list values captives in the thousands of cowries. (C) is wrong because the captives were driven in chains under the lash, not hired. (D) is wrong because the passage describes a caravan whose business was captives.",
     "id": "wh-fivesteps-u4-027",
     "key": "A",
     "option_explanations": {
-      "A": "Correct. A heavily female captive population matches demand for domestic service and harems in the Middle East and North Africa.",
-      "B": "Wrong. The captives' profile, mostly women bound for Arab markets, points to households rather than Brazilian plantations.",
-      "C": "Wrong. North American cotton plantations demanded male field labor; this caravan's composition does not fit.",
-      "D": "Wrong. The Mughal military slave system drew from Central Asia, not from this Saharan caravan trade."
+      "A": "Correct. Sixteen men returned with four hundred captives worth thousands of cowries each — violence paid.",
+      "B": "Wrong. The price list values each captive in the thousands of cowries.",
+      "C": "Wrong. The captives were driven in chains under the lash, not hired as guards.",
+      "D": "Wrong. The passage describes a caravan whose business was captives."
     },
     "options": [
-      "(A) Elite households and harems in North Africa and the Middle East",
-      "(B) Sugar plantations in Brazil",
-      "(C) Cotton plantations in North America seeking young female field workers",
-      "(D) The Mughal imperial armies"
+      "(A) A small raiding party could seize hundreds of captives, making slaving enormously profitable",
+      "(B) Captives were worth less than camels, so caravans lost money on every raid",
+      "(C) The four hundred captives were hired as paid guards for the caravan's return journey",
+      "(D) Saharan caravans traded only in salt and gold and never carried captives"
     ],
     "reasoning": "Comparison",
     "skill": "Comparison",
     "source_id": "fivesteps-u4-011",
     "source_stimulus_words": 230,
-    "stem": "The caravan held four hundred captives, three hundred of them women. What is the most likely destination for these captives?",
+    "stem": "The caravan set out from Algeria with sixteen men and sixty-four camels, and returned with four hundred captives. What does this reveal about the Saharan slave trade's economics?",
     "stimulus": "Paraphrase of an account given to a French officer in Algeria in the 1830s by a member of an Arab slave-trading caravan: The soldiers are summoned to hunt the 'Koholanes,' a pejorative term for black Africans. They split into companies with orders to attack undefended villages and seize peasants working their fields. While awaiting the raiders' return, the narrator visits the slave market daily, recording prices in cowries: a bearded adult man, 10-15,000 (considered poor merchandise, likely to escape); an adult woman, 10-15,000 for the same reason; an adolescent boy, 30,000; a young woman, 50-60,000 depending on beauty; a boy child, 45,000; a girl child, 35-40,000. The caravan, which left Algeria with sixty-four camels and sixteen men, now numbers four hundred captives, three hundred of them women. At one point the captives erupt in cries and sobs; some throw themselves down, cling to bushes, and refuse to walk until driven on by bloody lashings.",
     "stimulus_words": 154,
     "themes": [

@@ -467,26 +467,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "Solid arrows, marking forced expulsions, dominate the map; dotted arrows for voluntary movement are fewer. Jewish migration in this era was overwhelmingly flight from persecution, England in 1290, France, Spain in 1492, rather than free choice.",
+    "explanation": "The arrows point toward Poland-Lithuania and the Ottoman Empire — realms that practiced pragmatic tolerance, valuing Jewish merchants, physicians, and artisans. Expelled people do not move at random; they move toward rulers who will take them, and in this era that meant multi-religious empires that prized useful minorities over uniformity. (B) is wrong because the flow ran away from the expelling kingdoms. (C) is wrong because the Ottomans received, not expelled, Jewish refugees. (D) is wrong because Jewish communities had lived in the Rhineland since the early Middle Ages.",
     "id": "wh-fivesteps-u4-042",
     "key": "A",
     "option_explanations": {
-      "A": "Correct. Solid expulsion arrows outnumber dotted voluntary ones: persecution, not choice, drove Jewish movement.",
-      "B": "Wrong. The map shows expulsions dominating; voluntary migration was the smaller flow.",
-      "C": "Wrong. The map records repeated expulsions across centuries; they were common, not rare.",
-      "D": "Wrong. The dotted voluntary arrows are the minority on the map."
+      "A": "Correct. The flow ran toward realms — Poland-Lithuania, the Ottomans — that practiced pragmatic tolerance of useful minorities.",
+      "B": "Wrong. The movement ran away from the expelling kingdoms, not toward them.",
+      "C": "Wrong. The Ottomans received Jewish refugees; they did not expel them.",
+      "D": "Wrong. Jewish communities had lived in the Rhineland since the early Middle Ages."
     },
     "options": [
-      "(A) Expulsions outnumbered voluntary migrations",
-      "(B) Jews mostly migrated by free choice, seeking better economic opportunities",
-      "(C) Expulsions were extremely rare",
-      "(D) All Jewish migration was voluntary"
+      "(A) Rulers who tolerated religious minorities for their economic skills attracted refugee communities",
+      "(B) Jews moved toward the kingdoms that had just expelled them",
+      "(C) The Ottoman Empire expelled every Jew who arrived at its borders",
+      "(D) Central Europe had no Jewish communities at all before 1500"
     ],
     "reasoning": "Causation",
     "skill": "Causation",
     "source_id": "fivesteps-u4-039",
     "source_stimulus_words": 0,
-    "stem": "The map uses solid arrows for expulsions and dotted arrows for voluntary migration, with solid arrows dominating. What pattern does this show?",
+    "stem": "The expelled Jews moved chiefly toward Central and Eastern Europe and the Ottoman Empire. What does this destination pattern suggest?",
     "stimulus": "The map traces Jewish population movements in Europe from the 1200s to the 1500s: solid arrows mark forced expulsions (from England in 1290, France, and Spain in 1492), dotted arrows mark voluntary migrations, with most movement flowing toward Central and Eastern Europe and the Ottoman Empire.",
     "stimulus_words": 46,
     "themes": [
@@ -688,26 +688,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "Toussaint understood that in a slave society turned revolutionary, a Black general would be presumed guilty of any racial violence. His refusal is self-protection rooted in a clear-eyed reading of French racism: whatever happened, the blame would fall on him.",
+    "explanation": "The report is a political document dressed as a transcript: Sonthonax appears as a murderous schemer, Toussaint as the loyal officer who refuses him. Sent to the government in Paris, it undercuts a rival who outranked him while proving that the colony's real power — and its reliable servant — was Toussaint himself. (A) is wrong because the report was addressed to the Directory. (B) is wrong because Toussaint built his power on the end of slavery. (D) is wrong because the report asks for no execution; it works by implication, not demand.",
     "id": "wh-fivesteps-u5-013",
     "key": "C",
     "option_explanations": {
-      "A": "Wrong. Toussaint says he would be blamed; he does not claim innocence would protect him.",
-      "B": "Wrong. Race is central to his calculation; he names it as the reason blame would fall on him.",
-      "C": "Correct. As a Black leader, he knew racial prejudice would pin any white deaths on him regardless of fault.",
-      "D": "Wrong. His warning is pragmatic and political, not a moral sermon."
+      "A": "Wrong. The report was written for and addressed to the French Directory.",
+      "B": "Wrong. Toussaint built his power on the end of slavery, not its restoration.",
+      "C": "Correct. The transcript discredits Sonthonax while proving Toussaint's loyalty — politics by paperwork.",
+      "D": "Wrong. The report asks for no execution; it works by implication, not demand."
     },
     "options": [
-      "(A) He believed his proven innocence would fully protect him from any accusations of violence",
-      "(B) Race played no role in his thinking",
-      "(C) As a Black leader, he knew racial prejudice would blame him for any violence",
-      "(D) He objected on purely moral grounds"
+      "(A) It was a private diary, never intended for any reader",
+      "(B) It urged the Directory to restore slavery in Saint-Domingue",
+      "(C) It discredited a rival commissioner while advertising Toussaint's own loyalty to France",
+      "(D) It asked the Directory to execute Sonthonax at once"
     ],
     "reasoning": "Causation",
     "skill": "Causation",
     "source_id": "fivesteps-u5-013",
     "source_stimulus_words": 376,
-    "stem": "Toussaint says that if a white were killed, 'it is I who would be held responsible.' What does this reveal?",
+    "stem": "Toussaint wrote this exchange up in dialogue form and sent it to the French Directory. What political work was the report doing for him?",
     "stimulus": "Paraphrase of Toussaint L'Ouverture's 1797 report to the French Directory, recounting his conversation with Commissioner Sonthonax: Sonthonax tells Toussaint, the colony's black inhabitants fear for their freedom, and the suspicious white colonists must all be slaughtered; everything is ready, needing only Toussaint's agreement. Toussaint reacts with disbelief. The next morning Sonthonax returns to the scheme, saying they are perfectly placed to act and that Toussaint's influence over the people makes him the ideal partner. Toussaint accuses him of trying to ruin him: killing the whites, seizing independence, after promising never to raise such projects again. Sonthonax backtracks, claiming he only means expulsion, not murder, but Toussaint notes the contradiction and warns that any white death would be blamed on him. Sonthonax swears never to speak of it again and begs Toussaint to keep the secret from his own officers. Toussaint coldly gives his word and takes his leave.",
     "stimulus_words": 148,
     "themes": [

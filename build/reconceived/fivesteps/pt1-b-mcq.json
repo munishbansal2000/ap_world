@@ -128,26 +128,26 @@
   },
   {
     "difficulty": "hard",
-    "explanation": "Veiling came to Islam from the urban customs of the Middle East, but West African women had never veiled. Malian Islam layered the new faith over older social patterns: prayer and Quranic study alongside unveiled women and matrilineal kinship. Conversion changed belief without erasing culture.",
+    "explanation": "Battuta traveled with a mental template of proper Islam — the veiling, gender separation, and patrilineal norms of the Middle East's cities. Where Mali's Muslims kept the prayers but not the customs, he recorded devotion and disapproval side by side. His account is invaluable, but it measures one Islamic society against another's rules. (A) is wrong because he explicitly disapproved of the customs he describes. (B) is wrong because he calls them Muslims who pray and study the Quran. (C) is wrong because the passage centers on their religious life.",
     "id": "wh-fivesteps-u1-030",
     "key": "D",
     "option_explanations": {
-      "A": "Wrong. The passage shows devout Muslim practice alongside the customs; there was no rebellion against Islam.",
-      "B": "Wrong. Nothing suggests the unveiled women were sexual objects; Battuta notes their modesty in prayer.",
-      "C": "Wrong. Climate does not explain it; neighboring societies in similar climates veiled.",
-      "D": "Correct. Malian Islam blended the new faith with pre-existing African social patterns."
+      "A": "Wrong. He explicitly disapproved of the Malian customs he describes.",
+      "B": "Wrong. He calls them Muslims who pray and study the Quran.",
+      "C": "Wrong. The passage centers on Malian religious life, not trade.",
+      "D": "Correct. He measured Mali's Islam against Middle Eastern urban norms, reading local custom as failure."
     },
     "options": [
-      "(A) Malian women were rebelling against Islam",
-      "(B) Unveiled women were treated as sexual objects",
-      "(C) Mali's desert climate made veiling physically impossible for women working outdoors",
-      "(D) Malian Islam blended the new faith with pre-existing African customs"
+      "(A) He considered Malian customs superior to anything in North Africa",
+      "(B) He denied that the Malians were Muslims at all",
+      "(C) He ignored Malian religion entirely and wrote only about trade",
+      "(D) He judged Malian Islam against Middle Eastern urban norms and read local custom as religious failure"
     ],
     "reasoning": "Causation",
     "skill": "Causation",
     "source_id": "fivesteps-u1-030",
     "source_stimulus_words": 199,
-    "stem": "Malian Muslims prayed and studied Islamic law, yet women did not veil and descent ran through mothers. What does this illustrate?",
+    "stem": "Battuta praises Malian prayer and Quranic study, yet condemns their unveiled women and easy male-female companionship. What does this combination reveal about him as a source?",
     "stimulus": "Paraphrase of Ibn Battuta's account of Mali in the 1300s: The men show no sexual jealousy, and no one traces genealogy through his father but through his maternal uncle; inheritance passes to the sister's sons, excluding a man's own sons. The people are Muslims: they keep the prayers, study Islamic jurisprudence, and memorize the Quran. Their women are not modest before men and do not veil, despite their devotion to prayer. A man may marry, but his wife does not travel with him, and her family would prevent it. The women have male friends and companions outside the prohibited degrees of kinship, and so do the men with women; a husband finding his wife with her companion does not disapprove.",
     "stimulus_words": 120,
     "themes": [
