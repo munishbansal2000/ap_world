@@ -1,0 +1,161 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "In 1894-95 Japan's modern conscript army and navy defeated Qing China, the 'mighty neighbor' that had dominated East Asia for centuries. The victory proved that four decades of Meiji reform — modern weaponry, a military bureaucracy, new governing structures, and mass schooling — had transformed a feudal society into a modern power. (A) is wrong because China did possess some modern arms; Japan's edge was institutional, not a Chinese vacuum. (C) is wrong because no European troops fought for Japan in this war. (D) is wrong because the war was fought over Korea; Taiwan was seized as a prize afterward, not the original cause.",
+  "id": "wh-fivesteps-u5-001",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Qing China did possess some modern weaponry; Japan's advantage lay in its reformed institutions, not in facing an unarmed foe.",
+   "B": "Correct. Victory over the traditionally dominant China proved the Meiji reforms had built a genuinely modern military and state.",
+   "C": "Wrong. No European troops fought on Japan's behalf in the Sino-Japanese War.",
+   "D": "Wrong. The war was fought over influence in Korea; Taiwan became a Japanese prize only after the victory."
+  },
+  "options": [
+   "(A) China possessed no modern weapons at all",
+   "(B) Meiji military and institutional reforms had made Japan a modern power",
+   "(C) European troops fought on Japan's behalf",
+   "(D) The war was fought over control of Taiwan"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-005",
+  "source_stimulus_words": 66,
+  "stem": "Japan's victory over China in 1894-95 demonstrated which result of the Meiji reforms?",
+  "stimulus": "A modern historian summarizes Japan's transformation: after decades of weakness, it was good to be Japanese at last, and to humble the mighty neighbor that had dominated the horizon for so long. In under forty years, Japan had gone from a feudal society to a modern state — with advanced weaponry, a professional military bureaucracy, reformed governing structures, and a new educational system reaching the whole population.",
+  "stimulus_words": 67,
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Fukoku kyohei meant building the economic and military muscle to stand up to the Western powers, end the humiliation of the unequal treaties, and keep Japan from suffering China's fate. Every Meiji reform — industry, conscription, education — served that defensive modernization. (A) is wrong because the Meiji reforms destroyed the shogunate rather than restoring it. (C) is wrong because Japan knew it could never supply all raw materials domestically; the goal was strength, not autarky. (D) is wrong because the Meiji state was oligarchic, not democratic.",
+  "id": "wh-fivesteps-u5-002",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Meiji reforms abolished the shogunate; they did not restore the shogun's power.",
+   "B": "Correct. Industrial and military strength would let Japan resist Western domination and revise the unequal treaties.",
+   "C": "Wrong. Japan could never supply all raw materials at home; the goal was power and independence, not total self-sufficiency.",
+   "D": "Wrong. The Meiji government was an oligarchy; spreading democracy was not its aim."
+  },
+  "options": [
+   "(A) Restoring the shogun's traditional authority",
+   "(B) Building industrial and military strength to resist Western domination",
+   "(C) Making Japan fully self-sufficient in raw materials",
+   "(D) Spreading democratic government throughout Japan"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-006",
+  "source_stimulus_words": 66,
+  "stem": "The Meiji slogan 'rich country, strong army' (fukoku kyohei) best reflects which priority of the new government?",
+  "stimulus": "A modern historian summarizes Japan's transformation: after decades of weakness, it was good to be Japanese at last, and to humble the mighty neighbor that had dominated the horizon for so long. In under forty years, Japan had gone from a feudal society to a modern state — with advanced weaponry, a professional military bureaucracy, reformed governing structures, and a new educational system reaching the whole population.",
+  "stimulus_words": 67,
+  "themes": [
+   "GOV",
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Factories were useless without coal and iron reaching them and finished goods reaching buyers. Railroads stitched mines, mills, farms, and ports into single national markets, and because the upfront costs were enormous and returns slow, governments from Russia to Japan to the United States subsidized them. (A) is wrong because railroads were ultimately profitable; the issue was the scale of initial investment. (C) is wrong because freight, not tourism, was the economic engine of early railroads. (D) is wrong because governments subsidized railroads for economic and strategic reasons, not to employ aristocrats.",
+  "id": "wh-fivesteps-u5-003",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Railroads were ultimately profitable; governments stepped in because the initial investment was too vast for private capital alone.",
+   "B": "Correct. Railroads connected resources to factories and markets, creating the integrated national economies industrialization required.",
+   "C": "Wrong. Freight — coal, iron, grain, finished goods — was the economic engine of railroads, not passenger tourism.",
+   "D": "Wrong. Governments subsidized railroads for economic integration and strategic reasons, not as aristocratic employment."
+  },
+  "options": [
+   "(A) Railroads could never turn a profit without permanent charity",
+   "(B) Railroads linked resources, factories, and markets into integrated national economies",
+   "(C) Railroads were built mainly to serve passenger tourism",
+   "(D) Governments built railroads to provide jobs for aristocrats"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-007",
+  "source_stimulus_words": 0,
+  "stem": "Why did governments across the industrializing world subsidize railroad construction even when private investors hesitated?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "GOV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Smith's invisible hand is the claim that competition disciplines self-interest: each producer chasing profit must cut prices and improve quality to win customers, so the public gains better, cheaper goods without any official directing the process. (A) is wrong because the invisible hand is precisely the absence of any directing committee. (C) is wrong because Smith made no claim about businessmen's moral superiority; the mechanism works regardless of character. (D) is wrong because Smith opposed state confiscation of profits; the hand works through private gain, not charity.",
+  "id": "wh-fivesteps-u5-004",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The invisible hand means no committee directs the market; the benefit emerges without official guidance.",
+   "B": "Correct. Competing producers chasing profit must lower prices and improve goods, benefiting consumers without state direction.",
+   "C": "Wrong. Smith claimed nothing about businessmen's moral character; the mechanism works through self-interest itself.",
+   "D": "Wrong. Smith opposed state seizure of profits; the invisible hand operates through private gain, not forced charity."
+  },
+  "options": [
+   "(A) A secret government committee guides market outcomes",
+   "(B) Competition among self-interested producers lowers prices and improves goods for consumers",
+   "(C) Businessmen are morally superior to other citizens",
+   "(D) All business profits should be donated to the state"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-008",
+  "source_stimulus_words": 0,
+  "stem": "Smith argued that individuals pursuing their own profit are 'led by an invisible hand' to benefit society. What did he mean?",
+  "stimulus": "An economist of the Scottish Enlightenment argued that when any trade is left open to free competition, the public gains the most. Each person chasing their own advantage is led, as if by an invisible hand, to serve ends they never intended — cheaper and better goods for everyone.",
+  "stimulus_words": 49,
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "As work moved from homes to factories and mines, middle-class ideology split life into two spheres: the competitive public world of men and the sheltered domestic world of women, whose proper role became wife and mother rather than wage earner. (A) is wrong because the ideal assigned factory and political life to men, not women. (C) is wrong because separate spheres reinforced gender distinctions rather than abolishing them. (D) is wrong because child labor was a separate industrial phenomenon, not the content of the separate-spheres ideal.",
+  "id": "wh-fivesteps-u5-005",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The ideal assigned public work and politics to men; women were to remain in the home.",
+   "B": "Correct. Separate spheres held that men belonged to public work and politics while women belonged to domestic life as homemakers and mothers.",
+   "C": "Wrong. The ideal sharpened gender distinctions rather than abolishing gender roles.",
+   "D": "Wrong. Child labor was a separate industrial-era problem, not the content of the separate-spheres ideology."
+  },
+  "options": [
+   "(A) Women should work in factories while men manage the household",
+   "(B) Men belonged to public work and politics; women belonged to domestic life",
+   "(C) Industrial society abolished distinct gender roles",
+   "(D) Children should become the family's primary earners"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-009",
+  "source_stimulus_words": 0,
+  "stem": "Industrialization popularized the ideal of 'separate spheres' for men and women. What did this ideal claim?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "SIO",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 5
+ }
+]

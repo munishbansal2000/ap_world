@@ -1,0 +1,874 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "If Japan fought the Western powers, its wooden ships and samurai armies would be destroyed; if it yielded, the shogunate's prestige would collapse and domestic enemies would revolt. The bakufu tried to have it both ways, signing treaties while claiming they were temporary, and the contradiction destroyed it.",
+  "id": "wh-fivesteps-u4-034",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The letter shows Japan had painful choices, not no choices at all.",
+   "B": "Correct. Resistance meant military defeat; concession meant domestic revolt, and either threatened Tokugawa rule.",
+   "C": "Wrong. The Western powers actively demanded Japanese ports and treaties.",
+   "D": "Wrong. Lord Ii's alarm shows the shogunate's leadership was deeply concerned, not indifferent."
+  },
+  "options": [
+   "(A) Japan had no choices at all",
+   "(B) Resisting the West risked military defeat while conceding risked domestic revolt",
+   "(C) The Western powers wanted nothing from Japan",
+   "(D) The shogunate was indifferent to foreign pressure"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-031",
+  "source_stimulus_words": 89,
+  "stem": "Lord Ii warns that clinging to antiquated systems invites calamity from formidable foreign powers. What dilemma did the Tokugawa shogunate face in the 1850s?",
+  "stimulus": "Paraphrase of a letter by Lord Ii, a Tokugawa official, in the 1850s: The condition of foreign states is not what it once was. They have invented the steamship and revolutionized navigation; they have built armies of great efficiency and possess weapons of great power and precision. In short, they are formidable powers. If we stubbornly cling to our antiquated systems, heaven only knows what calamity may befall our empire.",
+  "stimulus_words": 70,
+  "themes": [
+   "GOV",
+   "TEC",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Iwakura Mission spent two years examining American and European governments, schools, factories, and legal systems, so Japan could borrow selectively and modernize on its own terms, while its diplomats also pressed to revise the unequal treaties. It was study as a tool of national empowerment.",
+  "id": "wh-fivesteps-u4-035",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The mission was a peaceful study tour, not a declaration of war.",
+   "B": "Correct. The mission studied Western institutions to guide selective modernization and to build the case for treaty revision.",
+   "C": "Wrong. The mission's members were officials and students, not emigrants.",
+   "D": "Wrong. The mission studied far more than weapons: constitutions, schools, industry, and law."
+  },
+  "options": [
+   "(A) To declare war on the Western powers",
+   "(B) To study Western institutions for selective adoption and to press for treaty revision",
+   "(C) To arrange mass Japanese emigration",
+   "(D) To buy weapons and nothing else"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-032",
+  "source_stimulus_words": 89,
+  "stem": "In 1871-73 Japan sent the Iwakura Mission, dozens of top officials, on a two-year tour of America and Europe. What was its primary goal?",
+  "stimulus": "Paraphrase of a letter by Lord Ii, a Tokugawa official, in the 1850s: The condition of foreign states is not what it once was. They have invented the steamship and revolutionized navigation; they have built armies of great efficiency and possess weapons of great power and precision. In short, they are formidable powers. If we stubbornly cling to our antiquated systems, heaven only knows what calamity may befall our empire.",
+  "stimulus_words": 70,
+  "themes": [
+   "GOV",
+   "TEC",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The 1868 leaders overthrew the shogun and built a modern centralized state, but they legitimized the upheaval by claiming to restore the emperor to direct rule after centuries of shogunal usurpation. Tradition became the banner of revolution.",
+  "id": "wh-fivesteps-u4-036",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The shogunate was abolished; the emperor became the symbolic head of a modern state.",
+   "B": "Correct. The change was legitimized as restoring imperial rule, using tradition to authorize radical modernization.",
+   "C": "Wrong. Nothing was restored to China; the change was entirely Japanese.",
+   "D": "Wrong. The period saw sweeping change, not continuity; 'restoration' was the legitimizing label."
+  },
+  "options": [
+   "(A) The shogun remained in power",
+   "(B) It claimed to restore direct imperial rule, legitimizing radical change through tradition",
+   "(C) It restored Chinese-style government",
+   "(D) Nothing actually changed in 1868"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-033",
+  "source_stimulus_words": 89,
+  "stem": "The 1868 transformation is called a 'restoration' rather than a revolution. Why?",
+  "stimulus": "Paraphrase of a letter by Lord Ii, a Tokugawa official, in the 1850s: The condition of foreign states is not what it once was. They have invented the steamship and revolutionized navigation; they have built armies of great efficiency and possess weapons of great power and precision. In short, they are formidable powers. If we stubbornly cling to our antiquated systems, heaven only knows what calamity may befall our empire.",
+  "stimulus_words": 70,
+  "themes": [
+   "TEC",
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Early Vedic religion centered on elaborate sacrifices performed by priests to win divine favor. The Upanishads turn inward: liberation comes from realizing one's identity with Brahman through knowledge and meditation, not from ritual correctness. It was a philosophical revolution within the tradition.",
+  "id": "wh-fivesteps-u1-022",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Upanishads discuss Brahman extensively; they do not reject the divine.",
+   "B": "Correct. The texts shift the path to liberation from external sacrifice to inner knowledge of Brahman.",
+   "C": "Wrong. Caste is not the Upanishads' subject; their concern is the nature of reality and liberation.",
+   "D": "Wrong. The Upanishads are Hindu scriptures; Buddhism emerged later as a separate movement."
+  },
+  "options": [
+   "(A) The rejection of all gods",
+   "(B) A shift from ritual sacrifice to inner knowledge as the path to liberation",
+   "(C) The invention of the caste system",
+   "(D) The adoption of Buddhist teachings"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-022",
+  "source_stimulus_words": 67,
+  "stem": "The Upanishads shift focus from external sacrifice to inner realization of Brahman. What religious change does this represent?",
+  "stimulus": "Paraphrase of a passage from the Upanishads (c. 1000 BCE): He contains all works and desires, all perfumes and all tastes. He enfolds the entire universe, and in silence loves all. This is the Spirit within my heart; this is Brahman. To him I shall go when I pass beyond this life, as will all who have faith and do not doubt.",
+  "stimulus_words": 62,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Moksha is release into union with Brahman, the ultimate reality; nirvana is the extinguishing of the self and its cravings. Both seek escape from rebirth, but Hinduism's goal affirms a universal Self while Buddhism denies a permanent self exists.",
+  "id": "wh-fivesteps-u1-023",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The goals differ fundamentally: union with Brahman versus extinction of self.",
+   "B": "Correct. Hindu moksha seeks union with ultimate reality; Buddhist nirvana seeks extinguishing of self and craving.",
+   "C": "Wrong. Buddhism's entire teaching centers on escaping rebirth through nirvana.",
+   "D": "Wrong. The passage explicitly describes the speaker's hope of going to Brahman after death."
+  },
+  "options": [
+   "(A) They are identical goals",
+   "(B) Hinduism seeks union with Brahman; Buddhism seeks extinction of self",
+   "(C) Buddhism has no concept of liberation",
+   "(D) Hinduism denies any afterlife"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-023",
+  "source_stimulus_words": 67,
+  "stem": "The speaker hopes to 'come to Brahman' after death. How does this Hindu goal differ from the Buddhist goal of nirvana?",
+  "stimulus": "Paraphrase of a passage from the Upanishads (c. 1000 BCE): He contains all works and desires, all perfumes and all tastes. He enfolds the entire universe, and in silence loves all. This is the Spirit within my heart; this is Brahman. To him I shall go when I pass beyond this life, as will all who have faith and do not doubt.",
+  "stimulus_words": 62,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Vedas contain hymns for sacrifice and the Brahmanas' ritual manuals, but also the Upanishads' philosophy and later the epics' stories. Hinduism holds these together as one unfolding tradition rather than splitting into separate religions.",
+  "id": "wh-fivesteps-u1-024",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Upanishads' philosophy is central to Hinduism; the tradition is not ritual-only.",
+   "B": "Correct. The Vedas hold ritual hymns and mystical philosophy together within a single tradition.",
+   "C": "Wrong. The Upanishads are Hindu scriptures, composed centuries before Buddhism emerged.",
+   "D": "Wrong. The Vedas and Upanishads are Hinduism's foundational scriptures."
+  },
+  "options": [
+   "(A) Hinduism consists only of ritual sacrifice",
+   "(B) Hinduism contains both ritual and philosophical strands within one tradition",
+   "(C) The Upanishads are Buddhist texts",
+   "(D) Hinduism has no scriptures"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Comparison",
+  "source_id": "fivesteps-u1-024",
+  "source_stimulus_words": 67,
+  "stem": "The Upanishads are part of the Vedas, Hinduism's oldest scriptures, yet their content is philosophical rather than ritual. What does this show about Hinduism?",
+  "stimulus": "Paraphrase of a passage from the Upanishads (c. 1000 BCE): He contains all works and desires, all perfumes and all tastes. He enfolds the entire universe, and in silence loves all. This is the Spirit within my heart; this is Brahman. To him I shall go when I pass beyond this life, as will all who have faith and do not doubt.",
+  "stimulus_words": 62,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Crosby argued that European weeds, wheat, pigs, and pathogens did as much conquering as soldiers: they transformed American ecosystems into productive replicas of Europe, which made the land farmable by European methods and undercut native subsistence. Biology served empire.",
+  "id": "wh-fivesteps-u4-037",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Crosby's point was about conquest, not about European affection for nature.",
+   "B": "Correct. Transplanted European species remade American landscapes to support European-style farming and settlement.",
+   "C": "Wrong. Native peoples did not invite the ecological invasion; it accompanied conquest.",
+   "D": "Wrong. Crosby stressed that the biological transfer systematically aided colonization; it was not merely accidental."
+  },
+  "options": [
+   "(A) Europeans loved nature more than natives did",
+   "(B) Transplanted European species remade American landscapes to support colonization",
+   "(C) Native peoples invited European species",
+   "(D) The species transfer had no historical significance"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-034",
+  "source_stimulus_words": 51,
+  "stem": "Crosby called the transfer of European crops, animals, and weeds to the Americas 'ecological imperialism.' What did he mean?",
+  "stimulus": "Paraphrase of historian Alfred Crosby (1972): The invaders brought wheat and other Eurasian and African grains; peach, pear, orange, and lemon trees; chickpeas, grapevines, melons, onions, radishes, and much more. A Spanish nobleman in America could order his Indians to stock his table with the fruits of his ancestors' homeland.",
+  "stimulus_words": 50,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The potato let Ireland's population boom, but dependence on a single cloned variety meant one blight could destroy the entire food supply, which it did in 1845-49, killing a million and driving millions to emigrate. The Exchange's gifts could become traps.",
+  "id": "wh-fivesteps-u4-038",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Potatoes are nutritious; the catastrophe came from dependence on a single variety, not poison.",
+   "B": "Correct. Monoculture dependence on one potato variety turned a blight into a million-death famine.",
+   "C": "Wrong. Ireland grew other foods, but the poor depended overwhelmingly on the potato.",
+   "D": "Wrong. The Exchange brought enormous benefits too; the point is that its benefits carried hidden risks."
+  },
+  "options": [
+   "(A) Potatoes were poisonous",
+   "(B) Dependence on a single New World crop created catastrophic vulnerability to blight",
+   "(C) Ireland grew no other food at all",
+   "(D) The Columbian Exchange brought only harm"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-035",
+  "source_stimulus_words": 51,
+  "stem": "By 1840 a third of Ireland's people depended on the potato for survival. What does this dependence reveal about the Columbian Exchange's risks?",
+  "stimulus": "Paraphrase of historian Alfred Crosby (1972): The invaders brought wheat and other Eurasian and African grains; peach, pear, orange, and lemon trees; chickpeas, grapevines, melons, onions, radishes, and much more. A Spanish nobleman in America could order his Indians to stock his table with the fruits of his ancestors' homeland.",
+  "stimulus_words": 50,
+  "themes": [
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Spanish law dressed the encomienda in Christian duty: the encomendero received native labor and owed protection and religious instruction in return. In practice the 'protection' was unenforced and the labor demands were crushing; the pious language legitimized extraction.",
+  "id": "wh-fivesteps-u4-039",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Encomienda natives faced brutal labor demands and high mortality; they were not well protected.",
+   "B": "Correct. The legal duties of protection and Christianization were largely unenforced cover for labor exploitation.",
+   "C": "Wrong. The encomienda operated for over a century; it was not abolished in 1503.",
+   "D": "Wrong. Encomenderos demanded heavy labor tribute; they asked a great deal."
+  },
+  "options": [
+   "(A) Native laborers were well protected by their encomenderos",
+   "(B) The duties of protection and Christianization were largely a legal fiction covering exploitation",
+   "(C) The system was abolished within a decade",
+   "(D) Encomenderos demanded nothing from natives"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-036",
+  "source_stimulus_words": 51,
+  "stem": "The encomienda legally required Spaniards to Christianize and 'protect' natives in exchange for their labor. What was the reality?",
+  "stimulus": "Paraphrase of historian Alfred Crosby (1972): The invaders brought wheat and other Eurasian and African grains; peach, pear, orange, and lemon trees; chickpeas, grapevines, melons, onions, radishes, and much more. A Spanish nobleman in America could order his Indians to stock his table with the fruits of his ancestors' homeland.",
+  "stimulus_words": 50,
+  "themes": [
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Without horses, oxen, or any beast strong enough to pull a plow, Andean farmers broke the earth with the foot plow, human muscle doing the work of draft animals. Fields were prepared, planted, and harvested by organized human labor, often mobilized through the mita system.",
+  "id": "wh-fivesteps-u4-040",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The drawing shows a hand-powered foot plow; no tractors existed in 1616.",
+   "B": "Correct. With no draft animals, Andean agriculture depended on organized human labor.",
+   "C": "Wrong. The drawing shows communal labor, not an exclusively female workforce.",
+   "D": "Wrong. The Andes were intensively farmed; agriculture was central to the civilization."
+  },
+  "options": [
+   "(A) Andean farmers used tractors",
+   "(B) Andean farming relied on organized human labor in the absence of draft animals",
+   "(C) Farming was done only by women",
+   "(D) Andeans did not practice agriculture"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-037",
+  "source_stimulus_words": 6,
+  "stem": "A 1616 drawing by Felipe Guaman Poma de Ayala shows Andean farmers breaking the earth with a wooden foot plow, with no animals in sight. What does this indicate?",
+  "stimulus": "The 1616 illustration by Guaman Poma de Ayala shows several Andean farmers working a field with a wooden foot plow, pressing it into the earth with their feet while others follow behind.",
+  "stimulus_words": 32,
+  "themes": [
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Llamas stand barely four feet tall and can carry only about a hundred pounds; they cannot pull a plow or a loaded cart. The Andes simply had no animal capable of doing an ox's work, so the plow and the cart could never pay off no matter who knew the principle.",
+  "id": "wh-fivesteps-u1-025",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Andean farmers were highly productive; the constraint was zoological, not a lack of effort.",
+   "B": "Correct. Llamas are too small and weak to pull plows or carts, so animal-drawn agriculture was impossible.",
+   "C": "Wrong. Nothing suggests religious prohibition; llamas were used as pack animals to their full capacity.",
+   "D": "Wrong. Andeans knew the wheel (they made wheeled toys); the missing piece was a draft animal."
+  },
+  "options": [
+   "(A) Andean farmers were too lazy to use animals",
+   "(B) Llamas are too small and weak to pull plows or heavy carts",
+   "(C) Llamas were sacred and could not be worked",
+   "(D) Andeans did not know the wheel existed"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-025",
+  "source_stimulus_words": 6,
+  "stem": "The Andes had the domesticated llama, yet no plow agriculture or wheeled transport developed. Why didn't llamas play the role of Eurasian oxen?",
+  "stimulus": "The 1616 illustration by Guaman Poma de Ayala shows several Andean farmers working a field with a wooden foot plow, pressing it into the earth with their feet while others follow behind.",
+  "stimulus_words": 32,
+  "themes": [
+   "CDI",
+   "ENV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "A cart needs something to pull it. Without horses, oxen, or any large draft animal, and with lake-and-mountain terrain hostile to wheeled vehicles, the wheel had no transport application. Human porters carried goods instead, and the wheel stayed a toy.",
+  "id": "wh-fivesteps-u1-026",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Aztec engineering, from chinampas to Tenochtitlan itself, was sophisticated.",
+   "B": "Correct. With no draft animals and unsuitable terrain, wheeled transport had no practical use.",
+   "C": "Wrong. No ban is recorded; the wheel simply had no economic application.",
+   "D": "Wrong. The Aztecs had no automobiles; the question is why the wheel stayed a curiosity."
+  },
+  "options": [
+   "(A) The Aztecs were not clever enough to use the wheel",
+   "(B) Without draft animals and suitable terrain, the wheel had no transport use",
+   "(C) Aztec law banned the wheel",
+   "(D) The Aztecs already had automobiles"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Comparison",
+  "source_id": "fivesteps-u1-026",
+  "source_stimulus_words": 6,
+  "stem": "The Aztecs knew the wheel, they made wheeled toys, but never used it for transport. What best explains this?",
+  "stimulus": "The 1616 illustration by Guaman Poma de Ayala shows several Andean farmers working a field with a wooden foot plow, pressing it into the earth with their feet while others follow behind.",
+  "stimulus_words": 32,
+  "themes": [
+   "ENV",
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Eurasia's east-west axis let crops and animals spread across similar latitudes and climates; the Americas' north-south axis forced anything spreading to cross deserts, tropics, and mountains, each a barrier. Maize made the journey over millennia, but many Andean and Mesoamerican innovations never crossed the ecological walls between them.",
+  "id": "wh-fivesteps-u1-027",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Americans traded extensively within regions; the barrier was ecological, not commercial.",
+   "B": "Correct. The north-south axis forced diffusion across hostile climate zones, unlike Eurasia's east-west axis.",
+   "C": "Wrong. Diffusion was partial and selective, blocked by geography.",
+   "D": "Wrong. The question concerns movement within the Americas, where no ocean intervened."
+  },
+  "options": [
+   "(A) Americans never traded with each other",
+   "(B) The north-south axis forced diffusion across hostile climate zones",
+   "(C) Every innovation spread everywhere freely",
+   "(D) Oceans blocked all movement within the Americas"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-027",
+  "source_stimulus_words": 6,
+  "stem": "Maize spread widely, but the llama never left the Andes and wheeled transport never reached Mesoamerica. What does this pattern show?",
+  "stimulus": "The 1616 illustration by Guaman Poma de Ayala shows several Andean farmers working a field with a wooden foot plow, pressing it into the earth with their feet while others follow behind.",
+  "stimulus_words": 32,
+  "themes": [
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Chinampas, artificial island gardens in Lake Texcoco, produced up to seven harvests a year through intensive fertilization and irrigation. That staggering productivity fed Tenochtitlan, one of the world's largest cities, proving that adapting brilliantly to a lake environment could sustain an empire.",
+  "id": "wh-fivesteps-u1-028",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Chinampas fed Tenochtitlan; the Aztecs were largely self-sufficient in staples.",
+   "B": "Correct. Chinampa agriculture was among the most productive on earth, sustaining a great capital city.",
+   "C": "Wrong. Chinampas were working farms, not ornamental gardens.",
+   "D": "Wrong. Chinampas succeeded brilliantly; they were not a failure."
+  },
+  "options": [
+   "(A) The Aztecs imported all their food",
+   "(B) Intensive adaptation to the lake environment could sustain a huge capital",
+   "(C) Chinampas were purely decorative",
+   "(D) Chinampa farming was a failure"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u1-028",
+  "source_stimulus_words": 6,
+  "stem": "Chinampas yielded multiple harvests per year, among the most productive farming in the pre-modern world. What does this show?",
+  "stimulus": "The 1616 illustration by Guaman Poma de Ayala shows several Andean farmers working a field with a wooden foot plow, pressing it into the earth with their feet while others follow behind.",
+  "stimulus_words": 32,
+  "themes": [
+   "ENV",
+   "CDI",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 1
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The Catholic Monarchs completed the Reconquista by seizing Granada in 1492, then imposed religious uniformity: Jews must convert or leave, Muslims would follow. Columbus's voyage the same year extended the same crusading, Catholicizing impulse across the ocean. One year, one program: a unified Catholic Spain expanding outward.",
+  "id": "wh-fivesteps-u4-041",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Both acts flowed from the same drive for Catholic uniformity and expansion; they were not unrelated.",
+   "B": "Correct. The expulsion and the voyage both expressed the Catholic Monarchs' program of religious uniformity and imperial expansion.",
+   "C": "Wrong. Jewish financiers did not fund Columbus; the crown did.",
+   "D": "Wrong. The Spanish expulsion of the Jews was decreed in 1492, the same year as the voyage."
+  },
+  "options": [
+   "(A) The two events were entirely unrelated",
+   "(B) Both expressed the Catholic Monarchs' drive for religious uniformity and expansion",
+   "(C) Expelled Jews financed Columbus's voyage",
+   "(D) The expulsion happened in 1290, not 1492"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-038",
+  "source_stimulus_words": 0,
+  "stem": "In 1492 Spain expelled its Jews in the same year Columbus sailed for the New World. What connects these two events?",
+  "stimulus": "The map traces Jewish population movements in Europe from the 1200s to the 1500s: solid arrows mark forced expulsions (from England in 1290, France, and Spain in 1492), dotted arrows mark voluntary migrations, with most movement flowing toward Central and Eastern Europe and the Ottoman Empire.",
+  "stimulus_words": 46,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Solid arrows, marking forced expulsions, dominate the map; dotted arrows for voluntary movement are fewer. Jewish migration in this era was overwhelmingly flight from persecution, England in 1290, France, Spain in 1492, rather than free choice.",
+  "id": "wh-fivesteps-u4-042",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The map shows expulsions dominating; voluntary migration was the smaller flow.",
+   "B": "Correct. Solid expulsion arrows outnumber dotted voluntary ones: persecution, not choice, drove Jewish movement.",
+   "C": "Wrong. The map records repeated expulsions across centuries; they were common, not rare.",
+   "D": "Wrong. The dotted voluntary arrows are the minority on the map."
+  },
+  "options": [
+   "(A) Jews mostly migrated by free choice",
+   "(B) Expulsions outnumbered voluntary migrations",
+   "(C) Expulsions were extremely rare",
+   "(D) All Jewish migration was voluntary"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-039",
+  "source_stimulus_words": 0,
+  "stem": "The map uses solid arrows for expulsions and dotted arrows for voluntary migration, with solid arrows dominating. What pattern does this show?",
+  "stimulus": "The map traces Jewish population movements in Europe from the 1200s to the 1500s: solid arrows mark forced expulsions (from England in 1290, France, and Spain in 1492), dotted arrows mark voluntary migrations, with most movement flowing toward Central and Eastern Europe and the Ottoman Empire.",
+  "stimulus_words": 46,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "The Ottomans, ruling a multi-religious empire, welcomed Jewish merchants, physicians, and artisans expelled from Christian Europe, valuing their skills and trade networks. Where Catholic Spain demanded uniformity, the Islamic empire practiced pragmatic tolerance for useful minorities.",
+  "id": "wh-fivesteps-u4-043",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Ottoman rulers were Muslim, not Jewish.",
+   "B": "Correct. The Ottomans valued Jewish economic skills and practiced relative tolerance toward religious minorities.",
+   "C": "Wrong. The Ottomans received expelled Jews; they did not expel them.",
+   "D": "Wrong. The Ottomans were well aware of Jewish communities and actively resettled them."
+  },
+  "options": [
+   "(A) The Ottoman rulers were secretly Jewish",
+   "(B) The Ottomans valued Jewish merchants' and artisans' skills and tolerated religious minorities",
+   "(C) The Ottomans expelled even more Jews than Spain",
+   "(D) The Ottomans had never encountered Jews"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-040",
+  "source_stimulus_words": 0,
+  "stem": "The Ottoman Empire received many expelled Jews rather than expelling them. What explains this contrast with Spain?",
+  "stimulus": "The map traces Jewish population movements in Europe from the 1200s to the 1500s: solid arrows mark forced expulsions (from England in 1290, France, and Spain in 1492), dotted arrows mark voluntary migrations, with most movement flowing toward Central and Eastern Europe and the Ottoman Empire.",
+  "stimulus_words": 46,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Expelled Jews concentrated in Poland-Lithuania, the German lands, and the Ottoman Empire, forming large, visible communities. Over the following centuries those communities faced recurring waves of persecution, ghettoization, and pogroms, a trajectory that culminated in the Holocaust.",
+  "id": "wh-fivesteps-u4-044",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Jewish communities persisted and grew in Central and Eastern Europe; they did not disappear.",
+   "B": "Correct. Concentrated Jewish populations became targets of recurring persecution culminating in the Holocaust.",
+   "C": "Wrong. The following centuries brought pogroms and persecution, not tolerance.",
+   "D": "Wrong. Few expelled Jews returned to Spain; the communities put down roots in the east."
+  },
+  "options": [
+   "(A) Jewish communities disappeared from Europe",
+   "(B) Large, visible Jewish communities faced recurring persecution culminating in the Holocaust",
+   "(C) Europe became fully tolerant of Jews",
+   "(D) All expelled Jews returned to Spain"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-041",
+  "source_stimulus_words": 0,
+  "stem": "Expelled Jews concentrated in Central and Eastern Europe. What long-term consequence followed?",
+  "stimulus": "The map traces Jewish population movements in Europe from the 1200s to the 1500s: solid arrows mark forced expulsions (from England in 1290, France, and Spain in 1492), dotted arrows mark voluntary migrations, with most movement flowing toward Central and Eastern Europe and the Ottoman Empire.",
+  "stimulus_words": 46,
+  "themes": [
+   "CDI",
+   "ENV",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Each figure yanks the next: Serbia pulls Austria, Austria pulls Russia, Russia pulls Germany, Germany pulls France. The cartoon argues that interlocking alliances turned a Balkan crisis into a continental war by obligating each power to follow its partners into the pit.",
+  "id": "wh-fivesteps-u7-015",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The cartoon shows alliances causing war, not preventing it.",
+   "B": "Correct. The chain shows alliance commitments dragging each nation into war after the next.",
+   "C": "Wrong. The figures are pulled unwillingly; the cartoon stresses entrapment, not enthusiasm.",
+   "D": "Wrong. The cartoon is a critique of the alliance system, not praise for it."
+  },
+  "options": [
+   "(A) Alliances prevented war",
+   "(B) Alliance commitments dragged unwilling nations into war one after another",
+   "(C) Every leader eagerly wanted war",
+   "(D) The cartoon praises the alliance system"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-018",
+  "source_stimulus_words": 7,
+  "stem": "A 1914 American cartoon, 'Chain of Friendship,' shows national leaders linked in a chain, each pulling the next into a pit. What does the chain metaphor argue?",
+  "stimulus": "The 1914 American cartoon 'Chain of Friendship' depicts the leaders of Serbia, Austria, Russia, Germany, and France linked hand-to-hand in a chain, each figure yanking the next toward a pit labeled 'war.'",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Germany faced France in the west and Russia in the east, and its generals believed Russia would mobilize slowly. The Schlieffen Plan therefore gambled everything on crushing France in six weeks through Belgium, then turning east, a timetable that made the Belgian invasion, and Britain's entry, inevitable.",
+  "id": "wh-fivesteps-u7-016",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Belgium was invaded as a corridor to France, not out of affection.",
+   "B": "Correct. Fear of a two-front war drove the gamble to knock France out before Russia mobilized.",
+   "C": "Wrong. Russia was Germany's eastern enemy, not its ally.",
+   "D": "Wrong. France was Germany's primary western target from the plan's inception."
+  },
+  "options": [
+   "(A) Germany wanted to protect Belgium",
+   "(B) Germany feared a two-front war and sought to defeat France before Russia mobilized",
+   "(C) Russia was Germany's ally",
+   "(D) France was neutral and safe"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-019",
+  "source_stimulus_words": 7,
+  "stem": "Germany's Schlieffen Plan sent its armies through Belgium to knock France out first. What assumption drove this strategy?",
+  "stimulus": "The 1914 American cartoon 'Chain of Friendship' depicts the leaders of Serbia, Austria, Russia, Germany, and France linked hand-to-hand in a chain, each figure yanking the next toward a pit labeled 'war.'",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV",
+   "CDI",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Italy had joined the Triple Alliance for protection, but when war came the Allies outbid the Central Powers, secretly promising Italy Austrian-held Trentino, Trieste, and Dalmatia. Rome declared its alliance defensive, pronounced Austria the aggressor, and sold its armies to the higher bidder.",
+  "id": "wh-fivesteps-u7-017",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Italy's switch was a calculated bargain for territory, not affection for France.",
+   "B": "Correct. Allied promises of Austrian territory bought Italy's switch from the Triple Alliance.",
+   "C": "Wrong. Germany did not expel Italy; Italy chose to leave.",
+   "D": "Wrong. Italy fought on the Allied side from 1915; it was not neutral throughout."
+  },
+  "options": [
+   "(A) Italy loved France more than Germany",
+   "(B) The Allies promised Italy Austrian territory in exchange for switching sides",
+   "(C) Germany expelled Italy from its alliance",
+   "(D) Italy stayed neutral throughout the war"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-020",
+  "source_stimulus_words": 7,
+  "stem": "Italy began WWI allied with Germany and Austria but joined the Allies in 1915. Why?",
+  "stimulus": "The 1914 American cartoon 'Chain of Friendship' depicts the leaders of Serbia, Austria, Russia, Germany, and France linked hand-to-hand in a chain, each figure yanking the next toward a pit labeled 'war.'",
+  "stimulus_words": 32,
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 7
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Toussaint sends the Directory a report showing Sonthonax plotting murder while Toussaint refuses, a document that simultaneously proves his loyalty to France, discredits a rival, and demonstrates that he, not the commissioner, holds real power in Saint-Domingue. He serves France while making himself indispensable.",
+  "id": "wh-fivesteps-u5-012",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Toussaint was building his own power base; he was no one's mere agent.",
+   "B": "Correct. The report proves his loyalty to France while discrediting a rival and displaying his own authority.",
+   "C": "Wrong. Toussaint had risen from slavery and defended emancipation; restoring slavery was the opposite of his program.",
+   "D": "Wrong. The report is a sophisticated political maneuver, not naivete."
+  },
+  "options": [
+   "(A) He was a naive pawn of the French",
+   "(B) He positioned himself as France's loyal defender of order while building his own power",
+   "(C) He wanted to restore slavery",
+   "(D) He had no political strategy"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Comparison",
+  "source_id": "fivesteps-u5-012",
+  "source_stimulus_words": 376,
+  "stem": "Toussaint reports Sonthonax's murder plot to the Directory while refusing to join it. What does this show about Toussaint's strategy?",
+  "stimulus": "Paraphrase of Toussaint L'Ouverture's 1797 report to the French Directory, recounting his conversation with Commissioner Sonthonax: Sonthonax tells Toussaint, the colony's black inhabitants fear for their freedom, and the suspicious white colonists must all be slaughtered; everything is ready, needing only Toussaint's agreement. Toussaint reacts with disbelief. The next morning Sonthonax returns to the scheme, saying they are perfectly placed to act and that Toussaint's influence over the people makes him the ideal partner. Toussaint accuses him of trying to ruin him: killing the whites, seizing independence, after promising never to raise such projects again. Sonthonax backtracks, claiming he only means expulsion, not murder, but Toussaint notes the contradiction and warns that any white death would be blamed on him. Sonthonax swears never to speak of it again and begs Toussaint to keep the secret from his own officers. Toussaint coldly gives his word and takes his leave.",
+  "stimulus_words": 148,
+  "themes": [
+   "GOV",
+   "ENV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Toussaint understood that in a slave society turned revolutionary, a Black general would be presumed guilty of any racial violence. His refusal is self-protection rooted in a clear-eyed reading of French racism: whatever happened, the blame would fall on him.",
+  "id": "wh-fivesteps-u5-013",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Toussaint says he would be blamed; he does not claim innocence would protect him.",
+   "B": "Correct. As a Black leader, he knew racial prejudice would pin any white deaths on him regardless of fault.",
+   "C": "Wrong. Race is central to his calculation; he names it as the reason blame would fall on him.",
+   "D": "Wrong. His warning is pragmatic and political, not a moral sermon."
+  },
+  "options": [
+   "(A) He believed his innocence would protect him",
+   "(B) As a Black leader, he knew racial prejudice would blame him for any violence",
+   "(C) Race played no role in his thinking",
+   "(D) He objected on purely moral grounds"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-013",
+  "source_stimulus_words": 376,
+  "stem": "Toussaint says that if a white were killed, 'it is I who would be held responsible.' What does this reveal?",
+  "stimulus": "Paraphrase of Toussaint L'Ouverture's 1797 report to the French Directory, recounting his conversation with Commissioner Sonthonax: Sonthonax tells Toussaint, the colony's black inhabitants fear for their freedom, and the suspicious white colonists must all be slaughtered; everything is ready, needing only Toussaint's agreement. Toussaint reacts with disbelief. The next morning Sonthonax returns to the scheme, saying they are perfectly placed to act and that Toussaint's influence over the people makes him the ideal partner. Toussaint accuses him of trying to ruin him: killing the whites, seizing independence, after promising never to raise such projects again. Sonthonax backtracks, claiming he only means expulsion, not murder, but Toussaint notes the contradiction and warns that any white death would be blamed on him. Sonthonax swears never to speak of it again and begs Toussaint to keep the secret from his own officers. Toussaint coldly gives his word and takes his leave.",
+  "stimulus_words": 148,
+  "themes": [
+   "GOV",
+   "ENV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The report is Toussaint's own account of his own virtue, sent to the government whose favor he needs. He has every incentive to make Sonthonax look treacherous and himself look loyal, so historians must read it as advocacy, not as a neutral transcript.",
+  "id": "wh-fivesteps-u5-014",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. No first-person political report is perfectly objective; all such sources need scrutiny.",
+   "B": "Correct. Toussaint wrote to win the Directory's favor, so the report is self-serving advocacy requiring corroboration.",
+   "C": "Wrong. Toussaint was literate and a sophisticated political actor.",
+   "D": "Wrong. The Directory's literacy is irrelevant to the source's bias."
+  },
+  "options": [
+   "(A) The report is perfectly objective",
+   "(B) The report is self-serving: Toussaint had every reason to portray himself as loyal",
+   "(C) Toussaint was illiterate",
+   "(D) The Directory could not read"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u5-014",
+  "source_stimulus_words": 376,
+  "stem": "Toussaint wrote this report to the French Directory about his own loyalty and Sonthonax's treachery. What should historians consider when using it?",
+  "stimulus": "Paraphrase of Toussaint L'Ouverture's 1797 report to the French Directory, recounting his conversation with Commissioner Sonthonax: Sonthonax tells Toussaint, the colony's black inhabitants fear for their freedom, and the suspicious white colonists must all be slaughtered; everything is ready, needing only Toussaint's agreement. Toussaint reacts with disbelief. The next morning Sonthonax returns to the scheme, saying they are perfectly placed to act and that Toussaint's influence over the people makes him the ideal partner. Toussaint accuses him of trying to ruin him: killing the whites, seizing independence, after promising never to raise such projects again. Sonthonax backtracks, claiming he only means expulsion, not murder, but Toussaint notes the contradiction and warns that any white death would be blamed on him. Sonthonax swears never to speak of it again and begs Toussaint to keep the secret from his own officers. Toussaint coldly gives his word and takes his leave.",
+  "stimulus_words": 148,
+  "themes": [
+   "GOV",
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 5
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "In 1904 Roosevelt proclaimed the United States an 'international police power' in the Western Hemisphere, entitled to intervene wherever it judged order threatened. Dario, writing as the US detached Panama from Colombia to build the canal, names Roosevelt personally as the embodiment of that doctrine.",
+  "id": "wh-fivesteps-u6-014",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The 1823 Monroe Doctrine warned Europe away; the 1904 Corollary asserted active US intervention.",
+   "B": "Correct. The Corollary claimed US police power in Latin America, the policy Dario denounces.",
+   "C": "Wrong. The poem protests intervention; American isolationism is the opposite of its complaint.",
+   "D": "Wrong. The Good Neighbor Policy came three decades later, repudiating the Corollary."
+  },
+  "options": [
+   "(A) The Monroe Doctrine of 1823",
+   "(B) The Roosevelt Corollary claiming US police power in Latin America",
+   "(C) American isolationism",
+   "(D) The Good Neighbor Policy"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-014",
+  "source_stimulus_words": 225,
+  "stem": "Dario addresses 'Roosevelt' directly in a 1904 poem denouncing the United States as the 'future invader' of Latin America. Which US policy was he protesting?",
+  "stimulus": "Paraphrase of Ruben Dario's 1904 poem 'To Roosevelt': You are the United States, the future invader of the native America that has Indian blood, that still prays to Jesus Christ and still speaks Spanish. You think life is fire and progress is eruption, that wherever you aim you strike the future. But our America has had poets since the ancient days of Netzahualcoyotl, has consulted the stars, has lived on light and love since remote times, the America of Montezuma and the Inca, Catholic and Spanish America. It lives, and it dreams, and it loves. Be careful: a thousand cubs of the Spanish lion are loosed. To seize us in your iron claws, Roosevelt, you would need to be God's own hunter. And though you count on everything, you lack one thing: God.",
+  "stimulus_words": 133,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Arielismo, after Shakespeare's airy spirit Ariel, held that Latin America embodied spiritual and cultural values while the Anglo-Saxon north embodied crude materialism, the Caliban of the hemisphere. Dario's poem is the tradition's battle cry: our America lives by the spirit, yours only by force and money.",
+  "id": "wh-fivesteps-u6-015",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The poem denounces the United States; it does not praise it.",
+   "B": "Correct. Arielismo claimed Latin spiritual culture's superiority over Anglo-Saxon materialism.",
+   "C": "Wrong. The poem is about cultural and political resistance, not about science.",
+   "D": "Wrong. The poem is fiercely anti-imperialist, not pro-imperialist."
+  },
+  "options": [
+   "(A) It praises the United States",
+   "(B) Arielismo: Latin spiritual culture set against Anglo-Saxon materialism",
+   "(C) It celebrates scientific progress",
+   "(D) It supports American imperialism"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-015",
+  "source_stimulus_words": 225,
+  "stem": "Dario contrasts Latin America's spiritual culture with the United States' worship of force and wealth. What literary tradition does this belong to?",
+  "stimulus": "Paraphrase of Ruben Dario's 1904 poem 'To Roosevelt': You are the United States, the future invader of the native America that has Indian blood, that still prays to Jesus Christ and still speaks Spanish. You think life is fire and progress is eruption, that wherever you aim you strike the future. But our America has had poets since the ancient days of Netzahualcoyotl, has consulted the stars, has lived on light and love since remote times, the America of Montezuma and the Inca, Catholic and Spanish America. It lives, and it dreams, and it loves. Be careful: a thousand cubs of the Spanish lion are loosed. To seize us in your iron claws, Roosevelt, you would need to be God's own hunter. And though you count on everything, you lack one thing: God.",
+  "stimulus_words": 133,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The poem warns that Latin America, heir to Indigenous empires and Spanish civilization, will not submit meekly: a thousand young lions wait, and even Roosevelt's power lacks the one thing, God, that would justify conquest. It is a prophecy of resistance, not of surrender.",
+  "id": "wh-fivesteps-u6-016",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The poem urges defiance, not surrender.",
+   "B": "Correct. The 'thousand cubs' warn that US domination will provoke Latin American resistance.",
+   "C": "Wrong. Spain's empire is invoked as heritage, not as a returning conqueror.",
+   "D": "Wrong. The poem treats American power as brutal and doomed to meet resistance, not as invincible."
+  },
+  "options": [
+   "(A) Latin America will surrender to the United States",
+   "(B) US domination will provoke Latin American resistance",
+   "(C) Spain will reconquer Latin America",
+   "(D) American power is invincible"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-016",
+  "source_stimulus_words": 225,
+  "stem": "The poem warns Roosevelt that 'a thousand cubs' of the Spanish lion are loosed. What is Dario predicting?",
+  "stimulus": "Paraphrase of Ruben Dario's 1904 poem 'To Roosevelt': You are the United States, the future invader of the native America that has Indian blood, that still prays to Jesus Christ and still speaks Spanish. You think life is fire and progress is eruption, that wherever you aim you strike the future. But our America has had poets since the ancient days of Netzahualcoyotl, has consulted the stars, has lived on light and love since remote times, the America of Montezuma and the Inca, Catholic and Spanish America. It lives, and it dreams, and it loves. Be careful: a thousand cubs of the Spanish lion are loosed. To seize us in your iron claws, Roosevelt, you would need to be God's own hunter. And though you count on everything, you lack one thing: God.",
+  "stimulus_words": 133,
+  "themes": [
+   "CDI",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Bonesteel and his colleague, working late at night with a National Geographic map, picked the 38th parallel because it split Korea roughly in half and kept Seoul in the American zone, a line of pure administrative convenience. No Korean was consulted, and no historic boundary followed it, yet the temporary surrender line hardened into a permanent border and then a war.",
+  "id": "wh-fivesteps-u7-018",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. No Korean participated in the decision; it was made by two American officers.",
+   "B": "Correct. The line was drawn for surrender-zone convenience with a small map, yet became a permanent division.",
+   "C": "Wrong. The 38th parallel had no historic significance as a Korean boundary.",
+   "D": "Wrong. The Americans proposed the line; the Soviets merely accepted it."
+  },
+  "options": [
+   "(A) Korean leaders chose the line themselves",
+   "(B) It was drawn for American administrative convenience, yet became a permanent border",
+   "(C) It followed an ancient Korean provincial boundary",
+   "(D) The Soviet Union proposed the 38th parallel"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u7-021",
+  "source_stimulus_words": 157,
+  "stem": "Two American officers chose the 38th parallel in 1945 using a National Geographic map. What does this reveal about Korea's division?",
+  "stimulus": "Paraphrase of a US Army account of Colonel Bonesteel's 1945 decision: Bonesteel needed a surrender line as far north as the Soviets would accept, knowing Russian troops could overrun the whole peninsula before Americans arrived from Okinawa, 600 miles away. He had to craft an arrangement the Russians would accept while keeping them from taking all of Korea. He chose the 38th parallel as the line dividing the zones where Japanese forces would surrender to American and Soviet authorities.",
+  "stimulus_words": 79,
+  "themes": [
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 7
+ }
+]

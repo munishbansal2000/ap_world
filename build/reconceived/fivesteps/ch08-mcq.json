@@ -1,0 +1,95 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "Supplying and transporting crusader armies enriched Italian maritime cities such as Venice and Genoa, whose merchants provisioned fleets and moved goods between Europe and the Levant. That commercial wealth concentrated in towns, and later generations of wealthy urban patrons funded Renaissance artists and scholars. (A) is wrong because gunpowder reached Europe through Mongol-era contacts with China, not the Crusades. (B) is wrong because the Crusades expanded Mediterranean commerce rather than destroying it. (D) is wrong because papal taxation did not impoverish the crusading enterprise into irrelevance; the economic stimulus to Italian cities is well documented.",
+  "id": "wh-fivesteps-u2-001",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Gunpowder technology came to Europe via Mongol-era transmission from China, not through crusader contact with the Middle East.",
+   "B": "Wrong. The Crusades stimulated Mediterranean trade rather than destroying it; Italian merchants thrived on crusader demand.",
+   "C": "Correct. Italian cities grew rich supplying crusader armies, and that accumulated urban wealth later patronized Renaissance culture.",
+   "D": "Wrong. Papal crusade taxes were a burden, but they did not bankrupt the enterprise or erase its economic stimulus to Italian commerce."
+  },
+  "options": [
+   "(A) Crusaders carried gunpowder technology back from the Middle East",
+   "(B) The Crusades destroyed Mediterranean commerce for a century",
+   "(C) Italian maritime cities grew wealthy provisioning crusader armies",
+   "(D) Papal taxation bankrupted the economies that launched the Crusades"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u2-005",
+  "source_stimulus_words": 0,
+  "stem": "Which economic change linked to the Crusades most directly helped create the urban wealth that later funded Renaissance culture?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 2
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "In cities such as Toledo, Christian, Muslim, and Jewish scholars worked side by side rendering Arabic translations of Greek philosophy, medicine, and astronomy into Latin, which carried classical learning into the rest of Europe. That collaborative translation effort is the mechanism behind the 'first Western Renaissance' label. (A) is wrong because Iberian society was not secularized; Islamic law and faith structured public life. (C) is wrong because the 1492 expulsions ended Muslim rule rather than characterizing it. (D) is wrong because a single imposed legal code would have hindered, not enabled, cross-cultural scholarly exchange.",
+  "id": "wh-fivesteps-u2-002",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Islamic Spain was not a secular society; Islamic faith and law organized public life.",
+   "B": "Correct. In translation centers such as Toledo, scholars of three faiths turned Arabic versions of Greek works into Latin, transmitting classical learning to Europe.",
+   "C": "Wrong. The 1492 expulsions marked the end of Muslim rule in Iberia, not a feature of the centuries of Islamic governance.",
+   "D": "Wrong. Scholarly transmission depended on cross-cultural collaboration, not on the imposition of one uniform legal code."
+  },
+  "options": [
+   "(A) The secularization of Iberian public life",
+   "(B) Translation centers where Christian, Muslim, and Jewish scholars rendered Arabic versions of Greek works into Latin",
+   "(C) The expulsion of Muslims and Jews in 1492",
+   "(D) The imposition of a single Islamic legal code across the peninsula"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u2-006",
+  "source_stimulus_words": 0,
+  "stem": "Which feature of Islamic Spain most directly enabled its role in transmitting classical learning to the rest of Europe?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 2
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Early voyages sought trade routes and goods; as Europeans learned what the new lands contained, states and settlers moved to seize territory itself — its farmland, mines, and labor — because controlling land and labor yielded greater and more secure returns than merely trading at coastal posts. (A) is wrong because missionary work accompanied rather than replaced commerce; both motives persisted. (C) is wrong because European states expanded, not abandoned, their overseas commitments. (D) is wrong because technology enabled colonization but did not make it unnecessary; the motive was economic and political control.",
+  "id": "wh-fivesteps-u2-003",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Religious conversion accompanied commerce throughout the early modern era; it did not replace trade as a motive.",
+   "B": "Correct. Europeans moved from seeking trade routes to seizing territory, labor, and resources for greater, more secure returns.",
+   "C": "Wrong. States expanded their overseas commitments across the early modern period rather than withdrawing after initial voyages.",
+   "D": "Wrong. New ships and navigational tools made colonization possible; they did not remove the economic motive for it."
+  },
+  "options": [
+   "(A) Religious conversion replaced commerce as the only motive for overseas activity",
+   "(B) The goal shifted from controlling trade routes to controlling land, labor, and resources",
+   "(C) European states withdrew from overseas activity once initial voyages were complete",
+   "(D) Technological advances eliminated the economic need for colonies"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u2-007",
+  "source_stimulus_words": 0,
+  "stem": "The shift from trading-post empires to large territorial colonies best illustrates which change in early modern European overseas activity?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 2
+ }
+]

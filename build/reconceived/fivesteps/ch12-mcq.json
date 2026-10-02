@@ -1,0 +1,158 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The scene depicts the two-way transfer of plants, animals, and goods between the Eastern and Western Hemispheres after 1492 — horses and wheat moving west, maize and turkeys moving east — which is the Columbian Exchange. (A) is wrong because the Middle Passage refers specifically to the shipment of enslaved Africans across the Atlantic, not this mixed cargo of animals and crops. (B) is wrong because the Triangular Trade names the three-legged Europe-Africa-Americas circuit, narrower than the full biological exchange shown. (C) is wrong because the mita was the Spanish colonial forced-labor draft in the Andes, not an oceanic exchange of species.",
+  "id": "wh-fivesteps-u4-001",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The Middle Passage was the Atlantic shipment of enslaved Africans, not this two-way transfer of animals and crops.",
+   "B": "Wrong. The Triangular Trade names the three-legged Europe-Africa-Americas commercial circuit, not the full exchange of species and goods.",
+   "C": "Wrong. The mita was the Spanish colonial forced-labor draft in the Andes, not an oceanic transfer.",
+   "D": "Correct. Horses and wheat moving west while maize and turkeys move east depict the Columbian Exchange of plants, animals, and goods."
+  },
+  "options": [
+   "(A) The Middle Passage",
+   "(B) The Triangular Trade",
+   "(C) The Mita System",
+   "(D) The Columbian Exchange"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-018",
+  "source_stimulus_words": 0,
+  "stem": "A sixteenth-century engraving shows a ship being unloaded in the Americas: horses are led ashore and sacks of wheat seed are carried off, while maize and turkeys are loaded aboard for the return voyage. Which would be the most appropriate caption for this image?",
+  "stimulus": "The engraving shows a ship anchored off an American shore. On deck, sailors lead horses down a ramp and carry sacks labeled as wheat seed toward the beach. Meanwhile, dockworkers load baskets of maize and crated turkeys onto the same vessel for its return crossing.",
+  "stimulus_words": 45,
+  "themes": [
+   "ECN",
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "On the Great Plains, the horse — an animal that could cover vast distances and run down bison — revolutionized hunting, warfare, and mobility, creating the mounted bison-hunting cultures of peoples such as the Lakota and Comanche. (A) is wrong because Pueblo peoples already practiced irrigation agriculture before European contact. (B) is wrong because Eastern Woodlands peoples did not become ocean fishers as a result of the horse. (D) is wrong because the horse's impact was uneven: it transformed mobile Plains life far more than it changed settled farming societies.",
+  "id": "wh-fivesteps-u4-002",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Pueblo peoples practiced irrigation agriculture long before European contact; the horse did not create it.",
+   "B": "Wrong. Eastern Woodlands societies did not take up ocean fishing because of the horse.",
+   "C": "Correct. Mounted bison hunting transformed Plains societies, giving them new mobility, food supplies, and military power.",
+   "D": "Wrong. The horse's impact was uneven — revolutionary for mobile Plains peoples, far less so for settled farming societies."
+  },
+  "options": [
+   "(A) Pueblo peoples, by introducing irrigation agriculture",
+   "(B) Eastern Woodlands peoples, by creating an ocean-fishing economy",
+   "(C) Great Plains peoples, by enabling mounted bison hunting",
+   "(D) All Native American societies equally, by ending agriculture"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-019",
+  "source_stimulus_words": 0,
+  "stem": "The adoption of the horse most transformed which Native American societies, and how?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ENV",
+   "TEC"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Potatoes produce far more calories per acre than wheat or rye and thrive in thin, cool soils where grain fails, so their spread let European families feed more children on small plots — a direct driver of population growth. (A) is wrong because the potato was a peasant staple, not an elite luxury. (C) is wrong because grain farming continued alongside potatoes; there was no sudden total replacement. (D) is wrong because the potato's demographic impact was greatest in northern and Atlantic Europe, not the Mediterranean.",
+  "id": "wh-fivesteps-u4-003",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The potato was a cheap peasant staple, not a luxury food reserved for elites.",
+   "B": "Correct. High calorie yields per acre on poor soils let families feed more people from small plots, driving population growth.",
+   "C": "Wrong. Grain farming continued; potatoes supplemented rather than instantly replacing all grain cultivation.",
+   "D": "Wrong. The potato's demographic impact was strongest in northern and Atlantic Europe, not the Mediterranean."
+  },
+  "options": [
+   "(A) It became a luxury food affordable only to elites",
+   "(B) It yielded more calories per acre than grain and grew in poor soils",
+   "(C) It immediately replaced all grain farming in Europe",
+   "(D) Its nutritional benefits were confined to the Mediterranean"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-020",
+  "source_stimulus_words": 0,
+  "stem": "The introduction of the potato from the Americas most directly contributed to European population growth for which reason?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ENV",
+   "ECN",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "medium",
+  "explanation": "Mercantilist governments directed trade to pile up bullion for the state — chartering monopolies, seizing colonies, and regulating commerce. Capitalist enterprise differed because private investors pooled their own money, as in joint-stock companies, and risked it for profit without the state owning the venture. (A) is wrong because state ownership of industry describes later socialist models, not mercantilism. (C) is wrong because both systems depended on overseas trade; the difference was who controlled it. (D) is wrong because the pursuit of private profit is the hallmark of capitalism, not something it banned.",
+  "id": "wh-fivesteps-u4-004",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. State ownership of all industry describes socialist models, not the mercantilist policies of early modern governments.",
+   "B": "Correct. Private investors risking their own pooled capital for profit, as in joint-stock companies, marks capitalist enterprise apart from state-directed trade.",
+   "C": "Wrong. Both mercantilism and early capitalism depended on overseas trade; the difference lay in who controlled and profited from it.",
+   "D": "Wrong. The pursuit of private profit is the defining feature of capitalism, not something it prohibited."
+  },
+  "options": [
+   "(A) The government owned all land, labor, and capital",
+   "(B) Private individuals pooled and risked their own capital for profit",
+   "(C) All overseas trade was abolished",
+   "(D) Private profit was banned by law"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-021",
+  "source_stimulus_words": 0,
+  "stem": "Which feature most clearly distinguishes the capitalist enterprises emerging in early modern Europe from the mercantilist policies of their governments?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "ECN",
+   "GOV"
+  ],
+  "type": "mcq",
+  "unit": 4
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "By 1750 Europeans traded regularly with the Americas, Africa, and Asia, but the South Pacific — Australia and its island neighbors — remained outside sustained global commerce; regular European contact and trade there came only in the late eighteenth century. (A) is wrong because the Indian Ocean hosted one of the world's busiest trade networks in this era. (B) is wrong because West Africa was deeply integrated into Atlantic commerce through the slave trade. (C) is wrong because the Mediterranean remained a major commercial crossroads.",
+  "id": "wh-fivesteps-u4-005",
+  "key": "D",
+  "option_explanations": {
+   "A": "Wrong. The Indian Ocean carried one of the busiest trade networks in the world during 1450-1750.",
+   "B": "Wrong. West Africa was deeply integrated into Atlantic commerce through the trade in enslaved people.",
+   "C": "Wrong. The Mediterranean remained a major commercial crossroads throughout the early modern period.",
+   "D": "Correct. The South Pacific stayed outside sustained global trade until regular European contact late in the eighteenth century."
+  },
+  "options": [
+   "(A) The Indian Ocean basin",
+   "(B) The West African coast",
+   "(C) The Mediterranean Sea",
+   "(D) The South Pacific"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u4-022",
+  "source_stimulus_words": 0,
+  "stem": "During 1450-1750, which major region remained least integrated into the emerging global trade networks?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 4
+ }
+]

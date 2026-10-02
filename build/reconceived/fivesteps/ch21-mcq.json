@@ -1,0 +1,126 @@
+[
+ {
+  "difficulty": "medium",
+  "explanation": "The USSR was an empire of over a hundred nationalities held together by force and ideology. Once glasnost loosened censorship and permitted open debate, Estonians, Latvians, Lithuanians, Ukrainians, and others revived long-buried independence movements that Moscow could no longer suppress — and the union dissolved republic by republic. (A) is wrong because the USSR was among the most ethnically diverse states on earth. (C) is wrong because nationalism pulled the republics outward, away from Moscow's control. (D) is wrong because the republics demanded sovereignty and separation, not tighter centralization.",
+  "id": "wh-fivesteps-u8-004",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The Soviet Union contained over a hundred nationalities; it was not ethnically homogeneous.",
+   "B": "Correct. Glasnost uncorked long-suppressed national movements across a multi-ethnic empire, and republics seceded one by one.",
+   "C": "Wrong. Nationalism weakened Moscow's grip; it did not strengthen central control.",
+   "D": "Wrong. The republics demanded sovereignty and independence, not greater centralization."
+  },
+  "options": [
+   "(A) The USSR was ethnically homogeneous",
+   "(B) Glasnost uncorked long-suppressed national movements across a multi-ethnic empire",
+   "(C) Nationalism strengthened Moscow's central control",
+   "(D) The republics demanded tighter centralization"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-004",
+  "source_stimulus_words": 0,
+  "stem": "In 1990-91, republic after republic declared sovereignty and the Soviet Union dissolved. Why did resurgent nationalism prove fatal to the USSR?",
+  "stimulus": "A timeline of 1988-1991 shows a cascade of sovereignty declarations: Estonia, Latvia, Lithuania, then Ukraine, Belarus, the Central Asian republics, and others — each asserting independence from Moscow in rapid succession.",
+  "stimulus_words": 31,
+  "themes": [
+   "GOV",
+   "CDI"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Ending price controls overnight let prices explode while wages and savings did not keep up; state enterprises collapsed and unemployment soared. Russian GDP fell by roughly half in the 1990s and ordinary households grew dramatically poorer. (A) is wrong because shock therapy produced immiseration, not instant prosperity. (B) is wrong because Russia's trade with the West expanded, not contracted, after 1991. (D) is wrong because the energy sector became more, not less, central to the Russian economy.",
+  "id": "wh-fivesteps-u8-005",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Shock therapy produced economic collapse and immiseration, not immediate prosperity.",
+   "B": "Wrong. Russia's trade with the West expanded after 1991; it did not decline.",
+   "C": "Correct. Price liberalization and enterprise collapse sent GDP and household incomes plunging through the 1990s.",
+   "D": "Wrong. Oil and gas became more central to Russia's economy, not less."
+  },
+  "options": [
+   "(A) Immediate widespread prosperity",
+   "(B) A sharp decline in trade with the West",
+   "(C) Collapsing GDP and sharply falling household incomes",
+   "(D) The shrinking of the energy sector"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-005",
+  "source_stimulus_words": 0,
+  "stem": "Russia's post-1991 'shock therapy' market reforms produced which immediate economic result?",
+  "stimulus": "A graph of Russian real GDP, 1991-1998, shows a steep, nearly uninterrupted decline — output falling by roughly half across the decade following the Soviet collapse.",
+  "stimulus_words": 26,
+  "themes": [
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Moscow first tried to hide the explosion, delaying evacuation and denying the severity — but radiation monitors in Sweden made the cover-up impossible. The lying exposed the system's instinct for secrecy and incompetence, discrediting official claims and feeding the glasnost-era demand for truthfulness. (A) is wrong because Chernobyl is in Ukraine, far from Moscow, which was never destroyed. (C) is wrong because there is no evidence of American sabotage; the cause was flawed reactor design and operator error. (D) is wrong because the disaster horrified the world about nuclear risks; it proved nothing about safety.",
+  "id": "wh-fivesteps-u8-006",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Chernobyl is in Ukraine, far from Moscow; the capital was never destroyed.",
+   "B": "Correct. The attempted cover-up exposed official dishonesty and incompetence, destroying trust in Soviet authority.",
+   "C": "Wrong. The explosion resulted from reactor design flaws and operator error, not foreign sabotage.",
+   "D": "Wrong. The disaster intensified global fears about nuclear power; it did not demonstrate its safety."
+  },
+  "options": [
+   "(A) It physically destroyed Moscow",
+   "(B) The attempted cover-up exposed official lying and incompetence",
+   "(C) It was revealed as American sabotage",
+   "(D) It proved nuclear power was entirely safe"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-006",
+  "source_stimulus_words": 0,
+  "stem": "Why did the 1986 Chernobyl disaster damage the Soviet government's legitimacy?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "TEC",
+   "ENV"
+  ],
+  "type": "mcq",
+  "unit": 8
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Japan's asset bubble burst in 1990-91, leaving banks holding mountains of bad loans; they stopped lending, and the economy stagnated for a decade. Russia's 1990s transition similarly produced insolvent banks, default, and frozen credit. In both cases a broken banking system choked off growth. (A) is wrong because Japan experienced deflation, not hyperinflation. (B) is wrong because neither crisis was fundamentally a foreign-debt crisis. (D) is wrong because ethnic conflict did not drive Japan's stagnation at all.",
+  "id": "wh-fivesteps-u8-007",
+  "key": "C",
+  "option_explanations": {
+   "A": "Wrong. Japan suffered deflation, not hyperinflation, during its Lost Decade.",
+   "B": "Wrong. Neither country's 1990s crisis was fundamentally driven by foreign debt.",
+   "C": "Correct. Bad debts left banks insolvent and unwilling to lend, freezing credit and growth in both countries.",
+   "D": "Wrong. Ethnic conflict played no role in Japan's economic stagnation."
+  },
+  "options": [
+   "(A) Hyperinflation in both countries",
+   "(B) Crippling foreign-debt crises in both countries",
+   "(C) Banking crises rooted in bad debts that froze lending and growth",
+   "(D) Ethnic conflicts that wrecked both economies"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u8-007",
+  "source_stimulus_words": 0,
+  "stem": "Japan's 'Lost Decade' of the 1990s and Russia's 1990s economic transition share which underlying problem?",
+  "stimulus": null,
+  "stimulus_words": 0,
+  "themes": [
+   "GOV",
+   "ECN"
+  ],
+  "type": "mcq",
+  "unit": 8
+ }
+]

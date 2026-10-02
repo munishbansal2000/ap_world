@@ -1,0 +1,130 @@
+[
+ {
+  "difficulty": "hard",
+  "explanation": "The Berlin Act wrapped the partition of Africa in humanitarian language — protecting native tribes, improving their moral and material welfare, suppressing slavery — while the powers' real business was dividing markets, mines, and strategic territory. The Congo Free State, personally owned by Leopold II, became the most notorious case of atrocity committed under that cover. (A) is wrong because the record of forced labor and mutilation in the Congo disproves sincere humanitarian priority. (C) is wrong because the Act regulated rather than banned colonial commerce. (D) is wrong because missionaries did not control the conference; diplomats dividing Africa did.",
+  "id": "wh-fivesteps-u6-001",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Forced labor and atrocities in the Congo disprove the claim that native welfare was the powers' real priority.",
+   "B": "Correct. Humanitarian pledges provided moral cover for the economic and strategic division of Africa.",
+   "C": "Wrong. The Berlin Act regulated colonial commerce and 'effective occupation'; it did not ban colonial trade.",
+   "D": "Wrong. The conference was run by diplomats dividing territory, not by missionaries setting policy."
+  },
+  "options": [
+   "(A) European powers sincerely made native welfare their top priority",
+   "(B) Humanitarian language served as moral cover for economic exploitation",
+   "(C) The Berlin Act banned all colonial trade in Africa",
+   "(D) Missionaries controlled the conference's decisions"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-005",
+  "source_stimulus_words": 102,
+  "stem": "The Berlin Act pledged to protect native peoples' welfare, yet the Congo Free State became a byword for atrocity. What does this gap best illustrate about New Imperialism?",
+  "stimulus": "Article VI of the 1885 Berlin Act bound the signatory powers to watch over the preservation of native tribes in their African territories and to care for the improvement of the tribes' moral and material well-being, including help in suppressing slavery. The powers further pledged to protect, without distinction of creed or nation, all religious, scientific, and charitable institutions organized to instruct the native population and advance these ends.",
+  "stimulus_words": 69,
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Livingstone's formula framed empire as a moral mission — ending slavery, spreading the gospel, opening 'legitimate' commerce — which made colonial ventures respectable to British voters, churches, and Parliament, securing the political support imperialism needed. (A) is wrong because the slave trade's suppression took decades of naval enforcement, not one man's slogan. (C) is wrong because the formula assumed European superiority and tutelage, not partnership. (D) is wrong because the 3 Cs justified European presence rather than opposing it.",
+  "id": "wh-fivesteps-u6-002",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. Suppressing the slave trade required decades of naval enforcement; a slogan alone did not accomplish it.",
+   "B": "Correct. Framing empire as Christian uplift and legitimate commerce won churches, voters, and Parliament to the imperial cause.",
+   "C": "Wrong. The formula assumed European moral superiority and tutelage, not equality or partnership with Africans.",
+   "D": "Wrong. The three Cs justified and encouraged European presence in Africa rather than opposing it."
+  },
+  "options": [
+   "(A) It single-handedly ended the African slave trade",
+   "(B) It portrayed colonization as moral uplift, winning domestic support for empire",
+   "(C) It established Africans as equal partners in colonial rule",
+   "(D) It opposed any European presence in Africa"
+  ],
+  "reasoning": "Comparison",
+  "skill": "Comparison",
+  "source_id": "fivesteps-u6-006",
+  "source_stimulus_words": 102,
+  "stem": "David Livingstone promoted 'Christianity, commerce, and civilization' as the cure for Africa's ills. How did this formula actually serve imperial expansion?",
+  "stimulus": "Article VI of the 1885 Berlin Act bound the signatory powers to watch over the preservation of native tribes in their African territories and to care for the improvement of the tribes' moral and material well-being, including help in suppressing slavery. The powers further pledged to protect, without distinction of creed or nation, all religious, scientific, and charitable institutions organized to instruct the native population and advance these ends.",
+  "stimulus_words": 69,
+  "themes": [
+   "GOV",
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "The line is sarcastic: the hero and heroine are fleeing the corrupt institutions of 'civilization' — its courts and lawmen — so being 'saved' from civilization's blessings means escaping into freedom. The irony is that the very institutions claiming to embody civilization can be corrupt and oppressive. (A) is wrong because the sarcasm undercuts any claim that civilization automatically brings freedom. (C) is wrong because the frontier in the film does have law — corrupt law, which is the point. (D) is wrong because the tone is plainly mocking, not praising.",
+  "id": "wh-fivesteps-u6-003",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The sarcasm undercuts the idea that civilization automatically delivers freedom.",
+   "B": "Correct. The fugitives flee corrupt courts and lawmen, so 'civilization' here means the oppressive institutions they are escaping.",
+   "C": "Wrong. The film's frontier does have law — corrupt law — which is exactly what the characters flee.",
+   "D": "Wrong. The line is spoken sarcastically; the character is mocking the law, not praising it."
+  },
+  "options": [
+   "(A) Civilization always brings genuine freedom",
+   "(B) Institutions claiming to embody civilization can themselves be corrupt and oppressive",
+   "(C) The frontier had no law or institutions at all",
+   "(D) The character sincerely praises the blessings of the legal system"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-007",
+  "source_stimulus_words": 102,
+  "stem": "In a 1939 film set in 1885, a character says the hero and heroine are 'saved from the blessings of civilization' as they flee the reach of corrupt lawmen. What irony does this sarcastic usage highlight?",
+  "stimulus": "In John Ford's 1939 Western Stagecoach, a stagecoach crosses dangerous Apache territory carrying a mixed group of passengers: a drunken doctor, a gambler, a prostitute, a timid whiskey salesman, and a proper banker's wife. The outlaw Ringo Kid joins them, seeking revenge on the men who framed him. The film's last line, spoken as the hero and heroine ride beyond the reach of the town's corrupt sheriff and respectable hypocrites: 'Well -- they're saved from the blessings of civilization.'",
+  "stimulus_words": 79,
+  "themes": [
+   "CDI",
+   "GOV",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ },
+ {
+  "difficulty": "hard",
+  "explanation": "Leopold II ran the Congo as his personal property, using the Force Publique to terrorize villagers into harvesting rubber under quotas enforced by whipping and mutilation. For the Congolese, his rule meant the annihilation of freedom, not its growth. (A) is wrong because the cartoon shows oppression, not expanding liberty. (C) is wrong because the image depicts successful domination, not a rebellion overcoming it. (D) is wrong because the cartoon shows imperialism at its most brutal height, not its end.",
+  "id": "wh-fivesteps-u6-004",
+  "key": "B",
+  "option_explanations": {
+   "A": "Wrong. The cartoon depicts whips and forced labor — the destruction of freedom, not its growth.",
+   "B": "Correct. Leopold's personal rule used terror to enforce rubber quotas, extinguishing Congolese freedom.",
+   "C": "Wrong. The image shows domination succeeding, not a native rebellion overcoming it.",
+   "D": "Wrong. The cartoon shows imperialism at its most brutal, not its collapse."
+  },
+  "options": [
+   "(A) The Growth of Freedom in Africa",
+   "(B) The Death of Freedom in the Congo",
+   "(C) The Triumph of Native Rebellion",
+   "(D) The End of Western Imperialism"
+  ],
+  "reasoning": "Causation",
+  "skill": "Causation",
+  "source_id": "fivesteps-u6-008",
+  "source_stimulus_words": 0,
+  "stem": "A political cartoon shows King Leopold II of Belgium draped in rubber vines, cracking a whip over Congolese laborers harvesting rubber under armed guard. Which caption fits best?",
+  "stimulus": "The cartoon depicts King Leopold II of Belgium enthroned amid coils of rubber vines. Below him, Congolese laborers tap rubber trees while armed guards stand watch, and the king cracks a whip over the scene.",
+  "stimulus_words": 35,
+  "themes": [
+   "GOV",
+   "CDI",
+   "SIO"
+  ],
+  "type": "mcq",
+  "unit": 6
+ }
+]
