@@ -26,12 +26,11 @@ Gates:
   LENGTHTELL-RPT report % of items where the longest option is the key
                (report-only; the repo has no stated bar)
   ORPHAN-JSON  every build JSON is classified: BANK / SOURCE (merged into the
-               bank) / FRQ-BANK / TEST / STAGED (visual-backfill, merge
-               decision pending with Munish) / RAW-STAGING (reclaim-staged) /
+               bank) / FRQ-BANK / RAW-STAGING (reclaim-staged) /
                REFERENCE (released-cb); anything else fails
-  SOURCE-MERGED every reconceived/fresh-written item id exists in the bank
-               and every bank id exists in a source layer (the backfill is
-               explicitly NOT merged yet)
+  SOURCE-MERGED every source item id (reconceived, fresh-written,
+               visual-backfill) exists in the bank and every bank id exists
+               in a source layer
   SAQ-FORMAT   60 sets, Q1 secondary / Q2 primary / Q3 non-text, parts a-c,
                sample answers present
   DBQ-FORMAT   10 DBQs, 7 documents each, topic within the 1200-2001 range
@@ -404,10 +403,11 @@ UNIT_THEMES_MIN = 3
 
 def finished_items():
     """Full-schema MCQ items from finished layers: bank, reconceived,
-    fresh-written, visual-backfill (staged). Yields (layer, path, item)."""
+    fresh-written, visual-backfill (all merged into the bank). Yields
+    (layer, path, item)."""
     for label, path in iter_mcq_files():
         layer = "bank" if "/build/bank/" in path else "source" \
-            if label in ("reconceived", "fresh") else "staged"
+            if label in ("reconceived", "fresh", "backfill") else "staged"
         for it in load_items(path):
             if looks_like_mcq(it):
                 yield layer, path, it
@@ -522,7 +522,7 @@ ORPHAN_CLASSES = [
     ("BANK", "build/bank/"),
     ("SOURCE", "build/reconceived/"),
     ("SOURCE", "build/fresh-written/"),
-    ("STAGED", "build/visual-backfill/"),
+    ("SOURCE", "build/visual-backfill/"),
     ("RAW-STAGING", "build/reclaim-staged/"),
     ("FRQ-BANK", "build/frq-remapped/"),
     ("TEST", "build/tests/test-"),
@@ -564,8 +564,8 @@ def check_orphans():
 
 
 def check_source_merged():
-    # explicit pass: bank ids vs source (reconceived+fresh-written) ids
-    bank_ids, src_ids, staged_ids = set(), set(), set()
+    # explicit pass: bank ids vs source (reconceived+fresh-written+backfill) ids
+    bank_ids, src_ids = set(), set()
     for layer, path, it in finished_items():
         iid = it.get("id")
         if not iid:
@@ -574,19 +574,11 @@ def check_source_merged():
             bank_ids.add(iid)
         elif layer == "source":
             src_ids.add(iid)
-        else:
-            staged_ids.add(iid)
     for iid in sorted(src_ids - bank_ids):
         fail("SOURCE-MERGED", f"source item {iid} not merged into the bank")
     for iid in sorted(bank_ids - src_ids):
         fail("SOURCE-MERGED", f"bank item {iid} has no source-layer item")
-    overlap = bank_ids & staged_ids
-    if overlap:
-        fail("SOURCE-MERGED",
-             f"staged backfill ids already in bank (merge happened?): "
-             f"{sorted(overlap)[:5]}")
-    print(f"source-merge: bank {len(bank_ids)}, source {len(src_ids)}, "
-          f"staged(backfill) {len(staged_ids)}, backfill-in-bank {len(overlap)}")
+    print(f"source-merge: bank {len(bank_ids)}, source {len(src_ids)}")
 
 
 # ------------------------------------------------------------ link integrity
